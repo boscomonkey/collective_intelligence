@@ -8,7 +8,8 @@ require 'rexml/document'
 #
 module CreatePosts
 
-  # Convert array of popular hashes into files
+  # Serialize array of popular hashes into files so that the code can work
+  # offline.
   #
   def popular_posts(populars)
     populars.each {|h|
