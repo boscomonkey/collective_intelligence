@@ -32,7 +32,7 @@ module CreatePosts
   end
   
   def get_urlpost_fname(urlcode)
-  "data/urlposts.#{urlcode}.xml"
+  "offline/urlposts.#{urlcode}.xml"
   end
   
   def get_old_urlpost_fname(urlcode)

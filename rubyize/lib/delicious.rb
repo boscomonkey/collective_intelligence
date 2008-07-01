@@ -2,6 +2,9 @@
 
 require 'net/http'
 require 'rexml/document'
+require 'digest/md5'
+
+require 'create_posts'
 
 module Delicious
   include CreatePosts
@@ -34,6 +37,15 @@ module Delicious
     urlposts
   end
   
+  # Parse a list of users from an urlposts XML stream
+  #
+  def urlposts_parse_users(response)
+    doc = REXML::Document.new(response)
+    doc.elements.collect("//item") { |item|
+      item.elements["dc:creator"].text
+    }
+  end
+  
   # Return, from file system, all the info associated with an URL
   #
   def urlposts_url_file(url)
@@ -53,7 +65,7 @@ module Delicious
   # Returns an XML stream from a file specified by the tag
   #
   def popular_file_stream(tag)
-    fname = "data/popular.#{tag}.xml"
+    fname = "offline/popular.#{tag}.xml"
     File.open fname
   end
   
