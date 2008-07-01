@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411">
+<title>del.icio.us bookmarks for http://blogs.smugmug.com/don/2008/06/23/smugvault-store-everything-for-next-to-nothing/</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#archival.tv" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#fidler12" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sharetactics" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jurquhart" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jasommers" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#eirepreneur" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nicoladagostino" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#AndyDavies" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#grb" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#b.lake" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sarchi" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#JeremyT" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nealcamp" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#arnaudsj" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#xtme" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#toddctp" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#inichol" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#groovin" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#julan" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#brandonthebuck" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Ragnell" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rich.phelps" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#coolkarthik88" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rickm099" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Steveswrong" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Skyle" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#spullara" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#insomniac" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#theInfovore" />
+  <rdf:li rdf:resource="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jdetke" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#archival.tv">
+<title>[from archival.tv] SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#archival.tv</link>
+<description></description>
+<dc:creator>archival.tv</dc:creator>
+<dc:date>2008-06-25T15:39:26Z</dc:date>
+<dc:subject>backup hosting s3 storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#fidler12">
+<title>[from fidler12] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#fidler12</link>
+<description></description>
+<dc:creator>fidler12</dc:creator>
+<dc:date>2008-06-24T23:49:37Z</dc:date>
+<dc:subject>amazon aws backup hosting online photography photos s3 space storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sharetactics">
+<title>[from sharetactics] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sharetactics</link>
+<description></description>
+<dc:creator>sharetactics</dc:creator>
+<dc:date>2008-06-24T20:05:49Z</dc:date>
+<dc:subject>polddmkc spwaa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spwaa" />
+    <rdf:li resource="http://del.icio.us/tag/polddmkc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jurquhart">
+<title>[from jurquhart] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jurquhart</link>
+<description>SmugMug (great company) offers a simplistic content repository as a cloud service, using S3 (I am assuming) and DevPay.  I'll be watching this one.  (Any chance you used Alfresco, Don?)</description>
+<dc:creator>jurquhart</dc:creator>
+<dc:date>2008-06-24T18:33:15Z</dc:date>
+<dc:subject>amazon backup cloudcomputing devpay ecm s3 smugmug storage web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecm" />
+    <rdf:li resource="http://del.icio.us/tag/cloudcomputing" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/devpay" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jasommers">
+<title>[from jasommers] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jasommers</link>
+<description></description>
+<dc:creator>jasommers</dc:creator>
+<dc:date>2008-06-24T14:52:59Z</dc:date>
+<dc:subject>amazon aws backup photography photos s3 storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#eirepreneur">
+<title>[from eirepreneur] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#eirepreneur</link>
+<description></description>
+<dc:creator>eirepreneur</dc:creator>
+<dc:date>2008-06-24T09:12:32Z</dc:date>
+<dc:subject>backup disk space storage unlimited</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unlimited" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nicoladagostino">
+<title>[from nicoladagostino] SmugBlog: Don MacAskill &#xBB; SmugVault (http://www.smugmug.com/price/smugvault.mg) - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nicoladagostino</link>
+<description>all the RAW, PSD, BMP, and TIFF files [but also] we&#x2019;ll accept XMP sidecars, PDF files, Word docs, Excel spreadsheets, video archives, and anything else you might want to store with your photos [and] we&#x2019;ll bundle your files together for easy, intuitive</description>
+<dc:creator>nicoladagostino</dc:creator>
+<dc:date>2008-06-24T08:27:42Z</dc:date>
+<dc:subject>fotografia hosting mytech servizio spunti tc web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fotografia" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/servizio" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/spunti" />
+    <rdf:li resource="http://del.icio.us/tag/tc" />
+    <rdf:li resource="http://del.icio.us/tag/mytech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#AndyDavies">
+<title>[from AndyDavies] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#AndyDavies</link>
+<description></description>
+<dc:creator>AndyDavies</dc:creator>
+<dc:date>2008-06-24T07:59:46Z</dc:date>
+<dc:subject>aws backup s3 storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#grb">
+<title>[from grb] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.  June 23 2008</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#grb</link>
+<description></description>
+<dc:creator>grb</dc:creator>
+<dc:date>2008-06-24T06:23:53Z</dc:date>
+<dc:subject>corporatewebsite smugvault webfilestorage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/corporatewebsite" />
+    <rdf:li resource="http://del.icio.us/tag/webfilestorage" />
+    <rdf:li resource="http://del.icio.us/tag/smugvault" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#b.lake">
+<title>[from b.lake] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#b.lake</link>
+<description></description>
+<dc:creator>b.lake</dc:creator>
+<dc:date>2008-06-24T05:50:39Z</dc:date>
+<dc:subject>storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sarchi">
+<title>[from sarchi] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#sarchi</link>
+<description></description>
+<dc:creator>sarchi</dc:creator>
+<dc:date>2008-06-24T05:22:37Z</dc:date>
+<dc:subject>online photography photos services storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/services" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#JeremyT">
+<title>[from JeremyT] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#JeremyT</link>
+<description>Backup solution for RAW (camera) files</description>
+<dc:creator>JeremyT</dc:creator>
+<dc:date>2008-06-24T04:25:43Z</dc:date>
+<dc:subject>amazon.com backup photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon.com" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nealcamp">
+<title>[from nealcamp] SmugBlog: Don MacAskill  &#xBB; Blog Archive   &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#nealcamp</link>
+<description></description>
+<dc:creator>nealcamp</dc:creator>
+<dc:date>2008-06-24T04:17:52Z</dc:date>
+<dc:subject>amazon photos s3 storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#arnaudsj">
+<title>[from arnaudsj] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#arnaudsj</link>
+<description>Great news!</description>
+<dc:creator>arnaudsj</dc:creator>
+<dc:date>2008-06-24T02:17:04Z</dc:date>
+<dc:subject>amazon photography photos s3 smugmug smugvault storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/smugvault" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#xtme">
+<title>[from xtme] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#xtme</link>
+<description></description>
+<dc:creator>xtme</dc:creator>
+<dc:date>2008-06-24T01:48:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#toddctp">
+<title>[from toddctp] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#toddctp</link>
+<description></description>
+<dc:creator>toddctp</dc:creator>
+<dc:date>2008-06-24T01:35:51Z</dc:date>
+<dc:subject>services</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/services" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#inichol">
+<title>[from inichol] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#inichol</link>
+<description></description>
+<dc:creator>inichol</dc:creator>
+<dc:date>2008-06-24T01:13:04Z</dc:date>
+<dc:subject>!!totry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/!!totry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#groovin">
+<title>[from groovin] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#groovin</link>
+<description></description>
+<dc:creator>groovin</dc:creator>
+<dc:date>2008-06-24T00:44:01Z</dc:date>
+<dc:subject>photography storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#julan">
+<title>[from julan] SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#julan</link>
+<description></description>
+<dc:creator>julan</dc:creator>
+<dc:date>2008-06-23T23:56:36Z</dc:date>
+<dc:subject>amazon aws backup photography photos s3 smugmug storage tools twipideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/twipideas" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#brandonthebuck">
+<title>[from brandonthebuck] SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#brandonthebuck</link>
+<description></description>
+<dc:creator>brandonthebuck</dc:creator>
+<dc:date>2008-06-23T23:53:23Z</dc:date>
+<dc:subject>backup photography photos storage tools twimideas twip twipideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/twip" />
+    <rdf:li resource="http://del.icio.us/tag/twipideas" />
+    <rdf:li resource="http://del.icio.us/tag/twimideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Ragnell">
+<title>[from Ragnell] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Ragnell</link>
+<description></description>
+<dc:creator>Ragnell</dc:creator>
+<dc:date>2008-06-23T23:31:49Z</dc:date>
+<dc:subject>backup photos storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rich.phelps">
+<title>[from rich.phelps] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rich.phelps</link>
+<description></description>
+<dc:creator>rich.phelps</dc:creator>
+<dc:date>2008-06-23T23:28:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#coolkarthik88">
+<title>[from coolkarthik88] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#coolkarthik88</link>
+<description></description>
+<dc:creator>coolkarthik88</dc:creator>
+<dc:date>2008-06-23T23:08:35Z</dc:date>
+<dc:subject>amazon aws photography photos s3 smugmug storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rickm099">
+<title>[from rickm099] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#rickm099</link>
+<description></description>
+<dc:creator>rickm099</dc:creator>
+<dc:date>2008-06-23T22:42:57Z</dc:date>
+<dc:subject>explore new photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/explore" />
+    <rdf:li resource="http://del.icio.us/tag/new" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Steveswrong">
+<title>[from Steveswrong] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Steveswrong</link>
+<description></description>
+<dc:creator>Steveswrong</dc:creator>
+<dc:date>2008-06-23T22:41:07Z</dc:date>
+<dc:subject>amazon aws photography photos s3 smugmug storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Skyle">
+<title>[from Skyle] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#Skyle</link>
+<description></description>
+<dc:creator>Skyle</dc:creator>
+<dc:date>2008-06-23T22:31:25Z</dc:date>
+<dc:subject>amazon aws businessmodel hdmonetization s3 sd38 storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/businessmodel" />
+    <rdf:li resource="http://del.icio.us/tag/sd38" />
+    <rdf:li resource="http://del.icio.us/tag/hdmonetization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#spullara">
+<title>[from spullara] SmugBlog: Don MacAskill  &#xBB; Blog Archive   &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#spullara</link>
+<description>I'm sorry but the prices on S3 are way too high for consumers to store their HD content.</description>
+<dc:creator>spullara</dc:creator>
+<dc:date>2008-06-23T22:30:39Z</dc:date>
+<dc:subject>amazon s3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#insomniac">
+<title>[from insomniac] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#insomniac</link>
+<description>&#x26;quot;You&#x2019;ll see just the single perfect photo on your SmugMug site, but with a single click, you have access to every component you&#x2019;ve associated with it.&#x26;quot;</description>
+<dc:creator>insomniac</dc:creator>
+<dc:date>2008-06-23T22:27:42Z</dc:date>
+<dc:subject>amazon brilliant photos smugmug</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/brilliant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#theInfovore">
+<title>[from theInfovore] SmugBlog: SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#theInfovore</link>
+<description></description>
+<dc:creator>theInfovore</dc:creator>
+<dc:date>2008-06-23T22:06:24Z</dc:date>
+<dc:subject>photos storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jdetke">
+<title>[from jdetke] SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SmugVault - Store everything for next to nothing.</title>
+<link>http://del.icio.us/url/5faefd6b03352c8e4d567f123069a411#jdetke</link>
+<description></description>
+<dc:creator>jdetke</dc:creator>
+<dc:date>2008-06-23T21:38:40Z</dc:date>
+<dc:subject>inbox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inbox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

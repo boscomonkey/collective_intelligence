@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3">
+<title>del.icio.us bookmarks for http://billwscott.com/jiffyext/</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#web20LinkSammler" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#jameswragg" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stefanot" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sleepbotzz" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#tgkzkzk" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#robdimarco" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stumsky" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gomaxfire" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#WTHNK" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#chemix" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#alanburke" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#masukomi" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#keonthae" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Youssss" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#zelph" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#xtra" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#thoas" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#dansk13" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wilcolley" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#emielvl" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Funktastique" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mmkassem" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mornlee" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gvenk" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sjestadt" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#OoSleePinG" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wvl" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#strzh" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#listenpro" />
+  <rdf:li rdf:resource="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#homoludens" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#web20LinkSammler">
+<title>[from web20LinkSammler] Jiffy Firefox Extension</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#web20LinkSammler</link>
+<description>The library provides a simple way to insert and capture time measurements in your Javascript code and save them to a backend service for later analysis.</description>
+<dc:creator>web20LinkSammler</dc:creator>
+<dc:date>2008-06-26T09:48:58Z</dc:date>
+<dc:subject>firefox javascript performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#jameswragg">
+<title>[from jameswragg] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#jameswragg</link>
+<description>Javascript profiling and measurements</description>
+<dc:creator>jameswragg</dc:creator>
+<dc:date>2008-06-26T09:33:14Z</dc:date>
+<dc:subject>bnm extension firebug firefox javascript performance plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/bnm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stefanot">
+<title>[from stefanot] New Link 345</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stefanot</link>
+<description></description>
+<dc:creator>stefanot</dc:creator>
+<dc:date>2008-06-26T07:06:53Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sleepbotzz">
+<title>[from sleepbotzz] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sleepbotzz</link>
+<description></description>
+<dc:creator>sleepbotzz</dc:creator>
+<dc:date>2008-06-26T06:39:30Z</dc:date>
+<dc:subject>firebug performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#tgkzkzk">
+<title>[from tgkzkzk] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#tgkzkzk</link>
+<description></description>
+<dc:creator>tgkzkzk</dc:creator>
+<dc:date>2008-06-26T04:05:08Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#robdimarco">
+<title>[from robdimarco] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#robdimarco</link>
+<description></description>
+<dc:creator>robdimarco</dc:creator>
+<dc:date>2008-06-26T03:14:40Z</dc:date>
+<dc:subject>extension firebug firefox javascript performance plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stumsky">
+<title>[from stumsky] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#stumsky</link>
+<description>Firebug&#x306B;&#x30D1;&#x30D5;&#x30A9;&#x30FC;&#x30DE;&#x30F3;&#x30B9;&#x3092;&#x6E2C;&#x308B;&#x6A5F;&#x80FD;&#x3092;&#x3064;&#x3051;&#x3089;&#x308C;&#x308B;&#x30A8;&#x30AF;&#x30B9;&#x30C6;&#x30F3;&#x30B7;&#x30E7;&#x30F3;&#x3060;&#x3002;
+
+&#x3053;&#x308C;&#x3092;&#x4F7F;&#x3048;&#x3070;&#x3001;&#x30ED;&#x30FC;&#x30C9;&#x3084;Ajax&#x306E;&#x30EC;&#x30B9;&#x30DD;&#x30F3;&#x30B9;&#x306A;&#x3069;&#x3001;&#x8A73;&#x7D30;&#x306A;&#x30D1;&#x30D5;&#x30A9;&#x30FC;&#x30DE;&#x30F3;&#x30B9;&#x30BF;&#x30A4;&#x30E0;&#x3092;&#x8A08;&#x6E2C;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x308B;&#x3002;
+&#x30B5;&#x30A4;&#x30C8;&#x3092;&#x8EFD;&#x304F;</description>
+<dc:creator>stumsky</dc:creator>
+<dc:date>2008-06-26T02:27:31Z</dc:date>
+<dc:subject>ajax analysis debug extension firefox javascript performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gomaxfire">
+<title>[from gomaxfire] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gomaxfire</link>
+<description></description>
+<dc:creator>gomaxfire</dc:creator>
+<dc:date>2008-06-25T17:41:10Z</dc:date>
+<dc:subject>extension firebug</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#WTHNK">
+<title>[from WTHNK] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#WTHNK</link>
+<description></description>
+<dc:creator>WTHNK</dc:creator>
+<dc:date>2008-06-25T16:53:03Z</dc:date>
+<dc:subject>extension firebug firefox javascript performance plugin software webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#chemix">
+<title>[from chemix] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#chemix</link>
+<description></description>
+<dc:creator>chemix</dc:creator>
+<dc:date>2008-06-25T15:05:25Z</dc:date>
+<dc:subject>extension firebug firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#alanburke">
+<title>[from alanburke] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#alanburke</link>
+<description></description>
+<dc:creator>alanburke</dc:creator>
+<dc:date>2008-06-25T14:16:19Z</dc:date>
+<dc:subject>ajax firebug firefox javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#masukomi">
+<title>[from masukomi] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#masukomi</link>
+<description></description>
+<dc:creator>masukomi</dc:creator>
+<dc:date>2008-06-25T13:58:23Z</dc:date>
+<dc:subject>extension firefox javascript useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#keonthae">
+<title>[from keonthae] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#keonthae</link>
+<description>&#x30ED;&#x30FC;&#x30C9;&#x3084;Ajax&#x306E;&#x30EC;&#x30B9;&#x30DD;&#x30F3;&#x30B9;&#x306A;&#x3069;&#x3001;&#x8A73;&#x7D30;&#x306A;&#x30D1;&#x30D5;&#x30A9;&#x30FC;&#x30DE;&#x30F3;&#x30B9;&#x30BF;&#x30A4;&#x30E0;&#x3092;&#x8A08;&#x6E2C;&#x3059;&#x308B;&#x3053;&#x3068;&#x304C;&#x3067;&#x304D;&#x308B;</description>
+<dc:creator>keonthae</dc:creator>
+<dc:date>2008-06-25T13:53:10Z</dc:date>
+<dc:subject>extension firebug firefox performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Youssss">
+<title>[from Youssss] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Youssss</link>
+<description></description>
+<dc:creator>Youssss</dc:creator>
+<dc:date>2008-06-25T13:48:03Z</dc:date>
+<dc:subject>addon extension firebug firefox performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#zelph">
+<title>[from zelph] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#zelph</link>
+<description></description>
+<dc:creator>zelph</dc:creator>
+<dc:date>2008-06-25T13:19:59Z</dc:date>
+<dc:subject>debugging development firebug firefox javascript optimization performance plugins</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#xtra">
+<title>[from xtra] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#xtra</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-25T12:21:45Z</dc:date>
+<dc:subject>extension firebug firefox javascript performance plugin webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#thoas">
+<title>[from thoas] Jiffy Firefox Extension</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#thoas</link>
+<description>View duration in firebug extension for firefox</description>
+<dc:creator>thoas</dc:creator>
+<dc:date>2008-06-25T09:37:04Z</dc:date>
+<dc:subject>benchmark development extension firebug firefox opensource performance plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#dansk13">
+<title>[from dansk13] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#dansk13</link>
+<description></description>
+<dc:creator>dansk13</dc:creator>
+<dc:date>2008-06-25T09:26:33Z</dc:date>
+<dc:subject>ajax development firebug firefox javascript performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wilcolley">
+<title>[from wilcolley] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wilcolley</link>
+<description></description>
+<dc:creator>wilcolley</dc:creator>
+<dc:date>2008-06-25T09:10:07Z</dc:date>
+<dc:subject>firebug webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#emielvl">
+<title>[from emielvl] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#emielvl</link>
+<description></description>
+<dc:creator>emielvl</dc:creator>
+<dc:date>2008-06-25T07:51:18Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Funktastique">
+<title>[from Funktastique] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#Funktastique</link>
+<description></description>
+<dc:creator>Funktastique</dc:creator>
+<dc:date>2008-06-25T07:33:49Z</dc:date>
+<dc:subject>dev_web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dev_web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mmkassem">
+<title>[from mmkassem] Jiffy Firebug Extension for Firefox</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mmkassem</link>
+<description>It adds an additional panel to Firebug that provides a visual view of the Javascript time measurements captured by Jiffy-Web.</description>
+<dc:creator>mmkassem</dc:creator>
+<dc:date>2008-06-25T07:27:29Z</dc:date>
+<dc:subject>extension firebug firefox javascript jitty opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/jitty" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mornlee">
+<title>[from mornlee] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#mornlee</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-06-25T06:52:56Z</dc:date>
+<dc:subject>extension firebug firefox performance plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gvenk">
+<title>[from gvenk] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#gvenk</link>
+<description>The Jiffy Firefox Extension is written Bill Scott of Netflix. It adds an additional panel to Firebug that provides a visual view of the Javascript time measurements captured by Jiffy-Web. The extension is available under Creative Commons license.</description>
+<dc:creator>gvenk</dc:creator>
+<dc:date>2008-06-25T06:46:22Z</dc:date>
+<dc:subject>browsers debugging development firebug firefox performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browsers" />
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sjestadt">
+<title>[from sjestadt] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#sjestadt</link>
+<description></description>
+<dc:creator>sjestadt</dc:creator>
+<dc:date>2008-06-25T06:06:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#OoSleePinG">
+<title>[from OoSleePinG] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#OoSleePinG</link>
+<description></description>
+<dc:creator>OoSleePinG</dc:creator>
+<dc:date>2008-06-25T03:51:14Z</dc:date>
+<dc:subject>debug firebug firefox optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wvl">
+<title>[from wvl] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#wvl</link>
+<description></description>
+<dc:creator>wvl</dc:creator>
+<dc:date>2008-06-25T03:20:38Z</dc:date>
+<dc:subject>firebug javascript performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#strzh">
+<title>[from strzh] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#strzh</link>
+<description>js</description>
+<dc:creator>strzh</dc:creator>
+<dc:date>2008-06-25T02:59:11Z</dc:date>
+<dc:subject>speed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/speed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#listenpro">
+<title>[from listenpro] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#listenpro</link>
+<description></description>
+<dc:creator>listenpro</dc:creator>
+<dc:date>2008-06-25T02:21:34Z</dc:date>
+<dc:subject>debug tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#homoludens">
+<title>[from homoludens] Jiffy Firefox Extension - Documentation</title>
+<link>http://del.icio.us/url/819ca646b763f8c4ae077cbea78430d3#homoludens</link>
+<description></description>
+<dc:creator>homoludens</dc:creator>
+<dc:date>2008-06-24T23:48:58Z</dc:date>
+<dc:subject>firebug firefox javascript performance plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>
