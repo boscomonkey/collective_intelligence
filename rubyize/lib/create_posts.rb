@@ -11,7 +11,7 @@ module CreatePosts
   # Serialize array of popular hashes into files so that the code can work
   # offline.
   #
-  def popular_posts(populars)
+  def serialize_posts(populars)
     populars.each {|h|
       link = h['link']
       urlcode = Digest::MD5.hexdigest link
