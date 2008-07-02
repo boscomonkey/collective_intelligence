@@ -4,8 +4,6 @@ require 'net/http'
 require 'rexml/document'
 require 'digest/md5'
 
-require 'create_posts'
-
 module Delicious
   include CreatePosts
   
@@ -49,17 +47,30 @@ module Delicious
   # Return, from file system, all the info associated with an URL
   #
   def urlposts_url_file(url)
-    urlcode = Digest::MD5.hexdigest url
-    fname = get_urlpost_fname urlcode
+    urlcode = md5_digest url
+    fname = urlpost_offline_fname urlcode
     File.open fname
   end
   
   # Return, from querying del.icio.us, all the info associated with an URL
   #
   def urlposts_url_stream(url)
-    urlcode = Digest::MD5.hexdigest url
+    urlcode = md5_digest url
     urlhash = "http://feeds.delicious.com/rss/url/#{urlcode}"
     Net::HTTP.get_response(URI.parse(urlhash)).body
+  end
+  
+  # Return the MD5 digest of "str"
+  #
+  def md5_digest str
+    Digest::MD5.hexdigest str
+  end
+  
+  # Return the filename containing the XML stream corresponding to "urlcode".
+  # Where "urlcode" is the result of calling md5_digest on an URL.
+  #
+  def urlpost_offline_fname(urlcode)
+    "offline/urlposts.#{urlcode}.xml"
   end
   
   # Returns an XML stream from a file specified by the tag
