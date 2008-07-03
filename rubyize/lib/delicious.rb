@@ -5,7 +5,6 @@ require 'rexml/document'
 require 'digest/md5'
 
 module Delicious
-  include CreatePosts
   
   
   # Returns an array of hashes corresponding to each popular del.icio.us post
@@ -87,6 +86,29 @@ module Delicious
     Net::HTTP.get_response(URI.parse(url)).body
   end
   
+  # Map Popular field names to element attribute names in the XML stream
+  #
+  FieldNames = {
+    :href=>"link",
+    :hash=>nil,
+    :count=>nil,
+    :user=>"creator",
+    :dt=>"date",
+    :extended=>nil,
+    :description=>"title",
+    :tags=>"subject"
+  }
+  
+  # Structure that holds the fields for a del.icio.us popular post
+  #
+  Popular = Struct.new *(FieldNames.keys)
+  
+  # Reverse map element attribute names in the XML stream to PopularStruc
+  # field name
+  #
+  AttribNames = {}
+  FieldNames.each_pair {|k, v| AttribNames[v] = k}
+  
   # Parses a del.icio.us popular stream into an array of hashes where
   # the keys of each hash are "creator", "title", "date", "subject",
   # "link"
@@ -95,9 +117,12 @@ module Delicious
     doc = REXML::Document.new stream
     
     doc.elements.collect('//item') {|item|
-      tbl = Hash.new
-      item.elements.each {|e| tbl[e.name] = e.text }
-      tbl
+      struc = Popular.new
+      item.elements.each {|attrib|
+        nom = attrib.name
+        struc[AttribNames[nom]] = attrib.text if AttribNames.include?(nom)
+      }
+      struc
     }
   end
   
