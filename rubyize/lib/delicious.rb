@@ -11,9 +11,9 @@ module Delicious
   #
   def get_popular(tag='')
     begin
-      parse_popular popular_url_stream(tag)
+      extract_entries popular_url_stream(tag)
     rescue SocketError
-      parse_popular popular_file_stream(tag)
+      extract_entries popular_file_stream(tag)
     end
   end
   
@@ -21,26 +21,10 @@ module Delicious
   #
   def get_urlposts(url)
     begin
-      response = urlposts_url_stream url
+      extract_entries urlposts_url_stream(url)
     rescue SocketError
-      response = urlposts_url_file url
+      extract_entries urlposts_url_file(url)
     end
-    
-    urlposts = []
-    doc = REXML::Document.new(response)
-    doc.elements.each("//item") { |item|
-      urlposts << item.elements["dc:creator"].text
-    }
-    urlposts
-  end
-  
-  # Parse a list of users from an urlposts XML stream
-  #
-  def urlposts_parse_users(response)
-    doc = REXML::Document.new(response)
-    doc.elements.collect("//item") { |item|
-      item.elements["dc:creator"].text
-    }
   end
   
   # Return, from file system, all the info associated with an URL
@@ -86,41 +70,39 @@ module Delicious
     Net::HTTP.get_response(URI.parse(url)).body
   end
   
-  # Map Popular field names to element attribute names in the XML stream
+  # Map Entry field names to element attribute names in the XML stream
   #
-  FieldNames = {
+  FIELD_NAMES = {
     :href=>"link",
     :hash=>nil,
     :count=>nil,
     :user=>"creator",
     :dt=>"date",
-    :extended=>nil,
+    :extended=>"description",
     :description=>"title",
     :tags=>"subject"
   }
   
   # Structure that holds the fields for a del.icio.us popular post
   #
-  Popular = Struct.new *(FieldNames.keys)
+  Entry = Struct.new *(FIELD_NAMES.keys)
   
   # Reverse map element attribute names in the XML stream to PopularStruc
   # field name
   #
-  AttribNames = {}
-  FieldNames.each_pair {|k, v| AttribNames[v] = k}
+  ATTRIB_NAMES = {}
+  FIELD_NAMES.each_pair {|fld, att| ATTRIB_NAMES[att] = fld unless att.nil? }
   
-  # Parses a del.icio.us popular stream into an array of hashes where
-  # the keys of each hash are "creator", "title", "date", "subject",
-  # "link"
+  # Extract an array of Entry objects from a del.icio.us XML stream
   # 
-  def parse_popular(stream)
+  def extract_entries(stream)
     doc = REXML::Document.new stream
     
     doc.elements.collect('//item') {|item|
-      struc = Popular.new
+      struc = Entry.new
       item.elements.each {|attrib|
         nom = attrib.name
-        struc[AttribNames[nom]] = attrib.text if AttribNames.include?(nom)
+        struc[ATTRIB_NAMES[nom]] = attrib.text if ATTRIB_NAMES.include?(nom)
       }
       struc
     }
