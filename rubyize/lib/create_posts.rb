@@ -17,8 +17,7 @@ module CreatePosts
   #
   def serialize_posts(populars)
     populars.each {|h|
-      link = h['link']
-      urlcode = md5_digest link
+      urlcode = md5_digest h.href
       url = "http://feeds.delicious.com/rss/url/#{urlcode}"
       
       response = Net::HTTP.get_response(URI.parse(url)).body
@@ -30,8 +29,7 @@ module CreatePosts
   #
   def rename_popular_posts_files(populars)
     populars.each {|h|
-      link = h['link']
-      urlcode = md5_digest link
+      urlcode = md5_digest h.href
       File.rename get_old_urlpost_fname(urlcode), urlpost_offline_fname(urlcode)
     }
   end
@@ -43,5 +41,18 @@ module CreatePosts
 end
 
 if __FILE__ == $0
-  # TODO Generated stub
+  class App
+    include CreatePosts
+    
+    def run(tag='')
+      xml = popular_url_stream(tag)
+      File.open(popular_offline_fname(tag), 'w') {|f| f << xml}
+      
+      entries = extract_entries xml
+      serialize_posts entries
+    end
+  end
+  
+  App.new.run
 end
+

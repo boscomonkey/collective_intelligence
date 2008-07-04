@@ -59,8 +59,15 @@ module Delicious
   # Returns an XML stream from a file specified by the tag
   #
   def popular_file_stream(tag)
-    fname = "offline/popular.#{tag}.xml"
+    fname = popular_offline_fname(tag)
     File.open fname
+  end
+  
+  # Return the filename containing the XML stream corresponding to popular
+  # del.icio.us posts tagged with 'tag'.
+  #
+  def popular_offline_fname(tag)
+    "offline/popular.#{tag}.xml"
   end
   
   # Returns an XML stream from a URL specified by the tag
