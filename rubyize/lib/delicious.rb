@@ -176,17 +176,19 @@ class Delicious
       Net::HTTP.new(uri.host, uri.port).start { |http|
         path_query = uri.path + (blank?(uri.query) ? '' : '?' + uri.query)
         req = Net::HTTP::Get.new(path_query,
-                                 {'User-Agent' => "#{__FILE__} (alpha 0.01)"})
+          {'User-Agent' => "#{self.class} ruby library 0.01"})
         response = http.request(req)
         body = response.body
         
         raise ThrottlingException if body.include?('<title>Yahoo! - 503')
       }
-    rescue Net::HTTPFatalError, ThrottlingException, Timeout::Error
-      log retries
+    rescue Errno::ECONNREFUSED, Net::HTTPFatalError, SocketError,
+           ThrottlingException, Timeout::Error => e
+      log "#{e.class}"
       sleep 2**retries
       
       retries += 1
+      log_error ":#{retries}"
       retry
     end
     
@@ -201,10 +203,14 @@ class Delicious
   end
   
   def log(msg)
-    if defined? DEBUG
+    if defined? DEBUG and DEBUG
       $stderr.print msg
       $stderr.flush
     end
+  end
+  
+  def log_error(msg)
+    log "#{msg}\n"
   end
   
 end
