@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/steven.hill1">
+<title>del.icio.us/steven.hill1</title>
+<link>http://del.icio.us/steven.hill1</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.publications.parliament.uk/pa/cm200708/cmselect/cmdius/639/639.pdf" />
+  <rdf:li rdf:resource="http://www.gtdtimes.com/2008/07/03/david-allen-blogging-at-business-week-first-post-mislabeling-time-management/" />
+  <rdf:li rdf:resource="http://www.researchresearch.com/getPage.cfm" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://www.kozena.cz/core.php?lmut=1" />
+  <rdf:li rdf:resource="http://www.premierfoods.co.uk/" />
+  <rdf:li rdf:resource="http://www.worldtimezone.com/" />
+  <rdf:li rdf:resource="http://www.scotland.gov.uk/Topics/Education/UniversitiesColleges/16640/hetaskforce/newhorizons" />
+  <rdf:li rdf:resource="http://www.stfc.ac.uk/" />
+  <rdf:li rdf:resource="http://www.mrc.ac.uk/index.htm" />
+  <rdf:li rdf:resource="http://www.nerc.ac.uk/" />
+  <rdf:li rdf:resource="http://www.esrc.ac.uk/ESRCInfoCentre/index.aspx" />
+  <rdf:li rdf:resource="http://www.epsrc.ac.uk/default.htm" />
+  <rdf:li rdf:resource="http://www.bbsrc.ac.uk/" />
+  <rdf:li rdf:resource="http://www.ahrc.ac.uk/" />
+  <rdf:li rdf:resource="http://www.rcuk.ac.uk/default.htm" />
+  <rdf:li rdf:resource="http://www.geckobeach.com/cellular/secrets/gsmcodes.php" />
+  <rdf:li rdf:resource="http://www.timeshighereducation.co.uk/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/communication/the-newbie-guide-to-blogging.html" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/productivity/12-hours-to-better-time-management.html" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/productivity/50-tricks-to-get-things-done-faster-better-and-more-easily.html" />
+  <rdf:li rdf:resource="http://www.43folders.com/2008/02/14/time-attention-talk" />
+  <rdf:li rdf:resource="http://www.scotland.gov.uk/News/Releases/2008/02/04085534" />
+  <rdf:li rdf:resource="http://gtd.marvelz.com/blog/2008/02/08/gtd-gems-part-2/#more-128" />
+  <rdf:li rdf:resource="http://gtd.marvelz.com/blog/2007/07/10/gtd-gems-part-1/" />
+  <rdf:li rdf:resource="http://www.europeunit.ac.uk/sites/europe_unit2/home/index.cfm" />
+  <rdf:li rdf:resource="http://www.ilounge.com/index.php/articles/comments/the-complete-guide-to-iphone-car-integration/" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/iplayer/" />
+  <rdf:li rdf:resource="http://ideamatt.blogspot.com/2008/01/conversation-with-mark-hurst-web.html" />
+  <rdf:li rdf:resource="http://www.beautiful-creases.co.uk/services.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-06T12:47:56Z</dc:date>
+<dc:subject>blog blogs productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.publications.parliament.uk/pa/cm200708/cmselect/cmdius/639/639.pdf">
+<title>IUSS report on science budget allocations - govt response</title>
+<link>http://www.publications.parliament.uk/pa/cm200708/cmselect/cmdius/639/639.pdf</link>
+<description>pdf of gov response to science budget allocations report</description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-04T13:52:52Z</dc:date>
+<dc:subject>iuss_committee science science_policy work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/science_policy" />
+    <rdf:li resource="http://del.icio.us/tag/iuss_committee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gtdtimes.com/2008/07/03/david-allen-blogging-at-business-week-first-post-mislabeling-time-management/">
+<title>David Allen Blogging at Business Week: first post &#x22;Mislabeling Time Management&#x22; | GTD Times</title>
+<link>http://www.gtdtimes.com/2008/07/03/david-allen-blogging-at-business-week-first-post-mislabeling-time-management/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-04T07:55:00Z</dc:date>
+<dc:subject>blog blogs gtd productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.researchresearch.com/getPage.cfm">
+<title>ResearchResearch.com</title>
+<link>http://www.researchresearch.com/getPage.cfm</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-03T07:55:56Z</dc:date>
+<dc:subject>funding press research work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/funding" />
+    <rdf:li resource="http://del.icio.us/tag/press" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-02T18:01:14Z</dc:date>
+<dc:subject>gtd productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kozena.cz/core.php?lmut=1">
+<title>Magdalena Kozena</title>
+<link>http://www.kozena.cz/core.php?lmut=1</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-02T08:47:18Z</dc:date>
+<dc:subject>classical magdalena_kozena music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/magdalena_kozena" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.premierfoods.co.uk/">
+<title>Welcome to Premier Foods</title>
+<link>http://www.premierfoods.co.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T15:21:40Z</dc:date>
+<dc:subject>research uk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worldtimezone.com/">
+<title>Time - Current time around the World and standard time zones map of the world</title>
+<link>http://www.worldtimezone.com/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T15:13:15Z</dc:date>
+<dc:subject>reference timezones travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/timezones" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scotland.gov.uk/Topics/Education/UniversitiesColleges/16640/hetaskforce/newhorizons">
+<title>New Horizons: responding to the challenges of the 21st century</title>
+<link>http://www.scotland.gov.uk/Topics/Education/UniversitiesColleges/16640/hetaskforce/newhorizons</link>
+<description>Interim report of the Scottish Government task force on the future of HE</description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T12:13:09Z</dc:date>
+<dc:subject>p-da scotland work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scotland" />
+    <rdf:li resource="http://del.icio.us/tag/p-da" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stfc.ac.uk/">
+<title>Science and Technology Facilities Council Home Page</title>
+<link>http://www.stfc.ac.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:21:17Z</dc:date>
+<dc:subject>rcuk research researchcouncils work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mrc.ac.uk/index.htm">
+<title>Medical Research Council&#xA0;-&#xA0;Home&#xA0;</title>
+<link>http://www.mrc.ac.uk/index.htm</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:20:05Z</dc:date>
+<dc:subject>Research rcuk researchcouncils science work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/Research" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nerc.ac.uk/">
+<title>NERC - Homepage</title>
+<link>http://www.nerc.ac.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:18:54Z</dc:date>
+<dc:subject>Research rcuk researchcouncils work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/Research" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.esrc.ac.uk/ESRCInfoCentre/index.aspx">
+<title>ESRC Society Today - Homepage - General Public</title>
+<link>http://www.esrc.ac.uk/ESRCInfoCentre/index.aspx</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:18:02Z</dc:date>
+<dc:subject>rcuk research researchcouncils work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.epsrc.ac.uk/default.htm">
+<title>EPSRC Website</title>
+<link>http://www.epsrc.ac.uk/default.htm</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:16:55Z</dc:date>
+<dc:subject>rcuk researchcouncils science work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbsrc.ac.uk/">
+<title>BBSRC - Home: Biotechnology and Biological Sciences Research Council for funding, grants and training</title>
+<link>http://www.bbsrc.ac.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:13:17Z</dc:date>
+<dc:subject>rcuk researchcouncils science work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ahrc.ac.uk/">
+<title>Arts and Humanities Research Council - Homepage</title>
+<link>http://www.ahrc.ac.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:11:19Z</dc:date>
+<dc:subject>rcuk researchcouncils work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/researchcouncils" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rcuk.ac.uk/default.htm">
+<title>RCUK website</title>
+<link>http://www.rcuk.ac.uk/default.htm</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-06-30T11:08:14Z</dc:date>
+<dc:subject>rcuk research uk work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rcuk" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geckobeach.com/cellular/secrets/gsmcodes.php">
+<title>GSM Feature Codes</title>
+<link>http://www.geckobeach.com/cellular/secrets/gsmcodes.php</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-03-06T18:58:43Z</dc:date>
+<dc:subject>gsm phone reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/gsm" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timeshighereducation.co.uk/">
+<title>Times Higher Education - Education news, resources and university jobs for the academic world</title>
+<link>http://www.timeshighereducation.co.uk/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-03-06T09:24:09Z</dc:date>
+<dc:subject>research science_policy work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science_policy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/communication/the-newbie-guide-to-blogging.html">
+<title>The Newbie Guide to Blogging - Lifehack.org</title>
+<link>http://www.lifehack.org/articles/communication/the-newbie-guide-to-blogging.html</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-24T19:06:28Z</dc:date>
+<dc:subject>blog writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/productivity/12-hours-to-better-time-management.html">
+<title>12 Hours to Better Time Management - Lifehack.org</title>
+<link>http://www.lifehack.org/articles/productivity/12-hours-to-better-time-management.html</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-22T21:21:45Z</dc:date>
+<dc:subject>gtd lifehacks productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/productivity/50-tricks-to-get-things-done-faster-better-and-more-easily.html">
+<title>50 Tricks to Get Things Done Faster, Better, and More Easily - Lifehack.org</title>
+<link>http://www.lifehack.org/articles/productivity/50-tricks-to-get-things-done-faster-better-and-more-easily.html</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-15T11:04:16Z</dc:date>
+<dc:subject>gtd lifehacks productivity tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.43folders.com/2008/02/14/time-attention-talk">
+<title>Video: Merlin's New Time &#x26; Attention Talk</title>
+<link>http://www.43folders.com/2008/02/14/time-attention-talk</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-14T18:00:36Z</dc:date>
+<dc:subject>*to_read gtd productivity video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/*to_read" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scotland.gov.uk/News/Releases/2008/02/04085534">
+<title>Scots scientists top of the class</title>
+<link>http://www.scotland.gov.uk/News/Releases/2008/02/04085534</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-11T10:56:46Z</dc:date>
+<dc:subject>science_policy scotland work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/science_policy" />
+    <rdf:li resource="http://del.icio.us/tag/scotland" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gtd.marvelz.com/blog/2008/02/08/gtd-gems-part-2/#more-128">
+<title>GTD links</title>
+<link>http://gtd.marvelz.com/blog/2008/02/08/gtd-gems-part-2/#more-128</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-10T19:23:12Z</dc:date>
+<dc:subject>gtd productivity reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gtd.marvelz.com/blog/2007/07/10/gtd-gems-part-1/">
+<title>http://gtd.marvelz.com/blog/2007/07/10/gtd-gems-part-1/</title>
+<link>http://gtd.marvelz.com/blog/2007/07/10/gtd-gems-part-1/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-02-10T19:22:28Z</dc:date>
+<dc:subject>gtd productivity reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.europeunit.ac.uk/sites/europe_unit2/home/index.cfm">
+<title>Europe Unit: Home</title>
+<link>http://www.europeunit.ac.uk/sites/europe_unit2/home/index.cfm</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-01-31T16:48:28Z</dc:date>
+<dc:subject>EU HE uuk work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/uuk" />
+    <rdf:li resource="http://del.icio.us/tag/HE" />
+    <rdf:li resource="http://del.icio.us/tag/EU" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ilounge.com/index.php/articles/comments/the-complete-guide-to-iphone-car-integration/">
+<title>http://www.ilounge.com/index.php/articles/comments/the-complete-guide-to-iphone-car-integration/</title>
+<link>http://www.ilounge.com/index.php/articles/comments/the-complete-guide-to-iphone-car-integration/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-01-30T09:11:03Z</dc:date>
+<dc:subject>audio car iphone tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/iplayer/">
+<title>BBC - BBC iPlayer - Home</title>
+<link>http://www.bbc.co.uk/iplayer/</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-01-24T14:05:08Z</dc:date>
+<dc:subject>bbc tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/bbc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ideamatt.blogspot.com/2008/01/conversation-with-mark-hurst-web.html">
+<title>Matt's Idea Blog: A conversation with Mark Hurst, web usability expert and author of &#x22;Bit literacy&#x22;</title>
+<link>http://ideamatt.blogspot.com/2008/01/conversation-with-mark-hurst-web.html</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-01-24T08:48:49Z</dc:date>
+<dc:subject>gtd productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.beautiful-creases.co.uk/services.html">
+<title>Beautiful Creases Witney Laundry and Dry Cleaning ::: Products and Services</title>
+<link>http://www.beautiful-creases.co.uk/services.html</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-01-19T12:33:55Z</dc:date>
+<dc:subject>local outsourcing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/local" />
+    <rdf:li resource="http://del.icio.us/tag/outsourcing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/pi2sage">
+<title>del.icio.us/pi2sage</title>
+<link>http://del.icio.us/pi2sage</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks" />
+  <rdf:li rdf:resource="http://routerpasswords.com/" />
+  <rdf:li rdf:resource="http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/" />
+  <rdf:li rdf:resource="http://www.andrewmin.com/webx/" />
+  <rdf:li rdf:resource="http://www.tubeleecher.com/" />
+  <rdf:li rdf:resource="http://www.worldmusic.net/wmn/" />
+  <rdf:li rdf:resource="http://www.123shared.com/" />
+  <rdf:li rdf:resource="http://www.mytopclip.com/play.php?vid=567" />
+  <rdf:li rdf:resource="http://www.eiktub.com/" />
+  <rdf:li rdf:resource="http://www.computerworld.com.my/" />
+  <rdf:li rdf:resource="http://www.webware.com/" />
+  <rdf:li rdf:resource="http://www.zuora.com/" />
+  <rdf:li rdf:resource="http://www.mitadmissions.org/topics/life/workplay_balance_at_mit/50_things.shtml" />
+  <rdf:li rdf:resource="http://musicovery.com/musicoveryLOFI.swf?ct=us" />
+  <rdf:li rdf:resource="http://www.edmontongeek.com/the-easiest-way-to-downgrade-a-windows-vista-machine-to-windows-xp/" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/how-computers-boot-up" />
+  <rdf:li rdf:resource="http://www.loadevery.com/" />
+  <rdf:li rdf:resource="http://bomomo.com/" />
+  <rdf:li rdf:resource="http://geenius.co.uk/top-10-free-leopard-apps/" />
+  <rdf:li rdf:resource="http://royal.pingdom.com/?p=304" />
+  <rdf:li rdf:resource="http://www.addictinggames.com/opendoors.html" />
+  <rdf:li rdf:resource="http://photography-on-the.net/forum/showthread.php?t=414088" />
+  <rdf:li rdf:resource="http://www.all2c.tv/all2c/streaming-sites/home.html" />
+  <rdf:li rdf:resource="http://www.ted.com/" />
+  <rdf:li rdf:resource="http://www.bizzntech.com/2008/05/21/10-free-softwares-for-protecting-private-files-and-folders" />
+  <rdf:li rdf:resource="http://howto.wired.com/wiki/Automate_Your_Home" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/technology/a-beginners-guide-to-e-books.html" />
+  <rdf:li rdf:resource="http://forum.mininova.org/index.php?showtopic=235000396" />
+  <rdf:li rdf:resource="http://lifehacker.com/393534/top-10-additions-to-your-phones-contact-list" />
+  <rdf:li rdf:resource="http://pequin.org/archives.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-07-06T13:05:59Z</dc:date>
+<dc:subject>blog crack hack hacking it list network os password passwords router security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks">
+<title>Cracking WEP and WPA Wireless Networks - Docupedia</title>
+<link>http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-07-06T13:05:42Z</dc:date>
+<dc:subject>backtrack computer computers computing crack crypto cryptography diy hack hacking howto security wep wifi wireless wpa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/wep" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/wpa" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+    <rdf:li resource="http://del.icio.us/tag/crypto" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/backtrack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://routerpasswords.com/">
+<title>Default Router Passwords - The internets most comprehensive router password database</title>
+<link>http://routerpasswords.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-07-06T13:05:26Z</dc:date>
+<dc:subject>database hacking hacks hardware internet network networking password passwords reference router search security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/">
+<title>Digital Web Magazine - Portable Social Networks, The Building Blocks Of A Social Web</title>
+<link>http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-07-04T13:29:58Z</dc:date>
+<dc:subject>address community design google hcard interesting internet microformats network networking social socialnetworking socialnetworks standards web xfn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/xfn" />
+    <rdf:li resource="http://del.icio.us/tag/hcard" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/address" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.andrewmin.com/webx/">
+<title>WebX Online Operating System</title>
+<link>http://www.andrewmin.com/webx/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-28T11:12:19Z</dc:date>
+<dc:subject>ajax apple browser fun funny humor mac osx technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tubeleecher.com/">
+<title>Download youtube videos directly in your computer</title>
+<link>http://www.tubeleecher.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-22T09:09:17Z</dc:date>
+<dc:subject>computer convert cool download downloader downloads freeware google tool tools video videos youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/downloader" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worldmusic.net/wmn/">
+<title>WORLD &#xB7; MUSIC &#xB7; NETWORK</title>
+<link>http://www.worldmusic.net/wmn/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-22T08:53:35Z</dc:date>
+<dc:subject>blogs culture downloads music network radio resource video world worldmusic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/world" />
+    <rdf:li resource="http://del.icio.us/tag/worldmusic" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.123shared.com/">
+<title>Search all major Shared sites</title>
+<link>http://www.123shared.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-22T08:47:02Z</dc:date>
+<dc:subject>download downloads filesharing google hosting p2p rapidshare search searchengine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/rapidshare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mytopclip.com/play.php?vid=567">
+<title>Best Video clips</title>
+<link>http://www.mytopclip.com/play.php?vid=567</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-19T15:14:37Z</dc:date>
+<dc:subject>funny videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eiktub.com/">
+<title>eiktub&#x2122; Lite: The Arabic Transliteration Pad - Express yourself in Arabic</title>
+<link>http://www.eiktub.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-19T15:06:21Z</dc:date>
+<dc:subject>arabic language</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/arabic" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com.my/">
+<title>Computerworld Malaysia - June 2008</title>
+<link>http://www.computerworld.com.my/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-16T02:59:58Z</dc:date>
+<dc:subject>computing magazine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webware.com/">
+<title>Webware: Cool Web 2.0 apps for everyone</title>
+<link>http://www.webware.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-16T00:15:21Z</dc:date>
+<dc:subject>aggregator ajax application applications apps article best blog blogs internet news software technology web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zuora.com/">
+<title>On-Demand Subscription Management &#x2013; Billing Solutions</title>
+<link>http://www.zuora.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-16T00:15:21Z</dc:date>
+<dc:subject>api application applications billing business cool development ecommerce entrepreneurship online payment saas subscription web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/billing" />
+    <rdf:li resource="http://del.icio.us/tag/saas" />
+    <rdf:li resource="http://del.icio.us/tag/subscription" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/payment" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mitadmissions.org/topics/life/workplay_balance_at_mit/50_things.shtml">
+<title>MIT Admissions | Blog Entry: &#x22;50 Things&#x22;</title>
+<link>http://www.mitadmissions.org/topics/life/workplay_balance_at_mit/50_things.shtml</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-13T22:56:37Z</dc:date>
+<dc:subject>advice college education inspiration learning life lifehacks lists mit school tips university</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/college" />
+    <rdf:li resource="http://del.icio.us/tag/university" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://musicovery.com/musicoveryLOFI.swf?ct=us">
+<title>musicoveryLOFI.swf (application/x-shockwave-flash Object)</title>
+<link>http://musicovery.com/musicoveryLOFI.swf?ct=us</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-12T17:28:34Z</dc:date>
+<dc:subject>applications audio cool culture design firefox flash free generator interesting music radio recommendations</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/recommendations" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edmontongeek.com/the-easiest-way-to-downgrade-a-windows-vista-machine-to-windows-xp/">
+<title>The easiest way to downgrade a Windows Vista machine to Windows XP - nLite custom install disc | Edmonton Geek</title>
+<link>http://www.edmontongeek.com/the-easiest-way-to-downgrade-a-windows-vista-machine-to-windows-xp/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-12T17:28:34Z</dc:date>
+<dc:subject>computer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/how-computers-boot-up">
+<title>How Computers Boot Up : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/how-computers-boot-up</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-08T01:18:23Z</dc:date>
+<dc:subject>article bios blog boot code computer hardware kernel operatingsystem os toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/bios" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/operatingsystem" />
+    <rdf:li resource="http://del.icio.us/tag/kernel" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.loadevery.com/">
+<title>LoadEvery.com | More Than Search! Rapidshare-Megaupload-Search Engine</title>
+<link>http://www.loadevery.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-07T14:01:51Z</dc:date>
+<dc:subject>download downloads google megaupload mp3 music rapidshare search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/rapidshare" />
+    <rdf:li resource="http://del.icio.us/tag/megaupload" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bomomo.com/">
+<title>bomomo</title>
+<link>http://bomomo.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-07T06:24:49Z</dc:date>
+<dc:subject>animation application art cool design drawing flash fun tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://geenius.co.uk/top-10-free-leopard-apps/">
+<title>Top 10 (free) apps I can't live without | Blog | Geenius</title>
+<link>http://geenius.co.uk/top-10-free-leopard-apps/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-06T03:55:46Z</dc:date>
+<dc:subject>apple apps best blog computer computers download downloads freeware mac software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://royal.pingdom.com/?p=304">
+<title>Royal Pingdom &#xBB; IT posters to cover your empty walls</title>
+<link>http://royal.pingdom.com/?p=304</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-05T18:51:42Z</dc:date>
+<dc:subject>computers cool geek interesting it poster posters reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.addictinggames.com/opendoors.html">
+<title>Open Doors - Free Puzzle and Board Game from AddictingGames</title>
+<link>http://www.addictinggames.com/opendoors.html</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-05T16:02:28Z</dc:date>
+<dc:subject>AddictingGames Puzzle flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AddictingGames" />
+    <rdf:li resource="http://del.icio.us/tag/Puzzle" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photography-on-the.net/forum/showthread.php?t=414088">
+<title>Ben's Newbie Guide to Digital SLR Photography - Canon Digital Photography Forums</title>
+<link>http://photography-on-the.net/forum/showthread.php?t=414088</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-05T12:13:59Z</dc:date>
+<dc:subject>camera dslr photo photography reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/dslr" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.all2c.tv/all2c/streaming-sites/home.html">
+<title>Home</title>
+<link>http://www.all2c.tv/all2c/streaming-sites/home.html</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-05T05:05:20Z</dc:date>
+<dc:subject>free movies online stream television tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/stream" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/">
+<title>TED: Ideas worth spreading</title>
+<link>http://www.ted.com/</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-05T02:25:28Z</dc:date>
+<dc:subject>audio blog blogs collaboration community design education ideas innovation inspiration technology ted video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bizzntech.com/2008/05/21/10-free-softwares-for-protecting-private-files-and-folders">
+<title>10 Free Softwares for Protecting Private Files and Folders | BizzNtech</title>
+<link>http://www.bizzntech.com/2008/05/21/10-free-softwares-for-protecting-private-files-and-folders</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-06-01T14:56:55Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howto.wired.com/wiki/Automate_Your_Home">
+<title>Automate Your Home - Wired How-To Wiki</title>
+<link>http://howto.wired.com/wiki/Automate_Your_Home</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-05-31T15:35:45Z</dc:date>
+<dc:subject>automation diy home house howto linux technology x10</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/automation" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/x10" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/house" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/technology/a-beginners-guide-to-e-books.html">
+<title>A Beginner&#x2019;s Guide to E-Books - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/technology/a-beginners-guide-to-e-books.html</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-05-31T15:12:51Z</dc:date>
+<dc:subject>books download ebook ebooks guide lifehacks mobile tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.mininova.org/index.php?showtopic=235000396">
+<title>DVD to AVI - Mininova</title>
+<link>http://forum.mininova.org/index.php?showtopic=235000396</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-05-30T06:52:36Z</dc:date>
+<dc:subject>burning dvd freeware guide movies ripping tech tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/ripping" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/burning" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/393534/top-10-additions-to-your-phones-contact-list">
+<title>Lifehacker Top 10: Top 10 Additions to Your Phone's Contact List</title>
+<link>http://lifehacker.com/393534/top-10-additions-to-your-phones-contact-list</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-05-28T22:50:21Z</dc:date>
+<dc:subject>lifehacker lifehacks mobile phone productivity sms software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pequin.org/archives.php">
+<title>Pequin Archives 2008</title>
+<link>http://pequin.org/archives.php</link>
+<description></description>
+<dc:creator>pi2sage</dc:creator>
+<dc:date>2008-05-26T15:59:33Z</dc:date>
+<dc:subject>ahortstories writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/ahortstories" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

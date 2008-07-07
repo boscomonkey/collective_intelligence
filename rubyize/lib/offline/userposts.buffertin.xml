@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/buffertin">
+<title>del.icio.us/buffertin</title>
+<link>http://del.icio.us/buffertin</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://identi.ca/" />
+  <rdf:li rdf:resource="http://www.finnix.org/" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://unetbootin.sourceforge.net/" />
+  <rdf:li rdf:resource="http://blogs.sun.com/chrisg/entry/zfs_versions_of_a_file" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/4980" />
+  <rdf:li rdf:resource="http://labs.mozilla.com/2007/10/prism/" />
+  <rdf:li rdf:resource="http://bazaar-vcs.org/" />
+  <rdf:li rdf:resource="http://www.active.com/donate/tntntx/jeffwelch" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/mswanson/articles/wallpaper.aspx" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/darwishh/sets/72157594510047657/" />
+  <rdf:li rdf:resource="http://www.atunes.org/" />
+  <rdf:li rdf:resource="http://www.lucidlink.com/lucidlink_wifi_client.htm" />
+  <rdf:li rdf:resource="http://live.gnome.org/Dia" />
+  <rdf:li rdf:resource="http://www.rd.com/advice-and-know-how/save-your-own-life/article58778.html" />
+  <rdf:li rdf:resource="http://www.macrium.com/ReflectFree.asp" />
+  <rdf:li rdf:resource="http://code.google.com/p/pictureflow/" />
+  <rdf:li rdf:resource="http://theli.is-a-geek.org/blog/static/dpgconv" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=806699" />
+  <rdf:li rdf:resource="http://www.server-quest.com/" />
+  <rdf:li rdf:resource="http://www.hanselman.com/babysmash/screenies.htm" />
+  <rdf:li rdf:resource="http://www.freewaregenius.com/2008/05/28/thoosje-quick-xp-optimizer-get-better-performance-out-of-xp/" />
+  <rdf:li rdf:resource="http://www.acetoneiso.netsons.org/" />
+  <rdf:li rdf:resource="http://www.bit-tech.net/news/2008/06/02/portal-homebrew-release-for-ds/1" />
+  <rdf:li rdf:resource="http://easytools.opensolarisblog.org/" />
+  <rdf:li rdf:resource="http://gpl.internetconnection.net/vi/" />
+  <rdf:li rdf:resource="http://docs.sun.com/app/docs/doc/817-1592/gcllb?a=view" />
+  <rdf:li rdf:resource="http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released" />
+  <rdf:li rdf:resource="http://www.openstickers.com/" />
+  <rdf:li rdf:resource="http://taggalaxy.de/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-07-06T06:04:09Z</dc:date>
+<dc:subject>blog computer free lifehacker microsoft security software steadystate tutorial windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/steadystate" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://identi.ca/">
+<title>Public timeline - Identi.ca</title>
+<link>http://identi.ca/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-07-06T04:11:57Z</dc:date>
+<dc:subject>microblog microblogging opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/microblog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.finnix.org/">
+<title>Finnix</title>
+<link>http://www.finnix.org/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-07-06T03:50:12Z</dc:date>
+<dc:subject>debian distro linux livecd sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/livecd" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/distro" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-07-06T03:49:00Z</dc:date>
+<dc:subject>audio browser computer flash noise sound whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/noise" />
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://unetbootin.sourceforge.net/">
+<title>UNetbootin - The Universal Netboot Installer</title>
+<link>http://unetbootin.sourceforge.net/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-30T07:21:36Z</dc:date>
+<dc:subject>boot bootable download install iso linux usb windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/bootable" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/iso" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/usb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/chrisg/entry/zfs_versions_of_a_file">
+<title>zfs_versions of a file - The dot in ... --- ...</title>
+<link>http://blogs.sun.com/chrisg/entry/zfs_versions_of_a_file</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-27T05:38:24Z</dc:date>
+<dc:subject>solaris zfs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/zfs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/4980">
+<title>RetailMeNot :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/4980</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-27T05:38:03Z</dc:date>
+<dc:subject>coupons extension firefox shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/coupons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.mozilla.com/2007/10/prism/">
+<title>Mozilla Labs &#xBB; Blog Archive &#xBB; Prism</title>
+<link>http://labs.mozilla.com/2007/10/prism/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-27T05:34:58Z</dc:date>
+<dc:subject>applications browser desktop firefox mozilla prism software web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mozilla" />
+    <rdf:li resource="http://del.icio.us/tag/prism" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bazaar-vcs.org/">
+<title>Welcome - Bazaar Version Control</title>
+<link>http://bazaar-vcs.org/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-27T05:34:45Z</dc:date>
+<dc:subject>bazaar collaboration development opensource programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/bazaar" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.active.com/donate/tntntx/jeffwelch">
+<title>Team in Training</title>
+<link>http://www.active.com/donate/tntntx/jeffwelch</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-26T01:36:42Z</dc:date>
+<dc:subject>exercise fitness itunes running</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/itunes" />
+    <rdf:li resource="http://del.icio.us/tag/running" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/mswanson/articles/wallpaper.aspx">
+<title>Mike Swanson's Blog : Wallpaper Images</title>
+<link>http://blogs.msdn.com/mswanson/articles/wallpaper.aspx</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-26T01:36:05Z</dc:date>
+<dc:subject>wallpaper wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/darwishh/sets/72157594510047657/">
+<title>Windows Vista - a set on Flickr</title>
+<link>http://www.flickr.com/photos/darwishh/sets/72157594510047657/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-26T01:35:55Z</dc:date>
+<dc:subject>wallpaper wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atunes.org/">
+<title>aTunes</title>
+<link>http://www.atunes.org/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-26T01:35:38Z</dc:date>
+<dc:subject>application apps audio catalog computer database linux mp3 music opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/catalog" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lucidlink.com/lucidlink_wifi_client.htm">
+<title>LucidLink WiFi Client - Free WiFi Client Download</title>
+<link>http://www.lucidlink.com/lucidlink_wifi_client.htm</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-26T01:35:19Z</dc:date>
+<dc:subject>free freeware networking security software wifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://live.gnome.org/Dia">
+<title>Dia - GNOME Live!</title>
+<link>http://live.gnome.org/Dia</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-19T02:37:30Z</dc:date>
+<dc:subject>application applications apps art code diagram linux opensource software tools uml visio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/visio" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/uml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/advice-and-know-how/save-your-own-life/article58778.html">
+<title>Save Your Own Life: How to Survive ... | Advice and Know-How | Reader's Digest</title>
+<link>http://www.rd.com/advice-and-know-how/save-your-own-life/article58778.html</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-15T05:47:21Z</dc:date>
+<dc:subject>advice communication diy education guide health howto life survival tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/survival" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macrium.com/ReflectFree.asp">
+<title>Macrium Reflect FREE Edition - Information and download</title>
+<link>http://www.macrium.com/ReflectFree.asp</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-14T07:08:04Z</dc:date>
+<dc:subject>applications backup clone computer deployment disk download drive free freeware image software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/clone" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/deployment" />
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/drive" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/pictureflow/">
+<title>pictureflow - Google Code</title>
+<link>http://code.google.com/p/pictureflow/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-14T07:07:10Z</dc:date>
+<dc:subject>application code coverflow graphics opensource programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/coverflow" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theli.is-a-geek.org/blog/static/dpgconv">
+<title>? : DPG Converter for linux</title>
+<link>http://theli.is-a-geek.org/blog/static/dpgconv</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-14T07:06:38Z</dc:date>
+<dc:subject>convert converter dpg ds linux nintendo tool tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/ds" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/nintendo" />
+    <rdf:li resource="http://del.icio.us/tag/dpg" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=806699">
+<title>HowTo: Easiest way to share files &#x26; printers with Windows - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=806699</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-14T06:00:37Z</dc:date>
+<dc:subject>guide howto linux network networking printer samba share sharing software storage ubuntu windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+    <rdf:li resource="http://del.icio.us/tag/share" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/printer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.server-quest.com/">
+<title>Microsoft TechNet - ServerQuest</title>
+<link>http://www.server-quest.com/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-14T05:57:48Z</dc:date>
+<dc:subject>flash fun funny game games microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hanselman.com/babysmash/screenies.htm">
+<title>Baby Smash! by Scott Hanselman</title>
+<link>http://www.hanselman.com/babysmash/screenies.htm</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-11T01:31:55Z</dc:date>
+<dc:subject>computer free freeware fun game kids software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freewaregenius.com/2008/05/28/thoosje-quick-xp-optimizer-get-better-performance-out-of-xp/">
+<title>Thoosje Quick XP Optimizer: get better performance out of XP - review &#x26; download link | freewaregenius.com</title>
+<link>http://www.freewaregenius.com/2008/05/28/thoosje-quick-xp-optimizer-get-better-performance-out-of-xp/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-08T18:18:14Z</dc:date>
+<dc:subject>computer freeware sysadmin tech tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acetoneiso.netsons.org/">
+<title>Official AcetoneISO Team</title>
+<link>http://www.acetoneiso.netsons.org/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-05T02:19:17Z</dc:date>
+<dc:subject>apps cd dvd image iso linux mount opensource software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/cd" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/mount" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/iso" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bit-tech.net/news/2008/06/02/portal-homebrew-release-for-ds/1">
+<title>bit-tech.net | Portal homebrew release for DS</title>
+<link>http://www.bit-tech.net/news/2008/06/02/portal-homebrew-release-for-ds/1</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-03T05:42:22Z</dc:date>
+<dc:subject>ds, portal,homebrew</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ds%2C" />
+    <rdf:li resource="http://del.icio.us/tag/portal%2Chomebrew" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://easytools.opensolarisblog.org/">
+<title>EasyTools Proyect</title>
+<link>http://easytools.opensolarisblog.org/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-03T04:45:39Z</dc:date>
+<dc:subject>solaris,sysadmin,dtrace,zfs,smf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solaris%2Csysadmin%2Cdtrace%2Czfs%2Csmf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gpl.internetconnection.net/vi/">
+<title>online vi</title>
+<link>http://gpl.internetconnection.net/vi/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-06-02T23:20:11Z</dc:date>
+<dc:subject>browser editor javascript vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.sun.com/app/docs/doc/817-1592/gcllb?a=view">
+<title>29.&#xA0;&#xA0;Troubleshooting Miscellaneous Solaris Zones Problems (System Administration Guide: Solaris Containers-Resource Management and Solaris Zones)</title>
+<link>http://docs.sun.com/app/docs/doc/817-1592/gcllb?a=view</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-05-29T20:19:47Z</dc:date>
+<dc:subject>solaris sysadmin zfs zones</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/zones" />
+    <rdf:li resource="http://del.icio.us/tag/zfs" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released">
+<title>Envy Code R preview #7 (scalable coding font) &#xBB; DamienG</title>
+<link>http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-05-28T05:18:48Z</dc:date>
+<dc:subject>font programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openstickers.com/">
+<title>Free Software Sticker Book</title>
+<link>http://www.openstickers.com/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-05-28T04:16:02Z</dc:date>
+<dc:subject>art design free freeware linux open opensource stickers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/open" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/stickers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://taggalaxy.de/">
+<title>Tag Galaxy</title>
+<link>http://taggalaxy.de/</link>
+<description></description>
+<dc:creator>buffertin</dc:creator>
+<dc:date>2008-05-24T05:24:17Z</dc:date>
+<dc:subject>3d aggregator flickr graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

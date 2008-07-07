@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/preoccupations">
+<title>del.icio.us/preoccupations</title>
+<link>http://del.icio.us/preoccupations</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://interconnected.org/home/2008/07/03/two_kinds_of_training" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/" />
+  <rdf:li rdf:resource="http://postspectacular.com/manifesto/start" />
+  <rdf:li rdf:resource="http://poir.pbwiki.com/" />
+  <rdf:li rdf:resource="http://rooreynolds.com/2008/05/09/current-cost-charting-fun/" />
+  <rdf:li rdf:resource="http://knolleary.net/2008/05/05/power-graphing/" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/media/2008/jul/04/bbc.television3" />
+  <rdf:li rdf:resource="http://books.guardian.co.uk/departments/referenceandlanguages/story/0,,2289259,00.html" />
+  <rdf:li rdf:resource="http://www.ecyrd.com/ButtUgly/wiki/Main_blogentry_300608_2" />
+  <rdf:li rdf:resource="http://www.iaacblog.com/internet0/?page_id=20" />
+  <rdf:li rdf:resource="http://www.civilservice.gov.uk/iam/codes/social_media/participation.asp" />
+  <rdf:li rdf:resource="http://blogs.guardian.co.uk/inside/2008/05/the_web_on_the_move_xtech_2008.html" />
+  <rdf:li rdf:resource="http://2008.xtech.org/public/schedule/detail/577" />
+  <rdf:li rdf:resource="http://blogs.guardian.co.uk/inside/2008/07/the_guardian_at_opentech_2008.html" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/946095/Behavior-Purpose-and-Teleology-Rosenblueth-Wiener-Bigelow" />
+  <rdf:li rdf:resource="http://www.infoamerica.org/documentos_word/shannon-wiener.htm" />
+  <rdf:li rdf:resource="http://www.hfr.org.uk/cybernetics-pages/origins.htm" />
+  <rdf:li rdf:resource="http://www.netgear.com/Products/RoutersandGateways/WiredRouters/MBM621.aspx" />
+  <rdf:li rdf:resource="http://www.managementtoday.co.uk/search/article/806183/books-attempts-fix-internet-rob-its-vital-spark/" />
+  <rdf:li rdf:resource="http://web.mit.edu/sturkle/techself/" />
+  <rdf:li rdf:resource="http://russelldavies.typepad.com/planning/2008/07/skuwiki.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/1/hi/entertainment/7402172.stm" />
+  <rdf:li rdf:resource="http://www.ics.uci.edu/~jpd/ubicomp/" />
+  <rdf:li rdf:resource="http://code.google.com/p/precipitate/" />
+  <rdf:li rdf:resource="http://dig.csail.mit.edu/breadcrumbs/node/237" />
+  <rdf:li rdf:resource="http://www.ethanzuckerman.com/blog/2008/07/03/the-fallacy-of-examples-and-the-problems-of-extrapolating-from-media/" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2004/11/cosmic_origins.php" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php" />
+  <rdf:li rdf:resource="http://www.subtraction.com/archives/2008/0703_a_word_for_m.php" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/01/health/research/01mind.html?ex=1372651200&#x26;en=b3e936ce366fb8de&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://interconnected.org/home/2008/07/03/two_kinds_of_training">
+<title>two kinds of training (3 July, 2008, Interconnected)</title>
+<link>http://interconnected.org/home/2008/07/03/two_kinds_of_training</link>
+<description>&#x26;quot;respondent ... [&#x26;amp;] operant conditioning ... most powerful [operant conditioning] ... is variable-interval reinforcement ... as if you're trying to figure out the pattern ... One weird thing that happens, in operant conditioning, is the extinction burst&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-06T09:46:26Z</dc:date>
+<dc:subject>2008 Matt_Webb addiction behaviour conditioning learning psychology training</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conditioning" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/behaviour" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/addiction" />
+    <rdf:li resource="http://del.icio.us/tag/Matt_Webb" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-06T09:03:48Z</dc:date>
+<dc:subject>chairs furniture health office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chairs" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/">
+<title>How to save money running a startup (17 really good tips)</title>
+<link>http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-06T09:03:22Z</dc:date>
+<dc:subject>2008 advice business start-ups tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/start-ups" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://postspectacular.com/manifesto/start">
+<title>PostSpectacular: Rule making &#x26; breaking</title>
+<link>http://postspectacular.com/manifesto/start</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-06T09:02:25Z</dc:date>
+<dc:subject>guidelines manifesto via:blackbeltjones</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/manifesto" />
+    <rdf:li resource="http://del.icio.us/tag/guidelines" />
+    <rdf:li resource="http://del.icio.us/tag/via:blackbeltjones" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://poir.pbwiki.com/">
+<title>Power of Information wiki</title>
+<link>http://poir.pbwiki.com/</link>
+<description>&#x26;quot;This wiki is simply a rolling list of sites that illustrate some of the principles of the power of information: people reusing public information in new ways and people coming together in online communities to help each other with a public purpose.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T22:57:13Z</dc:date>
+<dc:subject>UK government information public_information</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/UK" />
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/public_information" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rooreynolds.com/2008/05/09/current-cost-charting-fun/">
+<title>rooreynolds.com: Current Cost Charting fun</title>
+<link>http://rooreynolds.com/2008/05/09/current-cost-charting-fun/</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T22:30:31Z</dc:date>
+<dc:subject>2008 Current_Cost Roo_Reynolds consumption electricity energy visualisation visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/consumption" />
+    <rdf:li resource="http://del.icio.us/tag/electricity" />
+    <rdf:li resource="http://del.icio.us/tag/visualisation" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/Roo_Reynolds" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/Current_Cost" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://knolleary.net/2008/05/05/power-graphing/">
+<title>knolleary &#xBB; Power Graphing</title>
+<link>http://knolleary.net/2008/05/05/power-graphing/</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T22:29:10Z</dc:date>
+<dc:subject>2008 Current_Cost Nick_O'Leary consumption electricity energy visualisation visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/consumption" />
+    <rdf:li resource="http://del.icio.us/tag/electricity" />
+    <rdf:li resource="http://del.icio.us/tag/visualisation" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/Nick_O%27Leary" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/Current_Cost" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/media/2008/jul/04/bbc.television3">
+<title>Obituary: Charles Wheeler | Guardian</title>
+<link>http://www.guardian.co.uk/media/2008/jul/04/bbc.television3</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T19:11:23Z</dc:date>
+<dc:subject>2008 Guardian journalism obituaries</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/obituaries" />
+    <rdf:li resource="http://del.icio.us/tag/Guardian" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.guardian.co.uk/departments/referenceandlanguages/story/0,,2289259,00.html">
+<title>David Crystal: 2b or not 2b?</title>
+<link>http://books.guardian.co.uk/departments/referenceandlanguages/story/0,,2289259,00.html</link>
+<description>&#x26;quot;Children could not be good at texting if they had not already developed considerable literacy awareness.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T19:07:46Z</dc:date>
+<dc:subject>2008 David_Crystal Guardian SMS language texting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/David_Crystal" />
+    <rdf:li resource="http://del.icio.us/tag/Guardian" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/texting" />
+    <rdf:li resource="http://del.icio.us/tag/SMS" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ecyrd.com/ButtUgly/wiki/Main_blogentry_300608_2">
+<title>ButtUgly: Ubicomp, and why I think it's broken</title>
+<link>http://www.ecyrd.com/ButtUgly/wiki/Main_blogentry_300608_2</link>
+<description>&#x26;quot;I think the iPhones and Androids and Limos and Nokias of the world have a lot more claim to the ubiquitous computing vision than the internet-of-things folks. They're already connected, and they're everywhere.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T17:14:53Z</dc:date>
+<dc:subject>2008 everyware mobiles phones ubicomp via:rodcorp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobiles" />
+    <rdf:li resource="http://del.icio.us/tag/phones" />
+    <rdf:li resource="http://del.icio.us/tag/ubicomp" />
+    <rdf:li resource="http://del.icio.us/tag/everyware" />
+    <rdf:li resource="http://del.icio.us/tag/via:rodcorp" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iaacblog.com/internet0/?page_id=20">
+<title>IaaC blog   &#xBB; Class 02: Ubiquitous Computing</title>
+<link>http://www.iaacblog.com/internet0/?page_id=20</link>
+<description>&#x26;quot;This class focuses on the exploration of computational systems that mix digital media and the physical environment.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T17:12:34Z</dc:date>
+<dc:subject>2008 course everyware ubicomp via:adamgreenfield</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/everyware" />
+    <rdf:li resource="http://del.icio.us/tag/ubicomp" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+    <rdf:li resource="http://del.icio.us/tag/via:adamgreenfield" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.civilservice.gov.uk/iam/codes/social_media/participation.asp">
+<title>Civil Service: Participation online guidance</title>
+<link>http://www.civilservice.gov.uk/iam/codes/social_media/participation.asp</link>
+<description>&#x26;quot;Be integrated&#x26;quot;!</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T17:11:29Z</dc:date>
+<dc:subject>UK civil_service government guidelines via:psychemedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guidelines" />
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/UK" />
+    <rdf:li resource="http://del.icio.us/tag/civil_service" />
+    <rdf:li resource="http://del.icio.us/tag/via:psychemedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.guardian.co.uk/inside/2008/05/the_web_on_the_move_xtech_2008.html">
+<title>The Web on the move: XTech 2008 | Inside guardian.co.uk</title>
+<link>http://blogs.guardian.co.uk/inside/2008/05/the_web_on_the_move_xtech_2008.html</link>
+<description>&#x26;quot;What happens if the provider disappears, changes their service, or is slow, or just not available? Many of these issues ... can be dealt with good supplier relationships, proxies, caching, &#x26;amp; defensive development techniques&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T16:45:29Z</dc:date>
+<dc:subject>2008 Guardian social_web web_design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Guardian" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/web_design" />
+    <rdf:li resource="http://del.icio.us/tag/social_web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://2008.xtech.org/public/schedule/detail/577">
+<title>XTech 2008: Rebuilding guardian.co.uk &#x2014; IDEAlliance</title>
+<link>http://2008.xtech.org/public/schedule/detail/577</link>
+<description>&#x26;quot;using the web for services to avoid internal complexity in our s/ware; implementing web 2 ideas at an enterprise scale w/o the enterprise baggage; using tagging to connect content &#x26;amp; services; ... [preparing] archive &#x26;amp; ... architecture for the social web&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T16:38:42Z</dc:date>
+<dc:subject>2008 Guardian social_web web_design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Guardian" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/web_design" />
+    <rdf:li resource="http://del.icio.us/tag/social_web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.guardian.co.uk/inside/2008/07/the_guardian_at_opentech_2008.html">
+<title>The Guardian at OpenTech 2008 | Inside guardian.co.uk</title>
+<link>http://blogs.guardian.co.uk/inside/2008/07/the_guardian_at_opentech_2008.html</link>
+<description>&#x26;quot;How we are using open source technologies, the open source tools that have been released by developers who worked on the recent rebuild; how our use of REST is creating hackable feeds &#x26;amp; is allowing services &#x26;amp; data from the web to build into our platform&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T16:23:05Z</dc:date>
+<dc:subject>2008 Guardian open_source platform</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Guardian" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/open_source" />
+    <rdf:li resource="http://del.icio.us/tag/platform" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/946095/Behavior-Purpose-and-Teleology-Rosenblueth-Wiener-Bigelow">
+<title>Behavior, Purpose, and Teleology (Rosenblueth, Wiener, Bigelow)</title>
+<link>http://www.scribd.com/doc/946095/Behavior-Purpose-and-Teleology-Rosenblueth-Wiener-Bigelow</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T13:16:40Z</dc:date>
+<dc:subject>1943 Norbert_Wiener cybernetics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cybernetics" />
+    <rdf:li resource="http://del.icio.us/tag/Norbert_Wiener" />
+    <rdf:li resource="http://del.icio.us/tag/1943" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoamerica.org/documentos_word/shannon-wiener.htm">
+<title>Cybernetics and Information Theory in the United States, France and the Soviet Union</title>
+<link>http://www.infoamerica.org/documentos_word/shannon-wiener.htm</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T12:56:27Z</dc:date>
+<dc:subject>cybernetics history_of_cybernetics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cybernetics" />
+    <rdf:li resource="http://del.icio.us/tag/history_of_cybernetics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hfr.org.uk/cybernetics-pages/origins.htm">
+<title>D J Stewart: Origins of Cybernetics&#x22;</title>
+<link>http://www.hfr.org.uk/cybernetics-pages/origins.htm</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-05T12:51:29Z</dc:date>
+<dc:subject>cybernetics history_of_cybernetics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cybernetics" />
+    <rdf:li resource="http://del.icio.us/tag/history_of_cybernetics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netgear.com/Products/RoutersandGateways/WiredRouters/MBM621.aspx">
+<title>Netgear MBM621 - 3G HSDPA Ethernet Modem</title>
+<link>http://www.netgear.com/Products/RoutersandGateways/WiredRouters/MBM621.aspx</link>
+<description>&#x26;quot;The MBM621 supports standards-based HSDPA wireless networks around the world. Integrated into the unit is an HSDPA module and SIM card. It&#x2019;s easy, just plug into power and the modem will connect to your mobile operator&#x2019;s high-speed wireless network.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T23:34:14Z</dc:date>
+<dc:subject>2008 3G HSDPA Netgear hardware modem</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Netgear" />
+    <rdf:li resource="http://del.icio.us/tag/modem" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/3G" />
+    <rdf:li resource="http://del.icio.us/tag/HSDPA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.managementtoday.co.uk/search/article/806183/books-attempts-fix-internet-rob-its-vital-spark/">
+<title>John Naughton reviews Jonathan Zittrain's 'The Future of the Internet - and how to stop it'</title>
+<link>http://www.managementtoday.co.uk/search/article/806183/books-attempts-fix-internet-rob-its-vital-spark/</link>
+<description>&#x26;quot;the very features that have made the internet such a creative force in our societies now threaten its future - as citizens, governments and corporations, exasperated or terrified by online mayhem, combine to 'lock down' and regulate the network.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T23:31:59Z</dc:date>
+<dc:subject>2008 John_Naughton Jonathan_Zittrain book_review future generativity internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book_review" />
+    <rdf:li resource="http://del.icio.us/tag/John_Naughton" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/Jonathan_Zittrain" />
+    <rdf:li resource="http://del.icio.us/tag/generativity" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.mit.edu/sturkle/techself/">
+<title>MIT Initiative on Technology and Self</title>
+<link>http://web.mit.edu/sturkle/techself/</link>
+<description>&#x26;quot;Internet has emerged as a new context for self-exploration &#x26;amp; social encounter; psychopharmacology, robotics, nanotechnology, genetic engineering, biotechnology &#x26;amp; artificial intelligence ... raise fundamental questions about selfhood, identity, community&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T14:26:26Z</dc:date>
+<dc:subject>MIT Sherry_Turkle community identity psychology research self selfhood technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MIT" />
+    <rdf:li resource="http://del.icio.us/tag/self" />
+    <rdf:li resource="http://del.icio.us/tag/selfhood" />
+    <rdf:li resource="http://del.icio.us/tag/identity" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/Sherry_Turkle" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://russelldavies.typepad.com/planning/2008/07/skuwiki.html">
+<title>russell davies: skuwiki &#x2014; if every product you owned had an associated wiki</title>
+<link>http://russelldavies.typepad.com/planning/2008/07/skuwiki.html</link>
+<description>&#x26;quot;there's an unrecorded moment in the life of an object - the time when it's actually being owned and used &#x2026;the human stuff, the memories, the associations, the stories &#x2026; the lived life of the product, [being] told by the people who'd bought it&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T13:35:12Z</dc:date>
+<dc:subject>Russell_Davies memories things</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Russell_Davies" />
+    <rdf:li resource="http://del.icio.us/tag/things" />
+    <rdf:li resource="http://del.icio.us/tag/memories" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/1/hi/entertainment/7402172.stm">
+<title>BBC NEWS | Obituary: Sir Charles Wheeler</title>
+<link>http://news.bbc.co.uk/1/hi/entertainment/7402172.stm</link>
+<description>&#x26;quot;he believed it was wrong to remain dispassionate about issues that were truly shocking&#x26;quot;; &#x26;quot;He ... punctured the pomposity of ... John Birt, whose torrent of management speak ground to a halt after Sir Charles deftly questioned his plans for BBC News&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T11:53:39Z</dc:date>
+<dc:subject>2008 BBC journalism obituaries</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/BBC" />
+    <rdf:li resource="http://del.icio.us/tag/obituaries" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ics.uci.edu/~jpd/ubicomp/">
+<title>Ubicomp Reading List (v1, October 2006)</title>
+<link>http://www.ics.uci.edu/~jpd/ubicomp/</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T08:42:05Z</dc:date>
+<dc:subject>Paul_Dourish everyware ubicomp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubicomp" />
+    <rdf:li resource="http://del.icio.us/tag/everyware" />
+    <rdf:li resource="http://del.icio.us/tag/Paul_Dourish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/precipitate/">
+<title>precipitate - Google Code</title>
+<link>http://code.google.com/p/precipitate/</link>
+<description>&#x26;quot;Precipitate lets you search for and launch your cloud data from within Spotlight or Google Desktop for Mac. It currently supports the following services: * Google Bookmarks, * Google Docs&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T08:04:36Z</dc:date>
+<dc:subject>Google_Code Mac cloud-computing search software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mac" />
+    <rdf:li resource="http://del.icio.us/tag/Google_Code" />
+    <rdf:li resource="http://del.icio.us/tag/cloud-computing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dig.csail.mit.edu/breadcrumbs/node/237">
+<title>Google, Viacom, Privacy and Copyright meet the social web | Decentralized Information Group (DIG) Breadcrumbs</title>
+<link>http://dig.csail.mit.edu/breadcrumbs/node/237</link>
+<description>&#x26;quot;the Viacom v. YouTube case suggests that privacy protection has to focus more limiting how people and institutions can *use* personal information even as we recognize that it is harder and harder to protect privacy by access control alone&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T08:03:32Z</dc:date>
+<dc:subject>2008 Google Viacom privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/Viacom" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ethanzuckerman.com/blog/2008/07/03/the-fallacy-of-examples-and-the-problems-of-extrapolating-from-media/">
+<title>&#x2026;My heart&#x2019;s in Accra &#xBB; The Fallacy of Examples &#x2014; a predictable misunderstanding</title>
+<link>http://www.ethanzuckerman.com/blog/2008/07/03/the-fallacy-of-examples-and-the-problems-of-extrapolating-from-media/</link>
+<description>&#x26;quot;we appear to have a tendency to assume that people we encounter are distributed on a bell curve. ... [I] wonder how many unconscious &#x26;amp; inaccurate generalizations I&#x2019;m making every day, looking at extremes &#x26;amp; unconsciously assuming they&#x2019;re medians&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T08:02:22Z</dc:date>
+<dc:subject>2008 Ethan_Zuckerman medians power_laws psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/Ethan_Zuckerman" />
+    <rdf:li resource="http://del.icio.us/tag/power_laws" />
+    <rdf:li resource="http://del.icio.us/tag/medians" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2004/11/cosmic_origins.php">
+<title>Kevin Kelly: Cosmic Origins of Extropy</title>
+<link>http://www.kk.org/thetechnium/archives/2004/11/cosmic_origins.php</link>
+<description>&#x26;quot;Technology is the visible extension of an archaic force which runs up in time while the universe runs down. ... all machines trace their origins to the big bang; Technology is a cosmic force.&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T07:56:50Z</dc:date>
+<dc:subject>2004 Kevin_Kelly extropy technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Kevin_Kelly" />
+    <rdf:li resource="http://del.icio.us/tag/extropy" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/2004" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php">
+<title>Kevin Kelly: Balancing the point where the linear crosses the exponential is what long-term thinking is about</title>
+<link>http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php</link>
+<description>&#x26;quot;All extropic  systems -- economy, nature &#x26;amp; technology -- are governed by self-accelerating feedback cycles. ... individual lives proceed in a linear fashion ... Generations ... advance steadily ...  pushed by the compounding cycles of exponential change&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T07:52:34Z</dc:date>
+<dc:subject>2008 Freeman_Dyson Kevin_Kelly</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Kevin_Kelly" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/Freeman_Dyson" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subtraction.com/archives/2008/0703_a_word_for_m.php">
+<title>Subtraction: A Word for .Mac</title>
+<link>http://www.subtraction.com/archives/2008/0703_a_word_for_m.php</link>
+<description>&#x26;quot;.Mac is a slovenly written. I hope MobileMe rectifies the situation&#x26;quot;</description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-04T07:40:30Z</dc:date>
+<dc:subject>.Mac 2008 Apple Khoi_Vinh MobileMe sync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Apple" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/.Mac" />
+    <rdf:li resource="http://del.icio.us/tag/MobileMe" />
+    <rdf:li resource="http://del.icio.us/tag/Khoi_Vinh" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/01/health/research/01mind.html?ex=1372651200&#x26;en=b3e936ce366fb8de&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink">
+<title>Mind - Years Later, Stanley Milgram's Shock Experiments Still Provide Insight - NYT</title>
+<link>http://www.nytimes.com/2008/07/01/health/research/01mind.html?ex=1372651200&#x26;en=b3e936ce366fb8de&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink</link>
+<description></description>
+<dc:creator>Preoccupations</dc:creator>
+<dc:date>2008-07-03T22:49:12Z</dc:date>
+<dc:subject>2008 NYT Stanley_Milgram psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Stanley_Milgram" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/NYT" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

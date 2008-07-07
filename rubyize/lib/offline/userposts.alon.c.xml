@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/alon.c">
+<title>del.icio.us/alon.c</title>
+<link>http://del.icio.us/alon.c</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://java.dzone.com/news/getting-further-with-spring-rc" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://javabyexample.wisdomplug.com/java-concepts/34-core-java/69-invoking-win32-api-and-activex-components-com-dlls-from-java-part-1.html" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57#id4" />
+  <rdf:li rdf:resource="http://koderko.dk/J2METutorial/" />
+  <rdf:li rdf:resource="http://www.freeziq.com/2008/06/29/the-top-10-free-web-development-editors.html" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_Django" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/spring-web-flow-crud-tutorial" />
+  <rdf:li rdf:resource="http://www.developer.com/java/other/article.php/3756831" />
+  <rdf:li rdf:resource="http://www.alphaworks.ibm.com/tech/manyaspects?open&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsite-jw30&#x26;ca=dgr-jw30awmanyaspects" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/general/101-essential-freelancing-resources/" />
+  <rdf:li rdf:resource="http://blog.rainer.eschen.name/2008/07/01/schemaspy-excellent-database-graphs-for-free/" />
+  <rdf:li rdf:resource="http://blog.cumps.be/design-patterns-decorator-pattern/" />
+  <rdf:li rdf:resource="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/J2EETutorial.pdf" />
+  <rdf:li rdf:resource="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/JSFIntro3.html" />
+  <rdf:li rdf:resource="http://blog.cumps.be/design-patterns-observer-pattern/" />
+  <rdf:li rdf:resource="http://blog.cumps.be/design-patterns-strategy-pattern/" />
+  <rdf:li rdf:resource="http://liquibase.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.pocket.co.il/community/showthread.php?t=162298" />
+  <rdf:li rdf:resource="http://www.emoze.com/en/whatIs/index.html" />
+  <rdf:li rdf:resource="http://johannburkard.de/software/stringsearch/" />
+  <rdf:li rdf:resource="http://itmanagement.earthweb.com/osrc/article.php/3689281" />
+  <rdf:li rdf:resource="http://itmanagement.earthweb.com/osrc/article.php/3754411/75+Popular+Open+Source+Desktop+Downloads.htm" />
+  <rdf:li rdf:resource="http://supercsv.sourceforge.net/index.html" />
+  <rdf:li rdf:resource="http://database-programmer.blogspot.com/2008/06/database-performance-1-huge-inserts.html" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/spring-rich-client-part-1" />
+  <rdf:li rdf:resource="http://pydev.sourceforge.net/" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles" />
+  <rdf:li rdf:resource="http://www.rosscode.com/blog/index.php?title=performance_tweaks_for_your_cache&#x26;more=1&#x26;c=1&#x26;tb=1&#x26;pb=1" />
+  <rdf:li rdf:resource="http://www.developer.com/java/other/article.php/3753906" />
+  <rdf:li rdf:resource="http://www.thinkui.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://java.dzone.com/news/getting-further-with-spring-rc">
+<title>Getting Further with Spring RCP | Javalobby</title>
+<link>http://java.dzone.com/news/getting-further-with-spring-rc</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-06T05:42:26Z</dc:date>
+<dc:subject>GUI Spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/GUI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-06T05:38:13Z</dc:date>
+<dc:subject>Optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Optimization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javabyexample.wisdomplug.com/java-concepts/34-core-java/69-invoking-win32-api-and-activex-components-com-dlls-from-java-part-1.html">
+<title>Invoking Win32 API and Activex Components (Com dlls) from J</title>
+<link>http://javabyexample.wisdomplug.com/java-concepts/34-core-java/69-invoking-win32-api-and-activex-components-com-dlls-from-java-part-1.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T12:29:09Z</dc:date>
+<dc:subject>Win32-API</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Win32-API" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57#id4">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57#id4</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T12:25:42Z</dc:date>
+<dc:subject>Python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koderko.dk/J2METutorial/">
+<title>Game Programming Crash Course (for J2ME): Welcome</title>
+<link>http://koderko.dk/J2METutorial/</link>
+<description>J2ME</description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T06:20:50Z</dc:date>
+<dc:subject>J2ME Tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/J2ME" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeziq.com/2008/06/29/the-top-10-free-web-development-editors.html">
+<title>The top 10 free web development editors</title>
+<link>http://www.freeziq.com/2008/06/29/the-top-10-free-web-development-editors.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T06:12:28Z</dc:date>
+<dc:subject>Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_Django">
+<title>Get Started With Django - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_Django</link>
+<description>Django</description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T06:11:12Z</dc:date>
+<dc:subject>Django Frameworks Python Tutorial Web-Development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Web-Development" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/Frameworks" />
+    <rdf:li resource="http://del.icio.us/tag/Django" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/spring-web-flow-crud-tutorial">
+<title>Spring Web Flow CRUD Tutorial | Javalobby</title>
+<link>http://java.dzone.com/articles/spring-web-flow-crud-tutorial</link>
+<description>web</description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T06:05:53Z</dc:date>
+<dc:subject>JSF Spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/JSF" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developer.com/java/other/article.php/3756831">
+<title>Java Tip: Simplify Spring Apps with @Autowired</title>
+<link>http://www.developer.com/java/other/article.php/3756831</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T05:31:35Z</dc:date>
+<dc:subject>Spring Tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/Tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alphaworks.ibm.com/tech/manyaspects?open&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsite-jw30&#x26;ca=dgr-jw30awmanyaspects">
+<title>alphaWorks : IBM Many Aspects Document Summarization Tool : Overview</title>
+<link>http://www.alphaworks.ibm.com/tech/manyaspects?open&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsite-jw30&#x26;ca=dgr-jw30awmanyaspects</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-03T05:27:26Z</dc:date>
+<dc:subject>Text-Handling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Text-Handling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/general/101-essential-freelancing-resources/">
+<title>101 Essential Freelancing Resources - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/general/101-essential-freelancing-resources/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-02T05:41:34Z</dc:date>
+<dc:subject>Apps Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Apps" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rainer.eschen.name/2008/07/01/schemaspy-excellent-database-graphs-for-free/">
+<title>SchemaSpy - Excellent Database Graphs for Free! at Springsteam - Next Generation Java Development | Spring . Flex/AIR . 3D</title>
+<link>http://blog.rainer.eschen.name/2008/07/01/schemaspy-excellent-database-graphs-for-free/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-02T05:38:34Z</dc:date>
+<dc:subject>Database Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cumps.be/design-patterns-decorator-pattern/">
+<title>David Cumps &#xBB; Design Patterns - Decorator Pattern</title>
+<link>http://blog.cumps.be/design-patterns-decorator-pattern/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-30T10:28:54Z</dc:date>
+<dc:subject>Design-Pattern</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design-Pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/J2EETutorial.pdf">
+<title>http://java.sun.com/j2ee/1.4/docs/tutorial/doc/J2EETutorial.pdf</title>
+<link>http://java.sun.com/j2ee/1.4/docs/tutorial/doc/J2EETutorial.pdf</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-29T10:35:23Z</dc:date>
+<dc:subject>Books JSF</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Books" />
+    <rdf:li resource="http://del.icio.us/tag/JSF" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/j2ee/1.4/docs/tutorial/doc/JSFIntro3.html">
+<title>What Is a JavaServer Faces Application?</title>
+<link>http://java.sun.com/j2ee/1.4/docs/tutorial/doc/JSFIntro3.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-29T10:34:57Z</dc:date>
+<dc:subject>JSF Tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JSF" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cumps.be/design-patterns-observer-pattern/">
+<title>David Cumps &#xBB; Design Patterns - Observer Pattern</title>
+<link>http://blog.cumps.be/design-patterns-observer-pattern/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-29T06:18:14Z</dc:date>
+<dc:subject>Design-Pattern</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design-Pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cumps.be/design-patterns-strategy-pattern/">
+<title>David Cumps &#xBB; Design Patterns - Strategy Pattern</title>
+<link>http://blog.cumps.be/design-patterns-strategy-pattern/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-26T06:32:46Z</dc:date>
+<dc:subject>Design-Pattern</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design-Pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://liquibase.sourceforge.net/">
+<title>home [LiquiBase]</title>
+<link>http://liquibase.sourceforge.net/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-26T06:09:26Z</dc:date>
+<dc:subject>Database Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pocket.co.il/community/showthread.php?t=162298">
+<title>~~ &#x5EA;&#x5D5;&#x5DB;&#x5E0;&#x5D5;&#x5EA; &#x5D7;&#x5D3;&#x5E9;&#x5D5;&#x5EA; &#x5DC;&#x5E1;&#x5D9;&#x5DE;&#x5D1;&#x5D9;&#x5D0;&#x5DF; 9.1 (&#x5DE;&#x5EA;&#x5E2;&#x5D3;&#x5DB;&#x5DF; &#x5DB;&#x5DC; &#x5D9;&#x5D5;&#x5DD;) ~~ - Pocket &#x5E4;&#x5D5;&#x5E7;&#x5D8;</title>
+<link>http://www.pocket.co.il/community/showthread.php?t=162298</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-25T11:34:31Z</dc:date>
+<dc:subject>Mobile-Apps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mobile-Apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emoze.com/en/whatIs/index.html">
+<title>emoze &#x2013; Free Push email, mobile email software for mobile devices.</title>
+<link>http://www.emoze.com/en/whatIs/index.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-25T11:34:14Z</dc:date>
+<dc:subject>Mobile-Apps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mobile-Apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://johannburkard.de/software/stringsearch/">
+<title>StringSearch &#x2013; high-performance pattern matching algorithms in Java</title>
+<link>http://johannburkard.de/software/stringsearch/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-25T06:02:43Z</dc:date>
+<dc:subject>Optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Optimization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itmanagement.earthweb.com/osrc/article.php/3689281">
+<title>100 Open Source Downloads</title>
+<link>http://itmanagement.earthweb.com/osrc/article.php/3689281</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-24T12:31:12Z</dc:date>
+<dc:subject>Apps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itmanagement.earthweb.com/osrc/article.php/3754411/75+Popular+Open+Source+Desktop+Downloads.htm">
+<title>75 Popular Open Source Desktop Downloads</title>
+<link>http://itmanagement.earthweb.com/osrc/article.php/3754411/75+Popular+Open+Source+Desktop+Downloads.htm</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-24T12:25:06Z</dc:date>
+<dc:subject>Apps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://supercsv.sourceforge.net/index.html">
+<title>Super Csv - A free CSV reader/writer...</title>
+<link>http://supercsv.sourceforge.net/index.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-23T09:46:05Z</dc:date>
+<dc:subject>Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://database-programmer.blogspot.com/2008/06/database-performance-1-huge-inserts.html">
+<title>The Database Programmer: Database Performance 1: Huge Inserts</title>
+<link>http://database-programmer.blogspot.com/2008/06/database-performance-1-huge-inserts.html</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-23T09:44:29Z</dc:date>
+<dc:subject>Database Optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/Optimization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/spring-rich-client-part-1">
+<title>Spring Rich Client - Part 1 | Javalobby</title>
+<link>http://java.dzone.com/articles/spring-rich-client-part-1</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-22T05:53:27Z</dc:date>
+<dc:subject>GUI Spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/GUI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pydev.sourceforge.net/">
+<title>Pydev</title>
+<link>http://pydev.sourceforge.net/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-22T05:50:29Z</dc:date>
+<dc:subject>Eclipse-Plugin Scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Eclipse-Plugin" />
+    <rdf:li resource="http://del.icio.us/tag/Scripting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles">
+<title>LinkMingle.com &#xBB; List of Free Online Python Books</title>
+<link>http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-19T05:53:26Z</dc:date>
+<dc:subject>Books Python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Books" />
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rosscode.com/blog/index.php?title=performance_tweaks_for_your_cache&#x26;more=1&#x26;c=1&#x26;tb=1&#x26;pb=1">
+<title>RossCode.com - Performance Tweaks For Your Cache</title>
+<link>http://www.rosscode.com/blog/index.php?title=performance_tweaks_for_your_cache&#x26;more=1&#x26;c=1&#x26;tb=1&#x26;pb=1</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-19T05:51:43Z</dc:date>
+<dc:subject>Cache Optimization Tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tips" />
+    <rdf:li resource="http://del.icio.us/tag/Optimization" />
+    <rdf:li resource="http://del.icio.us/tag/Cache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developer.com/java/other/article.php/3753906">
+<title>Working With Design Patterns: State</title>
+<link>http://www.developer.com/java/other/article.php/3753906</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-19T05:23:57Z</dc:date>
+<dc:subject>Design-Pattern</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design-Pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkui.com/">
+<title>ThinkUI SQL Client - SQL Query and Code Generation Tool for Java Developers</title>
+<link>http://www.thinkui.com/</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-06-18T11:12:51Z</dc:date>
+<dc:subject>Database Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

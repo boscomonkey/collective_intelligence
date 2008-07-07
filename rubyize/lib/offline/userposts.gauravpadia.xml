@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/gauravpadia">
+<title>del.icio.us/gauravpadia</title>
+<link>http://del.icio.us/gauravpadia</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.moneysavingexpert.com/tipnote/learn-language-free" />
+  <rdf:li rdf:resource="http://tips.webdesign10.com/how-to-make-a-drupal-theme" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://www.123shared.com/" />
+  <rdf:li rdf:resource="http://www.netzgesta.de/shiftzoom/" />
+  <rdf:li rdf:resource="http://www.librarything.com/" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net/" />
+  <rdf:li rdf:resource="http://refactormycode.com/" />
+  <rdf:li rdf:resource="http://www.go2web20.net/" />
+  <rdf:li rdf:resource="http://thoughtpad.net/alan-dean/http-headers-status.png" />
+  <rdf:li rdf:resource="http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html" />
+  <rdf:li rdf:resource="http://ebooks.katz.cd/download/2103683/eBook/English-Guru/" />
+  <rdf:li rdf:resource="http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html" />
+  <rdf:li rdf:resource="http://stopdesign.com/present/2004/ddw-seattle/tables/" />
+  <rdf:li rdf:resource="http://pdf-search-engine.com/" />
+  <rdf:li rdf:resource="http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery" />
+  <rdf:li rdf:resource="http://www.geekdaily.net/2008/06/24/advanced-tableless-forms/" />
+  <rdf:li rdf:resource="http://www.webdevlounge.com/articles/css-frameworks/" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/article/css-animation-technique" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/jquery-five-questions-and-answ" />
+  <rdf:li rdf:resource="http://www.zachgraeve.com/css-cheats/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/20-hot-client-industries-that-hire-freelancers/" />
+  <rdf:li rdf:resource="http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.hypnosisdownloads.com/?1885" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>eXtplorer - A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-06T12:44:09Z</dc:date>
+<dc:subject>ajax extjs filemanager javascript php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/filemanager" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-06T12:43:40Z</dc:date>
+<dc:subject>XP install windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/XP" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-05T18:33:23Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moneysavingexpert.com/tipnote/learn-language-free">
+<title>Learn a language for free using online tools</title>
+<link>http://www.moneysavingexpert.com/tipnote/learn-language-free</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-03T18:06:01Z</dc:date>
+<dc:subject>Language Learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Language" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tips.webdesign10.com/how-to-make-a-drupal-theme">
+<title>How to Make a Drupal Theme</title>
+<link>http://tips.webdesign10.com/how-to-make-a-drupal-theme</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-02T17:00:28Z</dc:date>
+<dc:subject>drupal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-01T19:10:03Z</dc:date>
+<dc:subject>audio media mp3 vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.123shared.com/">
+<title>Search 39 file sharing sites with one click</title>
+<link>http://www.123shared.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-01T17:56:05Z</dc:date>
+<dc:subject>searchengine shared-websites websites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/websites" />
+    <rdf:li resource="http://del.icio.us/tag/shared-websites" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netzgesta.de/shiftzoom/">
+<title>shiftzoom.js</title>
+<link>http://www.netzgesta.de/shiftzoom/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-07-01T17:21:55Z</dc:date>
+<dc:subject>gallery image javascript webdesign zoom</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/zoom" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.librarything.com/">
+<title>LibraryThing | Catalog your books online</title>
+<link>http://www.librarything.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T17:05:14Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/">
+<title>100 Helpful Web Tools for Every Kind of Learner</title>
+<link>http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T17:00:50Z</dc:date>
+<dc:subject>Learning tools tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/">
+<title>5 Regular Expressions Every Web Programmer Should Know</title>
+<link>http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T17:00:19Z</dc:date>
+<dc:subject>regex webdeveloping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/webdeveloping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/">
+<title>Sproutcore - javascript framework</title>
+<link>http://www.sproutcore.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:59:38Z</dc:date>
+<dc:subject>framework javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net/">
+<title>4 Quick Ways To Download YouTube Videos Off The Net</title>
+<link>http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:34:27Z</dc:date>
+<dc:subject>tools youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://refactormycode.com/">
+<title>Recent Codes - Refactor My Code</title>
+<link>http://refactormycode.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:32:19Z</dc:date>
+<dc:subject>code coding helpful programming scripts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/helpful" />
+    <rdf:li resource="http://del.icio.us/tag/scripts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.go2web20.net/">
+<title>The complete web2.0 Directory</title>
+<link>http://www.go2web20.net/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:22:30Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thoughtpad.net/alan-dean/http-headers-status.png">
+<title>An activity diagram of response headers GET POST DELETE HEAD etc</title>
+<link>http://thoughtpad.net/alan-dean/http-headers-status.png</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:21:57Z</dc:date>
+<dc:subject>GET POST http</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/GET" />
+    <rdf:li resource="http://del.icio.us/tag/POST" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html">
+<title>23 impressive tools for faster javascriptajax development</title>
+<link>http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-30T16:17:53Z</dc:date>
+<dc:subject>ajax javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ebooks.katz.cd/download/2103683/eBook/English-Guru/">
+<title>English Guru</title>
+<link>http://ebooks.katz.cd/download/2103683/eBook/English-Guru/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-29T17:40:57Z</dc:date>
+<dc:subject>Learning english</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html">
+<title>Jquery Local Scroll Plugin</title>
+<link>http://flesler.blogspot.com/2007/10/jquerylocalscroll-10.html</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-29T07:17:04Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stopdesign.com/present/2004/ddw-seattle/tables/">
+<title>No More Tables CSS Layout Techniques</title>
+<link>http://stopdesign.com/present/2004/ddw-seattle/tables/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-27T18:29:11Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdf-search-engine.com/">
+<title>Ebook Search - Pdf Search Engine</title>
+<link>http://pdf-search-engine.com/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-27T18:01:10Z</dc:date>
+<dc:subject>ebook searchengine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery">
+<title>Create a multilevel Dropdown menu with CSS and improve it via jQuery</title>
+<link>http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T18:31:08Z</dc:date>
+<dc:subject>css jquery menu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/menu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geekdaily.net/2008/06/24/advanced-tableless-forms/">
+<title>Advanced tableless forms</title>
+<link>http://www.geekdaily.net/2008/06/24/advanced-tableless-forms/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T18:15:49Z</dc:date>
+<dc:subject>css forms tableless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tableless" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdevlounge.com/articles/css-frameworks/">
+<title>CSS Resources - 8 Frameworks</title>
+<link>http://www.webdevlounge.com/articles/css-frameworks/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T18:06:48Z</dc:date>
+<dc:subject>css framework</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/article/css-animation-technique">
+<title>Warning: This Secret CSS Technique Will Surprise You!</title>
+<link>http://www.sitepoint.com/article/css-animation-technique</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T18:05:30Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/jquery-five-questions-and-answ">
+<title>jQuery - Five Questions And Answers</title>
+<link>http://css.dzone.com/news/jquery-five-questions-and-answ</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T18:04:58Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachgraeve.com/css-cheats/">
+<title>CSS Layout Cheats</title>
+<link>http://www.zachgraeve.com/css-cheats/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-26T17:39:29Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/20-hot-client-industries-that-hire-freelancers/">
+<title>20 Hot Client Industries That Hire Freelancers - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/20-hot-client-industries-that-hire-freelancers/</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-25T18:47:11Z</dc:date>
+<dc:subject>freelance freelancing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelancing" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1">
+<title>Computerworld - The A-Z of Programming Languages: C++</title>
+<link>http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-25T18:46:19Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-23T17:32:35Z</dc:date>
+<dc:subject>computer-science lectures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer-science" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hypnosisdownloads.com/?1885">
+<title>Hypnosis Downloads</title>
+<link>http://www.hypnosisdownloads.com/?1885</link>
+<description></description>
+<dc:creator>gauravpadia</dc:creator>
+<dc:date>2008-06-22T19:18:31Z</dc:date>
+<dc:subject>hypnosis hypnotize</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hypnosis" />
+    <rdf:li resource="http://del.icio.us/tag/hypnotize" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

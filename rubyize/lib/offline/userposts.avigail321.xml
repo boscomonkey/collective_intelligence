@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/avigail321">
+<title>del.icio.us/avigail321</title>
+<link>http://del.icio.us/avigail321</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.vanityfair.com/culture/features/2008/07/internet200807?printable=true&#x26;currentPage=all" />
+  <rdf:li rdf:resource="http://www.urbandictionary.com/" />
+  <rdf:li rdf:resource="http://www.doshdosh.com/must-have-tools-for-active-digg-users/" />
+  <rdf:li rdf:resource="http://www.time.com/time/specials/2007/style_design/0,28757,1727737,00.html" />
+  <rdf:li rdf:resource="http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm?chan=top+news_top+news+index_news+%2B+analysis" />
+  <rdf:li rdf:resource="http://waxy.org/2008/04/fanboy_supercuts_obsessive_video_montages/" />
+  <rdf:li rdf:resource="http://blog.createdebate.com/2008/04/24/7-habits-of-highly-effective-internet-users/" />
+  <rdf:li rdf:resource="http://www.maniatv.com/" />
+  <rdf:li rdf:resource="http://www.rottentomatoes.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-07-06T11:16:23Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.vanityfair.com/culture/features/2008/07/internet200807?printable=true&#x26;currentPage=all">
+<title>How the Web Was Won: Entertainment &#x26; Culture: vanityfair.com</title>
+<link>http://www.vanityfair.com/culture/features/2008/07/internet200807?printable=true&#x26;currentPage=all</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-06-08T10:26:19Z</dc:date>
+<dc:subject>history internet technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.urbandictionary.com/">
+<title>Urban Dictionary, June 7: Yay</title>
+<link>http://www.urbandictionary.com/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-06-08T10:22:13Z</dc:date>
+<dc:subject>dictionary language reference slang</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+    <rdf:li resource="http://del.icio.us/tag/slang" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doshdosh.com/must-have-tools-for-active-digg-users/">
+<title>12 Must-Have Tools for Active Digg Users</title>
+<link>http://www.doshdosh.com/must-have-tools-for-active-digg-users/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-26T10:13:30Z</dc:date>
+<dc:subject>digg socialmedia tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.time.com/time/specials/2007/style_design/0,28757,1727737,00.html">
+<title>Today's Most Influential Design - The Design 100 - TIME</title>
+<link>http://www.time.com/time/specials/2007/style_design/0,28757,1727737,00.html</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-15T17:34:20Z</dc:date>
+<dc:subject>Magazine Time architecture design retail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/Time" />
+    <rdf:li resource="http://del.icio.us/tag/Magazine" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/retail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm?chan=top+news_top+news+index_news+%2B+analysis">
+<title>Why Twitter Matters</title>
+<link>http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm?chan=top+news_top+news+index_news+%2B+analysis</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-15T17:32:36Z</dc:date>
+<dc:subject>business socialmedia twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://waxy.org/2008/04/fanboy_supercuts_obsessive_video_montages/">
+<title>Fanboy Supercuts, Obsessive Video Montages - Waxy.org</title>
+<link>http://waxy.org/2008/04/fanboy_supercuts_obsessive_video_montages/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-15T17:31:00Z</dc:date>
+<dc:subject>fans humorous mashup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fans" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/humorous" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.createdebate.com/2008/04/24/7-habits-of-highly-effective-internet-users/">
+<title>The 7 Habits of Highly Effective Internet Users at The CreateDebate Blog</title>
+<link>http://blog.createdebate.com/2008/04/24/7-habits-of-highly-effective-internet-users/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-15T17:25:21Z</dc:date>
+<dc:subject>humor internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maniatv.com/">
+<title>www.maniatv.com</title>
+<link>http://www.maniatv.com/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-02T13:19:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.rottentomatoes.com/">
+<title>ROTTEN TOMATOES: Movies and Games, Reviews and Previews</title>
+<link>http://www.rottentomatoes.com/</link>
+<description></description>
+<dc:creator>avigail321</dc:creator>
+<dc:date>2008-05-02T10:34:21Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

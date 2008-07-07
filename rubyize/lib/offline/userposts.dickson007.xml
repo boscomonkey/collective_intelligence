@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dickson007">
+<title>del.icio.us/dickson007</title>
+<link>http://del.icio.us/dickson007</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Napa_Sonoma_Marsh" />
+  <rdf:li rdf:resource="http://www.expeditions.com/Destination44.asp?Destination=329" />
+  <rdf:li rdf:resource="http://www.thefurniture.com/store/MFI-MON99D.htm" />
+  <rdf:li rdf:resource="http://www.stenhouse.com/shop/pc/viewprd.asp?idProduct=9122&#x26;r=sb080703t&#x26;REFERER=" />
+  <rdf:li rdf:resource="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html" />
+  <rdf:li rdf:resource="https://sablesnyc.rapidorders.com/default.php" />
+  <rdf:li rdf:resource="http://www.boxofficemojo.com/showtimes/theater.htm?id=2au&#x26;p=.htm" />
+  <rdf:li rdf:resource="http://www.lavalakelamb.com/lamb-shanks-with-a-lemon-twist.php" />
+  <rdf:li rdf:resource="http://www.accorhotels.com/gb/home/index.shtml" />
+  <rdf:li rdf:resource="http://www.pbs.org/opb/greatlodges/parks2/" />
+  <rdf:li rdf:resource="http://www.teds-garage.com/index.html" />
+  <rdf:li rdf:resource="http://www.volcanohousehotel.com/" />
+  <rdf:li rdf:resource="http://www.visitlakequinault.com/" />
+  <rdf:li rdf:resource="http://www.npr.org/templates/story/story.php?storyId=91784901" />
+  <rdf:li rdf:resource="http://net.educause.edu/ELI083" />
+  <rdf:li rdf:resource="http://net.educause.edu/node/13663?time=1213805803" />
+  <rdf:li rdf:resource="http://www.avani-design.com/digital.htm" />
+  <rdf:li rdf:resource="http://www.mannysdeli.com/" />
+  <rdf:li rdf:resource="http://www.experiencemississippiriver.com/" />
+  <rdf:li rdf:resource="http://www.discovercanal.com/home.cfm" />
+  <rdf:li rdf:resource="http://www.mam.org/" />
+  <rdf:li rdf:resource="http://www.nps.gov/cuva/" />
+  <rdf:li rdf:resource="http://www.captainmerry.com/" />
+  <rdf:li rdf:resource="http://www.cincinnatiusa.com/Hotels/detail.asp?HotelID=34" />
+  <rdf:li rdf:resource="http://www.newharmony.biz/" />
+  <rdf:li rdf:resource="http://www.gejascafe.com/" />
+  <rdf:li rdf:resource="http://www.55lofts.com/" />
+  <rdf:li rdf:resource="http://www.canoebay.com/aboutcanoebay/maps.htm" />
+  <rdf:li rdf:resource="http://www.glenlaurel.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-06T11:19:16Z</dc:date>
+<dc:subject>blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (30%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-06T11:17:57Z</dc:date>
+<dc:subject>data_display design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/data_display" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Napa_Sonoma_Marsh">
+<title>CA Napa Sonoma Marsh - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Napa_Sonoma_Marsh</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-05T14:38:51Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.expeditions.com/Destination44.asp?Destination=329">
+<title>Lindblad Expeditions: Adventure Travel, Vacations and Trips &#x2013; Lindblad Expeditions</title>
+<link>http://www.expeditions.com/Destination44.asp?Destination=329</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-05T14:30:56Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thefurniture.com/store/MFI-MON99D.htm">
+<title>FURNITURE :: Contemporary Seven Drawer Dresser, 'Mondoco' Collection by Modus Furniture International. FREE SHIPPING</title>
+<link>http://www.thefurniture.com/store/MFI-MON99D.htm</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-05T14:06:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.stenhouse.com/shop/pc/viewprd.asp?idProduct=9122&#x26;r=sb080703t&#x26;REFERER=">
+<title>Stenhouse Publishers - Spaces &#x26; Places: Designing Classrooms for Literacy</title>
+<link>http://www.stenhouse.com/shop/pc/viewprd.asp?idProduct=9122&#x26;r=sb080703t&#x26;REFERER=</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-04T14:48:35Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html">
+<title>30+ Outstanding Character Illustrations in Modern Web Design</title>
+<link>http://www.noupe.com/design/character-illustrations-in-modern-web-design.html</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-30T13:07:16Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://sablesnyc.rapidorders.com/default.php">
+<title>NY NY: Sable's Deli</title>
+<link>https://sablesnyc.rapidorders.com/default.php</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-27T21:18:49Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boxofficemojo.com/showtimes/theater.htm?id=2au&#x26;p=.htm">
+<title>NCG - Eastwood Cinemas (Lansing, MI) Movie Theater Information and Showtimes</title>
+<link>http://www.boxofficemojo.com/showtimes/theater.htm?id=2au&#x26;p=.htm</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-27T01:05:59Z</dc:date>
+<dc:subject>movie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lavalakelamb.com/lamb-shanks-with-a-lemon-twist.php">
+<title>Lamb Shanks: Use Organic Lamb to Make Lamb Shanks with a Lemon Twist</title>
+<link>http://www.lavalakelamb.com/lamb-shanks-with-a-lemon-twist.php</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T20:14:14Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.accorhotels.com/gb/home/index.shtml">
+<title>EU Accor Hotels Book a hotel online with Accor Hotels</title>
+<link>http://www.accorhotels.com/gb/home/index.shtml</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T20:06:38Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pbs.org/opb/greatlodges/parks2/">
+<title>US Great Lodges . Great Lodges of the National Parks Vol. II | PBS</title>
+<link>http://www.pbs.org/opb/greatlodges/parks2/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T16:28:25Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teds-garage.com/index.html">
+<title>IL Clinton near Springfield Retro fifties diner, catering - Clinton, Illinois.</title>
+<link>http://www.teds-garage.com/index.html</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T16:19:31Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.volcanohousehotel.com/">
+<title>HA Hawaii Volcano National Park: Volcano House - Official Site</title>
+<link>http://www.volcanohousehotel.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T00:32:41Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.visitlakequinault.com/">
+<title>WA Lake Quinault Lodge, Olympic National Forest, WA</title>
+<link>http://www.visitlakequinault.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-26T00:23:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.npr.org/templates/story/story.php?storyId=91784901">
+<title>Creativity: Alfred North Whitehead: Parting Words: On Art</title>
+<link>http://www.npr.org/templates/story/story.php?storyId=91784901</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-23T14:01:56Z</dc:date>
+<dc:subject>cep807 cep813 radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cep807" />
+    <rdf:li resource="http://del.icio.us/tag/cep813" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://net.educause.edu/ELI083">
+<title>ELI 2008 Fall Focus Session  Design of Learning Spaces</title>
+<link>http://net.educause.edu/ELI083</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-18T20:00:01Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://net.educause.edu/node/13663?time=1213805803">
+<title>EDUCAUSE Southwest Regional Conference 2008 Proceedings</title>
+<link>http://net.educause.edu/node/13663?time=1213805803</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-18T16:18:03Z</dc:date>
+<dc:subject>cep952</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cep952" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.avani-design.com/digital.htm">
+<title>avani &#x3E; web/digital media &#x3E; web design</title>
+<link>http://www.avani-design.com/digital.htm</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-18T14:37:39Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mannysdeli.com/">
+<title>IL Chicago Manny's Cafeteria and Delicatessen - The Best Deli in Chicago - Since 1942</title>
+<link>http://www.mannysdeli.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T23:05:34Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.experiencemississippiriver.com/">
+<title>IL Mississippi River: Official Site for Mississippi River Travel, Experience Mississippi River</title>
+<link>http://www.experiencemississippiriver.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T23:04:41Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.discovercanal.com/home.cfm">
+<title>IN Indianapolis Discover Canal &#x26; White River State Park</title>
+<link>http://www.discovercanal.com/home.cfm</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T23:03:29Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mam.org/">
+<title>WI Milwaukee Art Museum | Art Lives Here</title>
+<link>http://www.mam.org/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T23:00:22Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nps.gov/cuva/">
+<title>OH Cleveland area: Cuyahoga Valley National Park (U.S. National Park Service)</title>
+<link>http://www.nps.gov/cuva/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T22:59:45Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.captainmerry.com/">
+<title>IL East Dubuque Captain Merry B&#x26;B</title>
+<link>http://www.captainmerry.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:32:17Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cincinnatiusa.com/Hotels/detail.asp?HotelID=34">
+<title>OH Cincinnati: The Cincinnatian Hotel</title>
+<link>http://www.cincinnatiusa.com/Hotels/detail.asp?HotelID=34</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:30:20Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newharmony.biz/">
+<title>IN New Harmony (southwest)</title>
+<link>http://www.newharmony.biz/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:28:02Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gejascafe.com/">
+<title>IL Chicago Geja's Cafe - Romantic Fondue &#x2022; Fine Wines &#x2022; Flamenco / Classical Guitar in Chicago</title>
+<link>http://www.gejascafe.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:23:00Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.55lofts.com/">
+<title>OH Columbus, Ohio Hotels &#x2013; Lofts &#x2013; Unique Upscale Luxury Boutique Hotels in Downtown Columbus, OH</title>
+<link>http://www.55lofts.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:21:23Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.canoebay.com/aboutcanoebay/maps.htm">
+<title>OH Canoe Bay Wisconsin Cabin Rentals :: A Private Midwest Resort with 3 Lakes</title>
+<link>http://www.canoebay.com/aboutcanoebay/maps.htm</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:19:02Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.glenlaurel.com/">
+<title>OH Hocking Hills Bed and Breakfast - A Scottish Inn with Restaurant, Spa Weddings and Business Retreats: Glenlaurel Inn - Ohio</title>
+<link>http://www.glenlaurel.com/</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-06-15T21:16:14Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

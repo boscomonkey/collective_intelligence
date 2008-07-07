@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ncote">
+<title>del.icio.us/ncote</title>
+<link>http://del.icio.us/ncote</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.tooter4kids.com/classroom/FairyTaleUnit.htm" />
+  <rdf:li rdf:resource="http://www.photoshow.com/maker/share/HD3JG9MN" />
+  <rdf:li rdf:resource="http://www.pbs.org/teachers/mathline/concepts/earthday/activity3.shtm" />
+  <rdf:li rdf:resource="http://www.arcademicskillbuilders.com/" />
+  <rdf:li rdf:resource="http://www.mymemorizer.com/" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=dc244wq9_72dvsrd7dn" />
+  <rdf:li rdf:resource="http://animoto.com/" />
+  <rdf:li rdf:resource="http://smartart.wikispaces.com/The+Flow+of+Putting+Togther+A+PSA" />
+  <rdf:li rdf:resource="http://www.mahalo.com/How_to_Use_del.icio.us_Like_a_Pro" />
+  <rdf:li rdf:resource="http://campaign.grisoft.com/ww.special-upgrade-7-8-free-03b-free78cnv/" />
+  <rdf:li rdf:resource="http://www.wikispaces.com/site/for/teachers" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/books/firefox3" />
+  <rdf:li rdf:resource="http://www.21stcenturyskills.org/route21/" />
+  <rdf:li rdf:resource="http://nortellearnit.org/technology/Discovering_the_Internet/" />
+  <rdf:li rdf:resource="http://nortellearnit.org/resources/Guidesheets/" />
+  <rdf:li rdf:resource="http://www.allmyfaves.com/" />
+  <rdf:li rdf:resource="http://www.infinitethinking.org/2008/05/google-gears-up-as-digital-equity.html" />
+  <rdf:li rdf:resource="http://techenhancedlearning.wikispaces.com/Vicki+Davis" />
+  <rdf:li rdf:resource="http://photoshop.aws.sitepoint.com/" />
+  <rdf:li rdf:resource="http://www.wacona.com/kindergartengames/kindergartengames.html" />
+  <rdf:li rdf:resource="http://www.nortellearnit.org/LearniT/webchatinfo_popup" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/Kathyschrock/web20tools" />
+  <rdf:li rdf:resource="http://homepage.vita-learn.org/Pages/vitaLearn_DL08/index" />
+  <rdf:li rdf:resource="http://www.worldwidetelescope.org/" />
+  <rdf:li rdf:resource="http://amazing-space.stsci.edu/eds/tools/" />
+  <rdf:li rdf:resource="http://theinnovativeeducator.wikispaces.com/" />
+  <rdf:li rdf:resource="http://www.voki.com/" />
+  <rdf:li rdf:resource="http://greatbookstories.pbwiki.com/" />
+  <rdf:li rdf:resource="http://grades5and6.blogspot.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://teachweb2.wikispaces.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.tooter4kids.com/classroom/FairyTaleUnit.htm">
+<title>Fairy Tales</title>
+<link>http://www.tooter4kids.com/classroom/FairyTaleUnit.htm</link>
+<description>Carol sent this</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-05T22:49:56Z</dc:date>
+<dc:subject>Fairytales</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fairytales" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshow.com/maker/share/HD3JG9MN">
+<title>PhotoShow | Share your PhotoShow</title>
+<link>http://www.photoshow.com/maker/share/HD3JG9MN</link>
+<description>Made a photoshow of chloe</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-05T22:46:43Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.pbs.org/teachers/mathline/concepts/earthday/activity3.shtm">
+<title>TeacherSource . Math . Population Growth | PBS</title>
+<link>http://www.pbs.org/teachers/mathline/concepts/earthday/activity3.shtm</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-03T21:45:15Z</dc:date>
+<dc:subject>math_mmpopulation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math_mmpopulation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arcademicskillbuilders.com/">
+<title>Arcademic Skill Builders: Online Educational Video Games</title>
+<link>http://www.arcademicskillbuilders.com/</link>
+<description>Recommended -Bob Sprankle</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-03T17:57:37Z</dc:date>
+<dc:subject>math_games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math_games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mymemorizer.com/">
+<title>mymemorizer.com - Web calendar with e-mail and SMS/Text Message reminder alert service</title>
+<link>http://www.mymemorizer.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-03T15:41:39Z</dc:date>
+<dc:subject>calendar_reminder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar_reminder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=dc244wq9_72dvsrd7dn">
+<title>NECC 2008 Tools Guided Practice</title>
+<link>http://docs.google.com/View?docid=dc244wq9_72dvsrd7dn</link>
+<description>tools for web 2.0 lucie</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-02T23:05:45Z</dc:date>
+<dc:subject>2.0_lucie web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/2.0_lucie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://animoto.com/">
+<title>A N I M O T O</title>
+<link>http://animoto.com/</link>
+<description>create videos online</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-07-02T21:11:57Z</dc:date>
+<dc:subject>videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://smartart.wikispaces.com/The+Flow+of+Putting+Togther+A+PSA">
+<title>smartart &#xBB; The Flow of Putting Togther A PSA</title>
+<link>http://smartart.wikispaces.com/The+Flow+of+Putting+Togther+A+PSA</link>
+<description>PSA guidelines a wiki</description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-29T23:12:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.mahalo.com/How_to_Use_del.icio.us_Like_a_Pro">
+<title>How to Use del.icio.us Like a Pro - Mahalo</title>
+<link>http://www.mahalo.com/How_to_Use_del.icio.us_Like_a_Pro</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-28T14:14:29Z</dc:date>
+<dc:subject>delicious tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://campaign.grisoft.com/ww.special-upgrade-7-8-free-03b-free78cnv/">
+<title>AVG Anti-Virus and Internet Security - New AVG 8.0 Downloads</title>
+<link>http://campaign.grisoft.com/ww.special-upgrade-7-8-free-03b-free78cnv/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-27T13:59:39Z</dc:date>
+<dc:subject>free_8.avg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free_8.avg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikispaces.com/site/for/teachers">
+<title>Wikispaces &#xBB; for teachers</title>
+<link>http://www.wikispaces.com/site/for/teachers</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-27T13:16:07Z</dc:date>
+<dc:subject>wiki_signup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki_signup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/books/firefox3">
+<title>e-bookhelp</title>
+<link>http://www.sitepoint.com/books/firefox3</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-26T21:00:43Z</dc:date>
+<dc:subject>firefox_browser</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox_browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.21stcenturyskills.org/route21/">
+<title>Welcome to Route 21</title>
+<link>http://www.21stcenturyskills.org/route21/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-10T01:57:06Z</dc:date>
+<dc:subject>08 21stcenturyskills</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/21stcenturyskills" />
+    <rdf:li resource="http://del.icio.us/tag/08" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nortellearnit.org/technology/Discovering_the_Internet/">
+<title>Nortel LearniT</title>
+<link>http://nortellearnit.org/technology/Discovering_the_Internet/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-07T16:11:46Z</dc:date>
+<dc:subject>internet_lessons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet_lessons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nortellearnit.org/resources/Guidesheets/">
+<title>Nortel LearniT</title>
+<link>http://nortellearnit.org/resources/Guidesheets/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-07T16:08:36Z</dc:date>
+<dc:subject>tech_guides</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech_guides" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allmyfaves.com/">
+<title>All My Faves | Why Search?</title>
+<link>http://www.allmyfaves.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-06-03T10:14:55Z</dc:date>
+<dc:subject>web2.0allmyfaves</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0allmyfaves" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infinitethinking.org/2008/05/google-gears-up-as-digital-equity.html">
+<title>Google Gears Up as a Digital Equity Strategy</title>
+<link>http://www.infinitethinking.org/2008/05/google-gears-up-as-digital-equity.html</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-26T23:09:18Z</dc:date>
+<dc:subject>google_gears</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google_gears" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techenhancedlearning.wikispaces.com/Vicki+Davis">
+<title>TechEnhancedLearning &#xBB; Vicki Davis</title>
+<link>http://techenhancedlearning.wikispaces.com/Vicki+Davis</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-26T14:47:57Z</dc:date>
+<dc:subject>wikivicke</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikivicke" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photoshop.aws.sitepoint.com/">
+<title>The&#xA0;Photoshop&#xA0;Anthology: 101&#xA0;Web Design Tips, Tricks &#x26; Techniques - PDF Only - SitePoint Books</title>
+<link>http://photoshop.aws.sitepoint.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-26T13:45:08Z</dc:date>
+<dc:subject>WebDesign photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/WebDesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wacona.com/kindergartengames/kindergartengames.html">
+<title>Games just for Kindergartners! - Wacona Elementary School</title>
+<link>http://www.wacona.com/kindergartengames/kindergartengames.html</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-24T17:08:32Z</dc:date>
+<dc:subject>Nolan_games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Nolan_games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nortellearnit.org/LearniT/webchatinfo_popup">
+<title>Nortel LearniT</title>
+<link>http://www.nortellearnit.org/LearniT/webchatinfo_popup</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-20T10:04:49Z</dc:date>
+<dc:subject>bobsprankl_chat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bobsprankl_chat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/Kathyschrock/web20tools">
+<title>A Collection on &#x22;web20tools&#x22; (web2.0,Kathy Schrock,web20,k12,education) | Diigo</title>
+<link>http://www.diigo.com/list/Kathyschrock/web20tools</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-19T21:09:43Z</dc:date>
+<dc:subject>web20shrock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web20shrock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage.vita-learn.org/Pages/vitaLearn_DL08/index">
+<title>VITA-Learn - Dynamic Landscapes 2008</title>
+<link>http://homepage.vita-learn.org/Pages/vitaLearn_DL08/index</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-16T21:55:28Z</dc:date>
+<dc:subject>dynamic_conference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dynamic_conference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worldwidetelescope.org/">
+<title>WorldWide Telescope</title>
+<link>http://www.worldwidetelescope.org/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-16T21:51:32Z</dc:date>
+<dc:subject>astronomyworldwidetele</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/astronomyworldwidetele" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://amazing-space.stsci.edu/eds/tools/">
+<title>Amazing Space: Teaching tools</title>
+<link>http://amazing-space.stsci.edu/eds/tools/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-16T09:59:47Z</dc:date>
+<dc:subject>Astronomy_amazing space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Astronomy_amazing" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theinnovativeeducator.wikispaces.com/">
+<title>TheInnovativeEducator &#xBB; home</title>
+<link>http://theinnovativeeducator.wikispaces.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-09T09:29:00Z</dc:date>
+<dc:subject>wiki_techintegration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki_techintegration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.voki.com/">
+<title>Voki Home</title>
+<link>http://www.voki.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-09T09:20:09Z</dc:date>
+<dc:subject>voki_voiceavatar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voki_voiceavatar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greatbookstories.pbwiki.com/">
+<title>Great Book Stories wiki</title>
+<link>http://greatbookstories.pbwiki.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-05T20:50:50Z</dc:date>
+<dc:subject>digitalstorytelling_voicethread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling_voicethread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://grades5and6.blogspot.com/">
+<title>Fantastic Fifths and Super Sixths</title>
+<link>http://grades5and6.blogspot.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-03T21:47:31Z</dc:date>
+<dc:subject>blog_nilah</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog_nilah" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>http://educationalsoftware.wikispaces.com/Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-01T22:14:38Z</dc:date>
+<dc:subject>Flickr_ideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flickr_ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://teachweb2.wikispaces.com/">
+<title>teachweb2 &#xBB; home</title>
+<link>http://teachweb2.wikispaces.com/</link>
+<description></description>
+<dc:creator>ncote</dc:creator>
+<dc:date>2008-05-01T21:50:40Z</dc:date>
+<dc:subject>wiki_teachweb2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki_teachweb2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

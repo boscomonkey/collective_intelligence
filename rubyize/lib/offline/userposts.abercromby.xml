@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/abercromby">
+<title>del.icio.us/abercromby</title>
+<link>http://del.icio.us/abercromby</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/convertfiles.aspx" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://www.ericsink.com/scm/scm_intro.html" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/food/recipes/database/theultimatecassoulet_10880.shtml" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.visualsvn.com/server/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/collaboratewithsubversion" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.sapfans.com/forums/viewforum.php?f=13" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139589" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Screenshots.html" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://www.kabai.com/abaps/q.htm" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/thread?threadID=410085" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/3480" />
+  <rdf:li rdf:resource="http://www.zennaware.com/cornerstone/" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/nw-xi" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/5358" />
+  <rdf:li rdf:resource="http://www.addictinggames.com/chronotron.html" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/" />
+  <rdf:li rdf:resource="http://pdf-search-engine.com/linux-pdf.html" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/wiki?path=/display/ABAP/The+new+Enhancement+Framework+and+the+new+kernel-based+BAdI" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Trace-an-Image-Using-Photoshop" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/servlet/prt/portal/prtroot/com.sap.scr.renderer.AJAXTransformer?packageid=DCC03162F5A680F19AF2001438C3BC08&#x26;stylesheet_url=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2Fxsl%2F&#x26;source_cache=&#x26;smc_host=http%3A%2F%2Fesworkplace.sap.com%2F&#x26;web_url=https%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2F&#x26;xml=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fmcpget.asp%3Fpackageid%3DDCC03162F5A680F19AF2001438C3BC08%26view%3Dism-view%26id%3D82087E7A8EB94E1F885C5A1F62C789FB&#x26;xsl=ehp-html.xslt;ehp-linkrewriting.xslt&#x26;xsl_parameters=currentID=423B4CCA68DB4C24BC1C8875F778D271;type=functionalities;mapRef=;scenarioRef=;from=1;to=3" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-06T11:58:36Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-06T11:57:49Z</dc:date>
+<dc:subject>passwords</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-05T08:48:49Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/convertfiles.aspx">
+<title>Free online media file conversion (Document, Images, Audio, Video &#x26; Archives)</title>
+<link>http://www.youconvertit.com/convertfiles.aspx</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-05T08:25:29Z</dc:date>
+<dc:subject>converter media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-05T07:51:44Z</dc:date>
+<dc:subject>images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ericsink.com/scm/scm_intro.html">
+<title>HOWTO source control - Eric Sink</title>
+<link>http://www.ericsink.com/scm/scm_intro.html</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-04T09:34:30Z</dc:date>
+<dc:subject>source_control</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/source_control" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx">
+<title>Branching and Merging Primer</title>
+<link>http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-04T09:33:57Z</dc:date>
+<dc:subject>source_control</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/source_control" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>REST Anti-Patterns - InfoQ</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-04T08:08:43Z</dc:date>
+<dc:subject>webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/food/recipes/database/theultimatecassoulet_10880.shtml">
+<title>BBC - Food - Recipes - The ultimate cassoulet</title>
+<link>http://www.bbc.co.uk/food/recipes/database/theultimatecassoulet_10880.shtml</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T20:12:00Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T13:28:47Z</dc:date>
+<dc:subject>xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.visualsvn.com/server/">
+<title>VisualSVN Server | Subversion Server for Windows</title>
+<link>http://www.visualsvn.com/server/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T12:44:06Z</dc:date>
+<dc:subject>subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/collaboratewithsubversion">
+<title>A List Apart: Articles: Collaborate and Connect with Subversion</title>
+<link>http://www.alistapart.com/articles/collaboratewithsubversion</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T12:41:23Z</dc:date>
+<dc:subject>subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T11:10:41Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sapfans.com/forums/viewforum.php?f=13">
+<title>SAP fans - forum - ABAP</title>
+<link>http://www.sapfans.com/forums/viewforum.php?f=13</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T10:32:18Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139589">
+<title>Linux.com :: One live DVD, one ton of Linux games</title>
+<link>http://www.linux.com/feature/139589</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T09:30:16Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Screenshots.html">
+<title>Screenshots - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Screenshots.html</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T09:29:40Z</dc:date>
+<dc:subject>image_manipulation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image_manipulation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App">
+<title>Install Django and Build Your First App - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T09:28:54Z</dc:date>
+<dc:subject>django</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-03T09:28:04Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kabai.com/abaps/q.htm">
+<title>ABAP</title>
+<link>http://www.kabai.com/abaps/q.htm</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-02T10:18:51Z</dc:date>
+<dc:subject>abap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/abap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/thread?threadID=410085">
+<title>Finding BAdIs multiple methods</title>
+<link>https://www.sdn.sap.com/irj/sdn/thread?threadID=410085</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-01T14:33:44Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/3480">
+<title>Finding BAdIs - SQL trace</title>
+<link>https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/3480</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-01T14:12:36Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zennaware.com/cornerstone/">
+<title>Cornerstone</title>
+<link>http://www.zennaware.com/cornerstone/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-01T12:04:16Z</dc:date>
+<dc:subject>mac subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/nw-xi">
+<title>XI Exchange Infrastructure - SAP NetWeaver</title>
+<link>https://www.sdn.sap.com/irj/sdn/nw-xi</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-07-01T10:30:17Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/5358">
+<title>Package interfaces and use access</title>
+<link>https://www.sdn.sap.com/irj/sdn/weblogs?blog=/pub/wlg/5358</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-30T13:57:59Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.addictinggames.com/chronotron.html">
+<title>Chronotron - Free Adventure Game from AddictingGames</title>
+<link>http://www.addictinggames.com/chronotron.html</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-29T11:32:48Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/">
+<title>5 Regular Expressions Every Web Programmer Should Know - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-27T21:49:35Z</dc:date>
+<dc:subject>regular_expressions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regular_expressions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/">
+<title>Bare minimum regular expressions - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-27T21:49:23Z</dc:date>
+<dc:subject>regular_expressions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regular_expressions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdf-search-engine.com/linux-pdf.html">
+<title>Pdf search engine</title>
+<link>http://pdf-search-engine.com/linux-pdf.html</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-27T14:59:57Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/wiki?path=/display/ABAP/The+new+Enhancement+Framework+and+the+new+kernel-based+BAdI">
+<title>Enhancement framework + BAdIs - SAP Network Wiki</title>
+<link>https://www.sdn.sap.com/irj/sdn/wiki?path=/display/ABAP/The+new+Enhancement+Framework+and+the+new+kernel-based+BAdI</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-27T11:52:27Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Trace-an-Image-Using-Photoshop">
+<title>How to Trace an Image Using Photoshop - wikiHow</title>
+<link>http://www.wikihow.com/Trace-an-Image-Using-Photoshop</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-27T09:39:41Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/servlet/prt/portal/prtroot/com.sap.scr.renderer.AJAXTransformer?packageid=DCC03162F5A680F19AF2001438C3BC08&#x26;stylesheet_url=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2Fxsl%2F&#x26;source_cache=&#x26;smc_host=http%3A%2F%2Fesworkplace.sap.com%2F&#x26;web_url=https%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2F&#x26;xml=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fmcpget.asp%3Fpackageid%3DDCC03162F5A680F19AF2001438C3BC08%26view%3Dism-view%26id%3D82087E7A8EB94E1F885C5A1F62C789FB&#x26;xsl=ehp-html.xslt;ehp-linkrewriting.xslt&#x26;xsl_parameters=currentID=423B4CCA68DB4C24BC1C8875F778D271;type=functionalities;mapRef=;scenarioRef=;from=1;to=3">
+<title>Enhancement Locations SAP Service Marketplace</title>
+<link>https://www.sdn.sap.com/irj/servlet/prt/portal/prtroot/com.sap.scr.renderer.AJAXTransformer?packageid=DCC03162F5A680F19AF2001438C3BC08&#x26;stylesheet_url=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2Fxsl%2F&#x26;source_cache=&#x26;smc_host=http%3A%2F%2Fesworkplace.sap.com%2F&#x26;web_url=https%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fehp%2F&#x26;xml=http%3A%2F%2Fesworkplace.sap.com%2Fsocoview%2Fmcpget.asp%3Fpackageid%3DDCC03162F5A680F19AF2001438C3BC08%26view%3Dism-view%26id%3D82087E7A8EB94E1F885C5A1F62C789FB&#x26;xsl=ehp-html.xslt;ehp-linkrewriting.xslt&#x26;xsl_parameters=currentID=423B4CCA68DB4C24BC1C8875F778D271;type=functionalities;mapRef=;scenarioRef=;from=1;to=3</link>
+<description></description>
+<dc:creator>abercromby</dc:creator>
+<dc:date>2008-06-26T12:54:30Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

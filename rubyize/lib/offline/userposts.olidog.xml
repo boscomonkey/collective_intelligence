@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/olidog">
+<title>del.icio.us/olidog</title>
+<link>http://del.icio.us/olidog</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/" />
+  <rdf:li rdf:resource="http://mediacoder.sourceforge.net/index.htm" />
+  <rdf:li rdf:resource="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/ConvertFiles.aspx" />
+  <rdf:li rdf:resource="http://v3.izymail.com/" />
+  <rdf:li rdf:resource="http://www.gdocsbar.com/" />
+  <rdf:li rdf:resource="http://www.amnestywidgets.com/GeneratorWin.html" />
+  <rdf:li rdf:resource="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Firefox" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-07-06T11:55:40Z</dc:date>
+<dc:subject>free freeware install software tweaks windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/">
+<title>How to Find Motivation for the Things You Hate Doing | PickTheBrain | Motivation and Self Improvement</title>
+<link>http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/</link>
+<description></description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-07-06T11:52:09Z</dc:date>
+<dc:subject>health howto motivation procrastination productivity tutorial work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/procrastination" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mediacoder.sourceforge.net/index.htm">
+<title>MediaCoder - more than a universal audio/video transcoder</title>
+<link>http://mediacoder.sourceforge.net/index.htm</link>
+<description></description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-07-06T11:42:57Z</dc:date>
+<dc:subject>audio conversion converter free freeware media software tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html">
+<title>PC World - How to Build a Blog With WordPress</title>
+<link>http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html</link>
+<description></description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-07-05T10:25:46Z</dc:date>
+<dc:subject>blog blogging howto tutorial web2.0 webdesign wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/ConvertFiles.aspx">
+<title>Free online media file conversion (Document, Images, Audio, Video &#x26; Archives)</title>
+<link>http://www.youconvertit.com/ConvertFiles.aspx</link>
+<description></description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-07-05T02:57:31Z</dc:date>
+<dc:subject>conversion converter free online tools video web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.izymail.com/">
+<title>IzyMail - WebMail in your Inbox</title>
+<link>http://v3.izymail.com/</link>
+<description>IzyMail enables you to access webmail from major providers such as AOL, Yahoo, MSN, Hotmail, Windows Live, Fastmail or Gmail with any eMail application.</description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-06-29T11:15:16Z</dc:date>
+<dc:subject>email gmail hotmail mail pop webmail yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/hotmail" />
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/pop" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/webmail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gdocsbar.com/">
+<title>Google Docs Bar - Companion for Firefox</title>
+<link>http://www.gdocsbar.com/</link>
+<description>gDocsBar is a sidebar extension for firefox, a perfect companion for Google&#xAE; Docs.</description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-06-28T18:17:56Z</dc:date>
+<dc:subject>docs extension firefox google googledocs sidebar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sidebar" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/googledocs" />
+    <rdf:li resource="http://del.icio.us/tag/docs" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amnestywidgets.com/GeneratorWin.html">
+<title>Amnesty&#x2122; Generator for Vista</title>
+<link>http://www.amnestywidgets.com/GeneratorWin.html</link>
+<description>You can convert google gadgets in vista or mac gadgets</description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-06-27T18:19:30Z</dc:date>
+<dc:subject>converter gadgets google sidebar vista widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+    <rdf:li resource="http://del.icio.us/tag/sidebar" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Firefox">
+<title>Transferring data to a new profile - Firefox</title>
+<link>http://kb.mozillazine.org/Transferring_data_to_a_new_profile_-_Firefox</link>
+<description>MozillaZine Knowledge Base Document: which files contain the information of the profile.</description>
+<dc:creator>olidog</dc:creator>
+<dc:date>2008-06-23T18:04:23Z</dc:date>
+<dc:subject>backup firefox mozilla profile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/profile" />
+    <rdf:li resource="http://del.icio.us/tag/mozilla" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

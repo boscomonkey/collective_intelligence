@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/easley">
+<title>del.icio.us/easley</title>
+<link>http://del.icio.us/easley</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://json-lib.sourceforge.net/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/mad-cool-date-library" />
+  <rdf:li rdf:resource="http://204.73.203.34/fisso/eng/schpignone.htm" />
+  <rdf:li rdf:resource="http://paulm.com/on/cycling/fixed_gear.html" />
+  <rdf:li rdf:resource="http://e-docs.bea.com/wls/docs81/programming/classloading.html" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/writingainterfacestyleguide" />
+  <rdf:li rdf:resource="http://hixie.ch/advocacy/xhtml" />
+  <rdf:li rdf:resource="http://google-opensource.blogspot.com/2008/05/accelerate-your-maps-with-geowebcache.html" />
+  <rdf:li rdf:resource="http://simonwillison.net/2008/May/22/debugging/" />
+  <rdf:li rdf:resource="http://simonwillison.net/2008/May/1/orm/" />
+  <rdf:li rdf:resource="http://www.moneyweek.com/file/40878/the-lazy-investors-guide-to-making-money.html" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=YKY6fh85SnQ&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=5" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=IYqfT9i1las&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=0" />
+  <rdf:li rdf:resource="http://www.fourhourworkweek.com/blog/2008/04/11/from-al-gores-chief-speechwriter-how-to-give-a-damn-good-presentation-plus-breakdancing/" />
+  <rdf:li rdf:resource="http://www.artima.com/weblogs/viewpost.jsp?thread=228097" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-02-2008/jw-02-gant.html" />
+  <rdf:li rdf:resource="http://mislav.caboo.se/js/upgrading-to-prototype-1-6-real-world-examples/" />
+  <rdf:li rdf:resource="http://dominiek.com/articles/2008/1/6/building-a-com-in-24-hours" />
+  <rdf:li rdf:resource="http://gimps.de/en/tutorials/gimp/picture-photo-image/remove-red-eyes/index.htm" />
+  <rdf:li rdf:resource="http://www.thinserverarchitecture.com/home" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/866-ricardo-semler-and-agilelean-principles" />
+  <rdf:li rdf:resource="http://www.puretrust.org.uk/" />
+  <rdf:li rdf:resource="http://mislav.caboo.se/rails/faster-ri-documentation/" />
+  <rdf:li rdf:resource="http://alexbrie.net/1541/setting-up-rails-and-sqlite-3/" />
+  <rdf:li rdf:resource="http://www.jroller.com/rickard/entry/psychopaths_in_the_software_industry" />
+  <rdf:li rdf:resource="http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html" />
+  <rdf:li rdf:resource="http://isites.harvard.edu/fs/html/icb.topic58703/winston1.html" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/compressor/" />
+  <rdf:li rdf:resource="http://dojotoolkit.org/docs/shrinksafe" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/pub/a/network/2005/11/01/avoid-common-greasemonkey-pitfalls.html?page=3" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-07-06T10:19:58Z</dc:date>
+<dc:subject>chair</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://json-lib.sourceforge.net/">
+<title>Json-lib</title>
+<link>http://json-lib.sourceforge.net/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-07-06T08:44:35Z</dc:date>
+<dc:subject>ajax java json</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/mad-cool-date-library">
+<title>Mad Cool Date Library</title>
+<link>http://ajaxian.com/archives/mad-cool-date-library</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-07-04T18:52:53Z</dc:date>
+<dc:subject>date javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/date" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://204.73.203.34/fisso/eng/schpignone.htm">
+<title>chaingang rotafixa: securing a track sprocket without lock ring</title>
+<link>http://204.73.203.34/fisso/eng/schpignone.htm</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-06-13T18:17:36Z</dc:date>
+<dc:subject>cycling fixie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/fixie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paulm.com/on/cycling/fixed_gear.html">
+<title>Paul Makepeace's On: Cycling: Fixed Gear</title>
+<link>http://paulm.com/on/cycling/fixed_gear.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-06-13T18:01:41Z</dc:date>
+<dc:subject>cycling fixie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/fixie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e-docs.bea.com/wls/docs81/programming/classloading.html">
+<title>WebLogic Server Application Classloading</title>
+<link>http://e-docs.bea.com/wls/docs81/programming/classloading.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-06-04T08:14:13Z</dc:date>
+<dc:subject>WebLogic classloader java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/classloader" />
+    <rdf:li resource="http://del.icio.us/tag/WebLogic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/writingainterfacestyleguide">
+<title>A List Apart: Writing an Interface Style Guide</title>
+<link>http://www.alistapart.com/articles/writingainterfacestyleguide</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-06-03T12:13:48Z</dc:date>
+<dc:subject>design interface styleguide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/styleguide" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hixie.ch/advocacy/xhtml">
+<title>Sending XHTML as text/html Considered Harmful</title>
+<link>http://hixie.ch/advocacy/xhtml</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-05-26T10:49:38Z</dc:date>
+<dc:subject>html xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-opensource.blogspot.com/2008/05/accelerate-your-maps-with-geowebcache.html">
+<title>Google Open Source Blog: Accelerate Your Maps with GeoWebCache</title>
+<link>http://google-opensource.blogspot.com/2008/05/accelerate-your-maps-with-geowebcache.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-05-22T13:06:59Z</dc:date>
+<dc:subject>GIS maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/GIS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simonwillison.net/2008/May/22/debugging/">
+<title>Debugging Django</title>
+<link>http://simonwillison.net/2008/May/22/debugging/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-05-22T12:56:49Z</dc:date>
+<dc:subject>django</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simonwillison.net/2008/May/1/orm/">
+<title>jQuery style chaining with the Django ORM</title>
+<link>http://simonwillison.net/2008/May/1/orm/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-05-22T12:56:32Z</dc:date>
+<dc:subject>django</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moneyweek.com/file/40878/the-lazy-investors-guide-to-making-money.html">
+<title>High yield investing: the lazy investor&#x2019;s guide to making money</title>
+<link>http://www.moneyweek.com/file/40878/the-lazy-investors-guide-to-making-money.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-05-01T12:35:50Z</dc:date>
+<dc:subject>HYP yield</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HYP" />
+    <rdf:li resource="http://del.icio.us/tag/yield" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=YKY6fh85SnQ&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=5">
+<title>YouTube - Google API Talks - Android, KML,Google Maps,Gadgets/Mapplets</title>
+<link>http://youtube.com/watch?v=YKY6fh85SnQ&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=5</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-28T12:43:20Z</dc:date>
+<dc:subject>GoogleMaps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GoogleMaps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=IYqfT9i1las&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=0">
+<title>YouTube - Creating Custom [Google] Maps</title>
+<link>http://youtube.com/watch?v=IYqfT9i1las&#x26;feature=PlayList&#x26;p=28624CDB052424DD&#x26;index=0</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-28T12:42:39Z</dc:date>
+<dc:subject>GoogleMaps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GoogleMaps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fourhourworkweek.com/blog/2008/04/11/from-al-gores-chief-speechwriter-how-to-give-a-damn-good-presentation-plus-breakdancing/">
+<title>From Al Gore&#x2019;s Chief Speechwriter: Simple Tips for a Damn Good Presentation</title>
+<link>http://www.fourhourworkweek.com/blog/2008/04/11/from-al-gores-chief-speechwriter-how-to-give-a-damn-good-presentation-plus-breakdancing/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-17T12:50:26Z</dc:date>
+<dc:subject>presentation speaking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/speaking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/weblogs/viewpost.jsp?thread=228097">
+<title>Hiring the Rowing-Forward 30%</title>
+<link>http://www.artima.com/weblogs/viewpost.jsp?thread=228097</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-17T12:22:32Z</dc:date>
+<dc:subject>hiring interview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/hiring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-02-2008/jw-02-gant.html">
+<title>Groovy-power automated builds with Gant</title>
+<link>http://www.javaworld.com/javaworld/jw-02-2008/jw-02-gant.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-16T13:21:06Z</dc:date>
+<dc:subject>gant groovy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/groovy" />
+    <rdf:li resource="http://del.icio.us/tag/gant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mislav.caboo.se/js/upgrading-to-prototype-1-6-real-world-examples/">
+<title>Upgrade to Prototype 1.6: real world examples</title>
+<link>http://mislav.caboo.se/js/upgrading-to-prototype-1-6-real-world-examples/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-02T12:50:46Z</dc:date>
+<dc:subject>javascript prototype</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dominiek.com/articles/2008/1/6/building-a-com-in-24-hours">
+<title>Building a .com in 24 hours</title>
+<link>http://dominiek.com/articles/2008/1/6/building-a-com-in-24-hours</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-04-01T13:04:18Z</dc:date>
+<dc:subject>development rails webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gimps.de/en/tutorials/gimp/picture-photo-image/remove-red-eyes/index.htm">
+<title>Simple red eye removal with Gimp</title>
+<link>http://gimps.de/en/tutorials/gimp/picture-photo-image/remove-red-eyes/index.htm</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-23T12:20:10Z</dc:date>
+<dc:subject>Gimp RedEye</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/RedEye" />
+    <rdf:li resource="http://del.icio.us/tag/Gimp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinserverarchitecture.com/home">
+<title>www.thinserverarchitecture.com - Thin Server Architecture Working Group</title>
+<link>http://www.thinserverarchitecture.com/home</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-20T09:11:58Z</dc:date>
+<dc:subject>GWT SOFEA ThinServer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SOFEA" />
+    <rdf:li resource="http://del.icio.us/tag/ThinServer" />
+    <rdf:li resource="http://del.icio.us/tag/GWT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/866-ricardo-semler-and-agilelean-principles">
+<title>Ricardo Semler and agile/lean principles - (37signals)</title>
+<link>http://www.37signals.com/svn/posts/866-ricardo-semler-and-agilelean-principles</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-17T13:51:39Z</dc:date>
+<dc:subject>37signals agile management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/37signals" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.puretrust.org.uk/">
+<title>Pure Trust (Carbon Offsetting)</title>
+<link>http://www.puretrust.org.uk/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-17T13:28:01Z</dc:date>
+<dc:subject>carbon environment offset</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carbon" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/offset" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mislav.caboo.se/rails/faster-ri-documentation/">
+<title>FastRI for the win</title>
+<link>http://mislav.caboo.se/rails/faster-ri-documentation/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-13T13:54:48Z</dc:date>
+<dc:subject>Ruby ri</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ruby" />
+    <rdf:li resource="http://del.icio.us/tag/ri" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alexbrie.net/1541/setting-up-rails-and-sqlite-3/">
+<title>Setting up Rails and SQLITE</title>
+<link>http://alexbrie.net/1541/setting-up-rails-and-sqlite-3/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-08T22:39:32Z</dc:date>
+<dc:subject>sqlite</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sqlite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/rickard/entry/psychopaths_in_the_software_industry">
+<title>Psychopaths in the software industry</title>
+<link>http://www.jroller.com/rickard/entry/psychopaths_in_the_software_industry</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-06T13:40:47Z</dc:date>
+<dc:subject>politics psychology psychopath zedshaw</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/psychopath" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/zedshaw" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html">
+<title>2 hidden ways to get more from your Gmail address</title>
+<link>http://gmailblog.blogspot.com/2008/03/2-hidden-ways-to-get-more-from-your.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-03-05T20:57:09Z</dc:date>
+<dc:subject>email gmail tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://isites.harvard.edu/fs/html/icb.topic58703/winston1.html">
+<title>Video: &#x22;How to Speak&#x22;</title>
+<link>http://isites.harvard.edu/fs/html/icb.topic58703/winston1.html</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-02-29T20:23:19Z</dc:date>
+<dc:subject>presentation speaking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/speaking" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/compressor/">
+<title>YUI Compressor</title>
+<link>http://developer.yahoo.com/yui/compressor/</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-02-22T17:55:39Z</dc:date>
+<dc:subject>compression compressor javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/compression" />
+    <rdf:li resource="http://del.icio.us/tag/compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dojotoolkit.org/docs/shrinksafe">
+<title>ShrinkSafe | The Dojo Toolkit</title>
+<link>http://dojotoolkit.org/docs/shrinksafe</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-02-22T17:45:17Z</dc:date>
+<dc:subject>Javascript compression compressor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/compression" />
+    <rdf:li resource="http://del.icio.us/tag/compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/pub/a/network/2005/11/01/avoid-common-greasemonkey-pitfalls.html?page=3">
+<title>Avoid Common Pitfalls in Greasemonkey</title>
+<link>http://www.oreillynet.com/pub/a/network/2005/11/01/avoid-common-greasemonkey-pitfalls.html?page=3</link>
+<description></description>
+<dc:creator>easley</dc:creator>
+<dc:date>2008-02-22T12:32:39Z</dc:date>
+<dc:subject>greasemonkey</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/greasemonkey" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

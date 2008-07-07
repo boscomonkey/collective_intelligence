@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tanda">
+<title>del.icio.us/tanda</title>
+<link>http://del.icio.us/tanda</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=664" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=483" />
+  <rdf:li rdf:resource="http://espion.just-size.jp/archives/04/174132935.html" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=1187" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=311" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=1863" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/jkani4/20080206/1202308935" />
+  <rdf:li rdf:resource="http://vim-taglist.sourceforge.net/" />
+  <rdf:li rdf:resource="http://perl-mongers.org/" />
+  <rdf:li rdf:resource="http://mattn.kaoriya.net/software/firefox/vimperator/20080523144439.htm" />
+  <rdf:li rdf:resource="http://mattn.kaoriya.net/software/lang/ruby/20080619120706.htm" />
+  <rdf:li rdf:resource="http://mattn.kaoriya.net/software/lang/perl/20070920093033.htm" />
+  <rdf:li rdf:resource="http://www.engadgetmobile.com/2008/07/03/matias-duarte-designer-behind-sidekick-and-helio-now-developin/" />
+  <rdf:li rdf:resource="http://www.gizmodo.jp/2008/07/post_3930.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51076010.html" />
+  <rdf:li rdf:resource="http://slashdot.jp/askslashdot/article.pl?sid=08/07/04/2111205" />
+  <rdf:li rdf:resource="http://slashdot.jp/hardware/article.pl?sid=08/07/04/2123237" />
+  <rdf:li rdf:resource="http://www.gizmodo.jp/2008/07/201090.html" />
+  <rdf:li rdf:resource="http://www.gizmodo.jp/2008/07/nokia.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51075977.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51076526.html" />
+  <rdf:li rdf:resource="http://www.gizmodo.jp/2008/07/yumeneko.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51076714.html" />
+  <rdf:li rdf:resource="http://www.gizmodo.jp/2008/07/iphone_82.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51076794.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/izumino/20080705/p1" />
+  <rdf:li rdf:resource="http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283" />
+  <rdf:li rdf:resource="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/kongou_ae/20080706/1215343377" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=664">
+<title>scratch.vim - Plugin to create and use a scratch Vim buffer : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=664</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:20:57Z</dc:date>
+<dc:subject>software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=483">
+<title>tagexplorer.vim - Tag explorer for various programming language files : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=483</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:20:03Z</dc:date>
+<dc:subject>*programming software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://espion.just-size.jp/archives/04/174132935.html">
+<title>vim::taglist.vim</title>
+<link>http://espion.just-size.jp/archives/04/174132935.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:19:17Z</dc:date>
+<dc:subject>software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=1187">
+<title>cream-replacemulti - Replace text across multiple files : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=1187</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:14:16Z</dc:date>
+<dc:subject>software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=311">
+<title>grep.vim - Grep search tools integration with Vim : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=311</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:13:29Z</dc:date>
+<dc:subject>software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=1863">
+<title>tlib - Some utility functions : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=1863</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:13:19Z</dc:date>
+<dc:subject>software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/jkani4/20080206/1202308935">
+<title>emacs&#x306E;etags&#x3092;&#x4FBF;&#x5229;&#x306B;&#x3059;&#x308B;&#x65B9;&#x6CD5;&#x3092;&#x898B;&#x3064;&#x3051;&#x307E;&#x3057;&#x305F; - Linux&#x3068;&#x304B;Blender&#x3068;&#x304B;Vol&#xFF12;</title>
+<link>http://d.hatena.ne.jp/jkani4/20080206/1202308935</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T14:02:09Z</dc:date>
+<dc:subject>emacs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vim-taglist.sourceforge.net/">
+<title>Vim Taglist plugin</title>
+<link>http://vim-taglist.sourceforge.net/</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:54:54Z</dc:date>
+<dc:subject>*programming software vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perl-mongers.org/">
+<title>perl-mongers.org</title>
+<link>http://perl-mongers.org/</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:53:11Z</dc:date>
+<dc:subject>*programming perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mattn.kaoriya.net/software/firefox/vimperator/20080523144439.htm">
+<title>Big Sky :: vimperator&#x3067;&#x5165;&#x529B;&#x30D5;&#x30A3;&#x30FC;&#x30EB;&#x30C9;&#x306B;&#x30D5;&#x30A9;&#x30FC;&#x30AB;&#x30B9;&#x3092;&#x98DB;&#x3070;&#x305B;&#x308B;walk-input.js&#x304C;&#x826F;&#x3044;&#x5473;&#x51FA;&#x3057;&#x3066;&#x308B;</title>
+<link>http://mattn.kaoriya.net/software/firefox/vimperator/20080523144439.htm</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:52:01Z</dc:date>
+<dc:subject>software vimperator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vimperator" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mattn.kaoriya.net/software/lang/ruby/20080619120706.htm">
+<title>Big Sky :: rmagick&#x3092;&#x4F7F;&#x3063;&#x3066;tumblr&#x98A8;&#x30EC;&#x30F3;&#x30C0;&#x30EA;&#x30F3;&#x30B0;</title>
+<link>http://mattn.kaoriya.net/software/lang/ruby/20080619120706.htm</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:51:14Z</dc:date>
+<dc:subject>software tumblr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tumblr" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mattn.kaoriya.net/software/lang/perl/20070920093033.htm">
+<title>Big Sky :: ctags&#x306E;Perl&#x62E1;&#x5F35;&#x30B5;&#x30DD;&#x30FC;&#x30C8;&#x304C;&#x3059;&#x3053;&#x3076;&#x308B;&#x7D20;&#x6674;&#x3089;&#x3057;&#x3059;&#x304E;&#x308B;&#x4EF6;</title>
+<link>http://mattn.kaoriya.net/software/lang/perl/20070920093033.htm</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:49:12Z</dc:date>
+<dc:subject>*programming perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadgetmobile.com/2008/07/03/matias-duarte-designer-behind-sidekick-and-helio-now-developin/">
+<title>Matias Duarte, designer behind Sidekick and Helio, now developing Palm's next-gen UI - Engadget Mobile</title>
+<link>http://www.engadgetmobile.com/2008/07/03/matias-duarte-designer-behind-sidekick-and-helio-now-developin/</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:20:15Z</dc:date>
+<dc:subject>os palm ui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/palm" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gizmodo.jp/2008/07/post_3930.html">
+<title>&#x30DC;&#x30FC;&#x30C9;&#x306B;&#x7F6E;&#x3044;&#x305F;&#x3089;&#x900F;&#x660E;&#x306B;&#x306A;&#x308B;&#x4E0D;&#x601D;&#x8B70;&#x306A;&#x30A2;&#x30EA;&#x30B9;&#x30C1;&#x30A7;&#x30B9;&#x30BB;&#x30C3;&#x30C8; : Gizmodo Japan&#xFF08;&#x30AE;&#x30BA;&#x30E2;&#x30FC;&#x30C9;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#xFF09;, &#x30AC;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x60C5;&#x5831;&#x6E80;&#x8F09;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.gizmodo.jp/2008/07/post_3930.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:20:04Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51076010.html">
+<title>404 Blog Not Found:perl - tie()&#x3063;&#x3066;&#x4F55;&#x3092;tie&#x3059;&#x308B;&#x306E;?</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51076010.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:19:57Z</dc:date>
+<dc:subject>*programming perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slashdot.jp/askslashdot/article.pl?sid=08/07/04/2111205">
+<title>&#x30B9;&#x30E9;&#x30C3;&#x30B7;&#x30E5;&#x30C9;&#x30C3;&#x30C8;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3; | &#x30AA;&#x30B9;&#x30B9;&#x30E1;&#x306E;PC&#x9664;&#x83CC;&#x65B9;&#x6CD5;&#x306F;?</title>
+<link>http://slashdot.jp/askslashdot/article.pl?sid=08/07/04/2111205</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:19:40Z</dc:date>
+<dc:subject>cleaning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cleaning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slashdot.jp/hardware/article.pl?sid=08/07/04/2123237">
+<title>&#x30B9;&#x30E9;&#x30C3;&#x30B7;&#x30E5;&#x30C9;&#x30C3;&#x30C8;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3; | &#x65E5;&#x5DEE;&#x3057;&#x3092;&#x906E;&#x308A;&#x3064;&#x3064;&#x767A;&#x96FB;&#x3059;&#x308B;&#x592A;&#x967D;&#x5149;&#x767A;&#x96FB;&#x30AB;&#x30FC;&#x30C6;&#x30F3;</title>
+<link>http://slashdot.jp/hardware/article.pl?sid=08/07/04/2123237</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:19:25Z</dc:date>
+<dc:subject>neta</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/neta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gizmodo.jp/2008/07/201090.html">
+<title>2010&#x5E74;&#x307E;&#x3067;&#x306B;90%&#x306E;&#x30BD;&#x30CB;&#x30FC;&#x88FD;&#x54C1;&#x3092;&#x30CD;&#x30C3;&#x30C8;&#x63A5;&#x7D9A;&#x53EF;&#x80FD;&#x306B; : Gizmodo Japan&#xFF08;&#x30AE;&#x30BA;&#x30E2;&#x30FC;&#x30C9;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#xFF09;, &#x30AC;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x60C5;&#x5831;&#x6E80;&#x8F09;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.gizmodo.jp/2008/07/201090.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:19:10Z</dc:date>
+<dc:subject>appliance internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/appliance" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gizmodo.jp/2008/07/nokia.html">
+<title>&#x643A;&#x5E2F;&#x96FB;&#x8A71;&#x306E;&#x30D3;&#x30C7;&#x30AA;&#x6A5F;&#x80FD;&#x3067;&#x30F4;&#x30A1;&#x30FC;&#x30C1;&#x30E3;&#x30EB;&#x624B;&#x54C1;&#xFF08;&#x52D5;&#x753B;&#xFF09; : Gizmodo Japan&#xFF08;&#x30AE;&#x30BA;&#x30E2;&#x30FC;&#x30C9;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#xFF09;, &#x30AC;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x60C5;&#x5831;&#x6E80;&#x8F09;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.gizmodo.jp/2008/07/nokia.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:18:54Z</dc:date>
+<dc:subject>*mobilephone illusion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*mobilephone" />
+    <rdf:li resource="http://del.icio.us/tag/illusion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51075977.html">
+<title>404 Blog Not Found:&#x4F55;&#x304C;&#x3042;&#x305F;&#x3089;&#x3057;&#x3044;&#x304B;? - &#x66F8;&#x8A55; -&#x3000;&#x3042;&#x305F;&#x3089;&#x3057;&#x3044;&#x6226;&#x7565;&#x306E;&#x6559;&#x79D1;&#x66F8;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51075977.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:18:38Z</dc:date>
+<dc:subject>amazon book job review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51076526.html">
+<title>404 Blog Not Found:&#x7F8E;&#x5473;&#x3044;!=&#x4E0A;&#x624B;&#x3044; - &#x66F8;&#x8A55; - &#x30DE;&#x30F3;&#x30AC;&#x98F2;&#x98DF;&#x5E97;&#x5B8C;&#x5168;&#x30D0;&#x30A4;&#x30D6;&#x30EB;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51076526.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:18:24Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gizmodo.jp/2008/07/yumeneko.html">
+<title>&#x5922;&#x306E;&#x56FD;&#x3092;&#x4F5C;&#x308C;&#x308B;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;&#x5922;&#x30DA;&#x30C3;&#x30C8;&#x30B7;&#x30EA;&#x30FC;&#x30BA; : Gizmodo Japan&#xFF08;&#x30AE;&#x30BA;&#x30E2;&#x30FC;&#x30C9;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#xFF09;, &#x30AC;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x60C5;&#x5831;&#x6E80;&#x8F09;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.gizmodo.jp/2008/07/yumeneko.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:17:15Z</dc:date>
+<dc:subject>toy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51076714.html">
+<title>404 Blog Not Found:&#x3053;&#x308C;&#x3067;&#x767E;&#x6226;&#x5371;&#x3046;&#x304B;&#x3089;&#x305A;? - &#x66F8;&#x8A55; - &#x3055;&#x3042;&#x3001;&#x624D;&#x80FD;&#x306B;&#x76EE;&#x899A;&#x3081;&#x3088;&#x3046;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51076714.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:16:50Z</dc:date>
+<dc:subject>amazon book job review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gizmodo.jp/2008/07/iphone_82.html">
+<title>&#x30DC;&#x30F3;&#x30D0;&#x30FC;&#x30DE;&#x30F3;&#x304C;iPhone&#x3067;&#x767B;&#x5834;&#xFF08;&#x52D5;&#x753B;&#xFF09; : Gizmodo Japan&#xFF08;&#x30AE;&#x30BA;&#x30E2;&#x30FC;&#x30C9;&#x30FB;&#x30B8;&#x30E3;&#x30D1;&#x30F3;&#xFF09;, &#x30AC;&#x30B8;&#x30A7;&#x30C3;&#x30C8;&#x60C5;&#x5831;&#x6E80;&#x8F09;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.gizmodo.jp/2008/07/iphone_82.html</link>
+<description>OE-CAKE&#x3092;</description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:14:03Z</dc:date>
+<dc:subject>game iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51076794.html">
+<title>404 Blog Not Found:perl - &#x6697;&#x9ED9;&#x7684;&#x306A;&#x53C2;&#x7167; # @_ &#x3068; $_</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51076794.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:13:03Z</dc:date>
+<dc:subject>*programming perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/*programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/izumino/20080705/p1">
+<title>&#x300C;&#x30AF;&#x30E9;&#x30EA;&#x30B9;&#x306B;&#x3068;&#x3063;&#x3066;&#x306E;&#x30EB;&#x30D1;&#x30F3;&#x300D;&#x3068;&#x3044;&#x3046;&#x521D;&#x604B;&#x306E;&#x8C61;&#x5FB4; - &#x30D4;&#x30A2;&#x30CE;&#x30FB;&#x30D5;&#x30A1;&#x30A4;&#x30A2;</title>
+<link>http://d.hatena.ne.jp/izumino/20080705/p1</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T13:05:35Z</dc:date>
+<dc:subject>comic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html">
+<title>&#x677E;&#x6D66;&#x664B;&#x4E5F;&#x306E;L/D: &#x6C17;&#x8C61;&#x885B;&#x661F;&#x306E;&#x5371;&#x6A5F;&#x7684;&#x72B6;&#x6CC1;</title>
+<link>http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T12:58:35Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T12:56:54Z</dc:date>
+<dc:subject>accounting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283">
+<title>&#x4F01;&#x696D;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;CMS&#x4E00;&#x6319;12&#x7A2E;&#x985E;&#x89E3;&#x8AAC;&#xFF08;&#x6A5F;&#x80FD;&#x3084;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;/&#x7BA1;&#x7406;&#x306E;&#x96E3;&#x6613;&#x5EA6;&#x8A55;&#x4FA1;&#x4ED8;&#x304D;&#xFF09; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/07/04/3283</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T12:55:54Z</dc:date>
+<dc:subject>cms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f">
+<title>&#x6E29;&#x6696;&#x5316;&#x61D0;&#x7591;&#x8AD6;&#x306E;&#x307E;&#x3068;&#x3081; - &#x6C60;&#x7530;&#x4FE1;&#x592B; blog</title>
+<link>http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T12:50:29Z</dc:date>
+<dc:subject>ecology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/kongou_ae/20080706/1215343377">
+<title>&#x66F8;&#x5E97;&#x58F2;&#x4E0A;&#x3052;&#x30E9;&#x30F3;&#x30AD;&#x30F3;&#x30B0;TOP5&#x304C;&#x3069;&#x3053;&#x304B;&#x77E5;&#x3063;&#x3066;&#x3044;&#x307E;&#x3059;&#x304B;&#xFF1F; - 60&#x576A;&#x66F8;&#x5E97;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/kongou_ae/20080706/1215343377</link>
+<description></description>
+<dc:creator>tanda</dc:creator>
+<dc:date>2008-07-06T12:49:32Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

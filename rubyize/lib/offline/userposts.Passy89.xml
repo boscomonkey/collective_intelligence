@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/passy89">
+<title>del.icio.us/passy89</title>
+<link>http://del.icio.us/passy89</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.artima.com/cppsource/how_to_go_slow.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.rememberthemilk.com/home/pascal.hartig/#section.overview" />
+  <rdf:li rdf:resource="http://www.gnome-look.org/content/show.php/Tinted+Glass?content=84354" />
+  <rdf:li rdf:resource="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes" />
+  <rdf:li rdf:resource="http://www.seomoz.org/" />
+  <rdf:li rdf:resource="http://www.sabayonlinux.org/forum/viewtopic.php?f=60&#x26;t=13917&#x26;p=79891" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://www.heise.de/resale/GmbH-Reform-Update--/artikel/107798" />
+  <rdf:li rdf:resource="http://ryanberg.net/blog/2008/jun/24/basics-creating-tumblelog-django/" />
+  <rdf:li rdf:resource="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://disruptive-innovations.com/zoo/cssvariables/" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.playgroundblues.com/posts/2007/dec/02/django-basic-apps/" />
+  <rdf:li rdf:resource="http://www.noupe.com/" />
+  <rdf:li rdf:resource="http://compilers.iecc.com/crenshaw/" />
+  <rdf:li rdf:resource="http://javascriptmvc.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/tools/13-fantastic-tools-for-knowing-how-they-are-doing-it.html" />
+  <rdf:li rdf:resource="http://sixrevisions.com/resources/favicon_generators_resources/" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Improve_Your_RSS_and_Atom_Feeds" />
+  <rdf:li rdf:resource="http://blog.stevenlevithan.com/" />
+  <rdf:li rdf:resource="http://www.powerset.com/" />
+  <rdf:li rdf:resource="http://snackr.net/index.html" />
+  <rdf:li rdf:resource="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" />
+  <rdf:li rdf:resource="http://www.schuelervz.net/Start" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-06T09:18:31Z</dc:date>
+<dc:subject>ajax animation gif icon icons loading</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/loading" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+    <rdf:li resource="http://del.icio.us/tag/gif" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/cppsource/how_to_go_slow.html">
+<title>How To Go Slow</title>
+<link>http://www.artima.com/cppsource/how_to_go_slow.html</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-06T09:14:57Z</dc:date>
+<dc:subject>algorithms c++ design performance programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-06T09:05:18Z</dc:date>
+<dc:subject>chair ergonomics furniture health programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rememberthemilk.com/home/pascal.hartig/#section.overview">
+<title>Remember The Milk - Pascal Aufgaben</title>
+<link>http://www.rememberthemilk.com/home/pascal.hartig/#section.overview</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-05T14:30:59Z</dc:date>
+<dc:subject>aufgaben rtm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rtm" />
+    <rdf:li resource="http://del.icio.us/tag/aufgaben" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gnome-look.org/content/show.php/Tinted+Glass?content=84354">
+<title>Tinted Glass GNOME-Look.org</title>
+<link>http://www.gnome-look.org/content/show.php/Tinted+Glass?content=84354</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-05T13:36:56Z</dc:date>
+<dc:subject>emerald theme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emerald" />
+    <rdf:li resource="http://del.icio.us/tag/theme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python">
+<title>about:cmlenz - The Truth About Unicode In Python</title>
+<link>http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-05T02:14:44Z</dc:date>
+<dc:subject>i18n programming python unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-05T02:13:46Z</dc:date>
+<dc:subject>design forms registration usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/registration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes">
+<title>SEO 2.0 | Top 10 Fatal URL Design Mistakes</title>
+<link>http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-04T12:34:46Z</dc:date>
+<dc:subject>seo url usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/">
+<title>SEO - Search Engine Optimization | Read SEOmoz, Rank Better</title>
+<link>http://www.seomoz.org/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-04T04:37:42Z</dc:date>
+<dc:subject>blog marketing search seo tools web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sabayonlinux.org/forum/viewtopic.php?f=60&#x26;t=13917&#x26;p=79891">
+<title>www.sabayonlinux.org &#x2022; View topic - Sabayon Linux x86/x86-64 3.5: Stable Release</title>
+<link>http://www.sabayonlinux.org/forum/viewtopic.php?f=60&#x26;t=13917&#x26;p=79891</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-03T20:09:53Z</dc:date>
+<dc:subject>linux sabayon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sabayon" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-03T13:37:53Z</dc:date>
+<dc:subject>design development firefox gui opensource prototyping software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-03T12:26:39Z</dc:date>
+<dc:subject>proxy security software testing tools web xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-03T12:20:29Z</dc:date>
+<dc:subject>api method programming python reference underscore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/underscore" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.heise.de/resale/GmbH-Reform-Update--/artikel/107798">
+<title>heise resale - : GmbH-Reform [Update]</title>
+<link>http://www.heise.de/resale/GmbH-Reform-Update--/artikel/107798</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-02T19:54:29Z</dc:date>
+<dc:subject>coporate gmbh lmt zukunft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lmt" />
+    <rdf:li resource="http://del.icio.us/tag/coporate" />
+    <rdf:li resource="http://del.icio.us/tag/gmbh" />
+    <rdf:li resource="http://del.icio.us/tag/zukunft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanberg.net/blog/2008/jun/24/basics-creating-tumblelog-django/">
+<title>The basics of creating a tumblelog with Django : Blog : Ryan Berg</title>
+<link>http://ryanberg.net/blog/2008/jun/24/basics-creating-tumblelog-django/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-02T19:35:11Z</dc:date>
+<dc:subject>blog django python signals tumblelog webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/tumblelog" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/signals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/">
+<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+<link>http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-01T12:05:37Z</dc:date>
+<dc:subject>checkbox css cssforms design form javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/checkbox" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/cssforms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-01T11:59:32Z</dc:date>
+<dc:subject>backgrounds design generator graphics patterns webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://disruptive-innovations.com/zoo/cssvariables/">
+<title>CSS Variables</title>
+<link>http://disruptive-innovations.com/zoo/cssvariables/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-07-01T11:58:25Z</dc:date>
+<dc:subject>css css3 variables webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/variables" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/css3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T20:21:28Z</dc:date>
+<dc:subject>career competency development interview matrix programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/competency" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.playgroundblues.com/posts/2007/dec/02/django-basic-apps/">
+<title>Playground Blues / Django Basic Apps</title>
+<link>http://www.playgroundblues.com/posts/2007/dec/02/django-basic-apps/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T17:43:30Z</dc:date>
+<dc:subject>applications django examples programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/">
+<title>Noupe</title>
+<link>http://www.noupe.com/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T17:33:22Z</dc:date>
+<dc:subject>ajax blog css design javascript reference webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://compilers.iecc.com/crenshaw/">
+<title>Let's Build a Compiler</title>
+<link>http://compilers.iecc.com/crenshaw/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T11:03:57Z</dc:date>
+<dc:subject>compiler compilers programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javascriptmvc.com/">
+<title>JavaScriptMVC</title>
+<link>http://javascriptmvc.com/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:27:38Z</dc:date>
+<dc:subject>ajax framework javascript mvc programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/mvc" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/tools/13-fantastic-tools-for-knowing-how-they-are-doing-it.html">
+<title>13+ Fantastic Tools For Knowing How They&#x2019;re Doing It</title>
+<link>http://www.noupe.com/tools/13-fantastic-tools-for-knowing-how-they-are-doing-it.html</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:23:32Z</dc:date>
+<dc:subject>analysis analytics marketing seo tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/resources/favicon_generators_resources/">
+<title>Favicon Generators</title>
+<link>http://sixrevisions.com/resources/favicon_generators_resources/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:18:17Z</dc:date>
+<dc:subject>favicon tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Improve_Your_RSS_and_Atom_Feeds">
+<title>Improve Your RSS and Atom Feeds - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Improve_Your_RSS_and_Atom_Feeds</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:15:25Z</dc:date>
+<dc:subject>atom feed rss technology tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.stevenlevithan.com/">
+<title>/JavaScript|Regex/ : Flagrant Badassery</title>
+<link>http://blog.stevenlevithan.com/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:12:44Z</dc:date>
+<dc:subject>blog javascript programming regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powerset.com/">
+<title>Powerset</title>
+<link>http://www.powerset.com/</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-30T01:06:48Z</dc:date>
+<dc:subject>search searchengine semantic semanticweb web2.0 wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/semantic" />
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://snackr.net/index.html">
+<title>Snackr: an RSS ticker for Windows/Mac/Linux built using Adobe AIR and Flex.</title>
+<link>http://snackr.net/index.html</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-29T16:54:26Z</dc:date>
+<dc:subject>air feed rss software ticker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/ticker" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
+<title>C++ Style Guide</title>
+<link>http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-29T11:07:01Z</dc:date>
+<dc:subject>c++ code guide programming style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.schuelervz.net/Start">
+<title>schuelerVZ | Meine Startseite</title>
+<link>http://www.schuelervz.net/Start</link>
+<description></description>
+<dc:creator>Passy89</dc:creator>
+<dc:date>2008-06-29T02:20:52Z</dc:date>
+<dc:subject>community network social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

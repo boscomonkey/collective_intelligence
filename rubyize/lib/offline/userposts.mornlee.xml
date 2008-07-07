@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mornlee">
+<title>del.icio.us/mornlee</title>
+<link>http://del.icio.us/mornlee</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://msdn.microsoft.com/en-us/library/ms741706(VS.85).aspx" />
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.vconversion.com/" />
+  <rdf:li rdf:resource="http://www.timetoast.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://man.unice.net/Works/WebPartsCollection.html" />
+  <rdf:li rdf:resource="http://www.cnblogs.com/cloudgamer/archive/2008/07/06/1236770.html" />
+  <rdf:li rdf:resource="http://www.cnblogs.com/super-yc/archive/2008/07/05/1236749.html" />
+  <rdf:li rdf:resource="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/" />
+  <rdf:li rdf:resource="http://regex-lib.net/Home/" />
+  <rdf:li rdf:resource="http://www.codeusing.com/" />
+  <rdf:li rdf:resource="http://technet.microsoft.com/en-us/library/bb232199.aspx" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/zh-cn/library/ms735119.aspx" />
+  <rdf:li rdf:resource="http://www.codeproject.com/KB/cpp/MemoryPoolIntroduction.aspx" />
+  <rdf:li rdf:resource="http://www.codebasehq.com/" />
+  <rdf:li rdf:resource="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/" />
+  <rdf:li rdf:resource="http://aspnet.4guysfromrolla.com/articles/021506-1.aspx" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/" />
+  <rdf:li rdf:resource="http://dotnet.dzone.com/news/26-not-to-be-missed-net-articl" />
+  <rdf:li rdf:resource="http://weblogs.asp.net/owscott/archive/2004/01/12/57916.aspx" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://www.simplehelp.net/windows-mobile/how-to-play-nes-nintendo-games-on-your-windows-mobile-smartphone/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.spaweditor.com/en/disp.php/en_products/en_spaw/en_spaw_intro" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.codeproject.com/KB/webservices/vidTranscode.aspx" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://www.cnblogs.com/dragon/archive/2008/07/04/filesystemwatcher.html" />
+  <rdf:li rdf:resource="http://www.codeproject.com/KB/aspnet/CalendarAppointment.aspx" />
+  <rdf:li rdf:resource="http://community.bartdesmet.net/blogs/bart/archive/2008/06/30/a-lap-around-microsoft-quot-velocity-quot-cache-it-now.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://msdn.microsoft.com/en-us/library/ms741706(VS.85).aspx">
+<title>Workflow Monitor Sample</title>
+<link>http://msdn.microsoft.com/en-us/library/ms741706(VS.85).aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T13:08:39Z</dc:date>
+<dc:subject>workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>http://extplorer.sourceforge.net/</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T13:02:42Z</dc:date>
+<dc:subject>ajax extjs filemanager javascript opensource php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filemanager" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T11:50:25Z</dc:date>
+<dc:subject>audio conversion freeware media tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vconversion.com/">
+<title>YouTube Converter - Convert Online YouTube Videos - Download YouTube video - Online YouTube converter</title>
+<link>http://www.vconversion.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T02:08:34Z</dc:date>
+<dc:subject>conversion converter download tools video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timetoast.com/">
+<title>Timetoast Timelines | Create timelines, share them on the web.</title>
+<link>http://www.timetoast.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T01:03:21Z</dc:date>
+<dc:subject>flash timeline tools visualization web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T00:54:00Z</dc:date>
+<dc:subject>forms usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://man.unice.net/Works/WebPartsCollection.html">
+<title>My Webparts Collection</title>
+<link>http://man.unice.net/Works/WebPartsCollection.html</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-06T00:53:54Z</dc:date>
+<dc:subject>moss sharepoint treeview webpart</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+    <rdf:li resource="http://del.icio.us/tag/treeview" />
+    <rdf:li resource="http://del.icio.us/tag/moss" />
+    <rdf:li resource="http://del.icio.us/tag/webpart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnblogs.com/cloudgamer/archive/2008/07/06/1236770.html">
+<title>JavaScript &#x56FE;&#x7247;&#x5207;&#x6362;&#x5C55;&#x793A;&#x6548;&#x679C; - cloudgamer - &#x535A;&#x5BA2;&#x56ED;</title>
+<link>http://www.cnblogs.com/cloudgamer/archive/2008/07/06/1236770.html</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T22:37:18Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnblogs.com/super-yc/archive/2008/07/05/1236749.html">
+<title>&#x7528;&#x8D23;&#x4EFB;&#x94FE;&#x6A21;&#x5F0F;&#x5B9E;&#x73B0;&#x5DE5;&#x4F5C;&#x6D41;&#x81EA;&#x5B9A;&#x4E49; - &#x5FC3;&#x6709;&#x7075;&#x7280;&#x7684;&#x7A7A;&#x95F4; - &#x535A;&#x5BA2;&#x56ED;</title>
+<link>http://www.cnblogs.com/super-yc/archive/2008/07/05/1236749.html</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T16:09:45Z</dc:date>
+<dc:subject>designpatterns workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+    <rdf:li resource="http://del.icio.us/tag/designpatterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/">
+<title>Create an Inspirational Vector Political Poster - VECTORTUTS</title>
+<link>http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T15:58:48Z</dc:date>
+<dc:subject>design photoshop poster tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://regex-lib.net/Home/">
+<title>&#x9996;&#x9875; @ regex-lib.net [&#x4E2D;&#x56FD;&#x6700;&#x5927;&#x7684;&#x6B63;&#x5219;&#x8868;&#x8FBE;&#x5F0F;&#x8D44;&#x6E90;&#x4E2D;&#x5FC3;]</title>
+<link>http://regex-lib.net/Home/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T08:14:07Z</dc:date>
+<dc:subject>.net regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeusing.com/">
+<title>.NET&#x5F00;&#x53D1;&#x8D44;&#x6E90;&#x5E93; &#x5206;&#x4EAB;.NET&#x8D44;&#x6E90; - CodeUsing.com</title>
+<link>http://www.codeusing.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T08:05:56Z</dc:date>
+<dc:subject>.net</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://technet.microsoft.com/en-us/library/bb232199.aspx">
+<title>How to Use Outlook Web Access Web Parts</title>
+<link>http://technet.microsoft.com/en-us/library/bb232199.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-05T01:56:40Z</dc:date>
+<dc:subject>exchange outlook owa sharepoint webpart</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+    <rdf:li resource="http://del.icio.us/tag/owa" />
+    <rdf:li resource="http://del.icio.us/tag/webpart" />
+    <rdf:li resource="http://del.icio.us/tag/exchange" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/zh-cn/library/ms735119.aspx">
+<title>Windows Communication Foundation</title>
+<link>http://msdn.microsoft.com/zh-cn/library/ms735119.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-04T22:57:04Z</dc:date>
+<dc:subject>wcf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wcf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/KB/cpp/MemoryPoolIntroduction.aspx">
+<title>CodeProject: Why to use memory pool and how to implement it. Free source code and programming help</title>
+<link>http://www.codeproject.com/KB/cpp/MemoryPoolIntroduction.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-04T13:59:25Z</dc:date>
+<dc:subject>cpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codebasehq.com/">
+<title>http://www.codebasehq.com/</title>
+<link>http://www.codebasehq.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-04T12:34:21Z</dc:date>
+<dc:subject>git rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/">
+<title>How To Setup MySQL Replication in 10 minutes | Hackosis</title>
+<link>http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-04T12:33:11Z</dc:date>
+<dc:subject>database howto mysql replication sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aspnet.4guysfromrolla.com/articles/021506-1.aspx">
+<title>ASP.NET.4GuysFromRolla.com: Encrypting Configuration Information in ASP.NET 2.0 Applications</title>
+<link>http://aspnet.4guysfromrolla.com/articles/021506-1.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-04T12:29:18Z</dc:date>
+<dc:subject>.net configuration crypto security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/crypto" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/">
+<title>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</title>
+<link>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T23:35:20Z</dc:date>
+<dc:subject>business development programming startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dotnet.dzone.com/news/26-not-to-be-missed-net-articl">
+<title>26 Not To Be Missed .NET Articles - June 2008 - .NET Zone | .NET Zone</title>
+<link>http://dotnet.dzone.com/news/26-not-to-be-missed-net-articl</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T23:32:56Z</dc:date>
+<dc:subject>.net asp.net tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/asp.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.asp.net/owscott/archive/2004/01/12/57916.aspx">
+<title>IIS Compression in IIS6.0</title>
+<link>http://weblogs.asp.net/owscott/archive/2004/01/12/57916.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T23:28:54Z</dc:date>
+<dc:subject>asp.net compression howto iis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iis" />
+    <rdf:li resource="http://del.icio.us/tag/compression" />
+    <rdf:li resource="http://del.icio.us/tag/asp.net" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T23:23:09Z</dc:date>
+<dc:subject>freeware lifehacker maintenance tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/maintenance" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplehelp.net/windows-mobile/how-to-play-nes-nintendo-games-on-your-windows-mobile-smartphone/">
+<title>How to play NES (Nintendo) Games on your Windows Mobile Smartphone - Simple Help</title>
+<link>http://www.simplehelp.net/windows-mobile/how-to-play-nes-nintendo-games-on-your-windows-mobile-smartphone/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:46:49Z</dc:date>
+<dc:subject>emulator games mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emulator" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:44:04Z</dc:date>
+<dc:subject>google proxy security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spaweditor.com/en/disp.php/en_products/en_spaw/en_spaw_intro">
+<title>SOLMETRA - web based WYSIWYG editor control - SPAW Editor, online regular expression test tool, wrapper for Google Maps</title>
+<link>http://www.spaweditor.com/en/disp.php/en_products/en_spaw/en_spaw_intro</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:42:42Z</dc:date>
+<dc:subject>ajax editor webdesign wysiwyg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/wysiwyg" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:42:34Z</dc:date>
+<dc:subject>audio generator sound tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/KB/webservices/vidTranscode.aspx">
+<title>CodeProject: Video Transcoding &#x22;YouTube-Style&#x22; with ffmpeg. Free source code and programming help</title>
+<link>http://www.codeproject.com/KB/webservices/vidTranscode.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:39:23Z</dc:date>
+<dc:subject>ffmpeg flv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ffmpeg" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:22:48Z</dc:date>
+<dc:subject>algorithm algorithms del.icio.us digg seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnblogs.com/dragon/archive/2008/07/04/filesystemwatcher.html">
+<title>FileSystemWatcher&#x4E8B;&#x4EF6;&#x591A;&#x6B21;&#x89E6;&#x53D1;&#x7684;&#x89E3;&#x51B3;&#x65B9;&#x6CD5;</title>
+<link>http://www.cnblogs.com/dragon/archive/2008/07/04/filesystemwatcher.html</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T22:03:26Z</dc:date>
+<dc:subject>log4net logging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/log4net" />
+    <rdf:li resource="http://del.icio.us/tag/logging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/KB/aspnet/CalendarAppointment.aspx">
+<title>CodeProject: Send Calendar Appointment As Email Attachment. Free source code and programming help</title>
+<link>http://www.codeproject.com/KB/aspnet/CalendarAppointment.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T15:17:52Z</dc:date>
+<dc:subject>asp.net outlook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+    <rdf:li resource="http://del.icio.us/tag/asp.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.bartdesmet.net/blogs/bart/archive/2008/06/30/a-lap-around-microsoft-quot-velocity-quot-cache-it-now.aspx">
+<title>A Lap Around Microsoft &#x22;Velocity&#x22; - Cache It NOW! - B# .NET Blog</title>
+<link>http://community.bartdesmet.net/blogs/bart/archive/2008/06/30/a-lap-around-microsoft-quot-velocity-quot-cache-it-now.aspx</link>
+<description></description>
+<dc:creator>mornlee</dc:creator>
+<dc:date>2008-07-03T15:08:48Z</dc:date>
+<dc:subject>.net cache velocity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/velocity" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/cache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jayang">
+<title>del.icio.us/jayang</title>
+<link>http://del.icio.us/jayang</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://online.wsj.com/article/SB121521344404029485.html?mod=home_we_banner_left" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://outono-btemplates.blogspot.com/" />
+  <rdf:li rdf:resource="http://btemplates.com/2008/03/11/natural/" />
+  <rdf:li rdf:resource="http://btemplates.com/2008/03/11/greenery/" />
+  <rdf:li rdf:resource="http://www.bloggertemplates.org/review/conzep-for-blogger#myreview" />
+  <rdf:li rdf:resource="http://btemplates.com/" />
+  <rdf:li rdf:resource="http://btemplates.com/2008/07/02/enlighten/" />
+  <rdf:li rdf:resource="http://torrentfreak.com/indiana-gregg-pirate-bay-internet-police-are-coming-080704/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/2008/07/03/dlfacebook103.xml" />
+  <rdf:li rdf:resource="http://www.gamesradar.com/f/the-most-gratuitous-headshots-video-ever/a-20080703163643718029" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://support.apple.com/kb/HT2109" />
+  <rdf:li rdf:resource="http://www.economist.com/blogs/freeexchange/2008/06/indie_rock_wizards.cfm" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288127,00.html" />
+  <rdf:li rdf:resource="http://www.shacknews.com/onearticle.x/53434" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/2410" />
+  <rdf:li rdf:resource="http://www.webware.com/8301-1_109-9955345-2.html" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.gamespot.com/pc/rpg/diablo3/news.html?sid=6193137&#x26;tag=topslot;title;3&#x26;om_act=convert&#x26;om_clk=topslot" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/23/opinion/23lovenheim.html?_r=1&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.neatorama.com/2008/07/02/weburbanists-guide-to-guerilla-marketing/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/25/fashion/25love.html?pagewanted=2&#x26;partner=rssnyt" />
+  <rdf:li rdf:resource="http://www.youcantkilltherooster.com/stories.php?story=10&#x26;disp=f" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/06/25-absolute-essentials-for-networking.html" />
+  <rdf:li rdf:resource="http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku" />
+  <rdf:li rdf:resource="http://www.engadget.com/2008/07/01/atandt-announces-iphone-3g-pricing-plans/" />
+  <rdf:li rdf:resource="http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://online.wsj.com/article/SB121521344404029485.html?mod=home_we_banner_left">
+<title>These Singles Just Wanted a Taxi, But Mr. Ibrahim Drove Them to 'I Do' - WSJ.com</title>
+<link>http://online.wsj.com/article/SB121521344404029485.html?mod=home_we_banner_left</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:56:16Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:55:59Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:55:13Z</dc:date>
+<dc:subject>geek star</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/star" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/">
+<title>Think Before You Voicemail</title>
+<link>http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:54:44Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:54:34Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://outono-btemplates.blogspot.com/">
+<title>Outono</title>
+<link>http://outono-btemplates.blogspot.com/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:33:12Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://btemplates.com/2008/03/11/natural/">
+<title>Natural</title>
+<link>http://btemplates.com/2008/03/11/natural/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:32:14Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://btemplates.com/2008/03/11/greenery/">
+<title>Greenery</title>
+<link>http://btemplates.com/2008/03/11/greenery/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:30:47Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bloggertemplates.org/review/conzep-for-blogger#myreview">
+<title>Conzep</title>
+<link>http://www.bloggertemplates.org/review/conzep-for-blogger#myreview</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:28:08Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://btemplates.com/">
+<title>Blogger Templates</title>
+<link>http://btemplates.com/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:21:03Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://btemplates.com/2008/07/02/enlighten/">
+<title>Enlighten</title>
+<link>http://btemplates.com/2008/07/02/enlighten/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T10:19:09Z</dc:date>
+<dc:subject>template</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrentfreak.com/indiana-gregg-pirate-bay-internet-police-are-coming-080704/">
+<title>Indiana Gregg to The Pirate Bay: The Internet Police Are Coming | TorrentFreak</title>
+<link>http://torrentfreak.com/indiana-gregg-pirate-bay-internet-police-are-coming-080704/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T21:40:42Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/2008/07/03/dlfacebook103.xml">
+<title>Facebook and MySpace generation 'cannot form relationships' - Telegraph</title>
+<link>http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/2008/07/03/dlfacebook103.xml</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T21:40:02Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesradar.com/f/the-most-gratuitous-headshots-video-ever/a-20080703163643718029">
+<title>The Most Gratuitous Headshots Video Ever | GamesRadar</title>
+<link>http://www.gamesradar.com/f/the-most-gratuitous-headshots-video-ever/a-20080703163643718029</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T21:39:29Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T21:36:57Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.apple.com/kb/HT2109">
+<title>How to replace an original iPhone with an iPhone 3G</title>
+<link>http://support.apple.com/kb/HT2109</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T21:36:43Z</dc:date>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/blogs/freeexchange/2008/06/indie_rock_wizards.cfm">
+<title>Indie rock wizards | Free exchange | Economist.com</title>
+<link>http://www.economist.com/blogs/freeexchange/2008/06/indie_rock_wizards.cfm</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T13:35:50Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288127,00.html">
+<title>How to write a movie | News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288127,00.html</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T13:30:51Z</dc:date>
+<dc:subject>movies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shacknews.com/onearticle.x/53434">
+<title>First DC Universe Online Media Emerges - Shacknews - PC Games, PlayStation, Xbox 360 and Wii video game news, previews and downloads</title>
+<link>http://www.shacknews.com/onearticle.x/53434</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T08:29:27Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/2410">
+<title>Foxmarks Bookmark Synchronizer :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/2410</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T08:24:59Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webware.com/8301-1_109-9955345-2.html">
+<title>Forget Google Docs, Penzu gives you paper 2.0</title>
+<link>http://www.webware.com/8301-1_109-9955345-2.html</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T08:13:43Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - White Noise</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-04T00:10:09Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamespot.com/pc/rpg/diablo3/news.html?sid=6193137&#x26;tag=topslot;title;3&#x26;om_act=convert&#x26;om_clk=topslot">
+<title>Diablo III First Look - PC News at GameSpot</title>
+<link>http://www.gamespot.com/pc/rpg/diablo3/news.html?sid=6193137&#x26;tag=topslot;title;3&#x26;om_act=convert&#x26;om_clk=topslot</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-03T23:41:02Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/23/opinion/23lovenheim.html?_r=1&#x26;oref=slogin">
+<title>NY Times - Neighbors and Space</title>
+<link>http://www.nytimes.com/2008/06/23/opinion/23lovenheim.html?_r=1&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-03T02:06:51Z</dc:date>
+<dc:subject>article</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neatorama.com/2008/07/02/weburbanists-guide-to-guerilla-marketing/">
+<title>Guerilla vs Viral Marketing</title>
+<link>http://www.neatorama.com/2008/07/02/weburbanists-guide-to-guerilla-marketing/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-03T02:06:02Z</dc:date>
+<dc:subject>business</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/25/fashion/25love.html?pagewanted=2&#x26;partner=rssnyt">
+<title>AIM Girlfriend</title>
+<link>http://www.nytimes.com/2008/05/25/fashion/25love.html?pagewanted=2&#x26;partner=rssnyt</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-03T02:05:37Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youcantkilltherooster.com/stories.php?story=10&#x26;disp=f">
+<title>You Can't Kill The Rooster: Home Page of Paul Sedaris, subject of many of David Sedaris's stories.</title>
+<link>http://www.youcantkilltherooster.com/stories.php?story=10&#x26;disp=f</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-02T02:31:45Z</dc:date>
+<dc:subject>writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/06/25-absolute-essentials-for-networking.html">
+<title>25 Absolute Essentials for Networking Success</title>
+<link>http://www.dumblittleman.com/2008/06/25-absolute-essentials-for-networking.html</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-02T02:31:32Z</dc:date>
+<dc:subject>article</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku">
+<title>Sudoku</title>
+<link>http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-02T02:31:17Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2008/07/01/atandt-announces-iphone-3g-pricing-plans/">
+<title>AT&#x26;T announces iPhone 3G pricing plans - Engadget</title>
+<link>http://www.engadget.com/2008/07/01/atandt-announces-iphone-3g-pricing-plans/</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-02T02:30:50Z</dc:date>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html">
+<title>Official Google Blog: Google learns to crawl Flash</title>
+<link>http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-02T02:30:38Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

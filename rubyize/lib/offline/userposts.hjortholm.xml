@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hjortholm">
+<title>del.icio.us/hjortholm</title>
+<link>http://del.icio.us/hjortholm</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.jimmyr.com/Most_Common_Passwords_20_2008.php" />
+  <rdf:li rdf:resource="http://www.milw0rm.com/" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/?p=25#more-25" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.ajaxonomy.com/2008/web-design/great-accordion-scripts" />
+  <rdf:li rdf:resource="http://www.evvs.dk/index.php?osCsid=076cb2b5f0f15603feb9ce87d6a4dc3d" />
+  <rdf:li rdf:resource="http://git.or.cz/" />
+  <rdf:li rdf:resource="http://codebasehq.com/" />
+  <rdf:li rdf:resource="http://flexiscale.com/" />
+  <rdf:li rdf:resource="http://www.mediatemple.net/webhosting/gs/" />
+  <rdf:li rdf:resource="http://www.mosso.com/" />
+  <rdf:li rdf:resource="http://www.capify.org/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.slantly.com/" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/30/internet-broadcasting-introduces-new-online-opinion-tool-slantly/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/XUnit" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26" />
+  <rdf:li rdf:resource="http://dirtgetswet.com/pics-images/194/now-thats-is-subtle" />
+  <rdf:li rdf:resource="http://www.appappeal.com/" />
+  <rdf:li rdf:resource="http://www.mikogo.com/welcome.aspx" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites/" />
+  <rdf:li rdf:resource="http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.jimmyr.com/Most_Common_Passwords_20_2008.php">
+<title>Most Common Passwords(-)</title>
+<link>http://blog.jimmyr.com/Most_Common_Passwords_20_2008.php</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T12:56:42Z</dc:date>
+<dc:subject>password security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.milw0rm.com/">
+<title>milw0rm - exploits : vulnerabilities : videos : papers : shellcode(-)</title>
+<link>http://www.milw0rm.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T12:52:47Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/?p=25#more-25">
+<title>What&#x2019;s My Pass &#xBB; How To Gain access to Windows Vista(-)</title>
+<link>http://www.whatsmypass.com/?p=25#more-25</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T12:50:27Z</dc:date>
+<dc:subject>passwords vista</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T12:49:57Z</dc:date>
+<dc:subject>password security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)(-)</title>
+<link>http://formatoz.com/</link>
+<description>FormatFactory is a multifunctional media converter.</description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T11:11:40Z</dc:date>
+<dc:subject>conversion software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1">
+<title>Dashboards, Reports and Business Intelligence Applications by SiSense(-)</title>
+<link>http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T10:38:13Z</dc:date>
+<dc:subject>amazon analytics s3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/">
+<title>5 Regular Expressions Every Web Programmer Should Know - I&#x2019;m Mike(-)</title>
+<link>http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T10:30:43Z</dc:date>
+<dc:subject>howto regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/">
+<title>Extreme regex foo: what you need to know to become a regular expression pro - I&#x2019;m Mike(-)</title>
+<link>http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T10:30:27Z</dc:date>
+<dc:subject>howto regex tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times(-)</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>Time exists without entropy, but entropy is what gives time its special character.</description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T10:27:27Z</dc:date>
+<dc:subject>articles entropy time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (26%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-06T00:55:53Z</dc:date>
+<dc:subject>physics quantum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxonomy.com/2008/web-design/great-accordion-scripts">
+<title>Great Accordion Scripts | Ajaxonomy(-)</title>
+<link>http://www.ajaxonomy.com/2008/web-design/great-accordion-scripts</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T21:38:12Z</dc:date>
+<dc:subject>javascript jquery tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evvs.dk/index.php?osCsid=076cb2b5f0f15603feb9ce87d6a4dc3d">
+<title>e-vvs - radiator, radiatorer, vvs, armatur, if&#xF8;, vvsartikler, h&#xE5;ndvaske, vvs online, vvs salg(-)</title>
+<link>http://www.evvs.dk/index.php?osCsid=076cb2b5f0f15603feb9ce87d6a4dc3d</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T19:49:30Z</dc:date>
+<dc:subject>shopping vvs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vvs" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://git.or.cz/">
+<title>Git - Fast Version Control System(-)</title>
+<link>http://git.or.cz/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:39:30Z</dc:date>
+<dc:subject>git svn versioncontrol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/versioncontrol" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codebasehq.com/">
+<title>Codebase - Git repository hosting with source browser, changesets, ticketing &#x26; deployment tracking(-)</title>
+<link>http://codebasehq.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:39:07Z</dc:date>
+<dc:subject>svn versioncontrol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/versioncontrol" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flexiscale.com/">
+<title>FlexiScale - Utility Computing On-Demand(-)</title>
+<link>http://flexiscale.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:38:23Z</dc:date>
+<dc:subject>cloud grid hosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediatemple.net/webhosting/gs/">
+<title>(mt) Media Temple - (gs) Grid-Service(-)</title>
+<link>http://www.mediatemple.net/webhosting/gs/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:38:12Z</dc:date>
+<dc:subject>cloud hosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mosso.com/">
+<title>MOSSO :: The Hosting Cloud - Home(-)</title>
+<link>http://www.mosso.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:37:45Z</dc:date>
+<dc:subject>cloud hosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.capify.org/">
+<title>Capistrano: Home(-)</title>
+<link>http://www.capify.org/</link>
+<description>Simply put, Capistrano is a tool for automating tasks on one or more remote servers. It executes commands in parallel on all targeted machines, and provides a mechanism for rolling back changes across multiple machines.</description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:37:12Z</dc:date>
+<dc:subject>capistrano deployment rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/capistrano" />
+    <rdf:li resource="http://del.icio.us/tag/deployment" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know(-)</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:16:25Z</dc:date>
+<dc:subject>reference tutorial xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slantly.com/">
+<title>Slantly - Opinion &#x26; Discussion(-)</title>
+<link>http://www.slantly.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:16:10Z</dc:date>
+<dc:subject>community polls</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/polls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/30/internet-broadcasting-introduces-new-online-opinion-tool-slantly/">
+<title>Internet Broadcasting Introduces New Online Opinion Tool Slantly(-)</title>
+<link>http://www.techcrunch.com/2008/06/30/internet-broadcasting-introduces-new-online-opinion-tool-slantly/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T15:14:47Z</dc:date>
+<dc:subject>polls</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/polls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code(-)</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description>Detects and prioritizes broad classes of security problems, such as dynamic cross-site trust model considerations, script inclusion issues, content serving problems, insufficient XSRF and XSS defenses, and much more.</description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T10:46:02Z</dc:date>
+<dc:subject>google security testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/XUnit">
+<title>xUnit - Wikipedia, the free encyclopedia(-)</title>
+<link>http://en.wikipedia.org/wiki/XUnit</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T10:40:41Z</dc:date>
+<dc:subject>testing xunit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/xunit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)(-)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-05T10:38:17Z</dc:date>
+<dc:subject>howto programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine(-)</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-03T15:32:00Z</dc:date>
+<dc:subject>icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26">
+<title>25 Clever Bar Pick Up Lines | Sloshspot Blog(-)</title>
+<link>http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-03T15:31:44Z</dc:date>
+<dc:subject>fun humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dirtgetswet.com/pics-images/194/now-thats-is-subtle">
+<title>DirtGetsWet &#xBB; Now that is Subtle(-)</title>
+<link>http://dirtgetswet.com/pics-images/194/now-thats-is-subtle</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-03T15:30:19Z</dc:date>
+<dc:subject>fun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appappeal.com/">
+<title>AppAppeal &#xBB; Reviews of Web Based Applications(-)</title>
+<link>http://www.appappeal.com/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-01T13:33:09Z</dc:date>
+<dc:subject>comparison review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mikogo.com/welcome.aspx">
+<title>Mikogo: Free Online Meetings(-)</title>
+<link>http://www.mikogo.com/welcome.aspx</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-01T13:10:57Z</dc:date>
+<dc:subject>conferencing skype tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conferencing" />
+    <rdf:li resource="http://del.icio.us/tag/skype" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites/">
+<title>10 Essential Sites for Tips and How-To&#x2019;s(-)</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites/</link>
+<description>10 Essential Sites for Tips and How-To&#x2019;s</description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-07-01T12:25:16Z</dc:date>
+<dc:subject>howto list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/">
+<title>Hidden Pixels - FREE Web Icons(-)</title>
+<link>http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/</link>
+<description></description>
+<dc:creator>hjortholm</dc:creator>
+<dc:date>2008-06-30T20:01:45Z</dc:date>
+<dc:subject>icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

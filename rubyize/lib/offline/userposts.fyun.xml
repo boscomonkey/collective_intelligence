@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/fyun">
+<title>del.icio.us/fyun</title>
+<link>http://del.icio.us/fyun</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.blogjava.net/wangdei/archive/2008/07/05/212778.html" />
+  <rdf:li rdf:resource="http://www1.qcxy.hb.cn/qphy/Prototype150/search.html" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets" />
+  <rdf:li rdf:resource="http://www.agiledon.com/post/2008/07/Scrum-Practice-In-PM.aspx" />
+  <rdf:li rdf:resource="http://michael.nona.name/archives/185" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/java-reporting-%E2%80%93-part-4" />
+  <rdf:li rdf:resource="http://www.dbanotes.net/arch/facebook_photos_arch.html" />
+  <rdf:li rdf:resource="http://www.roseindia.net/ajax/jquery/index.shtml" />
+  <rdf:li rdf:resource="http://architects.dzone.com/news/10-principles-agile-project-ma" />
+  <rdf:li rdf:resource="http://www.yeeyan.com/articles/view/sunwell008/9413" />
+  <rdf:li rdf:resource="http://www.blogjava.net/rosen/archive/2008/06/24/210399.html" />
+  <rdf:li rdf:resource="http://www.google.com/reader/view" />
+  <rdf:li rdf:resource="http://blog.csdn.net/heiyeshuwu/archive/2008/06/02/2504831.aspx" />
+  <rdf:li rdf:resource="http://www.guger.net/bbs/viewthread.php?tid=1700" />
+  <rdf:li rdf:resource="http://www.softwareprojects.com/resources/programming/t-mysql-storage-engines-1470.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/websphere/library/techarticles/0803_fasbinder2/0803_fasbinder2.html" />
+  <rdf:li rdf:resource="http://www.blogjava.net/crazycy/archive/2008/03/18/187056.html" />
+  <rdf:li rdf:resource="http://www.ancientprogramming.com/2008/03/15/best-practise-when-handling-tags-and-branches-using-subversion" />
+  <rdf:li rdf:resource="http://www.webdesigngoldmine.com/2008/03/14/css-organization-tips" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/cn/java/j-lo-spring25-mvc/index.html?ca=drs-cn" />
+  <rdf:li rdf:resource="http://blog.csdn.net/sharptoolbox/category/246573.aspx" />
+  <rdf:li rdf:resource="http://www.freeiconsdownload.com/" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/03/tdd-smells" />
+  <rdf:li rdf:resource="http://ajax.dzone.com/news/easy-multi-select-transfer-jqu" />
+  <rdf:li rdf:resource="http://www.infoq.com/cn/articles/master-worker-terracotta" />
+  <rdf:li rdf:resource="http://www.javaeye.com/topic/144033" />
+  <rdf:li rdf:resource="http://www.comsharp.com/GetKnowledge/zh-CN/pHome.aspx" />
+  <rdf:li rdf:resource="http://plazma.sourceforge.net/frameaction.php?lng=en&#x26;page=download" />
+  <rdf:li rdf:resource="http://dev2dev.bea.com.cn/techdoc/2007/06/java-soa-google-mashups.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-06T01:53:29Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogjava.net/wangdei/archive/2008/07/05/212778.html">
+<title>&#x4FEE;&#x6B63;&#x7248; &#x75AF;&#x72C2;&#x4EE3;&#x7801; &#x5199;&#x7ED9;WEB2.0&#x7684;&#x7AD9;&#x957F; - &#x6211;&#x7684;BT&#x4E0B;&#x8F7D;&#x5B9E;&#x9A8C;&#x5BA4; - BlogJava</title>
+<link>http://www.blogjava.net/wangdei/archive/2008/07/05/212778.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-06T01:38:01Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www1.qcxy.hb.cn/qphy/Prototype150/search.html">
+<title>Prototype API&#x641C;&#x7D22;</title>
+<link>http://www1.qcxy.hb.cn/qphy/Prototype150/search.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-04T16:56:28Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin">
+<title>Pathfinder Development &#xBB; Writing reusable jQuery modules: Make everything a plugin</title>
+<link>http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-04T02:20:19Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-04T02:19:17Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.agiledon.com/post/2008/07/Scrum-Practice-In-PM.aspx">
+<title>Scrum Practice in Project Management</title>
+<link>http://www.agiledon.com/post/2008/07/Scrum-Practice-In-PM.aspx</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-01T06:59:56Z</dc:date>
+<dc:subject>agile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://michael.nona.name/archives/185">
+<title>&#x5BCC;&#x5BA2;&#x6237;&#x7AEF;&#x6700;&#x4F73;&#x5B9E;&#x8DF5;&#x4E4B;&#x9996;&#x8981;&#xFF1A;&#x5F02;&#x6B65; : Michael Chen&#x2019;s Blog</title>
+<link>http://michael.nona.name/archives/185</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-01T02:58:53Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/java-reporting-%E2%80%93-part-4">
+<title>Java Reporting &#x2013; Part 4 | Javalobby</title>
+<link>http://java.dzone.com/articles/java-reporting-%E2%80%93-part-4</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-28T00:07:08Z</dc:date>
+<dc:subject>reporting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reporting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dbanotes.net/arch/facebook_photos_arch.html">
+<title>Facebook &#x6D77;&#x91CF;&#x6570;&#x636E;&#x5904;&#x7406; - DBA notes</title>
+<link>http://www.dbanotes.net/arch/facebook_photos_arch.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-26T15:56:56Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roseindia.net/ajax/jquery/index.shtml">
+<title>jQuery, jQuery - jQuery Tutorials and examples</title>
+<link>http://www.roseindia.net/ajax/jquery/index.shtml</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-25T19:59:59Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://architects.dzone.com/news/10-principles-agile-project-ma">
+<title>10 Principles of Agile Project Management | Architects Zone</title>
+<link>http://architects.dzone.com/news/10-principles-agile-project-ma</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-25T19:55:56Z</dc:date>
+<dc:subject>agile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yeeyan.com/articles/view/sunwell008/9413">
+<title>&#x89E3;&#x51B3;&#x95EE;&#x9898;&#x66F4;&#x7B80;&#x5355;&#x7684;16&#x4E2A;&#x5B9E;&#x7528;&#x8D34;&#x58EB; - &#x8BD1;&#x8A00;&#x7FFB;&#x8BD1;</title>
+<link>http://www.yeeyan.com/articles/view/sunwell008/9413</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-25T02:31:58Z</dc:date>
+<dc:subject>other</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/other" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogjava.net/rosen/archive/2008/06/24/210399.html">
+<title>OSGi&#x8D77;&#x6B65;(OSGi for Beginners) - &#x6210;&#x90FD;&#x5FC3;&#x60C5; - BlogJava</title>
+<link>http://www.blogjava.net/rosen/archive/2008/06/24/210399.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-25T00:49:29Z</dc:date>
+<dc:subject>eclipse opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/reader/view">
+<title>Google &#x9605;&#x8BFB;&#x5668;</title>
+<link>http://www.google.com/reader/view</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-24T12:40:34Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.csdn.net/heiyeshuwu/archive/2008/06/02/2504831.aspx">
+<title>[&#x8F6C;]Yupoo! &#x7684;&#x7F51;&#x7AD9;&#x6280;&#x672F;&#x67B6;&#x6784; - heiyeluren&#x7684;blog&#xFF08;&#x9ED1;&#x591C;&#x8DEF;&#x4EBA;&#x7684;&#x5F00;&#x6E90;&#x4E16;&#x754C;&#xFF09; - CSDNBlog</title>
+<link>http://blog.csdn.net/heiyeshuwu/archive/2008/06/02/2504831.aspx</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-24T12:37:49Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guger.net/bbs/viewthread.php?tid=1700">
+<title>&#x65B0;&#x624B;&#x5FC5;&#x8BFB;&#xFF01;&#x65B0;&#x624B;&#x533A;&#x603B;&#x7D22;&#x5F15;&#xFF1A;&#x4E0B;&#x8F7D;&#x3001;&#x6559;&#x7A0B;&#x3001;&#x7591;&#x96BE;&#x89E3;&#x7B54;&#xFF01; - Google Earth&#x65B0;&#x624B;&#x63D0;&#x95EE;&#x4E0E;&#x6C42;&#x52A9; - Google Earth&#x4E2D;&#x6587;&#x8BBA;&#x575B;-&#x8C37;&#x5BA2;&#x8BBA;&#x575B;-&#x8C37;&#x6B4C;&#x5730;&#x7403;&#x8BBA;&#x575B; &#x536B;&#x661F;&#x5730;&#x56FE;,&#x8F6F;&#x4EF6;&#x4E0B;&#x8F7D;,&#x5730;&#x6807;&#x5750;&#x6807;</title>
+<link>http://www.guger.net/bbs/viewthread.php?tid=1700</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-06-24T05:50:43Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.softwareprojects.com/resources/programming/t-mysql-storage-engines-1470.html">
+<title>MySQL Storage Engines - Programming - SoftwareProjects</title>
+<link>http://www.softwareprojects.com/resources/programming/t-mysql-storage-engines-1470.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-26T11:12:24Z</dc:date>
+<dc:subject>database</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/websphere/library/techarticles/0803_fasbinder2/0803_fasbinder2.html">
+<title>BPEL or ESB: Which should you use?</title>
+<link>http://www.ibm.com/developerworks/websphere/library/techarticles/0803_fasbinder2/0803_fasbinder2.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-22T07:01:11Z</dc:date>
+<dc:subject>soa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogjava.net/crazycy/archive/2008/03/18/187056.html">
+<title>ClassLoader&#x4E13;&#x9898;&#xFF08;&#x56DB;&#xFF09;&#xFF1A;&#x5E94;&#x7528;&#x670D;&#x52A1;&#x5668; - cuiyi's blog&#xFF08;&#x5D14;&#x6BC5; crazycy&#xFF09; - BlogJava</title>
+<link>http://www.blogjava.net/crazycy/archive/2008/03/18/187056.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-18T13:43:30Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ancientprogramming.com/2008/03/15/best-practise-when-handling-tags-and-branches-using-subversion">
+<title>Ancient Programming &#xBB; Blog Archive &#xBB; Best practise when handling tags and branches (using subversion)</title>
+<link>http://www.ancientprogramming.com/2008/03/15/best-practise-when-handling-tags-and-branches-using-subversion</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-17T12:17:32Z</dc:date>
+<dc:subject>codecraft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/codecraft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesigngoldmine.com/2008/03/14/css-organization-tips">
+<title>CSS Organization Tips</title>
+<link>http://www.webdesigngoldmine.com/2008/03/14/css-organization-tips</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-17T02:29:35Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/cn/java/j-lo-spring25-mvc/index.html?ca=drs-cn">
+<title>&#x4F7F;&#x7528; Spring 2.5 &#x57FA;&#x4E8E;&#x6CE8;&#x89E3;&#x9A71;&#x52A8;&#x7684; Spring MVC</title>
+<link>http://www.ibm.com/developerworks/cn/java/j-lo-spring25-mvc/index.html?ca=drs-cn</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-15T01:29:51Z</dc:date>
+<dc:subject>spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.csdn.net/sharptoolbox/category/246573.aspx">
+<title>&#x4EBA;&#x6708;&#x795E;&#x8BDD;&#x7684;&#x4E13;&#x680F; - IT&#x9879;&#x76EE;&#x7BA1;&#x7406;</title>
+<link>http://blog.csdn.net/sharptoolbox/category/246573.aspx</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-13T12:27:59Z</dc:date>
+<dc:subject>pm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeiconsdownload.com/">
+<title>Free Icons Download - Icons,Free Icons,XP Icons,Vista Icons,Stock Icons,Mac icons</title>
+<link>http://www.freeiconsdownload.com/</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-13T01:46:55Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/03/tdd-smells">
+<title>InfoQ: Common Questions when Adopting TDD</title>
+<link>http://www.infoq.com/news/2008/03/tdd-smells</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-12T11:43:08Z</dc:date>
+<dc:subject>tdd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tdd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajax.dzone.com/news/easy-multi-select-transfer-jqu">
+<title>Easy Multi Select Transfer with jQuery | Ajax Zone</title>
+<link>http://ajax.dzone.com/news/easy-multi-select-transfer-jqu</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-08T00:20:46Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/cn/articles/master-worker-terracotta">
+<title>InfoQ: &#x7528;Terracotta&#x5B9E;&#x73B0;Master-Worker</title>
+<link>http://www.infoq.com/cn/articles/master-worker-terracotta</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-06T02:07:56Z</dc:date>
+<dc:subject>enterprise opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaeye.com/topic/144033">
+<title>MySQL&#x6027;&#x80FD;&#x4F18;&#x5316; - Database - Tech - JavaEye&#x8BBA;&#x575B;</title>
+<link>http://www.javaeye.com/topic/144033</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-05T14:17:16Z</dc:date>
+<dc:subject>database</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comsharp.com/GetKnowledge/zh-CN/pHome.aspx">
+<title>&#x9510;&#x5546;&#x4F01;&#x4E1A;CMS - &#x57FA;&#x4E8E; ASP.NET &#x548C; W3C &#x7684; &#x4F01;&#x4E1A;CMS - &#x57FA;&#x4E8E; COMSHARP CMS</title>
+<link>http://www.comsharp.com/GetKnowledge/zh-CN/pHome.aspx</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-03-05T02:39:45Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://plazma.sourceforge.net/frameaction.php?lng=en&#x26;page=download">
+<title>Plazma ERP+CRM Solution</title>
+<link>http://plazma.sourceforge.net/frameaction.php?lng=en&#x26;page=download</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2007-08-14T05:34:43Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev2dev.bea.com.cn/techdoc/2007/06/java-soa-google-mashups.html">
+<title>&#x6280;&#x672F;&#x6587;&#x7AE0;-AJAX&#x652F;&#x6301;&#x7684; GOOGLE &#x5730;&#x56FE; MASHUP &#x6559;&#x7A0B;</title>
+<link>http://dev2dev.bea.com.cn/techdoc/2007/06/java-soa-google-mashups.html</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2007-08-14T02:05:30Z</dc:date>
+<dc:subject>ajax google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

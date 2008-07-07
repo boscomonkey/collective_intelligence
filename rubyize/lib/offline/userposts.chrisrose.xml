@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/chrisrose">
+<title>del.icio.us/chrisrose</title>
+<link>http://del.icio.us/chrisrose</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/photogallery/routerupgrade/748102" />
+  <rdf:li rdf:resource="http://www.youtorrent.com/" />
+  <rdf:li rdf:resource="http://tvshows.sourceforge.net/" />
+  <rdf:li rdf:resource="http://lifehacker.com/346634/remote-control-your-bittorrent-downloads-with-clutch" />
+  <rdf:li rdf:resource="http://lifehacker.com/344765/turn-your-60-router-into-a-user+friendly-super+router-with-tomato" />
+  <rdf:li rdf:resource="http://chdk.wikia.com/wiki/CHDK" />
+  <rdf:li rdf:resource="http://lifehacker.com/396312/power-users-guide-to-firefox-3" />
+  <rdf:li rdf:resource="http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks" />
+  <rdf:li rdf:resource="http://lifehacker.com/339474/top-10-obscure-google-search-tricks" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://current.com/items/89071010_best_evidence_yet_that_being_gay_is_not_a_choice" />
+  <rdf:li rdf:resource="http://lifehackery.com/2008/06/25/art-design/#=rss" />
+  <rdf:li rdf:resource="http://www.aip.org/history/einstein/essay.htm" />
+  <rdf:li rdf:resource="http://www.btinternet.com/~glynhughes/squashed/" />
+  <rdf:li rdf:resource="http://imgs.zinio.com/retail_srvs/classics/" />
+  <rdf:li rdf:resource="http://www.ted.com/talks/top10" />
+  <rdf:li rdf:resource="http://solastyear.com/hitit.htm?photo=27" />
+  <rdf:li rdf:resource="http://translate.google.com/translate?u=http%3A%2F%2Fwww.oberwelt.de%2Fprojects%2F2008%2FFilo%2520art.htm&#x26;langpair=de%7Cen&#x26;hl=en&#x26;ie=UTF8" />
+  <rdf:li rdf:resource="http://www.kk.org/cooltools/archives/002879.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/397285/access-usenet-when-your-isp-blocks-it" />
+  <rdf:li rdf:resource="http://www.fictionwise.com/eBooks/freeBooks.htm?cache" />
+  <rdf:li rdf:resource="http://www.fictionwise.com/" />
+  <rdf:li rdf:resource="http://www.pdabookstore.com/" />
+  <rdf:li rdf:resource="http://www.memoware.com/" />
+  <rdf:li rdf:resource="http://www.free-ebooks.net/" />
+  <rdf:li rdf:resource="http://www.baen.com/library/" />
+  <rdf:li rdf:resource="http://www.archive.org/details/texts" />
+  <rdf:li rdf:resource="http://www.wowio.com/comingsoon.asp" />
+  <rdf:li rdf:resource="http://www.gutenberg.org/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://valleywag.com/5019748/wired-editor-chris-andersons-latest-book-proposal-would-throw-scientific-method-under-a-bus" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/photogallery/routerupgrade/748102">
+<title>1 - Upgrade from Linksys to DD-WRT mini</title>
+<link>http://lifehacker.com/photogallery/routerupgrade/748102</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:55:19Z</dc:date>
+<dc:subject>router tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtorrent.com/">
+<title>YouTorrent.com (BETA) - Your Torrents. Real Time.</title>
+<link>http://www.youtorrent.com/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:47:33Z</dc:date>
+<dc:subject>search torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tvshows.sourceforge.net/">
+<title>TVShows 1.0, coming soon</title>
+<link>http://tvshows.sourceforge.net/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:40:56Z</dc:date>
+<dc:subject>torrent tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/346634/remote-control-your-bittorrent-downloads-with-clutch">
+<title>Feature: Remote Control Your BitTorrent Downloads with Clutch</title>
+<link>http://lifehacker.com/346634/remote-control-your-bittorrent-downloads-with-clutch</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:40:16Z</dc:date>
+<dc:subject>howto remote torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/remote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/344765/turn-your-60-router-into-a-user+friendly-super+router-with-tomato">
+<title>Feature: Turn Your $60 Router into a User-Friendly Super-Router with Tomato</title>
+<link>http://lifehacker.com/344765/turn-your-60-router-into-a-user+friendly-super+router-with-tomato</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:09:27Z</dc:date>
+<dc:subject>hack howto router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chdk.wikia.com/wiki/CHDK">
+<title>CHDK - CHDK Wiki</title>
+<link>http://chdk.wikia.com/wiki/CHDK</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:03:05Z</dc:date>
+<dc:subject>canon chdk hack</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/chdk" />
+    <rdf:li resource="http://del.icio.us/tag/canon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396312/power-users-guide-to-firefox-3">
+<title>Firefox 3: Power User's Guide to Firefox 3</title>
+<link>http://lifehacker.com/396312/power-users-guide-to-firefox-3</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T06:00:07Z</dc:date>
+<dc:subject>firefox3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks">
+<title>Lifehacker Top 10: Top 10 BitTorrent Tools and Tricks</title>
+<link>http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T05:46:33Z</dc:date>
+<dc:subject>lifehacker torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/339474/top-10-obscure-google-search-tricks">
+<title>Lifehacker Top 10: Top 10 Obscure Google Search Tricks</title>
+<link>http://lifehacker.com/339474/top-10-obscure-google-search-tricks</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T05:13:19Z</dc:date>
+<dc:subject>google howto lifehacker search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-06T04:40:25Z</dc:date>
+<dc:subject>physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://current.com/items/89071010_best_evidence_yet_that_being_gay_is_not_a_choice">
+<title>Best evidence yet that being gay is not a choice // Current</title>
+<link>http://current.com/items/89071010_best_evidence_yet_that_being_gay_is_not_a_choice</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-05T06:58:26Z</dc:date>
+<dc:subject>gay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehackery.com/2008/06/25/art-design/#=rss">
+<title>How NOT to Draw Like a 3-Year-Old | Life Hackery</title>
+<link>http://lifehackery.com/2008/06/25/art-design/#=rss</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-03T23:43:45Z</dc:date>
+<dc:subject>draw drawing howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/draw" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aip.org/history/einstein/essay.htm">
+<title>An Essay by Einstein -- The World As I See It</title>
+<link>http://www.aip.org/history/einstein/essay.htm</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-07-01T20:39:45Z</dc:date>
+<dc:subject>einstein essay toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/einstein" />
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.btinternet.com/~glynhughes/squashed/">
+<title>Squashed Philosophers- Condensed Plato Aristotle Augustine Descartes Hume Marx Freud Copernicus Hobbes Sartre Ayer Sade Wittgenstein Einstein</title>
+<link>http://www.btinternet.com/~glynhughes/squashed/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-30T04:31:52Z</dc:date>
+<dc:subject>philosophy toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imgs.zinio.com/retail_srvs/classics/">
+<title>Digital Classics</title>
+<link>http://imgs.zinio.com/retail_srvs/classics/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-28T08:37:23Z</dc:date>
+<dc:subject>books ebooks zinio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/zinio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/talks/top10">
+<title>TED | About TED | TEDTalks</title>
+<link>http://www.ted.com/talks/top10</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-28T07:56:43Z</dc:date>
+<dc:subject>ted</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://solastyear.com/hitit.htm?photo=27">
+<title>So Last Year - Amusing Pictures - funny T-Shirts custom, owned, pwn3d &#x26; stfu images, sfw humor</title>
+<link>http://solastyear.com/hitit.htm?photo=27</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-28T07:54:13Z</dc:date>
+<dc:subject>hit_that hitit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hitit" />
+    <rdf:li resource="http://del.icio.us/tag/hit_that" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://translate.google.com/translate?u=http%3A%2F%2Fwww.oberwelt.de%2Fprojects%2F2008%2FFilo%2520art.htm&#x26;langpair=de%7Cen&#x26;hl=en&#x26;ie=UTF8">
+<title>Translated version of http://www.oberwelt.de/projects/2008/Filo%20art.htm</title>
+<link>http://translate.google.com/translate?u=http%3A%2F%2Fwww.oberwelt.de%2Fprojects%2F2008%2FFilo%2520art.htm&#x26;langpair=de%7Cen&#x26;hl=en&#x26;ie=UTF8</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-28T07:32:08Z</dc:date>
+<dc:subject>privacy surveillance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/surveillance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/cooltools/archives/002879.php">
+<title>Cool Tool: Books That Changed My Life</title>
+<link>http://www.kk.org/cooltools/archives/002879.php</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T18:52:58Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397285/access-usenet-when-your-isp-blocks-it">
+<title>How To: Access Usenet When Your ISP Blocks It</title>
+<link>http://lifehacker.com/397285/access-usenet-when-your-isp-blocks-it</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T18:46:44Z</dc:date>
+<dc:subject>newsgroups usenet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usenet" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fictionwise.com/eBooks/freeBooks.htm?cache">
+<title>Fictionwise eBooks: Free eBooks</title>
+<link>http://www.fictionwise.com/eBooks/freeBooks.htm?cache</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:42:47Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fictionwise.com/">
+<title>Fictionwise eBooks: Free eBooks, eBooks for Palm, PocketPC, PC, &#x26; Mac</title>
+<link>http://www.fictionwise.com/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:42:30Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pdabookstore.com/">
+<title>MemoWare PDA Bookstore</title>
+<link>http://www.pdabookstore.com/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:42:16Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.memoware.com/">
+<title>Ebook and PDA Documents for your Handheld from Memoware - Free!</title>
+<link>http://www.memoware.com/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:41:38Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.free-ebooks.net/">
+<title>Free-ebooks.net | Download free Fiction, Marketing,electronic publishing ebooks</title>
+<link>http://www.free-ebooks.net/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:41:24Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.baen.com/library/">
+<title>Baen Free Library</title>
+<link>http://www.baen.com/library/</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:41:03Z</dc:date>
+<dc:subject>eBooks eboo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eBooks" />
+    <rdf:li resource="http://del.icio.us/tag/eboo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.archive.org/details/texts">
+<title>Internet Archive: Text Archive</title>
+<link>http://www.archive.org/details/texts</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:40:26Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wowio.com/comingsoon.asp">
+<title>WOWIO is Going Global!</title>
+<link>http://www.wowio.com/comingsoon.asp</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:40:08Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gutenberg.org/wiki/Main_Page">
+<title>Main Page - Gutenberg</title>
+<link>http://www.gutenberg.org/wiki/Main_Page</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-27T07:39:22Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://valleywag.com/5019748/wired-editor-chris-andersons-latest-book-proposal-would-throw-scientific-method-under-a-bus">
+<title>Google: Wired editor Chris Anderson's latest book proposal would throw scientific method under a bus</title>
+<link>http://valleywag.com/5019748/wired-editor-chris-andersons-latest-book-proposal-would-throw-scientific-method-under-a-bus</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-26T17:22:43Z</dc:date>
+<dc:subject>science statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html">
+<title>14 Simple Ways to Super Charge Your Brain</title>
+<link>http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html</link>
+<description></description>
+<dc:creator>chrisrose</dc:creator>
+<dc:date>2008-06-26T17:10:19Z</dc:date>
+<dc:subject>brain</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

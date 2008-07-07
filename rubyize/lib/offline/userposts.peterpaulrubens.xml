@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/peterpaulrubens">
+<title>del.icio.us/peterpaulrubens</title>
+<link>http://del.icio.us/peterpaulrubens</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.toxi.co.uk/blog/2007/07/digital-portfolio-library-for-london.htm" />
+  <rdf:li rdf:resource="http://www.thesycon.de/deu/vhpd_de.shtml" />
+  <rdf:li rdf:resource="http://support.microsoft.com/kb/885222/en-us" />
+  <rdf:li rdf:resource="http://sweb.cityu.edu.hk/sm3123/class12/class12.htm" />
+  <rdf:li rdf:resource="http://sweb.cityu.edu.hk/sm3123/" />
+  <rdf:li rdf:resource="http://www-ui.is.s.u-tokyo.ac.jp/~takeo/research/rigid/index.html" />
+  <rdf:li rdf:resource="http://www.1up.com/do/newsStory?cId=3168496" />
+  <rdf:li rdf:resource="http://www.gdbasics.com/" />
+  <rdf:li rdf:resource="http://www.unibrain.com/Products/p1394/tSpec_FB800-e.htm" />
+  <rdf:li rdf:resource="http://www.unibrain.com/Products/DriverAPI/ubcore.htm" />
+  <rdf:li rdf:resource="http://infosthetics.com/archives/2008/07/lasercut_sound_analysis_sculptures.html" />
+  <rdf:li rdf:resource="http://www.iaacblog.com/internet0/?page_id=20" />
+  <rdf:li rdf:resource="http://code.google.com/p/flexlib/" />
+  <rdf:li rdf:resource="http://obsessing.org/" />
+  <rdf:li rdf:resource="http://www.zennaware.com/cornerstone/" />
+  <rdf:li rdf:resource="http://www.henrys.co.uk/cctv/irilluminator.htm" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/30/update-digg-recommendation-engine-confirmed-for-this-week/" />
+  <rdf:li rdf:resource="http://geeksuit.com/software/84_0_1_0_M/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/" />
+  <rdf:li rdf:resource="http://www.citysense.com/home.php" />
+  <rdf:li rdf:resource="http://www.cs.ubc.ca/~lloyd/java/quickhull3d.html" />
+  <rdf:li rdf:resource="http://www.qhull.org/" />
+  <rdf:li rdf:resource="http://createdigitalmusic.com/2008/06/27/10-free-non-musical-windows-software-every-musician-should-use/" />
+  <rdf:li rdf:resource="http://postspectacular.spreadshirt.net/en/GB/Shop" />
+  <rdf:li rdf:resource="http://www.flong.com/texts/lists/slit_scan/" />
+  <rdf:li rdf:resource="http://www.webresourcesdepot.com/sliding-top-menu-with-jquery/" />
+  <rdf:li rdf:resource="http://interface.eyecon.ro/" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=Vqc9BiGsVoo" />
+  <rdf:li rdf:resource="http://code.google.com/p/processingas/" />
+  <rdf:li rdf:resource="http://uncontrol.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-06T11:03:05Z</dc:date>
+<dc:subject>chair furniture health work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.toxi.co.uk/blog/2007/07/digital-portfolio-library-for-london.htm">
+<title>toxi.in.process: Digital portfolio library for London College of Fashion</title>
+<link>http://www.toxi.co.uk/blog/2007/07/digital-portfolio-library-for-london.htm</link>
+<description>helpful&#x2026; toxi mentioned whirlycache here for image preloading and such</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T17:22:43Z</dc:date>
+<dc:subject>2007 biennale fashion graduate interaction london mace processing reactivision show surface table</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/london" />
+    <rdf:li resource="http://del.icio.us/tag/graduate" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/show" />
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+    <rdf:li resource="http://del.icio.us/tag/reactivision" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/surface" />
+    <rdf:li resource="http://del.icio.us/tag/mace" />
+    <rdf:li resource="http://del.icio.us/tag/biennale" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesycon.de/deu/vhpd_de.shtml">
+<title>IEEE 1394 Ger&#xE4;tetreiber-Kit f&#xFC;r Windows</title>
+<link>http://www.thesycon.de/deu/vhpd_de.shtml</link>
+<description>another one besides unibrain
+</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T14:45:16Z</dc:date>
+<dc:subject>800 driver firewire vista windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/driver" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/firewire" />
+    <rdf:li resource="http://del.icio.us/tag/800" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.microsoft.com/kb/885222/en-us">
+<title>Performance of 1394 devices may decrease after you install Windows XP Service Pack 2</title>
+<link>http://support.microsoft.com/kb/885222/en-us</link>
+<description>manual to overcome firewire 800 problems with sp2</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T14:20:27Z</dc:date>
+<dc:subject>800 firewire windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/firewire" />
+    <rdf:li resource="http://del.icio.us/tag/800" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sweb.cityu.edu.hk/sm3123/class12/class12.htm">
+<title>Class 12</title>
+<link>http://sweb.cityu.edu.hk/sm3123/class12/class12.htm</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T10:28:10Z</dc:date>
+<dc:subject>camera exmples howto processing tracking vision</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vision" />
+    <rdf:li resource="http://del.icio.us/tag/tracking" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/exmples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sweb.cityu.edu.hk/sm3123/">
+<title>SM3123</title>
+<link>http://sweb.cityu.edu.hk/sm3123/</link>
+<description>university class about augmented reality and stuff
+
+</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T10:27:23Z</dc:date>
+<dc:subject>3d augmented examples howto image processing programming reality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/augmented" />
+    <rdf:li resource="http://del.icio.us/tag/reality" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-ui.is.s.u-tokyo.ac.jp/~takeo/research/rigid/index.html">
+<title>As-Rigid-As-Possible Shape Manipulation</title>
+<link>http://www-ui.is.s.u-tokyo.ac.jp/~takeo/research/rigid/index.html</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T10:26:09Z</dc:date>
+<dc:subject>animation illustration interaction physics simulation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.1up.com/do/newsStory?cId=3168496">
+<title>Gaming Culture: Classic Game Characters in Spore</title>
+<link>http://www.1up.com/do/newsStory?cId=3168496</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T10:25:10Z</dc:date>
+<dc:subject>*toblog and art characters design game games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*toblog" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/characters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gdbasics.com/">
+<title>Graphic Design: The New Basics</title>
+<link>http://www.gdbasics.com/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-05T10:24:33Z</dc:date>
+<dc:subject>book contemporary design graphics style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/contemporary" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unibrain.com/Products/p1394/tSpec_FB800-e.htm">
+<title>FireBoard 800-e&#x2122; 1394b (Firewire-800) OHCI PCI Express adapter technical specifications</title>
+<link>http://www.unibrain.com/Products/p1394/tSpec_FB800-e.htm</link>
+<description>alternative&#x2026; in case the one we bought already does not work&#x2026;</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-04T13:53:30Z</dc:date>
+<dc:subject>800 biennale firewire hardware mace pcie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firewire" />
+    <rdf:li resource="http://del.icio.us/tag/800" />
+    <rdf:li resource="http://del.icio.us/tag/pcie" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/mace" />
+    <rdf:li resource="http://del.icio.us/tag/biennale" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unibrain.com/Products/DriverAPI/ubcore.htm">
+<title>ubCore Firewire (Firewire 800 - IEEE 1394b) driver suite</title>
+<link>http://www.unibrain.com/Products/DriverAPI/ubcore.htm</link>
+<description>VISTA sucks (no fw800 support) hope this baby will work with avt's pike&#x2026;</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-04T13:51:16Z</dc:date>
+<dc:subject>800 biennale driver firewire hardware ieee1394 mace vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firewire" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/800" />
+    <rdf:li resource="http://del.icio.us/tag/ieee1394" />
+    <rdf:li resource="http://del.icio.us/tag/driver" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/mace" />
+    <rdf:li resource="http://del.icio.us/tag/biennale" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://infosthetics.com/archives/2008/07/lasercut_sound_analysis_sculptures.html">
+<title>laser-cut sound analysis sculptures - data visualization &#x26; visual design - information aesthetics</title>
+<link>http://infosthetics.com/archives/2008/07/lasercut_sound_analysis_sculptures.html</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-04T10:39:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.iaacblog.com/internet0/?page_id=20">
+<title>IaaC blog   &#xBB; Class 02: Ubiquitous Computing</title>
+<link>http://www.iaacblog.com/internet0/?page_id=20</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-04T10:38:52Z</dc:date>
+<dc:subject>architecture barcelona class computing design interaction interactive space ubiquitous university</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/university" />
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/barcelona" />
+    <rdf:li resource="http://del.icio.us/tag/ubiquitous" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/flexlib/">
+<title>flexlib - Google Code</title>
+<link>http://code.google.com/p/flexlib/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-02T16:13:59Z</dc:date>
+<dc:subject>as2 as3 components flex library ui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/components" />
+    <rdf:li resource="http://del.icio.us/tag/as2" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://obsessing.org/">
+<title>Obsessing</title>
+<link>http://obsessing.org/</link>
+<description>was just a matter of time&#x2014;processing.js inside a browser</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-02T07:39:51Z</dc:date>
+<dc:subject>app browser design generative javascript processing tools webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/app" />
+    <rdf:li resource="http://del.icio.us/tag/generative" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zennaware.com/cornerstone/">
+<title>Zennaware  &#xBB; Cornerstone</title>
+<link>http://www.zennaware.com/cornerstone/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-02T07:38:56Z</dc:date>
+<dc:subject>control mac programming svn team tools version work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/team" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/version" />
+    <rdf:li resource="http://del.icio.us/tag/control" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.henrys.co.uk/cctv/irilluminator.htm">
+<title>cctv camera IR  illuminator</title>
+<link>http://www.henrys.co.uk/cctv/irilluminator.htm</link>
+<description>find equivilent in berlin</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-02T07:38:25Z</dc:date>
+<dc:subject>camera illumination ir tracking vision</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ir" />
+    <rdf:li resource="http://del.icio.us/tag/illumination" />
+    <rdf:li resource="http://del.icio.us/tag/vision" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/tracking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/30/update-digg-recommendation-engine-confirmed-for-this-week/">
+<title>Update: Digg Recommendation Engine Confirmed For This Week</title>
+<link>http://www.techcrunch.com/2008/06/30/update-digg-recommendation-engine-confirmed-for-this-week/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-07-01T08:30:59Z</dc:date>
+<dc:subject>digg news recommendation semantic watson web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/semantic" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/recommendation" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/watson" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://geeksuit.com/software/84_0_1_0_M/">
+<title>SHAZAM! 3.0</title>
+<link>http://geeksuit.com/software/84_0_1_0_M/</link>
+<description>apple script samples</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-30T15:22:51Z</dc:date>
+<dc:subject>apple automization mac osx script</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/script" />
+    <rdf:li resource="http://del.icio.us/tag/automization" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/">
+<title>SproutCore &#xBB; home</title>
+<link>http://www.sproutcore.com/</link>
+<description>the framework behind apple's mobile.me&#x2014;impressive!</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-30T15:19:51Z</dc:date>
+<dc:subject>application cocoa css html internet javascript rich webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/cocoa" />
+    <rdf:li resource="http://del.icio.us/tag/rich" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.citysense.com/home.php">
+<title>Citysense - Powered by Sense Networks</title>
+<link>http://www.citysense.com/home.php</link>
+<description>realtime city activity service based on mobile phone/gps activity mapping</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-30T15:00:58Z</dc:date>
+<dc:subject>activity city mapping people realtime services</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/services" />
+    <rdf:li resource="http://del.icio.us/tag/mapping" />
+    <rdf:li resource="http://del.icio.us/tag/city" />
+    <rdf:li resource="http://del.icio.us/tag/realtime" />
+    <rdf:li resource="http://del.icio.us/tag/activity" />
+    <rdf:li resource="http://del.icio.us/tag/people" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.ubc.ca/~lloyd/java/quickhull3d.html">
+<title>QuickHull3D: A Robust 3D Convex Hull Algorithm in Java</title>
+<link>http://www.cs.ubc.ca/~lloyd/java/quickhull3d.html</link>
+<description>hull generation lib for java</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-30T14:59:20Z</dc:date>
+<dc:subject>java library math mesh programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/mesh" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.qhull.org/">
+<title>Qhull code for Convex Hull, Delaunay Triangulation, Voronoi Diagram, and Halfspace Intersection about a Point</title>
+<link>http://www.qhull.org/</link>
+<description>another item for the geek collection inspired by d.shiffman</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-30T14:58:39Z</dc:date>
+<dc:subject>3d algorithm delaunay hull math mesh triangulation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/hull" />
+    <rdf:li resource="http://del.icio.us/tag/delaunay" />
+    <rdf:li resource="http://del.icio.us/tag/mesh" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/triangulation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://createdigitalmusic.com/2008/06/27/10-free-non-musical-windows-software-every-musician-should-use/">
+<title>Create Digital Music &#xBB; 10 Free Non-Musical Windows Software Every Musician Should Use</title>
+<link>http://createdigitalmusic.com/2008/06/27/10-free-non-musical-windows-software-every-musician-should-use/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-28T09:30:30Z</dc:date>
+<dc:subject>list software tools utilities windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://postspectacular.spreadshirt.net/en/GB/Shop">
+<title>fiducial t-shirts</title>
+<link>http://postspectacular.spreadshirt.net/en/GB/Shop</link>
+<description>geeky-di-goo</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-28T09:27:19Z</dc:date>
+<dc:subject>fiducials fun geek reactivision tshirt wearables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fiducials" />
+    <rdf:li resource="http://del.icio.us/tag/tshirt" />
+    <rdf:li resource="http://del.icio.us/tag/wearables" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/reactivision" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flong.com/texts/lists/slit_scan/">
+<title>An Informal Catalogue of Slit-Scan Video Artworks and Research - Flong</title>
+<link>http://www.flong.com/texts/lists/slit_scan/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-28T09:25:43Z</dc:date>
+<dc:subject>image methods photography slitscan time video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/slitscan" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/methods" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webresourcesdepot.com/sliding-top-menu-with-jquery/">
+<title>Sliding Top Menu With jQuery</title>
+<link>http://www.webresourcesdepot.com/sliding-top-menu-with-jquery/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-27T17:27:56Z</dc:date>
+<dc:subject>css javascript jquery menu opensynergy slide webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/slide" />
+    <rdf:li resource="http://del.icio.us/tag/menu" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/opensynergy" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://interface.eyecon.ro/">
+<title>Interface elements for jQuery - About Interface</title>
+<link>http://interface.eyecon.ro/</link>
+<description></description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-27T16:54:10Z</dc:date>
+<dc:subject>javascript jquery libraries webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/libraries" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=Vqc9BiGsVoo">
+<title>YouTube - kinetic architecture</title>
+<link>http://youtube.com/watch?v=Vqc9BiGsVoo</link>
+<description>wicked</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-27T10:27:59Z</dc:date>
+<dc:subject>architecture arduino biennale kinetic mace physical processing surface</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mace" />
+    <rdf:li resource="http://del.icio.us/tag/biennale" />
+    <rdf:li resource="http://del.icio.us/tag/physical" />
+    <rdf:li resource="http://del.icio.us/tag/kinetic" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/surface" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/arduino" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/processingas/">
+<title>processingas - Google Code</title>
+<link>http://code.google.com/p/processingas/</link>
+<description>clones everywhere</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-27T10:26:13Z</dc:date>
+<dc:subject>as3 coding design flash generative library processing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/generative" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uncontrol.com/">
+<title>[ uncontrol ]</title>
+<link>http://uncontrol.com/</link>
+<description>a set of really nice small generative/computational pieces</description>
+<dc:creator>peterpaulrubens</dc:creator>
+<dc:date>2008-06-26T16:02:31Z</dc:date>
+<dc:subject>coding flash generative processing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/generative" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

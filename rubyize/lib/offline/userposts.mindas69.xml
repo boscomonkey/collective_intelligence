@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mindas69">
+<title>del.icio.us/mindas69</title>
+<link>http://del.icio.us/mindas69</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.hazelcast.com/" />
+  <rdf:li rdf:resource="http://www.jrecruit.com/" />
+  <rdf:li rdf:resource="http://www.nismat.org/ptcor/ergo/" />
+  <rdf:li rdf:resource="http://servicedesk.siemens.pt/" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/article.pl?sid=08/06/30/0249249&#x26;from=rss" />
+  <rdf:li rdf:resource="http://martinfowler.com/articles/continuousIntegration.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Reactor_pattern" />
+  <rdf:li rdf:resource="http://projecthamster.wordpress.com/screenshots/" />
+  <rdf:li rdf:resource="http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html" />
+  <rdf:li rdf:resource="http://www.h2database.com/" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=dd2fhx4z_5df5hw8" />
+  <rdf:li rdf:resource="http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/arungupta/archive/2008/06/rails_21_on_gla.html" />
+  <rdf:li rdf:resource="http://www.apple.com/support/security/guides/" />
+  <rdf:li rdf:resource="http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson" />
+  <rdf:li rdf:resource="http://hibernate.bluemars.net/37.html" />
+  <rdf:li rdf:resource="http://www.fiqueinforma.com/index.php/corrida/programa-de-corrida-para-iniciantes-preparando-para-provas-de-5-km/" />
+  <rdf:li rdf:resource="http://galaxy.andromda.org/docs-3.2/andromda-hibernate-cartridge/apidocs/org/andromda/cartridges/hibernate/metafacades/HibernateEntity.html" />
+  <rdf:li rdf:resource="http://10.46.8.17/bin/view/USC/CESS/ClearCase" />
+  <rdf:li rdf:resource="http://www.cmcrossroads.com/bradapp/acme/branching/" />
+  <rdf:li rdf:resource="http://www.howtoforge.com/setting-up-a-loadbalanced-mysql-cluster-with-mysql5.1" />
+  <rdf:li rdf:resource="http://velocity.apache.org/engine/devel/vtl-reference-guide.html" />
+  <rdf:li rdf:resource="http://openproj.org/openproj" />
+  <rdf:li rdf:resource="http://galaxy.andromda.org/docs-3.2/andromda-cartridges/index.html" />
+  <rdf:li rdf:resource="http://code.google.com/android/intro/tutorial.html" />
+  <rdf:li rdf:resource="http://code.google.com/android/reference/emulator.html" />
+  <rdf:li rdf:resource="http://code.google.com/android/documentation.html" />
+  <rdf:li rdf:resource="http://www.andromda.org/jira/browse/MAVEN-59" />
+  <rdf:li rdf:resource="http://wiki.netbeans.org/IntroAndroidDevNetBeans" />
+  <rdf:li rdf:resource="http://bazaar-vcs.org/BzrVsGit" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>Why Locks kill your scalability.</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-06T02:35:37Z</dc:date>
+<dc:subject>concurrency j2ee java lock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/lock" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hazelcast.com/">
+<title>www.hazelcast.com - hazelcast</title>
+<link>http://www.hazelcast.com/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-03T23:16:38Z</dc:date>
+<dc:subject>cluster clustering concurrency distributed j2ee java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clustering" />
+    <rdf:li resource="http://del.icio.us/tag/cluster" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jrecruit.com/">
+<title>JRecruit - J2EE Specialists | Home</title>
+<link>http://www.jrecruit.com/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-03T15:33:51Z</dc:date>
+<dc:subject>j2ee java job jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nismat.org/ptcor/ergo/">
+<title>Physical Therapy Corner: Office Ergonomics -- A Guide to a Healthier, More Productive, and a Happier Work Environment &#x2014; Portal</title>
+<link>http://www.nismat.org/ptcor/ergo/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-01T16:03:27Z</dc:date>
+<dc:subject>ergonomics workplace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/workplace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://servicedesk.siemens.pt/">
+<title>Service Desk</title>
+<link>http://servicedesk.siemens.pt/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-01T11:16:23Z</dc:date>
+<dc:subject>helpdesk nsn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nsn" />
+    <rdf:li resource="http://del.icio.us/tag/helpdesk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.slashdot.org/article.pl?sid=08/06/30/0249249&#x26;from=rss">
+<title>Slashdot | Beating Comcast's Sandvine On Linux With Iptables</title>
+<link>http://tech.slashdot.org/article.pl?sid=08/06/30/0249249&#x26;from=rss</link>
+<description>here's how to escape from TCP packet reset from ISP's trying to control your torrent bandwidth</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-30T12:34:41Z</dc:date>
+<dc:subject>blocking iptables isp throttle torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/iptables" />
+    <rdf:li resource="http://del.icio.us/tag/blocking" />
+    <rdf:li resource="http://del.icio.us/tag/isp" />
+    <rdf:li resource="http://del.icio.us/tag/throttle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://martinfowler.com/articles/continuousIntegration.html">
+<title>Continuous Integration</title>
+<link>http://martinfowler.com/articles/continuousIntegration.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-26T23:27:07Z</dc:date>
+<dc:subject>agile build continuousintegration integration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/integration" />
+    <rdf:li resource="http://del.icio.us/tag/continuousintegration" />
+    <rdf:li resource="http://del.icio.us/tag/build" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Reactor_pattern">
+<title>Reactor pattern - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Reactor_pattern</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-26T16:51:51Z</dc:date>
+<dc:subject>concurrency distributed pattern patterns reactor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/pattern" />
+    <rdf:li resource="http://del.icio.us/tag/reactor" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://projecthamster.wordpress.com/screenshots/">
+<title>Screenshots &#xAB; Project Hamster</title>
+<link>http://projecthamster.wordpress.com/screenshots/</link>
+<description>lightweight gtd tool with graphics. it's a GNOME applet</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-25T17:59:29Z</dc:date>
+<dc:subject>ToDo gnome gtd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/gnome" />
+    <rdf:li resource="http://del.icio.us/tag/ToDo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html">
+<title>Core J2EE Patterns - Transfer Object</title>
+<link>http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html</link>
+<description>How we shall pass objects to northbound layers.</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-25T16:34:53Z</dc:date>
+<dc:subject>design-patterns dto pattern patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/dto" />
+    <rdf:li resource="http://del.icio.us/tag/design-patterns" />
+    <rdf:li resource="http://del.icio.us/tag/pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.h2database.com/">
+<title>H2 Database Engine</title>
+<link>http://www.h2database.com/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-23T17:12:28Z</dc:date>
+<dc:subject>database db h2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/h2" />
+    <rdf:li resource="http://del.icio.us/tag/db" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=dd2fhx4z_5df5hw8">
+<title>Guice User's Guide</title>
+<link>http://docs.google.com/View?docid=dd2fhx4z_5df5hw8</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-23T09:28:40Z</dc:date>
+<dc:subject>dependency-injection framework guice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guice" />
+    <rdf:li resource="http://del.icio.us/tag/dependency-injection" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html">
+<title>Chapter&#xA0;16.&#xA0;Clustering</title>
+<link>http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-23T09:27:57Z</dc:date>
+<dc:subject>cluster clustering jboss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clustering" />
+    <rdf:li resource="http://del.icio.us/tag/cluster" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/arungupta/archive/2008/06/rails_21_on_gla.html">
+<title>Arun Gupta's Blog: Rails 2.1 on GlassFish - it works!</title>
+<link>http://weblogs.java.net/blog/arungupta/archive/2008/06/rails_21_on_gla.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-19T17:07:18Z</dc:date>
+<dc:subject>glassfish ror rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ror" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/glassfish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apple.com/support/security/guides/">
+<title>Apple - Support - Security Configuration Guides</title>
+<link>http://www.apple.com/support/security/guides/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-19T14:01:13Z</dc:date>
+<dc:subject>apple guide mac macosx osx security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson">
+<title>Meet Hudson - hudson - Hudson Wiki</title>
+<link>http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-19T09:42:32Z</dc:date>
+<dc:subject>build continuousintegration hudson integration testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/hudson" />
+    <rdf:li resource="http://del.icio.us/tag/continuousintegration" />
+    <rdf:li resource="http://del.icio.us/tag/build" />
+    <rdf:li resource="http://del.icio.us/tag/integration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hibernate.bluemars.net/37.html">
+<title>hibernate.org - Wiki Overview</title>
+<link>http://hibernate.bluemars.net/37.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-18T15:10:16Z</dc:date>
+<dc:subject>documentation hibernate howto tips wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fiqueinforma.com/index.php/corrida/programa-de-corrida-para-iniciantes-preparando-para-provas-de-5-km/">
+<title>Fique Informa &#xBB; Blog Archive &#xBB; Programa de Corrida para Iniciantes: preparando para provas de 5 km.</title>
+<link>http://www.fiqueinforma.com/index.php/corrida/programa-de-corrida-para-iniciantes-preparando-para-provas-de-5-km/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-18T14:20:45Z</dc:date>
+<dc:subject>5km correr exerc&#xED;cio f&#xED;sico plano sa&#xFA;de</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/5km" />
+    <rdf:li resource="http://del.icio.us/tag/correr" />
+    <rdf:li resource="http://del.icio.us/tag/exerc%C3%ADcio" />
+    <rdf:li resource="http://del.icio.us/tag/f%C3%ADsico" />
+    <rdf:li resource="http://del.icio.us/tag/sa%C3%BAde" />
+    <rdf:li resource="http://del.icio.us/tag/plano" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://galaxy.andromda.org/docs-3.2/andromda-hibernate-cartridge/apidocs/org/andromda/cartridges/hibernate/metafacades/HibernateEntity.html">
+<title>HibernateEntity (AndroMDA Hibernate Cartridge 3.2 API)</title>
+<link>http://galaxy.andromda.org/docs-3.2/andromda-hibernate-cartridge/apidocs/org/andromda/cartridges/hibernate/metafacades/HibernateEntity.html</link>
+<description>getAllBusinessOperations()</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-17T14:55:21Z</dc:date>
+<dc:subject>HibernateEntity hibernate metafacades</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HibernateEntity" />
+    <rdf:li resource="http://del.icio.us/tag/metafacades" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://10.46.8.17/bin/view/USC/CESS/ClearCase">
+<title>ClearCase &#x3C; USC/CESS &#x3C; TWiki</title>
+<link>http://10.46.8.17/bin/view/USC/CESS/ClearCase</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-17T14:15:16Z</dc:date>
+<dc:subject>clearcase scm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+    <rdf:li resource="http://del.icio.us/tag/clearcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmcrossroads.com/bradapp/acme/branching/">
+<title>Streamed Lines: Branching Patterns for Parallel Software Development</title>
+<link>http://www.cmcrossroads.com/bradapp/acme/branching/</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-17T14:14:35Z</dc:date>
+<dc:subject>branching scm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+    <rdf:li resource="http://del.icio.us/tag/branching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtoforge.com/setting-up-a-loadbalanced-mysql-cluster-with-mysql5.1">
+<title>How To Set Up A Load-Balanced MySQL Cluster With MySQL 5.1 | HowtoForge - Linux Howtos and Tutorials</title>
+<link>http://www.howtoforge.com/setting-up-a-loadbalanced-mysql-cluster-with-mysql5.1</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-17T13:05:45Z</dc:date>
+<dc:subject>cluster database dba loadbalancing mysql scaling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/cluster" />
+    <rdf:li resource="http://del.icio.us/tag/loadbalancing" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/dba" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://velocity.apache.org/engine/devel/vtl-reference-guide.html">
+<title>Apache Velocity - VTL Reference</title>
+<link>http://velocity.apache.org/engine/devel/vtl-reference-guide.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-17T11:36:59Z</dc:date>
+<dc:subject>reference template velocity vtl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/velocity" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/vtl" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://openproj.org/openproj">
+<title>OpenProj | Projity Open Source and Hosted Project Management Software</title>
+<link>http://openproj.org/openproj</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-16T18:28:20Z</dc:date>
+<dc:subject>management openproj projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openproj" />
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://galaxy.andromda.org/docs-3.2/andromda-cartridges/index.html">
+<title>AndroMDA Cartridges - AndroMDA Cartridges</title>
+<link>http://galaxy.andromda.org/docs-3.2/andromda-cartridges/index.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-16T18:16:49Z</dc:date>
+<dc:subject>andromda cartridge cartridges</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/andromda" />
+    <rdf:li resource="http://del.icio.us/tag/cartridge" />
+    <rdf:li resource="http://del.icio.us/tag/cartridges" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/android/intro/tutorial.html">
+<title>Tutorial: A Notepad Application - Android</title>
+<link>http://code.google.com/android/intro/tutorial.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-05T02:50:04Z</dc:date>
+<dc:subject>android tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/android" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/android/reference/emulator.html">
+<title>Android Emulator - Android</title>
+<link>http://code.google.com/android/reference/emulator.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-05T02:40:43Z</dc:date>
+<dc:subject>android emulator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/android" />
+    <rdf:li resource="http://del.icio.us/tag/emulator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/android/documentation.html">
+<title>Documentation - Android</title>
+<link>http://code.google.com/android/documentation.html</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-05T02:09:02Z</dc:date>
+<dc:subject>android documentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/android" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.andromda.org/jira/browse/MAVEN-59">
+<title>[#MAVEN-59] Mojo for automatically export MagicDraw 11.5 models to EMF-XMI - AndroMDA</title>
+<link>http://www.andromda.org/jira/browse/MAVEN-59</link>
+<description>com.nomagic.magicdraw.emfuml2export</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-04T19:49:48Z</dc:date>
+<dc:subject>emf export magicdraw uml2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/magicdraw" />
+    <rdf:li resource="http://del.icio.us/tag/uml2" />
+    <rdf:li resource="http://del.icio.us/tag/emf" />
+    <rdf:li resource="http://del.icio.us/tag/export" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.netbeans.org/IntroAndroidDevNetBeans">
+<title>NetBeans Wiki: IntroAndroidDevNetBeans</title>
+<link>http://wiki.netbeans.org/IntroAndroidDevNetBeans</link>
+<description></description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-06-03T19:26:29Z</dc:date>
+<dc:subject>android netbeans plug-in</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/android" />
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+    <rdf:li resource="http://del.icio.us/tag/plug-in" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bazaar-vcs.org/BzrVsGit">
+<title>BzrVsGit - Bazaar Version Control</title>
+<link>http://bazaar-vcs.org/BzrVsGit</link>
+<description>Bazaar vs Git</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-05-30T09:11:54Z</dc:date>
+<dc:subject>bazaar bzr git scm vcs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vcs" />
+    <rdf:li resource="http://del.icio.us/tag/bazaar" />
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/bzr" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

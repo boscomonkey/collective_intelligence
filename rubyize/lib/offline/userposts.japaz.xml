@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/japaz">
+<title>del.icio.us/japaz</title>
+<link>http://del.icio.us/japaz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://fronterasblog.wordpress.com/" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.revouninstaller.com/" />
+  <rdf:li rdf:resource="http://www.elephantdrive.com/" />
+  <rdf:li rdf:resource="http://www.unlocksearch.com/" />
+  <rdf:li rdf:resource="http://www.ghacks.net/2008/03/28/assign-usb-drives-to-a-folder/" />
+  <rdf:li rdf:resource="http://www.adaptj.com/main/" />
+  <rdf:li rdf:resource="http://www.javapassion.com/j2ee/javaperformance.pdf" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/jboss-as5-rc1" />
+  <rdf:li rdf:resource="http://www.defraggler.com/" />
+  <rdf:li rdf:resource="http://www.cristobalpalma.com/" />
+  <rdf:li rdf:resource="http://prefbar.mozdev.org/" />
+  <rdf:li rdf:resource="http://www.mundorecetas.com/recetas-de-cocina/recetas-postt229356.html" />
+  <rdf:li rdf:resource="http://tasktop.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Huawei_E220" />
+  <rdf:li rdf:resource="http://www.pandora-jewelry.com/" />
+  <rdf:li rdf:resource="http://www.badongo.com/" />
+  <rdf:li rdf:resource="http://www.latenighthacking.com/projects/2003/sendSignal/" />
+  <rdf:li rdf:resource="http://code.google.com/p/fbug/" />
+  <rdf:li rdf:resource="http://www.office.xerox.com/software-solutions/global-printer-driver/enus.html" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/es-ES/firefox/addon/966" />
+  <rdf:li rdf:resource="http://www.sahw.com/wp/" />
+  <rdf:li rdf:resource="http://opendns.com/" />
+  <rdf:li rdf:resource="http://www.nkprods.com/ncleaner/" />
+  <rdf:li rdf:resource="http://www.blackviper.com/WinXP/servicecfg.htm" />
+  <rdf:li rdf:resource="http://www.enerjy.com/" />
+  <rdf:li rdf:resource="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html" />
+  <rdf:li rdf:resource="http://www.dsfanboy.com/" />
+  <rdf:li rdf:resource="http://jtds.sourceforge.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description>Sillas para programadores</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-06T11:37:43Z</dc:date>
+<dc:subject>furniture programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fronterasblog.wordpress.com/">
+<title>Fronteras</title>
+<link>http://fronterasblog.wordpress.com/</link>
+<description>Un blog sobre las fronteras</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-06T10:31:17Z</dc:date>
+<dc:subject>blog curiosidades</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/curiosidades" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>Como escalar aplicaciones J2EE</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-05T21:03:51Z</dc:date>
+<dc:subject>j2ee java programming scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.revouninstaller.com/">
+<title>Revo Uninstaller Freeware - Uninstall, Remove Programs, Solve uninstall problems</title>
+<link>http://www.revouninstaller.com/</link>
+<description>Desinstalador de aplicaciones para windows</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-05T09:39:11Z</dc:date>
+<dc:subject>software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.elephantdrive.com/">
+<title>Simple, secure, and affordable online backup, storage, and access</title>
+<link>http://www.elephantdrive.com/</link>
+<description>Almacenamiento online</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-05T07:18:32Z</dc:date>
+<dc:subject>backup online storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unlocksearch.com/">
+<title>Unlock Search</title>
+<link>http://www.unlocksearch.com/</link>
+<description>Un sitio en el que dicen que desbloquean tel&#xE9;fonos.
+Habr&#xE1; que verlo</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-04T17:47:14Z</dc:date>
+<dc:subject>mobile unlock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/unlock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ghacks.net/2008/03/28/assign-usb-drives-to-a-folder/">
+<title>Assign USB Drives to a Folder</title>
+<link>http://www.ghacks.net/2008/03/28/assign-usb-drives-to-a-folder/</link>
+<description>Asignar carpetas a usbs</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-04T17:13:24Z</dc:date>
+<dc:subject>software tips windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adaptj.com/main/">
+<title>Troubleshooting Tools for Java(tm) - AdaptJ Systems LLC</title>
+<link>http://www.adaptj.com/main/</link>
+<description>Herramienta para realizar thread dumps en java</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-04T13:59:34Z</dc:date>
+<dc:subject>java programming tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javapassion.com/j2ee/javaperformance.pdf">
+<title>javaperformance.pdf (application/pdf Objeto)</title>
+<link>http://www.javapassion.com/j2ee/javaperformance.pdf</link>
+<description>Para mejorar la performance de las aplicaciones J2EE</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-03T19:07:37Z</dc:date>
+<dc:subject>j2ee java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description>Generador de ruido blanco</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-03T08:16:40Z</dc:date>
+<dc:subject>audio flash music online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/jboss-as5-rc1">
+<title>InfoQ: Releasing JBoss AS 5: Q&#x26;A with Project Lead Dimitris Andreadis</title>
+<link>http://www.infoq.com/news/2008/06/jboss-as5-rc1</link>
+<description>Justificaci&#xF3;n de su incapacidad para liberar JBoss AS 5 a tiempo</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-02T11:46:14Z</dc:date>
+<dc:subject>java jboss programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.defraggler.com/">
+<title>Defraggler - Defragment your files!</title>
+<link>http://www.defraggler.com/</link>
+<description>Herramienta de defragmentaci&#xF3;n de los creadores de ccleaner</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-02T09:14:27Z</dc:date>
+<dc:subject>defrag software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/defrag" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cristobalpalma.com/">
+<title>Cristobal Palma Photography</title>
+<link>http://www.cristobalpalma.com/</link>
+<description>Fot&#xF3;grafo de arquitectura</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-07-01T08:06:49Z</dc:date>
+<dc:subject>arquitectura photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/arquitectura" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prefbar.mozdev.org/">
+<title>mozdev.org - prefbar:</title>
+<link>http://prefbar.mozdev.org/</link>
+<description>Plugin para firefox que permite acceder a la configuraci&#xF3;n del mismo</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-23T08:40:19Z</dc:date>
+<dc:subject>extensions firefox plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mundorecetas.com/recetas-de-cocina/recetas-postt229356.html">
+<title>Cheesecake o Tarta de Queso - Foro Thermomix - MundoRecetas.com</title>
+<link>http://www.mundorecetas.com/recetas-de-cocina/recetas-postt229356.html</link>
+<description>Receta de tarta de queso</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-22T17:56:46Z</dc:date>
+<dc:subject>cocina thermomix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thermomix" />
+    <rdf:li resource="http://del.icio.us/tag/cocina" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tasktop.com/">
+<title>Tasktop Technologies</title>
+<link>http://tasktop.com/</link>
+<description>Versi&#xF3;n de pago de mylin.</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-19T09:15:28Z</dc:date>
+<dc:subject>java productivity programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Huawei_E220">
+<title>Huawei E220 - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Huawei_E220</link>
+<description>Informaci&#xF3;n sobre el modem usb e220</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-18T09:05:42Z</dc:date>
+<dc:subject>e220 hardware mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/e220" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pandora-jewelry.com/">
+<title>Pandora Jewelry</title>
+<link>http://www.pandora-jewelry.com/</link>
+<description>Joyas que le molan a Vanessa</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-15T19:20:53Z</dc:date>
+<dc:subject>jewelry shop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shop" />
+    <rdf:li resource="http://del.icio.us/tag/jewelry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badongo.com/">
+<title>Gratis almacenamiento y distribuci&#xF3;n de archivos en l&#xED;nea - BADONGO</title>
+<link>http://www.badongo.com/</link>
+<description>Almacenamiento on-line gratuito. Y dicen que ilimitado</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-15T10:58:12Z</dc:date>
+<dc:subject>backup file filesharing online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latenighthacking.com/projects/2003/sendSignal/">
+<title>SendSignal</title>
+<link>http://www.latenighthacking.com/projects/2003/sendSignal/</link>
+<description>Para generar full thread dumps en windows</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-13T12:48:23Z</dc:date>
+<dc:subject>java programming software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/fbug/">
+<title>fbug - Google Code</title>
+<link>http://code.google.com/p/fbug/</link>
+<description>P&#xE1;gina principal del proyecto firebug en google code</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-13T08:28:42Z</dc:date>
+<dc:subject>extensions firefox javascript opensource plugin programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.office.xerox.com/software-solutions/global-printer-driver/enus.html">
+<title>Printer Driver Convenience with Free Xerox Global Print Driver</title>
+<link>http://www.office.xerox.com/software-solutions/global-printer-driver/enus.html</link>
+<description>Dirver para impresoras que promete valer para todas las del mundo mundial</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-11T18:37:32Z</dc:date>
+<dc:subject>printer software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/printer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/es-ES/firefox/addon/966">
+<title>Tamper Data :: Complementos para Firefox</title>
+<link>https://addons.mozilla.org/es-ES/firefox/addon/966</link>
+<description>Para ver las peticiones http en firefox</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-09T17:04:37Z</dc:date>
+<dc:subject>extensions firefox security software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sahw.com/wp/">
+<title>Sergio Hernando</title>
+<link>http://www.sahw.com/wp/</link>
+<description>Un blog sobre seguridad con algunas entradas interesantes</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-09T16:59:50Z</dc:date>
+<dc:subject>blog security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://opendns.com/">
+<title>OpenDNS | Providing A Safer And Faster Internet</title>
+<link>http://opendns.com/</link>
+<description>Servidor de DNS p&#xFA;blico que protege del phising</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-06T12:47:39Z</dc:date>
+<dc:subject>dns networking online security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nkprods.com/ncleaner/">
+<title>nCleaner</title>
+<link>http://www.nkprods.com/ncleaner/</link>
+<description>Herramienta para windows similar a ccleaner</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-04T15:14:45Z</dc:date>
+<dc:subject>software system tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/system" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blackviper.com/WinXP/servicecfg.htm">
+<title>Windows XP Home and Professional Service Pack 3 Service Configurations by Black Viper</title>
+<link>http://www.blackviper.com/WinXP/servicecfg.htm</link>
+<description>Como configurar los servicios de windows despu&#xE9;s de instalar el service pack 3</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-06-02T08:51:40Z</dc:date>
+<dc:subject>software tips windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.enerjy.com/">
+<title>Use Java Coding Standards and Java Code Review to fix bugs in Java code - Enerjy.com</title>
+<link>http://www.enerjy.com/</link>
+<description>Una lista de herramientas para programar en Java</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-05-31T16:00:56Z</dc:date>
+<dc:subject>java programming tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html">
+<title>Remember The Milk - Blog</title>
+<link>http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html</link>
+<description>Como implementar gtd con remember the milk</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-05-31T10:44:08Z</dc:date>
+<dc:subject>gtd online productivity tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dsfanboy.com/">
+<title>DS Fanboy</title>
+<link>http://www.dsfanboy.com/</link>
+<description>Un blog sobre la ds</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-05-31T10:38:52Z</dc:date>
+<dc:subject>blog ds games nintendo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nintendo" />
+    <rdf:li resource="http://del.icio.us/tag/ds" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jtds.sourceforge.net/">
+<title>jTDS JDBC Driver</title>
+<link>http://jtds.sourceforge.net/</link>
+<description>Driver JDBC para microsoft sql server</description>
+<dc:creator>japaz</dc:creator>
+<dc:date>2008-05-30T08:47:43Z</dc:date>
+<dc:subject>database freeware java jdbc programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/jdbc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

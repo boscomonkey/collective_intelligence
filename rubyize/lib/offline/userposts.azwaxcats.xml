@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/azwaxcats">
+<title>del.icio.us/azwaxcats</title>
+<link>http://del.icio.us/azwaxcats</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.edge.org/" />
+  <rdf:li rdf:resource="http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1214971200&#x26;en=49df7aef9ad8754e&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/naps/" />
+  <rdf:li rdf:resource="http://www.gamesforthebrain.com/" />
+  <rdf:li rdf:resource="http://ocw.mit.edu/OcwWeb/Biology/7-012Fall-2004/VideoLectures/index.htm" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Write-a-Cover-Letter" />
+  <rdf:li rdf:resource="http://www.actionbioscience.org/" />
+  <rdf:li rdf:resource="http://www.kurzweilai.net/index.html?flash=1" />
+  <rdf:li rdf:resource="http://www.biochem.arizona.edu/dept/careers.html" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/06/7-websites-you-must-check-before-you-go.html" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/the-ultimate-guide-to-motivation-how-to-achieve-any-goal/" />
+  <rdf:li rdf:resource="http://www.indeed.com/" />
+  <rdf:li rdf:resource="http://singularity.com/charts/" />
+  <rdf:li rdf:resource="http://www.rockportinstitute.com/resumes.html" />
+  <rdf:li rdf:resource="http://www.edd.ca.gov/Disability/PFL_Eligibility.htm" />
+  <rdf:li rdf:resource="http://sports.aol.com/fanhouse/2008/05/30/how-to-write-about-mixed-martial-arts-a-guide-for-the-mainstrea/" />
+  <rdf:li rdf:resource="http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free" />
+  <rdf:li rdf:resource="http://www.businessweek.com/magazine/content/08_23/b4087054986699.htm" />
+  <rdf:li rdf:resource="http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html" />
+  <rdf:li rdf:resource="http://slickfillers.net/" />
+  <rdf:li rdf:resource="https://eapply4ui.edd.ca.gov/htm/cpgInstructions.htm" />
+  <rdf:li rdf:resource="http://www.unc.edu/~rowlett/units/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/05/15/more-really-stunning-desktop-wallpapers/" />
+  <rdf:li rdf:resource="http://www.lhcountdown.com/" />
+  <rdf:li rdf:resource="http://sciencehack.com/videos/view/4PKjF7OumYo" />
+  <rdf:li rdf:resource="http://noodleson.com/review/" />
+  <rdf:li rdf:resource="http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle Chart</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-07-06T11:12:06Z</dc:date>
+<dc:subject>physics reference science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edge.org/">
+<title>Edge.org</title>
+<link>http://www.edge.org/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-07-05T00:11:56Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku">
+<title>Sudoku</title>
+<link>http://www.conceptispuzzles.com/index.aspx?uri=puzzle/sudoku</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-07-02T05:39:01Z</dc:date>
+<dc:subject>games sudoku</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/sudoku" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1214971200&#x26;en=49df7aef9ad8754e&#x26;ei=5087%0A">
+<title>the-11-best-foods-you-arent-eating</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1214971200&#x26;en=49df7aef9ad8754e&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-07-01T01:37:15Z</dc:date>
+<dc:subject>Health food</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/Health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/">
+<title>ways-to-watch-television-without-paying-for-cable-or-satellite</title>
+<link>http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-24T07:28:46Z</dc:date>
+<dc:subject>free tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/naps/">
+<title>The Perfect Siesta</title>
+<link>http://www.boston.com/bostonglobe/ideas/naps/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-19T05:54:34Z</dc:date>
+<dc:subject>health lifehacks nap sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/nap" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesforthebrain.com/">
+<title>Games for the Brain</title>
+<link>http://www.gamesforthebrain.com/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-15T22:37:40Z</dc:date>
+<dc:subject>brain games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ocw.mit.edu/OcwWeb/Biology/7-012Fall-2004/VideoLectures/index.htm">
+<title>BiologyVideo Lectures - MIT</title>
+<link>http://ocw.mit.edu/OcwWeb/Biology/7-012Fall-2004/VideoLectures/index.htm</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-11T22:13:10Z</dc:date>
+<dc:subject>biology lectures mit science video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Write-a-Cover-Letter">
+<title>How to Write a Cover Letter - wikiHow</title>
+<link>http://www.wikihow.com/Write-a-Cover-Letter</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-10T16:43:48Z</dc:date>
+<dc:subject>career cover employment jobs letter resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/letter" />
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/cover" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.actionbioscience.org/">
+<title>Actionbioscience.org - An education resource of the American Institute of Biological Sciences</title>
+<link>http://www.actionbioscience.org/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-09T21:20:15Z</dc:date>
+<dc:subject>biology bioscience education reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/bioscience" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kurzweilai.net/index.html?flash=1">
+<title>KurzweilAI.net</title>
+<link>http://www.kurzweilai.net/index.html?flash=1</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-09T17:19:09Z</dc:date>
+<dc:subject>ai future science singularity technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/singularity" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biochem.arizona.edu/dept/careers.html">
+<title>Biochemistry Career Department - University of Arizona</title>
+<link>http://www.biochem.arizona.edu/dept/careers.html</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-07T14:30:38Z</dc:date>
+<dc:subject>biochemistry career uofa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biochemistry" />
+    <rdf:li resource="http://del.icio.us/tag/uofa" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/06/7-websites-you-must-check-before-you-go.html">
+<title> 7 Websites You MUST Check Before You Go On A Vacation</title>
+<link>http://www.dumblittleman.com/2008/06/7-websites-you-must-check-before-you-go.html</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-07T02:27:43Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/the-ultimate-guide-to-motivation-how-to-achieve-any-goal/">
+<title>The Ultimate Guide to Motivation - How to Achieve Any Goal | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/the-ultimate-guide-to-motivation-how-to-achieve-any-goal/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-06T14:08:46Z</dc:date>
+<dc:subject>goals motivation productivity tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/goals" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indeed.com/">
+<title>Indeed | one search. all jobs.</title>
+<link>http://www.indeed.com/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-05T21:59:42Z</dc:date>
+<dc:subject>career employment job jobs jobsearch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/jobsearch" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://singularity.com/charts/">
+<title>Singularity - When Humans Transcend Biology - Graphs</title>
+<link>http://singularity.com/charts/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-03T23:48:24Z</dc:date>
+<dc:subject>charts intelligence paradigmshifts science singularity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/singularity" />
+    <rdf:li resource="http://del.icio.us/tag/intelligence" />
+    <rdf:li resource="http://del.icio.us/tag/paradigmshifts" />
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rockportinstitute.com/resumes.html">
+<title>RESUME WRITING | How to write a masterpiece of a resume</title>
+<link>http://www.rockportinstitute.com/resumes.html</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-02T22:43:20Z</dc:date>
+<dc:subject>career jobs resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edd.ca.gov/Disability/PFL_Eligibility.htm">
+<title>Paid Family Leave Eligibility - California</title>
+<link>http://www.edd.ca.gov/Disability/PFL_Eligibility.htm</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-02T20:26:15Z</dc:date>
+<dc:subject>california disability employment paidfamilyleave</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/disability" />
+    <rdf:li resource="http://del.icio.us/tag/paidfamilyleave" />
+    <rdf:li resource="http://del.icio.us/tag/california" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sports.aol.com/fanhouse/2008/05/30/how-to-write-about-mixed-martial-arts-a-guide-for-the-mainstrea/">
+<title>A Guide to MMA</title>
+<link>http://sports.aol.com/fanhouse/2008/05/30/how-to-write-about-mixed-martial-arts-a-guide-for-the-mainstrea/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-06-02T15:31:08Z</dc:date>
+<dc:subject>mma ufc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mma" />
+    <rdf:li resource="http://del.icio.us/tag/ufc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free">
+<title>IPod: Copy Music from Your iPhone or iPod to Your Computer for Free</title>
+<link>http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-31T00:59:53Z</dc:date>
+<dc:subject>Music ipod itunes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/itunes" />
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/magazine/content/08_23/b4087054986699.htm">
+<title>Background Checks: What You Need to Know</title>
+<link>http://www.businessweek.com/magazine/content/08_23/b4087054986699.htm</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-30T22:21:42Z</dc:date>
+<dc:subject>employment privacy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera">
+<title>Camera Hacks: Turn Your Point-and-Shoot into a Super-Camera</title>
+<link>http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-30T22:08:26Z</dc:date>
+<dc:subject>camera canon hacks photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/canon" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html">
+<title>You're not getting the job - 25 reasons why</title>
+<link>http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-29T17:13:31Z</dc:date>
+<dc:subject>career employment jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slickfillers.net/">
+<title>slickfillers.net</title>
+<link>http://slickfillers.net/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-20T18:22:37Z</dc:date>
+<dc:subject>amazon filler shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/filler" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://eapply4ui.edd.ca.gov/htm/cpgInstructions.htm">
+<title>Instructions for Unemployment Insurance</title>
+<link>https://eapply4ui.edd.ca.gov/htm/cpgInstructions.htm</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-19T16:07:42Z</dc:date>
+<dc:subject>california unemployment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unemployment" />
+    <rdf:li resource="http://del.icio.us/tag/california" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unc.edu/~rowlett/units/">
+<title>Units of measurement</title>
+<link>http://www.unc.edu/~rowlett/units/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-17T21:38:11Z</dc:date>
+<dc:subject>measurement reference units</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+    <rdf:li resource="http://del.icio.us/tag/units" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/05/15/more-really-stunning-desktop-wallpapers/">
+<title>really-stunning-desktop-wallpapers</title>
+<link>http://www.smashingmagazine.com/2008/05/15/more-really-stunning-desktop-wallpapers/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-16T00:02:27Z</dc:date>
+<dc:subject>desktop wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lhcountdown.com/">
+<title>Large Hadron Collider Countdown</title>
+<link>http://www.lhcountdown.com/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-15T00:26:59Z</dc:date>
+<dc:subject>LHC cern countdown physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/cern" />
+    <rdf:li resource="http://del.icio.us/tag/LHC" />
+    <rdf:li resource="http://del.icio.us/tag/countdown" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sciencehack.com/videos/view/4PKjF7OumYo">
+<title>AWESOME - Molecular Visualizations of DNA</title>
+<link>http://sciencehack.com/videos/view/4PKjF7OumYo</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-13T10:55:08Z</dc:date>
+<dc:subject>dna science video visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dna" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://noodleson.com/review/">
+<title>Ramen Rating Guide</title>
+<link>http://noodleson.com/review/</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-12T15:49:22Z</dc:date>
+<dc:subject>ramen ratings reviews</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ramen" />
+    <rdf:li resource="http://del.icio.us/tag/ratings" />
+    <rdf:li resource="http://del.icio.us/tag/reviews" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html">
+<title>Things Your Auto Mechanic Won't Tell You</title>
+<link>http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html</link>
+<description></description>
+<dc:creator>azwaxcats</dc:creator>
+<dc:date>2008-05-07T02:30:39Z</dc:date>
+<dc:subject>advice car tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

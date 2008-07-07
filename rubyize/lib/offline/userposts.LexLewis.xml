@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lexlewis">
+<title>del.icio.us/lexlewis</title>
+<link>http://del.icio.us/lexlewis</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.solucija.com/home/css-templates/" />
+  <rdf:li rdf:resource="http://www.tuxguitar.com.ar/" />
+  <rdf:li rdf:resource="http://www.vimeo.com/993998" />
+  <rdf:li rdf:resource="http://malevi4.wordpress.com/2008/07/01/creative-interactive-outdoor-advertising/" />
+  <rdf:li rdf:resource="http://www.boston.com/bigpicture/2008/07/man_on_the_moon_future_and_pas.html" />
+  <rdf:li rdf:resource="http://www.marcofolio.net/imagedump/top_40_demotivational_posters.html" />
+  <rdf:li rdf:resource="http://www.motifake.com/motivational_posters/c4e6c743e8.jpg" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/inspiration_series_posters/" />
+  <rdf:li rdf:resource="http://www.jessevandijk.net/index.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://wefunction.com/2008/07/function-free-icon-set/" />
+  <rdf:li rdf:resource="http://www.vecteezy.com/" />
+  <rdf:li rdf:resource="http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver" />
+  <rdf:li rdf:resource="http://tinypaste.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397415/set-up-cheap-ambient-lighting-with-rope-lights" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/01/should-links-open-in-new-windows/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/galleries/artistic-websites-two/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://www.netzgesta.de/shiftzoom/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/" />
+  <rdf:li rdf:resource="http://community.livejournal.com/euro_photos/194356.html" />
+  <rdf:li rdf:resource="http://disruptive-innovations.com/zoo/cssvariables/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>eXtplorer - A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-06T11:14:05Z</dc:date>
+<dc:subject>PHP code download file files opensource programming source upload web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/source" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description>waiting, loading, trotter</description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-06T09:35:15Z</dc:date>
+<dc:subject>design icons image images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solucija.com/home/css-templates/">
+<title>Free Templates - Solucija</title>
+<link>http://www.solucija.com/home/css-templates/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T15:23:14Z</dc:date>
+<dc:subject>css design development download free graphics html inspiration layout stock template templates web webdesign xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tuxguitar.com.ar/">
+<title>Guiter tab machine</title>
+<link>http://www.tuxguitar.com.ar/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T12:45:45Z</dc:date>
+<dc:subject>Software audio guitar music tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/993998">
+<title>Animated wall art</title>
+<link>http://www.vimeo.com/993998</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T12:30:00Z</dc:date>
+<dc:subject>art freaky fun funny humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freaky" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://malevi4.wordpress.com/2008/07/01/creative-interactive-outdoor-advertising/">
+<title>Creative interactive marketing</title>
+<link>http://malevi4.wordpress.com/2008/07/01/creative-interactive-outdoor-advertising/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T12:14:16Z</dc:date>
+<dc:subject>cool design humor inspiration photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bigpicture/2008/07/man_on_the_moon_future_and_pas.html">
+<title>Man on the moon</title>
+<link>http://www.boston.com/bigpicture/2008/07/man_on_the_moon_future_and_pas.html</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T08:59:05Z</dc:date>
+<dc:subject>history photo photography photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcofolio.net/imagedump/top_40_demotivational_posters.html">
+<title>Motivational posters</title>
+<link>http://www.marcofolio.net/imagedump/top_40_demotivational_posters.html</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T07:15:03Z</dc:date>
+<dc:subject>cool fun funny humor image images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.motifake.com/motivational_posters/c4e6c743e8.jpg">
+<title>Sluts</title>
+<link>http://www.motifake.com/motivational_posters/c4e6c743e8.jpg</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T07:10:55Z</dc:date>
+<dc:subject>fun funny humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/inspiration_series_posters/">
+<title>Inspiration series: Posters | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/inspiration_series_posters/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T06:44:14Z</dc:date>
+<dc:subject>art design images inspiration photoshop print retro</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+    <rdf:li resource="http://del.icio.us/tag/retro" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jessevandijk.net/index.html">
+<title>Jesse Vandijck portfolio</title>
+<link>http://www.jessevandijk.net/index.html</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T06:09:48Z</dc:date>
+<dc:subject>art cool graphics illustrator images inspiration portfolio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-04T05:00:23Z</dc:date>
+<dc:subject>XML development howto programming reference web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T12:37:40Z</dc:date>
+<dc:subject>design development free opensource prototyping tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wefunction.com/2008/07/function-free-icon-set/">
+<title>Function Web Design &#x26; Development [ Blog ] &#xBB; Blog Archive &#xBB; Free Icons: Function Icon Set, 128 Completely Free Icons</title>
+<link>http://wefunction.com/2008/07/function-free-icon-set/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T10:17:51Z</dc:date>
+<dc:subject>design download free graphics icons stock vector web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vecteezy.com/">
+<title>Free vector images</title>
+<link>http://www.vecteezy.com/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T09:03:34Z</dc:date>
+<dc:subject>cool design download free graphics illustrator image inspiration stock vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg">
+<title>Hammer balance</title>
+<link>http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T07:22:57Z</dc:date>
+<dc:subject>cool fun funny humor image photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial">
+<title>Trendy geometric design, lines</title>
+<link>http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T05:54:37Z</dc:date>
+<dc:subject>cool graphics howto illustrator inspiration photoshop retro tips vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/retro" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T05:41:05Z</dc:date>
+<dc:subject>design download free graphics icons illustrator images inspiration photoshop vector web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/">
+<title>15 CSS and HTML Tutorials You Can Use In Your Projects | Social CMS Buzz</title>
+<link>http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-03T05:09:11Z</dc:date>
+<dc:subject>css design development html layout mootools tips web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>CSS float tut</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T12:24:02Z</dc:date>
+<dc:subject>css design howto html layout tips web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver">
+<title>List of problems solved by MacGyver - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T07:05:23Z</dc:date>
+<dc:subject>cool diy fun funny howto humor inspiration wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tinypaste.com/">
+<title>Share your cut and pasts ... online tool to cut'n paste, work in group</title>
+<link>http://tinypaste.com/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T05:31:45Z</dc:date>
+<dc:subject>Software app cool tools url web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/app" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397415/set-up-cheap-ambient-lighting-with-rope-lights">
+<title>Sfeer licht, led, bureau, kamer</title>
+<link>http://lifehacker.com/397415/set-up-cheap-ambient-lighting-with-rope-lights</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T05:10:57Z</dc:date>
+<dc:subject>cool diy furniture home howto inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/01/should-links-open-in-new-windows/">
+<title>Should Links Open In New Windows? | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/01/should-links-open-in-new-windows/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T04:59:17Z</dc:date>
+<dc:subject>accessibility programming tips web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/galleries/artistic-websites-two/">
+<title>25 Incredibly Artistic Websites - Part II | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/galleries/artistic-websites-two/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-02T04:55:09Z</dc:date>
+<dc:subject>art cool css design graphics inspiration layout web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T14:50:04Z</dc:date>
+<dc:subject>design download free graphics illustrator photoshop stock vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netzgesta.de/shiftzoom/">
+<title>shiftzoom.js (zoom and pan functionality)</title>
+<link>http://www.netzgesta.de/shiftzoom/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T12:55:11Z</dc:date>
+<dc:subject>JS cool development framework graphics javascript programming scripts web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/JS" />
+    <rdf:li resource="http://del.icio.us/tag/scripts" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/">
+<title>5Regular expressions every webdeveloper should know</title>
+<link>http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T12:19:55Z</dc:date>
+<dc:subject>PHP development howto php5 programming reference regex regular tips validation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/php5" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/regular" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/validation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.livejournal.com/euro_photos/194356.html">
+<title>euro_photos: paris. ww II.</title>
+<link>http://community.livejournal.com/euro_photos/194356.html</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T12:17:12Z</dc:date>
+<dc:subject>history images inspiration photo photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://disruptive-innovations.com/zoo/cssvariables/">
+<title>CSS Variables</title>
+<link>http://disruptive-innovations.com/zoo/cssvariables/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T12:14:54Z</dc:date>
+<dc:subject>css design development html programming reference standards web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>LexLewis</dc:creator>
+<dc:date>2008-07-01T12:09:05Z</dc:date>
+<dc:subject>design free generator graphics image images inspiration web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

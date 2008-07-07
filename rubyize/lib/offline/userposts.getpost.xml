@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/getpost">
+<title>del.icio.us/getpost</title>
+<link>http://del.icio.us/getpost</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://scale-out-blog.blogspot.com/2008/06/postgresql-gets-religion-about.html" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php" />
+  <rdf:li rdf:resource="http://www.eriklundegaard.com/index.php?itemid=86" />
+  <rdf:li rdf:resource="http://arts.guardian.co.uk/features/story/0,,1442784,00.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.termespheres.com/" />
+  <rdf:li rdf:resource="http://konigi.com/tools/graph-paper" />
+  <rdf:li rdf:resource="http://rawstory.com/news/2008/Protesters_disrupt_Bushs_July_4th_address_0704.html" />
+  <rdf:li rdf:resource="http://glasstile.com/" />
+  <rdf:li rdf:resource="http://www.princeton.edu/~ina/infographics/smoking.html" />
+  <rdf:li rdf:resource="http://gusmueller.com/blog/archives/2008/07/adobe_reader_9_is_out!.html" />
+  <rdf:li rdf:resource="http://diveintomark.org/archives/2008/07/04/adobe-9" />
+  <rdf:li rdf:resource="http://blog.micropledge.com/2008/07/adobe-reader-9/" />
+  <rdf:li rdf:resource="http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl" />
+  <rdf:li rdf:resource="http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html#1" />
+  <rdf:li rdf:resource="http://clang.llvm.org/StaticAnalysis.html" />
+  <rdf:li rdf:resource="http://www.eatmedelicious.com/2007/09/balkan-roasted-vegetable-salad.html" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://artofhacking.com/files/sounds/live/aoh_sit-vc.htm" />
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/news/world/us_and_americas/article4270908.ece" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/04/washington/04gitmo.html" />
+  <rdf:li rdf:resource="http://www.constitutioncampaign.org/" />
+  <rdf:li rdf:resource="http://www.wherethehellismatt.com/" />
+  <rdf:li rdf:resource="http://www.minnpost.com/stories/2008/06/27/2396/dancing_with_the_universe" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/news/2246645/Pictures-of-the-day-4-July-2008.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/technology/7487060.stm" />
+  <rdf:li rdf:resource="http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html" />
+  <rdf:li rdf:resource="http://www.paraschopra.com/blog/personal/how-i-built-a-webapp-in-six-days-for-rs-350-8-usd-only.htm" />
+  <rdf:li rdf:resource="http://www.psychologytoday.com/articles/index.php?term=pto-19941101-000027&#x26;page=1" />
+  <rdf:li rdf:resource="http://reason.com/blog/show/127333.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>In his studies of entropy and the irreversibility of time, Caltech physicist Sean Carroll is exploring the idea that our universe is part of a larger structure.</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-06T13:15:16Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scale-out-blog.blogspot.com/2008/06/postgresql-gets-religion-about.html">
+<title>The Scale-Out Blog: PostgreSQL Gets Religion About Replication</title>
+<link>http://scale-out-blog.blogspot.com/2008/06/postgresql-gets-religion-about.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-06T13:13:52Z</dc:date>
+<dc:subject>dbms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dbms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php">
+<title>Where the Linear Crosses the Exponential</title>
+<link>http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-05T14:52:05Z</dc:date>
+<dc:subject>economy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eriklundegaard.com/index.php?itemid=86">
+<title>The best movie of 2008 - ErikLundegaard.com</title>
+<link>http://www.eriklundegaard.com/index.php?itemid=86</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T23:49:26Z</dc:date>
+<dc:subject>movie music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arts.guardian.co.uk/features/story/0,,1442784,00.html">
+<title>Tom Waits on his cherished albums of all time | | guardian.co.uk Arts</title>
+<link>http://arts.guardian.co.uk/features/story/0,,1442784,00.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T23:34:37Z</dc:date>
+<dc:subject>music review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T23:31:47Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.termespheres.com/">
+<title>Termespheres- Art that captures the up, down and all around visual world from one revolving point in space</title>
+<link>http://www.termespheres.com/</link>
+<description>Termespheres capture the up, down and all around visual world from one revolving point in space. Most of the time these spheres are painted on the outside so it takes a six point perspective system to keep all of this environment around you organized.</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T23:12:33Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://konigi.com/tools/graph-paper">
+<title>Graph Paper | Konigi</title>
+<link>http://konigi.com/tools/graph-paper</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T22:54:55Z</dc:date>
+<dc:subject>design reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rawstory.com/news/2008/Protesters_disrupt_Bushs_July_4th_address_0704.html">
+<title>The Raw Story | Protesters disrupt Bush's July 4th address at Monticello</title>
+<link>http://rawstory.com/news/2008/Protesters_disrupt_Bushs_July_4th_address_0704.html</link>
+<description>protesters who called out &#x26;quot;war criminal&#x26;quot; and &#x26;quot;impeach Bush.&#x26;quot;</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:30:29Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glasstile.com/">
+<title>Welcome to Oceanside Glasstile</title>
+<link>http://glasstile.com/</link>
+<description>tile made from recycled bottle glass</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:27:40Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.princeton.edu/~ina/infographics/smoking.html">
+<title>The Global Tobacco Trade</title>
+<link>http://www.princeton.edu/~ina/infographics/smoking.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:23:09Z</dc:date>
+<dc:subject>economy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gusmueller.com/blog/archives/2008/07/adobe_reader_9_is_out!.html">
+<title>Adobe Reader 9 is out!</title>
+<link>http://gusmueller.com/blog/archives/2008/07/adobe_reader_9_is_out!.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:22:02Z</dc:date>
+<dc:subject>badbiz pdf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/badbiz" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diveintomark.org/archives/2008/07/04/adobe-9">
+<title>Adobe 9 [dive into mark]</title>
+<link>http://diveintomark.org/archives/2008/07/04/adobe-9</link>
+<description>which claims it doesn&#x2019;t support my browser and then requires both Javascript and Flash to sign up for an Adobe&#xAE; ID, the use of which is governed by this draconian service agreement, which is a PDF.
+
+You can&#x2019;t make this stuff up. And apparently it g</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:19:35Z</dc:date>
+<dc:subject>badbiz pdf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/badbiz" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.micropledge.com/2008/07/adobe-reader-9/">
+<title>microBlog &#xBB; Thank you, Adobe Reader 9!</title>
+<link>http://blog.micropledge.com/2008/07/adobe-reader-9/</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:18:17Z</dc:date>
+<dc:subject>badbiz pdf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/badbiz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl">
+<title>Face value | Virtual competition | Economist.com</title>
+<link>http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl</link>
+<description>VMware. Her company, which sells software that makes data centres run more efficiently, has quietly become the world&#x2019;s fourth-most-valuable publicly traded software company, with a stockmarket value of nearly $20 billion.</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T21:09:04Z</dc:date>
+<dc:subject>business vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html#1">
+<title>Chapter 9: Tuples</title>
+<link>http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap09.html#1</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T20:54:37Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clang.llvm.org/StaticAnalysis.html">
+<title>LLVM/Clang Static Analyzer</title>
+<link>http://clang.llvm.org/StaticAnalysis.html</link>
+<description>U.S. SIT (Special Information Tones) signal: Vacant Circuit (out of service or nonexistent phone number)</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T20:51:32Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eatmedelicious.com/2007/09/balkan-roasted-vegetable-salad.html">
+<title>eat me, delicious: Balkan Roasted Vegetable Salad</title>
+<link>http://www.eatmedelicious.com/2007/09/balkan-roasted-vegetable-salad.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T20:51:19Z</dc:date>
+<dc:subject>recipe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T20:50:13Z</dc:date>
+<dc:subject>av</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/av" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://artofhacking.com/files/sounds/live/aoh_sit-vc.htm">
+<title>AOH :: AOH Sounds :: SIT-VC.WAV</title>
+<link>http://artofhacking.com/files/sounds/live/aoh_sit-vc.htm</link>
+<description>U.S. SIT (Special Information Tones) signal: Vacant Circuit (out of service or nonexistent phone number)</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T20:48:48Z</dc:date>
+<dc:subject>av humor privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/av" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/news/world/us_and_americas/article4270908.ece">
+<title>Brilliant or a sham? Questions asked over Ingrid Betancourt rescue - Times Online</title>
+<link>http://www.timesonline.co.uk/tol/news/world/us_and_americas/article4270908.ece</link>
+<description>some reports even claiming that the entire episode was nothing but a sham to disguise the payment of a ransom.</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T18:14:58Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/04/washington/04gitmo.html">
+<title>Two Subplots in Guant&#xE1;namo&#x2019;s Long Legal Story - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/04/washington/04gitmo.html</link>
+<description>&#x201C;Once again the executive branch is pressing forward to begin Mr. Hamdan&#x2019;s trial even though constitutional questions have yet to be resolved. This is exactly what happened before.&#x201D;</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T17:54:33Z</dc:date>
+<dc:subject>badgov rights</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/badgov" />
+    <rdf:li resource="http://del.icio.us/tag/rights" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.constitutioncampaign.org/">
+<title>People's Campaign for the Constitution :: Communities holding government accountable to our Constitution's full promise</title>
+<link>http://www.constitutioncampaign.org/</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T17:41:46Z</dc:date>
+<dc:subject>badgov rights</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/badgov" />
+    <rdf:li resource="http://del.icio.us/tag/rights" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wherethehellismatt.com/">
+<title>Where The Hell Is Matt?</title>
+<link>http://www.wherethehellismatt.com/</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T16:13:42Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.minnpost.com/stories/2008/06/27/2396/dancing_with_the_universe">
+<title>MinnPost - Dancing with the universe</title>
+<link>http://www.minnpost.com/stories/2008/06/27/2396/dancing_with_the_universe</link>
+<description>Palbasha Siddique</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T16:06:57Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/news/2246645/Pictures-of-the-day-4-July-2008.html">
+<title>Pictures of the day: 4 July 2008 - Telegraph</title>
+<link>http://www.telegraph.co.uk/news/2246645/Pictures-of-the-day-4-July-2008.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:39:20Z</dc:date>
+<dc:subject>animal art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animal" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/technology/7487060.stm">
+<title>BBC NEWS | Technology | It's not the Gates, it's the bars</title>
+<link>http://news.bbc.co.uk/2/hi/technology/7487060.stm</link>
+<description>What really matters is not Gates, nor Microsoft, but the unethical system of restrictions that Microsoft, like many other software companies, imposes on its customers.</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:29:47Z</dc:date>
+<dc:subject>badbiz microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/badbiz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html">
+<title>Google Testing Blog: Announcing: New Google C++ Testing Framework</title>
+<link>http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:23:10Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paraschopra.com/blog/personal/how-i-built-a-webapp-in-six-days-for-rs-350-8-usd-only.htm">
+<title>Paras Chopra&#x2019;s Blog &#xBB; How I built a web app in six days for Rs. 350 ($8.75) only</title>
+<link>http://www.paraschopra.com/blog/personal/how-i-built-a-webapp-in-six-days-for-rs-350-8-usd-only.htm</link>
+<description></description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:22:41Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.psychologytoday.com/articles/index.php?term=pto-19941101-000027&#x26;page=1">
+<title>Psychology Today: Risk</title>
+<link>http://www.psychologytoday.com/articles/index.php?term=pto-19941101-000027&#x26;page=1</link>
+<description>the inclination to take high risks may be hard-wired into the brain, intimately linked to arousal and pleasure mechanisms, and may offer such a thrill that it functions like an addiction. The tendency probably affects one in five people, mostly young male</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:17:16Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reason.com/blog/show/127333.html">
+<title>Reason Magazine - Hit &#x26; Run &#x3E; The New York City Mob</title>
+<link>http://reason.com/blog/show/127333.html</link>
+<description>&#x26;quot;Every two to three weeks, there's cops in here, searching the bar. If there's no violation, they'll make it up. I lost all my clients - everybody's scared to come in my place right now.&#x26;quot;</description>
+<dc:creator>getpost</dc:creator>
+<dc:date>2008-07-04T15:11:24Z</dc:date>
+<dc:subject>corruption</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/corruption" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

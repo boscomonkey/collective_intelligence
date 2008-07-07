@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cyan_magenta_yellow">
+<title>del.icio.us/cyan_magenta_yellow</title>
+<link>http://del.icio.us/cyan_magenta_yellow</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www.macdtv.com/GuideToDTV/index.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/ikomaru/20080627" />
+  <rdf:li rdf:resource="http://www.net.c.dendai.ac.jp/~takumi/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/sergejO/20080624/1214234591" />
+  <rdf:li rdf:resource="http://versionsapp.com/" />
+  <rdf:li rdf:resource="http://www.asahi-net.or.jp/~zm5s-nkmr/index.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/naoya/20080511/1210506301" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/umedamochio/20080509/p1" />
+  <rdf:li rdf:resource="http://dain.cocolog-nifty.com/myblog/2006/08/post_bb15.html" />
+  <rdf:li rdf:resource="http://www.hyuki.com/yukiwiki/wiki.cgi?TheC10kProblem" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/ktdisk/20080429/1209429818" />
+  <rdf:li rdf:resource="http://keisan.casio.jp/has10/Menu.cgi" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/mitchell_desu/20071029/p1" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/lalha/archives/50215344.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/hamatsu1974/20080411/1207850190" />
+  <rdf:li rdf:resource="http://local.joelonsoftware.com/mediawiki/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.otasuke.ne.jp/" />
+  <rdf:li rdf:resource="http://www5d.biglobe.ne.jp/~search/ac/" />
+  <rdf:li rdf:resource="http://labs.unoh.net/2008/04/gdb.html" />
+  <rdf:li rdf:resource="http://alfalfa.livedoor.biz/archives/51099464.html" />
+  <rdf:li rdf:resource="http://doruby.kbmj.com/akio0911_on_rails/20080325/Ruby_PaSoRi_Suica_" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/lopnor/20080319/1205866155" />
+  <rdf:li rdf:resource="http://www.designwalker.com/2008/03/mac-apps.html" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0608/09/news061.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/03/post_398.html" />
+  <rdf:li rdf:resource="http://wisdom.sakura.ne.jp/programming/lisp/index.html" />
+  <rdf:li rdf:resource="http://www.geocities.jp/m_hiroi/clisp/index.html" />
+  <rdf:li rdf:resource="http://homepage3.nifty.com/mutuno/" />
+  <rdf:li rdf:resource="http://user.ecc.u-tokyo.ac.jp/~tt076524/onlispjhtml/" />
+  <rdf:li rdf:resource="http://engineers-be-ambitious.blogspot.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-07-06T02:55:27Z</dc:date>
+<dc:subject>accounting business money study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macdtv.com/GuideToDTV/index.html">
+<title>Mac&#x3067;&#x59CB;&#x3081;&#x308B;DTV</title>
+<link>http://www.macdtv.com/GuideToDTV/index.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-06-27T11:18:55Z</dc:date>
+<dc:subject>mac movie tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/ikomaru/20080627">
+<title>&#x30C8;&#x30DB;&#x30DB;&#x306A;&#xFF11;&#xFF10;&#x306E;&#x4E8B;&#x696D;&#x6848; - ikomaru&#x306E;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/ikomaru/20080627</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-06-27T10:57:18Z</dc:date>
+<dc:subject>business &#x8D77;&#x696D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%B5%B7%E6%A5%AD" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.net.c.dendai.ac.jp/~takumi/">
+<title>&#x30AC;&#x30D9;&#x30FC;&#x30B8;&#x30B3;&#x30EC;&#x30AF;&#x30B7;&#x30E7;&#x30F3;&#x306E;&#x5B9F;&#x88C5;&#x6CD5;&#x3068;&#x8A55;&#x4FA1;</title>
+<link>http://www.net.c.dendai.ac.jp/~takumi/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-06-26T12:06:57Z</dc:date>
+<dc:subject>development lisp programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/sergejO/20080624/1214234591">
+<title>&#x82F1;&#x8A9E;&#x843D;&#x3061;&#x3053;&#x307C;&#x308C;&#x2192;&#x53D6;&#x308A;&#x3042;&#x3048;&#x305A;TOEIC935&#x70B9;&#x306E;sergejO&#x304C;&#x8D08;&#x308B; &#x5927;&#x4EBA;&#x304B;&#x3089;&#x59CB;&#x3081;&#x308B;&#x82F1;&#x8A9E;&#x8B1B;&#x5EA7; index&#xFF06;&#x307E;&#x3068;&#x3081; - &#x306F;&#x3066;&#x306A;&#x306B;&#x65BC;&#x3051;&#x308B;sergejo</title>
+<link>http://d.hatena.ne.jp/sergejO/20080624/1214234591</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-06-24T23:55:51Z</dc:date>
+<dc:subject>study tips toeic &#x307E;&#x3068;&#x3081; &#x82F1;&#x8A9E;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%8B%B1%E8%AA%9E" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%81%BE%E3%81%A8%E3%82%81" />
+    <rdf:li resource="http://del.icio.us/tag/toeic" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://versionsapp.com/">
+<title>Versions - Mac Subversion Client</title>
+<link>http://versionsapp.com/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-06-05T11:28:09Z</dc:date>
+<dc:subject>development mac macosx programming software subversion tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.asahi-net.or.jp/~zm5s-nkmr/index.html">
+<title>hitokaku index</title>
+<link>http://www.asahi-net.or.jp/~zm5s-nkmr/index.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-05-21T14:27:24Z</dc:date>
+<dc:subject>art design drawing tips tutorial &#x30A4;&#x30E9;&#x30B9;&#x30C8;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/naoya/20080511/1210506301">
+<title>MapReduce - naoya&#x306E;&#x306F;&#x3066;&#x306A;&#x30C0;&#x30A4;&#x30A2;&#x30EA;&#x30FC;</title>
+<link>http://d.hatena.ne.jp/naoya/20080511/1210506301</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-05-12T14:22:21Z</dc:date>
+<dc:subject>database development programming webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/umedamochio/20080509/p1">
+<title>&#x30B0;&#x30FC;&#x30B0;&#x30EB;&#x306B;&#x6DD8;&#x6C70;&#x3055;&#x308C;&#x306A;&#x3044;&#x77E5;&#x7684;&#x751F;&#x7523;&#x8853; - My Life Between Silicon Valley and Japan</title>
+<link>http://d.hatena.ne.jp/umedamochio/20080509/p1</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-05-11T08:25:56Z</dc:date>
+<dc:subject>blog book lifehack study tips &#x8AAD;&#x307F;&#x7269;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%AA%AD%E3%81%BF%E7%89%A9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dain.cocolog-nifty.com/myblog/2006/08/post_bb15.html">
+<title>&#x308F;&#x305F;&#x3057;&#x304C;&#x77E5;&#x3089;&#x306A;&#x3044;&#x30B9;&#x30B4;&#x672C;&#x306F;&#x3001;&#x304D;&#x3063;&#x3068;&#x3042;&#x306A;&#x305F;&#x304C;&#x8AAD;&#x3093;&#x3067;&#x3044;&#x308B;: &#x672C;&#x3070;&#x304B;&#x308A;&#x8AAD;&#x3093;&#x3067;&#x308B;&#x3068;&#x30D0;&#x30AB;&#x306B;&#x306A;&#x308B;</title>
+<link>http://dain.cocolog-nifty.com/myblog/2006/08/post_bb15.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-05-10T03:31:31Z</dc:date>
+<dc:subject>blog book lifehack study tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hyuki.com/yukiwiki/wiki.cgi?TheC10kProblem">
+<title>TheC10kProblem - &#x300C;C10K&#x554F;&#x984C;&#x300D;&#xFF08;&#x30AF;&#x30E9;&#x30A4;&#x30A2;&#x30F3;&#x30C8;1&#x4E07;&#x53F0;&#x554F;&#x984C;&#xFF09;&#x3068;&#x306F;&#x3001;&#x30CF;&#x30FC;&#x30C9;&#x30A6;&#x30A7;&#x30A2;&#x306E;&#x6027;&#x80FD;&#x4E0A;&#x306F;&#x554F;&#x984C;&#x304C;&#x306A;&#x304F;&#x3066;&#x3082;&#x3001;&#x3042;&#x307E;&#x308A;&#x306B;&#x3082;&#x30AF;&#x30E9;&#x30A4;&#x30A2;&#x30F3;&#x30C8;&#x306E;&#x6570;&#x304C;&#x591A;&#x304F;&#x306A;&#x308B;&#x3068;&#x30B5;&#x30FC;&#x30D0;&#x304C;&#x30D1;&#x30F3;&#x30AF;&#x3059;&#x308B;&#x554F;&#x984C;&#x306E;&#x3053;&#x3068;</title>
+<link>http://www.hyuki.com/yukiwiki/wiki.cgi?TheC10kProblem</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-05-08T11:02:14Z</dc:date>
+<dc:subject>c10k development linux network programming tutorial &#x307E;&#x3068;&#x3081; &#x8AAD;&#x307F;&#x7269;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%81%BE%E3%81%A8%E3%82%81" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%AA%AD%E3%81%BF%E7%89%A9" />
+    <rdf:li resource="http://del.icio.us/tag/c10k" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/ktdisk/20080429/1209429818">
+<title>&#x8EE2;&#x8077;&#x6642;&#x306B;&#x7D0D;&#x5F97;&#x306E;&#x3044;&#x304F;&#x6C7A;&#x65AD;&#x3092;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;4&#x3064;&#x306E;&#x6E96;&#x5099;&#x4E8B;&#x9805; - Casual Thoughts</title>
+<link>http://d.hatena.ne.jp/ktdisk/20080429/1209429818</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-30T02:35:37Z</dc:date>
+<dc:subject>career job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://keisan.casio.jp/has10/Menu.cgi">
+<title>&#x9AD8;&#x7CBE;&#x5EA6;&#x8A08;&#x7B97;&#x30B5;&#x30A4;&#x30C8; &#x306E;&#x8A08;&#x7B97;</title>
+<link>http://keisan.casio.jp/has10/Menu.cgi</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-24T14:08:54Z</dc:date>
+<dc:subject>library math programming tools webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/mitchell_desu/20071029/p1">
+<title>&#x65E5;&#x672C;&#x3092;&#x5024;&#x5207;&#x308A;&#x5012;&#x305B;&#xFF01;&#x30AB;&#x30EB;&#x25CB;&#x30FC;&#x30EB;&#x306E;&#x30D0;&#x30A4;&#x30E4;&#x30FC;&#x306E;&#x5FC5;&#x6BBA;&#x30DE;&#x30CB;&#x30E5;&#x30A2;&#x30EB; - -&#x4E2D;&#x5C0F;&#x4F01;&#x696D;&#x8A3A;&#x65AD;&#x58EB;-&#x30DF;&#x30C3;&#x30C1;&#x30A7;&#x30EB;2.0</title>
+<link>http://d.hatena.ne.jp/mitchell_desu/20071029/p1</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-16T13:03:17Z</dc:date>
+<dc:subject>business tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/lalha/archives/50215344.html">
+<title>&#x5C0F;&#x91CE;&#x548C;&#x4FCA;&#x306E;&#x30D6;&#x30ED;&#x30B0;:&#x7DCF;&#x52D9;&#x7701;&#x300C;&#x4E8B;&#x696D;&#x8A08;&#x753B;&#x4F5C;&#x6210;&#x3068;&#x30D9;&#x30F3;&#x30C1;&#x30E3;&#x30FC;&#x7D4C;&#x55B6;&#x306E;&#x624B;&#x5F15;&#x304D;&#x300D;&#x304C;&#x3059;&#x3054;&#x3044;&#x4EF6;</title>
+<link>http://blog.livedoor.jp/lalha/archives/50215344.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-14T15:16:53Z</dc:date>
+<dc:subject>business tips &#x8AAD;&#x307F;&#x7269; &#x8D77;&#x696D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%AA%AD%E3%81%BF%E7%89%A9" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%B5%B7%E6%A5%AD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/hamatsu1974/20080411/1207850190">
+<title>&#x672C;&#x5F53;&#x306F;&#x8208;&#x5473;&#x306E;&#x3042;&#x308B;&#x30A2;&#x30CA;&#x30BF;&#x3078;&#x6367;&#x3050;&#x3000;&#xFF0D; Google App Engine - &#x6697;&#x53F7;&#x3001;&#x6570;&#x5B66;&#x3001;&#x6642;&#x3005;&#x30D7;&#x30ED;&#x30B0;&#x30E9;&#x30DF;&#x30F3;&#x30B0;</title>
+<link>http://d.hatena.ne.jp/hamatsu1974/20080411/1207850190</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-12T15:34:47Z</dc:date>
+<dc:subject>development programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://local.joelonsoftware.com/mediawiki/index.php/Main_Page">
+<title>Main Page - The Joel on Software Translation Project</title>
+<link>http://local.joelonsoftware.com/mediawiki/index.php/Main_Page</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-12T02:08:38Z</dc:date>
+<dc:subject>blog development programming software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.otasuke.ne.jp/">
+<title>&#x7D4C;&#x7406;&#x521D;&#x5FC3;&#x8005;&#x304A;&#x305F;&#x3059;&#x3051;&#x5E33; - &#x7D4C;&#x7406;&#x30FB;&#x52B4;&#x52D9;&#x30FB;&#x7DCF;&#x52D9;&#x306E;&#x52A9;&#x3051;&#x5408;&#x3044;&#x30B5;&#x30A4;&#x30C8;</title>
+<link>http://www.otasuke.ne.jp/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-07T12:37:42Z</dc:date>
+<dc:subject>accounting tutorial &#x7C3F;&#x8A18;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%B0%BF%E8%A8%98" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www5d.biglobe.ne.jp/~search/ac/">
+<title>&#x7C3F;&#x8A18;&#x5165;&#x9580;&#x8B1B;&#x5EA7;&#x5275;&#x696D;&#x304B;&#x3089;&#x6C7A;&#x7B97;&#x307E;&#x3067;</title>
+<link>http://www5d.biglobe.ne.jp/~search/ac/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-06T14:14:33Z</dc:date>
+<dc:subject>accounting money &#x7C3F;&#x8A18;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%B0%BF%E8%A8%98" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.unoh.net/2008/04/gdb.html">
+<title>&#x30A6;&#x30CE;&#x30A6;&#x30E9;&#x30DC; Unoh Labs: gdb&#x306E;&#x4F7F;&#x3044;&#x65B9;</title>
+<link>http://labs.unoh.net/2008/04/gdb.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-04-05T02:14:48Z</dc:date>
+<dc:subject>debug gdb programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/gdb" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alfalfa.livedoor.biz/archives/51099464.html">
+<title>&#x82F1;&#x8A9E;&#x529B;&#x5411;&#x4E0A;&#x306B;&#x5F79;&#x7ACB;&#x3064;&#x30B5;&#x30A4;&#x30C8;:&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30EB;&#x30D5;&#x30A1;&#x30E2;&#x30B6;&#x30A4;&#x30AF;</title>
+<link>http://alfalfa.livedoor.biz/archives/51099464.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-31T16:23:02Z</dc:date>
+<dc:subject>education study &#x307E;&#x3068;&#x3081; &#x82F1;&#x8A9E;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%8B%B1%E8%AA%9E" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%81%BE%E3%81%A8%E3%82%81" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doruby.kbmj.com/akio0911_on_rails/20080325/Ruby_PaSoRi_Suica_">
+<title>Ruby&#x3092;&#x4F7F;&#x3063;&#x3066;PaSoRi&#x7D4C;&#x7531;&#x3067;Suica&#x306E;&#x4E57;&#x8ECA;&#x5C65;&#x6B74;&#x3092;&#x53D6;&#x5F97;&#x3057;&#x3001;GoogleMaps&#x3084;GoogleEarth&#x3067;&#x8868;&#x793A;&#x3059;&#x308B;</title>
+<link>http://doruby.kbmj.com/akio0911_on_rails/20080325/Ruby_PaSoRi_Suica_</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-25T23:26:27Z</dc:date>
+<dc:subject>programming ruby tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/lopnor/20080319/1205866155">
+<title>&#x4F1A;&#x793E;&#x3092;&#x4F5C;&#x3063;&#x3066;&#x534A;&#x5E74;&#x305F;&#x3063;&#x305F;&#x307E;&#x3068;&#x3081; - id:lopnor</title>
+<link>http://d.hatena.ne.jp/lopnor/20080319/1205866155</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-21T04:10:49Z</dc:date>
+<dc:subject>business &#x8D77;&#x696D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%B5%B7%E6%A5%AD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designwalker.com/2008/03/mac-apps.html">
+<title>&#x7121;&#x6599;&#x3067;&#x4F7F;&#x3048;&#x308B;Mac&#x306E;&#x30BD;&#x30D5;&#x30C8;&#x3044;&#x308D;&#x3044;&#x308D; - DesignWalker</title>
+<link>http://www.designwalker.com/2008/03/mac-apps.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-05T15:45:13Z</dc:date>
+<dc:subject>mac software tools &#x307E;&#x3068;&#x3081;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%81%BE%E3%81%A8%E3%82%81" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0608/09/news061.html">
+<title>ITmedia Biz.ID&#xFF1A;&#x201C;&#x5B9F;&#x8DF5;&#x201D;GTD&#x9031;&#x6B21;&#x30EC;&#x30D3;&#x30E5;&#x30FC;&#x30C1;&#x30A7;&#x30C3;&#x30AF;&#x30EA;&#x30B9;&#x30C8;</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0608/09/news061.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-04T21:46:10Z</dc:date>
+<dc:subject>lifehack tips tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/03/post_398.html">
+<title>&#x9031;&#x6B21;&#x30EC;&#x30D3;&#x30E5;&#x30FC;&#x3092;&#x30A2;&#x30C3;&#x30D7;&#x30B0;&#x30EC;&#x30FC;&#x30C9;&#x3057;&#x3088;&#x3046;&#xFF01; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/03/post_398.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-04T21:45:45Z</dc:date>
+<dc:subject>blog lifehack tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wisdom.sakura.ne.jp/programming/lisp/index.html">
+<title>Lisp&#x5165;&#x9580;</title>
+<link>http://wisdom.sakura.ne.jp/programming/lisp/index.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-04T11:57:12Z</dc:date>
+<dc:subject>lisp programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geocities.jp/m_hiroi/clisp/index.html">
+<title>M.Hiroi's Home Page / Common Lisp Programming</title>
+<link>http://www.geocities.jp/m_hiroi/clisp/index.html</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-03-04T11:56:40Z</dc:date>
+<dc:subject>lisp programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage3.nifty.com/mutuno/">
+<title>&#x82F1;&#x8A9E;&#x4E0A;&#x9054;&#x5B8C;&#x5168;&#x30DE;&#x30C3;&#x30D7;</title>
+<link>http://homepage3.nifty.com/mutuno/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-02-29T16:14:04Z</dc:date>
+<dc:subject>education study &#x82F1;&#x8A9E;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%8B%B1%E8%AA%9E" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://user.ecc.u-tokyo.ac.jp/~tt076524/onlispjhtml/">
+<title>On Lisp</title>
+<link>http://user.ecc.u-tokyo.ac.jp/~tt076524/onlispjhtml/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-02-18T11:56:02Z</dc:date>
+<dc:subject>book lisp programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://engineers-be-ambitious.blogspot.com/">
+<title>&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x3088;&#x3001;&#x5927;&#x5FD7;&#x3092;&#x62B1;&#x3051;</title>
+<link>http://engineers-be-ambitious.blogspot.com/</link>
+<description></description>
+<dc:creator>cyan_magenta_yellow</dc:creator>
+<dc:date>2008-02-16T09:19:55Z</dc:date>
+<dc:subject>mac macosx macports</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/macports" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

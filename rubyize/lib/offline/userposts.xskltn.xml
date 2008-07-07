@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/xskltn">
+<title>del.icio.us/xskltn</title>
+<link>http://del.icio.us/xskltn</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.ajaxgirl.com/" />
+  <rdf:li rdf:resource="http://www.ajaxlessons.com/2006/02/19/ajax-workshop-3-shopping-cart-using-scriptaculous/" />
+  <rdf:li rdf:resource="http://blogs.thesitedoctor.co.uk/tim/2007/02/13/ImportingReferencing+DLLs+In+Visual+Studio.aspx" />
+  <rdf:li rdf:resource="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html" />
+  <rdf:li rdf:resource="http://www.killernic.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/OpenCola" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=bkz6504BKng" />
+  <rdf:li rdf:resource="http://www.mailinator.com/" />
+  <rdf:li rdf:resource="http://4-ch.net/4ch" />
+  <rdf:li rdf:resource="http://www.gregcons.com/KateBlog/default.aspx" />
+  <rdf:li rdf:resource="http://animeworldorder.blogspot.com/" />
+  <rdf:li rdf:resource="http://wiieveryday.blogspot.com/" />
+  <rdf:li rdf:resource="http://duckfarm.net/" />
+  <rdf:li rdf:resource="http://scan.co.uk/Index.aspx?NT=1-0-18-333-0" />
+  <rdf:li rdf:resource="http://scan.co.uk/Product.aspx?WebProductId=352332" />
+  <rdf:li rdf:resource="http://www.scan.co.uk/Product.aspx?WebProductId=84948" />
+  <rdf:li rdf:resource="http://www.faqs.org/docs/Linux-HOWTO/C++Programming-HOWTO.html#s10" />
+  <rdf:li rdf:resource="http://www.rentacoder.com/RentACoder/default.asp" />
+  <rdf:li rdf:resource="http://www.hireacoder.net/" />
+  <rdf:li rdf:resource="http://www.amazon.co.uk/Asus-Hard-Drive-Screen-Linux-Black/dp/B0018BKRCQ/ref=sr_1_2?ie=UTF8&#x26;s=electronics&#x26;qid=1214707742&#x26;sr=8-2" />
+  <rdf:li rdf:resource="http://www.amazon.co.uk/ASUS-8-9-20GB-WHITE-BLACK/dp/B001BEEH4E/ref=sr_1_3?ie=UTF8&#x26;s=electronics&#x26;qid=1214707694&#x26;sr=8-3" />
+  <rdf:li rdf:resource="http://kotaku.com/" />
+  <rdf:li rdf:resource="http://www.amazon.co.uk/Logitech-904369-0914-Wireless-TrackMan-Optical/dp/B00006FMH1/ref=pd_sbs_ce_5" />
+  <rdf:li rdf:resource="http://www.jakevoytko.com/blog/2007/11/08/how-to-do-well-in-programming-competitions/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=oyF50tmA7N8" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Akira_(film)" />
+  <rdf:li rdf:resource="http://www.crunchyroll.com/group/CRSeries_-_Nabari_no_Ou" />
+  <rdf:li rdf:resource="http://www.crunchyroll.com/group/CRSeries_-_Macross_Frontier" />
+  <rdf:li rdf:resource="http://www.crunchyroll.com/group/CRSeries_-_Neo_Angelique_Abyss" />
+  <rdf:li rdf:resource="http://groups.google.co.uk/group/comp.lang.c++/topics" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-06T11:57:57Z</dc:date>
+<dc:subject>xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxgirl.com/">
+<title>Ajax Girl</title>
+<link>http://www.ajaxgirl.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-06T05:03:55Z</dc:date>
+<dc:subject>ajax blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxlessons.com/2006/02/19/ajax-workshop-3-shopping-cart-using-scriptaculous/">
+<title>Ajax Lessons &#xBB; Ajax Workshop 3: Shopping Cart using Script.aculo.us</title>
+<link>http://www.ajaxlessons.com/2006/02/19/ajax-workshop-3-shopping-cart-using-scriptaculous/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-06T05:01:44Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.thesitedoctor.co.uk/tim/2007/02/13/ImportingReferencing+DLLs+In+Visual+Studio.aspx">
+<title>Importing/Referencing DLLs in Visual Studio | Tim | Tim Gaunt</title>
+<link>http://blogs.thesitedoctor.co.uk/tim/2007/02/13/ImportingReferencing+DLLs+In+Visual+Studio.aspx</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-06T04:33:50Z</dc:date>
+<dc:subject>visualstudio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualstudio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html">
+<title>www.popgive.com: A Few Different Ways To Tie Your Sneakers</title>
+<link>http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-06T04:04:07Z</dc:date>
+<dc:subject>shoes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shoes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.killernic.com/">
+<title>Killer NIC I Gaming Network Card I Bigfoot Networks</title>
+<link>http://www.killernic.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-05T20:50:13Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/OpenCola">
+<title>OpenCola</title>
+<link>http://en.wikipedia.org/wiki/OpenCola</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-05T00:15:35Z</dc:date>
+<dc:subject>wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=bkz6504BKng">
+<title>NHK - Purupuru pururin rin</title>
+<link>http://www.youtube.com/watch?v=bkz6504BKng</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:16Z</dc:date>
+<dc:subject>purin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/purin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailinator.com/">
+<title>Mailinator</title>
+<link>http://www.mailinator.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>email</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://4-ch.net/4ch">
+<title>Channel4 BBS</title>
+<link>http://4-ch.net/4ch</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>bbs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gregcons.com/KateBlog/default.aspx">
+<title>Kate Gregory's Blog</title>
+<link>http://www.gregcons.com/KateBlog/default.aspx</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>blog cpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpp" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://animeworldorder.blogspot.com/">
+<title>Anime World Order Podcast</title>
+<link>http://animeworldorder.blogspot.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>anime</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiieveryday.blogspot.com/">
+<title>Wii @ Everyday</title>
+<link>http://wiieveryday.blogspot.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duckfarm.net/">
+<title>Duckfarm</title>
+<link>http://duckfarm.net/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-04T13:01:15Z</dc:date>
+<dc:subject>wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scan.co.uk/Index.aspx?NT=1-0-18-333-0">
+<title>Scan Computers UK: Computer Hardware - All - Hard Drives - Int.</title>
+<link>http://scan.co.uk/Index.aspx?NT=1-0-18-333-0</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-03T00:27:34Z</dc:date>
+<dc:subject>wish-list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wish-list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scan.co.uk/Product.aspx?WebProductId=352332">
+<title>Scan Computers UK: Icy Dock MB-453SPF Fits into 2 5.25&#x22; Bays Hosting 3 SATA/SATAII Hard Drive with Hot-swapable</title>
+<link>http://scan.co.uk/Product.aspx?WebProductId=352332</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-03T00:26:23Z</dc:date>
+<dc:subject>wish-list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wish-list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scan.co.uk/Product.aspx?WebProductId=84948">
+<title>Scan Computers UK: Icy Dock MB235SPF-B Black 3 Bay SATA Hot Swap Rack fits into 2x5.25&#x22; Bays inc Caddies</title>
+<link>http://www.scan.co.uk/Product.aspx?WebProductId=84948</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-03T00:26:01Z</dc:date>
+<dc:subject>wish-list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wish-list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.faqs.org/docs/Linux-HOWTO/C++Programming-HOWTO.html#s10">
+<title>C++ Programming HOW-TO</title>
+<link>http://www.faqs.org/docs/Linux-HOWTO/C++Programming-HOWTO.html#s10</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-07-02T11:57:25Z</dc:date>
+<dc:subject>cpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rentacoder.com/RentACoder/default.asp">
+<title>Rent A Coder</title>
+<link>http://www.rentacoder.com/RentACoder/default.asp</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-29T03:04:28Z</dc:date>
+<dc:subject>freelance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hireacoder.net/">
+<title>HireACoder.net</title>
+<link>http://www.hireacoder.net/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-29T02:57:29Z</dc:date>
+<dc:subject>jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.co.uk/Asus-Hard-Drive-Screen-Linux-Black/dp/B0018BKRCQ/ref=sr_1_2?ie=UTF8&#x26;s=electronics&#x26;qid=1214707742&#x26;sr=8-2">
+<title>Asus EEE PC 900 20GB SSD Hard-Drive, 8.9&#x22; Screen, Linux OS (Black)</title>
+<link>http://www.amazon.co.uk/Asus-Hard-Drive-Screen-Linux-Black/dp/B0018BKRCQ/ref=sr_1_2?ie=UTF8&#x26;s=electronics&#x26;qid=1214707742&#x26;sr=8-2</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-29T02:49:24Z</dc:date>
+<dc:subject>eeepc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.co.uk/ASUS-8-9-20GB-WHITE-BLACK/dp/B001BEEH4E/ref=sr_1_3?ie=UTF8&#x26;s=electronics&#x26;qid=1214707694&#x26;sr=8-3">
+<title>ASUS 8.9&#x22; EEE PC 900 1GB 20GB WHITE BLACK</title>
+<link>http://www.amazon.co.uk/ASUS-8-9-20GB-WHITE-BLACK/dp/B001BEEH4E/ref=sr_1_3?ie=UTF8&#x26;s=electronics&#x26;qid=1214707694&#x26;sr=8-3</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-29T02:48:47Z</dc:date>
+<dc:subject>eeepc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kotaku.com/">
+<title>Kotaku</title>
+<link>http://kotaku.com/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-29T00:24:23Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.co.uk/Logitech-904369-0914-Wireless-TrackMan-Optical/dp/B00006FMH1/ref=pd_sbs_ce_5">
+<title>Logitech Wireless TrackMan Optical</title>
+<link>http://www.amazon.co.uk/Logitech-904369-0914-Wireless-TrackMan-Optical/dp/B00006FMH1/ref=pd_sbs_ce_5</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T23:00:08Z</dc:date>
+<dc:subject>wish-list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wish-list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jakevoytko.com/blog/2007/11/08/how-to-do-well-in-programming-competitions/">
+<title>How To Do Well in Programming Competitions</title>
+<link>http://www.jakevoytko.com/blog/2007/11/08/how-to-do-well-in-programming-competitions/</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:59:36Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=oyF50tmA7N8">
+<title>D'espairsRay - Desert</title>
+<link>http://www.youtube.com/watch?v=oyF50tmA7N8</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:59:23Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Akira_(film)">
+<title>Akira - Wikipedia</title>
+<link>http://en.wikipedia.org/wiki/Akira_(film)</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:58:53Z</dc:date>
+<dc:subject>anime</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crunchyroll.com/group/CRSeries_-_Nabari_no_Ou">
+<title>Nabari no Ou</title>
+<link>http://www.crunchyroll.com/group/CRSeries_-_Nabari_no_Ou</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:58:34Z</dc:date>
+<dc:subject>crunchyroll</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crunchyroll" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crunchyroll.com/group/CRSeries_-_Macross_Frontier">
+<title>Macross Frontier</title>
+<link>http://www.crunchyroll.com/group/CRSeries_-_Macross_Frontier</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:58:23Z</dc:date>
+<dc:subject>crunchyroll</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crunchyroll" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crunchyroll.com/group/CRSeries_-_Neo_Angelique_Abyss">
+<title>Neo Angelique Abyss</title>
+<link>http://www.crunchyroll.com/group/CRSeries_-_Neo_Angelique_Abyss</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:58:09Z</dc:date>
+<dc:subject>crunchyroll</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crunchyroll" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.google.co.uk/group/comp.lang.c++/topics">
+<title>comp.lang.c++ | Google Groups</title>
+<link>http://groups.google.co.uk/group/comp.lang.c++/topics</link>
+<description></description>
+<dc:creator>xskltn</dc:creator>
+<dc:date>2008-06-28T22:57:44Z</dc:date>
+<dc:subject>cpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

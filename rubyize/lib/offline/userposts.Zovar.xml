@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/zovar">
+<title>del.icio.us/zovar</title>
+<link>http://del.icio.us/zovar</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://artsjobs.org.uk/" />
+  <rdf:li rdf:resource="http://www.wired.com/culture/art/multimedia/2008/06/pl_arts?slide=6&#x26;slideView=10" />
+  <rdf:li rdf:resource="http://blog.wired.com/gadgets/2008/06/gun-camera-adds.html" />
+  <rdf:li rdf:resource="http://www.londonexternal.ac.uk/prospective_students/listing/index.shtml" />
+  <rdf:li rdf:resource="http://www.lib.ru/INPROZ/BERGMAN_I/bergman.txt" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=MeSSwKffj9o" />
+  <rdf:li rdf:resource="http://www.techsupportalert.com/" />
+  <rdf:li rdf:resource="http://www.robertdoisneau.com/robert_doisneau_gallery.htm" />
+  <rdf:li rdf:resource="http://www.lividinstruments.com/software_union_features.php" />
+  <rdf:li rdf:resource="http://www.lividinstruments.com/instruments_respondr_examples.php" />
+  <rdf:li rdf:resource="http://www.wildinthecountry.co.uk/lineup.php" />
+  <rdf:li rdf:resource="http://www.filedropper.com/" />
+  <rdf:li rdf:resource="http://tal.forum2.org/hofstadter_interview" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=6iC3b5JnSIE" />
+  <rdf:li rdf:resource="http://www.adultswim.co.uk/video/index.jsp?bcpid=1184486285&#x26;bclid=1519719606&#x26;bctid=1" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=YE7VzlLtp-4" />
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/system/topicRoot/Sinking_of_the_Titanic/" />
+  <rdf:li rdf:resource="http://www.legalhighz.co.uk/prodcat.asp?CatID=24" />
+  <rdf:li rdf:resource="http://www.flashmo.com/home" />
+  <rdf:li rdf:resource="http://www.scannerdot.com/sca_001.html" />
+  <rdf:li rdf:resource="http://www.faderfox.de/html/dj2_product_page.html" />
+  <rdf:li rdf:resource="http://www.futureproducers.com/forums/forumdisplay.php?f=19" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=e-yldqNkGfo&#x26;feature=rec-fresh" />
+  <rdf:li rdf:resource="http://www.break.com/index/i-think-he-can-dance.html" />
+  <rdf:li rdf:resource="http://biggestdrawingintheworld.com/drawing.aspx" />
+  <rdf:li rdf:resource="https://secure.logmein.com/home.asp" />
+  <rdf:li rdf:resource="http://2cyr.com/decode/?lang=en" />
+  <rdf:li rdf:resource="http://www.translatorsbase.com/AboutUs.asp" />
+  <rdf:li rdf:resource="http://www.symfony-project.org/" />
+  <rdf:li rdf:resource="http://code.google.com/p/blueprintcss/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-07-06T12:41:06Z</dc:date>
+<dc:subject>free freeware software tips windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://artsjobs.org.uk/">
+<title>Arts Council Jobs</title>
+<link>http://artsjobs.org.uk/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-07-04T15:07:37Z</dc:date>
+<dc:subject>art job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/culture/art/multimedia/2008/06/pl_arts?slide=6&#x26;slideView=10">
+<title>Amazing Architect</title>
+<link>http://www.wired.com/culture/art/multimedia/2008/06/pl_arts?slide=6&#x26;slideView=10</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-30T15:22:58Z</dc:date>
+<dc:subject>architecture inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/gadgets/2008/06/gun-camera-adds.html">
+<title>Photo Graffiti</title>
+<link>http://blog.wired.com/gadgets/2008/06/gun-camera-adds.html</link>
+<description>nice way to spoil other's pictures</description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-30T14:56:26Z</dc:date>
+<dc:subject>gadgets photography video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.londonexternal.ac.uk/prospective_students/listing/index.shtml">
+<title>education in london</title>
+<link>http://www.londonexternal.ac.uk/prospective_students/listing/index.shtml</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-30T01:40:05Z</dc:date>
+<dc:subject>education london</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/london" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lib.ru/INPROZ/BERGMAN_I/bergman.txt">
+<title>&#x418;&#x43D;&#x433;&#x43C;&#x430;&#x440; &#x411;&#x435;&#x440;&#x433;&#x43C;&#x430;&#x43D;. &#x412;&#x43E;&#x441;&#x43A;&#x440;&#x435;&#x441;&#x43D;&#x44B;&#x439; &#x440;&#x435;&#x431;&#x435;&#x43D;&#x43E;&#x43A;</title>
+<link>http://www.lib.ru/INPROZ/BERGMAN_I/bergman.txt</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-24T23:44:42Z</dc:date>
+<dc:subject>books toRead</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toRead" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=MeSSwKffj9o">
+<title>YouTube - George Carlin - Religion is bullshit.</title>
+<link>http://www.youtube.com/watch?v=MeSSwKffj9o</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-24T20:22:12Z</dc:date>
+<dc:subject>funny video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techsupportalert.com/">
+<title>The Best-ever Freeware Utilities List | Gizmo's Tech Support Alert</title>
+<link>http://www.techsupportalert.com/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-20T20:16:46Z</dc:date>
+<dc:subject>free freeware opensource software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.robertdoisneau.com/robert_doisneau_gallery.htm">
+<title>french photographer robert doisneau photography Gallery sponsored by ace murder mystery</title>
+<link>http://www.robertdoisneau.com/robert_doisneau_gallery.htm</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-17T12:09:26Z</dc:date>
+<dc:subject>Art photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/Art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lividinstruments.com/software_union_features.php">
+<title>Video response software and hardware</title>
+<link>http://www.lividinstruments.com/software_union_features.php</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-14T12:46:33Z</dc:date>
+<dc:subject>newTech software video vj</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newTech" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/vj" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lividinstruments.com/instruments_respondr_examples.php">
+<title>New technologies. Respondr</title>
+<link>http://www.lividinstruments.com/instruments_respondr_examples.php</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-14T12:44:23Z</dc:date>
+<dc:subject>newTech respondr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/respondr" />
+    <rdf:li resource="http://del.icio.us/tag/newTech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wildinthecountry.co.uk/lineup.php">
+<title>Pretty good line-up</title>
+<link>http://www.wildinthecountry.co.uk/lineup.php</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-14T11:57:47Z</dc:date>
+<dc:subject>festival live music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/festival" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/live" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.filedropper.com/">
+<title>Upload Up To 5GB</title>
+<link>http://www.filedropper.com/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-13T13:49:39Z</dc:date>
+<dc:subject>filesharing storage tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tal.forum2.org/hofstadter_interview">
+<title>Good Fonts usage</title>
+<link>http://tal.forum2.org/hofstadter_interview</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-13T13:36:37Z</dc:date>
+<dc:subject>fonts inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=6iC3b5JnSIE">
+<title>YouTube - JCJC</title>
+<link>http://youtube.com/watch?v=6iC3b5JnSIE</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-09T16:42:33Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adultswim.co.uk/video/index.jsp?bcpid=1184486285&#x26;bclid=1519719606&#x26;bctid=1">
+<title>[adult swim] | Video | Watch Free Episodes, Video Clips and More</title>
+<link>http://www.adultswim.co.uk/video/index.jsp?bcpid=1184486285&#x26;bclid=1519719606&#x26;bctid=1</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-07T01:09:34Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=YE7VzlLtp-4">
+<title>YouTube - Big Buck Bunny</title>
+<link>http://youtube.com/watch?v=YE7VzlLtp-4</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-04T11:58:51Z</dc:date>
+<dc:subject>animation video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/system/topicRoot/Sinking_of_the_Titanic/">
+<title>Sinking of the Titanic</title>
+<link>http://www.timesonline.co.uk/tol/system/topicRoot/Sinking_of_the_Titanic/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-03T12:59:35Z</dc:date>
+<dc:subject>archive toRead</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/toRead" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.legalhighz.co.uk/prodcat.asp?CatID=24">
+<title>Party Pills Party Pills, Dance Pills, Ecstasy Alternatives, BZP Free Pills</title>
+<link>http://www.legalhighz.co.uk/prodcat.asp?CatID=24</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-06-01T23:39:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.flashmo.com/home">
+<title>Free Flash Templates</title>
+<link>http://www.flashmo.com/home</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-29T11:29:16Z</dc:date>
+<dc:subject>flash free gallery templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scannerdot.com/sca_001.html">
+<title>Scanner &#xA9;</title>
+<link>http://www.scannerdot.com/sca_001.html</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-29T10:41:29Z</dc:date>
+<dc:subject>art artist electronic music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/electronic" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/artist" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.faderfox.de/html/dj2_product_page.html">
+<title>DJ2 product page</title>
+<link>http://www.faderfox.de/html/dj2_product_page.html</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-26T15:43:26Z</dc:date>
+<dc:subject>dj hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dj" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.futureproducers.com/forums/forumdisplay.php?f=19">
+<title>Synthesizers &#x26; MIDI Controllers (Hardware) - Future Producers</title>
+<link>http://www.futureproducers.com/forums/forumdisplay.php?f=19</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-25T18:07:09Z</dc:date>
+<dc:subject>controller forum hardware midi music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/midi" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/controller" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=e-yldqNkGfo&#x26;feature=rec-fresh">
+<title>Fodd war</title>
+<link>http://www.youtube.com/watch?v=e-yldqNkGfo&#x26;feature=rec-fresh</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-25T01:34:03Z</dc:date>
+<dc:subject>funny video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.break.com/index/i-think-he-can-dance.html">
+<title>I think he Can Dance Video</title>
+<link>http://www.break.com/index/i-think-he-can-dance.html</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-25T01:02:38Z</dc:date>
+<dc:subject>dance video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://biggestdrawingintheworld.com/drawing.aspx">
+<title>BIGGEST DRAWING IN THE WORLD</title>
+<link>http://biggestdrawingintheworld.com/drawing.aspx</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-25T00:55:30Z</dc:date>
+<dc:subject>inspiration travel video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://secure.logmein.com/home.asp">
+<title>Remote Access and Desktop Control Software for Your Computer</title>
+<link>https://secure.logmein.com/home.asp</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-24T19:30:54Z</dc:date>
+<dc:subject>freeware mac software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://2cyr.com/decode/?lang=en">
+<title>Universal online Cyrillic decoder - recover your texts</title>
+<link>http://2cyr.com/decode/?lang=en</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-23T09:46:22Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.translatorsbase.com/AboutUs.asp">
+<title>Translators, Translation Services, Translation Jobs - Translatorsbase.com</title>
+<link>http://www.translatorsbase.com/AboutUs.asp</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-23T00:26:23Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.symfony-project.org/">
+<title>symfony Web PHP Framework</title>
+<link>http://www.symfony-project.org/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-22T16:16:22Z</dc:date>
+<dc:subject>Web2.0 ajax api opensource php programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/blueprintcss/">
+<title>blueprintcss - Google Code</title>
+<link>http://code.google.com/p/blueprintcss/</link>
+<description></description>
+<dc:creator>Zovar</dc:creator>
+<dc:date>2008-05-21T15:58:39Z</dc:date>
+<dc:subject>Web2.0 css framework grid templates tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

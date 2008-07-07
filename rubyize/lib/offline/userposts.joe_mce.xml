@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/joe_mce">
+<title>del.icio.us/joe_mce</title>
+<link>http://del.icio.us/joe_mce</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.thesneeze.com/mt-archives/cat_steve_dont_eat_it.php" />
+  <rdf:li rdf:resource="http://www.gieson.com/Library/projects/games/matter/" />
+  <rdf:li rdf:resource="http://www.mycomicspage.com/culdesac/" />
+  <rdf:li rdf:resource="http://www.vimeo.com/1211060" />
+  <rdf:li rdf:resource="http://www.nikon.com/about/feelnikon/universcale/index.htm" />
+  <rdf:li rdf:resource="http://trinixy.ru/michael_kenna.html" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/styleguide" />
+  <rdf:li rdf:resource="http://www.despair.com/indem.html#viewall" />
+  <rdf:li rdf:resource="http://www76.pair.com/keithlim/jabberwocky/" />
+  <rdf:li rdf:resource="http://www76.pair.com/keithlim/punchline/index.cgi" />
+  <rdf:li rdf:resource="http://www.sawse.com/2007/11/02/25-photographs-taken-at-the-exact-right-time/" />
+  <rdf:li rdf:resource="http://www.netdisaster.com/" />
+  <rdf:li rdf:resource="http://www.sensibleunits.com/" />
+  <rdf:li rdf:resource="http://svt.se/hogafflahage/hogafflaHage_site/Kor/hestekor.swf" />
+  <rdf:li rdf:resource="http://www.danpat.fi/janne/flash/kuplamuovi.swf" />
+  <rdf:li rdf:resource="http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html" />
+  <rdf:li rdf:resource="http://www.fugue.com/pics/goodnews.html" />
+  <rdf:li rdf:resource="http://www.jingproject.com/" />
+  <rdf:li rdf:resource="http://www.mymilliondollaryear.com/blog/wp-content/uploads/2007/11/flowchart1.jpg" />
+  <rdf:li rdf:resource="http://seorant.ath.cx/police/ladybird.html" />
+  <rdf:li rdf:resource="http://www.ferryhalim.com/orisinal/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/20_web_development_tools/" />
+  <rdf:li rdf:resource="http://www.1001freefonts.com/" />
+  <rdf:li rdf:resource="http://fontstruct.fontshop.com/" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/opinion/la-op-marcus4-2008may04,0,5015266.story" />
+  <rdf:li rdf:resource="http://fullrecall.com/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/useful_web_analytics_tools" />
+  <rdf:li rdf:resource="http://lifehacker.com/380702/five-best-dvd-ripping-tools" />
+  <rdf:li rdf:resource="http://postsecret.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.passiveaggressivenotes.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>Amazing 3D CG Landscapes</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description>Some unbelievably detailed and beautiful art here.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-07-06T12:50:29Z</dc:date>
+<dc:subject>3d art cgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/cgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesneeze.com/mt-archives/cat_steve_dont_eat_it.php">
+<title>Steve, Don't Eat It!</title>
+<link>http://www.thesneeze.com/mt-archives/cat_steve_dont_eat_it.php</link>
+<description>One man's encounters with various dubious &#x26;quot;foods&#x26;quot;. Bizarre and hilarious.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-07-03T12:53:41Z</dc:date>
+<dc:subject>food funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gieson.com/Library/projects/games/matter/">
+<title>Tangram game</title>
+<link>http://www.gieson.com/Library/projects/games/matter/</link>
+<description>Very cool tangram assembling game.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-07-03T11:28:08Z</dc:date>
+<dc:subject>games interactive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mycomicspage.com/culdesac/">
+<title>Cul de Sac - a comic strip</title>
+<link>http://www.mycomicspage.com/culdesac/</link>
+<description>The comic strip so good, Bill Watterson has praised it. Very funny, very well written and drawn.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-07-01T00:37:46Z</dc:date>
+<dc:subject>comics funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/1211060">
+<title>Where the Hell is Matt?</title>
+<link>http://www.vimeo.com/1211060</link>
+<description>A crazy, beautiful, amazing video: dozens of countries joined by one man's bad dancing.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-23T11:46:24Z</dc:date>
+<dc:subject>dancing travel world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dancing" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/world" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nikon.com/about/feelnikon/universcale/index.htm">
+<title>Universcale</title>
+<link>http://www.nikon.com/about/feelnikon/universcale/index.htm</link>
+<description>Get a feel for the scale of things.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-23T11:21:11Z</dc:date>
+<dc:subject>interactive interesting size</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/size" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trinixy.ru/michael_kenna.html">
+<title>Silent World</title>
+<link>http://trinixy.ru/michael_kenna.html</link>
+<description>Photographs by Michael Kenna</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-19T08:19:57Z</dc:date>
+<dc:subject>photography surreal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/surreal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/styleguide">
+<title>Guardian style guide</title>
+<link>http://www.guardian.co.uk/styleguide</link>
+<description>The Guardian (UK) newspaper's style guide</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-11T11:57:55Z</dc:date>
+<dc:subject>grammar language news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grammar" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.despair.com/indem.html#viewall">
+<title>Demotivators</title>
+<link>http://www.despair.com/indem.html#viewall</link>
+<description>Demotivational posters from Despair Inc.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-11T11:07:00Z</dc:date>
+<dc:subject>demotivators funny spoof</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/demotivators" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/spoof" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www76.pair.com/keithlim/jabberwocky/">
+<title>Jabberwocky Variations</title>
+<link>http://www76.pair.com/keithlim/jabberwocky/</link>
+<description>'Translations, parodies, and other variants of Lewis Carroll's _Jabberwocky_'</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-10T12:12:26Z</dc:date>
+<dc:subject>carroll poetry translation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poetry" />
+    <rdf:li resource="http://del.icio.us/tag/carroll" />
+    <rdf:li resource="http://del.icio.us/tag/translation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www76.pair.com/keithlim/punchline/index.cgi">
+<title>Punchline generator</title>
+<link>http://www76.pair.com/keithlim/punchline/index.cgi</link>
+<description>'To stamp out burning ducks.' Hitchhiker's Guide-esque, working out the question is the hard bit.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-10T12:11:46Z</dc:date>
+<dc:subject>humour jokes surreal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jokes" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/surreal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sawse.com/2007/11/02/25-photographs-taken-at-the-exact-right-time/">
+<title>25 Photographs Taken at the Exact Right Time</title>
+<link>http://www.sawse.com/2007/11/02/25-photographs-taken-at-the-exact-right-time/</link>
+<description>'Timing is everything, particularly in the case of amazing photography.'</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T09:25:53Z</dc:date>
+<dc:subject>lucky photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/lucky" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netdisaster.com/">
+<title>Netdisaster</title>
+<link>http://www.netdisaster.com/</link>
+<description>'Destroy the web!'</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T05:56:08Z</dc:date>
+<dc:subject>disasters fun internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/disasters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sensibleunits.com/">
+<title>'Sensible' units...</title>
+<link>http://www.sensibleunits.com/</link>
+<description>'Convert boring units to real objects as you type!' 30 km^2 = 68 Vatican Cities.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T05:42:43Z</dc:date>
+<dc:subject>funny measurement useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://svt.se/hogafflahage/hogafflaHage_site/Kor/hestekor.swf">
+<title>Horse quartet</title>
+<link>http://svt.se/hogafflahage/hogafflaHage_site/Kor/hestekor.swf</link>
+<description>Hypnotic equine barbershop.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T05:36:21Z</dc:date>
+<dc:subject>horses interactive music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/horses" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.danpat.fi/janne/flash/kuplamuovi.swf">
+<title>Bubble wrap.</title>
+<link>http://www.danpat.fi/janne/flash/kuplamuovi.swf</link>
+<description>Pop it.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T05:35:14Z</dc:date>
+<dc:subject>interactive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html">
+<title>Stunning aerial photos</title>
+<link>http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html</link>
+<description>Beautiful.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-09T03:06:44Z</dc:date>
+<dc:subject>aerial landscape photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/aerial" />
+    <rdf:li resource="http://del.icio.us/tag/landscape" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fugue.com/pics/goodnews.html">
+<title>Good news</title>
+<link>http://www.fugue.com/pics/goodnews.html</link>
+<description>In an ideal world...</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-08T11:29:50Z</dc:date>
+<dc:subject>google news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jingproject.com/">
+<title>Jing</title>
+<link>http://www.jingproject.com/</link>
+<description>Take screen-captures and *recordings*, for free.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-07T14:11:10Z</dc:date>
+<dc:subject>software tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mymilliondollaryear.com/blog/wp-content/uploads/2007/11/flowchart1.jpg">
+<title>Procrastination Flow Chart</title>
+<link>http://www.mymilliondollaryear.com/blog/wp-content/uploads/2007/11/flowchart1.jpg</link>
+<description>So true. So very true.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-06-04T12:26:54Z</dc:date>
+<dc:subject>flowchart procrastination</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/procrastination" />
+    <rdf:li resource="http://del.icio.us/tag/flowchart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seorant.ath.cx/police/ladybird.html">
+<title>The Ladybird Book of the Policeman</title>
+<link>http://seorant.ath.cx/police/ladybird.html</link>
+<description>'As well as chairs and prisoners, police officers are also trained to sit on horses. They are called mounted policemen.'</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-31T04:37:55Z</dc:date>
+<dc:subject>funny police spoof</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/spoof" />
+    <rdf:li resource="http://del.icio.us/tag/police" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ferryhalim.com/orisinal/">
+<title>Beautiful Flash games</title>
+<link>http://www.ferryhalim.com/orisinal/</link>
+<description>These Flash games by Ferry Halim are just beautiful, not least in their music.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T11:49:45Z</dc:date>
+<dc:subject>flash games music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/20_web_development_tools/">
+<title>20 Useful Tools to Make Web Development More Efficient</title>
+<link>http://sixrevisions.com/tools/20_web_development_tools/</link>
+<description>Another useful sixrevisions.com list.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T10:06:01Z</dc:date>
+<dc:subject>addons design software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/addons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.1001freefonts.com/">
+<title>1001 Free Fonts</title>
+<link>http://www.1001freefonts.com/</link>
+<description>Some really good free fonts here, and the clean, adless interface is a plus too.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T10:04:10Z</dc:date>
+<dc:subject>fonts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fontstruct.fontshop.com/">
+<title>FontStruct</title>
+<link>http://fontstruct.fontshop.com/</link>
+<description>Create your own font, for free.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T10:02:11Z</dc:date>
+<dc:subject>fonts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/opinion/la-op-marcus4-2008may04,0,5015266.story">
+<title>Does your brain have a mind of its own?</title>
+<link>http://www.latimes.com/news/opinion/la-op-marcus4-2008may04,0,5015266.story</link>
+<description>'Why can't we stick to our goals? Blame the sloppy engineering of evolution.' On kluges, evolution, memory and self-discipline.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T10:01:23Z</dc:date>
+<dc:subject>brain memory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fullrecall.com/">
+<title>FullRecall</title>
+<link>http://fullrecall.com/</link>
+<description>Software to help you remember things, using the principle of spaced repetitions. Like SuperMemo, but infinitely easier to use.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T09:57:04Z</dc:date>
+<dc:subject>memory study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/useful_web_analytics_tools">
+<title>7 Incredibly Useful Tools for Evaluating a Web Design</title>
+<link>http://sixrevisions.com/tools/useful_web_analytics_tools</link>
+<description>&#x26;quot;If you&#x2019;re interested in analyzing and optimizing your page layout - here&#x2019;s some extremely useful tools that you can use to help.&#x26;quot;</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T09:50:01Z</dc:date>
+<dc:subject>design software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/380702/five-best-dvd-ripping-tools">
+<title>Five Best DVD Ripping Tools</title>
+<link>http://lifehacker.com/380702/five-best-dvd-ripping-tools</link>
+<description>According to LifeHacker.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T09:48:42Z</dc:date>
+<dc:subject>dvds movies software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvds" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://postsecret.blogspot.com/">
+<title>PostSecret</title>
+<link>http://postsecret.blogspot.com/</link>
+<description>&#x26;quot;An ongoing community art project where people mail in their secrets anonymously on one side of a homemade postcard.&#x26;quot; Poignant and often moving.</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T09:48:02Z</dc:date>
+<dc:subject>secrets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/secrets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.passiveaggressivenotes.com/">
+<title>passive-aggressive (and just plain aggressive) notes</title>
+<link>http://www.passiveaggressivenotes.com/</link>
+<description>'A little bit &#x26;quot;funny ha ha&#x26;quot;&#x2026;a little bit, you know, &#x26;quot;funny&#x26;quot;.'</description>
+<dc:creator>joe_mce</dc:creator>
+<dc:date>2008-05-25T09:42:48Z</dc:date>
+<dc:subject>funny society</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

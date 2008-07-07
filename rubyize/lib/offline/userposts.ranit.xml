@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ranit">
+<title>del.icio.us/ranit</title>
+<link>http://del.icio.us/ranit</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.solartaxi.com/" />
+  <rdf:li rdf:resource="http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/" />
+  <rdf:li rdf:resource="http://herbsutter.wordpress.com/" />
+  <rdf:li rdf:resource="http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1" />
+  <rdf:li rdf:resource="http://diffle-history.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS" />
+  <rdf:li rdf:resource="http://www.livescience.com/technology/080702-pf-solar-tower.html" />
+  <rdf:li rdf:resource="http://hadoop.apache.org/core/" />
+  <rdf:li rdf:resource="http://usertools.force9.net/tutorials/id/21" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.reddit.com/info/6pvte/comments/" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html" />
+  <rdf:li rdf:resource="http://linuxgazette.net/152/srinivasan.html" />
+  <rdf:li rdf:resource="http://www.reddit.com/r/programming/info/6pvdp/comments/" />
+  <rdf:li rdf:resource="http://www.dcresource.com/reviews/canon/powershot_a720-review/" />
+  <rdf:li rdf:resource="http://bc.tech.coop/" />
+  <rdf:li rdf:resource="http://bc.tech.coop/blog/060224.html" />
+  <rdf:li rdf:resource="http://www.google.ca/search?hl=en&#x26;q=Viognier&#x26;btnG=Google+Search&#x26;meta=" />
+  <rdf:li rdf:resource="http://www.caddellwilliams.com/" />
+  <rdf:li rdf:resource="http://www.google.ca/search?hl=en&#x26;q=quebranta&#x26;btnG=Google+Search&#x26;meta=" />
+  <rdf:li rdf:resource="http://www.sigmaaldrich.com/Area_of_Interest/The_Americas/Canada.html" />
+  <rdf:li rdf:resource="http://home.iae.nl/users/mhx/crenshaw/tiny.html" />
+  <rdf:li rdf:resource="http://www.sigmaaldrich.com/catalog/search/ProductDetail/ALDRICH/W225207" />
+  <rdf:li rdf:resource="http://compilers.iecc.com/crenshaw/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.reddit.com/r/programming/info/6pjzm/comments/" />
+  <rdf:li rdf:resource="http://blog.wired.com/wiredscience/2008/06/proof-that-mari.html" />
+  <rdf:li rdf:resource="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html" />
+  <rdf:li rdf:resource="http://pdos.csail.mit.edu/~baford/vm/" />
+  <rdf:li rdf:resource="http://www.inventio.co.uk/forthvsc.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (26%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-06T10:14:44Z</dc:date>
+<dc:subject>physics quantum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solartaxi.com/">
+<title>Solartaxi</title>
+<link>http://www.solartaxi.com/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-06T03:29:48Z</dc:date>
+<dc:subject>car solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/">
+<title>Musings of an Anonymous Geek &#xBB; Blog Archive &#xBB; This is how I want all project web sites to look&#x2026;</title>
+<link>http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-05T21:05:57Z</dc:date>
+<dc:subject>design webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://herbsutter.wordpress.com/">
+<title>Sutter&#x2019;s Mill</title>
+<link>http://herbsutter.wordpress.com/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-05T20:36:58Z</dc:date>
+<dc:subject>blog herbsutter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/herbsutter" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1">
+<title>Computerworld - The A-Z of Programming Languages: C++</title>
+<link>http://www.computerworld.com.au/index.php/id;408408016;pp;1;fp;16;fpid;1</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-05T07:22:41Z</dc:date>
+<dc:subject>c++ stroustrup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/stroustrup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diffle-history.blogspot.com/">
+<title>Diary of a Failed Startup</title>
+<link>http://diffle-history.blogspot.com/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-05T04:38:20Z</dc:date>
+<dc:subject>business tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS">
+<title>Wine and health | Of sommeliers and stomachs | Economist.com</title>
+<link>http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-04T15:01:23Z</dc:date>
+<dc:subject>food health wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/technology/080702-pf-solar-tower.html">
+<title>How a Giant Solar Tower Could Power the Future | LiveScience</title>
+<link>http://www.livescience.com/technology/080702-pf-solar-tower.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-04T03:33:07Z</dc:date>
+<dc:subject>energy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hadoop.apache.org/core/">
+<title>Welcome to Hadoop!</title>
+<link>http://hadoop.apache.org/core/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-04T01:49:25Z</dc:date>
+<dc:subject>concurrency distributed free opensource scalability software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://usertools.force9.net/tutorials/id/21">
+<title>Tutorials - Servers &#x3E; Telnet as a Diagnostic Aid</title>
+<link>http://usertools.force9.net/tutorials/id/21</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-04T00:50:29Z</dc:date>
+<dc:subject>sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T23:12:41Z</dc:date>
+<dc:subject>book scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/info/6pvte/comments/">
+<title>reddit.com: Ask proggit: Which lisp?</title>
+<link>http://www.reddit.com/info/6pvte/comments/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T20:41:43Z</dc:date>
+<dc:subject>lisp reddit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html">
+<title>Intel: an expensive many-core future is ahead of us</title>
+<link>http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T20:17:08Z</dc:date>
+<dc:subject>concurrency intel multicore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/intel" />
+    <rdf:li resource="http://del.icio.us/tag/multicore" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/152/srinivasan.html">
+<title>A slightly advanced Introduction to Vim LG #152</title>
+<link>http://linuxgazette.net/152/srinivasan.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T20:01:35Z</dc:date>
+<dc:subject>reference vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/r/programming/info/6pvdp/comments/">
+<title>programming: Netsukuku: A p2p net system that generates and sustains itself autonomously and is designed to handle unlimited nodes with minimal CPU and memory resources.</title>
+<link>http://www.reddit.com/r/programming/info/6pvdp/comments/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T15:18:20Z</dc:date>
+<dc:subject>p2p reddit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dcresource.com/reviews/canon/powershot_a720-review/">
+<title>DCRP Review: Canon PowerShot A720 IS</title>
+<link>http://www.dcresource.com/reviews/canon/powershot_a720-review/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-02T02:39:33Z</dc:date>
+<dc:subject>camera review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bc.tech.coop/">
+<title>Bill Clementson</title>
+<link>http://bc.tech.coop/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T04:22:57Z</dc:date>
+<dc:subject>blog cs lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bc.tech.coop/blog/060224.html">
+<title>Bill Clementson's Blog: The Most Important Idea in Computer Science</title>
+<link>http://bc.tech.coop/blog/060224.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T04:04:12Z</dc:date>
+<dc:subject>cs lisp oop people smalltalk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/people" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/smalltalk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.ca/search?hl=en&#x26;q=Viognier&#x26;btnG=Google+Search&#x26;meta=">
+<title>Viognier - Google Search</title>
+<link>http://www.google.ca/search?hl=en&#x26;q=Viognier&#x26;btnG=Google+Search&#x26;meta=</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T03:39:46Z</dc:date>
+<dc:subject>alcohol searched wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/searched" />
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/alcohol" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.caddellwilliams.com/">
+<title>CaddellWilliams.com</title>
+<link>http://www.caddellwilliams.com/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T03:24:36Z</dc:date>
+<dc:subject>alcohol distillation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/distillation" />
+    <rdf:li resource="http://del.icio.us/tag/alcohol" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.ca/search?hl=en&#x26;q=quebranta&#x26;btnG=Google+Search&#x26;meta=">
+<title>quebranta - Google Search</title>
+<link>http://www.google.ca/search?hl=en&#x26;q=quebranta&#x26;btnG=Google+Search&#x26;meta=</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T03:08:18Z</dc:date>
+<dc:subject>alcohol drink searched wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/searched" />
+    <rdf:li resource="http://del.icio.us/tag/drink" />
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/alcohol" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sigmaaldrich.com/Area_of_Interest/The_Americas/Canada.html">
+<title>Sigma-Aldrich Canada</title>
+<link>http://www.sigmaaldrich.com/Area_of_Interest/The_Americas/Canada.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T01:38:01Z</dc:date>
+<dc:subject>chemistry shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.iae.nl/users/mhx/crenshaw/tiny.html">
+<title>Let's Build a Compiler: Tiny Kiss in iForth</title>
+<link>http://home.iae.nl/users/mhx/crenshaw/tiny.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T01:37:43Z</dc:date>
+<dc:subject>compiler forth paper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/forth" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sigmaaldrich.com/catalog/search/ProductDetail/ALDRICH/W225207">
+<title>W225207 b Caryophyllene &#x2265;80%, FCC, Kosher, FG</title>
+<link>http://www.sigmaaldrich.com/catalog/search/ProductDetail/ALDRICH/W225207</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-07-01T01:37:42Z</dc:date>
+<dc:subject>chemistry medicine shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/medicine" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://compilers.iecc.com/crenshaw/">
+<title>Let's Build a Compiler</title>
+<link>http://compilers.iecc.com/crenshaw/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T14:55:20Z</dc:date>
+<dc:subject>compiler paper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T14:53:40Z</dc:date>
+<dc:subject>blog compiler paper programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/r/programming/info/6pjzm/comments/">
+<title>programming: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://www.reddit.com/r/programming/info/6pjzm/comments/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T14:53:21Z</dc:date>
+<dc:subject>compiler programming reddit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/wiredscience/2008/06/proof-that-mari.html">
+<title>Some Proof that Marijuana is a Powerful Medicine | Wired Science from Wired.com</title>
+<link>http://blog.wired.com/wiredscience/2008/06/proof-that-mari.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T04:19:27Z</dc:date>
+<dc:subject>medicine nature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/medicine" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html">
+<title>Building a Software Company: How to sell your software for $20,000</title>
+<link>http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T04:10:54Z</dc:date>
+<dc:subject>business software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdos.csail.mit.edu/~baford/vm/">
+<title>VX32 Virtual Extension Environment</title>
+<link>http://pdos.csail.mit.edu/~baford/vm/</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T03:53:14Z</dc:date>
+<dc:subject>programming security virtualization x86</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/virtualization" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/x86" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inventio.co.uk/forthvsc.htm">
+<title>Forth Versus C</title>
+<link>http://www.inventio.co.uk/forthvsc.htm</link>
+<description></description>
+<dc:creator>ranit</dc:creator>
+<dc:date>2008-06-30T02:13:06Z</dc:date>
+<dc:subject>forth</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forth" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

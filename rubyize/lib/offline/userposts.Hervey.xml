@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hervey">
+<title>del.icio.us/hervey</title>
+<link>http://del.icio.us/hervey</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gentlemanjoe.com/how-to-tie.php?id=1" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.monkeysaudio.com/" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/5972" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.fastpictureviewer.com/" />
+  <rdf:li rdf:resource="http://www.chawt.com/" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/" />
+  <rdf:li rdf:resource="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx" />
+  <rdf:li rdf:resource="http://www.hooeey.com/" />
+  <rdf:li rdf:resource="https://www.dexrex.com/" />
+  <rdf:li rdf:resource="http://www.magnigraph.com/" />
+  <rdf:li rdf:resource="http://www.google.com/mapmaker" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Trace-an-Image-Using-Photoshop" />
+  <rdf:li rdf:resource="http://www.whenisgood.net/" />
+  <rdf:li rdf:resource="http://www.mp3gle.com/index.php" />
+  <rdf:li rdf:resource="http://www.wirewize.com/" />
+  <rdf:li rdf:resource="http://www.effectgenerator.com/" />
+  <rdf:li rdf:resource="http://scanner.virus.org/" />
+  <rdf:li rdf:resource="http://www.sxc.hu/blog/post/689" />
+  <rdf:li rdf:resource="http://www.twine.com/" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/languages/other/" />
+  <rdf:li rdf:resource="http://doperoms.com/" />
+  <rdf:li rdf:resource="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417" />
+  <rdf:li rdf:resource="http://www.learnmorsecode.com/" />
+  <rdf:li rdf:resource="http://failblog.org/" />
+  <rdf:li rdf:resource="http://getsatisfaction.com/" />
+  <rdf:li rdf:resource="http://www.ittoolbox.com/" />
+  <rdf:li rdf:resource="http://www.techguy.org/" />
+  <rdf:li rdf:resource="http://forums.techguy.org/" />
+  <rdf:li rdf:resource="http://www.easybib.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.gentlemanjoe.com/how-to-tie.php?id=1">
+<title>Gentleman Joe :: Fine Ties, Gifts and Accessories</title>
+<link>http://www.gentlemanjoe.com/how-to-tie.php?id=1</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-06T10:15:54Z</dc:date>
+<dc:subject>clothing fashion howto knot knots tie ties tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tie" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/clothing" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ties" />
+    <rdf:li resource="http://del.icio.us/tag/knot" />
+    <rdf:li resource="http://del.icio.us/tag/knots" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-06T09:30:55Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.monkeysaudio.com/">
+<title>Monkey's Audio - a fast and powerful lossless audio compressor</title>
+<link>http://www.monkeysaudio.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-06T00:24:24Z</dc:date>
+<dc:subject>audio codec compression free freeware lossless music software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/codec" />
+    <rdf:li resource="http://del.icio.us/tag/lossless" />
+    <rdf:li resource="http://del.icio.us/tag/compression" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/5972">
+<title>RAMBack :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/5972</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-05T08:33:16Z</dc:date>
+<dc:subject>extension extensions firefox memory performance plugin ram tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/ram" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-04T22:30:25Z</dc:date>
+<dc:subject>audio generator music noise sleep sound tools whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/noise" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastpictureviewer.com/">
+<title>FastPictureViewer | A Fast Picture Viewer for Windows Vista &#x26; XP, with Adobe XMP &#x26; Vista Rating</title>
+<link>http://www.fastpictureviewer.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-04T21:56:04Z</dc:date>
+<dc:subject>fast freeware image images photography software viewer windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/viewer" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/fast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chawt.com/">
+<title>Breathe Mobile WebSMS - Free SMS</title>
+<link>http://www.chawt.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-02T23:47:02Z</dc:date>
+<dc:subject>cell free messaging mobile online sms tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/cell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/">
+<title>The Secret to Ultra-Sharp Photos</title>
+<link>http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-02T23:15:27Z</dc:date>
+<dc:subject>dof howto hyperfocal learning photo photography sharp tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/sharp" />
+    <rdf:li resource="http://del.icio.us/tag/hyperfocal" />
+    <rdf:li resource="http://del.icio.us/tag/dof" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx">
+<title>Windows SteadyState</title>
+<link>http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-01T01:00:53Z</dc:date>
+<dc:subject>backup freeware hardening microsoft security software steadystate windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/steadystate" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/hardening" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hooeey.com/">
+<title>hooeey -- Record, retrieve and analyze your web hops</title>
+<link>http://www.hooeey.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-01T00:52:09Z</dc:date>
+<dc:subject>bookmarking browser history search tagging tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/bookmarking" />
+    <rdf:li resource="http://del.icio.us/tag/tagging" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.dexrex.com/">
+<title>Dexrex - Home</title>
+<link>https://www.dexrex.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-30T08:47:00Z</dc:date>
+<dc:subject>archive backup chat im mobile social storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magnigraph.com/">
+<title>magnigraph.com - scalable vector graphics</title>
+<link>http://www.magnigraph.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-30T02:03:07Z</dc:date>
+<dc:subject>art design generator graphics image images photos vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/mapmaker">
+<title>Google Map Maker</title>
+<link>http://www.google.com/mapmaker</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-29T12:03:34Z</dc:date>
+<dc:subject>geography google googlemaps map mapping maps online tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/mapping" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Trace-an-Image-Using-Photoshop">
+<title>How to Trace an Image Using Photoshop - wikiHow</title>
+<link>http://www.wikihow.com/Trace-an-Image-Using-Photoshop</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-29T04:42:43Z</dc:date>
+<dc:subject>art graphics howto images photography photoshop tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whenisgood.net/">
+<title>When is Good</title>
+<link>http://www.whenisgood.net/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-29T03:35:29Z</dc:date>
+<dc:subject>calendar collaboration meeting productivity scheduling social tool web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/meeting" />
+    <rdf:li resource="http://del.icio.us/tag/scheduling" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mp3gle.com/index.php">
+<title>Mp3gle.com - Mp3gle - The Mp3 Search Engine Portal</title>
+<link>http://www.mp3gle.com/index.php</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-29T00:36:44Z</dc:date>
+<dc:subject>downloads mp3 search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wirewize.com/">
+<title>Wirewize - Welcome!</title>
+<link>http://www.wirewize.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-29T00:17:42Z</dc:date>
+<dc:subject>audio education electronics home household howto network reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/household" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.effectgenerator.com/">
+<title>The Effect Generator</title>
+<link>http://www.effectgenerator.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-27T10:29:29Z</dc:date>
+<dc:subject>animation effect flash flex generator online tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/effect" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scanner.virus.org/">
+<title>Virus.Org :: Malware Scanning Service</title>
+<link>http://scanner.virus.org/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-27T10:27:46Z</dc:date>
+<dc:subject>antivirus free malware online scan security tools virus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/antivirus" />
+    <rdf:li resource="http://del.icio.us/tag/virus" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/scan" />
+    <rdf:li resource="http://del.icio.us/tag/malware" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sxc.hu/blog/post/689">
+<title>stock.xchng - ugaldew's blog - Geometrical Composition Guides</title>
+<link>http://www.sxc.hu/blog/post/689</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-27T10:10:43Z</dc:date>
+<dc:subject>composition design grid howto photo photography photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/composition" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.twine.com/">
+<title>Twine - Organize, Share, Discover Information Around Your Interests</title>
+<link>http://www.twine.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-26T06:48:49Z</dc:date>
+<dc:subject>collaboration community semantic semanticweb sharing social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/semantic" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/languages/other/">
+<title>BBC - Languages - Other</title>
+<link>http://www.bbc.co.uk/languages/other/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-26T06:48:36Z</dc:date>
+<dc:subject>bbc education free language languages learning reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/bbc" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doperoms.com/">
+<title>DopeROMs - Download N64 Roms, SNES Roms, GBA Roms, MAME Roms, Sega Genesis Roms, GameBoy Roms, NES Roms and emulators.</title>
+<link>http://doperoms.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T03:55:37Z</dc:date>
+<dc:subject>downloads emulation emulator free games rom roms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/roms" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/emulator" />
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/rom" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417">
+<title>&#x2022; View topic - Vista: Tweaked, Tuned, Hacked</title>
+<link>http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T03:53:26Z</dc:date>
+<dc:subject>hack hacks os technology tweak tweaks vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/tweak" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learnmorsecode.com/">
+<title>learn morse code</title>
+<link>http://www.learnmorsecode.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T03:31:17Z</dc:date>
+<dc:subject>code howto language morse morsecode radio reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/morsecode" />
+    <rdf:li resource="http://del.icio.us/tag/morse" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://failblog.org/">
+<title>FAIL Blog - Fail and Epic Fail Pictures and Videos: Failblog.ORG</title>
+<link>http://failblog.org/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T01:47:53Z</dc:date>
+<dc:subject>blog blogs fail fun funny humor photography pictures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/fail" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://getsatisfaction.com/">
+<title>Get Satisfaction - People-Powered Customer Service</title>
+<link>http://getsatisfaction.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T01:01:00Z</dc:date>
+<dc:subject>business collaboration community consumer customerservice service support web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/customerservice" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/consumer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ittoolbox.com/">
+<title>ITtoolbox - Professional IT Community</title>
+<link>http://www.ittoolbox.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-23T01:00:00Z</dc:date>
+<dc:subject>community it portal programming reference resources technology tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/portal" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techguy.org/">
+<title>HelpOnThe.Net: Tech Support Guy - Free help for Windows XP, Vista, 98, and more!</title>
+<link>http://www.techguy.org/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-22T13:39:31Z</dc:date>
+<dc:subject>computer forum help reference support tech technology windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.techguy.org/">
+<title>Tech Support Guy - Free help for Windows Vista, XP, and more!</title>
+<link>http://forums.techguy.org/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-22T13:39:19Z</dc:date>
+<dc:subject>forum forums help reference software support tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/forums" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.easybib.com/">
+<title>EasyBib: Free Automatic Bibliography Composer - MLA and APA formatting</title>
+<link>http://www.easybib.com/</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-06-21T14:02:11Z</dc:date>
+<dc:subject>bibliography citation mla reference research school tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bibliography" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/mla" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/citation" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

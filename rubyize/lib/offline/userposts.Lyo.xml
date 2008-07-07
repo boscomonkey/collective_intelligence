@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lyo">
+<title>del.icio.us/lyo</title>
+<link>http://del.icio.us/lyo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://dann.g.hatena.ne.jp/dann/20080629/p4" />
+  <rdf:li rdf:resource="http://blog.cohtan.org/2008/06/theschwartz.html" />
+  <rdf:li rdf:resource="http://labs.gmo.jp/blog/ku/2008/06/theschwartz.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/antipop/20080702/1214926316" />
+  <rdf:li rdf:resource="http://gihyo.jp/dev/feature/01/memcached/0001" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/dayflower/20080703/1215151469" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/perlcodesample/20080703/1215105240" />
+  <rdf:li rdf:resource="http://www.nicovideo.jp/mylist/7281253" />
+  <rdf:li rdf:resource="http://perl-users.jp/expert_perl/op.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/fuba/20080626/1214481800" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/tokuhirom/20080626/1214486755" />
+  <rdf:li rdf:resource="http://www.drk7.jp/MT/archives/001380.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/lieutar/20080624/1214284533" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/fuba/20080625/1214332962" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/hiratara/20080625/1214389654" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/enterprise/articles/0806/16/news010_4.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51073677.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/perlcodesample/20080616/1213635587" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51067030.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/perlcodesample/20080109/1199880506" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51067247.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/odz/20061119/1163971267#20061119fn1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/antipop/20080619/1213805019" />
+  <rdf:li rdf:resource="http://mt.endeworks.jp/d-6/2008/06/catalyst-par-hack.html" />
+  <rdf:li rdf:resource="http://gihyo.jp/dev/feature/01/test-perl/0003" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51068305.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51068411.html" />
+  <rdf:li rdf:resource="http://perl-mongers.org/2008/06/uri-and-more.html" />
+  <rdf:li rdf:resource="http://perl-mongers.org/2008/06/urluri.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/tokuhirom/20080621/1214028895" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://dann.g.hatena.ne.jp/dann/20080629/p4">
+<title>CPAN&#x30E2;&#x30B8;&#x30E5;&#x30FC;&#x30EB;&#x4F5C;&#x6210;&#x306E;&#x624B;&#x9806; - dann@webdev - dann&#x30B0;&#x30EB;&#x30FC;&#x30D7;</title>
+<link>http://dann.g.hatena.ne.jp/dann/20080629/p4</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:15:01Z</dc:date>
+<dc:subject>build cpan howto module perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+    <rdf:li resource="http://del.icio.us/tag/build" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cohtan.org/2008/06/theschwartz.html">
+<title>cohtan blog: TheSchwartz&#x3092;&#x4F7F;&#x3063;&#x3066;&#x91CD;&#x305F;&#x3044;&#x51E6;&#x7406;&#x3092;&#x975E;&#x540C;&#x671F;&#x306B;&#x884C;&#x3044;&#x3001;&#x624B;&#x5143;&#x306F;&#x30B5;&#x30AF;&#x30B5;&#x30AF;&#x306B;</title>
+<link>http://blog.cohtan.org/2008/06/theschwartz.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:14:11Z</dc:date>
+<dc:subject>algorithm perl theschwartz</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/theschwartz" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.gmo.jp/blog/ku/2008/06/theschwartz.html">
+<title>TheSchwartz&#x3067;&#x4ED5;&#x4E8B;&#x3092;&#x3042;&#x3068;&#x306B;&#x307E;&#x308F;&#x3059; - bits and bytes</title>
+<link>http://labs.gmo.jp/blog/ku/2008/06/theschwartz.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:13:29Z</dc:date>
+<dc:subject>job perl queue theschwartz</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/theschwartz" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/queue" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/antipop/20080702/1214926316">
+<title>Emacs&#x3067;Perl&#x958B;&#x767A;&#x3059;&#x308B;&#x4E0A;&#x3067;&#x5FC5;&#x9808;&#x306A;&#x8A2D;&#x5B9A; #3 - perldoc-m - antipop</title>
+<link>http://d.hatena.ne.jp/antipop/20080702/1214926316</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:12:46Z</dc:date>
+<dc:subject>emacs perl tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gihyo.jp/dev/feature/01/memcached/0001">
+<title>memcached&#x3092;&#x77E5;&#x308A;&#x5C3D;&#x304F;&#x3059;&#xFF1A;&#x7B2C;1&#x56DE;&#x3000;memcached&#x306E;&#x57FA;&#x672C;&#xFF5C;gihyo.jp &#x2026; &#x6280;&#x8853;&#x8A55;&#x8AD6;&#x793E;</title>
+<link>http://gihyo.jp/dev/feature/01/memcached/0001</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:12:06Z</dc:date>
+<dc:subject>article development memcached programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memcached" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html">
+<title>&#x6D17;&#x7DF4;&#x3055;&#x308C;&#x305F;Perl: Perl&#x306B;&#x3088;&#x308B;Excel&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306E;&#x8AAD;&#x307F;&#x53D6;&#x308A;&#xFF0F;&#x66F8;&#x304D;&#x8FBC;&#x307F;</title>
+<link>http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:11:48Z</dc:date>
+<dc:subject>excel perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/dayflower/20080703/1215151469">
+<title>Scalar::Util &#x306E; weaken() - daily dayflower</title>
+<link>http://d.hatena.ne.jp/dayflower/20080703/1215151469</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:11:40Z</dc:date>
+<dc:subject>perl xs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/xs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/perlcodesample/20080703/1215105240">
+<title>&#x30CF;&#x30C3;&#x30B7;&#x30E5;&#x306E;&#x30AD;&#x30FC;&#x3068;&#x5024;&#x306E;&#x5909;&#x66F4;&#x3092;&#x5236;&#x9650;&#x3059;&#x308B;&#x3002; Hash::Util - &#x30B5;&#x30F3;&#x30D7;&#x30EB;&#x30B3;&#x30FC;&#x30C9;&#x306B;&#x3088;&#x308B; Perl &#x5165;&#x9580;</title>
+<link>http://d.hatena.ne.jp/perlcodesample/20080703/1215105240</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:10:43Z</dc:date>
+<dc:subject>cpan module tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nicovideo.jp/mylist/7281253">
+<title>&#x30DE;&#x30A4;&#x30EA;&#x30B9;&#x30C8; Shibuya Perl Mongers&#x30C6;&#x30AF;&#x30CB;&#x30AB;&#x30EB;&#x30C8;&#x30FC;&#x30AF;#9&#x2010;&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;(&#x590F;)</title>
+<link>http://www.nicovideo.jp/mylist/7281253</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:06:32Z</dc:date>
+<dc:subject>event nicovideo_my_list perl shibuya.pm xs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/xs" />
+    <rdf:li resource="http://del.icio.us/tag/event" />
+    <rdf:li resource="http://del.icio.us/tag/shibuya.pm" />
+    <rdf:li resource="http://del.icio.us/tag/nicovideo_my_list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perl-users.jp/expert_perl/op.html">
+<title>&#x30A8;&#x30AD;&#x30B9;&#x30D1;&#x30FC;&#x30C8;Perl</title>
+<link>http://perl-users.jp/expert_perl/op.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T14:05:49Z</dc:date>
+<dc:subject>code list op perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/op" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/fuba/20080626/1214481800">
+<title>URL&#x3068;XPath&#x3092;&#x6E21;&#x3059;&#x3068;&#x5024;&#x3092;&#x8FD4;&#x3059;&#x30C4;&#x30FC;&#x30EB;&#x3092;&#x3082;&#x3063;&#x3068;&#x6975;&#x60AA;&#x3076;&#x3063;&#x3053;&#x629C;&#x304D;&#x304C;&#x3067;&#x304D;&#x308B;&#x30C4;&#x30FC;&#x30EB;&#x306B;&#x6539;&#x9020;&#x3057;&#x3066;&#x308B; - fuba&#x306F;&#x3066;&#x306A;</title>
+<link>http://d.hatena.ne.jp/fuba/20080626/1214481800</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:58:09Z</dc:date>
+<dc:subject>perl scraping tool xpath</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/scraping" />
+    <rdf:li resource="http://del.icio.us/tag/xpath" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/tokuhirom/20080626/1214486755">
+<title>XS Nite &#x3067;&#x767A;&#x8868;&#x3057;&#x3066;&#x304D;&#x307E;&#x3057;&#x305F;&#x3002; - TokuLog &#x6539;&#x3081;B&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/tokuhirom/20080626/1214486755</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:47:56Z</dc:date>
+<dc:subject>presentation shibuya.pm xs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shibuya.pm" />
+    <rdf:li resource="http://del.icio.us/tag/xs" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drk7.jp/MT/archives/001380.html">
+<title>Perl &#x306E;&#x5185;&#x90E8;&#x51E6;&#x7406;&#x7CFB;&#x3092;&#x304A;&#x52C9;&#x5F37; :: Drk7jp</title>
+<link>http://www.drk7.jp/MT/archives/001380.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:42:23Z</dc:date>
+<dc:subject>c language perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/c" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/lieutar/20080624/1214284533">
+<title>XS &#x306E;&#x81EA;&#x5206;&#x7528;&#x7D22;&#x5F15; - &#x5FA1;&#x7389;&#x6753;&#x5B50;&#x30B9;&#x30D1;&#x30A4;&#x30E9;&#x30EB;</title>
+<link>http://d.hatena.ne.jp/lieutar/20080624/1214284533</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:38:11Z</dc:date>
+<dc:subject>index perl xs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/index" />
+    <rdf:li resource="http://del.icio.us/tag/xs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/fuba/20080625/1214332962">
+<title>URL&#x3068;XPath&#x3092;&#x6E21;&#x3059;&#x3068;&#x5024;&#x306E;&#x30EA;&#x30B9;&#x30C8;&#x3092;&#x8FD4;&#x3057;&#x3066;&#x304F;&#x308C;&#x308B;&#x30C4;&#x30FC;&#x30EB;&#x3092;&#x66F8;&#x3044;&#x305F; - fuba&#x306F;&#x3066;&#x306A;</title>
+<link>http://d.hatena.ne.jp/fuba/20080625/1214332962</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:36:58Z</dc:date>
+<dc:subject>code perl scraping tool xpath</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/scraping" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/xpath" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/hiratara/20080625/1214389654">
+<title>XS Nite (Shibuya.pm Tech Talk #9) - a geek</title>
+<link>http://d.hatena.ne.jp/hiratara/20080625/1214389654</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:36:02Z</dc:date>
+<dc:subject>event perl report shibuya.pm xs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/event" />
+    <rdf:li resource="http://del.icio.us/tag/report" />
+    <rdf:li resource="http://del.icio.us/tag/xs" />
+    <rdf:li resource="http://del.icio.us/tag/shibuya.pm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/enterprise/articles/0806/16/news010_4.html">
+<title>New Generation Chronicle&#xFF1A;&#x958B;&#x62D3;&#x8005;&#x304B;&#x3089;&#x6539;&#x9769;&#x8005;&#x3078;&#x3000;&#x30CD;&#x30BF;&#x3067;&#x672A;&#x6765;&#x3092;&#x5207;&#x308A;&#x958B;&#x304F;&#x7537;&#x3000;&#x5927;&#x6CA2;&#x548C;&#x5B8F; (4/6) - ITmedia &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA;</title>
+<link>http://www.itmedia.co.jp/enterprise/articles/0806/16/news010_4.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:32:03Z</dc:date>
+<dc:subject>interview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51073677.html">
+<title>404 Blog Not Found:use Safe; # XS&#x77E5;&#x3089;&#x306A;&#x304F;&#x3066;&#x3082;&#x5927;&#x4E08;&#x592B;!</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51073677.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:22:13Z</dc:date>
+<dc:subject>cpan module perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/perlcodesample/20080616/1213635587">
+<title>&#x3088;&#x3044;&#x30B5;&#x30D6;&#x30EB;&#x30FC;&#x30C1;&#x30F3;&#x3092;&#x4F5C;&#x6210;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;&#x5FC3;&#x304C;&#x3051;&#x3002; - &#x30B5;&#x30F3;&#x30D7;&#x30EB;&#x30B3;&#x30FC;&#x30C9;&#x306B;&#x3088;&#x308B; Perl &#x5165;&#x9580;</title>
+<link>http://d.hatena.ne.jp/perlcodesample/20080616/1213635587</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:14:29Z</dc:date>
+<dc:subject>education programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51067030.html">
+<title>404 Blog Not Found:perl - Convert::BaseN released!</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51067030.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:12:18Z</dc:date>
+<dc:subject>cpan encode module perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/encode" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/perlcodesample/20080109/1199880506">
+<title>Perl&#x30C7;&#x30D0;&#x30C3;&#x30AC; &#x6700;&#x521D;&#x306B;&#x899A;&#x3048;&#x308B;&#x30B3;&#x30DE;&#x30F3;&#x30C9; - &#x30B5;&#x30F3;&#x30D7;&#x30EB;&#x30B3;&#x30FC;&#x30C9;&#x306B;&#x3088;&#x308B; Perl &#x5165;&#x9580;</title>
+<link>http://d.hatena.ne.jp/perlcodesample/20080109/1199880506</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:11:13Z</dc:date>
+<dc:subject>debug perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51067247.html">
+<title>404 Blog Not Found:&#x3075;&#x308B;&#x3055;&#x3068;&#x518D;&#x8A2A; - &#x66F8;&#x8A55; - &#x30DF;&#x30CB;&#x30DE;&#x30EB;Perl</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51067247.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:10:43Z</dc:date>
+<dc:subject>book perl review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/odz/20061119/1163971267#20061119fn1">
+<title>&#x300C;Perl, Python, Ruby &#x306E;&#x6BD4;&#x8F03;&#x300D;&#x304C;&#x3042;&#x307E;&#x308A;&#x306B;&#x3082;&#x3044;&#x3044;&#x52A0;&#x6E1B;&#x306A;&#x4EF6; - odz buffer</title>
+<link>http://d.hatena.ne.jp/odz/20061119/1163971267#20061119fn1</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:06:36Z</dc:date>
+<dc:subject>perl python ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/antipop/20080619/1213805019">
+<title>Emacs&#x3067;Perl&#x958B;&#x767A;&#x3059;&#x308B;&#x4E0A;&#x3067;&#x5FC5;&#x9808;&#x306A;&#x8A2D;&#x5B9A; #1 - antipop</title>
+<link>http://d.hatena.ne.jp/antipop/20080619/1213805019</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:01:32Z</dc:date>
+<dc:subject>ack editor emacs perl programming tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/ack" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mt.endeworks.jp/d-6/2008/06/catalyst-par-hack.html">
+<title>Catalyst&#x3092;PAR&#x30C7;&#x30D7;&#x30ED;&#x30A4;&#x3059;&#x308B;&#x969B;&#x306E;&#x30CF;&#x30C3;&#x30AF; - D-6 [&#x76F8;&#x5909;&#x308F;&#x3089;&#x305A;&#x6839;&#x7121;&#x3057;]</title>
+<link>http://mt.endeworks.jp/d-6/2008/06/catalyst-par-hack.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:01:16Z</dc:date>
+<dc:subject>catalyst deploy par perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/catalyst" />
+    <rdf:li resource="http://del.icio.us/tag/deploy" />
+    <rdf:li resource="http://del.icio.us/tag/par" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gihyo.jp/dev/feature/01/test-perl/0003">
+<title>Happy Testing Perl&#xFF1A;&#x7B2C;3&#x56DE;&#x3000;Test::Declare&#x306E;&#x7D39;&#x4ECB;&#xFF5C;gihyo.jp &#x2026; &#x6280;&#x8853;&#x8A55;&#x8AD6;&#x793E;</title>
+<link>http://gihyo.jp/dev/feature/01/test-perl/0003</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T13:00:25Z</dc:date>
+<dc:subject>perl test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51068305.html">
+<title>404 Blog Not Found:perl - use warnings; # -w &#x3067;&#x306A;&#x304F;&#x3066;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51068305.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T12:59:33Z</dc:date>
+<dc:subject>perl programming tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51068411.html">
+<title>404 Blog Not Found:$this-&#x3E;get if $you-&#x3E;learn(slow) - &#x66F8;&#x8A55; - &#x3059;&#x3050;&#x308F;&#x304B;&#x308B;&#x30AA;&#x30D6;&#x30B8;&#x30A7;&#x30AF;&#x30C8;&#x6307;&#x5411;Perl</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51068411.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T12:57:28Z</dc:date>
+<dc:subject>book perl review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perl-mongers.org/2008/06/uri-and-more.html">
+<title>URL&#x3092;&#x89E6;&#x308B;&#x6642;&#x306F;&#x3001;URI(&#x30E2;&#x30B8;&#x30E5;&#x30FC;&#x30EB;&#x540D;&#xFF09;&#x4EE5;&#x5916;&#x3082;&#x77E5;&#x3063;&#x3066;&#x304A;&#x304F;&#x3068;&#x5409; - perl-mongers.org</title>
+<link>http://perl-mongers.org/2008/06/uri-and-more.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T12:52:56Z</dc:date>
+<dc:subject>cpan module perl uri</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+    <rdf:li resource="http://del.icio.us/tag/uri" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perl-mongers.org/2008/06/urluri.html">
+<title>URL&#x3092;&#x89E6;&#x308B;&#x6642;&#x306F;&#x3001;URI&#xFF08;perl&#x30E2;&#x30B8;&#x30E5;&#x30FC;&#x30EB;&#x540D;)&#x304C;&#x8D85;&#x4FBF;&#x5229;&#x3060;&#x3068;&#x601D;&#x3046;&#x3002; - perl-mongers.org</title>
+<link>http://perl-mongers.org/2008/06/urluri.html</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T12:52:48Z</dc:date>
+<dc:subject>cpan module perl uri</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/uri" />
+    <rdf:li resource="http://del.icio.us/tag/module" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/tokuhirom/20080621/1214028895">
+<title>B&#x306E;&#x4E16;&#x754C;&#x3078;&#x306E;&#x5165;&#x53E3;&#x3068;&#x3057;&#x3066;&#x3059;&#x3070;&#x3089;&#x3057;&#x3044;&#x30B9;&#x30E9;&#x30A4;&#x30C9;&#x3092;&#x767A;&#x6398;&#x3057;&#x305F; - TokuLog &#x6539;&#x3081;B&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/tokuhirom/20080621/1214028895</link>
+<description></description>
+<dc:creator>Lyo</dc:creator>
+<dc:date>2008-07-06T12:49:46Z</dc:date>
+<dc:subject>perl presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

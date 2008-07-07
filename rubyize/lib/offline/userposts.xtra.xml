@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/xtra">
+<title>del.icio.us/xtra</title>
+<link>http://del.icio.us/xtra</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://www.ftd.nu/?section=nieuws" />
+  <rdf:li rdf:resource="http://lifehacker.com/396603/tweak-the-awesomebars-suggestion-algorithm" />
+  <rdf:li rdf:resource="http://www.allcdcovers.com/" />
+  <rdf:li rdf:resource="http://sourceforge.net/project/showfiles.php?group_id=187008&#x26;package_id=238728" />
+  <rdf:li rdf:resource="http://albumart.org/" />
+  <rdf:li rdf:resource="http://www.geekstuff4u.com/product_info.php?manufacturers_id=&#x26;products_id=847" />
+  <rdf:li rdf:resource="http://usb.brando.com.hk/prod_detail.php?prod_id=00549" />
+  <rdf:li rdf:resource="http://www.microsoft.com/downloads/details.aspx?FamilyId=009D8425-CE2B-47A4-ABEC-274845DC9E91&#x26;displaylang=en" />
+  <rdf:li rdf:resource="http://www.brendangregg.com/dtrace.html" />
+  <rdf:li rdf:resource="http://sysunconfig.net/unixtips/solaris.html" />
+  <rdf:li rdf:resource="http://www.digilife.be/quickreferences/indexe.html" />
+  <rdf:li rdf:resource="http://blogs.sun.com/sch/" />
+  <rdf:li rdf:resource="http://www.iptools.com/" />
+  <rdf:li rdf:resource="http://www.networkedmediatank.com/" />
+  <rdf:li rdf:resource="http://www.jvbdigital.nl/jvb.asp?cur=1&#x26;level=sdi&#x26;page=title&#x26;title=582" />
+  <rdf:li rdf:resource="http://bustedwonder.com/" />
+  <rdf:li rdf:resource="http://www-jpc.physics.ox.ac.uk/Technology.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/jiffy-web/" />
+  <rdf:li rdf:resource="http://billwscott.com/jiffyext/" />
+  <rdf:li rdf:resource="http://gruimed.livejournal.com/4003.html" />
+  <rdf:li rdf:resource="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417" />
+  <rdf:li rdf:resource="http://masterofsopranos.wordpress.com/the-sopranos-definitive-explanation-of-the-end/" />
+  <rdf:li rdf:resource="http://www.bblv.be/agora/view.php?bn=bbl_lag&#x26;key=1211535170" />
+  <rdf:li rdf:resource="http://lifehacker.com/395285/manually-enable-gmail-labs-in-your-account" />
+  <rdf:li rdf:resource="http://www.newzleech.com/" />
+  <rdf:li rdf:resource="http://www.nzbindex.nl/" />
+  <rdf:li rdf:resource="http://www.binsearch.net/" />
+  <rdf:li rdf:resource="http://www.nirsoft.net/utils/astlog.html" />
+  <rdf:li rdf:resource="http://www.nirsoft.net/utils/pst_password.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx">
+<title>Windows SteadyState</title>
+<link>http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-07-06T11:02:27Z</dc:date>
+<dc:subject>backup freeware microsoft security software steadystate windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/steadystate" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-07-06T10:59:25Z</dc:date>
+<dc:subject>computer lifehacker microsoft security software tutorial vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ftd.nu/?section=nieuws">
+<title>FTDv3 -- Fill Threads Database</title>
+<link>http://www.ftd.nu/?section=nieuws</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-07-01T08:44:08Z</dc:date>
+<dc:subject>usenet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usenet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396603/tweak-the-awesomebars-suggestion-algorithm">
+<title>Firefox 3: Tweak the &#x22;AwesomeBar&#x22;'s Suggestion Algorithm</title>
+<link>http://lifehacker.com/396603/tweak-the-awesomebars-suggestion-algorithm</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-30T10:24:54Z</dc:date>
+<dc:subject>awesomebar firefox firefox3 lifehacker tips tweak tweaks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tweak" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/awesomebar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allcdcovers.com/">
+<title>AllCDCovers | More Than Just CD and DVD Covers Album Art</title>
+<link>http://www.allcdcovers.com/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-30T07:40:40Z</dc:date>
+<dc:subject>art cd cdcovers cover covers dvd music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/cd" />
+    <rdf:li resource="http://del.icio.us/tag/cdcovers" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/cover" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/covers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/project/showfiles.php?group_id=187008&#x26;package_id=238728">
+<title>SourceForge.net: Files</title>
+<link>http://sourceforge.net/project/showfiles.php?group_id=187008&#x26;package_id=238728</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-30T07:37:13Z</dc:date>
+<dc:subject>Art Mp3 covers download freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mp3" />
+    <rdf:li resource="http://del.icio.us/tag/Art" />
+    <rdf:li resource="http://del.icio.us/tag/covers" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://albumart.org/">
+<title>Albumart - CD and DVD cover searchengine</title>
+<link>http://albumart.org/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-30T07:36:55Z</dc:date>
+<dc:subject>album art cd cover covers music search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/album" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/cover" />
+    <rdf:li resource="http://del.icio.us/tag/cd" />
+    <rdf:li resource="http://del.icio.us/tag/covers" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geekstuff4u.com/product_info.php?manufacturers_id=&#x26;products_id=847">
+<title>GeekStuff4U.com - Double HDD Rack eSATA and USB</title>
+<link>http://www.geekstuff4u.com/product_info.php?manufacturers_id=&#x26;products_id=847</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T12:52:27Z</dc:date>
+<dc:subject>Hardware USB dock drive hard storage tech wishlist</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hardware" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/dock" />
+    <rdf:li resource="http://del.icio.us/tag/USB" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/drive" />
+    <rdf:li resource="http://del.icio.us/tag/wishlist" />
+    <rdf:li resource="http://del.icio.us/tag/hard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://usb.brando.com.hk/prod_detail.php?prod_id=00549">
+<title>Welcome to Usb.brando.com.hk</title>
+<link>http://usb.brando.com.hk/prod_detail.php?prod_id=00549</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T12:51:21Z</dc:date>
+<dc:subject>dock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/downloads/details.aspx?FamilyId=009D8425-CE2B-47A4-ABEC-274845DC9E91&#x26;displaylang=en">
+<title>Download details: Windows XP Support Patch for Wi-Fi Protected Access</title>
+<link>http://www.microsoft.com/downloads/details.aspx?FamilyId=009D8425-CE2B-47A4-ABEC-274845DC9E91&#x26;displaylang=en</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T08:56:25Z</dc:date>
+<dc:subject>microsoft network patch software win wireless wpa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wpa" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/patch" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/win" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brendangregg.com/dtrace.html">
+<title>DTrace Tools</title>
+<link>http://www.brendangregg.com/dtrace.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T08:49:19Z</dc:date>
+<dc:subject>dtrace performance programming solaris sysadmin tools unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dtrace" />
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sysunconfig.net/unixtips/solaris.html">
+<title>Solaris Tips and Tricks</title>
+<link>http://sysunconfig.net/unixtips/solaris.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T08:27:13Z</dc:date>
+<dc:subject>howto reference solaris sun sysadmin tips unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/sun" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digilife.be/quickreferences/indexe.html">
+<title>The Quick Reference Site - The largest collection of free Quick Reference Cards</title>
+<link>http://www.digilife.be/quickreferences/indexe.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T08:25:39Z</dc:date>
+<dc:subject>cheatsheet development documentation java linux programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/sch/">
+<title>Predictable</title>
+<link>http://blogs.sun.com/sch/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-27T08:02:22Z</dc:date>
+<dc:subject>blog opensolaris packaging smf solaris sun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/packaging" />
+    <rdf:li resource="http://del.icio.us/tag/sun" />
+    <rdf:li resource="http://del.icio.us/tag/smf" />
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iptools.com/">
+<title>Ip Tools, DNS tools, internet tools, WHOIS, traceroute, ping, domain name tools</title>
+<link>http://www.iptools.com/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-26T14:11:20Z</dc:date>
+<dc:subject>dns internet ip network tools whois</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/ip" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/whois" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.networkedmediatank.com/">
+<title>Networked Media Tank :: Index</title>
+<link>http://www.networkedmediatank.com/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-26T13:08:33Z</dc:date>
+<dc:subject>Media appletv firmware forum hardware htpc iptv linux mediacenter multimedia nmt player popcorn popcornhour server video windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/popcornhour" />
+    <rdf:li resource="http://del.icio.us/tag/popcorn" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/nmt" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/htpc" />
+    <rdf:li resource="http://del.icio.us/tag/firmware" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/iptv" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/Media" />
+    <rdf:li resource="http://del.icio.us/tag/multimedia" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/mediacenter" />
+    <rdf:li resource="http://del.icio.us/tag/appletv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jvbdigital.nl/jvb.asp?cur=1&#x26;level=sdi&#x26;page=title&#x26;title=582">
+<title>JVB Digital, Egreat EG-M31A 1Tb</title>
+<link>http://www.jvbdigital.nl/jvb.asp?cur=1&#x26;level=sdi&#x26;page=title&#x26;title=582</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-26T13:05:13Z</dc:date>
+<dc:subject>divx dvd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/divx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bustedwonder.com/">
+<title>Busted Wonder - by Kieron Gillen &#x26; Charity Larrison</title>
+<link>http://bustedwonder.com/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-26T08:12:36Z</dc:date>
+<dc:subject>art comic comics fiction free illustration toread webcomic webcomics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/webcomics" />
+    <rdf:li resource="http://del.icio.us/tag/webcomic" />
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/fiction" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-jpc.physics.ox.ac.uk/Technology.html">
+<title>JPC - Technology Overview</title>
+<link>http://www-jpc.physics.ox.ac.uk/Technology.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-26T07:51:50Z</dc:date>
+<dc:subject>emulation java mobile sun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/sun" />
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/jiffy-web/">
+<title>jiffy-web - Google Code</title>
+<link>http://code.google.com/p/jiffy-web/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-25T12:22:34Z</dc:date>
+<dc:subject>ajax firebug javascript opensource performance web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://billwscott.com/jiffyext/">
+<title>Jiffy Firefox Extension - Documentation</title>
+<link>http://billwscott.com/jiffyext/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-25T12:21:45Z</dc:date>
+<dc:subject>extension firebug firefox javascript performance plugin webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firebug" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gruimed.livejournal.com/4003.html">
+<title>gruimed: LinuxConf Europe 2007 Paper</title>
+<link>http://gruimed.livejournal.com/4003.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-23T09:44:17Z</dc:date>
+<dc:subject>embedded hardware linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417">
+<title>&#x2022; View topic - Vista: Tweaked, Tuned, Hacked</title>
+<link>http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-19T06:14:41Z</dc:date>
+<dc:subject>hack hacks os technology tweak tweaks vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/tweak" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://masterofsopranos.wordpress.com/the-sopranos-definitive-explanation-of-the-end/">
+<title>The Sopranos: Definitive Explanation of &#x201C;The END&#x201D;</title>
+<link>http://masterofsopranos.wordpress.com/the-sopranos-definitive-explanation-of-the-end/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-16T13:14:35Z</dc:date>
+<dc:subject>Entertainment analysis commentary interesting movies sopranos television toread tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sopranos" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/commentary" />
+    <rdf:li resource="http://del.icio.us/tag/Entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bblv.be/agora/view.php?bn=bbl_lag&#x26;key=1211535170">
+<title>Klimaatnet &#x3E; Energieforum - Belastingsbrief invullen</title>
+<link>http://www.bblv.be/agora/view.php?bn=bbl_lag&#x26;key=1211535170</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-16T13:06:37Z</dc:date>
+<dc:subject>belasting bouw</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bouw" />
+    <rdf:li resource="http://del.icio.us/tag/belasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/395285/manually-enable-gmail-labs-in-your-account">
+<title>Gmail: Manually Enable Gmail Labs in Your Account</title>
+<link>http://lifehacker.com/395285/manually-enable-gmail-labs-in-your-account</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-08T09:55:34Z</dc:date>
+<dc:subject>gmail google hacker hacks mail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/hacker" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newzleech.com/">
+<title>Newzleech.com - Usenet Search</title>
+<link>http://www.newzleech.com/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-07T13:15:50Z</dc:date>
+<dc:subject>binaries download news newsgroup newsgroups nzb search usenet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newsgroups" />
+    <rdf:li resource="http://del.icio.us/tag/usenet" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/nzb" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroup" />
+    <rdf:li resource="http://del.icio.us/tag/binaries" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nzbindex.nl/">
+<title>NZBIndex.nl - We index, you search</title>
+<link>http://www.nzbindex.nl/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-07T13:15:37Z</dc:date>
+<dc:subject>binaries download news newsgroup newsgroups nzb search usenet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usenet" />
+    <rdf:li resource="http://del.icio.us/tag/nzb" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroups" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/binaries" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroup" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.binsearch.net/">
+<title>Binsearch -- Usenet search engine</title>
+<link>http://www.binsearch.net/</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-07T13:15:06Z</dc:date>
+<dc:subject>bookmarks download downloads engine file movies newsgroup newsgroups nzb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/engine" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroup" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/nzb" />
+    <rdf:li resource="http://del.icio.us/tag/newsgroups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nirsoft.net/utils/astlog.html">
+<title>Asterisk Logger: Reveal/recover password behind asterisks (***)</title>
+<link>http://www.nirsoft.net/utils/astlog.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-06-03T12:35:45Z</dc:date>
+<dc:subject>password passwords recovery security software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nirsoft.net/utils/pst_password.html">
+<title>PstPassword - Outlook PST Password Recovery</title>
+<link>http://www.nirsoft.net/utils/pst_password.html</link>
+<description></description>
+<dc:creator>xtra</dc:creator>
+<dc:date>2008-05-30T13:40:11Z</dc:date>
+<dc:subject>microsoft outlook password pst recovery security utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+    <rdf:li resource="http://del.icio.us/tag/pst" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

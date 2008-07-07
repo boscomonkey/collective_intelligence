@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/janson05">
+<title>del.icio.us/janson05</title>
+<link>http://del.icio.us/janson05</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.wikihow.com/Main-Page" />
+  <rdf:li rdf:resource="http://www.evilmadscientist.com/article.php/d12bag" />
+  <rdf:li rdf:resource="http://www.creatrope.com/blog/" />
+  <rdf:li rdf:resource="http://lifehacker.com/339474/top-10-obscure-google-search-tricks" />
+  <rdf:li rdf:resource="http://dev.emcelettronica.com/" />
+  <rdf:li rdf:resource="http://www.quamut.com/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.gentlemanjoe.com/how-to-tie.php?id=1" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.math.niu.edu/~rusin/known-math/index/mathmap.html" />
+  <rdf:li rdf:resource="http://www.scienceshareware.com/index.htm" />
+  <rdf:li rdf:resource="http://www.objectivistcenter.org/" />
+  <rdf:li rdf:resource="http://bodyodd.msnbc.msn.com/archive/2008/07/01/1178178.aspx" />
+  <rdf:li rdf:resource="http://www.latimes.com/entertainment/news/celebrity/la-me-newvillage29-2008jun29,0,4515213.story" />
+  <rdf:li rdf:resource="http://www.electoral-vote.com/" />
+  <rdf:li rdf:resource="http://www.marumushi.com/apps/newsmap/newsmap.cfm" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/13/health/13brain.html?_r=1&#x26;em&#x26;ex=1211860800&#x26;en=123bdd8c90532597&#x26;ei=5087%0A&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.sentientdevelopments.com/" />
+  <rdf:li rdf:resource="http://www.opentable.com/home.aspx" />
+  <rdf:li rdf:resource="http://newjerseypest.com/images/yardspraypromo.jpg" />
+  <rdf:li rdf:resource="http://www.watchingthenet.com/" />
+  <rdf:li rdf:resource="http://www.athropolis.com/index.htm" />
+  <rdf:li rdf:resource="http://writespice.sulekha.com/blog/post/2008/02/developing-your-mind-the-power-of-concentration/comments.htm" />
+  <rdf:li rdf:resource="http://plone.org/documentation/how-to" />
+  <rdf:li rdf:resource="http://www.museumofconceptualart.com/essays/stuff_learned.html" />
+  <rdf:li rdf:resource="http://www.f-secure.com/blacklight/blacklight.html" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2006/07/06/use-your-hobbies-to-bring-you-wealth/" />
+  <rdf:li rdf:resource="http://www.aleph.se/Trans/Global/Singularity/Singularity_limits.html" />
+  <rdf:li rdf:resource="http://education.jlab.org/atomtour/listofparticles.html" />
+  <rdf:li rdf:resource="http://www.flightstats.com/go/Home/home.do" />
+  <rdf:li rdf:resource="http://www.weirdtown.com/chatroom/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.wikihow.com/Main-Page">
+<title>wikiHow - The How-to Manual That You Can Edit</title>
+<link>http://www.wikihow.com/Main-Page</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:31:22Z</dc:date>
+<dc:subject>DIY HOW-TO REFERENCE</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HOW-TO" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/REFERENCE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evilmadscientist.com/article.php/d12bag">
+<title>Evil Mad Scientist Laboratories - DIY d12 Handbag (of Holding)</title>
+<link>http://www.evilmadscientist.com/article.php/d12bag</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:31:03Z</dc:date>
+<dc:subject>HOW-TO</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HOW-TO" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creatrope.com/blog/">
+<title>Creatrope</title>
+<link>http://www.creatrope.com/blog/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:30:29Z</dc:date>
+<dc:subject>DIY organization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/339474/top-10-obscure-google-search-tricks">
+<title>Lifehacker Top 10: Top 10 Obscure Google Search Tricks</title>
+<link>http://lifehacker.com/339474/top-10-obscure-google-search-tricks</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:29:16Z</dc:date>
+<dc:subject>REFERENCE</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/REFERENCE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.emcelettronica.com/">
+<title>Your Electronics Open Source | Share for life!</title>
+<link>http://dev.emcelettronica.com/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:27:32Z</dc:date>
+<dc:subject>DIY</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quamut.com/">
+<title>Quamut: the go to how to</title>
+<link>http://www.quamut.com/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:26:43Z</dc:date>
+<dc:subject>DIY howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:24:53Z</dc:date>
+<dc:subject>DIY HOW-TO</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HOW-TO" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gentlemanjoe.com/how-to-tie.php?id=1">
+<title>Gentleman Joe :: Fine Ties, Gifts and Accessories</title>
+<link>http://www.gentlemanjoe.com/how-to-tie.php?id=1</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:23:29Z</dc:date>
+<dc:subject>DIY</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:22:38Z</dc:date>
+<dc:subject>SCIENCE</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SCIENCE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.math.niu.edu/~rusin/known-math/index/mathmap.html">
+<title>Clickable Map of Mathematics</title>
+<link>http://www.math.niu.edu/~rusin/known-math/index/mathmap.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:20:34Z</dc:date>
+<dc:subject>education mathematics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scienceshareware.com/index.htm">
+<title>Free Math Physics Engineering lessons Simulations Freeware Shareware</title>
+<link>http://www.scienceshareware.com/index.htm</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:18:36Z</dc:date>
+<dc:subject>DIY</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.objectivistcenter.org/">
+<title>The Atlas Society</title>
+<link>http://www.objectivistcenter.org/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-06T05:15:56Z</dc:date>
+<dc:subject>POLITICS READING</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/READING" />
+    <rdf:li resource="http://del.icio.us/tag/POLITICS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bodyodd.msnbc.msn.com/archive/2008/07/01/1178178.aspx">
+<title>Why her skin was crawling with body critters - The Body Odd - msnbc.com</title>
+<link>http://bodyodd.msnbc.msn.com/archive/2008/07/01/1178178.aspx</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-02T19:31:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.latimes.com/entertainment/news/celebrity/la-me-newvillage29-2008jun29,0,4515213.story">
+<title>Scientology is focus of flap over Will Smith's new school - Los Angeles Times</title>
+<link>http://www.latimes.com/entertainment/news/celebrity/la-me-newvillage29-2008jun29,0,4515213.story</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-02T19:00:00Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.electoral-vote.com/">
+<title>Election 2008: Presidential, Senate and House Races Updated Daily</title>
+<link>http://www.electoral-vote.com/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-07-01T19:54:21Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.marumushi.com/apps/newsmap/newsmap.cfm">
+<title>newsmap</title>
+<link>http://www.marumushi.com/apps/newsmap/newsmap.cfm</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:39:41Z</dc:date>
+<dc:subject>NEWS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/NEWS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/13/health/13brain.html?_r=1&#x26;em&#x26;ex=1211860800&#x26;en=123bdd8c90532597&#x26;ei=5087%0A&#x26;oref=slogin">
+<title>Memory Loss - Alzheimer's Disease - Brain - Health - New York Times</title>
+<link>http://www.nytimes.com/2008/05/13/health/13brain.html?_r=1&#x26;em&#x26;ex=1211860800&#x26;en=123bdd8c90532597&#x26;ei=5087%0A&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:34:43Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.sentientdevelopments.com/">
+<title>Sentient Developments</title>
+<link>http://www.sentientdevelopments.com/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:32:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.opentable.com/home.aspx">
+<title>OpenTable Restaurants and Restaurant Reservations</title>
+<link>http://www.opentable.com/home.aspx</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:18:37Z</dc:date>
+<dc:subject>RESTAURANTS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/RESTAURANTS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newjerseypest.com/images/yardspraypromo.jpg">
+<title>http://newjerseypest.com/images/yardspraypromo.jpg</title>
+<link>http://newjerseypest.com/images/yardspraypromo.jpg</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:17:03Z</dc:date>
+<dc:subject>EXTERMINATOR</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/EXTERMINATOR" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.watchingthenet.com/">
+<title>Computer - Internet - Technology Tips And Tutorials</title>
+<link>http://www.watchingthenet.com/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:16:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.athropolis.com/index.htm">
+<title>ATHROPOLIS: Home Page of the Throps and the Squallhoots - Story, Songs, Games, MP3, Learn about the Arctic, and More.</title>
+<link>http://www.athropolis.com/index.htm</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:14:18Z</dc:date>
+<dc:subject>FUN</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/FUN" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://writespice.sulekha.com/blog/post/2008/02/developing-your-mind-the-power-of-concentration/comments.htm">
+<title>Comments on WriteSpice, comments on Acquiring Intelligence: The Power of Concentration - I, comments on Acquiring Intelligence: The Power of Concentration - I, comments on General</title>
+<link>http://writespice.sulekha.com/blog/post/2008/02/developing-your-mind-the-power-of-concentration/comments.htm</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T23:12:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://plone.org/documentation/how-to">
+<title>How-tos &#x2014; Plone CMS: Open Source Content Management</title>
+<link>http://plone.org/documentation/how-to</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T21:46:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.museumofconceptualart.com/essays/stuff_learned.html">
+<title>Help for the Attitudinally Challenged - Powerful technologies for treating chronic negativity and stress</title>
+<link>http://www.museumofconceptualart.com/essays/stuff_learned.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-30T21:45:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.f-secure.com/blacklight/blacklight.html">
+<title>F-Secure Blacklight &#x3E; F-Secure Blacklight</title>
+<link>http://www.f-secure.com/blacklight/blacklight.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:35:07Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2006/07/06/use-your-hobbies-to-bring-you-wealth/">
+<title>Use Your Hobbies to Bring You Wealth &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2006/07/06/use-your-hobbies-to-bring-you-wealth/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:31:45Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.aleph.se/Trans/Global/Singularity/Singularity_limits.html">
+<title>The Limitations of the Singularity</title>
+<link>http://www.aleph.se/Trans/Global/Singularity/Singularity_limits.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:20:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://education.jlab.org/atomtour/listofparticles.html">
+<title>All About Atoms</title>
+<link>http://education.jlab.org/atomtour/listofparticles.html</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:19:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.flightstats.com/go/Home/home.do">
+<title>Track Flight Status, Airport Delays and other Flight and Airport Information</title>
+<link>http://www.flightstats.com/go/Home/home.do</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:19:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.weirdtown.com/chatroom/">
+<title>Weird Town Chat Rooms</title>
+<link>http://www.weirdtown.com/chatroom/</link>
+<description></description>
+<dc:creator>janson05</dc:creator>
+<dc:date>2008-06-29T23:17:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

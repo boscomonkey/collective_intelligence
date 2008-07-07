@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/janzo">
+<title>del.icio.us/janzo</title>
+<link>http://del.icio.us/janzo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.simulation-argument.com/" />
+  <rdf:li rdf:resource="http://www.nickbostrom.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Nick_Bostrom" />
+  <rdf:li rdf:resource="http://natsufan.livejournal.com/#entry_21650" />
+  <rdf:li rdf:resource="http://deputy-dog.com/2008/07/03/living-on-the-edge-2-stunningly-scary-clifftop-communities/" />
+  <rdf:li rdf:resource="http://pseudopodo.wordpress.com/2008/06/20/yoko-ogawa-la-formula-preferida-del-profesor/" />
+  <rdf:li rdf:resource="http://www.neverendingbooks.org/index.php/the-buckyball-curve.html" />
+  <rdf:li rdf:resource="http://www.coli.uni-saarland.de/~kris/nlp-with-prolog/html/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol" />
+  <rdf:li rdf:resource="http://www.mprove.de/diplom/referencesKay.html" />
+  <rdf:li rdf:resource="http://bc.tech.coop/blog/060224.html" />
+  <rdf:li rdf:resource="http://labellateoria.blogspot.com/2008/07/la-prehistoria-de-la-materia-la-era.html" />
+  <rdf:li rdf:resource="http://lambda-the-ultimate.org/node/2880" />
+  <rdf:li rdf:resource="http://ythv.info/maggo/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://thegrowinglife.com/2008/04/james-dean-body-language/" />
+  <rdf:li rdf:resource="http://www.publico.es/ciencias/130193/a/farmaceuticas/interesa/buscar/curacion" />
+  <rdf:li rdf:resource="http://www.sindioses.org/simpleateismo/malentendidos.html" />
+  <rdf:li rdf:resource="http://natsufan.livejournal.com/24342.html" />
+  <rdf:li rdf:resource="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s19.html" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/" />
+  <rdf:li rdf:resource="http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4" />
+  <rdf:li rdf:resource="http://wordpressthemes.weblogs.us/2008/03/06/elegance/" />
+  <rdf:li rdf:resource="http://www.vidadigital.net/blog/2008/06/20/aprender-la-tabla-peridica-de-forma-interactiva/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Skip_list" />
+  <rdf:li rdf:resource="http://www.historiasdelaciencia.com/?p=354#more-354" />
+  <rdf:li rdf:resource="http://fogonazos.blogspot.com/2006/10/more-doctors-smoke-camels.html" />
+  <rdf:li rdf:resource="http://fogonazos.blogspot.com/2006/11/herona-de-bayer_116415393754925772.html" />
+  <rdf:li rdf:resource="http://fogonazos.blogspot.com/2008/06/la-radioactividad-os-sienta-tan-bien.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>e.&#x26;quot;</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-06T09:53:55Z</dc:date>
+<dc:subject>leer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/leer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simulation-argument.com/">
+<title>Are You Living in a Computer Simulation?</title>
+<link>http://www.simulation-argument.com/</link>
+<description>Nick Bostrom</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-06T09:45:44Z</dc:date>
+<dc:subject>transhumanismo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/transhumanismo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nickbostrom.com/">
+<title>Nick Bostrom's home page</title>
+<link>http://www.nickbostrom.com/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-06T09:45:38Z</dc:date>
+<dc:subject>transhumanismo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/transhumanismo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Nick_Bostrom">
+<title>Nick Bostrom - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Nick_Bostrom</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-06T09:45:27Z</dc:date>
+<dc:subject>transhumanismo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/transhumanismo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natsufan.livejournal.com/#entry_21650">
+<title>El diario cada vez menos privado de Natsu.</title>
+<link>http://natsufan.livejournal.com/#entry_21650</link>
+<description>Mohamed Yunus</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-05T08:37:29Z</dc:date>
+<dc:subject>espiritualidad religi&#xF3;n</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/espiritualidad" />
+    <rdf:li resource="http://del.icio.us/tag/religi%C3%B3n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://deputy-dog.com/2008/07/03/living-on-the-edge-2-stunningly-scary-clifftop-communities/">
+<title>living on the edge: 2 stunningly scary clifftop communities | deputydog</title>
+<link>http://deputy-dog.com/2008/07/03/living-on-the-edge-2-stunningly-scary-clifftop-communities/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-04T10:01:30Z</dc:date>
+<dc:subject>viajar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/viajar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pseudopodo.wordpress.com/2008/06/20/yoko-ogawa-la-formula-preferida-del-profesor/">
+<title>Yoko Ogawa: La f&#xF3;rmula preferida del profesor &#xAB; Pseud&#xF3;podo</title>
+<link>http://pseudopodo.wordpress.com/2008/06/20/yoko-ogawa-la-formula-preferida-del-profesor/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-03T08:01:31Z</dc:date>
+<dc:subject>libros mates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+    <rdf:li resource="http://del.icio.us/tag/mates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neverendingbooks.org/index.php/the-buckyball-curve.html">
+<title>the buckyball curve | neverendingbooks</title>
+<link>http://www.neverendingbooks.org/index.php/the-buckyball-curve.html</link>
+<description>the buckyball curve</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-03T07:31:26Z</dc:date>
+<dc:subject>buckyball</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/buckyball" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coli.uni-saarland.de/~kris/nlp-with-prolog/html/">
+<title>Natural Language Processing Techniques in Prolog</title>
+<link>http://www.coli.uni-saarland.de/~kris/nlp-with-prolog/html/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-03T07:07:58Z</dc:date>
+<dc:subject>prolog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prolog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol">
+<title>The Art of the Metaobject Protocol - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/The_Art_of_the_Metaobject_Protocol</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-01T20:19:36Z</dc:date>
+<dc:subject>libros</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mprove.de/diplom/referencesKay.html">
+<title>mprove: Alan Kay's Bibliography</title>
+<link>http://www.mprove.de/diplom/referencesKay.html</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-01T20:17:58Z</dc:date>
+<dc:subject>Alan Kay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Alan" />
+    <rdf:li resource="http://del.icio.us/tag/Kay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bc.tech.coop/blog/060224.html">
+<title>Bill Clementson's Blog: The Most Important Idea in Computer Science</title>
+<link>http://bc.tech.coop/blog/060224.html</link>
+<description>a few profound thoughts! It's worth spending some</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-01T20:17:05Z</dc:date>
+<dc:subject>Alan Kay importante leer lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/Alan" />
+    <rdf:li resource="http://del.icio.us/tag/Kay" />
+    <rdf:li resource="http://del.icio.us/tag/importante" />
+    <rdf:li resource="http://del.icio.us/tag/leer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labellateoria.blogspot.com/2008/07/la-prehistoria-de-la-materia-la-era.html">
+<title>La bella teoria: La prehistoria de la materia, la era hadr&#xF3;nica</title>
+<link>http://labellateoria.blogspot.com/2008/07/la-prehistoria-de-la-materia-la-era.html</link>
+<description>.</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-07-01T19:55:07Z</dc:date>
+<dc:subject>f&#xED;sica hadr&#xF3;n libros</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+    <rdf:li resource="http://del.icio.us/tag/f%C3%ADsica" />
+    <rdf:li resource="http://del.icio.us/tag/hadr%C3%B3n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lambda-the-ultimate.org/node/2880">
+<title>Hardware Design and Functional Programming: a Perfect Match | Lambda the Ultimate</title>
+<link>http://lambda-the-ultimate.org/node/2880</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-30T19:44:40Z</dc:date>
+<dc:subject>functional hardware lambda sistemas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/lambda" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/sistemas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ythv.info/maggo/">
+<title>Maggo Mag Theme</title>
+<link>http://ythv.info/maggo/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-30T19:41:33Z</dc:date>
+<dc:subject>themes wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description>infamous</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-30T08:16:42Z</dc:date>
+<dc:subject>compiladores</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiladores" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin">
+<title>No Babies? - Declining Population in Europe - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin</link>
+<description>but the streets of Laviano &#x2014; a gloriously situated hamlet ranged across a few folds in the mountains of the Campania region &#x2014; were deserted. There were no day-trippers from Naples, no tourists to take in the views up the steep slopes, the olive trees</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-29T14:42:14Z</dc:date>
+<dc:subject>cosmopedia demograf&#xED;a</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cosmopedia" />
+    <rdf:li resource="http://del.icio.us/tag/demograf%C3%ADa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thegrowinglife.com/2008/04/james-dean-body-language/">
+<title>The James Dean Guide to Being a Body Language Bad*ss | The Growing Life | Alternative Productivity, Anti-Hacks for Living</title>
+<link>http://thegrowinglife.com/2008/04/james-dean-body-language/</link>
+<description>    * ing
+    * Get as Horizontal as Possible While Sitting
+    * Assume an Open Posture
+    * (Take up lots of space)
+    * Master the Confident Gaze/Fearless Stare/Scowl
+    * Talk Slowly
+    * Smile Strategically (No Sycophantic Smiling)
+
+</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-29T09:17:39Z</dc:date>
+<dc:subject>Dean James</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/James" />
+    <rdf:li resource="http://del.icio.us/tag/Dean" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.publico.es/ciencias/130193/a/farmaceuticas/interesa/buscar/curacion">
+<title>&#xAB;A las farmac&#xE9;uticas no les interesa buscar la curaci&#xF3;n&#xBB;&#xA0;-&#xA0;P&#xFA;blico.es</title>
+<link>http://www.publico.es/ciencias/130193/a/farmaceuticas/interesa/buscar/curacion</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T22:55:33Z</dc:date>
+<dc:subject>farmaceuticas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/farmaceuticas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sindioses.org/simpleateismo/malentendidos.html">
+<title>Malentendidos comunes sobre ateos y ate&#xED;smo - Simplemente ate&#xED;smo - Sin Dioses</title>
+<link>http://www.sindioses.org/simpleateismo/malentendidos.html</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T22:54:47Z</dc:date>
+<dc:subject>ateismo religi&#xF3;n</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ateismo" />
+    <rdf:li resource="http://del.icio.us/tag/religi%C3%B3n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natsufan.livejournal.com/24342.html">
+<title>natsufan: Zeitgeist contrastado.</title>
+<link>http://natsufan.livejournal.com/24342.html</link>
+<description>
+Breve historia de Horus: El dios Osiris estaba casado con Isis. Set, el dios del mal, mat&#xF3; a Osiris y lo descuartiz&#xF3;. Isis busc&#xF3; los pedazos, los cosi&#xF3; y resucit&#xF3; a Osiris con su amplio conocimiento de la magia. Del Osiris resucitado e Isis naci&#xF3; H</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T22:05:42Z</dc:date>
+<dc:subject>abraham animistas cosmopedia dharma horus religi&#xF3;n zeitgeist</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/horus" />
+    <rdf:li resource="http://del.icio.us/tag/religi%C3%B3n" />
+    <rdf:li resource="http://del.icio.us/tag/zeitgeist" />
+    <rdf:li resource="http://del.icio.us/tag/cosmopedia" />
+    <rdf:li resource="http://del.icio.us/tag/animistas" />
+    <rdf:li resource="http://del.icio.us/tag/dharma" />
+    <rdf:li resource="http://del.icio.us/tag/abraham" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s19.html">
+<title>Gift Outcompetes Exchange</title>
+<link>http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/ar01s19.html</link>
+<description>Interestingly, the studies suggest that flat salaries don't demotivate, but piecework rates and bonuses do.</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T14:29:08Z</dc:date>
+<dc:subject>leer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/leer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/">
+<title>Extreme regex foo: what you need to know to become a regular expression pro - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T09:09:13Z</dc:date>
+<dc:subject>leer regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/leer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4">
+<title>How I Built a Working Poker Bot, Part 4: The Poker Botting Erector Set - Coding the Wheel</title>
+<link>http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-28T09:09:07Z</dc:date>
+<dc:subject>poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpressthemes.weblogs.us/2008/03/06/elegance/">
+<title>WordPress Themes &#xBB; Blog Archive &#xBB; Elegance</title>
+<link>http://wordpressthemes.weblogs.us/2008/03/06/elegance/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-27T15:50:09Z</dc:date>
+<dc:subject>kini theme wp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kini" />
+    <rdf:li resource="http://del.icio.us/tag/wp" />
+    <rdf:li resource="http://del.icio.us/tag/theme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vidadigital.net/blog/2008/06/20/aprender-la-tabla-peridica-de-forma-interactiva/">
+<title>DigiZen &#xBB; Aprender la tabla peri&#xF3;dica de forma interactiva</title>
+<link>http://www.vidadigital.net/blog/2008/06/20/aprender-la-tabla-peridica-de-forma-interactiva/</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-27T15:45:26Z</dc:date>
+<dc:subject>periodica qu&#xED;mica tabla</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/qu%C3%ADmica" />
+    <rdf:li resource="http://del.icio.us/tag/tabla" />
+    <rdf:li resource="http://del.icio.us/tag/periodica" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Skip_list">
+<title>Skip list - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Skip_list</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-27T14:31:42Z</dc:date>
+<dc:subject>list probabilidad skip tree</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skip" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/tree" />
+    <rdf:li resource="http://del.icio.us/tag/probabilidad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.historiasdelaciencia.com/?p=354#more-354">
+<title>Historias de la ciencia | Estructuras o por qu&#xE9; las cosas no se caen</title>
+<link>http://www.historiasdelaciencia.com/?p=354#more-354</link>
+<description>velas para barcos se inici&#xF3; en EEUU. Como pon&#xED;an, precisamente, la direcci&#xF3;n de las costuras en las de las tensiones principales pod&#xED;an navegar m&#xE1;s aprisa y aprovechando mejor la fuerza del viento que los veleros brit&#xE1;nicos. La cosa cambi&#xF3; en 1851.</description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-26T11:33:39Z</dc:date>
+<dc:subject>estructuras ingenier&#xED;a libros materiales</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+    <rdf:li resource="http://del.icio.us/tag/estructuras" />
+    <rdf:li resource="http://del.icio.us/tag/materiales" />
+    <rdf:li resource="http://del.icio.us/tag/ingenier%C3%ADa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fogonazos.blogspot.com/2006/10/more-doctors-smoke-camels.html">
+<title>Fogonazos: &#x22;More doctors smoke Camels&#x22;</title>
+<link>http://fogonazos.blogspot.com/2006/10/more-doctors-smoke-camels.html</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-25T09:37:56Z</dc:date>
+<dc:subject>propaganda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/propaganda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fogonazos.blogspot.com/2006/11/herona-de-bayer_116415393754925772.html">
+<title>Fogonazos: Hero&#xED;na, de Bayer</title>
+<link>http://fogonazos.blogspot.com/2006/11/herona-de-bayer_116415393754925772.html</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-25T09:37:50Z</dc:date>
+<dc:subject>propaganda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/propaganda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fogonazos.blogspot.com/2008/06/la-radioactividad-os-sienta-tan-bien.html">
+<title>Fogonazos: &#xA1;La radioactividad os sienta tan bien!</title>
+<link>http://fogonazos.blogspot.com/2008/06/la-radioactividad-os-sienta-tan-bien.html</link>
+<description></description>
+<dc:creator>janzo</dc:creator>
+<dc:date>2008-06-25T09:37:33Z</dc:date>
+<dc:subject>propaganda radiactividad radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/radiactividad" />
+    <rdf:li resource="http://del.icio.us/tag/propaganda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

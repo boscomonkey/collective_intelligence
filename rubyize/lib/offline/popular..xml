@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/popular">
+<title>del.icio.us/popular</title>
+<link>http://del.icio.us/popular</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<dc:creator>dcmf</dc:creator>
+<dc:date>2008-07-02T00:53:53Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools</title>
+<link>http://formatoz.com/</link>
+<dc:creator>Lola2002</dc:creator>
+<dc:date>2008-07-05T18:56:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<dc:creator>VincentVanGogh</dc:creator>
+<dc:date>2007-08-31T09:49:47Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<dc:creator>val_halla</dc:creator>
+<dc:date>2008-07-04T05:57:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<dc:creator>marknca</dc:creator>
+<dc:date>2008-07-05T17:58:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<dc:creator>rolltimer</dc:creator>
+<dc:date>2008-07-05T10:00:10Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120 &#x646;&#x648;&#x639; &#x622;&#x6CC;&#x6A9;&#x648;&#x646; &#x644;&#x648;&#x62F;&#x6CC;&#x646;&#x6AF; &#x62F;&#x631; &#x627;&#x6CC; &#x62C;&#x6A9;&#x633;</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<dc:creator>erfan2000volt</dc:creator>
+<dc:date>2008-06-14T13:35:17Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<dc:creator>maicki</dc:creator>
+<dc:date>2008-07-06T01:24:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<dc:creator>000jr000</dc:creator>
+<dc:date>2008-07-05T16:29:23Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<dc:creator>jamesbirney</dc:creator>
+<dc:date>2008-07-06T10:50:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<dc:creator>nettan13</dc:creator>
+<dc:date>2008-07-06T00:49:58Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-04-28T05:23:09Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<dc:creator>anyuanay</dc:creator>
+<dc:date>2005-12-26T18:55:26Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Scaling Your JavaEE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<dc:creator>danilomutti</dc:creator>
+<dc:date>2008-07-03T20:00:19Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<dc:creator>peru_peru</dc:creator>
+<dc:date>2008-07-05T03:52:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

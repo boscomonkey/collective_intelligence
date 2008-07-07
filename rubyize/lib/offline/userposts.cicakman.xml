@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cicakman">
+<title>del.icio.us/cicakman</title>
+<link>http://del.icio.us/cicakman</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://greenhome.huddler.com/wiki/how-to-reduce-vampire-power" />
+  <rdf:li rdf:resource="http://brief.mozdev.org/" />
+  <rdf:li rdf:resource="http://freshairapps.com/" />
+  <rdf:li rdf:resource="http://www.makayama.com/easywifiradar.html" />
+  <rdf:li rdf:resource="http://boardingarea.com/blogs/traveltechtalk/2008/05/26/bored-at-the-airport-read-a-free-magazine/" />
+  <rdf:li rdf:resource="http://drop.io/" />
+  <rdf:li rdf:resource="http://www.onemanga.com/" />
+  <rdf:li rdf:resource="http://www.thinkgene.com/study-shows-male-homosexuality-can-be-explained-through-a-specific-model-of-darwinian-evolution/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2006/05/07/books/review/07stossell.html" />
+  <rdf:li rdf:resource="http://www.kuro5hin.org/story/2007/4/9/15347/58251" />
+  <rdf:li rdf:resource="http://books.guardian.co.uk/departments/politicsphilosophyandsociety/story/0,,1823999,00.html" />
+  <rdf:li rdf:resource="http://scienceblogs.com/mixingmemory/2006/11/nostalgia_what_when_and_why.php" />
+  <rdf:li rdf:resource="http://greenhome.huddler.com/wiki/frugal-beginners-guide-to-green" />
+  <rdf:li rdf:resource="http://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Components_0.9" />
+  <rdf:li rdf:resource="http://festival.magnumphotos.com/60_years_2007.php" />
+  <rdf:li rdf:resource="http://gayspecies.blogspot.com/2007/08/ethics-way-of-life.html" />
+  <rdf:li rdf:resource="http://business.timesonline.co.uk/tol/business/economics/article4022091.ece?print=yes&#x26;randnum=1212475411171" />
+  <rdf:li rdf:resource="http://www.marketwatch.com/news/story/eight-reasons-youll-rejoice-we/story.aspx?guid=%7B82FCE1B0-1889-43B0-A465-E29BFEE95576%7D" />
+  <rdf:li rdf:resource="http://gayspecies.blogspot.com/2007/08/ethics-vs-morality-immense-divide.html" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=_Sxu0L2qaVg" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=aOkw31ZFCBQ" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=fPb--BzlEc0" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=yhgOZlRvZXs" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=Y8klW9trVTQ" />
+  <rdf:li rdf:resource="http://www.volokh.com/posts/1211577626.shtml" />
+  <rdf:li rdf:resource="http://www.imminst.org/archive/articles/engineering-end-aging" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/being-human/dn13860-six-uniquely-human-t" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/25/magazine/25wwln-essay-t.html?_r=2&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://scienceblogs.com/notrocketscience/2008/05/feeling_powerless_impairs_higher_mental_abilities.php#c897607" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Existential_psychology" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-07-06T11:11:45Z</dc:date>
+<dc:subject>particle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenhome.huddler.com/wiki/how-to-reduce-vampire-power">
+<title>How To Reduce Vampire Power</title>
+<link>http://greenhome.huddler.com/wiki/how-to-reduce-vampire-power</link>
+<description>&#x26;quot;Most people think that when you turn something off, it actually turns off.  Most people assume that it stops drawing power.  Unfortunately, that's not true in the case of most electric devices.  Most of them just hover in standby mode, waiting for you to</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-26T09:17:22Z</dc:date>
+<dc:subject>energy environment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://brief.mozdev.org/">
+<title>Brief - a feed reading extension for Firefox</title>
+<link>http://brief.mozdev.org/</link>
+<description>&#x26;quot;Brief is a light-weight feed reading extension for Firefox. Designed to be easy to use and streamlined, with exactly the right set of features.&#x26;quot;</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-25T08:28:01Z</dc:date>
+<dc:subject>firefox rss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freshairapps.com/">
+<title>freshAIRapps.com - Showcase for Adobe AIR Applications , Tutorials and Resources</title>
+<link>http://freshairapps.com/</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-23T16:34:00Z</dc:date>
+<dc:subject>adobe_air</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adobe_air" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makayama.com/easywifiradar.html">
+<title>Easy WiFi Connections</title>
+<link>http://www.makayama.com/easywifiradar.html</link>
+<description>&#x26;quot;It displays a radar like image with different colors dots. Green dots mark free wireless connections while red and yellow ones mark inaccessible ones. Once a green spot has been discovered by the software it automatically tries to connect to that Wireles</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-22T15:18:47Z</dc:date>
+<dc:subject>wifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boardingarea.com/blogs/traveltechtalk/2008/05/26/bored-at-the-airport-read-a-free-magazine/">
+<title>Read 20 Digital Magazines for Free !</title>
+<link>http://boardingarea.com/blogs/traveltechtalk/2008/05/26/bored-at-the-airport-read-a-free-magazine/</link>
+<description>fantastic !</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-22T14:41:26Z</dc:date>
+<dc:subject>magazine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drop.io/">
+<title>Drop.io: Simple Private Sharing</title>
+<link>http://drop.io/</link>
+<description>can 'Fax' for free...</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-20T14:37:19Z</dc:date>
+<dc:subject>filesharing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onemanga.com/">
+<title>One Manga | Your online manga reader. Read free manga online.</title>
+<link>http://www.onemanga.com/</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-19T16:00:15Z</dc:date>
+<dc:subject>manga</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/manga" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkgene.com/study-shows-male-homosexuality-can-be-explained-through-a-specific-model-of-darwinian-evolution/">
+<title>Study shows male homosexuality can be explained through a specific model of Darwinian evolution</title>
+<link>http://www.thinkgene.com/study-shows-male-homosexuality-can-be-explained-through-a-specific-model-of-darwinian-evolution/</link>
+<description>&#x26;quot; The findings suggest that the proportion of male homosexuals may signal a corresponding proportion of females with higher fecundity. Consequently, these factors always contribute, all else being equal, a positive net increase of the fecundity of the who</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-18T06:54:08Z</dc:date>
+<dc:subject>evolution homosexuality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/homosexuality" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2006/05/07/books/review/07stossell.html">
+<title>happiness: The Joy of Delusion</title>
+<link>http://www.nytimes.com/2006/05/07/books/review/07stossell.html</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-13T10:02:40Z</dc:date>
+<dc:subject>happyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/happyness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kuro5hin.org/story/2007/4/9/15347/58251">
+<title>Happiness is a mental illness || kuro5hin.org</title>
+<link>http://www.kuro5hin.org/story/2007/4/9/15347/58251</link>
+<description>&#x26;quot;happiness is a defence mechanism, one which allows us to selectively ignore certain negative aspects of one's life while simultaneously mentally augmenting the positive aspects. &#x26;quot;</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-13T10:01:51Z</dc:date>
+<dc:subject>happyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/happyness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.guardian.co.uk/departments/politicsphilosophyandsociety/story/0,,1823999,00.html">
+<title>Happiness is always a delusion | By genre | guardian.co.uk Books</title>
+<link>http://books.guardian.co.uk/departments/politicsphilosophyandsociety/story/0,,1823999,00.html</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-13T10:01:32Z</dc:date>
+<dc:subject>happyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/happyness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/mixingmemory/2006/11/nostalgia_what_when_and_why.php">
+<title>Nostalgia: What, When, and Why?</title>
+<link>http://scienceblogs.com/mixingmemory/2006/11/nostalgia_what_when_and_why.php</link>
+<description>&#x26;quot;it appears that nostalgia does serve a &#x26;quot;terror management function.&#x26;quot; That is, because it reduces negative affect and makes us feel better about ourselves and our position in the social world, it helps reduce existential anxiety.&#x26;quot;</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-13T08:08:59Z</dc:date>
+<dc:subject>nostalgia psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/nostalgia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenhome.huddler.com/wiki/frugal-beginners-guide-to-green">
+<title>Frugal Beginners Guide To Green</title>
+<link>http://greenhome.huddler.com/wiki/frugal-beginners-guide-to-green</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-12T07:12:41Z</dc:date>
+<dc:subject>green</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/green" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Components_0.9">
+<title>Foobar2000:Components 0.9 - Hydrogenaudio Knowledgebase</title>
+<link>http://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Components_0.9</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-12T05:47:48Z</dc:date>
+<dc:subject>foobar2000</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/foobar2000" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://festival.magnumphotos.com/60_years_2007.php">
+<title>Magnum Festival: Celebrating the Art of Documentary / 60 Years</title>
+<link>http://festival.magnumphotos.com/60_years_2007.php</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-11T15:02:57Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gayspecies.blogspot.com/2007/08/ethics-way-of-life.html">
+<title>Gay Species: Ethics: A Way of Life</title>
+<link>http://gayspecies.blogspot.com/2007/08/ethics-way-of-life.html</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-11T14:53:35Z</dc:date>
+<dc:subject>ethics philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ethics" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://business.timesonline.co.uk/tol/business/economics/article4022091.ece?print=yes&#x26;randnum=1212475411171">
+<title>Nassim Nicholas Taleb: the prophet of boom and doom</title>
+<link>http://business.timesonline.co.uk/tol/business/economics/article4022091.ece?print=yes&#x26;randnum=1212475411171</link>
+<description>and some top life tips....</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-09T08:11:46Z</dc:date>
+<dc:subject>skepticism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skepticism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marketwatch.com/news/story/eight-reasons-youll-rejoice-we/story.aspx?guid=%7B82FCE1B0-1889-43B0-A465-E29BFEE95576%7D">
+<title>Eight reasons you'll rejoice when we hit $8-a-gallon gasoline - MarketWatch</title>
+<link>http://www.marketwatch.com/news/story/eight-reasons-youll-rejoice-we/story.aspx?guid=%7B82FCE1B0-1889-43B0-A465-E29BFEE95576%7D</link>
+<description> Eight reasons higher prices will do us a world of good</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-06-01T06:40:09Z</dc:date>
+<dc:subject>energy market</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/market" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gayspecies.blogspot.com/2007/08/ethics-vs-morality-immense-divide.html">
+<title>Ethics vs. Morality: An Immense Divide</title>
+<link>http://gayspecies.blogspot.com/2007/08/ethics-vs-morality-immense-divide.html</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-31T09:43:53Z</dc:date>
+<dc:subject>ethics morality values</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ethics" />
+    <rdf:li resource="http://del.icio.us/tag/morality" />
+    <rdf:li resource="http://del.icio.us/tag/values" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=_Sxu0L2qaVg">
+<title>YouTube - Shaking Ray Levis &#x22;Show-boat Go-boat 1997&#x22;</title>
+<link>http://youtube.com/watch?v=_Sxu0L2qaVg</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-29T16:32:36Z</dc:date>
+<dc:subject>experimental_music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/experimental_music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=aOkw31ZFCBQ">
+<title>YouTube - Fred Frith - Chris Cutler- Tim Hodgkinson (@ The Stone)</title>
+<link>http://youtube.com/watch?v=aOkw31ZFCBQ</link>
+<description>&#x26;quot;waaa....hebatnya....&#x26;quot;</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-27T14:14:38Z</dc:date>
+<dc:subject>experimental_music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/experimental_music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=fPb--BzlEc0">
+<title>YouTube - Fred Frith/ Iva Bittov&#xE1;/ Pavel Fajt &#x22;Morning Song&#x22; (1989)</title>
+<link>http://youtube.com/watch?v=fPb--BzlEc0</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-27T13:50:31Z</dc:date>
+<dc:subject>experimental_music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/experimental_music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=yhgOZlRvZXs">
+<title>YouTube - Fred Frith &#x26; Evelyn Glennie - A Little Prayer (Glennie)</title>
+<link>http://youtube.com/watch?v=yhgOZlRvZXs</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-27T13:49:47Z</dc:date>
+<dc:subject>experimental_music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/experimental_music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=Y8klW9trVTQ">
+<title> throbbing gristle - discipline(video)</title>
+<link>http://youtube.com/watch?v=Y8klW9trVTQ</link>
+<description>ARGHHHHHHH !!!!!!!!!!!!!!</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-25T10:17:15Z</dc:date>
+<dc:subject>experimental_music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/experimental_music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.volokh.com/posts/1211577626.shtml">
+<title>Does Religious Belief Increase Happiness?</title>
+<link>http://www.volokh.com/posts/1211577626.shtml</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-24T11:17:05Z</dc:date>
+<dc:subject>happyness religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/happyness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imminst.org/archive/articles/engineering-end-aging">
+<title>Michael Anissimov : Engineering an End to Aging</title>
+<link>http://www.imminst.org/archive/articles/engineering-end-aging</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-24T11:16:16Z</dc:date>
+<dc:subject>immortal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/immortal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/being-human/dn13860-six-uniquely-human-t">
+<title>newscientist - Six 'uniquely' human traits now found in animals</title>
+<link>http://www.newscientist.com/channel/being-human/dn13860-six-uniquely-human-t</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-24T11:15:13Z</dc:date>
+<dc:subject>animal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/25/magazine/25wwln-essay-t.html?_r=2&#x26;oref=slogin&#x26;oref=slogin">
+<title>How Are Humans Unique?</title>
+<link>http://www.nytimes.com/2008/05/25/magazine/25wwln-essay-t.html?_r=2&#x26;oref=slogin&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-24T10:38:57Z</dc:date>
+<dc:subject>evo_anthropology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evo_anthropology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/notrocketscience/2008/05/feeling_powerless_impairs_higher_mental_abilities.php#c897607">
+<title>Feeling powerless impairs higher mental abilities</title>
+<link>http://scienceblogs.com/notrocketscience/2008/05/feeling_powerless_impairs_higher_mental_abilities.php#c897607</link>
+<description>&#x26;quot;The powerful retain power because of the improved mental processes that it brings about, while impairments in the same processes keep people without power on the bottom rung. These effects make hierarchies incredibly stable, and lead the powerless into w</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-24T09:42:48Z</dc:date>
+<dc:subject>hierarchies power soreciety</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/power" />
+    <rdf:li resource="http://del.icio.us/tag/hierarchies" />
+    <rdf:li resource="http://del.icio.us/tag/soreciety" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Existential_psychology">
+<title>Existential therapy - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Existential_psychology</link>
+<description>existential psychology</description>
+<dc:creator>cicakman</dc:creator>
+<dc:date>2008-05-23T14:09:22Z</dc:date>
+<dc:subject>existentialism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/existentialism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

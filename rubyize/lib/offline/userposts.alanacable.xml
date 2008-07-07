@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/alanacable">
+<title>del.icio.us/alanacable</title>
+<link>http://del.icio.us/alanacable</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://v3.planningwiz.com/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-benchmark1.html" />
+  <rdf:li rdf:resource="http://www.thexlab.com/faqs/maintscripts.html" />
+  <rdf:li rdf:resource="http://datastorm.sourceforge.net/motivation.html" />
+  <rdf:li rdf:resource="http://www.techcult.com/high-tech-pranks/" />
+  <rdf:li rdf:resource="http://database-programmer.blogspot.com/" />
+  <rdf:li rdf:resource="http://repairpal.com/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page/" />
+  <rdf:li rdf:resource="http://www.netfunny.com/rhf/jokes/new89/satan.773.html" />
+  <rdf:li rdf:resource="http://www.google.com/reader/view/#stream/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fajaxian" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/giovanisalvador/archive/2008/05/i_already_inter.html" />
+  <rdf:li rdf:resource="http://xkcd.com/349/" />
+  <rdf:li rdf:resource="http://xkcd.com/378/" />
+  <rdf:li rdf:resource="http://www.chicagotribune.com/features/lifestyle/green/sns-0514polarbears-pix,0,2593120.photogallery" />
+  <rdf:li rdf:resource="http://xkcd.com/327/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/20_web_development_tools/" />
+  <rdf:li rdf:resource="http://cobertura.sourceforge.net/" />
+  <rdf:li rdf:resource="http://code.google.com/docreader/#p(doctype)s(doctype)t(Welcome)" />
+  <rdf:li rdf:resource="http://www.positivityblog.com/index.php/2008/05/09/gandhis-top-10-fundamentals-for-changing-the-world/" />
+  <rdf:li rdf:resource="http://icant.co.uk/articles/pragmatic-progressive-enhancement/" />
+  <rdf:li rdf:resource="http://www.youtube.com/profile_videos?user=wyocoyote00" />
+  <rdf:li rdf:resource="http://www.cracked.com/article_16239_5-psychological-experiments-that-prove-humanity-doomed.html" />
+  <rdf:li rdf:resource="http://techdistrict.kirkk.com/2008/04/03/the-h-1b-fraud/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=TCbFEgFajGU" />
+  <rdf:li rdf:resource="http://www.jeffbots.com/twiki.wav" />
+  <rdf:li rdf:resource="http://www.galaxyfaraway.com/Sounds/chewy1.wav" />
+  <rdf:li rdf:resource="http://www.roesler-ac.de/wolfram/hello.htm#1C-Enterprise" />
+  <rdf:li rdf:resource="http://thedailywtf.com/Articles/Up-or-Out-Solving-the-IT-Turnover-Crisis.aspx" />
+  <rdf:li rdf:resource="http://www.ranum.com/security/computer_security/editorials/dumb/" />
+  <rdf:li rdf:resource="http://www.securiteam.com/securityreviews/5DP0N1P76E.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-07-06T00:20:10Z</dc:date>
+<dc:subject>java scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.planningwiz.com/">
+<title>PlanningWiz Online Room Planner Software for Furniture Retailers and Manufacturers, Building Contractors, Realtors and more</title>
+<link>http://v3.planningwiz.com/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-07-05T00:56:47Z</dc:date>
+<dc:subject>design floorplan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/floorplan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-benchmark1.html">
+<title>Robust Java benchmarking, Part 1: Issues</title>
+<link>http://www.ibm.com/developerworks/java/library/j-benchmark1.html</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-07-03T14:54:07Z</dc:date>
+<dc:subject>java performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thexlab.com/faqs/maintscripts.html">
+<title>Running Mac OS X Maintenance Scripts</title>
+<link>http://www.thexlab.com/faqs/maintscripts.html</link>
+<description>sudo periodic daily weekly monthly</description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-07-02T21:47:48Z</dc:date>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://datastorm.sourceforge.net/motivation.html">
+<title>Motivating the Data Storm, open source database browser for testing</title>
+<link>http://datastorm.sourceforge.net/motivation.html</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-23T18:06:34Z</dc:date>
+<dc:subject>database java testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcult.com/high-tech-pranks/">
+<title>The 25 Best High-Tech Pranks</title>
+<link>http://www.techcult.com/high-tech-pranks/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-18T00:24:54Z</dc:date>
+<dc:subject>humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://database-programmer.blogspot.com/">
+<title>The Database Programmer</title>
+<link>http://database-programmer.blogspot.com/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-16T14:59:26Z</dc:date>
+<dc:subject>database</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://repairpal.com/">
+<title>RepairPal</title>
+<link>http://repairpal.com/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-13T01:23:00Z</dc:date>
+<dc:subject>car</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/car" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page/">
+<title>15 Tools to Help You Develop Faster Web Pages - Six Revisions</title>
+<link>http://sixrevisions.com/tools/faster_web_page/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-13T01:19:58Z</dc:date>
+<dc:subject>ajax performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netfunny.com/rhf/jokes/new89/satan.773.html">
+<title>Godless devil-worshiping evil computers [rec.humor.funny]</title>
+<link>http://www.netfunny.com/rhf/jokes/new89/satan.773.html</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-06-04T00:52:01Z</dc:date>
+<dc:subject>humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/reader/view/#stream/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fajaxian">
+<title>Google Reader (216)</title>
+<link>http://www.google.com/reader/view/#stream/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fajaxian</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-27T18:32:42Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/giovanisalvador/archive/2008/05/i_already_inter.html">
+<title>Giovani Salvador's Blog: Java Architectural Knowledge for Job Interviews. Are we prepared?</title>
+<link>http://weblogs.java.net/blog/giovanisalvador/archive/2008/05/i_already_inter.html</link>
+<description>didate never asked how many transactions per minute, hour, etc, how many concurrent users, if it is a critical application. That dictates the architecture. We can't have silver bullet and it seems today most of the &#x26;quot;architects&#x26;quot; have silver bullets. And, e</description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-22T17:07:33Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/349/">
+<title>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</title>
+<link>http://xkcd.com/349/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-17T00:45:04Z</dc:date>
+<dc:subject>humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/378/">
+<title>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</title>
+<link>http://xkcd.com/378/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-17T00:38:37Z</dc:date>
+<dc:subject>humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chicagotribune.com/features/lifestyle/green/sns-0514polarbears-pix,0,2593120.photogallery">
+<title>Endangered: Polar bears -- -- chicagotribune.com</title>
+<link>http://www.chicagotribune.com/features/lifestyle/green/sns-0514polarbears-pix,0,2593120.photogallery</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-16T15:38:08Z</dc:date>
+<dc:subject>bears polar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/polar" />
+    <rdf:li resource="http://del.icio.us/tag/bears" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/327/">
+<title>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</title>
+<link>http://xkcd.com/327/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-15T21:30:06Z</dc:date>
+<dc:subject>humor xkcd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xkcd" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/20_web_development_tools/">
+<title>20 Useful Tools to Make Web Development More Efficient | Six Revisions</title>
+<link>http://sixrevisions.com/tools/20_web_development_tools/</link>
+<description>erything is a web-based application for multi-purpose testing, reducing the time it takes you to use online services and validators. Test Everything is an aggregate of over 100 tools reduced to just on</description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-15T20:26:25Z</dc:date>
+<dc:subject>CSS DOM ajax javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/DOM" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cobertura.sourceforge.net/">
+<title>Cobertura</title>
+<link>http://cobertura.sourceforge.net/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-15T15:53:16Z</dc:date>
+<dc:subject>coverage java programming testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/coverage" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/docreader/#p(doctype)s(doctype)t(Welcome)">
+<title>Welcome - doctype - Google Code</title>
+<link>http://code.google.com/docreader/#p(doctype)s(doctype)t(Welcome)</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-15T00:53:29Z</dc:date>
+<dc:subject>css javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.positivityblog.com/index.php/2008/05/09/gandhis-top-10-fundamentals-for-changing-the-world/">
+<title>Gandhi&#x2019;s Top 10 Fundamentals for Changing the World</title>
+<link>http://www.positivityblog.com/index.php/2008/05/09/gandhis-top-10-fundamentals-for-changing-the-world/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-14T22:40:09Z</dc:date>
+<dc:subject>gandhi inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gandhi" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://icant.co.uk/articles/pragmatic-progressive-enhancement/">
+<title>Pragmatic Progressive Enhancement</title>
+<link>http://icant.co.uk/articles/pragmatic-progressive-enhancement/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-08T00:41:17Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/profile_videos?user=wyocoyote00">
+<title>YouTube - wyocoyote00's Videos</title>
+<link>http://www.youtube.com/profile_videos?user=wyocoyote00</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-07T03:37:12Z</dc:date>
+<dc:subject>coyote</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coyote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/article_16239_5-psychological-experiments-that-prove-humanity-doomed.html">
+<title>5 Psychological Experiments That Prove Humanity is Doomed | Cracked.com</title>
+<link>http://www.cracked.com/article_16239_5-psychological-experiments-that-prove-humanity-doomed.html</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-07T03:14:36Z</dc:date>
+<dc:subject>humanity psychology science society</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/humanity" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techdistrict.kirkk.com/2008/04/03/the-h-1b-fraud/">
+<title>The H-1B Fraud : Software &#x26; Technology @kirkk.com</title>
+<link>http://techdistrict.kirkk.com/2008/04/03/the-h-1b-fraud/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-04T19:40:58Z</dc:date>
+<dc:subject>employment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=TCbFEgFajGU">
+<title>YouTube - PERM Fake Job Ads defraud Americans to secure green cards fo</title>
+<link>http://www.youtube.com/watch?v=TCbFEgFajGU</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-04T19:40:32Z</dc:date>
+<dc:subject>employment programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jeffbots.com/twiki.wav">
+<title>twiki.wav (audio/wav Object)</title>
+<link>http://www.jeffbots.com/twiki.wav</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-04T19:34:37Z</dc:date>
+<dc:subject>sounds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sounds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.galaxyfaraway.com/Sounds/chewy1.wav">
+<title>chewy1.wav (audio/x-wav Object)</title>
+<link>http://www.galaxyfaraway.com/Sounds/chewy1.wav</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-04T19:33:58Z</dc:date>
+<dc:subject>sounds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sounds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roesler-ac.de/wolfram/hello.htm#1C-Enterprise">
+<title>The Hello World Collection</title>
+<link>http://www.roesler-ac.de/wolfram/hello.htm#1C-Enterprise</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-05-04T15:01:54Z</dc:date>
+<dc:subject>humor programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thedailywtf.com/Articles/Up-or-Out-Solving-the-IT-Turnover-Crisis.aspx">
+<title>Up or Out: Solving the IT Turnover Crisis - The Daily WTF</title>
+<link>http://thedailywtf.com/Articles/Up-or-Out-Solving-the-IT-Turnover-Crisis.aspx</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-04-30T01:34:06Z</dc:date>
+<dc:subject>IT career employment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ranum.com/security/computer_security/editorials/dumb/">
+<title>The Six Dumbest Ideas in Computer Security</title>
+<link>http://www.ranum.com/security/computer_security/editorials/dumb/</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-04-19T01:35:34Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.securiteam.com/securityreviews/5DP0N1P76E.html">
+<title>SecuriTeam&#x2122; - SQL Injection Walkthrough</title>
+<link>http://www.securiteam.com/securityreviews/5DP0N1P76E.html</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-04-18T19:31:59Z</dc:date>
+<dc:subject>security sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

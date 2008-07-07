@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/creativeict">
+<title>del.icio.us/creativeict</title>
+<link>http://del.icio.us/creativeict</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.imaginationcubed.com/" />
+  <rdf:li rdf:resource="http://comiqs.com/" />
+  <rdf:li rdf:resource="http://fantasy.tour-de-france.eurosport.com/" />
+  <rdf:li rdf:resource="http://digitalhymn.com/argilla/tipmage/" />
+  <rdf:li rdf:resource="http://primary.naace.co.uk/activities/BigBookMaker/index.htm" />
+  <rdf:li rdf:resource="http://www.splashr.com/" />
+  <rdf:li rdf:resource="http://www.compfight.com/" />
+  <rdf:li rdf:resource="http://johnjohnston.name/flickrCC/" />
+  <rdf:li rdf:resource="http://www.zoo-m.com/flickr-storm/" />
+  <rdf:li rdf:resource="http://flickrcc.bluemountains.net/" />
+  <rdf:li rdf:resource="http://learninginhand.com/podcasting/booklet.html" />
+  <rdf:li rdf:resource="http://edu.blogs.com/edublogs/2008/06/why-would-you-u.html?cid=120680244#comment-120680244" />
+  <rdf:li rdf:resource="http://eu.spore.com/whatisspore/creaturecreator.cfm" />
+  <rdf:li rdf:resource="http://flipvideo.co.uk/ultra.php" />
+  <rdf:li rdf:resource="http://www.commoncraft.com/podcasting" />
+  <rdf:li rdf:resource="https://buzzword.acrobat.com/#o" />
+  <rdf:li rdf:resource="http://www.adobe.com/acom/connectnow/" />
+  <rdf:li rdf:resource="http://www.mathtrain.tv/" />
+  <rdf:li rdf:resource="http://www.itass.newham.gov.uk/curriculum/sow.aspx" />
+  <rdf:li rdf:resource="http://wordle.net/gallery/00797/ict" />
+  <rdf:li rdf:resource="http://www.mystudiyo.com/" />
+  <rdf:li rdf:resource="http://www.shineweek.co.uk/" />
+  <rdf:li rdf:resource="http://issuu.com/" />
+  <rdf:li rdf:resource="http://www.pimpampum.net/bookr/" />
+  <rdf:li rdf:resource="http://zattoo.com/" />
+  <rdf:li rdf:resource="http://www.befunky.com/" />
+  <rdf:li rdf:resource="http://www.learningclip.co.uk/index.aspx" />
+  <rdf:li rdf:resource="http://www.dipity.com/" />
+  <rdf:li rdf:resource="http://www.freesound.org/" />
+  <rdf:li rdf:resource="http://lingro.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>http://educationalsoftware.wikispaces.com/Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description>Superb wiki page all about the educational uses of Flickr. PDF download, lots of links and Flickr resources</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-06T10:27:13Z</dc:date>
+<dc:subject>ICT Tools images web2.0 wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imaginationcubed.com/">
+<title>Imagination Cubed</title>
+<link>http://www.imaginationcubed.com/</link>
+<description>Great sketch and drawing tool. Will be superb on a whiteboard. Replays your drawing as flash animation.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-05T16:26:37Z</dc:date>
+<dc:subject>art tools whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://comiqs.com/">
+<title>Comiqs | Create &#x26; Share your Comic Stories</title>
+<link>http://comiqs.com/</link>
+<description>Brilliant online comic creator. Add photos or pics, add speech bubble, thought bubbles etc and publish. Embed in a blog. Displays page by page as a slideshow presentation,. Really cool.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-04T20:11:05Z</dc:date>
+<dc:subject>Tools art creativity digitalstorytelling images presentation publishing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fantasy.tour-de-france.eurosport.com/">
+<title>Eurosport Fantasy Tour de France</title>
+<link>http://fantasy.tour-de-france.eurosport.com/</link>
+<description>Fantasy Tour de France League</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-03T22:11:42Z</dc:date>
+<dc:subject>cycling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digitalhymn.com/argilla/tipmage/">
+<title>argilla: Tipmage</title>
+<link>http://digitalhymn.com/argilla/tipmage/</link>
+<description>Add tooltips (when your mouse hovers over part of an image it displays a small information box) to images. Great to put a big image on a webpage and then allow readers to discover the tooltips.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-02T20:24:37Z</dc:date>
+<dc:subject>images tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://primary.naace.co.uk/activities/BigBookMaker/index.htm">
+<title>Naace Big Book Maker</title>
+<link>http://primary.naace.co.uk/activities/BigBookMaker/index.htm</link>
+<description>Online Big Book Maker from Naace. Only works with .txt files.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-02T20:20:15Z</dc:date>
+<dc:subject>Tools literacy publishing whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.splashr.com/">
+<title>Splashr</title>
+<link>http://www.splashr.com/</link>
+<description>Really cool presentation tool using Flickr. Add a tag or a user id and search for a set of photos, then choose one of the standard slideshows to present. So many lesson possibilities.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-02T15:05:29Z</dc:date>
+<dc:subject>images presentation tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.compfight.com/">
+<title>compfight / a flickr&#x2122; search tool</title>
+<link>http://www.compfight.com/</link>
+<description></description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-01T19:18:06Z</dc:date>
+<dc:subject>creativecommons images web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://johnjohnston.name/flickrCC/">
+<title>http://johnjohnston.name/flickrCC/</title>
+<link>http://johnjohnston.name/flickrCC/</link>
+<description>Experimental Creative Commons search that gives you the code to embed in a blog</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-01T19:17:23Z</dc:date>
+<dc:subject>creativecommons images web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zoo-m.com/flickr-storm/">
+<title>FlickrStorm. Search on Flickr with some Magic</title>
+<link>http://www.zoo-m.com/flickr-storm/</link>
+<description>Creative Commons image search</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-01T19:16:07Z</dc:date>
+<dc:subject>creativecommons images web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickrcc.bluemountains.net/">
+<title>flickrCC</title>
+<link>http://flickrcc.bluemountains.net/</link>
+<description>Creative Commons image search</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-07-01T19:12:59Z</dc:date>
+<dc:subject>creativecommons images web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://learninginhand.com/podcasting/booklet.html">
+<title>learninginhand.com - Podcasting for Teachers &#x26; Students Booklet</title>
+<link>http://learninginhand.com/podcasting/booklet.html</link>
+<description>Useful booklet on Podcasting - free download covering all the major pieces of software and techniques.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-30T20:20:03Z</dc:date>
+<dc:subject>podcasts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edu.blogs.com/edublogs/2008/06/why-would-you-u.html?cid=120680244#comment-120680244">
+<title>edublogs: Why would you use words on the screen when they do just fine in your mouth?</title>
+<link>http://edu.blogs.com/edublogs/2008/06/why-would-you-u.html?cid=120680244#comment-120680244</link>
+<description>Great post to make you think about the next time you get your class to make a PowerPoint.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-30T19:38:31Z</dc:date>
+<dc:subject>powerpoint presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eu.spore.com/whatisspore/creaturecreator.cfm">
+<title>Spore&#x2122;</title>
+<link>http://eu.spore.com/whatisspore/creaturecreator.cfm</link>
+<description>Creature creator- requires a program to download and install. There's a free edition and a purchase edition with loads more body parts. Mmm, nice...</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-26T07:29:09Z</dc:date>
+<dc:subject>creativity games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flipvideo.co.uk/ultra.php">
+<title>FlipVideo UK</title>
+<link>http://flipvideo.co.uk/ultra.php</link>
+<description>The death of digi blue? One of this year's must have gadgets.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-23T18:51:27Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.commoncraft.com/podcasting">
+<title>Video: Podcasting in Plain English | Common Craft - Explanations In Plain English</title>
+<link>http://www.commoncraft.com/podcasting</link>
+<description>One of those fab &#x26;quot;In Plain English&#x26;quot; videos, this one explaining podcasting.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-22T09:17:13Z</dc:date>
+<dc:subject>education podcasts web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://buzzword.acrobat.com/#o">
+<title>Buzzword</title>
+<link>https://buzzword.acrobat.com/#o</link>
+<description>Very slick online flashbased wordprocessor. I suspect children will find it more intuitive to use than GoogleApps, but is only a wordprocessor, no spreadsheet, presenter etc. Good first step into online collaboraton? Post your homework here!</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-22T08:16:46Z</dc:date>
+<dc:subject>googleapps school tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googleapps" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adobe.com/acom/connectnow/">
+<title>Adobe ConnectNow web conferencing from Acrobat.com</title>
+<link>http://www.adobe.com/acom/connectnow/</link>
+<description>Very slick video meeting tool with VOIP, whiteboard, screenshare, fileshare, chat, remote control and more. Will it get through school's firewall? Major shortcoming is it only supports a max of 3 users in th free version. Pro version is v expensive.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-22T08:13:57Z</dc:date>
+<dc:subject>conferencing tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conferencing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathtrain.tv/">
+<title>Mathtrain.TV</title>
+<link>http://www.mathtrain.tv/</link>
+<description>A site consisting solely of maths videos, some student made, some teacher made. Youtube for maths teachers.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-21T11:49:18Z</dc:date>
+<dc:subject>Maths video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Maths" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itass.newham.gov.uk/curriculum/sow.aspx">
+<title>ITASS ICT Scheme Of Work</title>
+<link>http://www.itass.newham.gov.uk/curriculum/sow.aspx</link>
+<description>London Borough of Newham are developing a scheme of work for ICT as an up-to-date alternative to the QCA</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-21T11:29:36Z</dc:date>
+<dc:subject>ICT resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/gallery/00797/ict">
+<title>Wordle - ict</title>
+<link>http://wordle.net/gallery/00797/ict</link>
+<description>Add text, play with fonts, colours and layout - true wordart.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-19T21:22:36Z</dc:date>
+<dc:subject>art images literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mystudiyo.com/">
+<title>MyStudiyo Quizzes - Create a quiz and embed it on your website or blog in just minutes!</title>
+<link>http://www.mystudiyo.com/</link>
+<description>This is a really cool tool to create quizzes from embedding in your blog</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-19T11:45:06Z</dc:date>
+<dc:subject>blogging tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shineweek.co.uk/">
+<title>Shine - the Nationals Schools Festival celebrating the talent in everyone</title>
+<link>http://www.shineweek.co.uk/</link>
+<description>Website showcasing creative talent - you get a free webpage to upload examples of your school's creativity</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-18T21:27:44Z</dc:date>
+<dc:subject>creativity education ict school</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://issuu.com/">
+<title>Issuu - You Publish</title>
+<link>http://issuu.com/</link>
+<description>Make your own e-books. Very slick online embedable e-book creator. Only shortcoming is that it only imports pdf files so you need to have a pdf converter to use it effectively in school</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-18T14:03:14Z</dc:date>
+<dc:subject>literacy web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pimpampum.net/bookr/">
+<title>bookr :: pimpampum</title>
+<link>http://www.pimpampum.net/bookr/</link>
+<description>Make embedable e-books for your blog using Flickr photos. Very simple to use, but you must have access to Flickr to use it</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-18T14:00:19Z</dc:date>
+<dc:subject>images literacy web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zattoo.com/">
+<title>Zattoo | TV meets PC</title>
+<link>http://zattoo.com/</link>
+<description>Digital TV on your PC without the need for a TV card or aerial. Fantastic service - simply download the client and register. Want TV on your whiteboard: look no further. Only thing you need to worry about is the minimum system requirements for your PC</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-18T11:59:18Z</dc:date>
+<dc:subject>tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.befunky.com/">
+<title>Funky Ways to Express Yourself - BeFunky</title>
+<link>http://www.befunky.com/</link>
+<description>Turn a photo into a cartoon: Neat!</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-16T21:22:27Z</dc:date>
+<dc:subject>animation art images resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learningclip.co.uk/index.aspx">
+<title>Learning Clip - Free resources Renewed Framework Y3 maths</title>
+<link>http://www.learningclip.co.uk/index.aspx</link>
+<description>A set of free resources for the Y3 maths framework</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-16T07:56:45Z</dc:date>
+<dc:subject>maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dipity.com/">
+<title>Dipity - easy and embedable timelines</title>
+<link>http://www.dipity.com/</link>
+<description>Easy to use timeline creator that's extremely simple to embed in your Wordpress blog.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-12T21:00:22Z</dc:date>
+<dc:subject>blogging history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freesound.org/">
+<title>freesound :: home page</title>
+<link>http://www.freesound.org/</link>
+<description></description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-12T07:04:17Z</dc:date>
+<dc:subject>audio music podcasts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lingro.com/">
+<title>lingro: The coolest dictionary known to hombre!</title>
+<link>http://lingro.com/</link>
+<description>Not a linguist, but this online dictionary looks very cool indeed.</description>
+<dc:creator>creativeict</dc:creator>
+<dc:date>2008-06-11T20:10:51Z</dc:date>
+<dc:subject>MFL web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MFL" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

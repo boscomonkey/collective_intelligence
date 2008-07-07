@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/adhavan87">
+<title>del.icio.us/adhavan87</title>
+<link>http://del.icio.us/adhavan87</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/" />
+  <rdf:li rdf:resource="http://www.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=199;dataMax=42642$map_y;scale=lin;dataMin=25;dataMax=84$map_s;sma=49;smi=2.65$cd;bd=0$inds=i101_t002006,,,," />
+  <rdf:li rdf:resource="http://www.nbc10.com/automotive/16762793/detail.html" />
+  <rdf:li rdf:resource="http://sweety900.rediffiland.com/blogs/2008/06/19/hello-read-this-its-niceTo-All-M.html" />
+  <rdf:li rdf:resource="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html" />
+  <rdf:li rdf:resource="http://greenupgrader.com/2340/there-is-energy-offshore-not-oil-grampa-tidal-power/" />
+  <rdf:li rdf:resource="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://www.mac.com/WebObjects/iCards.woa" />
+  <rdf:li rdf:resource="https://www.dexrex.com/" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/832998" />
+  <rdf:li rdf:resource="http://thepiratebay.org/tor/3921984/Donnie_Brasco_(1997)_-_Al_Pacino__Johnny_Depp_(DVDrip)" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/1552035" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/1338438" />
+  <rdf:li rdf:resource="http://thepiratebay.org/tor/3917951/The.Station.Agent%5B2003%5DDvDrip%5BEng%5D" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/how-to-resolve-conflicts-in-your-relationships/" />
+  <rdf:li rdf:resource="http://www.rd.com/living-healthy/turn-conflicts-into-problem-solving-14-secrets/article31598.html" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/" />
+  <rdf:li rdf:resource="http://melloware.com/products/placesbarv1/" />
+  <rdf:li rdf:resource="http://delicious.e-accent.com/" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/926265" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/880695" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/1316398" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/439976" />
+  <rdf:li rdf:resource="http://us.imdb.com/title/tt0377091/" />
+  <rdf:li rdf:resource="http://thepiratebay.org/tor/3832675/Matchstick_Men_2003_DVDRip_XviD_AR" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/495723" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/1167514" />
+  <rdf:li rdf:resource="http://www.mininova.org/tor/1016656" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-06T05:14:55Z</dc:date>
+<dc:subject>articles entropy physics science space time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/">
+<title>HairStyles that my Mom won&#x2019;t approve &#xAB; Omg OWNED!!$#%$$@! =p</title>
+<link>http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-06T05:09:46Z</dc:date>
+<dc:subject>funny humor images interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=199;dataMax=42642$map_y;scale=lin;dataMin=25;dataMax=84$map_s;sma=49;smi=2.65$cd;bd=0$inds=i101_t002006,,,,">
+<title>Gapminder World</title>
+<link>http://www.gapminder.org/world/#$majorMode=chart$is;shi=t;ly=2003;lb=f;il=t;fs=11;al=30;stl=t;st=t;nsl=t;se=t$wst;tts=C$ts;sp=6;ti=2006$zpv;v=1$inc_x;mmid=XCOORDS;iid=phAwcNAVuyj1jiMAkmq1iMg;by=ind$inc_y;mmid=YCOORDS;iid=phAwcNAVuyj2tPLxKvvnNPA;by=ind$inc_s;uniValue=8.21;iid=phAwcNAVuyj0XOoBL_n5tAQ;by=ind$inc_c;uniValue=255;gid=CATID0;by=grp$map_x;scale=log;dataMin=199;dataMax=42642$map_y;scale=lin;dataMin=25;dataMax=84$map_s;sma=49;smi=2.65$cd;bd=0$inds=i101_t002006,,,,</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-06T05:02:50Z</dc:date>
+<dc:subject>stats world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/world" />
+    <rdf:li resource="http://del.icio.us/tag/stats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nbc10.com/automotive/16762793/detail.html">
+<title>2-Hour Charge Gets 150 Miles In Electric Car - Automotive News Story - WCAU | Philadelphia</title>
+<link>http://www.nbc10.com/automotive/16762793/detail.html</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-06T04:57:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://sweety900.rediffiland.com/blogs/2008/06/19/hello-read-this-its-niceTo-All-M.html">
+<title>Untitled::sweety in Bangalore : Blogs blog at Rediff iLand</title>
+<link>http://sweety900.rediffiland.com/blogs/2008/06/19/hello-read-this-its-niceTo-All-M.html</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-05T14:57:29Z</dc:date>
+<dc:subject>marriage relationships story</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marriage" />
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html">
+<title>PC World - How to Build a Blog With WordPress</title>
+<link>http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-05T04:37:36Z</dc:date>
+<dc:subject>blog blogging tutorial webdesign wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenupgrader.com/2340/there-is-energy-offshore-not-oil-grampa-tidal-power/">
+<title>There is Energy Offshore, Not Oil Grampa, Tidal Power | at greenUPGRADER.com you'll find eco-friendly products &#x26; ideas to help you live a more sustainable life...</title>
+<link>http://greenupgrader.com/2340/there-is-energy-offshore-not-oil-grampa-tidal-power/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-04T13:36:27Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/">
+<title>What Happens To Your Body If You Drink A Coke Right Now?</title>
+<link>http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-04T03:18:04Z</dc:date>
+<dc:subject>caffeine coke health interesting soda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soda" />
+    <rdf:li resource="http://del.icio.us/tag/caffeine" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/coke" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - send notes that will self-destruct after being read</title>
+<link>https://privnote.com/</link>
+<description>Privnote is a web tool that you can use to send private notes over the Internet</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-03T08:13:48Z</dc:date>
+<dc:subject>email notes privacy web2.0 webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-02T11:29:36Z</dc:date>
+<dc:subject>articles confidence happiness lifehacks psychology selfimprovement shyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+    <rdf:li resource="http://del.icio.us/tag/selfimprovement" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/confidence" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mac.com/WebObjects/iCards.woa">
+<title>Apple - iCards</title>
+<link>http://www.mac.com/WebObjects/iCards.woa</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-07-01T07:26:46Z</dc:date>
+<dc:subject>apple ecards free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecards" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.dexrex.com/">
+<title>Dexrex - Home</title>
+<link>https://www.dexrex.com/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-30T05:46:23Z</dc:date>
+<dc:subject>backup chat im</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/832998">
+<title>The Untouchables 1987 DVDRip Eng XviD-BTSFilms : Movies &#x3E; Action - Mininova</title>
+<link>http://www.mininova.org/tor/832998</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-30T05:41:31Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thepiratebay.org/tor/3921984/Donnie_Brasco_(1997)_-_Al_Pacino__Johnny_Depp_(DVDrip)">
+<title>Donnie Brasco (1997) - Al Pacino, Johnny Depp (DVDrip) (download torrent) - TPB</title>
+<link>http://thepiratebay.org/tor/3921984/Donnie_Brasco_(1997)_-_Al_Pacino__Johnny_Depp_(DVDrip)</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-30T05:39:25Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/1552035">
+<title>The Bank Job [2008-BDRip-H.264]-NewArtRiot : Movies &#x3E; Action - Mininova</title>
+<link>http://www.mininova.org/tor/1552035</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-30T04:15:06Z</dc:date>
+<dc:subject>todownload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/1338438">
+<title>The Insider (1999)(Al Pacino-Russell Crowe) XviD by Rod : Movies &#x3E; Drama - Mininova</title>
+<link>http://www.mininova.org/tor/1338438</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-29T16:36:29Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thepiratebay.org/tor/3917951/The.Station.Agent%5B2003%5DDvDrip%5BEng%5D">
+<title>The.Station.Agent[2003]DvDrip[Eng] (download torrent) - TPB</title>
+<link>http://thepiratebay.org/tor/3917951/The.Station.Agent%5B2003%5DDvDrip%5BEng%5D</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-29T16:32:15Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/how-to-resolve-conflicts-in-your-relationships/">
+<title>How to Resolve Conflicts in Your Relationships | PickTheBrain | Motivation and Self Improvement</title>
+<link>http://www.pickthebrain.com/blog/how-to-resolve-conflicts-in-your-relationships/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-28T16:05:52Z</dc:date>
+<dc:subject>communication conflict lifehacks psychology relationships self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/conflict" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/living-healthy/turn-conflicts-into-problem-solving-14-secrets/article31598.html">
+<title>Turn Conflicts Into Problem Solving: 14 Secrets: Constructive Problem-Solving | Living Healthy | Reader's Digest</title>
+<link>http://www.rd.com/living-healthy/turn-conflicts-into-problem-solving-14-secrets/article31598.html</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-28T16:00:58Z</dc:date>
+<dc:subject>advice communication lifehacks relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/">
+<title>The Simple Dollar &#xBB; How To Write an Effective Thank You Note for Any Occasion</title>
+<link>http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-28T15:55:19Z</dc:date>
+<dc:subject>advice communication etiquette howto lifehacks thankyou tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/thankyou" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/etiquette" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://melloware.com/products/placesbarv1/">
+<title>Places Bar Editor 1.0</title>
+<link>http://melloware.com/products/placesbarv1/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-28T09:43:37Z</dc:date>
+<dc:subject>freeware places software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/places" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://delicious.e-accent.com/">
+<title>Import your del.icio.us bookmarks into Firefox 3 and retain the tags</title>
+<link>http://delicious.e-accent.com/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-28T04:23:01Z</dc:date>
+<dc:subject>bookmarks delicious firefox tags</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/tags" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/926265">
+<title>Shanghai Kiss 2007 DVDRip XviD-VoMiT { www IPTorrents com } : Movies &#x3E; Romance - Mininova</title>
+<link>http://www.mininova.org/tor/926265</link>
+<description>http://us.imdb.com/title/tt0469184/</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T08:25:24Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/880695">
+<title>Secretary[Eng]Dvdrip Dino avi : Movies &#x3E; Drama - Mininova</title>
+<link>http://www.mininova.org/tor/880695</link>
+<description>http://us.imdb.com/title/tt0274812/</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T08:22:30Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/1316398">
+<title>A Scanner Darkly KLAXXON : Movies &#x3E; Fantasy - Mininova</title>
+<link>http://www.mininova.org/tor/1316398</link>
+<description>http://us.imdb.com/title/tt0405296/</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T08:20:14Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/439976">
+<title>Runaway.Jury[2003]DVDrip[ENG]-archaic : Movies &#x3E; Drama - Mininova</title>
+<link>http://www.mininova.org/tor/439976</link>
+<description>http://us.imdb.com/title/tt0313542/ [7.1/10] [77%]</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T08:17:17Z</dc:date>
+<dc:subject>todownload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://us.imdb.com/title/tt0377091/">
+<title>Mean Creek (2004)</title>
+<link>http://us.imdb.com/title/tt0377091/</link>
+<description></description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T07:47:24Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thepiratebay.org/tor/3832675/Matchstick_Men_2003_DVDRip_XviD_AR">
+<title>Matchstick Men 2003 DVDRip XviD AR (download torrent) - TPB</title>
+<link>http://thepiratebay.org/tor/3832675/Matchstick_Men_2003_DVDRip_XviD_AR</link>
+<description>http://us.imdb.com/title/tt0325805/[7.4/10]</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T07:45:51Z</dc:date>
+<dc:subject>todownload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/495723">
+<title>Joshua Marston - Maria Full of Grace (2004)-oscar nominated : Movies &#x3E; Thriller - Mininova</title>
+<link>http://www.mininova.org/tor/495723</link>
+<description>http://us.imdb.com/title/tt0390221/ [7.7/10]</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T07:44:05Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/1167514">
+<title>Happy Accidents (2000) - Vincent D'Onofrio &#x26; Marisa Tomei : Movies &#x3E; Comedy - Mininova</title>
+<link>http://www.mininova.org/tor/1167514</link>
+<description>http://www.imdb.com/title/tt0208196/</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T07:33:23Z</dc:date>
+<dc:subject>todownload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/tor/1016656">
+<title>Frequency[2000][English][DVDRip][Sundance] avi : Movies &#x3E; Action - Mininova</title>
+<link>http://www.mininova.org/tor/1016656</link>
+<description>http://us.imdb.com/title/tt0186151/ [7.3/10]</description>
+<dc:creator>adhavan87</dc:creator>
+<dc:date>2008-06-27T07:30:31Z</dc:date>
+<dc:subject>todownloadm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todownloadm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

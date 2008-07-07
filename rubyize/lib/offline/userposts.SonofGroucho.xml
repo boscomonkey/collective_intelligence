@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sonofgroucho">
+<title>del.icio.us/sonofgroucho</title>
+<link>http://del.icio.us/sonofgroucho</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Alanis_Morissette#Personal_life" />
+  <rdf:li rdf:resource="http://themorningnews.org/archives/galleries/" />
+  <rdf:li rdf:resource="http://www.economist.com/displayStory.cfm?source=hptextfeature&#x26;story_id=11664289" />
+  <rdf:li rdf:resource="http://www.economist.com/" />
+  <rdf:li rdf:resource="http://www.photoshoplady.com/" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/1/hi/business/7481927.stm" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/" />
+  <rdf:li rdf:resource="http://www.magnigraph.com/" />
+  <rdf:li rdf:resource="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/" />
+  <rdf:li rdf:resource="http://tinysong.com/" />
+  <rdf:li rdf:resource="http://delicious.e-accent.com/" />
+  <rdf:li rdf:resource="http://www.jogli.com/#home" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html" />
+  <rdf:li rdf:resource="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Trace-an-Image-Using-Photoshop" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/26/firefox-3-extensions/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/creativity/connect-with-your-creative-writer/" />
+  <rdf:li rdf:resource="http://cgi.ebay.com.my/ws/eBayISAPI.dll?ViewItem&#x26;item=350071007615&#x26;indexURL=" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Tips_for_Better_Blogging" />
+  <rdf:li rdf:resource="http://v3.planningwiz.com/" />
+  <rdf:li rdf:resource="http://natureandwildlifephotography.blogspot.com/" />
+  <rdf:li rdf:resource="http://wideeyecinema.com/?p=105" />
+  <rdf:li rdf:resource="http://theonlinephotographer.typepad.com/the_online_photographer/2008/03/you-cant-pictur.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>Stuff about time, entropy etc.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-06T11:49:49Z</dc:date>
+<dc:subject>interview physics science space thermodynamics time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/thermodynamics" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description>Chart of subatomic particles.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-06T11:47:54Z</dc:date>
+<dc:subject>chart chemistry image physics poster resource science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description>White noise generator.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T21:19:34Z</dc:date>
+<dc:subject>generator health lifehack meditation music noise service sleep useful webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meditation" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/noise" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/">
+<title>Create an Inspirational Vector Political Poster</title>
+<link>http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/</link>
+<description>Creating a political poster in Photoshop.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T21:16:29Z</dc:date>
+<dc:subject>adobe art design graphics howto photography photography_software photoshop portrait poster technique tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photography_software" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/portrait" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description>Howto sites.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T15:29:19Z</dc:date>
+<dc:subject>bestof howto learning lifehack list personal_development productivity reference resource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/personal_development" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>  30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description>Paper backgrounds and textures.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T15:26:57Z</dc:date>
+<dc:subject>art design graphics photography photoshop resource texture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/texture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Alanis_Morissette#Personal_life">
+<title>Alanis Morissette - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Alanis_Morissette#Personal_life</link>
+<description>Alanis on Wikipedia.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T07:41:34Z</dc:date>
+<dc:subject>female music popular wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/popular" />
+    <rdf:li resource="http://del.icio.us/tag/female" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://themorningnews.org/archives/galleries/">
+<title>Galleries - The Morning News</title>
+<link>http://themorningnews.org/archives/galleries/</link>
+<description>Photo galleries on various subjects, some with text.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-05T05:52:57Z</dc:date>
+<dc:subject>art gallery interesting news photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/displayStory.cfm?source=hptextfeature&#x26;story_id=11664289">
+<title>Who runs the world? | Wrestling for influence | Economist.com</title>
+<link>http://www.economist.com/displayStory.cfm?source=hptextfeature&#x26;story_id=11664289</link>
+<description>Changes in the World Balance of Power.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-04T21:06:19Z</dc:date>
+<dc:subject>article economics international politics power world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/power" />
+    <rdf:li resource="http://del.icio.us/tag/international" />
+    <rdf:li resource="http://del.icio.us/tag/world" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/">
+<title>Economist.com</title>
+<link>http://www.economist.com/</link>
+<description>Site of The Economist.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-04T21:06:19Z</dc:date>
+<dc:subject>business culture economics finance international magazine news politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/international" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshoplady.com/">
+<title>Photoshop Lady : Best Photoshop Tutorials Around the World</title>
+<link>http://www.photoshoplady.com/</link>
+<description>Collection of Photoshop tutorials.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-02T05:58:29Z</dc:date>
+<dc:subject>aggregator art bestof howto photography photography_software photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photography_software" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/1/hi/business/7481927.stm">
+<title>BBC NEWS | Business | UK life costs 'at least &#xA3;13,400'</title>
+<link>http://news.bbc.co.uk/1/hi/business/7481927.stm</link>
+<description>Article about what people regard minimum annual income to be.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-02T05:39:51Z</dc:date>
+<dc:subject>finance money poverty society uk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/society" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/poverty" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/">
+<title>How to Reduce Camera Shake - 6 Techniques</title>
+<link>http://digital-photography-school.com/blog/how-to-avoid-camera-shake/</link>
+<description>Techniques for avoiding camera shake.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-01T14:09:20Z</dc:date>
+<dc:subject>article howto photography technique tip tutorial useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+    <rdf:li resource="http://del.icio.us/tag/tip" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magnigraph.com/">
+<title>magnigraph.com - scalable vector graphics</title>
+<link>http://www.magnigraph.com/</link>
+<description>Site that creates scalable vector graphic from your picture.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-07-01T14:07:38Z</dc:date>
+<dc:subject>art conversion design editing fun generator graphics image photography vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/editing" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/">
+<title>Top 10 3D Graffiti Artists in the World | WebUrbanist</title>
+<link>http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/</link>
+<description>Amazing 3D graffiti.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-30T15:02:07Z</dc:date>
+<dc:subject>art design drawing graffiti interesting painting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graffiti" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/painting" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/">
+<title>9 Steps to Achieving Flow (and Happiness) in Your Work | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/</link>
+<description>Achieving flow at work.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-30T06:26:20Z</dc:date>
+<dc:subject>article career creativity happiness howto personal_development productivity psychology work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/personal_development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tinysong.com/">
+<title>TinySong | Type in a song and make a free music link to share music with friends</title>
+<link>http://tinysong.com/</link>
+<description>Creates a link to a song for e-mailing etc.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-30T06:24:02Z</dc:date>
+<dc:subject>audio free link mp3 music search sharing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/link" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://delicious.e-accent.com/">
+<title>Import your del.icio.us bookmarks into Firefox 3 and retain the tags</title>
+<link>http://delicious.e-accent.com/</link>
+<description>Webapp for importing del.icio.us bookmarks into Firefox 3.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-27T22:58:38Z</dc:date>
+<dc:subject>bookmarks browser del.icio.us firefox service webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jogli.com/#home">
+<title>Jogli</title>
+<link>http://www.jogli.com/#home</link>
+<description>Music searching site: looks interesting.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-27T15:59:50Z</dc:date>
+<dc:subject>music search song streaming video web2.0 youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/song" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html">
+<title>Top 10 TED Talks - Boing Boing</title>
+<link>http://www.boingboing.net/2008/06/26/top-10-ted-talks.html</link>
+<description>The Best of TED?</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-27T15:49:51Z</dc:date>
+<dc:subject>bestof communication favourite lecture list talk ted video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+    <rdf:li resource="http://del.icio.us/tag/talk" />
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+    <rdf:li resource="http://del.icio.us/tag/favourite" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html">
+<title>Cool Stuff | Cool Pictures | Cool Things: 10 Very Rare Clouds</title>
+<link>http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html</link>
+<description>Bizarre clouds.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T21:46:11Z</dc:date>
+<dc:subject>cloud nature photography weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Trace-an-Image-Using-Photoshop">
+<title>How to Trace an Image Using Photoshop</title>
+<link>http://www.wikihow.com/Trace-an-Image-Using-Photoshop</link>
+<description>Tracing with Photoshop.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T21:45:10Z</dc:date>
+<dc:subject>art drawing graphics howto image photography photography_software photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photography_software" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/26/firefox-3-extensions/">
+<title>30+ Must-Have Updated Firefox 3 Extensions</title>
+<link>http://mashable.com/2008/06/26/firefox-3-extensions/</link>
+<description>Extensions that work with Firefox 3.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T21:43:31Z</dc:date>
+<dc:subject>add-on bestof browser extension firefox interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/add-on" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/creativity/connect-with-your-creative-writer/">
+<title>Connect with Your Creative Writer | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/creativity/connect-with-your-creative-writer/</link>
+<description>Stuff on creative writing.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T21:41:49Z</dc:date>
+<dc:subject>advice blogging creativity inspiration personal_development productivity psychology writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/personal_development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cgi.ebay.com.my/ws/eBayISAPI.dll?ViewItem&#x26;item=350071007615&#x26;indexURL=">
+<title>eBay.com.my: GGS pro LCD Screen Protector for Nikon D300 (item 350071007615 end time Jun 23, 2008 02:42:00 MYT)</title>
+<link>http://cgi.ebay.com.my/ws/eBayISAPI.dll?ViewItem&#x26;item=350071007615&#x26;indexURL=</link>
+<description>Screen protector for D300.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T15:16:22Z</dc:date>
+<dc:subject>camera d300 ebay nikon photographic_equipment photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photographic_equipment" />
+    <rdf:li resource="http://del.icio.us/tag/nikon" />
+    <rdf:li resource="http://del.icio.us/tag/d300" />
+    <rdf:li resource="http://del.icio.us/tag/ebay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/">
+<title>How to Get a Lot Done &#x2013; 7 Tips to Achieve More | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/</link>
+<description>Some good productivity advice.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T13:02:58Z</dc:date>
+<dc:subject>advice gtd howto personal_development productivity time_management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/time_management" />
+    <rdf:li resource="http://del.icio.us/tag/personal_development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Tips_for_Better_Blogging">
+<title>Tips for Better Blogging - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Tips_for_Better_Blogging</link>
+<description>Blogging tips.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T11:32:51Z</dc:date>
+<dc:subject>advice blogging howto journalism learning tip tutorial web2.0 writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/tip" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.planningwiz.com/">
+<title>Room planner</title>
+<link>http://v3.planningwiz.com/</link>
+<description>Online room planner.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-26T11:32:10Z</dc:date>
+<dc:subject>architecture design domestic drawing free furniture home office planning room service space tool webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/domestic" />
+    <rdf:li resource="http://del.icio.us/tag/room" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/planning" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natureandwildlifephotography.blogspot.com/">
+<title>Nature and Wildlife Photography</title>
+<link>http://natureandwildlifephotography.blogspot.com/</link>
+<description>Blog from Nikographer Jon.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-25T14:48:25Z</dc:date>
+<dc:subject>blog flickr howto nature photoblog photography technique</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/photoblog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wideeyecinema.com/?p=105">
+<title>The World According to Monsanto | WIDE EYE CINEMA - Free Conspiracy Videos</title>
+<link>http://wideeyecinema.com/?p=105</link>
+<description>Videos about Monsanto.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-25T12:28:22Z</dc:date>
+<dc:subject>activism agriculture biotechnology corruption documentary environment food genetic_engineering genetics science video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/genetic_engineering" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+    <rdf:li resource="http://del.icio.us/tag/corruption" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/agriculture" />
+    <rdf:li resource="http://del.icio.us/tag/biotechnology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theonlinephotographer.typepad.com/the_online_photographer/2008/03/you-cant-pictur.html">
+<title>The Online Photographer: You Can't Picture This</title>
+<link>http://theonlinephotographer.typepad.com/the_online_photographer/2008/03/you-cant-pictur.html</link>
+<description>Stuff about photography in public places in UK.</description>
+<dc:creator>SonofGroucho</dc:creator>
+<dc:date>2008-06-25T12:03:30Z</dc:date>
+<dc:subject>civil_rights law photography politics privacy rights terrorism uk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/civil_rights" />
+    <rdf:li resource="http://del.icio.us/tag/rights" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/terrorism" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

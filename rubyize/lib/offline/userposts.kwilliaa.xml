@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kwilliaa">
+<title>del.icio.us/kwilliaa</title>
+<link>http://del.icio.us/kwilliaa</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/xml/library/x-tipffoxmicroapi/?S_TACT=105AGX54&#x26;S_CMP=B0605&#x26;ca=dnw-922" />
+  <rdf:li rdf:resource="http://microformats.org/blog/2008/07/04/this-week-9/" />
+  <rdf:li rdf:resource="http://www.grailstutorials.com/tutorial/details/156" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://openmicroblogging.org/" />
+  <rdf:li rdf:resource="http://www.it-eye.nl/weblog/2008/07/03/the-basics-of-an-ibatis-application/" />
+  <rdf:li rdf:resource="http://www.jboss.org/feeds/post/drools_smooks_data_loader" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://72miles.com/architecturerules/" />
+  <rdf:li rdf:resource="http://webworkerdaily.com/2008/07/02/six-useful-free-graphics-apps/" />
+  <rdf:li rdf:resource="http://javaboutique.internet.com/tutorials/jmx/" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/introduction-integration-and-o" />
+  <rdf:li rdf:resource="http://www.sitepen.com/blog/2008/07/03/amazon-s3-dojo/" />
+  <rdf:li rdf:resource="http://www.hunlock.com/blogs/Mastering_JSON_(_JavaScript_Object_Notation_)" />
+  <rdf:li rdf:resource="http://tutorialdog.com/javascript-image-gallery-using-mootools-part-2/" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin/" />
+  <rdf:li rdf:resource="http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_1.html" />
+  <rdf:li rdf:resource="http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_2.html" />
+  <rdf:li rdf:resource="http://www.sitepen.com/blog/2008/06/17/json-referencing-in-dojo/" />
+  <rdf:li rdf:resource="http://www.sitepen.com/blog/2008/06/16/a-beginners-guide-to-dojo-charting-part-2-of-2/" />
+  <rdf:li rdf:resource="http://weblog.infoworld.com/realworldsoa/archives/2008/06/service_externa.html" />
+  <rdf:li rdf:resource="http://www.zorched.net/2008/01/25/build-a-custom-validator-in-grails-with-a-plugin/" />
+  <rdf:li rdf:resource="http://www.netzgesta.de/shiftzoom/" />
+  <rdf:li rdf:resource="http://nightly.webkit.org/" />
+  <rdf:li rdf:resource="http://www.whenisgood.net/" />
+  <rdf:li rdf:resource="http://blog.whatwg.org/feed-autodiscovery" />
+  <rdf:li rdf:resource="http://agilesoftwaredevelopment.com/blog/pbielicki/how-ensure-code-quality" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608" />
+  <rdf:li rdf:resource="http://grails.org/JMS+Plugin" />
+  <rdf:li rdf:resource="http://localhost:8161/admin/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:50:29Z</dc:date>
+<dc:subject>architecture blocking concurrency debug design development enterprise horizontalscaling io j2ee nio nonblocking scalability verticalscaling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/verticalscaling" />
+    <rdf:li resource="http://del.icio.us/tag/horizontalscaling" />
+    <rdf:li resource="http://del.icio.us/tag/blocking" />
+    <rdf:li resource="http://del.icio.us/tag/nonblocking" />
+    <rdf:li resource="http://del.icio.us/tag/nio" />
+    <rdf:li resource="http://del.icio.us/tag/io" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/xml/library/x-tipffoxmicroapi/?S_TACT=105AGX54&#x26;S_CMP=B0605&#x26;ca=dnw-922">
+<title>Tip: Use the new microformats API in your Firefox 3.0 Extensions</title>
+<link>http://www.ibm.com/developerworks/xml/library/x-tipffoxmicroapi/?S_TACT=105AGX54&#x26;S_CMP=B0605&#x26;ca=dnw-922</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:47:47Z</dc:date>
+<dc:subject>api developerworks extension firefox3 form hcard ibm javascript plugin socialnetworks xul</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/hcard" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/xul" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/developerworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://microformats.org/blog/2008/07/04/this-week-9/">
+<title>Microformats | weblog | Recently in microformats (July edition)</title>
+<link>http://microformats.org/blog/2008/07/04/this-week-9/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:46:43Z</dc:date>
+<dc:subject>abbr cognition dates dsn firefox google hcard html5 ibm lifestream microformats news parsers patterns psn socialnetwork vaddressbook vcard xfn yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/dates" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/parsers" />
+    <rdf:li resource="http://del.icio.us/tag/html5" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/vcard" />
+    <rdf:li resource="http://del.icio.us/tag/hcard" />
+    <rdf:li resource="http://del.icio.us/tag/vaddressbook" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/xfn" />
+    <rdf:li resource="http://del.icio.us/tag/cognition" />
+    <rdf:li resource="http://del.icio.us/tag/abbr" />
+    <rdf:li resource="http://del.icio.us/tag/dsn" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/lifestream" />
+    <rdf:li resource="http://del.icio.us/tag/psn" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.grailstutorials.com/tutorial/details/156">
+<title>Grails &#x26; Groovy Tutorials</title>
+<link>http://www.grailstutorials.com/tutorial/details/156</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:43:41Z</dc:date>
+<dc:subject>configure grails install linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grails" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/configure" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:41:47Z</dc:date>
+<dc:subject>free google opensource passive proxy security testing tools webapplicationsecurity xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/webapplicationsecurity" />
+    <rdf:li resource="http://del.icio.us/tag/passive" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://openmicroblogging.org/">
+<title>OpenMicroBlogging specification</title>
+<link>http://openmicroblogging.org/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:58:44Z</dc:date>
+<dc:subject>0.1 api flickr interop messaging microblogging openauth openid opensource openspecification rdf specification xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openspecification" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/openauth" />
+    <rdf:li resource="http://del.icio.us/tag/openid" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/specification" />
+    <rdf:li resource="http://del.icio.us/tag/0.1" />
+    <rdf:li resource="http://del.icio.us/tag/interop" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/rdf" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.it-eye.nl/weblog/2008/07/03/the-basics-of-an-ibatis-application/">
+<title>IT-eye &#xBB; The basics of an iBatis application</title>
+<link>http://www.it-eye.nl/weblog/2008/07/03/the-basics-of-an-ibatis-application/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:56:37Z</dc:date>
+<dc:subject>configuration domain example hibernate ibatis java oracle orm series tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibatis" />
+    <rdf:li resource="http://del.icio.us/tag/oracle" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+    <rdf:li resource="http://del.icio.us/tag/orm" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+    <rdf:li resource="http://del.icio.us/tag/example" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/series" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jboss.org/feeds/post/drools_smooks_data_loader">
+<title>JBoss.ORG Feeds</title>
+<link>http://www.jboss.org/feeds/post/drools_smooks_data_loader</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:55:44Z</dc:date>
+<dc:subject>csv custom dataloader drools java jboss smooks xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drools" />
+    <rdf:li resource="http://del.icio.us/tag/dataloader" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/csv" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/custom" />
+    <rdf:li resource="http://del.icio.us/tag/smooks" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:54:07Z</dc:date>
+<dc:subject>advice analysis css design forms patterns signup ui usability web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/signup" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://72miles.com/architecturerules/">
+<title>Architecture Rules</title>
+<link>http://72miles.com/architecturerules/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:53:09Z</dc:date>
+<dc:subject>ant architecture java junit maven opensource testing unittest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+    <rdf:li resource="http://del.icio.us/tag/junit" />
+    <rdf:li resource="http://del.icio.us/tag/unittest" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webworkerdaily.com/2008/07/02/six-useful-free-graphics-apps/">
+<title>Web Worker Daily &#xBB; Archive 5 Useful, Free Graphics Apps &#xAB;</title>
+<link>http://webworkerdaily.com/2008/07/02/six-useful-free-graphics-apps/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-05T17:51:28Z</dc:date>
+<dc:subject>design freeware graphics images photoediting photoshop software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photoediting" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javaboutique.internet.com/tutorials/jmx/">
+<title>Java(TM) Boutique - Soup-to-Nuts Application Management with JMX</title>
+<link>http://javaboutique.internet.com/tutorials/jmx/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T22:38:50Z</dc:date>
+<dc:subject>JMX agent devx dynamicmbeans example explained htmladapter javaboutique mbean modelmbeans notificationmechanism rmiconnector series</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JMX" />
+    <rdf:li resource="http://del.icio.us/tag/example" />
+    <rdf:li resource="http://del.icio.us/tag/explained" />
+    <rdf:li resource="http://del.icio.us/tag/series" />
+    <rdf:li resource="http://del.icio.us/tag/mbean" />
+    <rdf:li resource="http://del.icio.us/tag/agent" />
+    <rdf:li resource="http://del.icio.us/tag/rmiconnector" />
+    <rdf:li resource="http://del.icio.us/tag/htmladapter" />
+    <rdf:li resource="http://del.icio.us/tag/dynamicmbeans" />
+    <rdf:li resource="http://del.icio.us/tag/modelmbeans" />
+    <rdf:li resource="http://del.icio.us/tag/notificationmechanism" />
+    <rdf:li resource="http://del.icio.us/tag/javaboutique" />
+    <rdf:li resource="http://del.icio.us/tag/devx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/introduction-integration-and-o">
+<title>Introduction to integration and Open ESB, part I: Open ESB serverside artifacts. | Javalobby</title>
+<link>http://java.dzone.com/articles/introduction-integration-and-o</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T19:37:42Z</dc:date>
+<dc:subject>artifacts bc bindingcomponent bpel deployed enterpriseapplication esb integration introduction jbi jsr208 netbeans nmr openesb se serviceengine serviceunit su wsdl xsd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+    <rdf:li resource="http://del.icio.us/tag/openesb" />
+    <rdf:li resource="http://del.icio.us/tag/introduction" />
+    <rdf:li resource="http://del.icio.us/tag/integration" />
+    <rdf:li resource="http://del.icio.us/tag/artifacts" />
+    <rdf:li resource="http://del.icio.us/tag/jbi" />
+    <rdf:li resource="http://del.icio.us/tag/jsr208" />
+    <rdf:li resource="http://del.icio.us/tag/enterpriseapplication" />
+    <rdf:li resource="http://del.icio.us/tag/deployed" />
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+    <rdf:li resource="http://del.icio.us/tag/bindingcomponent" />
+    <rdf:li resource="http://del.icio.us/tag/nmr" />
+    <rdf:li resource="http://del.icio.us/tag/serviceengine" />
+    <rdf:li resource="http://del.icio.us/tag/bpel" />
+    <rdf:li resource="http://del.icio.us/tag/wsdl" />
+    <rdf:li resource="http://del.icio.us/tag/xsd" />
+    <rdf:li resource="http://del.icio.us/tag/bc" />
+    <rdf:li resource="http://del.icio.us/tag/se" />
+    <rdf:li resource="http://del.icio.us/tag/su" />
+    <rdf:li resource="http://del.icio.us/tag/serviceunit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepen.com/blog/2008/07/03/amazon-s3-dojo/">
+<title>SitePen Blog &#xBB; Amazon S3 + Dojo</title>
+<link>http://www.sitepen.com/blog/2008/07/03/amazon-s3-dojo/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:47:59Z</dc:date>
+<dc:subject>amazon aws data dojo javascript php rest s3 webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/dojo" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hunlock.com/blogs/Mastering_JSON_(_JavaScript_Object_Notation_)">
+<title>Mastering JSON ( JavaScript Object Notation )</title>
+<link>http://www.hunlock.com/blogs/Mastering_JSON_(_JavaScript_Object_Notation_)</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:46:44Z</dc:date>
+<dc:subject>ajax howto implementation introductio json tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/implementation" />
+    <rdf:li resource="http://del.icio.us/tag/introductio" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutorialdog.com/javascript-image-gallery-using-mootools-part-2/">
+<title>Javascript Image Gallery Using Mootools (Part 2)</title>
+<link>http://tutorialdog.com/javascript-image-gallery-using-mootools-part-2/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:45:53Z</dc:date>
+<dc:subject>ajax gallery image javascript mootools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin/">
+<title>Pathfinder Development &#xBB; Writing reusable jQuery modules: Make everything a plugin</title>
+<link>http://www.pathf.com/blogs/2008/06/writing-reusable-jquery-modules-make-everything-a-plugin/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:13:48Z</dc:date>
+<dc:subject>framework howto javascript jquery oop patterns plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_1.html">
+<title>Real World SOA | David Linthicum | InfoWorld | SOA governance Dos and Don'ts | June 19, 2008 10:52 AM | Dave Linthicum</title>
+<link>http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_1.html</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:11:24Z</dc:date>
+<dc:subject>governance selectioncriteria soa standards support technology testing tools training vendors</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/vendors" />
+    <rdf:li resource="http://del.icio.us/tag/selectioncriteria" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/governance" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_2.html">
+<title>Real World SOA | David Linthicum | InfoWorld | SOA governance dos and don&#x2019;ts &#x2026;or maybe not | June 23, 2008 05:01 AM | Dave Linthicum</title>
+<link>http://weblog.infoworld.com/realworldsoa/archives/2008/06/soa_governance_2.html</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:10:04Z</dc:date>
+<dc:subject>governance policies processes soa technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/governance" />
+    <rdf:li resource="http://del.icio.us/tag/policies" />
+    <rdf:li resource="http://del.icio.us/tag/processes" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepen.com/blog/2008/06/17/json-referencing-in-dojo/">
+<title>SitePen Blog &#xBB; JSON Referencing in Dojo</title>
+<link>http://www.sitepen.com/blog/2008/06/17/json-referencing-in-dojo/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:07:33Z</dc:date>
+<dc:subject>dojo examples javascript json referencing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/referencing" />
+    <rdf:li resource="http://del.icio.us/tag/dojo" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepen.com/blog/2008/06/16/a-beginners-guide-to-dojo-charting-part-2-of-2/">
+<title>SitePen Blog &#xBB; A Beginner&#x2019;s Guide to Dojo Charting, Part 2 of 2</title>
+<link>http://www.sitepen.com/blog/2008/06/16/a-beginners-guide-to-dojo-charting-part-2-of-2/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:06:15Z</dc:date>
+<dc:subject>barchart charts dojo examples graphs javascript piechard tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/dojo" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/graphs" />
+    <rdf:li resource="http://del.icio.us/tag/barchart" />
+    <rdf:li resource="http://del.icio.us/tag/piechard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.infoworld.com/realworldsoa/archives/2008/06/service_externa.html">
+<title>Real World SOA | David Linthicum | InfoWorld | Service externalization is not easy | June 15, 2008 03:57 AM | Dave Linthicum</title>
+<link>http://weblog.infoworld.com/realworldsoa/archives/2008/06/service_externa.html</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T17:04:52Z</dc:date>
+<dc:subject>authentication authorization interfaces public security services soa standards versioning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/interfaces" />
+    <rdf:li resource="http://del.icio.us/tag/services" />
+    <rdf:li resource="http://del.icio.us/tag/public" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/authorization" />
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/versioning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zorched.net/2008/01/25/build-a-custom-validator-in-grails-with-a-plugin/">
+<title>Build a Custom Validator in Grails with a Plugin</title>
+<link>http://www.zorched.net/2008/01/25/build-a-custom-validator-in-grails-with-a-plugin/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-04T16:47:51Z</dc:date>
+<dc:subject>constraints grails pattern plugin unittest validation validator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grails" />
+    <rdf:li resource="http://del.icio.us/tag/constraints" />
+    <rdf:li resource="http://del.icio.us/tag/validator" />
+    <rdf:li resource="http://del.icio.us/tag/validation" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/unittest" />
+    <rdf:li resource="http://del.icio.us/tag/pattern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netzgesta.de/shiftzoom/">
+<title>shiftzoom.js (zoom and pan functionality)</title>
+<link>http://www.netzgesta.de/shiftzoom/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-30T17:26:57Z</dc:date>
+<dc:subject>image javascript shiftzoom zoom</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/shiftzoom" />
+    <rdf:li resource="http://del.icio.us/tag/zoom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nightly.webkit.org/">
+<title>WebKit Nightly Builds</title>
+<link>http://nightly.webkit.org/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-30T17:25:26Z</dc:date>
+<dc:subject>api build css cssvariables download nightly programming release w3c webkit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/webkit" />
+    <rdf:li resource="http://del.icio.us/tag/nightly" />
+    <rdf:li resource="http://del.icio.us/tag/build" />
+    <rdf:li resource="http://del.icio.us/tag/release" />
+    <rdf:li resource="http://del.icio.us/tag/cssvariables" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/w3c" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whenisgood.net/">
+<title>When is Good</title>
+<link>http://www.whenisgood.net/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-27T23:02:29Z</dc:date>
+<dc:subject>agenda calendar communication community date email event free meeting scheduling simple social tool web2.0 whenisgood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/whenisgood" />
+    <rdf:li resource="http://del.icio.us/tag/scheduling" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/agenda" />
+    <rdf:li resource="http://del.icio.us/tag/meeting" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/simple" />
+    <rdf:li resource="http://del.icio.us/tag/date" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/event" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.whatwg.org/feed-autodiscovery">
+<title>The WHATWG Blog &#xBB; Blog Archive &#xBB; Feed Autodiscovery</title>
+<link>http://blog.whatwg.org/feed-autodiscovery</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-27T20:24:14Z</dc:date>
+<dc:subject>aggregator alternateformat atom autodetect autodiscovery feeds microformats publish rest rss rssreader subscribe web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/autodiscovery" />
+    <rdf:li resource="http://del.icio.us/tag/publish" />
+    <rdf:li resource="http://del.icio.us/tag/alternateformat" />
+    <rdf:li resource="http://del.icio.us/tag/subscribe" />
+    <rdf:li resource="http://del.icio.us/tag/autodetect" />
+    <rdf:li resource="http://del.icio.us/tag/rssreader" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/feeds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agilesoftwaredevelopment.com/blog/pbielicki/how-ensure-code-quality">
+<title>How to ensure code quality? | Agile Software Development</title>
+<link>http://agilesoftwaredevelopment.com/blog/pbielicki/how-ensure-code-quality</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-27T18:39:42Z</dc:date>
+<dc:subject>checkstyle code findbugs maintenance management pmd quality tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/quality" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/maintenance" />
+    <rdf:li resource="http://del.icio.us/tag/pmd" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/findbugs" />
+    <rdf:li resource="http://del.icio.us/tag/checkstyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608">
+<title>Robust Java benchmarking, Part 1: Issues</title>
+<link>http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-26T20:38:20Z</dc:date>
+<dc:subject>api benchmarking example java performance tuning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/benchmarking" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/example" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://grails.org/JMS+Plugin">
+<title>Grails - JMS Plugin</title>
+<link>http://grails.org/JMS+Plugin</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-26T04:18:12Z</dc:date>
+<dc:subject>activemq asynchronous client grails groovy jbossmq jms messaging onmessage plugin queue sendjmsmessage server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grails" />
+    <rdf:li resource="http://del.icio.us/tag/jms" />
+    <rdf:li resource="http://del.icio.us/tag/activemq" />
+    <rdf:li resource="http://del.icio.us/tag/jbossmq" />
+    <rdf:li resource="http://del.icio.us/tag/groovy" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/queue" />
+    <rdf:li resource="http://del.icio.us/tag/asynchronous" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/onmessage" />
+    <rdf:li resource="http://del.icio.us/tag/client" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/sendjmsmessage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://localhost:8161/admin/">
+<title>localhost : ActiveMQ Console</title>
+<link>http://localhost:8161/admin/</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-06-26T04:17:17Z</dc:date>
+<dc:subject>activemq admin default localhost webconsole</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/activemq" />
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+    <rdf:li resource="http://del.icio.us/tag/webconsole" />
+    <rdf:li resource="http://del.icio.us/tag/localhost" />
+    <rdf:li resource="http://del.icio.us/tag/default" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

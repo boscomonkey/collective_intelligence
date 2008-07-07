@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/decio1">
+<title>del.icio.us/decio1</title>
+<link>http://del.icio.us/decio1</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://refit.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.aquietbump.com/index.html" />
+  <rdf:li rdf:resource="http://www.eufeeds.eu/" />
+  <rdf:li rdf:resource="http://secrets.blacktree.com/" />
+  <rdf:li rdf:resource="http://www.coolosxapps.net/" />
+  <rdf:li rdf:resource="http://goosh.org/" />
+  <rdf:li rdf:resource="http://www.iconarchive.com/" />
+  <rdf:li rdf:resource="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/pmset.1.html" />
+  <rdf:li rdf:resource="http://www.aquafadas.com/en/bannerzest/" />
+  <rdf:li rdf:resource="http://www.ip-adress.com/ipaddresstolocation/" />
+  <rdf:li rdf:resource="http://www.mackiev.com/support_hs.html" />
+  <rdf:li rdf:resource="http://www.blogeee.net/2008/03/14/tutorial-une-cle-3g-sur-votre-ultraportable-pour-30e/#more-445" />
+  <rdf:li rdf:resource="http://www.nliteos.com/" />
+  <rdf:li rdf:resource="http://castcluster.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.i-hacked.com/content/view/260/42/" />
+  <rdf:li rdf:resource="http://eeepc4g.com/forum/manuali-recensioni/453-xp-sdhc-usb.html" />
+  <rdf:li rdf:resource="http://www.eeeuser.com/" />
+  <rdf:li rdf:resource="http://www.versolafine.it/news.php" />
+  <rdf:li rdf:resource="http://rixstep.com/4/0/clix/" />
+  <rdf:li rdf:resource="http://www.macworldencore.com/online/presentation.asp" />
+  <rdf:li rdf:resource="http://www.afp548.com/article.php?story=ImageCreationRevolution" />
+  <rdf:li rdf:resource="http://pcast-producer.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.maclearning.org/" />
+  <rdf:li rdf:resource="http://www.ubuntu.com/products/mobile" />
+  <rdf:li rdf:resource="http://doc.ubuntu-fr.org/fah" />
+  <rdf:li rdf:resource="http://macresearch.org/" />
+  <rdf:li rdf:resource="http://www.socwall.com/" />
+  <rdf:li rdf:resource="http://www.symbaloo.com/ch/" />
+  <rdf:li rdf:resource="http://docs.info.apple.com/article.html?artnum=106439" />
+  <rdf:li rdf:resource="http://macresearch.org/tutorial-backup-your-open-directory-server-using-launchd" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-07-06T12:46:40Z</dc:date>
+<dc:subject>install windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://refit.sourceforge.net/">
+<title>rEFIt - An EFI Boot Menu and Toolkit</title>
+<link>http://refit.sourceforge.net/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-07-01T12:04:38Z</dc:date>
+<dc:subject>apple boot camp efi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/camp" />
+    <rdf:li resource="http://del.icio.us/tag/efi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aquietbump.com/index.html">
+<title>aquietbump</title>
+<link>http://www.aquietbump.com/index.html</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-06-24T19:33:08Z</dc:date>
+<dc:subject>dub indie italy label music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/label" />
+    <rdf:li resource="http://del.icio.us/tag/dub" />
+    <rdf:li resource="http://del.icio.us/tag/italy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eufeeds.eu/">
+<title>eufeeds - over 500 newspapers, updated every 20 minutes</title>
+<link>http://www.eufeeds.eu/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-06-24T09:26:16Z</dc:date>
+<dc:subject>feeds newspapers presse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newspapers" />
+    <rdf:li resource="http://del.icio.us/tag/feeds" />
+    <rdf:li resource="http://del.icio.us/tag/presse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://secrets.blacktree.com/">
+<title>http://secrets.blacktree.com/</title>
+<link>http://secrets.blacktree.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-06-23T08:57:35Z</dc:date>
+<dc:subject>apple mac preferences software tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/preferences" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coolosxapps.net/">
+<title>Cool OSX Apps</title>
+<link>http://www.coolosxapps.net/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-06-23T08:52:27Z</dc:date>
+<dc:subject>apple applications best mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://goosh.org/">
+<title>goosh.org - the unofficial google shell.</title>
+<link>http://goosh.org/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-06-02T17:48:12Z</dc:date>
+<dc:subject>ajax fun google shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iconarchive.com/">
+<title>Icon Archive - 18,200+ free icons, buddy icons, xp icons, vista icons, desktop icons, aim icons</title>
+<link>http://www.iconarchive.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-05-24T13:14:09Z</dc:date>
+<dc:subject>free icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/pmset.1.html">
+<title>Mac OS X Manual Page For pmset(1)</title>
+<link>http://developer.apple.com/documentation/Darwin/Reference/ManPages/man1/pmset.1.html</link>
+<description>manipulate power management settings</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-05-09T13:12:34Z</dc:date>
+<dc:subject>apple command energy mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/command" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aquafadas.com/en/bannerzest/">
+<title>BannerZest</title>
+<link>http://www.aquafadas.com/en/bannerzest/</link>
+<description>Enliven your website or blogs in seconds and at low cost with BannerZest. It's the fastest and easiest way to add punch and movement to your still images online, and get the professional-looking slideshows.</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-04-23T08:11:11Z</dc:date>
+<dc:subject>banners flash mac web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/banners" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ip-adress.com/ipaddresstolocation/">
+<title>My IP - What is my IP address? Free IP Tracer, IP Locator, Hide my IP address</title>
+<link>http://www.ip-adress.com/ipaddresstolocation/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-04-21T12:55:36Z</dc:date>
+<dc:subject>ip tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ip" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mackiev.com/support_hs.html">
+<title>Software MacKiev - HyperStudio Downloads &#x26; Technical Support</title>
+<link>http://www.mackiev.com/support_hs.html</link>
+<description>To play old stacks made in HyperStudio versions 3.0 to 4.5</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-04-11T08:01:59Z</dc:date>
+<dc:subject>ac piles stacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ac" />
+    <rdf:li resource="http://del.icio.us/tag/stacks" />
+    <rdf:li resource="http://del.icio.us/tag/piles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogeee.net/2008/03/14/tutorial-une-cle-3g-sur-votre-ultraportable-pour-30e/#more-445">
+<title>Tutorial : une cl&#xE9; 3G sur votre ultraportable pour 30&#x20AC; ! &#xBB; Blogeee.net</title>
+<link>http://www.blogeee.net/2008/03/14/tutorial-une-cle-3g-sur-votre-ultraportable-pour-30e/#more-445</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-04-04T13:12:45Z</dc:date>
+<dc:subject>driver eeepc optic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/optic" />
+    <rdf:li resource="http://del.icio.us/tag/driver" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nliteos.com/">
+<title>nLite - Deployment Tool for the bootable Unattended Windows installation</title>
+<link>http://www.nliteos.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-04-01T22:11:29Z</dc:date>
+<dc:subject>install tools unattended windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/unattended" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://castcluster.blogspot.com/">
+<title>CastCluster</title>
+<link>http://castcluster.blogspot.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-30T20:33:07Z</dc:date>
+<dc:subject>itune java mac podcast video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/itune" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.i-hacked.com/content/view/260/42/">
+<title>I-Hacked.com Taking Advantage Of Technology - Installing Backtrack3 on an Eee PC</title>
+<link>http://www.i-hacked.com/content/view/260/42/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-29T10:53:21Z</dc:date>
+<dc:subject>backtrack eeepc howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/backtrack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eeepc4g.com/forum/manuali-recensioni/453-xp-sdhc-usb.html">
+<title>Xp su SdHC o USB - EeePC4g.com Forum italiano Asus EeePc</title>
+<link>http://eeepc4g.com/forum/manuali-recensioni/453-xp-sdhc-usb.html</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-29T10:43:41Z</dc:date>
+<dc:subject>eeepc howto install xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eeeuser.com/">
+<title>EeeUser.com &#xBB; Unofficial ASUS Eee PC EeePC 701 Blog Forum Wiki Community</title>
+<link>http://www.eeeuser.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-28T13:35:41Z</dc:date>
+<dc:subject>eee eeepc guide howto software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/eee" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.versolafine.it/news.php">
+<title>News and Reviews from the Planet Earth - www.versolafine.it</title>
+<link>http://www.versolafine.it/news.php</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-18T20:41:48Z</dc:date>
+<dc:subject>music psychedelic rock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/psychedelic" />
+    <rdf:li resource="http://del.icio.us/tag/rock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rixstep.com/4/0/clix/">
+<title>CLIX</title>
+<link>http://rixstep.com/4/0/clix/</link>
+<description>CLIX ('command line interface for OS X') makes it easy to harness the power of Unix.</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-16T08:13:37Z</dc:date>
+<dc:subject>apple free tools unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macworldencore.com/online/presentation.asp">
+<title>Macworld Encore</title>
+<link>http://www.macworldencore.com/online/presentation.asp</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-14T15:34:25Z</dc:date>
+<dc:subject>apple docs howto mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/docs" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.afp548.com/article.php?story=ImageCreationRevolution">
+<title>AFP548 - Image Creation Revolution</title>
+<link>http://www.afp548.com/article.php?story=ImageCreationRevolution</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-03-14T11:25:32Z</dc:date>
+<dc:subject>apple image tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pcast-producer.blogspot.com/">
+<title>Podcast Producer Hints &#x26; Tips</title>
+<link>http://pcast-producer.blogspot.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-29T11:15:45Z</dc:date>
+<dc:subject>apple hints podcast producer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/producer" />
+    <rdf:li resource="http://del.icio.us/tag/hints" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maclearning.org/">
+<title>MacLearning - Leopard Server's Wiki - January 2008</title>
+<link>http://www.maclearning.org/</link>
+<description>Podcast Producer provides a framework to control camera agents installed in classrooms and ad-hoc submission of media files.</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-29T11:02:49Z</dc:date>
+<dc:subject>apple podcast web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubuntu.com/products/mobile">
+<title>Ubuntu Mobile | Ubuntu</title>
+<link>http://www.ubuntu.com/products/mobile</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-26T12:29:23Z</dc:date>
+<dc:subject>linux mobile portable ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doc.ubuntu-fr.org/fah">
+<title>fah - Documentation Ubuntu Francophone</title>
+<link>http://doc.ubuntu-fr.org/fah</link>
+<description>sudo /etc/init.d/fah start</description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-25T17:54:07Z</dc:date>
+<dc:subject>folding howto install linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/folding" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://macresearch.org/">
+<title>MacResearch | Online Community and Resource for Mac OS X in Science</title>
+<link>http://macresearch.org/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-20T09:28:35Z</dc:date>
+<dc:subject>apple mac tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socwall.com/">
+<title>Social Wallpapering</title>
+<link>http://www.socwall.com/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-16T09:07:18Z</dc:date>
+<dc:subject>free wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.symbaloo.com/ch/">
+<title>Symbaloo - start simple</title>
+<link>http://www.symbaloo.com/ch/</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-12T10:25:56Z</dc:date>
+<dc:subject>ajax web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.info.apple.com/article.html?artnum=106439">
+<title>Ports TCP et UDP &#xAB;connus&#xBB; utilis&#xE9;s par les produits logiciels Apple</title>
+<link>http://docs.info.apple.com/article.html?artnum=106439</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-06T08:53:09Z</dc:date>
+<dc:subject>apple doc list port</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/doc" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/port" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://macresearch.org/tutorial-backup-your-open-directory-server-using-launchd">
+<title>Tutorial: Backup Your Open Directory Server Using Launchd | MacResearch</title>
+<link>http://macresearch.org/tutorial-backup-your-open-directory-server-using-launchd</link>
+<description></description>
+<dc:creator>decio1</dc:creator>
+<dc:date>2008-02-05T14:35:41Z</dc:date>
+<dc:subject>backup howto opendirectory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/opendirectory" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

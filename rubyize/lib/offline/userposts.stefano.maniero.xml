@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/stefano.maniero">
+<title>del.icio.us/stefano.maniero</title>
+<link>http://del.icio.us/stefano.maniero</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://myp2p.eu/" />
+  <rdf:li rdf:resource="http://www.flashmagazine.com/Reviews/detail/mate_event_driven_framework_for_flex/" />
+  <rdf:li rdf:resource="http://www.apueee.com/?p=9" />
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://boost-extras.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.acmqueue.org/" />
+  <rdf:li rdf:resource="http://blogs.oreilly.com/iphone/2008/07/a-guide-to-iphone-dev-document.html" />
+  <rdf:li rdf:resource="http://www.jpaulmorrison.com/fbp/" />
+  <rdf:li rdf:resource="http://code.google.com/p/googletest/" />
+  <rdf:li rdf:resource="http://firefm.sourceforge.net/" />
+  <rdf:li rdf:resource="http://sitracker.sourceforge.net/HomePage" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://webreflection.blogspot.com/2008/07/scary-eval-to-create-most-safe.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/quipt/" />
+  <rdf:li rdf:resource="https://embedded-glassfish.dev.java.net/" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/spring-rich-client-part-2" />
+  <rdf:li rdf:resource="https://open-esb.dev.java.net/" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/introduction-integration-and-o" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/web-services-with-mule-cxf-and" />
+  <rdf:li rdf:resource="http://www.prosyst.com/products/tools_mtoolkit.html" />
+  <rdf:li rdf:resource="http://www.prosyst.com/products/osgi_se_equi_ed.html" />
+  <rdf:li rdf:resource="http://72miles.com/architecturerules/" />
+  <rdf:li rdf:resource="http://www.appuntidigitali.it/1943/bebox-un-mac-al-quadrato/" />
+  <rdf:li rdf:resource="http://freelancefolder.com/life-as-a-web-worker-are-you-disciplined/" />
+  <rdf:li rdf:resource="http://freelancefolder.com/10-things-to-keep-in-mind-when-starting-out-as-a-freelancer/" />
+  <rdf:li rdf:resource="http://www.java-objects-database.com/" />
+  <rdf:li rdf:resource="http://www.jopendocument.org/" />
+  <rdf:li rdf:resource="http://www.iphonegold.org/iphone-timeline.html" />
+  <rdf:li rdf:resource="http://www.fsw.com/Jt/Jt.htm" />
+  <rdf:li rdf:resource="http://tamale.net/erlang/tutorial.shtml" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/44221/Thinking-In-Erlang" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://myp2p.eu/">
+<title>MyP2P.eu :: Free Live Sports on your PC, Live Football, MLB, NBA, NHL and more...</title>
+<link>http://myp2p.eu/</link>
+<description>Myp2p is a site specialized in schedules for all kind of Sports. You can watch Live Sports by using our schedules. On top, browse to Live Sports. The information we give is fully free. You only need some clients to download and then you're ready to go. Pr</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T12:15:55Z</dc:date>
+<dc:subject>p2p streaming television tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flashmagazine.com/Reviews/detail/mate_event_driven_framework_for_flex/">
+<title>Event driven framework for Flex</title>
+<link>http://www.flashmagazine.com/Reviews/detail/mate_event_driven_framework_for_flex/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T12:01:24Z</dc:date>
+<dc:subject>flex framework</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apueee.com/?p=9">
+<title>Flash multiple file uploader</title>
+<link>http://www.apueee.com/?p=9</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T11:53:33Z</dc:date>
+<dc:subject>flash javascript upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T11:51:48Z</dc:date>
+<dc:subject>ajax extjs javascript php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boost-extras.sourceforge.net/">
+<title>Boost Extras</title>
+<link>http://boost-extras.sourceforge.net/</link>
+<description>It has been a while since I wanted to get Boost to compile painlessly on all my computers. To me, this meant using the standard GNU configure script with the standard Makefile.am files and whatever else is necessary. This is now done!</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T11:44:03Z</dc:date>
+<dc:subject>boost c++ library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boost" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acmqueue.org/">
+<title>ACM Queue - Developer Tools, Hardware, Security, Open Source, Enterprise Search, Data Management, Virtual Machines, Wireless</title>
+<link>http://www.acmqueue.org/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T08:58:12Z</dc:date>
+<dc:subject>acm magazine news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/acm" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.oreilly.com/iphone/2008/07/a-guide-to-iphone-dev-document.html">
+<title>A Guide to iPhone Dev Documentation - Inside iPhone Blog</title>
+<link>http://blogs.oreilly.com/iphone/2008/07/a-guide-to-iphone-dev-document.html</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:40:28Z</dc:date>
+<dc:subject>documentation iphone resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jpaulmorrison.com/fbp/">
+<title>Flow-Based Programming</title>
+<link>http://www.jpaulmorrison.com/fbp/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:36:40Z</dc:date>
+<dc:subject>async design flow programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/flow" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/async" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/googletest/">
+<title>googletest - Google Code</title>
+<link>http://code.google.com/p/googletest/</link>
+<description>Google's framework for writing C++ tests on a variety of platforms (Linux, Mac OS X, Windows, Windows CE, and Symbian). Based on the xUnit architecture. Supports automatic test discovery, a rich set of assertions, user-defined assertions, death tests, fat</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:35:58Z</dc:date>
+<dc:subject>c++ framework tdd testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/tdd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://firefm.sourceforge.net/">
+<title>Fire.fm Home - Get your daily music fix from last.fm</title>
+<link>http://firefm.sourceforge.net/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:35:40Z</dc:date>
+<dc:subject>addon firefox my:firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/my:firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sitracker.sourceforge.net/HomePage">
+<title>SupportIncidentTracker: HomePage</title>
+<link>http://sitracker.sourceforge.net/HomePage</link>
+<description>Manage contacts, sites, technical support contracts and support incidents in one place. Send emails directly from SiT!, attach files and record every communication in the incident log. SiT is aware of Service Level Agreements and incidents are flagged if</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:25:52Z</dc:date>
+<dc:subject>incident linux support tracker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/tracker" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/incident" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>If an application is useful, then the network of users will grow crazily fast at some point. As more and more mission-critical applications are now running on Java EE, many Java developers are caring about scalability issues.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:10:00Z</dc:date>
+<dc:subject>concurrency j2ee java performance scalability vip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/vip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webreflection.blogspot.com/2008/07/scary-eval-to-create-most-safe.html">
+<title> scary eval to create the most safe environment ever</title>
+<link>http://webreflection.blogspot.com/2008/07/scary-eval-to-create-most-safe.html</link>
+<description>With the incredible eval feature &#x26;quot;discovered&#x26;quot; few days ago, it possible to create the most safe environment ever for every kind of purpose, starting from JSON evaluation, arriving to total protected native constructors.
+</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T12:14:21Z</dc:date>
+<dc:subject>javascript oop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/quipt/">
+<title>quipt</title>
+<link>http://code.google.com/p/quipt/</link>
+<description>qUIpt is a small library that is capable of caching Javascript files inside the users browser - uniforme if SSL is active. qUIpt helps the site owner by reducing traffic costs and the user with faster page loading.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T12:02:10Z</dc:date>
+<dc:subject>ajax caching hack javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://embedded-glassfish.dev.java.net/">
+<title>Embedded GlassFish v3</title>
+<link>https://embedded-glassfish.dev.java.net/</link>
+<description>This projcet develops APIs and tools around &#x26;quot;embedded GlassFish v3&#x26;quot;. Embedded GFv3 is a delivery vehicle of GFv3 so that applications and tools can use GFv3 just as a library, inside their JVM, instead of having GFv3 as the overload of the entire JVM proc</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T11:54:29Z</dc:date>
+<dc:subject>embedding glassfish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/glassfish" />
+    <rdf:li resource="http://del.icio.us/tag/embedding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/spring-rich-client-part-2">
+<title>Spring Rich Client - Part 2</title>
+<link>http://java.dzone.com/articles/spring-rich-client-part-2</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T11:49:03Z</dc:date>
+<dc:subject>java rcp spring swing tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/swing" />
+    <rdf:li resource="http://del.icio.us/tag/rcp" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://open-esb.dev.java.net/">
+<title>open-esb: Home</title>
+<link>https://open-esb.dev.java.net/</link>
+<description>Project Open ESB implements an Enterprise Service Bus (ESB) runtime using Java Business Integration as the foundation. This allows easy integration of web services to create loosely coupled enterprise class composite applications.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T11:48:07Z</dc:date>
+<dc:subject>bpel bpm bus esb java jbi soa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/jbi" />
+    <rdf:li resource="http://del.icio.us/tag/bus" />
+    <rdf:li resource="http://del.icio.us/tag/bpm" />
+    <rdf:li resource="http://del.icio.us/tag/bpel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/introduction-integration-and-o">
+<title>Introduction to integration and Open ESB, part I: Open ESB serverside artifacts</title>
+<link>http://java.dzone.com/articles/introduction-integration-and-o</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T11:47:19Z</dc:date>
+<dc:subject>bpel esb jbi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+    <rdf:li resource="http://del.icio.us/tag/jbi" />
+    <rdf:li resource="http://del.icio.us/tag/bpel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/web-services-with-mule-cxf-and">
+<title>Web Services with Mule, CXF, and Spring</title>
+<link>http://java.dzone.com/articles/web-services-with-mule-cxf-and</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T11:46:48Z</dc:date>
+<dc:subject>esb java mule soa spring webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/mule" />
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prosyst.com/products/tools_mtoolkit.html">
+<title>OSGi bundle, service and application development tool for Eclipse - ProSyst</title>
+<link>http://www.prosyst.com/products/tools_mtoolkit.html</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T10:54:43Z</dc:date>
+<dc:subject>management osgi tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prosyst.com/products/osgi_se_equi_ed.html">
+<title>ProSyst - OSGi device and back end software platforms</title>
+<link>http://www.prosyst.com/products/osgi_se_equi_ed.html</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T10:53:18Z</dc:date>
+<dc:subject>distribution osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+    <rdf:li resource="http://del.icio.us/tag/distribution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://72miles.com/architecturerules/">
+<title>Architecture Rules</title>
+<link>http://72miles.com/architecturerules/</link>
+<description>With this open source Java library. Architecture Rules leverages an XML configuration and/or programmatic configuration to assert your code's architecture via unit tests, Maven, or ant tasks.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T09:51:43Z</dc:date>
+<dc:subject>java testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appuntidigitali.it/1943/bebox-un-mac-al-quadrato/">
+<title>ERROR: The requested URL could not be retrieved</title>
+<link>http://www.appuntidigitali.it/1943/bebox-un-mac-al-quadrato/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T09:43:12Z</dc:date>
+<dc:subject>dopo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dopo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelancefolder.com/life-as-a-web-worker-are-you-disciplined/">
+<title>Life As A Web-Worker - Are You Disciplined?</title>
+<link>http://freelancefolder.com/life-as-a-web-worker-are-you-disciplined/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T09:39:41Z</dc:date>
+<dc:subject>career freelance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelancefolder.com/10-things-to-keep-in-mind-when-starting-out-as-a-freelancer/">
+<title>10 Things To Keep In Mind When Starting Out As A Freelancer</title>
+<link>http://freelancefolder.com/10-things-to-keep-in-mind-when-starting-out-as-a-freelancer/</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-05T09:29:15Z</dc:date>
+<dc:subject>article career tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.java-objects-database.com/">
+<title>JODB - The Free Object Database for Java</title>
+<link>http://www.java-objects-database.com/</link>
+<description>JODB (Java Objects Database) is the open source object-oriented database somewhat similar to db4objects but entirely oriented for Java community and completely free for personal and commercial use</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T13:39:49Z</dc:date>
+<dc:subject>database java oodb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/oodb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jopendocument.org/">
+<title>jOpenDocument Homepage</title>
+<link>http://www.jopendocument.org/</link>
+<description>jOpenDocument is a free library for developers looking to use Open Document files without OpenOffice.org.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T12:34:16Z</dc:date>
+<dc:subject>java odf openoffice tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/openoffice" />
+    <rdf:li resource="http://del.icio.us/tag/odf" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iphonegold.org/iphone-timeline.html">
+<title>iPhone Timeline</title>
+<link>http://www.iphonegold.org/iphone-timeline.html</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T10:42:19Z</dc:date>
+<dc:subject>iphone timeline</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fsw.com/Jt/Jt.htm">
+<title>Java Pattern Oriented Framework (Jt)</title>
+<link>http://www.fsw.com/Jt/Jt.htm</link>
+<description>This document describes Jt, a Pattern Oriented Framework for the rapid implementation of Java applications. Jt has been utilized in several large mission critical systems.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T10:33:58Z</dc:date>
+<dc:subject>event framework gof j2ee java patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/event" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/gof" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tamale.net/erlang/tutorial.shtml">
+<title>Erlang for C, C++, and Java Programmers - tamale.net</title>
+<link>http://tamale.net/erlang/tutorial.shtml</link>
+<description>This brief tutorial aims to cover the main concepts and syntax of Erlang in a way which programmers of C type languages can relate to. It is not a complete description of the language by any means but it does try to give a feel for the main conceptual dif</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T07:33:02Z</dc:date>
+<dc:subject>c++ comparison concurrency erlang java tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/44221/Thinking-In-Erlang">
+<title>Thinking In Erlang</title>
+<link>http://www.scribd.com/doc/44221/Thinking-In-Erlang</link>
+<description></description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-04T07:31:46Z</dc:date>
+<dc:subject>ebook erlang tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/playgroundpilot">
+<title>del.icio.us/playgroundpilot</title>
+<link>http://del.icio.us/playgroundpilot</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.spokensanskrit.de/" />
+  <rdf:li rdf:resource="http://www.cybergrain.com/tech/hdr/" />
+  <rdf:li rdf:resource="http://www.gentlesource.com/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.webdevlounge.com/articles/mootools-and-jquery-ajax-shortcuts-for-champions/" />
+  <rdf:li rdf:resource="http://jqueryfordesigners.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://nettuts.com/web-roundups/best-of-the-web-june-2008/" />
+  <rdf:li rdf:resource="http://domscripting.com/" />
+  <rdf:li rdf:resource="http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://tech.mikelopez.info/2006/03/02/php-image-resize-script/" />
+  <rdf:li rdf:resource="http://gubukopensource.org/2008/01/17/thumbnail-image-jpeg-seperti-flickr-dengan-php/" />
+  <rdf:li rdf:resource="http://goosh.org/" />
+  <rdf:li rdf:resource="http://microformats.org/wiki/geo" />
+  <rdf:li rdf:resource="http://tantek.com/presentations/2007/04/microformats/" />
+  <rdf:li rdf:resource="http://www.digital-web.com/articles/microformats_primer/" />
+  <rdf:li rdf:resource="http://microformats.org/wiki/semantic-class-names" />
+  <rdf:li rdf:resource="http://the-u-web.org/" />
+  <rdf:li rdf:resource="http://alex.tsd.net.au/cpill/2007/05/18/semantic-markup-microformats-posh/" />
+  <rdf:li rdf:resource="http://microformats.org/wiki/poshformats" />
+  <rdf:li rdf:resource="http://wikimedia.org/" />
+  <rdf:li rdf:resource="http://googleblog.blogspot.com/" />
+  <rdf:li rdf:resource="http://googlewebmastercentral.blogspot.com/" />
+  <rdf:li rdf:resource="http://code.google.com/p/swfobject/" />
+  <rdf:li rdf:resource="http://backpackit.com/tour" />
+  <rdf:li rdf:resource="http://www.musicsailor.com/default.asp?cateID=5" />
+  <rdf:li rdf:resource="http://symfonians.net/applications" />
+  <rdf:li rdf:resource="http://www.symfony-project.org/" />
+  <rdf:li rdf:resource="http://build.last.fm/" />
+  <rdf:li rdf:resource="http://www.ilovejackdaniels.com/blog/what-makes-a-great-developer/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.spokensanskrit.de/">
+<title>Sanskrit Dictionary for Spoken Sanskrit</title>
+<link>http://www.spokensanskrit.de/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:57:36Z</dc:date>
+<dc:subject>dictionary sanskrit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sanskrit" />
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cybergrain.com/tech/hdr/">
+<title>The Future of Digital Imaging - High Dynamic Range Photography (HDR)</title>
+<link>http://www.cybergrain.com/tech/hdr/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:56:57Z</dc:date>
+<dc:subject>hdr photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hdr" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gentlesource.com/">
+<title>PHP Scripts - GentleSource.com</title>
+<link>http://www.gentlesource.com/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:55:39Z</dc:date>
+<dc:subject>php source-code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/source-code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:54:47Z</dc:date>
+<dc:subject>furniture workchair</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/workchair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdevlounge.com/articles/mootools-and-jquery-ajax-shortcuts-for-champions/">
+<title>jQuery: AJAX Shortcuts for Champions | WebDevLounge | design, development, SEO and wordpress | articles, discussion and community</title>
+<link>http://www.webdevlounge.com/articles/mootools-and-jquery-ajax-shortcuts-for-champions/</link>
+<description>I&#x2019;ll be showing you both a simple GET command and a simple POST command (the latter with parameters).</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:46:57Z</dc:date>
+<dc:subject>javascript jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jqueryfordesigners.com/">
+<title>jQuery for Designers - Tutorials and screencasts</title>
+<link>http://jqueryfordesigners.com/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:44:43Z</dc:date>
+<dc:subject>ajax javascript jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description>e need to invite them, describe them how the service works, explain them why they should fill in the form and suggests the benefits they&#x2019;ll get in return. And, of course, we should also make it extremely easy for them to participate.</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:32:18Z</dc:date>
+<dc:subject>web-design web-form</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web-design" />
+    <rdf:li resource="http://del.icio.us/tag/web-form" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nettuts.com/web-roundups/best-of-the-web-june-2008/">
+<title>NETTUTS - Best of the Web - June 2008</title>
+<link>http://nettuts.com/web-roundups/best-of-the-web-june-2008/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-06T12:31:09Z</dc:date>
+<dc:subject>links monthly</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/links" />
+    <rdf:li resource="http://del.icio.us/tag/monthly" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://domscripting.com/">
+<title>DOM Scripting: Web Design with JavaScript and the Document Object Model</title>
+<link>http://domscripting.com/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-05T11:39:25Z</dc:date>
+<dc:subject>DOM</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DOM" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/">
+<title>Digital Web Magazine - Portable Social Networks, The Building Blocks Of A Social Web</title>
+<link>http://www.digital-web.com/articles/portable_social_networks_building_blocks_of_a_social_web/</link>
+<description>The Distributed Social Network&#x2014;or DSN&#x2014;is the idea of bringing together disparate user information easily and interoperably between social services</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-04T19:05:21Z</dc:date>
+<dc:subject>microformats semantic-web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/semantic-web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-04T11:32:06Z</dc:date>
+<dc:subject>icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.mikelopez.info/2006/03/02/php-image-resize-script/">
+<title>PHP Image Resize Script | Mike&#x2019;s Technology Blog</title>
+<link>http://tech.mikelopez.info/2006/03/02/php-image-resize-script/</link>
+<description>So, you want to resize an image in PHP?</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T22:26:24Z</dc:date>
+<dc:subject>php source-code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/source-code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gubukopensource.org/2008/01/17/thumbnail-image-jpeg-seperti-flickr-dengan-php/">
+<title>Thumbnail image JPEG seperti flickr dengan PHP</title>
+<link>http://gubukopensource.org/2008/01/17/thumbnail-image-jpeg-seperti-flickr-dengan-php/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T19:58:18Z</dc:date>
+<dc:subject>php source-code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/source-code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://goosh.org/">
+<title>goosh.org - the unofficial google shell.</title>
+<link>http://goosh.org/</link>
+<description>This google-interface behaves similar to a unix-shell.
+You type commands and the results are shown on this page.</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T12:21:36Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://microformats.org/wiki/geo">
+<title>geo - Microformats</title>
+<link>http://microformats.org/wiki/geo</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T12:06:35Z</dc:date>
+<dc:subject>microformats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tantek.com/presentations/2007/04/microformats/">
+<title>Microformats: Data Formats That Put Humans First</title>
+<link>http://tantek.com/presentations/2007/04/microformats/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T12:03:08Z</dc:date>
+<dc:subject>microformats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digital-web.com/articles/microformats_primer/">
+<title>Digital Web Magazine - Microformats Primer</title>
+<link>http://www.digital-web.com/articles/microformats_primer/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T12:00:23Z</dc:date>
+<dc:subject>microformats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://microformats.org/wiki/semantic-class-names">
+<title>semantic-class-names - Microformats</title>
+<link>http://microformats.org/wiki/semantic-class-names</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T12:00:01Z</dc:date>
+<dc:subject>semantic-web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/semantic-web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://the-u-web.org/">
+<title>The &#xB5; Web</title>
+<link>http://the-u-web.org/</link>
+<description>The Micro Web is a way of using Web technology with a uniform, simple model.</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T11:42:09Z</dc:date>
+<dc:subject>json microformats posh webdev webdev-website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/webdev-website" />
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/posh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alex.tsd.net.au/cpill/2007/05/18/semantic-markup-microformats-posh/">
+<title>Defining the Semantic of Markup at Too much information</title>
+<link>http://alex.tsd.net.au/cpill/2007/05/18/semantic-markup-microformats-posh/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T11:40:46Z</dc:date>
+<dc:subject>POSH microformats semantic-web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/POSH" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/semantic-web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://microformats.org/wiki/poshformats">
+<title>poshformats - Microformats</title>
+<link>http://microformats.org/wiki/poshformats</link>
+<description>poshformats are data formats constructed from the use of semantic class names.</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-03T11:40:16Z</dc:date>
+<dc:subject>POSH microformats poshformats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/POSH" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/poshformats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikimedia.org/">
+<title>Wikimedia Foundation</title>
+<link>http://wikimedia.org/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-02T18:31:29Z</dc:date>
+<dc:subject>wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googleblog.blogspot.com/">
+<title>Official Google Blog</title>
+<link>http://googleblog.blogspot.com/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-02T18:04:08Z</dc:date>
+<dc:subject>google interesting-blogs webdev webdev-website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting-blogs" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/webdev-website" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlewebmastercentral.blogspot.com/">
+<title>Official Google Webmaster Central Blog</title>
+<link>http://googlewebmastercentral.blogspot.com/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-02T18:03:44Z</dc:date>
+<dc:subject>google interesting-blogs webdev webdev-website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting-blogs" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/webdev-website" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/swfobject/">
+<title>swfobject - Google Code</title>
+<link>http://code.google.com/p/swfobject/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-02T18:01:47Z</dc:date>
+<dc:subject>flash javascript swf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/swf" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://backpackit.com/tour">
+<title>Backpack tour by 37signals</title>
+<link>http://backpackit.com/tour</link>
+<description>Gather &#x26;amp; share information on Backpack Pages</description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-02T09:19:08Z</dc:date>
+<dc:subject>37signals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/37signals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.musicsailor.com/default.asp?cateID=5">
+<title>&#x6C34;&#x624B;-Sailor Music Record Label - &#x5199;&#x4E0B;&#x542C;&#x5B8C;&#x97F3;&#x4E50;&#x7684;&#x6587;&#x5B57;.</title>
+<link>http://www.musicsailor.com/default.asp?cateID=5</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-07-01T18:19:24Z</dc:date>
+<dc:subject>mp3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://symfonians.net/applications">
+<title>Symfony applications - Symfonians</title>
+<link>http://symfonians.net/applications</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-06-30T19:51:32Z</dc:date>
+<dc:subject>php php-framework symfony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/symfony" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/php-framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.symfony-project.org/">
+<title>symfony | Web PHP Framework</title>
+<link>http://www.symfony-project.org/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-06-30T19:48:55Z</dc:date>
+<dc:subject>php php-framework symfony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/symfony" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/php-framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://build.last.fm/">
+<title>Build Last.fm: Extend your Last.fm experience</title>
+<link>http://build.last.fm/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-06-30T19:22:46Z</dc:date>
+<dc:subject>audioscrobbler lastfm online-music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lastfm" />
+    <rdf:li resource="http://del.icio.us/tag/audioscrobbler" />
+    <rdf:li resource="http://del.icio.us/tag/online-music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ilovejackdaniels.com/blog/what-makes-a-great-developer/">
+<title>What Makes a Great Developer? - Blog - ILoveJackDaniels.com</title>
+<link>http://www.ilovejackdaniels.com/blog/what-makes-a-great-developer/</link>
+<description></description>
+<dc:creator>playgroundpilot</dc:creator>
+<dc:date>2008-06-30T12:50:18Z</dc:date>
+<dc:subject>reads</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

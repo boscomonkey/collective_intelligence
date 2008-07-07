@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/3stripe">
+<title>del.icio.us/3stripe</title>
+<link>http://del.icio.us/3stripe</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.tweetdeck.com/beta/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://www.youthedesigner.com/2008/06/10/vector-art-free-download-envelope-icon-set/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://1000wordsmag.com/" />
+  <rdf:li rdf:resource="http://songza.com/" />
+  <rdf:li rdf:resource="http://waynedaly.com/" />
+  <rdf:li rdf:resource="http://emehmedovic.com/xmca/toobplayer/#/download/" />
+  <rdf:li rdf:resource="http://www.mediterrasian.com/cuisine_of_month_paella.htm" />
+  <rdf:li rdf:resource="http://www.superfuture.com/city/home/" />
+  <rdf:li rdf:resource="http://www.fourhourworkweek.com/blog/" />
+  <rdf:li rdf:resource="http://www.juliusvonbismarck.com/fulgurator/" />
+  <rdf:li rdf:resource="http://oauth.net/" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html" />
+  <rdf:li rdf:resource="http://tinypaste.com/" />
+  <rdf:li rdf:resource="http://hellotxt.com/" />
+  <rdf:li rdf:resource="https://www.britdoc.org/foundation/" />
+  <rdf:li rdf:resource="http://devthought.com/wp-content/moogets/BarackSlideshow/demo.html" />
+  <rdf:li rdf:resource="http://www.hobnox.com/index.1056.en.html" />
+  <rdf:li rdf:resource="http://www.altabikes.no/" />
+  <rdf:li rdf:resource="http://www.3stripe.net/mp3s/yakushima_maglev.mp3" />
+  <rdf:li rdf:resource="http://methodart.blogspot.com/2007/09/been-too-busy-to-post-for-while-but.html" />
+  <rdf:li rdf:resource="http://www.barbariangroup.com/software/plainview_app_1_0" />
+  <rdf:li rdf:resource="http://oursignal.com/" />
+  <rdf:li rdf:resource="http://hundredpushups.com/index.html" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/dynamic-css-layouts-in-5-minutes/" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/" />
+  <rdf:li rdf:resource="http://www.alpkit.com/support/products/choosing-a-down-sleeping-bag/" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/1082-product-blog-update-import-rss-feeds-into-basecamp-virb-cant-imagine-life-without-campfire-etc" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>&#x26;quot;Our universe came from a tiny little bit of a larger high-entropy space.&#x26;quot; Oh snap, I been saying that for years and no one listened!</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-06T12:29:53Z</dc:date>
+<dc:subject>astronomy entropy physics science space time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tweetdeck.com/beta/">
+<title>TweetDeck</title>
+<link>http://www.tweetdeck.com/beta/</link>
+<description>TweetDeck is an Adobe Air desktop application that is currently in private beta. It aims to evolve the existing functionality of Twitter by taking an abundance of information i.e twitter feeds, and breaking it down into more manageable bite sized pieces.</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-05T21:23:08Z</dc:date>
+<dc:subject>Apps Twitter adobe air desktop marquedigital software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Twitter" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/Apps" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-03T12:26:09Z</dc:date>
+<dc:subject>business clients design freelance marketing sales work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youthedesigner.com/2008/06/10/vector-art-free-download-envelope-icon-set/">
+<title>Vector Art Free Download - Envelope Icon Set | You the Designer</title>
+<link>http://www.youthedesigner.com/2008/06/10/vector-art-free-download-envelope-icon-set/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-02T18:08:31Z</dc:date>
+<dc:subject>Illustrator design download free icons resources vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/Illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-02T13:27:43Z</dc:date>
+<dc:subject>confidence fear happiness lifehacks psychology selfimprovement shyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+    <rdf:li resource="http://del.icio.us/tag/selfimprovement" />
+    <rdf:li resource="http://del.icio.us/tag/confidence" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/fear" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://1000wordsmag.com/">
+<title>1000 words photography</title>
+<link>http://1000wordsmag.com/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-02T08:37:48Z</dc:date>
+<dc:subject>art magazine photo photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://songza.com/">
+<title>Songza / Colplay - Viva La Vida</title>
+<link>http://songza.com/</link>
+<description>Minimal interface - different!</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-01T14:32:16Z</dc:date>
+<dc:subject>audio free mp3 music radio search streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://waynedaly.com/">
+<title>&#xA9; WAYNE DALY MMVIII</title>
+<link>http://waynedaly.com/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-07-01T09:55:48Z</dc:date>
+<dc:subject>architecture design graphic london portfolio print</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/london" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emehmedovic.com/xmca/toobplayer/#/download/">
+<title>ToobPlayer 1.0.0 - Download</title>
+<link>http://emehmedovic.com/xmca/toobplayer/#/download/</link>
+<description>Nice FLV/Youtube player but AS2 only and no streaming</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-30T13:46:41Z</dc:date>
+<dc:subject>JavaScript flash flv free marquedigital player video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediterrasian.com/cuisine_of_month_paella.htm">
+<title>Paella recipe - MediterrAsian.com</title>
+<link>http://www.mediterrasian.com/cuisine_of_month_paella.htm</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-29T13:46:57Z</dc:date>
+<dc:subject>cooking food paella recipe seafood spanish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/paella" />
+    <rdf:li resource="http://del.icio.us/tag/spanish" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/seafood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.superfuture.com/city/home/">
+<title>superfuture</title>
+<link>http://www.superfuture.com/city/home/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-28T23:36:56Z</dc:date>
+<dc:subject>art clothing culture design fashion shopping travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/clothing" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fourhourworkweek.com/blog/">
+<title>The Blog of Author Tim Ferriss | Tim Ferriss&#x2019;s 4-Hour Workweek and Lifestyle Design Blog</title>
+<link>http://www.fourhourworkweek.com/blog/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-28T11:09:51Z</dc:date>
+<dc:subject>Blogs blog gtd lifehacks lifestyle motivation productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/lifestyle" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.juliusvonbismarck.com/fulgurator/">
+<title>Imge Fulgurator</title>
+<link>http://www.juliusvonbismarck.com/fulgurator/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-28T10:31:59Z</dc:date>
+<dc:subject>art guerilla interesting media photo photography technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/guerilla" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oauth.net/">
+<title>OAuth &#x2014; An open protocol to allow secure API authentication in a simple and standard method from desktop and web applications.</title>
+<link>http://oauth.net/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-28T10:27:59Z</dc:date>
+<dc:subject>api authentication identity marquedigital oauth openid opensource security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/oauth" />
+    <rdf:li resource="http://del.icio.us/tag/openid" />
+    <rdf:li resource="http://del.icio.us/tag/identity" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-28T10:02:41Z</dc:date>
+<dc:subject>capture documentation howto mac marquedigital screencapture software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html">
+<title>www.popgive.com: A Few Different Ways To Tie Your Sneakers</title>
+<link>http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-27T16:59:41Z</dc:date>
+<dc:subject>cool design fashion fun howto shoes tie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shoes" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tie" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tinypaste.com/">
+<title>TinyPaste</title>
+<link>http://tinypaste.com/</link>
+<description>Like TinyURL but for text</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-27T12:06:03Z</dc:date>
+<dc:subject>marquedigital notes paste services text tool tools twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/paste" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/services" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hellotxt.com/">
+<title>HelloTxt - Dashboard</title>
+<link>http://hellotxt.com/</link>
+<description>Status Manager enables you to update and read status across all social networks and microblogs with a single click</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-26T22:16:41Z</dc:date>
+<dc:subject>aggregator marquedigital mashup microblogging social tools twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.britdoc.org/foundation/">
+<title>Welcome to the Channel 4 British Documentary Film Foundation</title>
+<link>https://www.britdoc.org/foundation/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-26T15:40:40Z</dc:date>
+<dc:subject>design documentary film inspiration uk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devthought.com/wp-content/moogets/BarackSlideshow/demo.html">
+<title>BarackSlideshow Demo</title>
+<link>http://devthought.com/wp-content/moogets/BarackSlideshow/demo.html</link>
+<description>Clone of the slideshow panel on Obama's website</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-24T13:04:18Z</dc:date>
+<dc:subject>javascript marquedigital slideshow webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hobnox.com/index.1056.en.html">
+<title>hobnox.com :: Your Music, Film &#x26; Urban Culture</title>
+<link>http://www.hobnox.com/index.1056.en.html</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-24T10:07:39Z</dc:date>
+<dc:subject>audio cool flash music software sound tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.altabikes.no/">
+<title>alta</title>
+<link>http://www.altabikes.no/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-23T11:20:26Z</dc:date>
+<dc:subject>advertising bicycle bike bikes cycling design singlespeed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bike" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/bikes" />
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/singlespeed" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.3stripe.net/mp3s/yakushima_maglev.mp3">
+<title>Yakushima - Maglev (dubstep mp3)</title>
+<link>http://www.3stripe.net/mp3s/yakushima_maglev.mp3</link>
+<description>Dubstep tune in progress. Big 2562 influence on this :)</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-23T10:51:58Z</dc:date>
+<dc:subject>dubstep minimal mp3 music musicproduction techno</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/dubstep" />
+    <rdf:li resource="http://del.icio.us/tag/techno" />
+    <rdf:li resource="http://del.icio.us/tag/minimal" />
+    <rdf:li resource="http://del.icio.us/tag/musicproduction" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://methodart.blogspot.com/2007/09/been-too-busy-to-post-for-while-but.html">
+<title>Method Art</title>
+<link>http://methodart.blogspot.com/2007/09/been-too-busy-to-post-for-while-but.html</link>
+<description>Cool effect using face recognition and some other stuff I'm not sure about...</description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-23T00:50:07Z</dc:date>
+<dc:subject>effects video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/effects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.barbariangroup.com/software/plainview_app_1_0">
+<title>plainview : software : the barbarian group</title>
+<link>http://www.barbariangroup.com/software/plainview_app_1_0</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-22T17:50:04Z</dc:date>
+<dc:subject>browser mac marquedigital osx presentation software tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oursignal.com/">
+<title>oursignal.com</title>
+<link>http://oursignal.com/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-19T12:12:07Z</dc:date>
+<dc:subject>aggregator del.icio.us digg mashup news reddit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hundredpushups.com/index.html">
+<title>one hundred push ups</title>
+<link>http://hundredpushups.com/index.html</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-19T12:10:31Z</dc:date>
+<dc:subject>Fitness exercise health howto pushups training workout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fitness" />
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/workout" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/pushups" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/dynamic-css-layouts-in-5-minutes/">
+<title>Dynamic CSS layouts in 5 minutes  |  Anthony Short  |  Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/dynamic-css-layouts-in-5-minutes/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-19T10:20:22Z</dc:date>
+<dc:subject>css design dynamic grid layout tutorial webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/dynamic" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/">
+<title>How to get Cross Browser Compatibility Every Time  |  Anthony Short  |  Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-19T10:13:04Z</dc:date>
+<dc:subject>browsers css howto webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/browsers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alpkit.com/support/products/choosing-a-down-sleeping-bag/">
+<title>Choosing a down sleeping bag - Alpkit</title>
+<link>http://www.alpkit.com/support/products/choosing-a-down-sleeping-bag/</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-14T14:23:04Z</dc:date>
+<dc:subject>camping outdoors tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camping" />
+    <rdf:li resource="http://del.icio.us/tag/outdoors" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/1082-product-blog-update-import-rss-feeds-into-basecamp-virb-cant-imagine-life-without-campfire-etc">
+<title>Product Blog update: Import RSS feeds into Basecamp</title>
+<link>http://www.37signals.com/svn/posts/1082-product-blog-update-import-rss-feeds-into-basecamp-virb-cant-imagine-life-without-campfire-etc</link>
+<description></description>
+<dc:creator>3stripe</dc:creator>
+<dc:date>2008-06-13T21:58:21Z</dc:date>
+<dc:subject>basecamp howto marquedigital rss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/basecamp" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/marquedigital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

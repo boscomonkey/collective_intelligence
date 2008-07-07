@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/florence_malek">
+<title>del.icio.us/florence_malek</title>
+<link>http://del.icio.us/florence_malek</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.thedailygreen.com/going-green/community-tips/reduce-food-waste-460708" />
+  <rdf:li rdf:resource="http://www.pumanet.be/article/make_a_night_vision_torch/" />
+  <rdf:li rdf:resource="http://www.neatorama.com/2008/07/01/the-vicious-cycle-of-staying-up-late/" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/nm/20080702/sc_nm/heart_tea_dc" />
+  <rdf:li rdf:resource="http://lifehacker.com/397662/top-10-summer-projects" />
+  <rdf:li rdf:resource="http://www.momssoapbox.com/july-4th-recipes/" />
+  <rdf:li rdf:resource="http://www.livingwithoutmeat.com/a-day-of-no-chewing-my-juice-fast/" />
+  <rdf:li rdf:resource="http://www.livingwithoutmeat.com/grocery-list-for-a-juice-fast/" />
+  <rdf:li rdf:resource="http://www.colourlovers.com/blog/2008/07/02/the-colorful-art-of-paper-sculpture/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/79492020@N00/2629042602" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/07/7-steps-to-completing-your-projects-on.html" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html" />
+  <rdf:li rdf:resource="http://www.alternet.org/election08/89686/?page=entire&#x26;ses=38f104f9855fc6260b4fd7097680158c" />
+  <rdf:li rdf:resource="http://www.nursingdegree.net/blog/20/101-painless-ways-to-detoxify-your-mind-body-and-home/" />
+  <rdf:li rdf:resource="http://sewmamasew.com/blog2/?p=514" />
+  <rdf:li rdf:resource="http://bitten.blogs.nytimes.com/2008/07/01/my-new-favorite-thing/" />
+  <rdf:li rdf:resource="http://www.huffingtonpost.com/2008/06/30/the-pitfalls-of-perfectio_n_110025.html" />
+  <rdf:li rdf:resource="http://clipmarks.com/clipmark/82AE442F-6BA4-4C36-97B1-ED9A3FD18208/" />
+  <rdf:li rdf:resource="http://clipmarks.com/clipmark/9668F1FE-7BE8-4053-9A63-B0BCABDA3A04/" />
+  <rdf:li rdf:resource="http://clipmarks.com/clipmark/F57892E7-C7CD-4DF1-A891-36A929E67BAF/" />
+  <rdf:li rdf:resource="http://www.carefair.com/Beauty/Lifestyle/Friends_Everyone_Needs_To_Survive_5382.html" />
+  <rdf:li rdf:resource="http://simplyaccessible.org/" />
+  <rdf:li rdf:resource="http://www.nowpublic.com/culture/guerrilla-gardeners" />
+  <rdf:li rdf:resource="http://www.authspot.com/Journals/Silence-is-Deafening.151717" />
+  <rdf:li rdf:resource="http://www.sciam.com/article.cfm?id=no-till&#x26;amp;sc=rss" />
+  <rdf:li rdf:resource="http://www.springwise.com/food_beverage/homegrown_vegetables_no_green/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>http://www.chrisbrogan.com/a-sample-blogging-workflow/</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-06T12:23:27Z</dc:date>
+<dc:subject>blogging howto tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-06T12:20:13Z</dc:date>
+<dc:subject>concentration generator health productivity sound whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/concentration" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thedailygreen.com/going-green/community-tips/reduce-food-waste-460708">
+<title>10 Easy Ways to Reduce Food Waste - Save Money and Food - thedailygreen.com</title>
+<link>http://www.thedailygreen.com/going-green/community-tips/reduce-food-waste-460708</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-04T21:31:32Z</dc:date>
+<dc:subject>environment food health lifehack recycling waste</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/waste" />
+    <rdf:li resource="http://del.icio.us/tag/recycling" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pumanet.be/article/make_a_night_vision_torch/">
+<title>Pumanet | Make a Night Vision torch</title>
+<link>http://www.pumanet.be/article/make_a_night_vision_torch/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-04T14:10:37Z</dc:date>
+<dc:subject>nightvisiontorch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nightvisiontorch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neatorama.com/2008/07/01/the-vicious-cycle-of-staying-up-late/">
+<title>Neatorama &#xBB; Blog Archive &#xBB; The Vicious Cycle of Staying Up Late</title>
+<link>http://www.neatorama.com/2008/07/01/the-vicious-cycle-of-staying-up-late/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:45:22Z</dc:date>
+<dc:subject>cycles sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/cycles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/nm/20080702/sc_nm/heart_tea_dc">
+<title>Green tea protects against heart disease: study - Yahoo! News</title>
+<link>http://news.yahoo.com/s/nm/20080702/sc_nm/heart_tea_dc</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:30:11Z</dc:date>
+<dc:subject>green-tea</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/green-tea" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397662/top-10-summer-projects">
+<title>Lifehacker Top 10: Top 10 Summer Projects</title>
+<link>http://lifehacker.com/397662/top-10-summer-projects</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:20:51Z</dc:date>
+<dc:subject>Crafts diy household howto lifehacks projects summer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/summer" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/Crafts" />
+    <rdf:li resource="http://del.icio.us/tag/household" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/projects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.momssoapbox.com/july-4th-recipes/">
+<title>Mom&#x2019;s Soap Box &#xBB; Blog Archive &#xBB; July 4th Recipes</title>
+<link>http://www.momssoapbox.com/july-4th-recipes/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:16:31Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livingwithoutmeat.com/a-day-of-no-chewing-my-juice-fast/">
+<title>Living Without Meat &#xBB; Blog Archive &#xBB; A Day of No Chewing: My Juice Fast</title>
+<link>http://www.livingwithoutmeat.com/a-day-of-no-chewing-my-juice-fast/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:15:19Z</dc:date>
+<dc:subject>juice-fast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/juice-fast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livingwithoutmeat.com/grocery-list-for-a-juice-fast/">
+<title>Living Without Meat &#xBB; Blog Archive &#xBB; Grocery List for a Juice Fast</title>
+<link>http://www.livingwithoutmeat.com/grocery-list-for-a-juice-fast/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-03T00:14:44Z</dc:date>
+<dc:subject>juice-fast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/juice-fast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.colourlovers.com/blog/2008/07/02/the-colorful-art-of-paper-sculpture/">
+<title>Color + Design Blog / The Colorful Art of Paper Sculpture by COLOURlovers</title>
+<link>http://www.colourlovers.com/blog/2008/07/02/the-colorful-art-of-paper-sculpture/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T20:07:22Z</dc:date>
+<dc:subject>art paper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/79492020@N00/2629042602">
+<title>=|=|=|=| on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/79492020@N00/2629042602</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T20:05:09Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/07/7-steps-to-completing-your-projects-on.html">
+<title>7 Steps to Completing Your Projects on Time</title>
+<link>http://www.dumblittleman.com/2008/07/7-steps-to-completing-your-projects-on.html</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T20:04:13Z</dc:date>
+<dc:subject>habits improvement organization productivity project projectmanagement projects selfimprovement tips work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/selfimprovement" />
+    <rdf:li resource="http://del.icio.us/tag/projects" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/habits" />
+    <rdf:li resource="http://del.icio.us/tag/improvement" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/">
+<title>The Simple Dollar &#xBB; A Clever Trick for Automatically Finding Deals You Want at Amazon</title>
+<link>http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T19:52:17Z</dc:date>
+<dc:subject>amazon bargains frugality saving shopping tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/bargains" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/saving" />
+    <rdf:li resource="http://del.icio.us/tag/frugality" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done | Zen Habits</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T19:41:44Z</dc:date>
+<dc:subject>Zenhabits</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Zenhabits" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A">
+<title>The Minimalist - 101 Picnic Dishes to Make in 20 Minutes - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T19:07:15Z</dc:date>
+<dc:subject>Recipes cooking fast healthy howto picnic salad simple</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Recipes" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/fast" />
+    <rdf:li resource="http://del.icio.us/tag/healthy" />
+    <rdf:li resource="http://del.icio.us/tag/salad" />
+    <rdf:li resource="http://del.icio.us/tag/simple" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/picnic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html">
+<title>How To Lose Belly Fat - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T19:06:32Z</dc:date>
+<dc:subject>Fitness diet exercise health lifehack weightloss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/Fitness" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/weightloss" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternet.org/election08/89686/?page=entire&#x26;ses=38f104f9855fc6260b4fd7097680158c">
+<title>The 10 Most Awesomely Bad Moments of the Bush Presidency | Election 2008 | AlterNet</title>
+<link>http://www.alternet.org/election08/89686/?page=entire&#x26;ses=38f104f9855fc6260b4fd7097680158c</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T11:17:35Z</dc:date>
+<dc:subject>bush history politics president</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/bush" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/president" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nursingdegree.net/blog/20/101-painless-ways-to-detoxify-your-mind-body-and-home/">
+<title>NursingDegree.net &#xBB; 101 Painless Ways to Detoxify Your Mind, Body, and Home</title>
+<link>http://www.nursingdegree.net/blog/20/101-painless-ways-to-detoxify-your-mind-body-and-home/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T00:29:26Z</dc:date>
+<dc:subject>Detox body detoxify fitness health healthcare lifehacks mind nutrition</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/detoxify" />
+    <rdf:li resource="http://del.icio.us/tag/body" />
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+    <rdf:li resource="http://del.icio.us/tag/mind" />
+    <rdf:li resource="http://del.icio.us/tag/Detox" />
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/nutrition" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sewmamasew.com/blog2/?p=514">
+<title>Sew,Mama,Sew! Blog &#xBB; &#xBB; Classic Tote Tutorial</title>
+<link>http://sewmamasew.com/blog2/?p=514</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T00:28:48Z</dc:date>
+<dc:subject>Crafts bags sewing tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sewing" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/bags" />
+    <rdf:li resource="http://del.icio.us/tag/Crafts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bitten.blogs.nytimes.com/2008/07/01/my-new-favorite-thing/">
+<title>My New Favorite Thing - Bitten - Dining &#x26; Wine - New York Times Blog</title>
+<link>http://bitten.blogs.nytimes.com/2008/07/01/my-new-favorite-thing/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-02T00:27:47Z</dc:date>
+<dc:subject>appetizers chickpeas fries recipes snack vegetarian</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/vegetarian" />
+    <rdf:li resource="http://del.icio.us/tag/fries" />
+    <rdf:li resource="http://del.icio.us/tag/chickpeas" />
+    <rdf:li resource="http://del.icio.us/tag/appetizers" />
+    <rdf:li resource="http://del.icio.us/tag/snack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.huffingtonpost.com/2008/06/30/the-pitfalls-of-perfectio_n_110025.html">
+<title>http://www.huffingtonpost.com/2008/06/30/the-pitfalls-of-perfectio_n_110025.html</title>
+<link>http://www.huffingtonpost.com/2008/06/30/the-pitfalls-of-perfectio_n_110025.html</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-01T00:09:52Z</dc:date>
+<dc:subject>perfectionism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perfectionism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clipmarks.com/clipmark/82AE442F-6BA4-4C36-97B1-ED9A3FD18208/">
+<title>The Body Thinks | Clipmarks</title>
+<link>http://clipmarks.com/clipmark/82AE442F-6BA4-4C36-97B1-ED9A3FD18208/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-01T00:07:42Z</dc:date>
+<dc:subject>bodythinks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bodythinks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clipmarks.com/clipmark/9668F1FE-7BE8-4053-9A63-B0BCABDA3A04/">
+<title>Lifestraw Named World-Changing Idea | Clipmarks</title>
+<link>http://clipmarks.com/clipmark/9668F1FE-7BE8-4053-9A63-B0BCABDA3A04/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-01T00:07:02Z</dc:date>
+<dc:subject>waterfilters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/waterfilters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clipmarks.com/clipmark/F57892E7-C7CD-4DF1-A891-36A929E67BAF/">
+<title>Get Out of Your Own Way | Clipmarks</title>
+<link>http://clipmarks.com/clipmark/F57892E7-C7CD-4DF1-A891-36A929E67BAF/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-01T00:06:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.carefair.com/Beauty/Lifestyle/Friends_Everyone_Needs_To_Survive_5382.html">
+<title>CareFair.com - The Friends Everyone Needs To Survive</title>
+<link>http://www.carefair.com/Beauty/Lifestyle/Friends_Everyone_Needs_To_Survive_5382.html</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T23:37:44Z</dc:date>
+<dc:subject>friends</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friends" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplyaccessible.org/">
+<title>Simply Accessible</title>
+<link>http://simplyaccessible.org/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T23:29:19Z</dc:date>
+<dc:subject>accessibility design usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nowpublic.com/culture/guerrilla-gardeners">
+<title>Guerrilla Gardeners | The News is NowPublic.com</title>
+<link>http://www.nowpublic.com/culture/guerrilla-gardeners</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T23:26:17Z</dc:date>
+<dc:subject>guerrilla-gardeners</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guerrilla-gardeners" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.authspot.com/Journals/Silence-is-Deafening.151717">
+<title>Silence is Deafening</title>
+<link>http://www.authspot.com/Journals/Silence-is-Deafening.151717</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T20:32:01Z</dc:date>
+<dc:subject>deafness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/deafness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciam.com/article.cfm?id=no-till&#x26;amp;sc=rss">
+<title>No-Till: How Farmers Are Saving the Soil by Parking Their Plows: Scientific American</title>
+<link>http://www.sciam.com/article.cfm?id=no-till&#x26;amp;sc=rss</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T20:23:53Z</dc:date>
+<dc:subject>farming no-till</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/no-till" />
+    <rdf:li resource="http://del.icio.us/tag/farming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.springwise.com/food_beverage/homegrown_vegetables_no_green/">
+<title>Springwise: Homegrown vegetables, no green thumb needed</title>
+<link>http://www.springwise.com/food_beverage/homegrown_vegetables_no_green/</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-06-30T20:23:04Z</dc:date>
+<dc:subject>homegrown vegetables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/homegrown" />
+    <rdf:li resource="http://del.icio.us/tag/vegetables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lynnetai">
+<title>del.icio.us/lynnetai</title>
+<link>http://del.icio.us/lynnetai</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.hbo.com/docs" />
+  <rdf:li rdf:resource="http://www.ditto.com/default.aspx" />
+  <rdf:li rdf:resource="http://www.yearofreading.org.uk/wikireadia/index.php?title=Welcome_to_Wikireadia" />
+  <rdf:li rdf:resource="http://www.teacherfiles.com/free_word_art.htm" />
+  <rdf:li rdf:resource="http://letsplaymath.wordpress.com/2008/01/04/2008-mathematics-game" />
+  <rdf:li rdf:resource="http://www.kibble.net/magic/math.php" />
+  <rdf:li rdf:resource="http://www.thriftmac.com/top-10-free-mac-apps-2008" />
+  <rdf:li rdf:resource="http://www.dvdvideosoft.com/products/dvd/Free-YouTube-to-MP3-Converter.htm" />
+  <rdf:li rdf:resource="http://www.tweetdeck.com/beta" />
+  <rdf:li rdf:resource="http://en.ekpenso.com/" />
+  <rdf:li rdf:resource="http://www.99counters.com/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/dir/readair" />
+  <rdf:li rdf:resource="http://www.cc4g.net/public/index.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/397778/dropbox-syncs-and-backs-up-files-between-computers-instantaneously" />
+  <rdf:li rdf:resource="http://www.oscarstringer.co.uk/index.html" />
+  <rdf:li rdf:resource="http://www.animationforeducation.co.uk/home_index.htm" />
+  <rdf:li rdf:resource="http://www.arkive.org/" />
+  <rdf:li rdf:resource="http://www.pixar.com/" />
+  <rdf:li rdf:resource="http://www.filmeducation.org/" />
+  <rdf:li rdf:resource="http://clips.e2bn.org/competitions/cambridge/index.php?cid=0" />
+  <rdf:li rdf:resource="http://www.debategraph.org/" />
+  <rdf:li rdf:resource="http://www.butterflyalphabet.com/main/index.php" />
+  <rdf:li rdf:resource="http://www.clutterme.com/" />
+  <rdf:li rdf:resource="http://www.learningplace.com.au/deliver/content.asp?pid=15432" />
+  <rdf:li rdf:resource="http://www.mce.k12tn.net/units/units_with_books.htm" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/grace_kat/kla-maths-_-measurement-data" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/pennmanormath/geometry" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/grace_kat/kla-_-maths-_-number" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/adinasullivan/mathematics" />
+  <rdf:li rdf:resource="http://www.diigo.com/list/cobannon/wiki-examples" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T09:54:45Z</dc:date>
+<dc:subject>Susie_Vesper education educationalsoftware flickr tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/educationalsoftware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/Susie_Vesper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hbo.com/docs">
+<title>HBO: Documentaries</title>
+<link>http://www.hbo.com/docs</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T07:53:50Z</dc:date>
+<dc:subject>documentaries films hbo videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hbo" />
+    <rdf:li resource="http://del.icio.us/tag/documentaries" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/films" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ditto.com/default.aspx">
+<title>Ditto.com - see the web</title>
+<link>http://www.ditto.com/default.aspx</link>
+<description>Ditto provides visual search of the web using pictures. Users are linked to the originating web site on which the pictures are located. Should you wish to use any picture, photo or artwork you see during the search process, you must obtain the appropriate</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T07:50:09Z</dc:date>
+<dc:subject>ditto.com images photography photos search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/ditto.com" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yearofreading.org.uk/wikireadia/index.php?title=Welcome_to_Wikireadia">
+<title>Welcome to Wikireadia - WikiREADia</title>
+<link>http://www.yearofreading.org.uk/wikireadia/index.php?title=Welcome_to_Wikireadia</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T07:44:58Z</dc:date>
+<dc:subject>english reading wikireadia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikireadia" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teacherfiles.com/free_word_art.htm">
+<title>Free Word Art Generator - Make your own fancy signs.</title>
+<link>http://www.teacherfiles.com/free_word_art.htm</link>
+<description>Use this amazing tool to turn any text into a fancy sign that you can save and use wherever you need it.
+ You can select the size, font, a cool 3D style, and the color to make this word-art sign truly your own.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T06:26:52Z</dc:date>
+<dc:subject>fancy generator signs wordart</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/signs" />
+    <rdf:li resource="http://del.icio.us/tag/fancy" />
+    <rdf:li resource="http://del.icio.us/tag/wordart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://letsplaymath.wordpress.com/2008/01/04/2008-mathematics-game">
+<title>2008 Mathematics Game &#xAB; Let&#x2019;s Play Math!</title>
+<link>http://letsplaymath.wordpress.com/2008/01/04/2008-mathematics-game</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T04:33:08Z</dc:date>
+<dc:subject>games math maths puzzle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/puzzle" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kibble.net/magic/math.php">
+<title>The Mathematics of Magic The Gathering: Probability, Statistics, Game Theory, and Strategy</title>
+<link>http://www.kibble.net/magic/math.php</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T04:31:18Z</dc:date>
+<dc:subject>game_theory maths probability statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/probability" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/game_theory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thriftmac.com/top-10-free-mac-apps-2008">
+<title>Best Mac freeware and free Mac games: Top 10 free Mac apps 2008: thriftmac</title>
+<link>http://www.thriftmac.com/top-10-free-mac-apps-2008</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T04:29:30Z</dc:date>
+<dc:subject>apple applications mac thriftmac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thriftmac" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dvdvideosoft.com/products/dvd/Free-YouTube-to-MP3-Converter.htm">
+<title>Free YouTube to MP3 Converter: extract audio from YouTube to mp3</title>
+<link>http://www.dvdvideosoft.com/products/dvd/Free-YouTube-to-MP3-Converter.htm</link>
+<description>Free YouTube to MP3 Converter. Extract and download audio from YouTube and Google videos and save it as MP3 files on your PC with one mouse click and with this YouTube Converter!
+Convert *.flv video files to *.mp3.
+Free YouTube to MP3 Converter contains n</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T00:55:49Z</dc:date>
+<dc:subject>converter mp3 youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tweetdeck.com/beta">
+<title>TweetDeck</title>
+<link>http://www.tweetdeck.com/beta</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-06T00:45:09Z</dc:date>
+<dc:subject>air tweetdeck twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/tweetdeck" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.ekpenso.com/">
+<title>Ekpenso</title>
+<link>http://en.ekpenso.com/</link>
+<description>Ekpenso.com is an online mindmapping tool. Create and share your mindmaps. Ekpenso.com offers the ability to edit your mindmaps even when your offline: There is a google gears and a Adobe-air version.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T16:34:56Z</dc:date>
+<dc:subject>mindmapping mindmaps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+    <rdf:li resource="http://del.icio.us/tag/mindmaps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.99counters.com/">
+<title>Free web counter generator</title>
+<link>http://www.99counters.com/</link>
+<description>Create Web Counters
+With your free account from 99counters you can now create customized web counters for your website, blog and social network profiles.
+Using 99counters is a powerful and effective way to get instant web statistics.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:45:38Z</dc:date>
+<dc:subject>blog_tools counter generator statistics tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/counter" />
+    <rdf:li resource="http://del.icio.us/tag/blog_tools" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/dir/readair">
+<title>ReadAir : Google Reader App for your Desktop | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/dir/readair</link>
+<description>ReadAir - Google Reader App for your desktop that works on Adobe Air. The application is quite new and still lacks some of the power-user features but as far as I can tell all the basics are there.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:43:31Z</dc:date>
+<dc:subject>googlereader readair rss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readair" />
+    <rdf:li resource="http://del.icio.us/tag/googlereader" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cc4g.net/public/index.html">
+<title>Computer Clubs for Girls</title>
+<link>http://www.cc4g.net/public/index.html</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:42:22Z</dc:date>
+<dc:subject>clubs computer_club girls ict</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clubs" />
+    <rdf:li resource="http://del.icio.us/tag/computer_club" />
+    <rdf:li resource="http://del.icio.us/tag/girls" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397778/dropbox-syncs-and-backs-up-files-between-computers-instantaneously">
+<title>Featured Download: Dropbox Syncs and Backs Up Files Between Computers Instantaneously</title>
+<link>http://lifehacker.com/397778/dropbox-syncs-and-backs-up-files-between-computers-instantaneously</link>
+<description>Freeware application and web service Dropbox instantaneously backs up and syncs your files over the internet and to any computer.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:36:00Z</dc:date>
+<dc:subject>dropbox file_sync files filesharing sync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dropbox" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/file_sync" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oscarstringer.co.uk/index.html">
+<title>Digital Creativity in Education</title>
+<link>http://www.oscarstringer.co.uk/index.html</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:32:41Z</dc:date>
+<dc:subject>animation creativity digital_photography films stop-motion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/digital_photography" />
+    <rdf:li resource="http://del.icio.us/tag/films" />
+    <rdf:li resource="http://del.icio.us/tag/stop-motion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.animationforeducation.co.uk/home_index.htm">
+<title>South Street Studios</title>
+<link>http://www.animationforeducation.co.uk/home_index.htm</link>
+<description>Oscar Stringer the director and founder has developed a strong and reliable reputation for providing the opportunity for students of all ages to discover the art and craft of model animation.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:30:34Z</dc:date>
+<dc:subject>animation studios</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/studios" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arkive.org/">
+<title>ARKive - A unique collection of thousands of videos, images and fact-files illustrating the world's species.</title>
+<link>http://www.arkive.org/</link>
+<description>a unique collection of thousands of videos, images and fact-files illustrating the world's species.</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:29:30Z</dc:date>
+<dc:subject>animals biology nature photography reference resources science wildlife</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animals" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/wildlife" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixar.com/">
+<title>Pixar Animation Studios</title>
+<link>http://www.pixar.com/</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:28:22Z</dc:date>
+<dc:subject>3d animation design entertainment film pixar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pixar" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.filmeducation.org/">
+<title>Film Education: the unique link between education and the UK film industry</title>
+<link>http://www.filmeducation.org/</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:27:45Z</dc:date>
+<dc:subject>education english film resources teaching visual_language</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/visual_language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clips.e2bn.org/competitions/cambridge/index.php?cid=0">
+<title>Cambridgeshire Film Festival</title>
+<link>http://clips.e2bn.org/competitions/cambridge/index.php?cid=0</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T09:26:37Z</dc:date>
+<dc:subject>film_festival student_videos videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film_festival" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/student_videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.debategraph.org/">
+<title>Debategraph home</title>
+<link>http://www.debategraph.org/</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T07:43:35Z</dc:date>
+<dc:subject>debategraph debating english oral_language speeches</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debategraph" />
+    <rdf:li resource="http://del.icio.us/tag/debating" />
+    <rdf:li resource="http://del.icio.us/tag/speeches" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/oral_language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.butterflyalphabet.com/main/index.php">
+<title>Butterfly Posters, Books, Prints</title>
+<link>http://www.butterflyalphabet.com/main/index.php</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T06:47:15Z</dc:date>
+<dc:subject>alpahbet butterfly posters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/butterfly" />
+    <rdf:li resource="http://del.icio.us/tag/alpahbet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clutterme.com/">
+<title>ClutterMe.com: Custom Homepage, 1 Page Website, One page website</title>
+<link>http://www.clutterme.com/</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T06:38:09Z</dc:date>
+<dc:subject>clutterme design startpage web web2.0 webpage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/clutterme" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/startpage" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webpage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learningplace.com.au/deliver/content.asp?pid=15432">
+<title>Literacy - Sharing Images of Success&#xA0;-&#xA0;Downloadable Resources&#xA0;-&#xA0;Spelling</title>
+<link>http://www.learningplace.com.au/deliver/content.asp?pid=15432</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T06:25:20Z</dc:date>
+<dc:subject>downloadable english language_arts spelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spelling" />
+    <rdf:li resource="http://del.icio.us/tag/downloadable" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/language_arts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mce.k12tn.net/units/units_with_books.htm">
+<title>Reading Units</title>
+<link>http://www.mce.k12tn.net/units/units_with_books.htm</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-05T06:24:45Z</dc:date>
+<dc:subject>LanguageArts books english reading resources units</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/units" />
+    <rdf:li resource="http://del.icio.us/tag/LanguageArts" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/grace_kat/kla-maths-_-measurement-data">
+<title>KLA Maths - Measurement</title>
+<link>http://www.diigo.com/list/grace_kat/kla-maths-_-measurement-data</link>
+<description>Length, Area, Mass, Volume</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-04T08:58:37Z</dc:date>
+<dc:subject>Measurement data graphs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Measurement" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/graphs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/pennmanormath/geometry">
+<title>Geometry</title>
+<link>http://www.diigo.com/list/pennmanormath/geometry</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-04T08:56:50Z</dc:date>
+<dc:subject>geometry maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/geometry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/grace_kat/kla-_-maths-_-number">
+<title>KLA - Maths - Number</title>
+<link>http://www.diigo.com/list/grace_kat/kla-_-maths-_-number</link>
+<description>whole number, addition</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-04T08:52:21Z</dc:date>
+<dc:subject>Number maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Number" />
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/adinasullivan/mathematics">
+<title>Mathematics</title>
+<link>http://www.diigo.com/list/adinasullivan/mathematics</link>
+<description></description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-04T08:51:22Z</dc:date>
+<dc:subject>maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diigo.com/list/cobannon/wiki-examples">
+<title>Wiki Examples</title>
+<link>http://www.diigo.com/list/cobannon/wiki-examples</link>
+<description>Collection of classroom, student wikis</description>
+<dc:creator>lynnetai</dc:creator>
+<dc:date>2008-07-04T08:31:59Z</dc:date>
+<dc:subject>examples wikis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikis" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

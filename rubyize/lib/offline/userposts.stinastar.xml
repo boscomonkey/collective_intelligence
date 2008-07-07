@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/stinastar">
+<title>del.icio.us/stinastar</title>
+<link>http://del.icio.us/stinastar</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.vconversion.com/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://www.hittarecept.se/recept/bacon%20potatis/2" />
+  <rdf:li rdf:resource="http://www.barnskospecialisten.se/webbshopen.aspx?namn=F%C3%B6rsta%20g%C3%A5%20Bl%C3%A5&#x26;brand=KAVAT&#x26;Skorea=y&#x26;id=1060251&#x26;page=18" />
+  <rdf:li rdf:resource="http://del.icio.us/for/stinastar" />
+  <rdf:li rdf:resource="http://www.lakartidningen.se/index.php?sectionId=0&#x26;articleId=7124" />
+  <rdf:li rdf:resource="http://www.alltommat.se/sok?c=96" />
+  <rdf:li rdf:resource="http://www.nykoping.se/sv/Bo_i_nykoping/Bo/Leva_har_i_nykoping/" />
+  <rdf:li rdf:resource="http://www.aftonbladet.se/matvin/article2121891.ab" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.vconversion.com/">
+<title>YouTube Converter - Convert Online YouTube Videos - Download YouTube video - Online YouTube converter</title>
+<link>http://www.vconversion.com/</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-07-06T11:53:19Z</dc:date>
+<dc:subject>converter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-07-06T11:53:04Z</dc:date>
+<dc:subject>converter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-07-05T15:13:10Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-07-05T15:11:01Z</dc:date>
+<dc:subject>ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hittarecept.se/recept/bacon%20potatis/2">
+<title>Recept p&#xE5; bacon potatis, Potatisbullar med bacon och Baconbiffar</title>
+<link>http://www.hittarecept.se/recept/bacon%20potatis/2</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-05-27T17:51:54Z</dc:date>
+<dc:subject>recept</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recept" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.barnskospecialisten.se/webbshopen.aspx?namn=F%C3%B6rsta%20g%C3%A5%20Bl%C3%A5&#x26;brand=KAVAT&#x26;Skorea=y&#x26;id=1060251&#x26;page=18">
+<title>F&#xF6;rsta g&#xE5; Bl&#xE5; - Bl&#xE5; - KAVAT - Skorea - K&#xF6;pa billiga Barnskor &#x26; sm&#xE5; skor f&#xF6;r barn - Barnskospecialisten i Stockholm &#x26; p&#xE5; n&#xE4;tet - Lasten Keng&#xE4;t</title>
+<link>http://www.barnskospecialisten.se/webbshopen.aspx?namn=F%C3%B6rsta%20g%C3%A5%20Bl%C3%A5&#x26;brand=KAVAT&#x26;Skorea=y&#x26;id=1060251&#x26;page=18</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-05-20T17:43:11Z</dc:date>
+<dc:subject>Barnskor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Barnskor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/for/stinastar">
+<title>del.icio.us/for/stinastar</title>
+<link>http://del.icio.us/for/stinastar</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-05-07T20:49:17Z</dc:date>
+<dc:subject>roobins</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/roobins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lakartidningen.se/index.php?sectionId=0&#x26;articleId=7124">
+<title>L&#xE4;kartidningen</title>
+<link>http://www.lakartidningen.se/index.php?sectionId=0&#x26;articleId=7124</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-04-28T18:41:54Z</dc:date>
+<dc:subject>Rumpan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Rumpan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alltommat.se/sok?c=96">
+<title>Allt om Mat</title>
+<link>http://www.alltommat.se/sok?c=96</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-04-27T22:41:53Z</dc:date>
+<dc:subject>recept</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recept" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nykoping.se/sv/Bo_i_nykoping/Bo/Leva_har_i_nykoping/">
+<title>Hyra - Nyk&#xF6;pings kommun</title>
+<link>http://www.nykoping.se/sv/Bo_i_nykoping/Bo/Leva_har_i_nykoping/</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-04-20T21:17:32Z</dc:date>
+<dc:subject>Bostad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Bostad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aftonbladet.se/matvin/article2121891.ab">
+<title>Fisk f&#xF6;r barn. Recept p&#xE5; fiskpinnar med corn flakes, laxburgare, makrill och laxpastapytt. | Mat &#x26; Vin | Aftonbladet</title>
+<link>http://www.aftonbladet.se/matvin/article2121891.ab</link>
+<description></description>
+<dc:creator>stinastar</dc:creator>
+<dc:date>2008-04-05T10:46:23Z</dc:date>
+<dc:subject>Recept</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Recept" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

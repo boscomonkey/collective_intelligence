@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/f.grant">
+<title>del.icio.us/f.grant</title>
+<link>http://del.icio.us/f.grant</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.peachpit.com/articles/article.aspx?p=412366" />
+  <rdf:li rdf:resource="http://www.teachnz.govt.nz/thinking-of-becoming-a-teacher/pasifika/what-do-pasifika-teachers-say" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/advantages_of_bilingualism" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/bilingualism" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/value_of_bilingualism" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/being_bilingual" />
+  <rdf:li rdf:resource="http://www.tki.org.nz/r/wick_ed/pasifika/patterns.php" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/parents_and_bilingual_learning/(quality)/small" />
+  <rdf:li rdf:resource="http://www.tki.org.nz/r/pasifika/spacpac/" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/media/video/two_languages_at_school" />
+  <rdf:li rdf:resource="http://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Tongans/4/en" />
+  <rdf:li rdf:resource="http://www.pacificstories.com.au/" />
+  <rdf:li rdf:resource="http://kids11.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.tki.org.nz/r/pasifika/hotshots/movies/hotshots_01_e.php" />
+  <rdf:li rdf:resource="http://leap.tki.org.nz/about_leap" />
+  <rdf:li rdf:resource="http://www.twitbin.com/" />
+  <rdf:li rdf:resource="https://staff.ace.ac.nz/channels/its/its/" />
+  <rdf:li rdf:resource="http://intranet.teamsolutions.ac.nz/leavingstaff.php" />
+  <rdf:li rdf:resource="http://summize.com/" />
+  <rdf:li rdf:resource="http://tweetboards.com/" />
+  <rdf:li rdf:resource="http://www.twhirl.org/" />
+  <rdf:li rdf:resource="http://www.kidderlit.com/" />
+  <rdf:li rdf:resource="http://www.twitterlit.com/" />
+  <rdf:li rdf:resource="http://iconfactory.com/software/twitterrific" />
+  <rdf:li rdf:resource="http://www.tweetwheel.com/" />
+  <rdf:li rdf:resource="http://connect.educause.edu/Library/ELI/7ThingsYouShouldKnowAbout/44762" />
+  <rdf:li rdf:resource="http://haikutue.com/index.php?max_id=836650823&#x26;page=2" />
+  <rdf:li rdf:resource="http://twitter.pbwiki.com/Hashtags" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/" />
+  <rdf:li rdf:resource="http://www.teachertube.com/view_video.php?viewkey=0013367f24e0b1fa7594" />
+  <rdf:li rdf:resource="http://www.sciencelearn.org.nz/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.peachpit.com/articles/article.aspx?p=412366">
+<title>Peachpit: iMovie &#x3E; The Steps of Making a Movie</title>
+<link>http://www.peachpit.com/articles/article.aspx?p=412366</link>
+<description>Easy step by step guide to iMovie</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-07-01T08:44:29Z</dc:date>
+<dc:subject>MacStuff</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MacStuff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachnz.govt.nz/thinking-of-becoming-a-teacher/pasifika/what-do-pasifika-teachers-say">
+<title>TeachNZ - What do Pasifika teachers say?</title>
+<link>http://www.teachnz.govt.nz/thinking-of-becoming-a-teacher/pasifika/what-do-pasifika-teachers-say</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T08:55:55Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/advantages_of_bilingualism">
+<title>Advantages of bilingualism / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/advantages_of_bilingualism</link>
+<description>Bilingual students are able to draw on the additional resources of two languages and two cultures.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T08:05:45Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/bilingualism">
+<title>Bilingualism / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/bilingualism</link>
+<description>Research shows that there are clear educational advantages in bilingual learning, but using a Pasifika language has sometimes been considered a liability.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T08:02:28Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/value_of_bilingualism">
+<title>Value of bilingualism / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/value_of_bilingualism</link>
+<description>Bilingual people value their bilingualism because of the wide range of people they can communicate with, the ability to operate in two cultures, and the access it gives them to local and international knowledge and skills.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T08:01:45Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/being_bilingual">
+<title>Being bilingual / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/being_bilingual</link>
+<description>Students like being able to work in two languages and they are aware that it helps them to learn more easily.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:59:32Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tki.org.nz/r/wick_ed/pasifika/patterns.php">
+<title>:: wickED - Pasifika patterns ::</title>
+<link>http://www.tki.org.nz/r/wick_ed/pasifika/patterns.php</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:53:59Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/parents_and_bilingual_learning/(quality)/small">
+<title>Parents and bilingual learning / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/parents_and_bilingual_learning/(quality)/small</link>
+<description>Parents are pleased with new approaches to bilingual learning. They see the advantages that children get from using both their languages.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:52:53Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tki.org.nz/r/pasifika/spacpac/">
+<title>TKI - sPACIFICally PACIFIC</title>
+<link>http://www.tki.org.nz/r/pasifika/spacpac/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:50:23Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/media/video/two_languages_at_school">
+<title>Two languages at school / Video / Media - LEAP</title>
+<link>http://leap.tki.org.nz/media/video/two_languages_at_school</link>
+<description>It helps students to use both their languages in class. There are ways any teacher can support this.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:40:03Z</dc:date>
+<dc:subject>Pasifika_LEAP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika_LEAP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Tongans/4/en">
+<title>Tongans - Pacific Islands identity - Te Ara Encyclopedia of New Zealand</title>
+<link>http://www.teara.govt.nz/NewZealanders/NewZealandPeoples/Tongans/4/en</link>
+<description>This section of the Te Ara Encyclopedia of New Zealand has links and information about the Tongan cultural identity. Contains images and video clips.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:32:25Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pacificstories.com.au/">
+<title>Pacific Stories Learning</title>
+<link>http://www.pacificstories.com.au/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-30T07:31:16Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kids11.blogspot.com/">
+<title>Room 11's BlogSpot</title>
+<link>http://kids11.blogspot.com/</link>
+<description>Jason Peel, Northcote Primary</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-27T14:38:11Z</dc:date>
+<dc:subject>ICTPDcluster</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICTPDcluster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tki.org.nz/r/pasifika/hotshots/movies/hotshots_01_e.php">
+<title>TKI - Pasifika - Hotshots - Sione's Dream</title>
+<link>http://www.tki.org.nz/r/pasifika/hotshots/movies/hotshots_01_e.php</link>
+<description>Sione's Dream was written and filmed between 5&#x2013;7 April 2005 by the Freshies from Newlands College.
+
+</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-27T02:16:39Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leap.tki.org.nz/about_leap">
+<title>About LEAP / Language Enhancing the Achievement of Pasifika - LEAP</title>
+<link>http://leap.tki.org.nz/about_leap</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-27T02:15:26Z</dc:date>
+<dc:subject>Pasifika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Pasifika" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.twitbin.com/">
+<title>TwitBin - twitter your browser - twitbin.com</title>
+<link>http://www.twitbin.com/</link>
+<description>Send and receive messages to all your fellow twitterholics, right from your firefox browser.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-25T07:00:26Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://staff.ace.ac.nz/channels/its/its/">
+<title>IT Services | Faculty of Education Staff Intranet</title>
+<link>https://staff.ace.ac.nz/channels/its/its/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-24T20:40:38Z</dc:date>
+<dc:subject>Team_Solutions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Team_Solutions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://intranet.teamsolutions.ac.nz/leavingstaff.php">
+<title>Leaving Staff Form</title>
+<link>http://intranet.teamsolutions.ac.nz/leavingstaff.php</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-24T20:38:20Z</dc:date>
+<dc:subject>Team_Solutions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Team_Solutions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://summize.com/">
+<title>Summize Conversational Search</title>
+<link>http://summize.com/</link>
+<description>Conversational Search on twitter by #tags</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-24T11:18:29Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tweetboards.com/">
+<title>Tweet Boards</title>
+<link>http://tweetboards.com/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-24T11:10:53Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.twhirl.org/">
+<title>twhirl</title>
+<link>http://www.twhirl.org/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-24T08:35:25Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kidderlit.com/">
+<title>KidderLit</title>
+<link>http://www.kidderlit.com/</link>
+<description>What is KidderLit? It's a TwitterLit for kids!</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-20T11:28:51Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.twitterlit.com/">
+<title>TwitterLit</title>
+<link>http://www.twitterlit.com/</link>
+<description>It's a site that serves up literary teasers twice daily.</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-20T11:13:51Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://iconfactory.com/software/twitterrific">
+<title>Twitterrific</title>
+<link>http://iconfactory.com/software/twitterrific</link>
+<description>Twitterrific is a fun application that lets you both read and publish posts or &#x26;quot;tweets&#x26;quot; to the Twitter community</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-20T11:11:56Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tweetwheel.com/">
+<title>TweetWheel -</title>
+<link>http://www.tweetwheel.com/</link>
+<description>Find out which of your Twitter friends know each other!</description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-20T11:09:59Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://connect.educause.edu/Library/ELI/7ThingsYouShouldKnowAbout/44762">
+<title>7 Things You Should Know About Twitter</title>
+<link>http://connect.educause.edu/Library/ELI/7ThingsYouShouldKnowAbout/44762</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-20T11:06:46Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://haikutue.com/index.php?max_id=836650823&#x26;page=2">
+<title>Haiku&#x2013;Tue: All Haiku, All Tuesday</title>
+<link>http://haikutue.com/index.php?max_id=836650823&#x26;page=2</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-17T07:51:36Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitter.pbwiki.com/Hashtags">
+<title>Twitter Fan Wiki / Hashtags</title>
+<link>http://twitter.pbwiki.com/Hashtags</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-17T07:50:54Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/">
+<title>100 Helpful Web Tools for Every Kind of Learner | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-13T09:58:47Z</dc:date>
+<dc:subject>Web_Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Web_Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachertube.com/view_video.php?viewkey=0013367f24e0b1fa7594">
+<title>TeacherTube - The Greatest Teacher</title>
+<link>http://www.teachertube.com/view_video.php?viewkey=0013367f24e0b1fa7594</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-12T03:06:58Z</dc:date>
+<dc:subject>video_comment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video_comment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciencelearn.org.nz/">
+<title>Sciencelearn Hub</title>
+<link>http://www.sciencelearn.org.nz/</link>
+<description></description>
+<dc:creator>f.grant</dc:creator>
+<dc:date>2008-06-12T01:11:22Z</dc:date>
+<dc:subject>Science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

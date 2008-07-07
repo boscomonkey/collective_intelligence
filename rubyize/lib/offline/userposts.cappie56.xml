@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cappie56">
+<title>del.icio.us/cappie56</title>
+<link>http://del.icio.us/cappie56</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://photojojo.com/content/photojojo-original/ultimate-guide-to-road-trip-photography/" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/convertfiles.aspx" />
+  <rdf:li rdf:resource="http://www.spywareterminator.com/download/download.aspx" />
+  <rdf:li rdf:resource="http://www.fateback.com/" />
+  <rdf:li rdf:resource="http://www.freeservers.com/" />
+  <rdf:li rdf:resource="http://www.dreamwater.com/" />
+  <rdf:li rdf:resource="http://www.blogtastique.com/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://www.doityourself.com/scat/household" />
+  <rdf:li rdf:resource="http://www.goodhousekeeping.com/home/stain-buster/" />
+  <rdf:li rdf:resource="http://www.litholink.com/gateway.aspx?page=OxalateDiet" />
+  <rdf:li rdf:resource="http://secondbrain.com/How-to-use-SecondBrain" />
+  <rdf:li rdf:resource="http://www.speedtest.net/index.php" />
+  <rdf:li rdf:resource="http://www.microsoft.com/silverlight/" />
+  <rdf:li rdf:resource="http://www.picjuice.com/" />
+  <rdf:li rdf:resource="http://www.expatplus.com/English/international-healthcare-medical-insurance-for-expats.htm" />
+  <rdf:li rdf:resource="http://v3.planningwiz.com/" />
+  <rdf:li rdf:resource="http://www.worstcasescenarios.com/mainpage.htm" />
+  <rdf:li rdf:resource="http://www.peepel.com/" />
+  <rdf:li rdf:resource="http://us.ajax13.com/en/ajaxwrite/" />
+  <rdf:li rdf:resource="http://www.thinkfree.com/" />
+  <rdf:li rdf:resource="http://www.neooffice.org/neojava/en/index.php" />
+  <rdf:li rdf:resource="http://symphony.lotus.com/software/lotus/symphony/home.jspa" />
+  <rdf:li rdf:resource="http://www.jarte.com/" />
+  <rdf:li rdf:resource="http://www.abisource.com/" />
+  <rdf:li rdf:resource="http://www.openoffice.org/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397258/find-and-embed-album-art-in-your-mp3-collection" />
+  <rdf:li rdf:resource="http://delicious.e-accent.com/" />
+  <rdf:li rdf:resource="http://www.investintech.com/articles/tenwordalternatives/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-06T11:22:17Z</dc:date>
+<dc:subject>conversion music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-06T11:21:19Z</dc:date>
+<dc:subject>computers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photojojo.com/content/photojojo-original/ultimate-guide-to-road-trip-photography/">
+<title>http://photojojo.com/content/photojojo-original/ultimate-guide-to-road-trip-photography/</title>
+<link>http://photojojo.com/content/photojojo-original/ultimate-guide-to-road-trip-photography/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-05T11:03:24Z</dc:date>
+<dc:subject>howto photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/convertfiles.aspx">
+<title>Free online media file conversion (Document, Images, Audio, Video &#x26; Archives)</title>
+<link>http://www.youconvertit.com/convertfiles.aspx</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-05T07:01:50Z</dc:date>
+<dc:subject>conversion online-conversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/online-conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spywareterminator.com/download/download.aspx">
+<title>http://www.spywareterminator.com/download/download.aspx</title>
+<link>http://www.spywareterminator.com/download/download.aspx</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T14:13:26Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fateback.com/">
+<title>http://www.fateback.com/</title>
+<link>http://www.fateback.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T14:10:21Z</dc:date>
+<dc:subject>webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeservers.com/">
+<title>Free Web Space and Site Hosting -- Freeservers.com</title>
+<link>http://www.freeservers.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T14:09:54Z</dc:date>
+<dc:subject>webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dreamwater.com/">
+<title>Dreamwater Free Web Space</title>
+<link>http://www.dreamwater.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T14:08:56Z</dc:date>
+<dc:subject>webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogtastique.com/">
+<title>Blogtastique - Free and business blog solutions</title>
+<link>http://www.blogtastique.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T13:58:49Z</dc:date>
+<dc:subject>blog howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - send notes that will self-destruct after being read</title>
+<link>https://privnote.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-03T12:24:05Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doityourself.com/scat/household">
+<title>Household and Cleaning | DoItYourself.com</title>
+<link>http://www.doityourself.com/scat/household</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-02T14:07:57Z</dc:date>
+<dc:subject>household howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/household" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.goodhousekeeping.com/home/stain-buster/">
+<title>How to Remove Stains - Stain Buster - Goodhousekeeping.com</title>
+<link>http://www.goodhousekeeping.com/home/stain-buster/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-02T14:07:19Z</dc:date>
+<dc:subject>household howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/household" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.litholink.com/gateway.aspx?page=OxalateDiet">
+<title>Litholink Corporation</title>
+<link>http://www.litholink.com/gateway.aspx?page=OxalateDiet</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-02T06:46:05Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://secondbrain.com/How-to-use-SecondBrain">
+<title>Secondbrain - Import, Bookmark, Organize and Share</title>
+<link>http://secondbrain.com/How-to-use-SecondBrain</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-01T13:03:47Z</dc:date>
+<dc:subject>social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.speedtest.net/index.php">
+<title>Speedtest.net - The Global Broadband Speed Test</title>
+<link>http://www.speedtest.net/index.php</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-07-01T12:58:56Z</dc:date>
+<dc:subject>speedtest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/speedtest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/silverlight/">
+<title>Microsoft Silverlight: Light Up the Web</title>
+<link>http://www.microsoft.com/silverlight/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-30T12:52:23Z</dc:date>
+<dc:subject>computers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picjuice.com/">
+<title>picjuice.com - online photo editor</title>
+<link>http://www.picjuice.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-30T12:11:22Z</dc:date>
+<dc:subject>photo-editing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo-editing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.expatplus.com/English/international-healthcare-medical-insurance-for-expats.htm">
+<title>ExpatPlus - homepage</title>
+<link>http://www.expatplus.com/English/international-healthcare-medical-insurance-for-expats.htm</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T14:37:52Z</dc:date>
+<dc:subject>belgium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.planningwiz.com/">
+<title>PlanningWiz Online Room Planner Software for Furniture Retailers and Manufacturers, Building Contractors, Realtors and more</title>
+<link>http://v3.planningwiz.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T12:22:35Z</dc:date>
+<dc:subject>household howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/household" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worstcasescenarios.com/mainpage.htm">
+<title>Worst-Case Scenarios</title>
+<link>http://www.worstcasescenarios.com/mainpage.htm</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T06:24:30Z</dc:date>
+<dc:subject>howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.peepel.com/">
+<title>Peepel - home - Online Office</title>
+<link>http://www.peepel.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:28:35Z</dc:date>
+<dc:subject>office online-backup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/online-backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://us.ajax13.com/en/ajaxwrite/">
+<title>Ajax13 - Welcome to Ajax13</title>
+<link>http://us.ajax13.com/en/ajaxwrite/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:27:45Z</dc:date>
+<dc:subject>office online-backup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/online-backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkfree.com/">
+<title>Thinkfree Boundless</title>
+<link>http://www.thinkfree.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:26:43Z</dc:date>
+<dc:subject>office online-backup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/online-backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neooffice.org/neojava/en/index.php">
+<title>NeoOffice Home</title>
+<link>http://www.neooffice.org/neojava/en/index.php</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:24:19Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://symphony.lotus.com/software/lotus/symphony/home.jspa">
+<title>http://symphony.lotus.com/software/lotus/symphony/home.jspa</title>
+<link>http://symphony.lotus.com/software/lotus/symphony/home.jspa</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:23:42Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jarte.com/">
+<title>FREE Word Processor Based on Microsoft's WordPad Engine</title>
+<link>http://www.jarte.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:22:50Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.abisource.com/">
+<title>AbiWord</title>
+<link>http://www.abisource.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:22:13Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openoffice.org/">
+<title>www: OpenOffice.org - The Free and Open Productivity Suite</title>
+<link>http://www.openoffice.org/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:21:26Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397258/find-and-embed-album-art-in-your-mp3-collection">
+<title>Album Art: Find and Embed Album Art in Your MP3 Collection</title>
+<link>http://lifehacker.com/397258/find-and-embed-album-art-in-your-mp3-collection</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:09:15Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://delicious.e-accent.com/">
+<title>Import your del.icio.us bookmarks into Firefox 3 and retain the tags</title>
+<link>http://delicious.e-accent.com/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:08:15Z</dc:date>
+<dc:subject>bookmarking del.icio.us firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/bookmarking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.investintech.com/articles/tenwordalternatives/">
+<title>10 Free MS Word Alternatives You Can Use Today</title>
+<link>http://www.investintech.com/articles/tenwordalternatives/</link>
+<description></description>
+<dc:creator>cappie56</dc:creator>
+<dc:date>2008-06-28T05:03:29Z</dc:date>
+<dc:subject>freeware office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

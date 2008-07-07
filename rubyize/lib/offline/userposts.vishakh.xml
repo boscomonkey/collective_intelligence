@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/vishakh">
+<title>del.icio.us/vishakh</title>
+<link>http://del.icio.us/vishakh</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://pythonbook.coffeeghost.net/book1/index.html" />
+  <rdf:li rdf:resource="http://xerobank.com/" />
+  <rdf:li rdf:resource="http://www.tar.hu/gamealgorithms/index.html" />
+  <rdf:li rdf:resource="http://savannah.nongnu.org/projects/pgubook/" />
+  <rdf:li rdf:resource="http://www.mnemosyne-proj.org/" />
+  <rdf:li rdf:resource="http://www.cix.co.uk/~smallmemory/book.html" />
+  <rdf:li rdf:resource="http://keyjnote.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.dranger.com/ffmpeg/ffmpeg.html" />
+  <rdf:li rdf:resource="http://mikeos.berlios.de/" />
+  <rdf:li rdf:resource="http://sebsauvage.net/python/gui/index.html" />
+  <rdf:li rdf:resource="http://sol.gfxile.net/atanua/index.html" />
+  <rdf:li rdf:resource="http://allmydata.org/trac/tahoe" />
+  <rdf:li rdf:resource="http://cb.vu/unixtoolbox.xhtml" />
+  <rdf:li rdf:resource="http://www.aplin.com.au/?page_id=246" />
+  <rdf:li rdf:resource="http://obsoleteskills.com/Skills/Skills" />
+  <rdf:li rdf:resource="http://www.eol.org/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/02/27/free-vc-ebooks/" />
+  <rdf:li rdf:resource="http://www.codertools.com/" />
+  <rdf:li rdf:resource="http://winpooch.free.fr/page/home.php?lang=en&#x26;page=home" />
+  <rdf:li rdf:resource="http://www.flipkart.com/" />
+  <rdf:li rdf:resource="http://toplap.org/" />
+  <rdf:li rdf:resource="http://www.pawfal.org/fluxus/" />
+  <rdf:li rdf:resource="http://www.spring-alpha.org/" />
+  <rdf:li rdf:resource="http://rulesofthumb.org/" />
+  <rdf:li rdf:resource="http://www.bodocus.com/" />
+  <rdf:li rdf:resource="http://matrixcookbook.com/" />
+  <rdf:li rdf:resource="http://producingoss.com/en/index.html" />
+  <rdf:li rdf:resource="http://www.sheehanmiles.com/files/miles/republic.htm" />
+  <rdf:li rdf:resource="http://www.toribash.com/" />
+  <rdf:li rdf:resource="http://nifflas.ni2.se/index.php?main=02Knytt_Stories" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-07-06T07:50:40Z</dc:date>
+<dc:subject>AI guide howto research science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pythonbook.coffeeghost.net/book1/index.html">
+<title>Invent Your Own Computer Games with Python</title>
+<link>http://pythonbook.coffeeghost.net/book1/index.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-06-17T03:26:31Z</dc:date>
+<dc:subject>book code development ebook free game games learning programming python software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xerobank.com/">
+<title>XeroBank - Covert Data Services | Private Internet, Encrypted eMail, File Vault</title>
+<link>http://xerobank.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-06-17T03:21:12Z</dc:date>
+<dc:subject>anonymous apps browser download email encryption free opensource portable privacy proxy security software tools vpn windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anonymous" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/encryption" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/vpn" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tar.hu/gamealgorithms/index.html">
+<title>Core Techniques and Algorithms in Game Programming</title>
+<link>http://www.tar.hu/gamealgorithms/index.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-30T11:50:20Z</dc:date>
+<dc:subject>AI algorithms book books computer design development ebook game games graphics programming reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://savannah.nongnu.org/projects/pgubook/">
+<title>Programming from the Ground Up Book - Summary [Savannah]</title>
+<link>http://savannah.nongnu.org/projects/pgubook/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-24T15:49:16Z</dc:date>
+<dc:subject>Free GNU assembly book books development documentation download linux opensource programming software tutorial tutorials unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/assembly" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/GNU" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mnemosyne-proj.org/">
+<title>Welcome to the Mnemosyne Project | The Mnemosyne Project</title>
+<link>http://www.mnemosyne-proj.org/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-22T21:33:07Z</dc:date>
+<dc:subject>education free language learning memory opensource research software tools utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cix.co.uk/~smallmemory/book.html">
+<title>Small Memory Software</title>
+<link>http://www.cix.co.uk/~smallmemory/book.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-18T02:55:17Z</dc:date>
+<dc:subject>C algorithms book books code design development ebook embedded programming science software system</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/C" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/system" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://keyjnote.sourceforge.net/">
+<title>KeyJnote</title>
+<link>http://keyjnote.sourceforge.net/</link>
+<description>display presentation slides</description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-16T13:23:52Z</dc:date>
+<dc:subject>graphics opengl opensource presentation python software tools visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/opengl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dranger.com/ffmpeg/ffmpeg.html">
+<title>ffmpeg tutorial</title>
+<link>http://www.dranger.com/ffmpeg/ffmpeg.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-14T02:56:10Z</dc:date>
+<dc:subject>C code codec development howto programming tools tutorial tutorials video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/codec" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mikeos.berlios.de/">
+<title>MikeOS</title>
+<link>http://mikeos.berlios.de/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-10T11:04:26Z</dc:date>
+<dc:subject>OS assembly code development education opensource programming project software system tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/assembly" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/system" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/OS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sebsauvage.net/python/gui/index.html">
+<title>Building a basic GUI application in Python with Tkinter and wxWidgets</title>
+<link>http://sebsauvage.net/python/gui/index.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-04-08T17:05:22Z</dc:date>
+<dc:subject>apps gui howto programming python tkinter tutorial widgets wxpython</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+    <rdf:li resource="http://del.icio.us/tag/wxpython" />
+    <rdf:li resource="http://del.icio.us/tag/tkinter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sol.gfxile.net/atanua/index.html">
+<title>Atanua</title>
+<link>http://sol.gfxile.net/atanua/index.html</link>
+<description>electronics simulator</description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-28T20:40:46Z</dc:date>
+<dc:subject>circuits design diy electronics embedded fun hardware logic programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/circuits" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/logic" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://allmydata.org/trac/tahoe">
+<title>allmydata.org &#x22;Tahoe&#x22;</title>
+<link>http://allmydata.org/trac/tahoe</link>
+<description>distributed filesystem</description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-28T08:33:19Z</dc:date>
+<dc:subject>disk encryption filesystem linux network networking opensource p2p privacy python security server storage useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+    <rdf:li resource="http://del.icio.us/tag/encryption" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cb.vu/unixtoolbox.xhtml">
+<title>Unix Toolbox</title>
+<link>http://cb.vu/unixtoolbox.xhtml</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-23T07:13:34Z</dc:date>
+<dc:subject>cheats cheatsheet cheatsheets computer guide howto linux network networking os reference resources scripts server shell sysadmin tool tools unix useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cheats" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheets" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/scripts" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aplin.com.au/?page_id=246">
+<title>Neoblog &#xBB; Neo&#x2019;s SafeKeys</title>
+<link>http://www.aplin.com.au/?page_id=246</link>
+<description>portable on-screen keyboard to type paswords</description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-06T01:47:43Z</dc:date>
+<dc:subject>USB computer free freeware internet passwords portable privacy security software tools travel utilities windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/USB" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://obsoleteskills.com/Skills/Skills">
+<title>Obsolete Skills: Skills/Skills</title>
+<link>http://obsoleteskills.com/Skills/Skills</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-02T10:13:04Z</dc:date>
+<dc:subject>Knowledge archive craft facts fun funny history humor interesting list lists misc tech technology wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/craft" />
+    <rdf:li resource="http://del.icio.us/tag/facts" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/Knowledge" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/misc" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eol.org/">
+<title>Encyclopedia of Life</title>
+<link>http://www.eol.org/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-03-02T06:42:07Z</dc:date>
+<dc:subject>biology catalog collaboration community culture directory documentation earth education encyclopedia information nature reference resource science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/catalog" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/earth" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/encyclopedia" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/02/27/free-vc-ebooks/">
+<title>10 Free Ebooks and White Papers About Venture Capital</title>
+<link>http://mashable.com/2008/02/27/free-vc-ebooks/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-02-28T14:20:40Z</dc:date>
+<dc:subject>books business development ebook finance free lists media online reference resources tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codertools.com/">
+<title>Free Text Editor TotalEdit</title>
+<link>http://www.codertools.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-02-26T08:57:57Z</dc:date>
+<dc:subject>database editing editor free freeware software sql tool tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/editing" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://winpooch.free.fr/page/home.php?lang=en&#x26;page=home">
+<title>Winpooch : Windows watchdog helps to detect spywares and trojans - opensource - anti spyware and trojan</title>
+<link>http://winpooch.free.fr/page/home.php?lang=en&#x26;page=home</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-02-08T19:04:15Z</dc:date>
+<dc:subject>antivirus apps computer desktop free monitoring opensource security software system technology useful utilities windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/antivirus" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/system" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flipkart.com/">
+<title>Online Book Store India: Buy Books Online @ Flipkart.com: Bookstore</title>
+<link>http://www.flipkart.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-02-07T09:54:04Z</dc:date>
+<dc:subject>book books online shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://toplap.org/">
+<title>Toplap</title>
+<link>http://toplap.org/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-27T17:47:05Z</dc:date>
+<dc:subject>Music Programming algorithms art audio code computer development live project software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/live" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pawfal.org/fluxus/">
+<title>fluxus</title>
+<link>http://www.pawfal.org/fluxus/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-27T17:45:11Z</dc:date>
+<dc:subject>3d Music animation art audio cool environment game games graphics hacking linux lisp modeling network opengl opensource programming scheme simulation software tool video visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/modeling" />
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/opengl" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spring-alpha.org/">
+<title>spring_alpha</title>
+<link>http://www.spring-alpha.org/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-27T17:44:29Z</dc:date>
+<dc:subject>activism art collaboration community culture environment game games network opensource politics simulation social software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rulesofthumb.org/">
+<title>RulesofThumb.org - Homepage</title>
+<link>http://rulesofthumb.org/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-09T02:39:57Z</dc:date>
+<dc:subject>Knowledge community database howto information interesting lists reference resources tips useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/Knowledge" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bodocus.com/">
+<title>best.online.docus - Best Online Documentaries</title>
+<link>http://www.bodocus.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-08T15:21:38Z</dc:date>
+<dc:subject>Documentary education entertainment free interesting movies online streaming television tv useful video videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/Documentary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matrixcookbook.com/">
+<title>The Matrix Cookbook</title>
+<link>http://matrixcookbook.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-07T18:56:26Z</dc:date>
+<dc:subject>Mathematics algebra book books ebook free math reference resource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algebra" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/Mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://producingoss.com/en/index.html">
+<title>Producing Open Source Software</title>
+<link>http://producingoss.com/en/index.html</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-03T11:23:00Z</dc:date>
+<dc:subject>Linux book books business ebook management opensource programming project software toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sheehanmiles.com/files/miles/republic.htm">
+<title>Republic: A Novel of America's Future</title>
+<link>http://www.sheehanmiles.com/files/miles/republic.htm</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2008-01-02T15:45:09Z</dc:date>
+<dc:subject>activism creativecommons ebook free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.toribash.com/">
+<title>Toribash</title>
+<link>http://www.toribash.com/</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2007-12-31T21:18:15Z</dc:date>
+<dc:subject>download free freeware game physics software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nifflas.ni2.se/index.php?main=02Knytt_Stories">
+<title>Nifflas' Games - Knytt_Stories</title>
+<link>http://nifflas.ni2.se/index.php?main=02Knytt_Stories</link>
+<description></description>
+<dc:creator>vishakh</dc:creator>
+<dc:date>2007-12-31T21:17:56Z</dc:date>
+<dc:subject>design download flash free freeware game games windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

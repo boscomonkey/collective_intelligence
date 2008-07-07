@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/voigt">
+<title>del.icio.us/voigt</title>
+<link>http://del.icio.us/voigt</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://listen.grooveshark.com/" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.thekitchn.com/thekitchn/pasta/recipe-easy-ricotta-gnocchi-051370" />
+  <rdf:li rdf:resource="http://www.duber.tv/en/" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/how-to-photograph-fireworks/" />
+  <rdf:li rdf:resource="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/" />
+  <rdf:li rdf:resource="http://www.letour.fr/indexus.html" />
+  <rdf:li rdf:resource="http://ngm.nationalgeographic.com/2008/04/biomimetics/tom-mueller-text" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/feature/the-20-best-ipod-utilities-329507.php" />
+  <rdf:li rdf:resource="http://encyclopodia.sourceforge.net/en/library.html" />
+  <rdf:li rdf:resource="http://lifehackers.wordpress.com/2007/12/28/20-najlepszych-programow-do-ipoda/" />
+  <rdf:li rdf:resource="http://www.urlpass.com/" />
+  <rdf:li rdf:resource="http://www.solucija.com/home/css-templates/" />
+  <rdf:li rdf:resource="http://appfunds.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.luckydays.tv/stock_markets.html" />
+  <rdf:li rdf:resource="http://eclipse.gsfc.nasa.gov/eclipse.html" />
+  <rdf:li rdf:resource="http://www.polkaouistiti.fr/folio.html" />
+  <rdf:li rdf:resource="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html" />
+  <rdf:li rdf:resource="http://www.moneysavingexpert.com/tipnote/learn-language-free" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://wefunction.com/2008/07/function-free-icon-set/" />
+  <rdf:li rdf:resource="http://sandbox.sourcelabs.com/livemarks/" />
+  <rdf:li rdf:resource="http://www.jessevandijk.net/index.html" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial" />
+  <rdf:li rdf:resource="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html" />
+  <rdf:li rdf:resource="http://graphite.wikidot.com/start" />
+  <rdf:li rdf:resource="http://www.electricprism.com/aeron/slideshow/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver" />
+  <rdf:li rdf:resource="http://www.coollector.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-06T13:52:03Z</dc:date>
+<dc:subject>conversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listen.grooveshark.com/">
+<title>Grooveshark Lite - Listen to Music Online</title>
+<link>http://listen.grooveshark.com/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-06T11:35:18Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-06T11:29:44Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thekitchn.com/thekitchn/pasta/recipe-easy-ricotta-gnocchi-051370">
+<title>Apartment Therapy The Kitchn | Recipe: Easy Ricotta Gnocchi</title>
+<link>http://www.thekitchn.com/thekitchn/pasta/recipe-easy-ricotta-gnocchi-051370</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-06T11:29:27Z</dc:date>
+<dc:subject>food</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.duber.tv/en/">
+<title>duber.tv | news</title>
+<link>http://www.duber.tv/en/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-05T20:20:47Z</dc:date>
+<dc:subject>3d tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/how-to-photograph-fireworks/">
+<title>How to Photograph Fireworks Displays</title>
+<link>http://digital-photography-school.com/blog/how-to-photograph-fireworks/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-05T19:58:54Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/">
+<title>Create an Inspirational Vector Political Poster - VECTORTUTS</title>
+<link>http://vectortuts.com/illustration/create-an-inspirational-vector-political-poster/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-05T19:57:43Z</dc:date>
+<dc:subject>tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.letour.fr/indexus.html">
+<title>Tour de France 2008</title>
+<link>http://www.letour.fr/indexus.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-05T19:16:20Z</dc:date>
+<dc:subject>bicycling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ngm.nationalgeographic.com/2008/04/biomimetics/tom-mueller-text">
+<title>Biomimetics - National Geographic Magazine</title>
+<link>http://ngm.nationalgeographic.com/2008/04/biomimetics/tom-mueller-text</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-05T19:15:34Z</dc:date>
+<dc:subject>nature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/feature/the-20-best-ipod-utilities-329507.php">
+<title>Feature: The 20 Best iPod Utilities</title>
+<link>http://lifehacker.com/software/feature/the-20-best-ipod-utilities-329507.php</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-04T20:50:18Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://encyclopodia.sourceforge.net/en/library.html">
+<title>Encyclopodia ebook-Library</title>
+<link>http://encyclopodia.sourceforge.net/en/library.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-04T16:35:01Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehackers.wordpress.com/2007/12/28/20-najlepszych-programow-do-ipoda/">
+<title>15 najlepszych program&#xF3;w do iPoda &#xAB; Lifehackers</title>
+<link>http://lifehackers.wordpress.com/2007/12/28/20-najlepszych-programow-do-ipoda/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-04T16:18:35Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.urlpass.com/">
+<title>Shorten web addresses and pass them on</title>
+<link>http://www.urlpass.com/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-04T15:54:39Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solucija.com/home/css-templates/">
+<title>Free Templates - Solucija</title>
+<link>http://www.solucija.com/home/css-templates/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-04T15:26:51Z</dc:date>
+<dc:subject>css templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://appfunds.blogspot.com/">
+<title>APP Funds</title>
+<link>http://appfunds.blogspot.com/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T21:40:04Z</dc:date>
+<dc:subject>gie&#x142;da</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gie%C5%82da" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.luckydays.tv/stock_markets.html">
+<title>Astrological Predictions and the World Stock Markets</title>
+<link>http://www.luckydays.tv/stock_markets.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T20:19:20Z</dc:date>
+<dc:subject>stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eclipse.gsfc.nasa.gov/eclipse.html">
+<title>NASA Eclipse Web Site</title>
+<link>http://eclipse.gsfc.nasa.gov/eclipse.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T20:17:55Z</dc:date>
+<dc:subject>astronomy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.polkaouistiti.fr/folio.html">
+<title>graphiste Carole Gautier :: graphiste Eug&#xE9;nie Favre</title>
+<link>http://www.polkaouistiti.fr/folio.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T19:30:37Z</dc:date>
+<dc:subject>design illustration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html">
+<title>30+ Outstanding Character Illustrations in Modern Web Design</title>
+<link>http://www.noupe.com/design/character-illustrations-in-modern-web-design.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T19:30:19Z</dc:date>
+<dc:subject>art illustration webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moneysavingexpert.com/tipnote/learn-language-free">
+<title>Learn a language for free using online tools</title>
+<link>http://www.moneysavingexpert.com/tipnote/learn-language-free</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T19:00:02Z</dc:date>
+<dc:subject>education language learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T18:59:36Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wefunction.com/2008/07/function-free-icon-set/">
+<title>Function Web Design &#x26; Development [ Blog ] &#xBB; Blog Archive &#xBB; Free Icons: Function Icon Set, 128 Completely Free Icons</title>
+<link>http://wefunction.com/2008/07/function-free-icon-set/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-03T16:19:28Z</dc:date>
+<dc:subject>icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sandbox.sourcelabs.com/livemarks/">
+<title>LiveMarks</title>
+<link>http://sandbox.sourcelabs.com/livemarks/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T22:45:42Z</dc:date>
+<dc:subject>del.icio.us</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jessevandijk.net/index.html">
+<title>Portfolio of Jesse van Dijk</title>
+<link>http://www.jessevandijk.net/index.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T22:13:26Z</dc:date>
+<dc:subject>art illustration inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T22:13:00Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial">
+<title>Trendy Geometric Lines Design Tutorial | Blog.SpoonGraphics</title>
+<link>http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T15:10:49Z</dc:date>
+<dc:subject>illustrator tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html">
+<title>Websites you shouldn&#x2019;t have missed in JUNE 2008</title>
+<link>http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T13:53:04Z</dc:date>
+<dc:subject>design tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphite.wikidot.com/start">
+<title>Graphite: Graphite - Enterprise Scalable Realtime Graphing</title>
+<link>http://graphite.wikidot.com/start</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T12:12:35Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electricprism.com/aeron/slideshow/">
+<title>Slideshow 2! A javascript class for Mootools 1.2 to stream and animate the presentation of images on your website</title>
+<link>http://www.electricprism.com/aeron/slideshow/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T12:10:25Z</dc:date>
+<dc:subject>javascript slideshow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver">
+<title>List of problems solved by MacGyver - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T12:09:16Z</dc:date>
+<dc:subject>macgyver</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macgyver" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coollector.com/">
+<title>FREE: Personalized Movie Encyclopedia + Database of Existing Videos + Collection Organizer + Best Price Finder</title>
+<link>http://www.coollector.com/</link>
+<description></description>
+<dc:creator>voigt</dc:creator>
+<dc:date>2008-07-02T12:05:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/glenngillen">
+<title>del.icio.us/glenngillen</title>
+<link>http://del.icio.us/glenngillen</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://devver.net/blog/2008/06/ruby-messaging-shootout/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.globalpropertyguide.com/" />
+  <rdf:li rdf:resource="http://blog.zerosum.org/2008/7/2/clone-pastie-with-sinatra-datamapper-redux" />
+  <rdf:li rdf:resource="http://blog.nerdbucket.com/irc-ruby-net-yail/article" />
+  <rdf:li rdf:resource="http://iconbest.com/?p=6" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Comparison_between_U.S._states_and_countries_nominal_GDP" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_Australian_states_by_Gross_State_Product" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_U.S._states_by_GDP_(nominal)" />
+  <rdf:li rdf:resource="http://www.murraystate.edu/MSML/statistics.htm" />
+  <rdf:li rdf:resource="http://devdata.worldbank.org/query/default.htm" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_North_American_countries_by_GDP_PPP" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_European_countries_by_GDP_PPP" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_regions_by_past_GDP_(PPP)#1973" />
+  <rdf:li rdf:resource="http://www.istockphoto.com/file_search.php?action=file&#x26;lightboxID=3471562" />
+  <rdf:li rdf:resource="http://www.88miles.net/" />
+  <rdf:li rdf:resource="http://www.saasu.com/quick-tour/" />
+  <rdf:li rdf:resource="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/" />
+  <rdf:li rdf:resource="http://groups.google.com/group/twitter-development-talk/web/api-documentation" />
+  <rdf:li rdf:resource="http://journal.mychores.co.uk/articles/2007/01/21/updating-twitter-from-ruby-rails/" />
+  <rdf:li rdf:resource="http://jdg.net/post/29309951/need-a-way-to-befriend-all-of-your-followers-on" />
+  <rdf:li rdf:resource="http://snakesgemscoffee.blogspot.com/2007/11/twitter4r-v030.html" />
+  <rdf:li rdf:resource="http://twitter4r.rubyforge.org/" />
+  <rdf:li rdf:resource="http://addictedtonew.com/archives/187/ruby-twitter-gem/" />
+  <rdf:li rdf:resource="http://blog.pepperdust.org/2007/4/2/twitter-ruby-gem-experiments" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-06T09:18:12Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept">
+<title>Tom ten Thij's homepage: Rails schema browser plugin: proof of concept</title>
+<link>http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-06T09:17:59Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-06T09:17:27Z</dc:date>
+<dc:subject>ajax animation icon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-05T11:15:51Z</dc:date>
+<dc:subject>backgrounds free paper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devver.net/blog/2008/06/ruby-messaging-shootout/">
+<title>The Devver Blog &#xBB; Ruby Messaging Shootout</title>
+<link>http://devver.net/blog/2008/06/ruby-messaging-shootout/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-04T14:22:23Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T22:56:33Z</dc:date>
+<dc:subject>DIY toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin">
+<title>The Minimalist - 101 Picnic Dishes to Make in 20 Minutes - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T22:55:44Z</dc:date>
+<dc:subject>cooking picnic recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/picnic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.globalpropertyguide.com/">
+<title>Global Property Guide</title>
+<link>http://www.globalpropertyguide.com/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T12:31:08Z</dc:date>
+<dc:subject>investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.zerosum.org/2008/7/2/clone-pastie-with-sinatra-datamapper-redux">
+<title>zerosum dirt(nap)</title>
+<link>http://blog.zerosum.org/2008/7/2/clone-pastie-with-sinatra-datamapper-redux</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T11:40:20Z</dc:date>
+<dc:subject>pastie ruby toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/pastie" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.nerdbucket.com/irc-ruby-net-yail/article">
+<title>Filler &#xBB; IRC in Ruby still sucks?  Check out Net::YAIL, the choice of a new generation</title>
+<link>http://blog.nerdbucket.com/irc-ruby-net-yail/article</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T11:39:15Z</dc:date>
+<dc:subject>bot irc messaging ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/irc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://iconbest.com/?p=6">
+<title>Iconbest  &#xBB; Blog Archive   &#xBB; Iconset of weather conditions</title>
+<link>http://iconbest.com/?p=6</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T11:37:42Z</dc:date>
+<dc:subject>free icons weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)">
+<title>List of countries by GDP (PPP) - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(PPP)</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:43:22Z</dc:date>
+<dc:subject>investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Comparison_between_U.S._states_and_countries_nominal_GDP">
+<title>Comparison between U.S. states and countries nominal GDP - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Comparison_between_U.S._states_and_countries_nominal_GDP</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:30:05Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_Australian_states_by_Gross_State_Product">
+<title>List of Australian states and territories by gross state product - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_Australian_states_by_Gross_State_Product</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:29:23Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_U.S._states_by_GDP_(nominal)">
+<title>List of U.S. states by GDP (nominal) - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_U.S._states_by_GDP_(nominal)</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:28:48Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.murraystate.edu/MSML/statistics.htm">
+<title>Statistical Time Series</title>
+<link>http://www.murraystate.edu/MSML/statistics.htm</link>
+<description>Where to get detailed information by country for property investing</description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:27:57Z</dc:date>
+<dc:subject>investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devdata.worldbank.org/query/default.htm">
+<title>Detailed statistics by country</title>
+<link>http://devdata.worldbank.org/query/default.htm</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:27:03Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_North_American_countries_by_GDP_PPP">
+<title>List of North American countries by GDP PPP - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_North_American_countries_by_GDP_PPP</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:21:31Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_European_countries_by_GDP_PPP">
+<title>List of European countries by GDP PPP - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_European_countries_by_GDP_PPP</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:21:09Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_regions_by_past_GDP_(PPP)#1973">
+<title>List of regions by past GDP (PPP) - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_regions_by_past_GDP_(PPP)#1973</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-03T07:19:45Z</dc:date>
+<dc:subject>gdp investment property research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/gdp" />
+    <rdf:li resource="http://del.icio.us/tag/property" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.istockphoto.com/file_search.php?action=file&#x26;lightboxID=3471562">
+<title>Royalty free stock images | Lightbox | iStockphoto.com</title>
+<link>http://www.istockphoto.com/file_search.php?action=file&#x26;lightboxID=3471562</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-02T22:14:48Z</dc:date>
+<dc:subject>icons longpockets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/longpockets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.88miles.net/">
+<title>88 Miles - Simple time tracking</title>
+<link>http://www.88miles.net/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-02T08:02:56Z</dc:date>
+<dc:subject>businessideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/businessideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.saasu.com/quick-tour/">
+<title>Saasu.com | NetAccounts - Easy Online Accounting &#xBB; Quick Tour</title>
+<link>http://www.saasu.com/quick-tour/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-02T06:19:44Z</dc:date>
+<dc:subject>bookkeeping toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bookkeeping" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/">
+<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+<link>http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T15:06:33Z</dc:date>
+<dc:subject>forms inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.google.com/group/twitter-development-talk/web/api-documentation">
+<title>API Documentation -</title>
+<link>http://groups.google.com/group/twitter-development-talk/web/api-documentation</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:26:59Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mychores.co.uk/articles/2007/01/21/updating-twitter-from-ruby-rails/">
+<title>MyChores Journal  &#xBB; Blog Archive   &#xBB; Updating Twitter from Ruby/Rails</title>
+<link>http://journal.mychores.co.uk/articles/2007/01/21/updating-twitter-from-ruby-rails/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:20:14Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jdg.net/post/29309951/need-a-way-to-befriend-all-of-your-followers-on">
+<title>jonathan. tumbling. - Need a way to befriend all of your followers on Twitter?</title>
+<link>http://jdg.net/post/29309951/need-a-way-to-befriend-all-of-your-followers-on</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:20:03Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://snakesgemscoffee.blogspot.com/2007/11/twitter4r-v030.html">
+<title>Ruby, Rails, Merb, REST, Linux, MySQL, PostgreSQL, Python, Java blog - Ruby, Rails, Merb blog: Snakes, Gems &#x26; Coffee: Twitter4R v0.3.0</title>
+<link>http://snakesgemscoffee.blogspot.com/2007/11/twitter4r-v030.html</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:19:31Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitter4r.rubyforge.org/">
+<title>Twitter4R - Open Source Ruby Project for Twitter REST API [Rubyforge]</title>
+<link>http://twitter4r.rubyforge.org/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:19:20Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://addictedtonew.com/archives/187/ruby-twitter-gem/">
+<title>Ruby Twitter Gem //  Archives   // Addicted To New by John Nunemaker</title>
+<link>http://addictedtonew.com/archives/187/ruby-twitter-gem/</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:15:03Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.pepperdust.org/2007/4/2/twitter-ruby-gem-experiments">
+<title>SOA In the City: Twitter Ruby Gem Experiments ..</title>
+<link>http://blog.pepperdust.org/2007/4/2/twitter-ruby-gem-experiments</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-01T11:14:29Z</dc:date>
+<dc:subject>toread twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

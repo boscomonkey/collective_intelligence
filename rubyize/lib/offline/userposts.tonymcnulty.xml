@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tonymcnulty">
+<title>del.icio.us/tonymcnulty</title>
+<link>http://del.icio.us/tonymcnulty</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.javascripttoolbox.com/lib/table/examples.php" />
+  <rdf:li rdf:resource="http://www.quietbay.net/Science/astronomy/nightsky/" />
+  <rdf:li rdf:resource="http://www.danvk.org/wp/dragtable/" />
+  <rdf:li rdf:resource="http://phpimpact.wordpress.com/2008/06/12/10-great-articles-for-optimizing-mysql-queries/" />
+  <rdf:li rdf:resource="http://www.blackberryforums.com/aftermarket-software/61499-list-latest-versions-3rd-party-software-mini-version-tracker.html" />
+  <rdf:li rdf:resource="http://io9.com/393215/the-phoenix-lander-is-now-broadcasting-live-from-mars" />
+  <rdf:li rdf:resource="https://dev.mobileread.com/trac/mobiperl/wiki" />
+  <rdf:li rdf:resource="http://blackberryfaq.com/index.php/How_to_Encode_Video" />
+  <rdf:li rdf:resource="http://blackberryfaq.com/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.itpro.co.uk/applications/features/192522/linux-and-formula-one.html" />
+  <rdf:li rdf:resource="http://forums.groundspeak.com/GC/index.php?showtopic=177761" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/opinion/dn13647-lifechanging-books-recommendations-from-17-leading-scientists.html?DCMP=ILC-hmts&#x26;nsref=specrt11_head_We%20recommend" />
+  <rdf:li rdf:resource="http://www.pocketpcmag.com/blogs/index.php?cat=143" />
+  <rdf:li rdf:resource="http://www.prweb.com/releases/2008/04/prweb866764.htm" />
+  <rdf:li rdf:resource="http://blog.neatlysliced.com/2008/03/hr-image-replacement/" />
+  <rdf:li rdf:resource="http://philip.greenspun.com/seia/" />
+  <rdf:li rdf:resource="http://www.themaninblue.com/writing/perspective/2005/08/29/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=_qddueXkD8E" />
+  <rdf:li rdf:resource="http://www.vergenet.net/~conrad/software/xsel/" />
+  <rdf:li rdf:resource="http://www.librarything.com/catalog/mercuti0" />
+  <rdf:li rdf:resource="http://www.abyssandapex.com/200710-wikihistory.html" />
+  <rdf:li rdf:resource="http://marc.merlins.org/linux/exim/sa.html" />
+  <rdf:li rdf:resource="http://www.debian-administration.org/articles/280" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/128940" />
+  <rdf:li rdf:resource="http://www.ex-parrot.com/~pete/" />
+  <rdf:li rdf:resource="http://coffeeghost.net/pybat/python_cheatsheet.png" />
+  <rdf:li rdf:resource="http://www.psp-hacks.com/2008/03/11/tetriabetes-142-the-peoples-tetris/" />
+  <rdf:li rdf:resource="http://burner.geekserver.net/bbc/" />
+  <rdf:li rdf:resource="http://www.dafont.com/" />
+  <rdf:li rdf:resource="http://mp3gle.net/index.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Fundamental Particles and Interactions</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-07-06T11:42:28Z</dc:date>
+<dc:subject>Reference particle physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javascripttoolbox.com/lib/table/examples.php">
+<title>Table Sorting, Filtering, Etc from JavascriptToolbox.com</title>
+<link>http://www.javascripttoolbox.com/lib/table/examples.php</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-07-02T15:40:03Z</dc:date>
+<dc:subject>html javascript tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quietbay.net/Science/astronomy/nightsky/">
+<title>Learn: Identify constellations, stars, planets and how to navigate at night</title>
+<link>http://www.quietbay.net/Science/astronomy/nightsky/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-07-02T10:46:10Z</dc:date>
+<dc:subject>astronomy cool space stars</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/stars" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.danvk.org/wp/dragtable/">
+<title>Draggable/Sortable Tables</title>
+<link>http://www.danvk.org/wp/dragtable/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-06-29T11:12:49Z</dc:date>
+<dc:subject>html javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phpimpact.wordpress.com/2008/06/12/10-great-articles-for-optimizing-mysql-queries/">
+<title>10 great articles for optimizing MySQL queries &#xAB; PHP::Impact ( [str blog] )</title>
+<link>http://phpimpact.wordpress.com/2008/06/12/10-great-articles-for-optimizing-mysql-queries/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-06-13T13:46:39Z</dc:date>
+<dc:subject>database mysql optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blackberryforums.com/aftermarket-software/61499-list-latest-versions-3rd-party-software-mini-version-tracker.html">
+<title>Blackberry apps</title>
+<link>http://www.blackberryforums.com/aftermarket-software/61499-list-latest-versions-3rd-party-software-mini-version-tracker.html</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-05-27T07:30:40Z</dc:date>
+<dc:subject>Blackberry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blackberry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://io9.com/393215/the-phoenix-lander-is-now-broadcasting-live-from-mars">
+<title>The Phoenix Lander Is Now Broadcasting Live from Mars [Mars]</title>
+<link>http://io9.com/393215/the-phoenix-lander-is-now-broadcasting-live-from-mars</link>
+<description>** Posted using Viigo: Mobile RSS, Sports, Current Events and more ** The Phoenix Lander, a robotic research station that will do experiments for three months in the Martian arctic, yesterday touched down on Martian soil. It will drill down into the plane</description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-05-26T22:08:03Z</dc:date>
+<dc:subject>space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/space" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://dev.mobileread.com/trac/mobiperl/wiki">
+<title>MobiPerl (a collection of tools for generating and manipulating MobiPocket files written in Perl) - Trac</title>
+<link>https://dev.mobileread.com/trac/mobiperl/wiki</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-05-05T16:24:10Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blackberryfaq.com/index.php/How_to_Encode_Video">
+<title>How to Encode Video - BlackBerryFAQ</title>
+<link>http://blackberryfaq.com/index.php/How_to_Encode_Video</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-30T13:12:11Z</dc:date>
+<dc:subject>blackberry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blackberry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blackberryfaq.com/index.php/Main_Page">
+<title>Main Page - BlackBerryFAQ</title>
+<link>http://blackberryfaq.com/index.php/Main_Page</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-30T13:08:39Z</dc:date>
+<dc:subject>Blackberry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blackberry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itpro.co.uk/applications/features/192522/linux-and-formula-one.html">
+<title>ITPro: Applications: Features: Linux and Formula One</title>
+<link>http://www.itpro.co.uk/applications/features/192522/linux-and-formula-one.html</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-29T12:16:34Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.groundspeak.com/GC/index.php?showtopic=177761">
+<title>Geocache with your Blackberry GPS! - Groundspeak Forums</title>
+<link>http://forums.groundspeak.com/GC/index.php?showtopic=177761</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-28T15:05:35Z</dc:date>
+<dc:subject>blackberry geocaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blackberry" />
+    <rdf:li resource="http://del.icio.us/tag/geocaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/opinion/dn13647-lifechanging-books-recommendations-from-17-leading-scientists.html?DCMP=ILC-hmts&#x26;nsref=specrt11_head_We%20recommend">
+<title>Life-changing books: recommendations from 17 leading scientists</title>
+<link>http://www.newscientist.com/channel/opinion/dn13647-lifechanging-books-recommendations-from-17-leading-scientists.html?DCMP=ILC-hmts&#x26;nsref=specrt11_head_We%20recommend</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-22T11:39:06Z</dc:date>
+<dc:subject>books toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pocketpcmag.com/blogs/index.php?cat=143">
+<title>Smartphone &#x26; Pocket PC magazine blogs - Touchscreen</title>
+<link>http://www.pocketpcmag.com/blogs/index.php?cat=143</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-20T15:08:00Z</dc:date>
+<dc:subject>pda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prweb.com/releases/2008/04/prweb866764.htm">
+<title>simplicant Goes into Public Beta</title>
+<link>http://www.prweb.com/releases/2008/04/prweb866764.htm</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-17T17:00:43Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.neatlysliced.com/2008/03/hr-image-replacement/">
+<title>HR Image Replacement &#x203A; Neatly Sliced</title>
+<link>http://blog.neatlysliced.com/2008/03/hr-image-replacement/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-07T12:46:37Z</dc:date>
+<dc:subject>CSS webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://philip.greenspun.com/seia/">
+<title>Software Engineering for Internet Applications</title>
+<link>http://philip.greenspun.com/seia/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-07T12:38:24Z</dc:date>
+<dc:subject>book programming toread web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.themaninblue.com/writing/perspective/2005/08/29/">
+<title>Bottom sticky footer</title>
+<link>http://www.themaninblue.com/writing/perspective/2005/08/29/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-04-04T17:58:43Z</dc:date>
+<dc:subject>css webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=_qddueXkD8E">
+<title>YouTube - Xubuntu Compiz Fusion VERY OLD computer / Better than Vista</title>
+<link>http://www.youtube.com/watch?v=_qddueXkD8E</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-25T13:57:26Z</dc:date>
+<dc:subject>compiz linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/compiz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vergenet.net/~conrad/software/xsel/">
+<title>XSel by Conrad Parker</title>
+<link>http://www.vergenet.net/~conrad/software/xsel/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-25T13:57:01Z</dc:date>
+<dc:subject>clipboard linux shell tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clipboard" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.librarything.com/catalog/mercuti0">
+<title>LibraryThing | Catalog your books online</title>
+<link>http://www.librarything.com/catalog/mercuti0</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-22T09:52:49Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.abyssandapex.com/200710-wikihistory.html">
+<title>Abyss &#x26; Apex : Fourth Quarter 2007: Wikihistory</title>
+<link>http://www.abyssandapex.com/200710-wikihistory.html</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-19T13:05:34Z</dc:date>
+<dc:subject>articles funny humor scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://marc.merlins.org/linux/exim/sa.html">
+<title>Exim SpamAssassin at SMTP time</title>
+<link>http://marc.merlins.org/linux/exim/sa.html</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-16T23:31:26Z</dc:date>
+<dc:subject>email exim linux mail spamassassin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exim" />
+    <rdf:li resource="http://del.icio.us/tag/spamassassin" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.debian-administration.org/articles/280">
+<title>HowTo Setup Basic SMTP AUTH in Exim4</title>
+<link>http://www.debian-administration.org/articles/280</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-16T23:30:34Z</dc:date>
+<dc:subject>debian email exim mail sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/exim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/128940">
+<title>Linux.com :: Building a highly functional desktop with lightweight software</title>
+<link>http://www.linux.com/feature/128940</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-15T19:22:16Z</dc:date>
+<dc:subject>guide linux performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ex-parrot.com/~pete/">
+<title>Homepage of Peter Stevens</title>
+<link>http://www.ex-parrot.com/~pete/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-14T11:56:16Z</dc:date>
+<dc:subject>funny linux networking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coffeeghost.net/pybat/python_cheatsheet.png">
+<title>python_cheatsheet.png (PNG Image, 773x938 pixels)</title>
+<link>http://coffeeghost.net/pybat/python_cheatsheet.png</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-12T08:45:45Z</dc:date>
+<dc:subject>Programming python reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psp-hacks.com/2008/03/11/tetriabetes-142-the-peoples-tetris/">
+<title>PSP Hacks &#xB7; Hacks, PSP Downloads, Cracks, Mods, Homebrew, Utilities &#xB7; Hack Sony PlayStation Portable</title>
+<link>http://www.psp-hacks.com/2008/03/11/tetriabetes-142-the-peoples-tetris/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-11T13:49:23Z</dc:date>
+<dc:subject>games psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://burner.geekserver.net/bbc/">
+<title>burner.geekserver.net - bbc_script</title>
+<link>http://burner.geekserver.net/bbc/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-10T14:05:11Z</dc:date>
+<dc:subject>bbc linux mp3 streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/bbc" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dafont.com/">
+<title>dafont.com</title>
+<link>http://www.dafont.com/</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-10T13:20:45Z</dc:date>
+<dc:subject>fonts free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mp3gle.net/index.php">
+<title>Mp3gle - The Audio Search Engine</title>
+<link>http://mp3gle.net/index.php</link>
+<description></description>
+<dc:creator>tonymcnulty</dc:creator>
+<dc:date>2008-03-10T13:18:29Z</dc:date>
+<dc:subject>free music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

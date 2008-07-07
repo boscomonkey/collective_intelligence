@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/foundit">
+<title>del.icio.us/foundit</title>
+<link>http://del.icio.us/foundit</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox" />
+  <rdf:li rdf:resource="http://www.amazon.com/New-School-Information-Security/dp/0321502787/ref=sr_1_1?ie=UTF8&#x26;s=books&#x26;qid=1215027711&#x26;sr=8-1" />
+  <rdf:li rdf:resource="http://www.nasa.gov/externalflash/earthday_gallery/index_noaccess.html" />
+  <rdf:li rdf:resource="http://www.presentationzen.com/presentationzen/" />
+  <rdf:li rdf:resource="http://taosecurity.blogspot.com/2007/11/controls-are-not-solution-to-our.html" />
+  <rdf:li rdf:resource="http://i8jesus.com/" />
+  <rdf:li rdf:resource="http://www.tssci-security.com/archives/2007/12/10/building-a-security-plan/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus" />
+  <rdf:li rdf:resource="http://weburbanist.com/2008/06/22/7-examples-recycled-urban-architecture/" />
+  <rdf:li rdf:resource="http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563" />
+  <rdf:li rdf:resource="http://www.text2mindmap.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://www.w-uh.com/articles/030308-tyranny_of_email.html" />
+  <rdf:li rdf:resource="http://email-overloaded.com/" />
+  <rdf:li rdf:resource="http://www.boston.com/bigpicture/2008/06/the_sky_from_above.html" />
+  <rdf:li rdf:resource="http://cultofmac.com/just-one-more-thing-timeline/2052" />
+  <rdf:li rdf:resource="http://cubo.cc/" />
+  <rdf:li rdf:resource="http://securitybuddha.com/" />
+  <rdf:li rdf:resource="http://www.readatwork.com/" />
+  <rdf:li rdf:resource="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html" />
+  <rdf:li rdf:resource="http://www.glasbergen.com/cat.html" />
+  <rdf:li rdf:resource="http://1raindrop.typepad.com/1_raindrop/2008/05/web-20-security---the-beginning-of-the-end-or-the-end-of-the-beginning.html" />
+  <rdf:li rdf:resource="http://1raindrop.typepad.com/1_raindrop/" />
+  <rdf:li rdf:resource="http://rationalsecurity.typepad.com/" />
+  <rdf:li rdf:resource="http://popurls.com/" />
+  <rdf:li rdf:resource="http://www.rimworlds.com/classic%20science%20fiction%20channel.htm" />
+  <rdf:li rdf:resource="http://www.touchspin.com/chem/SWFs/pt2k61012.swf" />
+  <rdf:li rdf:resource="http://www.networkworld.com/community/node/27945?ts" />
+  <rdf:li rdf:resource="http://www.vigilantsoftware.co.uk/riskassessment.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-06T12:10:14Z</dc:date>
+<dc:subject>3d art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-03T14:59:25Z</dc:date>
+<dc:subject>books literature reading scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox">
+<title>50 songs to make you dance</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-02T20:00:06Z</dc:date>
+<dc:subject>audio dance inspiration music videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/New-School-Information-Security/dp/0321502787/ref=sr_1_1?ie=UTF8&#x26;s=books&#x26;qid=1215027711&#x26;sr=8-1">
+<title>The New School of Information Security: Adam Shostack, Andrew Stewart</title>
+<link>http://www.amazon.com/New-School-Information-Security/dp/0321502787/ref=sr_1_1?ie=UTF8&#x26;s=books&#x26;qid=1215027711&#x26;sr=8-1</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-02T19:43:25Z</dc:date>
+<dc:subject>book information security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nasa.gov/externalflash/earthday_gallery/index_noaccess.html">
+<title>The Home Planet: NASA's View of Earth</title>
+<link>http://www.nasa.gov/externalflash/earthday_gallery/index_noaccess.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-02T16:20:17Z</dc:date>
+<dc:subject>NASA earth photo space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/NASA" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/earth" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.presentationzen.com/presentationzen/">
+<title>Presentation Zen</title>
+<link>http://www.presentationzen.com/presentationzen/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-01T09:29:48Z</dc:date>
+<dc:subject>blog design presentations</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://taosecurity.blogspot.com/2007/11/controls-are-not-solution-to-our.html">
+<title>Controls Are Not the Solution to Our Problem</title>
+<link>http://taosecurity.blogspot.com/2007/11/controls-are-not-solution-to-our.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-07-01T09:23:13Z</dc:date>
+<dc:subject>controls metrics security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/metrics" />
+    <rdf:li resource="http://del.icio.us/tag/controls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i8jesus.com/">
+<title>omg.wtf.bbq.</title>
+<link>http://i8jesus.com/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-30T15:10:13Z</dc:date>
+<dc:subject>blog security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tssci-security.com/archives/2007/12/10/building-a-security-plan/">
+<title>Building a security plan</title>
+<link>http://www.tssci-security.com/archives/2007/12/10/building-a-security-plan/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-30T12:22:23Z</dc:date>
+<dc:subject>infosec planning security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/planning" />
+    <rdf:li resource="http://del.icio.us/tag/infosec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus">
+<title>How Can I Find Out If a File Really Has a Virus?</title>
+<link>http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-27T06:47:17Z</dc:date>
+<dc:subject>HowTo antivirus free lifehacker online scan security virus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/antivirus" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/virus" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/scan" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/HowTo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weburbanist.com/2008/06/22/7-examples-recycled-urban-architecture/">
+<title>7 Superb Examples of Recycled Urban Architecture</title>
+<link>http://weburbanist.com/2008/06/22/7-examples-recycled-urban-architecture/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-23T10:10:12Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563">
+<title>Wow! 10 Awesome Interactive Websites</title>
+<link>http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-23T09:50:52Z</dc:date>
+<dc:subject>fun interactive web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.text2mindmap.com/">
+<title>Text 2 Mind Map - An online text to mind map converter</title>
+<link>http://www.text2mindmap.com/</link>
+<description>Text 2 Mind Map is a web application that converts texts to mind maps.
+It takes a structured list of words or sentences, interprets it,
+and draws a mind map out of them.</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-17T09:19:22Z</dc:date>
+<dc:subject>mindmap mindmapping tools visualization web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-16T18:47:34Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.w-uh.com/articles/030308-tyranny_of_email.html">
+<title>The Tyranny of Email</title>
+<link>http://www.w-uh.com/articles/030308-tyranny_of_email.html</link>
+<description>Email is one of the greatest things the computer revolution has done for personal productivity.  Used improperly, it can also hurt your productivity.  This article discusses ways to use email effectively.  Then it goes beyond that and talks about how to b</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-13T10:18:14Z</dc:date>
+<dc:subject>email gtd lifehacks productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://email-overloaded.com/">
+<title>Email Overloaded</title>
+<link>http://email-overloaded.com/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-13T09:01:33Z</dc:date>
+<dc:subject>blog email gtd lifehacks productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bigpicture/2008/06/the_sky_from_above.html">
+<title>The Sky, From Above - The Big Picture</title>
+<link>http://www.boston.com/bigpicture/2008/06/the_sky_from_above.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-10T20:56:06Z</dc:date>
+<dc:subject>photography space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cultofmac.com/just-one-more-thing-timeline/2052">
+<title>&#x201C;Just One More Thing&#x2026;&#x201D; Timeline</title>
+<link>http://cultofmac.com/just-one-more-thing-timeline/2052</link>
+<description>The &#x201C;One More Thing&#x201D; timeline below covers every Stevenote we could find, focusing on the &#x201C;Just One More Thing&#x2026;&#x201D; product announcement, with video clips for most of them.</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-08T15:13:54Z</dc:date>
+<dc:subject>History apple keynote timeline</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+    <rdf:li resource="http://del.icio.us/tag/keynote" />
+    <rdf:li resource="http://del.icio.us/tag/History" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cubo.cc/">
+<title>CUBOCC</title>
+<link>http://cubo.cc/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-05T13:28:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://securitybuddha.com/">
+<title>Mark Curphey - SecurityBuddha.com</title>
+<link>http://securitybuddha.com/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-05T13:24:37Z</dc:date>
+<dc:subject>articles blog internet security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readatwork.com/">
+<title>Read at Work</title>
+<link>http://www.readatwork.com/</link>
+<description>!</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-05T12:24:38Z</dc:date>
+<dc:subject>Read books cool fun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/Read" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html">
+<title>Remember The Milk for GTD</title>
+<link>http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html</link>
+<description>Remember The Milk has all the features required to be a great web-based task manager for Getting Things Done (GTD) but its sheer flexibility means it can be daunting to build a well-oiled GTD machine. In this post I&#x2019;ll show you how to use RTM Lists, Tag</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-04T19:15:47Z</dc:date>
+<dc:subject>gtd howto lifehacks productivity rememberthemilk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/rememberthemilk" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.glasbergen.com/cat.html">
+<title>Business Cartoons by Glasbergen</title>
+<link>http://www.glasbergen.com/cat.html</link>
+<description>More than 1000 Business and Computer Cartoons</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T20:08:40Z</dc:date>
+<dc:subject>Cartoons comics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/Cartoons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://1raindrop.typepad.com/1_raindrop/2008/05/web-20-security---the-beginning-of-the-end-or-the-end-of-the-beginning.html">
+<title>Web 2.0 Security - The Beginning of the End or The End of the Beginning</title>
+<link>http://1raindrop.typepad.com/1_raindrop/2008/05/web-20-security---the-beginning-of-the-end-or-the-end-of-the-beginning.html</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T19:52:15Z</dc:date>
+<dc:subject>security web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://1raindrop.typepad.com/1_raindrop/">
+<title>1 Raindrop</title>
+<link>http://1raindrop.typepad.com/1_raindrop/</link>
+<description>Gunnar Peterson's loosely coupled thoughts on distributed systems, security, and software that runs on them.</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T19:51:49Z</dc:date>
+<dc:subject>blog security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rationalsecurity.typepad.com/">
+<title>Rational Survivability</title>
+<link>http://rationalsecurity.typepad.com/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T19:50:20Z</dc:date>
+<dc:subject>Information Security blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Information" />
+    <rdf:li resource="http://del.icio.us/tag/Security" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://popurls.com/">
+<title>popurls&#xAE; | popular urls to the latest web buzz</title>
+<link>http://popurls.com/</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T18:38:39Z</dc:date>
+<dc:subject>News aggregator rss web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/News" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rimworlds.com/classic%20science%20fiction%20channel.htm">
+<title>The CLASSIC SCIENCE FICTION CHANNEL</title>
+<link>http://www.rimworlds.com/classic%20science%20fiction%20channel.htm</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-03T10:55:54Z</dc:date>
+<dc:subject>archive scifi television tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.touchspin.com/chem/SWFs/pt2k61012.swf">
+<title>Periodic Table</title>
+<link>http://www.touchspin.com/chem/SWFs/pt2k61012.swf</link>
+<description>For all chemists</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-06-02T19:57:21Z</dc:date>
+<dc:subject>chemistry education periodictable reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/periodictable" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.networkworld.com/community/node/27945?ts">
+<title>Six free security tools you shouldn't live without</title>
+<link>http://www.networkworld.com/community/node/27945?ts</link>
+<description>the six free security tools that all IT folks should know about and use. (But, you'll have to click through this nifty mult-page post to let me explain my choices.) And the winners are ... MetaSploit, Splunk, Google (don't laugh -- it's true!), KeePass, H</description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-05-30T10:28:04Z</dc:date>
+<dc:subject>SECURITY hacking software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SECURITY" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vigilantsoftware.co.uk/riskassessment.aspx">
+<title>Risk Management and Information Security Risk Assessments</title>
+<link>http://www.vigilantsoftware.co.uk/riskassessment.aspx</link>
+<description></description>
+<dc:creator>foundit</dc:creator>
+<dc:date>2008-05-26T13:30:05Z</dc:date>
+<dc:subject>management risk security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/risk" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

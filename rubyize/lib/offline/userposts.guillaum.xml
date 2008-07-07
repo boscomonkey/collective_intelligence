@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/guillaum">
+<title>del.icio.us/guillaum</title>
+<link>http://del.icio.us/guillaum</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://yudkowsky.net/bayes/bayes.html" />
+  <rdf:li rdf:resource="http://www.mcjones.org/dustydecks/archives/2008/01/15/66/" />
+  <rdf:li rdf:resource="http://video.google.com/videosearch?q=erlang+exchange+2008#" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/" />
+  <rdf:li rdf:resource="http://arts.guardian.co.uk/features/story/0,,1442784,00.html" />
+  <rdf:li rdf:resource="http://www-2.cs.cmu.edu/People/mummert/poker/" />
+  <rdf:li rdf:resource="http://lifelearningtoday.com/2008/07/04/how-to-become-a-runner-a-simple-method-for-beginners/" />
+  <rdf:li rdf:resource="http://chicken.wiki.br/chicken-for-ruby-programmers" />
+  <rdf:li rdf:resource="http://www.kinowear.com/blog/eye-contact/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.cs.brown.edu/courses/cs173/2007/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Nash_equilibrium" />
+  <rdf:li rdf:resource="http://www.bluffbot.com/" />
+  <rdf:li rdf:resource="http://www.maxinmontreal.com/forums/index.php" />
+  <rdf:li rdf:resource="http://www.cbloom.com/poker/" />
+  <rdf:li rdf:resource="http://www.csse.monash.edu.au/~annn/poker/poker.html" />
+  <rdf:li rdf:resource="http://pokerai.org/pf3/viewtopic.php?f=3&#x26;t=256" />
+  <rdf:li rdf:resource="http://pokerai.org/wiki/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.linascheynius.com/" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.kinowear.com/blog/eliminating-unattractive-body-language/" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288127,00.html" />
+  <rdf:li rdf:resource="http://www.bricklin.com/200yearsoftware.htm" />
+  <rdf:li rdf:resource="http://www.uninformed.org/?v=1&#x26;amp;a=7" />
+  <rdf:li rdf:resource="http://www.blachford.info/computer/Cell/Cell0_v2.html" />
+  <rdf:li rdf:resource="http://www.creativity-portal.com/articles/michael-michalko/creative-thinking-habits-thomas-edison.html" />
+  <rdf:li rdf:resource="http://approachanxiety.com/?p=231" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.rebelscience.org/AI/Animal.htm" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-06T04:01:27Z</dc:date>
+<dc:subject>advice ai mit phd research thesis tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yudkowsky.net/bayes/bayes.html">
+<title>An Intuitive Explanation of Bayesian Reasoning</title>
+<link>http://yudkowsky.net/bayes/bayes.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-06T00:19:09Z</dc:date>
+<dc:subject>bayes bayesian math science statistics toread tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/bayesian" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/bayes" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mcjones.org/dustydecks/archives/2008/01/15/66/">
+<title>Dusty Decks &#xBB; Blog Archive &#xBB; ACM Classic Books Series</title>
+<link>http://www.mcjones.org/dustydecks/archives/2008/01/15/66/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-05T08:38:49Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://video.google.com/videosearch?q=erlang+exchange+2008#">
+<title>erlang exchange 2008 - Google Video</title>
+<link>http://video.google.com/videosearch?q=erlang+exchange+2008#</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-05T07:59:29Z</dc:date>
+<dc:subject>2008 conference erlang exchange google programming video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/exchange" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/">
+<title>50 Must-Read Up and Coming Blogs by Teachers | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-05T05:35:42Z</dc:date>
+<dc:subject>blog education interesting learning teaching toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arts.guardian.co.uk/features/story/0,,1442784,00.html">
+<title>Tom Waits on his cherished albums of all time |   | guardian.co.uk Arts</title>
+<link>http://arts.guardian.co.uk/features/story/0,,1442784,00.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-04T23:56:44Z</dc:date>
+<dc:subject>artists list music tom waits</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/waits" />
+    <rdf:li resource="http://del.icio.us/tag/tom" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/artists" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-2.cs.cmu.edu/People/mummert/poker/">
+<title>A New Guide to the Starting Hands in Texas Hold'em Poker</title>
+<link>http://www-2.cs.cmu.edu/People/mummert/poker/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-04T21:47:25Z</dc:date>
+<dc:subject>article holdem poker strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/holdem" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifelearningtoday.com/2008/07/04/how-to-become-a-runner-a-simple-method-for-beginners/">
+<title>How to Become a Runner: A Simple Method for Beginners | Life Learning Today</title>
+<link>http://lifelearningtoday.com/2008/07/04/how-to-become-a-runner-a-simple-method-for-beginners/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-04T21:21:23Z</dc:date>
+<dc:subject>beginner life method running</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/running" />
+    <rdf:li resource="http://del.icio.us/tag/beginner" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chicken.wiki.br/chicken-for-ruby-programmers">
+<title>chicken-for-ruby-programmers</title>
+<link>http://chicken.wiki.br/chicken-for-ruby-programmers</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-04T18:13:08Z</dc:date>
+<dc:subject>chicken ruby scheme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chicken" />
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kinowear.com/blog/eye-contact/">
+<title>Eye Contact: Gateway to a Man&#x2019;s Strength</title>
+<link>http://www.kinowear.com/blog/eye-contact/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-04T04:32:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T22:54:19Z</dc:date>
+<dc:subject>diy howto lifehack lifehacks productivity resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.brown.edu/courses/cs173/2007/">
+<title>Brown CS: CSCI 1730: Programming Languages</title>
+<link>http://www.cs.brown.edu/courses/cs173/2007/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T20:43:38Z</dc:date>
+<dc:subject>course languages programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Nash_equilibrium">
+<title>Nash equilibrium - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Nash_equilibrium</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T05:18:43Z</dc:date>
+<dc:subject>economics game gametheory math theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/gametheory" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bluffbot.com/">
+<title>BluffBot - Poker Bot World Champion - Free Texas Holdem Game</title>
+<link>http://www.bluffbot.com/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T04:55:14Z</dc:date>
+<dc:subject>bluff bot holdem poker texas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+    <rdf:li resource="http://del.icio.us/tag/bluff" />
+    <rdf:li resource="http://del.icio.us/tag/texas" />
+    <rdf:li resource="http://del.icio.us/tag/holdem" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maxinmontreal.com/forums/index.php">
+<title>maxinmontreal.com &#x2022; Index page</title>
+<link>http://www.maxinmontreal.com/forums/index.php</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T04:49:34Z</dc:date>
+<dc:subject>forum openholdem poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/openholdem" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbloom.com/poker/">
+<title>.cbloom.com Poker</title>
+<link>http://www.cbloom.com/poker/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T04:45:16Z</dc:date>
+<dc:subject>mathematics poker theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.csse.monash.edu.au/~annn/poker/poker.html">
+<title>Bayesian Poker Player - Monash BPP</title>
+<link>http://www.csse.monash.edu.au/~annn/poker/poker.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T04:41:47Z</dc:date>
+<dc:subject>ai games poker research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pokerai.org/pf3/viewtopic.php?f=3&#x26;t=256">
+<title>pokerai.org &#x2022; View topic - Papers in Computer Poker</title>
+<link>http://pokerai.org/pf3/viewtopic.php?f=3&#x26;t=256</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T04:04:27Z</dc:date>
+<dc:subject>bot computer papers poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/papers" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pokerai.org/wiki/index.php/Main_Page">
+<title>Main Page - PokerAI</title>
+<link>http://pokerai.org/wiki/index.php/Main_Page</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-03T03:33:08Z</dc:date>
+<dc:subject>ai poker programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linascheynius.com/">
+<title>Lina Scheynius - photography</title>
+<link>http://www.linascheynius.com/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-02T20:38:12Z</dc:date>
+<dc:subject>art inspiration photo photography portfolio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-02T15:56:37Z</dc:date>
+<dc:subject>books list reading scifi toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kinowear.com/blog/eliminating-unattractive-body-language/">
+<title>Eliminating Unattractive Body Language</title>
+<link>http://www.kinowear.com/blog/eliminating-unattractive-body-language/</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-02T01:35:16Z</dc:date>
+<dc:subject>psychology tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288127,00.html">
+<title>How to write a movie |  News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288127,00.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-02T01:09:06Z</dc:date>
+<dc:subject>film filmmaking howto movies screenwriting writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/screenwriting" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/filmmaking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bricklin.com/200yearsoftware.htm">
+<title>Software That Lasts 200 Years</title>
+<link>http://www.bricklin.com/200yearsoftware.htm</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-02T01:04:24Z</dc:date>
+<dc:subject>design development future programming society software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uninformed.org/?v=1&#x26;amp;a=7">
+<title>Uninformed - vol 1 article 7</title>
+<link>http://www.uninformed.org/?v=1&#x26;amp;a=7</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T23:52:46Z</dc:date>
+<dc:subject>hacking programming reversing win32 windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/win32" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/reversing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blachford.info/computer/Cell/Cell0_v2.html">
+<title>Cell Architecture</title>
+<link>http://www.blachford.info/computer/Cell/Cell0_v2.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T22:56:54Z</dc:date>
+<dc:subject>architecture cell cpu hardware programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cell" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/cpu" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativity-portal.com/articles/michael-michalko/creative-thinking-habits-thomas-edison.html">
+<title>Creative Thinking Habits of Thomas Edison - Creativity, Inventions, Ideas</title>
+<link>http://www.creativity-portal.com/articles/michael-michalko/creative-thinking-habits-thomas-edison.html</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T22:11:23Z</dc:date>
+<dc:subject>creativity edison ideas inventions thinking thomas tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/thomas" />
+    <rdf:li resource="http://del.icio.us/tag/edison" />
+    <rdf:li resource="http://del.icio.us/tag/thinking" />
+    <rdf:li resource="http://del.icio.us/tag/inventions" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://approachanxiety.com/?p=231">
+<title>Approach Anxiety &#xBB; Blog Archive &#xBB; A Nice Guy or a Great Guy? The 10% Difference</title>
+<link>http://approachanxiety.com/?p=231</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T20:40:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T04:55:27Z</dc:date>
+<dc:subject>cheatsheet commands programming reference tips unix vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rebelscience.org/AI/Animal.htm">
+<title>Animal</title>
+<link>http://www.rebelscience.org/AI/Animal.htm</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-07-01T01:51:42Z</dc:date>
+<dc:subject>ai chess game learning network neural simulation software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/chess" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/neural" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>Programmer competency matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>guillaum</dc:creator>
+<dc:date>2008-06-30T22:42:19Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

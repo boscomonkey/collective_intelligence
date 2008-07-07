@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/carlos_munoz">
+<title>del.icio.us/carlos_munoz</title>
+<link>http://del.icio.us/carlos_munoz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://iphonefan.com/blog/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.programasiphone.com/" />
+  <rdf:li rdf:resource="http://www.esferaiphone.com/" />
+  <rdf:li rdf:resource="http://iphoneapps.es/" />
+  <rdf:li rdf:resource="http://www.crackeatuiphone.com/" />
+  <rdf:li rdf:resource="http://www.actualidadiphone.com/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/" />
+  <rdf:li rdf:resource="http://konigi.com/tools/graph-paper" />
+  <rdf:li rdf:resource="http://islayer.com/index.php?op=item&#x26;id=64" />
+  <rdf:li rdf:resource="http://www.experienceproject.com/uw.php?e=254804" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.uniqlo.com/motion/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://www.ubiqwindow.jp/ENG/english.htm" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/" />
+  <rdf:li rdf:resource="http://wefunction.com/2008/07/function-free-icon-set/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/galleries/artistic-websites-two/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/" />
+  <rdf:li rdf:resource="http://www.davidairey.com/13-typefaces-every-graphic-designer-needs/" />
+  <rdf:li rdf:resource="http://www.magnigraph.com/" />
+  <rdf:li rdf:resource="http://emehmedovic.com/xmca/toobplayer/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://iphonefan.com/blog/">
+<title>iPhoneFan &#xBB; Lo Relevante del nuevo iPhone 3G desde Mexico</title>
+<link>http://iphonefan.com/blog/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-06T11:41:05Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-06T10:53:55Z</dc:date>
+<dc:subject>java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.programasiphone.com/">
+<title>Programas iPhone: Todos los programas para el iPhone</title>
+<link>http://www.programasiphone.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T10:36:39Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.esferaiphone.com/">
+<title>EsferaiPhone: Tutoriales, guias y noticias para tu iPhone.</title>
+<link>http://www.esferaiphone.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T10:36:18Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://iphoneapps.es/">
+<title>iPhoneApps: Todo para tu iPhone / iPod Touch</title>
+<link>http://iphoneapps.es/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T10:34:53Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crackeatuiphone.com/">
+<title>iPhone ::&#xA0;Crackea tu iPhone&#xA0;:: Todo sobre el tel&#xE9;fono de Apple :: como liberar, desbloquear, juegos, aplicaciones y noticias</title>
+<link>http://www.crackeatuiphone.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T10:33:03Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.actualidadiphone.com/">
+<title>Actualidad iPhone - manuales y noticias sobre el iPhone</title>
+<link>http://www.actualidadiphone.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T10:32:27Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-05T09:20:55Z</dc:date>
+<dc:subject>patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/">
+<title>Table Drag and Drop JQuery plugin | Isocra</title>
+<link>http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-04T17:35:31Z</dc:date>
+<dc:subject>ajax javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://konigi.com/tools/graph-paper">
+<title>Graph Paper | Konigi</title>
+<link>http://konigi.com/tools/graph-paper</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-04T17:31:16Z</dc:date>
+<dc:subject>css design storyboard templates web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/storyboard" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://islayer.com/index.php?op=item&#x26;id=64">
+<title>iSlayer.com</title>
+<link>http://islayer.com/index.php?op=item&#x26;id=64</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-04T11:42:22Z</dc:date>
+<dc:subject>calendar mac software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.experienceproject.com/uw.php?e=254804">
+<title>Carlton Banks (Alfonso Ribeiro) Tribute to the Carlton Dance</title>
+<link>http://www.experienceproject.com/uw.php?e=254804</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T16:43:41Z</dc:date>
+<dc:subject>curiosidades television</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/curiosidades" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T12:34:39Z</dc:date>
+<dc:subject>xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uniqlo.com/motion/">
+<title>DRY IN MOTION</title>
+<link>http://www.uniqlo.com/motion/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T09:48:09Z</dc:date>
+<dc:subject>flash video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - env&#xED;a notas que se autodestruir&#xE1;n luego de ser leidas</title>
+<link>https://privnote.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T09:46:26Z</dc:date>
+<dc:subject>email herramientas recursos tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/herramientas" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/recursos" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubiqwindow.jp/ENG/english.htm">
+<title>LM3LABS - Ubiq'window | The Future Is Transparent</title>
+<link>http://www.ubiqwindow.jp/ENG/english.htm</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T09:16:21Z</dc:date>
+<dc:subject>3d curiosidades technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/curiosidades" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T07:24:53Z</dc:date>
+<dc:subject>sonido tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sonido" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T07:21:09Z</dc:date>
+<dc:subject>design firefox tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/">
+<title>15 CSS and HTML Tutorials You Can Use In Your Projects | Social CMS Buzz</title>
+<link>http://socialcmsbuzz.com/15-css-and-html-tutorials-you-can-use-in-your-projects-01072008/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T07:17:52Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wefunction.com/2008/07/function-free-icon-set/">
+<title>Function Web Design &#x26; Development [ Blog ] &#xBB; Blog Archive &#xBB; Free Icons: Function Icon Set, 128 Completely Free Icons</title>
+<link>http://wefunction.com/2008/07/function-free-icon-set/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T07:05:56Z</dc:date>
+<dc:subject>iconos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iconos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-03T07:01:12Z</dc:date>
+<dc:subject>iconos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iconos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-02T09:33:39Z</dc:date>
+<dc:subject>tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-01T18:54:52Z</dc:date>
+<dc:subject>conversion tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/">
+<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+<link>http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-01T13:03:21Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/galleries/artistic-websites-two/">
+<title>25 Incredibly Artistic Websites - Part II | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/galleries/artistic-websites-two/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-01T13:01:45Z</dc:date>
+<dc:subject>css design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-01T10:00:59Z</dc:date>
+<dc:subject>design patterns tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-07-01T09:41:55Z</dc:date>
+<dc:subject>design illustrator patterns photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/">
+<title>Hidden Pixels - FREE Web Icons</title>
+<link>http://www.hiddenpixels.com/designer-and-developer-resources/free-web-icons/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-06-30T21:28:17Z</dc:date>
+<dc:subject>iconos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iconos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.davidairey.com/13-typefaces-every-graphic-designer-needs/">
+<title>13 typefaces every graphic designer needs | David Airey :: Graphic and Logo Designer</title>
+<link>http://www.davidairey.com/13-typefaces-every-graphic-designer-needs/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-06-30T13:48:53Z</dc:date>
+<dc:subject>tipografia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tipografia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magnigraph.com/">
+<title>magnigraph.com - scalable vector graphics</title>
+<link>http://www.magnigraph.com/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-06-30T08:59:36Z</dc:date>
+<dc:subject>fotos photography recursos tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fotos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/recursos" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emehmedovic.com/xmca/toobplayer/">
+<title>ToobPlayer 1.0.0 - Dark Skin</title>
+<link>http://emehmedovic.com/xmca/toobplayer/</link>
+<description></description>
+<dc:creator>carlos_munoz</dc:creator>
+<dc:date>2008-06-30T08:58:58Z</dc:date>
+<dc:subject>flash video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

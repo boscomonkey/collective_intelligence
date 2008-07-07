@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/emerson_banez">
+<title>del.icio.us/emerson_banez</title>
+<link>http://del.icio.us/emerson_banez</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://www.linuxjournal.com/content/data-manipulation-sprog" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://lifehacker.com/397802/two+faced-mac+like-windows-desktop" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=AfwNbUxbKr0" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=3DLfkWWw_Tg&#x26;feature=related" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=j02b8Fuz73A" />
+  <rdf:li rdf:resource="http://www.theinquirer.net/en/inquirer/news/2003/12/28/the-it-industry-is-shifting-away-from-microsoft" />
+  <rdf:li rdf:resource="http://skinbase.org/" />
+  <rdf:li rdf:resource="http://blog.seattlepi.nwsource.com/microsoft/archives/141866.asp" />
+  <rdf:li rdf:resource="http://blog.seattlepi.nwsource.com/microsoft/archives/141821.asp" />
+  <rdf:li rdf:resource="http://gizmodo.com/5019908/ten-reasons-why-vista-isnt-that-bad" />
+  <rdf:li rdf:resource="http://gizmodo.com/342920/holy-crap-did-bill-gates-just-say-windows-sucks" />
+  <rdf:li rdf:resource="http://www.kirainet.com/english/making-good-use-of-a-little-corner/" />
+  <rdf:li rdf:resource="http://www.faqs.org/docs/artu/index.html" />
+  <rdf:li rdf:resource="http://www.bluej.org/download/download.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080620-first-look-opensuse-11-out-offers-best-kde-4-experience.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/396619/opensuse-110-integrates-compiz-into-linux-desktop" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/22/banshee-freeopen-mus.html" />
+  <rdf:li rdf:resource="http://www.joeydevilla.com/2008/06/23/rip-george-carlin/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001044.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001065.html" />
+  <rdf:li rdf:resource="http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx" />
+  <rdf:li rdf:resource="http://www.warrenellis.com/?p=5990" />
+  <rdf:li rdf:resource="http://techgage.com/article/intel_core_2_quad_q6600/8" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/000942.html" />
+  <rdf:li rdf:resource="http://www.supremecourt.gov.ph/jurisprudence/2001/jun2001/121597.htm#_edn9" />
+  <rdf:li rdf:resource="http://lifehacker.com/391435/learn-to-play-an-instrument-online" />
+  <rdf:li rdf:resource="http://pmog.com/" />
+  <rdf:li rdf:resource="http://www.newsnet5.com/health/16363548/detail.html" />
+  <rdf:li rdf:resource="http://angry-economist.russnelson.com/2008/05/29#something-must-be-done" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description>When you've got your Windows XP or Vista setup running perfectly, you don't want to lose all your painstaking customizations to a reckless tot, an experiment-minded friend or spouse, or a rogue system-lousing program</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-06T10:35:08Z</dc:date>
+<dc:subject>microsoft tech web windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxjournal.com/content/data-manipulation-sprog">
+<title>Data Manipulation with Sprog | Linux Journal</title>
+<link>http://www.linuxjournal.com/content/data-manipulation-sprog</link>
+<description>Some of the more complicated manipulations pose a briefly satisfying technical challenge, but in the end, data manipulation is boring.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-06T10:25:53Z</dc:date>
+<dc:subject>gui linux programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description>Hit the jump for an overview of the five best Windows maintenance tools, then cast your vote for the best of the bunch.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-04T10:34:25Z</dc:date>
+<dc:subject>computers lifehacks windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397802/two+faced-mac+like-windows-desktop">
+<title>Featured Desktop: Two-Faced Mac-like Windows Desktop</title>
+<link>http://lifehacker.com/397802/two+faced-mac+like-windows-desktop</link>
+<description>Designer Vijayakrishnan gives us a tour of his gorgeous Windows multi-desktop, which makes you look at it three times to figure out what operating system he's using.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-04T10:33:08Z</dc:date>
+<dc:subject>design windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=AfwNbUxbKr0">
+<title>YouTube - GCC: Current Topics and Future Directions</title>
+<link>http://youtube.com/watch?v=AfwNbUxbKr0</link>
+<description>i miss the gcc</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-04T07:11:20Z</dc:date>
+<dc:subject>computers tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=3DLfkWWw_Tg&#x26;feature=related">
+<title>YouTube - CGAL: The Open Source Computational Geometry Algorithms Library</title>
+<link>http://youtube.com/watch?v=3DLfkWWw_Tg&#x26;feature=related</link>
+<description>yes, it's been a while since i cared to watch a lecture on algorithms for computational geometry. i must be bored.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-04T05:59:19Z</dc:date>
+<dc:subject>computers frameworks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/frameworks" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=j02b8Fuz73A">
+<title>YouTube - NeXTSTEP Release 3 Demo</title>
+<link>http://youtube.com/watch?v=j02b8Fuz73A</link>
+<description>Steve Jobs demoing the NEXT operating system. Many of the features shown here are now in Macintosh OSX.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-04T05:52:51Z</dc:date>
+<dc:subject>computers fun tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theinquirer.net/en/inquirer/news/2003/12/28/the-it-industry-is-shifting-away-from-microsoft">
+<title>The IT industry is shifting away from Microsoft - The INQUIRER</title>
+<link>http://www.theinquirer.net/en/inquirer/news/2003/12/28/the-it-industry-is-shifting-away-from-microsoft</link>
+<description>EVERY SO often, there is a big shift in an industry. The shifts are not usually visible until long after they've happened, making you look back and say: &#x26;quot;Oh yeah, things were different back then&#x26;quot;.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-07-03T04:51:21Z</dc:date>
+<dc:subject>linux microsoft opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://skinbase.org/">
+<title>Wallpapers, Skins, Winamp, ICQ, WindowBlinds ... .: SKINBASE.org :.</title>
+<link>http://skinbase.org/</link>
+<description>nice stash of wallpapers</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T14:00:32Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.seattlepi.nwsource.com/microsoft/archives/141866.asp">
+<title>A Seattle P-I Special Report</title>
+<link>http://blog.seattlepi.nwsource.com/microsoft/archives/141866.asp</link>
+<description>Bill Gates is finishing his day-to-day duties at Microsoft, more than 30 years after he formed it as a small partnership with his friend Paul Allen. The move begins a new era for Gates, Microsoft and the Bill &#x26;amp; Melinda Gates Foundation, where he will focu</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T14:00:05Z</dc:date>
+<dc:subject>microsoft stories</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/stories" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.seattlepi.nwsource.com/microsoft/archives/141821.asp">
+<title>Full text: An epic Bill Gates e-mail rant</title>
+<link>http://blog.seattlepi.nwsource.com/microsoft/archives/141821.asp</link>
+<description>For the opening piece in our series on Gates leaving daily life at Microsoft, one goal was to give a clear picture of the Microsoft co-founder's role inside the company, as a gauge of the impact his departure will have.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T13:42:43Z</dc:date>
+<dc:subject>computers humor microsoft programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/5019908/ten-reasons-why-vista-isnt-that-bad">
+<title>Bill Gates Retirement Party: Ten Reasons Why Vista Isn't That Bad</title>
+<link>http://gizmodo.com/5019908/ten-reasons-why-vista-isnt-that-bad</link>
+<description>Although we agree that Vista could have used a bit more time shoved back into the silicon womb for some feature buffing and bug fixing, it's not nearly as bad as most people are making it out to be.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T12:23:04Z</dc:date>
+<dc:subject>humor lifehacks microsoft tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/342920/holy-crap-did-bill-gates-just-say-windows-sucks">
+<title>Holy Crap: Did Bill Gates Just Say Windows Sucks?</title>
+<link>http://gizmodo.com/342920/holy-crap-did-bill-gates-just-say-windows-sucks</link>
+<description>We asked a simple question: what Microsoft product could have used a little more polish before release? The answer astounded us. We would just like to thank Bill Gates for his honesty and his openness.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T12:22:56Z</dc:date>
+<dc:subject>humor microsoft tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kirainet.com/english/making-good-use-of-a-little-corner/">
+<title>Kirainet.com - A geek in Japan &#x2014; Making good use of a little corner</title>
+<link>http://www.kirainet.com/english/making-good-use-of-a-little-corner/</link>
+<description>Look at the girl in the picture, she is planting some tomatoes in little corner between two roads in the middle of Tokyo. Isn&#x2019;t it amazing? She cares about that little place of land lost in Tokyo&#x2019;s immensity, and what is more amazing is that she doesn</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T07:25:27Z</dc:date>
+<dc:subject>lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.faqs.org/docs/artu/index.html">
+<title>The Art of Unix Programming</title>
+<link>http://www.faqs.org/docs/artu/index.html</link>
+<description>nice programming book i'll never get to read in the short term</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-28T03:34:02Z</dc:date>
+<dc:subject>ebooks linux opensource philosophy programming tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bluej.org/download/download.html">
+<title>BlueJ - Download</title>
+<link>http://www.bluej.org/download/download.html</link>
+<description>BlueJ is an integrated Java environment specifically designed for introductory teaching and learning object-oriented programming.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-25T08:06:10Z</dc:date>
+<dc:subject>java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080620-first-look-opensuse-11-out-offers-best-kde-4-experience.html">
+<title>First look: OpenSUSE 11 out, offers best KDE 4 experience</title>
+<link>http://arstechnica.com/news.ars/post/20080620-first-look-opensuse-11-out-offers-best-kde-4-experience.html</link>
+<description>Novell announced the official release of OpenSUSE 11 yesterday. It's the latest version of the community-driven Linux distribution and includes significant new features like the KDE 4 desktop environment and the PulseAudio sound server.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-23T14:53:21Z</dc:date>
+<dc:subject>linux opensource review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396619/opensuse-110-integrates-compiz-into-linux-desktop">
+<title>Featured Download: OpenSUSE 11.0 Integrates Compiz into Linux Desktop</title>
+<link>http://lifehacker.com/396619/opensuse-110-integrates-compiz-into-linux-desktop</link>
+<description>OpenSuse 11.0, the latest release of the Novell/AMD-sponsored Linux distribution, has hit the download servers.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-23T13:54:52Z</dc:date>
+<dc:subject>stuff tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/stuff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/22/banshee-freeopen-mus.html">
+<title>Banshee free/open music player for GNU/Linux turns 1.0 - Boing Boing</title>
+<link>http://www.boingboing.net/2008/06/22/banshee-freeopen-mus.html</link>
+<description>I'm awfully excited to note (belatedly) that Banshee, the free/open music player for GNU/Linux, turned 1.0 a couple weeks ago while I was still on the road.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-23T12:43:42Z</dc:date>
+<dc:subject>linux media music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.joeydevilla.com/2008/06/23/rip-george-carlin/">
+<title>&#xBB; R.I.P. George Carlin &#xBB; The Adventures of Accordion Guy in the 21st Century : Joey deVilla&#x2019;s Personal Blog</title>
+<link>http://www.joeydevilla.com/2008/06/23/rip-george-carlin/</link>
+<description>Comedian George Carlin &#x2014; first Saturday Night Live guest host, creator of the classic &#x201C;Seven Dirty Words&#x201D; routine [Warning: language not safe for work*] that started the F.C.C. vs. Pacifica Foundation case and comedic cataloguer of American excess,</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-23T07:46:17Z</dc:date>
+<dc:subject>humor law philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001044.html">
+<title>Coding Horror: Why Doesn't Anyone Give a Crap About Freedom Zero?</title>
+<link>http://www.codinghorror.com/blog/archives/001044.html</link>
+<description>i do give a crap. so it's likely that my next pc purchase will be another custom PC running linux</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-16T04:07:55Z</dc:date>
+<dc:subject>opensource programming tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001065.html">
+<title>Coding Horror: Douchebaggery</title>
+<link>http://www.codinghorror.com/blog/archives/001065.html</link>
+<description>one reason i most probably will not buy a mac</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-16T03:10:17Z</dc:date>
+<dc:subject>linux programming tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx">
+<title>Some Consulting Wisdom I Picked Up - Chad Myers' Blog</title>
+<link>http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx</link>
+<description>for consultants, but could be useful for lawyers as well</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-15T15:21:39Z</dc:date>
+<dc:subject>lifehacks personal philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/personal" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.warrenellis.com/?p=5990">
+<title>Warren Ellis &#xBB; Bending Mars</title>
+<link>http://www.warrenellis.com/?p=5990</link>
+<description>Is putting humans on Mars important? Yes. Humans need land to live on, and, in a dynamic environment, they need land to move to. Closed systems are bad because they remove options. A single planet is a closed system. And the thing about land is, as a hist</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-05T05:10:14Z</dc:date>
+<dc:subject>life science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techgage.com/article/intel_core_2_quad_q6600/8">
+<title>Techgage - Intel Core 2 Quad Q6600</title>
+<link>http://techgage.com/article/intel_core_2_quad_q6600/8</link>
+<description>more info on the intel quad processor</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-05T01:03:38Z</dc:date>
+<dc:subject>computers tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/000942.html">
+<title>Coding Horror: Choosing Dual or Quad Core</title>
+<link>http://www.codinghorror.com/blog/archives/000942.html</link>
+<description>I think there's a clear and substantial benefit for all computer users when there are two CPUs waiting to service requests, instead of just one. If nothing else, it lets you gracefully terminate an application that has gone haywire, consuming all availabl</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-05T00:55:51Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.supremecourt.gov.ph/jurisprudence/2001/jun2001/121597.htm#_edn9">
+<title>Phil National Bank vs CA : 121597 : June 29, 2001 : J. Quisumbing : Second Division</title>
+<link>http://www.supremecourt.gov.ph/jurisprudence/2001/jun2001/121597.htm#_edn9</link>
+<description>alright, so i'm just trying to reassure myself that based on the latest rulings of the SC, a mortgagee who proceeds upon the mortgage through extrajudicial foreclosure now waives his right to sue for the deficiency</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-06-04T16:41:26Z</dc:date>
+<dc:subject>law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/391435/learn-to-play-an-instrument-online">
+<title>How To: Learn to Play an Instrument Online</title>
+<link>http://lifehacker.com/391435/learn-to-play-an-instrument-online</link>
+<description>Chances are at one point or another, you've either purchased an instrument or considered doing so with the intention of learning to play it; most of us, however, never get around the learning part.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-05-31T10:31:33Z</dc:date>
+<dc:subject>life lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pmog.com/">
+<title>The Passively Multiplayer Online Game, PMOG</title>
+<link>http://pmog.com/</link>
+<description>looks interesting. if only i had the time.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-05-31T10:14:17Z</dc:date>
+<dc:subject>entertainment media web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newsnet5.com/health/16363548/detail.html">
+<title>Woman Wakes Up After Family Says Goodbye, Tubes Pulled - Health News Story - WEWS Cleveland</title>
+<link>http://www.newsnet5.com/health/16363548/detail.html</link>
+<description>huh. guess you never know</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-05-30T14:31:52Z</dc:date>
+<dc:subject>religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://angry-economist.russnelson.com/2008/05/29#something-must-be-done">
+<title>The Angry Economist</title>
+<link>http://angry-economist.russnelson.com/2008/05/29#something-must-be-done</link>
+<description>There are very concrete causes for the increase in gasoline prices. It comes down to having to pay more than anybody else wants to pay.</description>
+<dc:creator>emerson_banez</dc:creator>
+<dc:date>2008-05-30T14:02:46Z</dc:date>
+<dc:subject>economics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/allanahk">
+<title>del.icio.us/allanahk</title>
+<link>http://del.icio.us/allanahk</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=-Y3g6LO5GDc" />
+  <rdf:li rdf:resource="http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting" />
+  <rdf:li rdf:resource="http://www.stellarium.org/" />
+  <rdf:li rdf:resource="http://www.imaginationcubed.com/" />
+  <rdf:li rdf:resource="http://picasaweb.google.com/home" />
+  <rdf:li rdf:resource="http://www.sensibleunits.com/" />
+  <rdf:li rdf:resource="http://taggalaxy.de/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/allanahk/" />
+  <rdf:li rdf:resource="http://centre4.interact.ac.nz/modules/forum/forum.php?space_key=1723&#x26;module_key=34918&#x26;link_key=34873&#x26;group_key=0" />
+  <rdf:li rdf:resource="http://www.presentationzen.com/" />
+  <rdf:li rdf:resource="http://www.garrreynolds.com/Presentation/index.html" />
+  <rdf:li rdf:resource="http://www.compfight.com/" />
+  <rdf:li rdf:resource="http://learninginhand.com/podcasting/booklet.html" />
+  <rdf:li rdf:resource="http://www.wisdom-soft.com/asr/asr_free.htm" />
+  <rdf:li rdf:resource="http://www.plurk.com/user/AllanahK" />
+  <rdf:li rdf:resource="http://edorigami.wikispaces.com/Facilitating+21st+Century+Learning" />
+  <rdf:li rdf:resource="http://www.teacherled.com/" />
+  <rdf:li rdf:resource="http://www.teacherled.com/resources/pentomino/pentominoload.html" />
+  <rdf:li rdf:resource="http://www.teacherled.com/resources/domino/dominoload.html" />
+  <rdf:li rdf:resource="http://www.news3online.com/spread.php" />
+  <rdf:li rdf:resource="http://edu.blogs.com/edublogs/2007/08/10-top-tips-for.html" />
+  <rdf:li rdf:resource="http://voicethread.com/#q.b162089" />
+  <rdf:li rdf:resource="http://voicethread.com/#u12494.b89263.i454675" />
+  <rdf:li rdf:resource="http://www.zoo-m.com/flickr-storm/" />
+  <rdf:li rdf:resource="http://flickrcc.bluemountains.net/" />
+  <rdf:li rdf:resource="http://puzzlemaker.discoveryeducation.com/" />
+  <rdf:li rdf:resource="http://www.podiumpodcasting.com/createapodcast/index.html" />
+  <rdf:li rdf:resource="http://www.podiumpodcasting.com/blog/?p=82" />
+  <rdf:li rdf:resource="http://www.softease.com/Catalogue.aspx?cid=8" />
+  <rdf:li rdf:resource="http://skitch.com/" />
+  <rdf:li rdf:resource="http://www.myaimistrue.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.youtube.com/watch?v=-Y3g6LO5GDc">
+<title>YouTube - Skitch Tutorial</title>
+<link>http://www.youtube.com/watch?v=-Y3g6LO5GDc</link>
+<description>Chris' Tutorial</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-06T11:40:58Z</dc:date>
+<dc:subject>Skitch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Skitch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting">
+<title>Miguel's Wiki &#xBB; Work/Podcasting Resources?</title>
+<link>http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting</link>
+<description>He mentions our  blog and podcast. WOW</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-06T08:45:47Z</dc:date>
+<dc:subject>Podcasting Wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Podcasting" />
+    <rdf:li resource="http://del.icio.us/tag/Wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stellarium.org/">
+<title>Stellarium Astronomy</title>
+<link>http://www.stellarium.org/</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-05T04:36:14Z</dc:date>
+<dc:subject>Science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imaginationcubed.com/">
+<title>Imagination Cubed</title>
+<link>http://www.imaginationcubed.com/</link>
+<description>Draw, it replays and you can email it.</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-03T08:52:45Z</dc:date>
+<dc:subject>Arts Fun Games animation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Arts" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://picasaweb.google.com/home">
+<title>Picasa Web Albums - Allanah</title>
+<link>http://picasaweb.google.com/home</link>
+<description>My Picasa Web Photo Album- I had forgotten about it as have been using Flickr for ages.</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-03T07:02:49Z</dc:date>
+<dc:subject>Photography web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sensibleunits.com/">
+<title>SensibleUnits.com</title>
+<link>http://www.sensibleunits.com/</link>
+<description>Change length into non-standard units</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-03T05:50:06Z</dc:date>
+<dc:subject>Maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://taggalaxy.de/">
+<title>Tag Galaxy</title>
+<link>http://taggalaxy.de/</link>
+<description>Beautiful way to show and find photos</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-02T11:36:49Z</dc:date>
+<dc:subject>Flickr Photography creativity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/allanahk/">
+<title>Flickr: allanah_k's Photostream</title>
+<link>http://www.flickr.com/photos/allanahk/</link>
+<description>My very own Flickr URL</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-02T10:09:26Z</dc:date>
+<dc:subject>Flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://centre4.interact.ac.nz/modules/forum/forum.php?space_key=1723&#x26;module_key=34918&#x26;link_key=34873&#x26;group_key=0">
+<title>Centre4 - ECE ICT PL - Cafe</title>
+<link>http://centre4.interact.ac.nz/modules/forum/forum.php?space_key=1723&#x26;module_key=34918&#x26;link_key=34873&#x26;group_key=0</link>
+<description>Elaine's ECE Interact Cafe</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-01T23:13:15Z</dc:date>
+<dc:subject>ECE</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ECE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.presentationzen.com/">
+<title>Presentation Zen</title>
+<link>http://www.presentationzen.com/</link>
+<description>Another recommendation from Elaine</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-01T23:05:02Z</dc:date>
+<dc:subject>Keynote PowerPoint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PowerPoint" />
+    <rdf:li resource="http://del.icio.us/tag/Keynote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.garrreynolds.com/Presentation/index.html">
+<title>Garr Reynolds/Presentations</title>
+<link>http://www.garrreynolds.com/Presentation/index.html</link>
+<description>The good and bad of presentations</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-01T23:02:59Z</dc:date>
+<dc:subject>Keynote PowerPoint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Keynote" />
+    <rdf:li resource="http://del.icio.us/tag/PowerPoint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.compfight.com/">
+<title>compfight / a flickr&#x2122; search tool</title>
+<link>http://www.compfight.com/</link>
+<description>A good Flickr search tool</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-01T19:29:06Z</dc:date>
+<dc:subject>Flickr Photography Research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+    <rdf:li resource="http://del.icio.us/tag/Research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://learninginhand.com/podcasting/booklet.html">
+<title>learninginhand.com - Podcasting for Teachers &#x26; Students Booklet</title>
+<link>http://learninginhand.com/podcasting/booklet.html</link>
+<description>A pdf with lots of tutorials and links to podcasting</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-07-01T07:18:01Z</dc:date>
+<dc:subject>Podcasting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Podcasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wisdom-soft.com/asr/asr_free.htm">
+<title>Free Screen Recorder - AutoScreenRecorder</title>
+<link>http://www.wisdom-soft.com/asr/asr_free.htm</link>
+<description>For Windows as recommended by Wes Fryer</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-30T09:53:58Z</dc:date>
+<dc:subject>Screencapture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Screencapture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.plurk.com/user/AllanahK">
+<title>AllanahK - Plurk.com</title>
+<link>http://www.plurk.com/user/AllanahK</link>
+<description>Don't know about whether I like Plurk yet</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-30T09:40:00Z</dc:date>
+<dc:subject>Plurk Twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Plurk" />
+    <rdf:li resource="http://del.icio.us/tag/Twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edorigami.wikispaces.com/Facilitating+21st+Century+Learning">
+<title>educational-origami &#xBB; Facilitating 21st Century Learning</title>
+<link>http://edorigami.wikispaces.com/Facilitating+21st+Century+Learning</link>
+<description>Andrew's Wiki on ICT integration- what it takes to get it right</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-29T10:29:45Z</dc:date>
+<dc:subject>Blooms Learning Pedagogy Wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Wiki" />
+    <rdf:li resource="http://del.icio.us/tag/Pedagogy" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+    <rdf:li resource="http://del.icio.us/tag/Blooms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teacherled.com/">
+<title>TeacherLED &#x2014; Interactive Whiteboard Resources For Teachers</title>
+<link>http://www.teacherled.com/</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-29T05:17:10Z</dc:date>
+<dc:subject>InteractiveWhiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/InteractiveWhiteboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teacherled.com/resources/pentomino/pentominoload.html">
+<title>www.teacherLED.com Pentomino Maths Investigation</title>
+<link>http://www.teacherled.com/resources/pentomino/pentominoload.html</link>
+<description>Pentominoes</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-29T05:15:23Z</dc:date>
+<dc:subject>InteractiveWhiteboard Maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/InteractiveWhiteboard" />
+    <rdf:li resource="http://del.icio.us/tag/Maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teacherled.com/resources/domino/dominoload.html">
+<title>TeacherLED.com Domino Investigations</title>
+<link>http://www.teacherled.com/resources/domino/dominoload.html</link>
+<description>Dominoes</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-29T05:11:16Z</dc:date>
+<dc:subject>InteractiveWhiteboard Maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/InteractiveWhiteboard" />
+    <rdf:li resource="http://del.icio.us/tag/Maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news3online.com/spread.php">
+<title>Viral marketing interface for election 08 prank!</title>
+<link>http://www.news3online.com/spread.php</link>
+<description>Should I run for president</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-29T00:45:22Z</dc:date>
+<dc:subject>Fun Video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edu.blogs.com/edublogs/2007/08/10-top-tips-for.html">
+<title>edublogs: 10 Top Tips for Unplanning the Perfect Unconference</title>
+<link>http://edu.blogs.com/edublogs/2007/08/10-top-tips-for.html</link>
+<description>What we need for unconference at ULearn to be any good.</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-28T21:58:16Z</dc:date>
+<dc:subject>Collaboration Unconference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Unconference" />
+    <rdf:li resource="http://del.icio.us/tag/Collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://voicethread.com/#q.b162089">
+<title>VoiceThread - Group conversations around images, docs and videos</title>
+<link>http://voicethread.com/#q.b162089</link>
+<description>NECC08 reflections</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-28T06:32:40Z</dc:date>
+<dc:subject>Voicethread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Voicethread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://voicethread.com/#u12494.b89263.i454675">
+<title>VoiceThread - Group conversations around images, docs and videos</title>
+<link>http://voicethread.com/#u12494.b89263.i454675</link>
+<description>Maple Syrup Trip NECC preso @MariaK</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-25T23:07:05Z</dc:date>
+<dc:subject>Voicethread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Voicethread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zoo-m.com/flickr-storm/">
+<title>FlickrStorm. Search on Flickr with some Magic</title>
+<link>http://www.zoo-m.com/flickr-storm/</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-25T00:22:11Z</dc:date>
+<dc:subject>Flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickrcc.bluemountains.net/">
+<title>flickrCC</title>
+<link>http://flickrcc.bluemountains.net/</link>
+<description>Search for copyright free limages to use in projects</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-25T00:20:36Z</dc:date>
+<dc:subject>Flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://puzzlemaker.discoveryeducation.com/">
+<title>Welcome to Discovery Education School Resources! School Resources offers clipart, free teaching resources and personalized classroom materials</title>
+<link>http://puzzlemaker.discoveryeducation.com/</link>
+<description>20x20 Word Search Puzzle- you enter yr own words</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-25T00:19:26Z</dc:date>
+<dc:subject>Games Literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/Literacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.podiumpodcasting.com/createapodcast/index.html">
+<title>How do I create a podcast?</title>
+<link>http://www.podiumpodcasting.com/createapodcast/index.html</link>
+<description>Podium How To</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-24T11:46:27Z</dc:date>
+<dc:subject>Audio Podcasting Podium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Podcasting" />
+    <rdf:li resource="http://del.icio.us/tag/Podium" />
+    <rdf:li resource="http://del.icio.us/tag/Audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.podiumpodcasting.com/blog/?p=82">
+<title>Podium Blog &#xBB; Blog Archive &#xBB; Team 6 Infants release podcast news show with Podium and Espresso</title>
+<link>http://www.podiumpodcasting.com/blog/?p=82</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-24T11:43:37Z</dc:date>
+<dc:subject>Podium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Podium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.softease.com/Catalogue.aspx?cid=8">
+<title>Softease -Video Demos</title>
+<link>http://www.softease.com/Catalogue.aspx?cid=8</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-24T11:41:48Z</dc:date>
+<dc:subject>Podium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Podium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://skitch.com/">
+<title>Skitch.com</title>
+<link>http://skitch.com/</link>
+<description>Can't do without it</description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-24T11:34:53Z</dc:date>
+<dc:subject>Apple Flickr Photography Screencapture Skitch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Skitch" />
+    <rdf:li resource="http://del.icio.us/tag/Apple" />
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+    <rdf:li resource="http://del.icio.us/tag/Screencapture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myaimistrue.com/">
+<title>My Aim Is True</title>
+<link>http://www.myaimistrue.com/</link>
+<description></description>
+<dc:creator>AllanahK</dc:creator>
+<dc:date>2008-06-23T22:25:40Z</dc:date>
+<dc:subject>Fun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

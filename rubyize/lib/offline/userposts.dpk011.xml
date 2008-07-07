@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dpk011">
+<title>del.icio.us/dpk011</title>
+<link>http://del.icio.us/dpk011</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.rustoleum.com/CBGProduct.asp?pid=103" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/" />
+  <rdf:li rdf:resource="http://diffle-history.blogspot.com/" />
+  <rdf:li rdf:resource="http://support.mozilla.com/en-US/kb/Opening+PDF+files+within+Firefox#Check_Firefox_settings" />
+  <rdf:li rdf:resource="http://rodrickbrown.com/docs/oreilly/" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html" />
+  <rdf:li rdf:resource="http://gigaom.com/2008/05/25/harvard-negotiation-project-5-lasting-rules-for-negotiating-anything/" />
+  <rdf:li rdf:resource="http://photojojo.com/content/tutorials/photoshop-sharpening/" />
+  <rdf:li rdf:resource="http://www.lawofattraction4all.com/blog/gandhi%20you-must-be-the-change-you-want-to-see-in-the-world-31" />
+  <rdf:li rdf:resource="http://www.positivityblog.com/index.php/2008/05/16/mark-twains-top-9-tips-for-living-a-kick-ass-life/" />
+  <rdf:li rdf:resource="http://digitizer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.tie.org/" />
+  <rdf:li rdf:resource="http://blogs.techrepublic.com.com/10things/?p=348" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2008/05/15/twelve-top-personal-finance-podcasts/" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/5579/" />
+  <rdf:li rdf:resource="http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/" />
+  <rdf:li rdf:resource="http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/6-excellent-firefox-extensions-made-to-save-you-time/" />
+  <rdf:li rdf:resource="http://www.digitalphotographysecrets.com/" />
+  <rdf:li rdf:resource="http://onlineapps.newsvine.com/_news/2008/05/02/1466218-land-of-the-freeware-making-and-receiving-free-phone-calls-via-any-computer-or-internet-enabled-device-with-grandcentral" />
+  <rdf:li rdf:resource="http://www.nokiasoftware.net/pc-applications/4452-make-windows-genuine-simple-trick.html" />
+  <rdf:li rdf:resource="http://drop.io/fax" />
+  <rdf:li rdf:resource="http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html" />
+  <rdf:li rdf:resource="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/LIVING/worklife/04/21/cb.9.questions.boss/index.html" />
+  <rdf:li rdf:resource="http://blog.createdebate.com/2008/04/07/how-to-write-strong-arguments/" />
+  <rdf:li rdf:resource="http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html" />
+  <rdf:li rdf:resource="http://imgs.zinio.com/retail_srvs/classics/" />
+  <rdf:li rdf:resource="http://tv-links.eu/" />
+  <rdf:li rdf:resource="http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-07-06T08:16:34Z</dc:date>
+<dc:subject>advice career guide howto mit phd presentation research science thesis tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rustoleum.com/CBGProduct.asp?pid=103">
+<title>RustOleum.com</title>
+<link>http://www.rustoleum.com/CBGProduct.asp?pid=103</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-06-27T05:51:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/">
+<title>How to Get a Lot Done &#x2013; 7 Tips to Achieve More | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/how-to-get-a-lot-done-%E2%80%93-7-tips-to-achieve-more/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-06-26T18:41:05Z</dc:date>
+<dc:subject>gtd inspiration lifehacker organization productivity timemanagement tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/timemanagement" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diffle-history.blogspot.com/">
+<title>Diary of a Failed Startup</title>
+<link>http://diffle-history.blogspot.com/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-06-24T06:16:27Z</dc:date>
+<dc:subject>advice blog business entrepreneur entrepreneurship failure startup startups</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/failure" />
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.mozilla.com/en-US/kb/Opening+PDF+files+within+Firefox#Check_Firefox_settings">
+<title>Opening PDF files within Firefox</title>
+<link>http://support.mozilla.com/en-US/kb/Opening+PDF+files+within+Firefox#Check_Firefox_settings</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-06-11T17:30:36Z</dc:date>
+<dc:subject>Firefox PDF acrobat plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/acrobat" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+    <rdf:li resource="http://del.icio.us/tag/PDF" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rodrickbrown.com/docs/oreilly/">
+<title>Reference Library</title>
+<link>http://rodrickbrown.com/docs/oreilly/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-06-01T08:24:03Z</dc:date>
+<dc:subject>books ebook ebooks library online oreilly programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/oreilly" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html">
+<title>You're not getting the job -- 25 reasons why - CNN.com</title>
+<link>http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-30T10:04:11Z</dc:date>
+<dc:subject>business career employment job jobsearch lifehacks reference resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/jobsearch" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gigaom.com/2008/05/25/harvard-negotiation-project-5-lasting-rules-for-negotiating-anything/">
+<title>Harvard Negotiation Project: 5 Lasting Rules For Negotiating Anything - GigaOM</title>
+<link>http://gigaom.com/2008/05/25/harvard-negotiation-project-5-lasting-rules-for-negotiating-anything/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-27T06:32:31Z</dc:date>
+<dc:subject>advice business communication education entrepreneurship howto management negotiation psychology tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/negotiation" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photojojo.com/content/tutorials/photoshop-sharpening/">
+<title>Photojojo &#xBB; Unsharp Mask: How Do You Actually Use That Thing?</title>
+<link>http://photojojo.com/content/tutorials/photoshop-sharpening/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-27T06:31:35Z</dc:date>
+<dc:subject>advice computer design graphics guide help howto image photography photoshop sharpening tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/sharpening" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lawofattraction4all.com/blog/gandhi%20you-must-be-the-change-you-want-to-see-in-the-world-31">
+<title>You must be the change you want to see in the world | Lawofattraction4all.com</title>
+<link>http://www.lawofattraction4all.com/blog/gandhi%20you-must-be-the-change-you-want-to-see-in-the-world-31</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-25T09:23:23Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.positivityblog.com/index.php/2008/05/16/mark-twains-top-9-tips-for-living-a-kick-ass-life/">
+<title>Mark Twain&#x2019;s Top 9 Tips for Living a Kick-Ass Life</title>
+<link>http://www.positivityblog.com/index.php/2008/05/16/mark-twains-top-9-tips-for-living-a-kick-ass-life/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-25T09:00:45Z</dc:date>
+<dc:subject>activism advice inspiration life lifehacks lifestyle personal psychology self-improvement tips twain</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/personal" />
+    <rdf:li resource="http://del.icio.us/tag/twain" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/lifestyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digitizer.sourceforge.net/">
+<title>Engauge Digitizer - Digitizing software</title>
+<link>http://digitizer.sourceforge.net/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-25T07:20:39Z</dc:date>
+<dc:subject>data digitizer graph</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+    <rdf:li resource="http://del.icio.us/tag/digitizer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tie.org/">
+<title>Global</title>
+<link>http://www.tie.org/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-20T22:03:38Z</dc:date>
+<dc:subject>business career conference entrepreneur entrepreneurship india innovation international networking startup technology tie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/india" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/international" />
+    <rdf:li resource="http://del.icio.us/tag/tie" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.techrepublic.com.com/10things/?p=348">
+<title>10 things you can do when Windows XP won&#x2019;t boot | 10 Things | TechRepublic.com</title>
+<link>http://blogs.techrepublic.com.com/10things/?p=348</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-20T18:46:52Z</dc:date>
+<dc:subject>boot computer computers hacks howto microsoft news pc repair tech troubleshooting windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/troubleshooting" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/repair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2008/05/15/twelve-top-personal-finance-podcasts/">
+<title>Twelve Top Personal Finance Podcasts &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2008/05/15/twelve-top-personal-finance-podcasts/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-15T16:30:13Z</dc:date>
+<dc:subject>audio finance money personalfinance podcast podcasts tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/personalfinance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/5579/">
+<title>PicLens :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/5579/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-13T22:11:33Z</dc:date>
+<dc:subject>3D add-on firfoc photography photos video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firfoc" />
+    <rdf:li resource="http://del.icio.us/tag/add-on" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/3D" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/">
+<title>60 Photography Links You Can&#x2019;t Live Without at CameraPorn</title>
+<link>http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-13T21:48:10Z</dc:date>
+<dc:subject>camera gallery photography photos pictures tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html">
+<title>13 More Things Your Auto Mechanic Won't Tell You | Advice and Know-How | Reader's Digest</title>
+<link>http://www.rd.com/advice-and-know-how/13-more-things-your-auto-mechanic-wont-tell-you/article62928.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-07T02:53:25Z</dc:date>
+<dc:subject>Auto advice automobile car scam tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Auto" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/automobile" />
+    <rdf:li resource="http://del.icio.us/tag/scam" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/6-excellent-firefox-extensions-made-to-save-you-time/">
+<title>6 Excellent Firefox Extensions Made To Save Your Time | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/6-excellent-firefox-extensions-made-to-save-you-time/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-07T02:49:44Z</dc:date>
+<dc:subject>browser extension firefox productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digitalphotographysecrets.com/">
+<title>Digital Photography Secrets</title>
+<link>http://www.digitalphotographysecrets.com/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-06T05:48:35Z</dc:date>
+<dc:subject>cameras guide photography photos tips tricks tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cameras" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tricks" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onlineapps.newsvine.com/_news/2008/05/02/1466218-land-of-the-freeware-making-and-receiving-free-phone-calls-via-any-computer-or-internet-enabled-device-with-grandcentral">
+<title>Newsvine - Land of the Freeware: Making and receiving free phone calls via any computer or internet-enabled device with GrandCentral</title>
+<link>http://onlineapps.newsvine.com/_news/2008/05/02/1466218-land-of-the-freeware-making-and-receiving-free-phone-calls-via-any-computer-or-internet-enabled-device-with-grandcentral</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-04T07:26:36Z</dc:date>
+<dc:subject>VOIP calls computer free gizmo grandcentral phone software telephone telephony tips wifi work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/VOIP" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/telephony" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/grandcentral" />
+    <rdf:li resource="http://del.icio.us/tag/gizmo" />
+    <rdf:li resource="http://del.icio.us/tag/telephone" />
+    <rdf:li resource="http://del.icio.us/tag/calls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nokiasoftware.net/pc-applications/4452-make-windows-genuine-simple-trick.html">
+<title>Make Windows Genuine by a simple trick - Nokiasoftware.net</title>
+<link>http://www.nokiasoftware.net/pc-applications/4452-make-windows-genuine-simple-trick.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-04T06:54:00Z</dc:date>
+<dc:subject>Genuine LifeHacks computer crack microsoft software tools utilities windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Genuine" />
+    <rdf:li resource="http://del.icio.us/tag/LifeHacks" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drop.io/fax">
+<title>Drop.io fax</title>
+<link>http://drop.io/fax</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-05-03T05:36:18Z</dc:date>
+<dc:subject>business communication faxing free online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/faxing" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html">
+<title>Free Science and Video Lectures Online!: More Computing Video Lecture Courses</title>
+<link>http://freescienceonline.blogspot.com/2008/03/more-computing-video-lecture-courses.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-29T06:13:56Z</dc:date>
+<dc:subject>computation computer computing course education free learning lectures programming science tutorial video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computation" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/">
+<title>21 Ways to Shoot Better Photographs | 10e20 Blog</title>
+<link>http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-29T06:12:43Z</dc:date>
+<dc:subject>howto photo photography photos reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/LIVING/worklife/04/21/cb.9.questions.boss/index.html">
+<title>Nine questions to ask your boss - CNN.com</title>
+<link>http://www.cnn.com/2008/LIVING/worklife/04/21/cb.9.questions.boss/index.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-22T16:16:31Z</dc:date>
+<dc:subject>advice career questions tips work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/questions" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.createdebate.com/2008/04/07/how-to-write-strong-arguments/">
+<title>How to Write Strong Arguments at The CreateDebate Blog</title>
+<link>http://blog.createdebate.com/2008/04/07/how-to-write-strong-arguments/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-09T06:25:17Z</dc:date>
+<dc:subject>argument communication debate howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/argument" />
+    <rdf:li resource="http://del.icio.us/tag/debate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html">
+<title>On Teaching Programming With Python 3.0</title>
+<link>http://www.comp.leeds.ac.uk/nde/papers/teachpy3.html</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-09T06:24:34Z</dc:date>
+<dc:subject>Programming Tutorial python teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imgs.zinio.com/retail_srvs/classics/">
+<title>Digital Classics</title>
+<link>http://imgs.zinio.com/retail_srvs/classics/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-09T06:24:06Z</dc:date>
+<dc:subject>Books Literature book digital ebook free library online publishing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/digital" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/Literature" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/Books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tv-links.eu/">
+<title>Tv-Links</title>
+<link>http://tv-links.eu/</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-04-09T06:23:08Z</dc:date>
+<dc:subject>free movie movies online streaming television video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting">
+<title>OneAndOneIs2 - Why doesn't Linux need defragmenting?</title>
+<link>http://geekblog.oneandoneis2.org/index.php/2006/08/17/why_doesn_t_linux_need_defragmenting</link>
+<description></description>
+<dc:creator>dpk011</dc:creator>
+<dc:date>2008-03-27T05:18:07Z</dc:date>
+<dc:subject>computers defrag filesystem linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/defrag" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

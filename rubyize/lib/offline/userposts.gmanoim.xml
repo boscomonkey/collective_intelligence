@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/gmanoim">
+<title>del.icio.us/gmanoim</title>
+<link>http://del.icio.us/gmanoim</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.tweetdeck.com/beta/" />
+  <rdf:li rdf:resource="http://camendesign.com/?200806291241" />
+  <rdf:li rdf:resource="http://www.instablogs.com/" />
+  <rdf:li rdf:resource="http://www.mcsweeneys.net/2006/5/5bryan.html" />
+  <rdf:li rdf:resource="http://mcsweeneys.net/2008/6/16joseph.html" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://thedeliciouslife.blogspot.com/2008/06/blueberry-muffins-and-why-i-have-2499.html" />
+  <rdf:li rdf:resource="http://www.damnsmalllinux.org/income-guide/" />
+  <rdf:li rdf:resource="http://www.darkroastedblend.com/2008/06/weirdest-examples-of-mass-hysteria.html" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/5972" />
+  <rdf:li rdf:resource="http://subs.timeinc.net/timeinc/construction.jhtml" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.shtml" />
+  <rdf:li rdf:resource="http://www.n2yo.com/" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://deeplinking.net/paper-web/" />
+  <rdf:li rdf:resource="http://sumoam.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.accesscom.com/~darius/hacks/screenfuls/screen1.html" />
+  <rdf:li rdf:resource="http://woopwoop.tumblr.com/" />
+  <rdf:li rdf:resource="http://www.useit.com/alertbox/extreme-usability.html" />
+  <rdf:li rdf:resource="http://bomomo.com/" />
+  <rdf:li rdf:resource="http://boxee.tv/index2.php" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://drudgereport.com/" />
+  <rdf:li rdf:resource="http://wordle.net/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/podipodi-enso-quicksilver-for-the-web" />
+  <rdf:li rdf:resource="http://www.istockphoto.com/file_closeup/animals/animal-backgrounds/4611821-lifting-a-dreamer.php?id=4611821" />
+  <rdf:li rdf:resource="https://mathrider.dev.java.net/" />
+  <rdf:li rdf:resource="http://docs.python.org/dev/3.0/whatsnew/3.0.html" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/factoryjoe/sets/72157600010029792/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-06T05:23:13Z</dc:date>
+<dc:subject>advice ai guide mit phd research thesis tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tweetdeck.com/beta/">
+<title>TweetDeck</title>
+<link>http://www.tweetdeck.com/beta/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-05T03:56:36Z</dc:date>
+<dc:subject>adobe air apps design desktop software tools twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://camendesign.com/?200806291241">
+<title>camen design &#xB7; A List Of People Who Need To Stop Writing Software</title>
+<link>http://camendesign.com/?200806291241</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-04T03:42:24Z</dc:date>
+<dc:subject>funny geek humour inspiration programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.instablogs.com/">
+<title>Instablogs Community - Everyone has a viewpoint</title>
+<link>http://www.instablogs.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-03T04:08:58Z</dc:date>
+<dc:subject>blog blogging blogs community internet network news web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mcsweeneys.net/2006/5/5bryan.html">
+<title>McSweeney's Internet Tendency: Cookie Monster Searches Deep Within Himself and Asks: Is Me Really Monster?</title>
+<link>http://www.mcsweeneys.net/2006/5/5bryan.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-03T04:01:47Z</dc:date>
+<dc:subject>cookiemonster fun funny humor mcsweeneys psychology sesamestreet writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/cookiemonster" />
+    <rdf:li resource="http://del.icio.us/tag/mcsweeneys" />
+    <rdf:li resource="http://del.icio.us/tag/sesamestreet" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mcsweeneys.net/2008/6/16joseph.html">
+<title>McSweeney's Internet Tendency: Lit 101 Class in Three Lines or Less.</title>
+<link>http://mcsweeneys.net/2008/6/16joseph.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-03T04:00:41Z</dc:date>
+<dc:subject>books fiction funny humor literature mcsweeneys parody writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/mcsweeneys" />
+    <rdf:li resource="http://del.icio.us/tag/fiction" />
+    <rdf:li resource="http://del.icio.us/tag/parody" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-03T03:25:53Z</dc:date>
+<dc:subject>algorithm algorithms del.icio.us delicious digg reddit seo socialsoftware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/socialsoftware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thedeliciouslife.blogspot.com/2008/06/blueberry-muffins-and-why-i-have-2499.html">
+<title>the delicious life: Blueberry Muffins and Why I Have 2,499 Other Recipes for a Winner</title>
+<link>http://thedeliciouslife.blogspot.com/2008/06/blueberry-muffins-and-why-i-have-2499.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-02T05:23:15Z</dc:date>
+<dc:subject>baking blueberry dessert recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/baking" />
+    <rdf:li resource="http://del.icio.us/tag/dessert" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/blueberry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damnsmalllinux.org/income-guide/">
+<title>A Guide to earning an income from a Free and Open Source project</title>
+<link>http://www.damnsmalllinux.org/income-guide/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-02T05:17:09Z</dc:date>
+<dc:subject>business howto income linux money opensource startup toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/income" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.darkroastedblend.com/2008/06/weirdest-examples-of-mass-hysteria.html">
+<title>Dark Roasted Blend: The Weirdest Examples of Mass Hysteria</title>
+<link>http://www.darkroastedblend.com/2008/06/weirdest-examples-of-mass-hysteria.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-02T04:29:59Z</dc:date>
+<dc:subject>history hysteria interesting psychology stories weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/stories" />
+    <rdf:li resource="http://del.icio.us/tag/hysteria" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/5972">
+<title>RAMBack :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/5972</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-02T04:07:19Z</dc:date>
+<dc:subject>extension extensions firefox memory performance plugin ram tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/ram" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://subs.timeinc.net/timeinc/construction.jhtml">
+<title>MAGHOUND&#x2122; - The Magazine Lover's Best Friend</title>
+<link>http://subs.timeinc.net/timeinc/construction.jhtml</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-07-01T05:09:38Z</dc:date>
+<dc:subject>magazine magazines media shopping subscription</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/subscription" />
+    <rdf:li resource="http://del.icio.us/tag/magazines" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-28T06:32:32Z</dc:date>
+<dc:subject>capture documentation howto mac osx screencapture software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.shtml">
+<title>ACS - Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.shtml</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-28T04:08:18Z</dc:date>
+<dc:subject>editor howto linux reference tutorial unix vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.n2yo.com/">
+<title>LIVE REAL TIME SATELLITE AND SPACE SHUTTLE TRACKING</title>
+<link>http://www.n2yo.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-27T07:56:19Z</dc:date>
+<dc:subject>astronomy google maps nasa satellite space tracking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/satellite" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/tracking" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/nasa" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>posterous - The place to post everything. Just email us.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-27T07:56:02Z</dc:date>
+<dc:subject>blog blogging email files free photos service</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://deeplinking.net/paper-web/">
+<title>The Paper Version of the Web at Deeplinking</title>
+<link>http://deeplinking.net/paper-web/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-27T07:55:36Z</dc:date>
+<dc:subject>design paper sketching ui usability web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/sketching" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sumoam.sourceforge.net/">
+<title>SUMO Access Manager - the PHP user authentication</title>
+<link>http://sumoam.sourceforge.net/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-27T06:31:14Z</dc:date>
+<dc:subject>code gpl opensource php programming webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/gpl" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.accesscom.com/~darius/hacks/screenfuls/screen1.html">
+<title>Screen 1</title>
+<link>http://www.accesscom.com/~darius/hacks/screenfuls/screen1.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-25T06:37:47Z</dc:date>
+<dc:subject>lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woopwoop.tumblr.com/">
+<title>WoopWoop</title>
+<link>http://woopwoop.tumblr.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-24T06:54:29Z</dc:date>
+<dc:subject>music tumbleblog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/tumbleblog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.useit.com/alertbox/extreme-usability.html">
+<title>Extreme Usability: How to Make an Already-Great Design Even Better (Jakob Nielsen's Alertbox)</title>
+<link>http://www.useit.com/alertbox/extreme-usability.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-24T05:55:55Z</dc:date>
+<dc:subject>design development jakobnielsen nielsen toread usability web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/nielsen" />
+    <rdf:li resource="http://del.icio.us/tag/jakobnielsen" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bomomo.com/">
+<title>bomomo</title>
+<link>http://bomomo.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-24T04:07:02Z</dc:date>
+<dc:subject>animation art cool design drawing flash fun tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boxee.tv/index2.php">
+<title>BOXEE</title>
+<link>http://boxee.tv/index2.php</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-24T03:24:49Z</dc:date>
+<dc:subject>htpc interactive mac media music tv video xbmc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/htpc" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/xbmc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-22T23:59:50Z</dc:date>
+<dc:subject>article computer computer-science computers cs education programming wiki wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/computer-science" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drudgereport.com/">
+<title>DRUDGE REPORT 2008&#xAE;</title>
+<link>http://drudgereport.com/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-22T23:38:36Z</dc:date>
+<dc:subject>blog blogs conservative daily drudge headlines news politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/drudge" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/headlines" />
+    <rdf:li resource="http://del.icio.us/tag/daily" />
+    <rdf:li resource="http://del.icio.us/tag/conservative" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-22T23:36:46Z</dc:date>
+<dc:subject>art cloud design generator tools typography visualization words</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/words" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/podipodi-enso-quicksilver-for-the-web">
+<title>Ajaxian &#xBB; PodiPodi: Enso / Quicksilver for the Web</title>
+<link>http://ajaxian.com/archives/podipodi-enso-quicksilver-for-the-web</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-22T05:54:05Z</dc:date>
+<dc:subject>commandline jquery quicksilver task web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/commandline" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/quicksilver" />
+    <rdf:li resource="http://del.icio.us/tag/task" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.istockphoto.com/file_closeup/animals/animal-backgrounds/4611821-lifting-a-dreamer.php?id=4611821">
+<title>Royalty-free Stock Illustration [Vector]: Lifting a Dreamer | iStockphoto.com</title>
+<link>http://www.istockphoto.com/file_closeup/animals/animal-backgrounds/4611821-lifting-a-dreamer.php?id=4611821</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-21T21:50:52Z</dc:date>
+<dc:subject>design funny twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://mathrider.dev.java.net/">
+<title>mathrider: Home</title>
+<link>https://mathrider.dev.java.net/</link>
+<description>The initial alpha release of MathRid</description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-21T21:49:02Z</dc:date>
+<dc:subject>computer education java math mathematics opensource programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.python.org/dev/3.0/whatsnew/3.0.html">
+<title>What&#x2019;s New in Python 3.0 &#x2014; Python v3.0b1 documentation</title>
+<link>http://docs.python.org/dev/3.0/whatsnew/3.0.html</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-21T20:40:45Z</dc:date>
+<dc:subject>development documentation programming py3k python python3000 reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python3000" />
+    <rdf:li resource="http://del.icio.us/tag/py3k" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/factoryjoe/sets/72157600010029792/">
+<title>Login Form Design Patterns - a set on Flickr</title>
+<link>http://www.flickr.com/photos/factoryjoe/sets/72157600010029792/</link>
+<description></description>
+<dc:creator>gmanoim</dc:creator>
+<dc:date>2008-06-21T20:22:20Z</dc:date>
+<dc:subject>design form forms inspiration login usability web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/login" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

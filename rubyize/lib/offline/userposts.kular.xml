@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kular">
+<title>del.icio.us/kular</title>
+<link>http://del.icio.us/kular</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.webtechdaily.com/2008/06/29/8-free-data-recovery-software/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.acronymfinder.com/" />
+  <rdf:li rdf:resource="http://creatingdrew.com/2008/06/10-great-sites-for-gimp-tutorials-and-guides/" />
+  <rdf:li rdf:resource="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/design/63-impressive-website-background-images-trends-resources-and-tutorials.html" />
+  <rdf:li rdf:resource="http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://www.sonnyradio.com/amusing.htm" />
+  <rdf:li rdf:resource="http://www.mp3mymp3.com/index.html" />
+  <rdf:li rdf:resource="http://www.mp3mymp3.com/" />
+  <rdf:li rdf:resource="http://www.hitsquad.com/smm/cat/AUDIO_VIDEO_CAPTURE/" />
+  <rdf:li rdf:resource="http://www.totalrecorder.com/addon4.htm" />
+  <rdf:li rdf:resource="http://all-streaming-media.com/record-audio-stream/" />
+  <rdf:li rdf:resource="http://all-streaming-media.com/record-audio-stream/FreeCorder-Toolbar-Free-sound-recorder-software-Windows.htm" />
+  <rdf:li rdf:resource="http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/" />
+  <rdf:li rdf:resource="http://50plus.com/Travel/BrowseAllArticles/index.cfm?t_offset=3&#x26;documentID=21562" />
+  <rdf:li rdf:resource="http://www.investintech.com/articles/tenwordalternatives/" />
+  <rdf:li rdf:resource="http://www.rimarkable.com/" />
+  <rdf:li rdf:resource="http://pdf-search-engine.com/index.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus" />
+  <rdf:li rdf:resource="http://www.zachgraeve.com/css-cheats/" />
+  <rdf:li rdf:resource="http://www.chezpoor.com/minesweeper/minesweeper.html" />
+  <rdf:li rdf:resource="http://www.copyblogger.com/emotional-headlines/" />
+  <rdf:li rdf:resource="http://www.download.com/Expense-Recorder-for-BlackBerry/3000-7242_4-10431054.html?tag=lst-3&#x26;cdlPid=10502067" />
+  <rdf:li rdf:resource="http://www.exefind.com/expense-recorder-for-blackberry-P20437.html" />
+  <rdf:li rdf:resource="http://www.insidecrm.com/features/100-webmaster-videos-061208/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-06T12:12:42Z</dc:date>
+<dc:subject>freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webtechdaily.com/2008/06/29/8-free-data-recovery-software/">
+<title>8 Free Data Recovery Software | Web Tech Daily</title>
+<link>http://www.webtechdaily.com/2008/06/29/8-free-data-recovery-software/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-05T02:30:14Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-04T11:13:11Z</dc:date>
+<dc:subject>marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-03T21:33:04Z</dc:date>
+<dc:subject>howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acronymfinder.com/">
+<title>Abbreviations and acronyms dictionary: Find definitions for over 4,219,000 abbreviations, acronyms, and initialisms</title>
+<link>http://www.acronymfinder.com/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-02T21:07:17Z</dc:date>
+<dc:subject>reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creatingdrew.com/2008/06/10-great-sites-for-gimp-tutorials-and-guides/">
+<title>10 Great Sites and Resources for GIMP Tutorials and Guides | CreatingDrew</title>
+<link>http://creatingdrew.com/2008/06/10-great-sites-for-gimp-tutorials-and-guides/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-02T21:00:54Z</dc:date>
+<dc:subject>gimp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gimp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/">
+<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+<link>http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T14:10:54Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T14:09:59Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/design/63-impressive-website-background-images-trends-resources-and-tutorials.html">
+<title>63 Impressive Website Background-Images: Trends, Resources and Tutorials</title>
+<link>http://www.noupe.com/design/63-impressive-website-background-images-trends-resources-and-tutorials.html</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T02:15:54Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/">
+<title>8 Free Online Resources For Learning A New Language</title>
+<link>http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T00:34:44Z</dc:date>
+<dc:subject>languages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites/">
+<title>10 Essential Sites for Tips and How-To&#x2019;s</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T00:17:35Z</dc:date>
+<dc:subject>tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-07-01T00:13:48Z</dc:date>
+<dc:subject>CSS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sonnyradio.com/amusing.htm">
+<title>SonnyRadio.com // Welcome--Radio as You Know it is About To Change!</title>
+<link>http://www.sonnyradio.com/amusing.htm</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T17:16:52Z</dc:date>
+<dc:subject>fun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mp3mymp3.com/index.html">
+<title>MP3 My MP3 Recorder - Record sounds and music to MP3 Free!</title>
+<link>http://www.mp3mymp3.com/index.html</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T03:07:29Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mp3mymp3.com/">
+<title>MP3 My MP3 Recorder - Record sounds and music to MP3 Free!</title>
+<link>http://www.mp3mymp3.com/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T02:52:15Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hitsquad.com/smm/cat/AUDIO_VIDEO_CAPTURE/">
+<title>Music Software: Audio &#x26; Video Capture (Shareware Music Machine)</title>
+<link>http://www.hitsquad.com/smm/cat/AUDIO_VIDEO_CAPTURE/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T02:37:22Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.totalrecorder.com/addon4.htm">
+<title>Add-on: Send t iTunes/iPod, Total Recorder - captures any audio from the Internet, records audio from CD, microphone, line-in, converts any sound formats to WAVE file. Phone recording system.</title>
+<link>http://www.totalrecorder.com/addon4.htm</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T02:09:22Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://all-streaming-media.com/record-audio-stream/">
+<title>How to record streaming audio (record audio streams including Rhapsody, Napster, online radio like Yahoo Launch, Winamp radio) - Audio stream rippers and recorders</title>
+<link>http://all-streaming-media.com/record-audio-stream/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T01:38:47Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://all-streaming-media.com/record-audio-stream/FreeCorder-Toolbar-Free-sound-recorder-software-Windows.htm">
+<title>Freecorder Toolbar - free sound recorder (Windows Vista/XP/2000/2003).</title>
+<link>http://all-streaming-media.com/record-audio-stream/FreeCorder-Toolbar-Free-sound-recorder-software-Windows.htm</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T01:38:04Z</dc:date>
+<dc:subject>recorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/">
+<title>Tricks to manage multiple accounts in Gmail at Coen Jacobs</title>
+<link>http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-29T01:18:52Z</dc:date>
+<dc:subject>gmail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://50plus.com/Travel/BrowseAllArticles/index.cfm?t_offset=3&#x26;documentID=21562">
+<title>Up, up and away with airline fees</title>
+<link>http://50plus.com/Travel/BrowseAllArticles/index.cfm?t_offset=3&#x26;documentID=21562</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-28T20:19:35Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.investintech.com/articles/tenwordalternatives/">
+<title>10 Free MS Word Alternatives You Can Use Today</title>
+<link>http://www.investintech.com/articles/tenwordalternatives/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-28T02:18:35Z</dc:date>
+<dc:subject>freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rimarkable.com/">
+<title>RIMarkable | The Official, Unofficial BlackBerry Weblog</title>
+<link>http://www.rimarkable.com/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-27T18:59:24Z</dc:date>
+<dc:subject>blackberry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blackberry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdf-search-engine.com/index.php">
+<title>Ebook Search - Pdf Search Engine</title>
+<link>http://pdf-search-engine.com/index.php</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-27T18:37:48Z</dc:date>
+<dc:subject>ebooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus">
+<title>Ask Lifehacker: How Can I Find Out If a File Really Has a Virus?</title>
+<link>http://lifehacker.com/397236/how-can-i-find-out-if-a-file-really-has-a-virus</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-27T18:32:29Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachgraeve.com/css-cheats/">
+<title>CSS Layout Cheats | EMBRACE YOUR VICE (TM) | DESIGN FOR LIFE</title>
+<link>http://www.zachgraeve.com/css-cheats/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-26T23:47:31Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chezpoor.com/minesweeper/minesweeper.html">
+<title>Minesweeper Game in Javascript</title>
+<link>http://www.chezpoor.com/minesweeper/minesweeper.html</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-25T03:15:54Z</dc:date>
+<dc:subject>Games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.copyblogger.com/emotional-headlines/">
+<title>13 Emotion-Based Headlines That Work | Copyblogger</title>
+<link>http://www.copyblogger.com/emotional-headlines/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-22T23:26:41Z</dc:date>
+<dc:subject>eo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.download.com/Expense-Recorder-for-BlackBerry/3000-7242_4-10431054.html?tag=lst-3&#x26;cdlPid=10502067">
+<title>Expense Recorder for BlackBerry - Free software downloads and reviews - CNET Download.com</title>
+<link>http://www.download.com/Expense-Recorder-for-BlackBerry/3000-7242_4-10431054.html?tag=lst-3&#x26;cdlPid=10502067</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-20T02:14:04Z</dc:date>
+<dc:subject>expense_report</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expense_report" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.exefind.com/expense-recorder-for-blackberry-P20437.html">
+<title>Expense Recorder for BlackBerry</title>
+<link>http://www.exefind.com/expense-recorder-for-blackberry-P20437.html</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-20T01:57:57Z</dc:date>
+<dc:subject>expense_report</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expense_report" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.insidecrm.com/features/100-webmaster-videos-061208/">
+<title>100 Awesome Webmaster Videos on YouTube - Inside CRM</title>
+<link>http://www.insidecrm.com/features/100-webmaster-videos-061208/</link>
+<description></description>
+<dc:creator>kular</dc:creator>
+<dc:date>2008-06-14T01:49:33Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

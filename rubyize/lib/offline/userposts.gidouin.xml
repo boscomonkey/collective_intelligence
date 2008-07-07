@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/gidouin">
+<title>del.icio.us/gidouin</title>
+<link>http://del.icio.us/gidouin</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.korben.info/" />
+  <rdf:li rdf:resource="http://www.faceyourmanga.com/faceyourmanga.html" />
+  <rdf:li rdf:resource="http://giapet.net/" />
+  <rdf:li rdf:resource="http://forum.beyond3d.com/showthread.php?t=44215" />
+  <rdf:li rdf:resource="http://linux.yes.nu/PS3Ubuntu/?Page=c3VtbWFyeTAx" />
+  <rdf:li rdf:resource="http://www.pabr.org/sixlinux/sixlinux.en.html" />
+  <rdf:li rdf:resource="http://cedric.vincent.perso.free.fr/Projets/index.html" />
+  <rdf:li rdf:resource="http://xebek.animeblogger.net/" />
+  <rdf:li rdf:resource="http://www.cs.ubc.ca/~murphy/jRMTool/doc/" />
+  <rdf:li rdf:resource="http://blogs.jetbrains.com/idea/" />
+  <rdf:li rdf:resource="http://ozlabs.org/~jk/projects/petitboot/" />
+  <rdf:li rdf:resource="http://www.corepy.org/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/power/library/pa-linuxps3-1/index.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=EX_is9LzFSY" />
+  <rdf:li rdf:resource="http://www.malhar.net/sriram/kilim/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/websphere/library/techarticles/0512_ritchie/0512_ritchie.html" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/tech/08/06/09/1927205.shtml" />
+  <rdf:li rdf:resource="http://java.sun.com/docs/books/jvms/second_edition/html/ClassFile.doc.html" />
+  <rdf:li rdf:resource="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/instrument/package-summary.html" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/socialhistoryjs/" />
+  <rdf:li rdf:resource="http://code.google.com/p/doctype/wiki/Welcome?tm=6" />
+  <rdf:li rdf:resource="http://osxbook.com/book/bonus/chapter11/procfs/" />
+  <rdf:li rdf:resource="http://directory.apache.org/studio/" />
+  <rdf:li rdf:resource="http://www.hypertable.org/" />
+  <rdf:li rdf:resource="http://andrei.gmxhome.de/bytecode/index.html" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=GuideJavaBytecode" />
+  <rdf:li rdf:resource="http://www.myus.com/" />
+  <rdf:li rdf:resource="http://www.testabilityexplorer.org/report" />
+  <rdf:li rdf:resource="http://code.google.com/p/testability-explorer/" />
+  <rdf:li rdf:resource="http://jmx4ant.sourceforge.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What's My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-06T09:44:00Z</dc:date>
+<dc:subject>hack howto network privacy security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.korben.info/">
+<title>Korben's Blog - Upgrade your mind</title>
+<link>http://www.korben.info/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-06T09:25:35Z</dc:date>
+<dc:subject>blog gadgets geek linux tech tips tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.faceyourmanga.com/faceyourmanga.html">
+<title>FaceYourManga.com | Shake Yourself!</title>
+<link>http://www.faceyourmanga.com/faceyourmanga.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-05T10:02:46Z</dc:date>
+<dc:subject>anime design flash fun graphics images manga tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/manga" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://giapet.net/">
+<title>a geek by any other name</title>
+<link>http://giapet.net/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:24:59Z</dc:date>
+<dc:subject>anime blog culture geek japan manga &#x65E5;&#x672C;&#x8A9E;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/manga" />
+    <rdf:li resource="http://del.icio.us/tag/%E6%97%A5%E6%9C%AC%E8%AA%9E" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.beyond3d.com/showthread.php?t=44215">
+<title>Now SIXAXIS is recognized in Bluetooth mode under PS3 Linux</title>
+<link>http://forum.beyond3d.com/showthread.php?t=44215</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:23:21Z</dc:date>
+<dc:subject>PS3 bluetooth console joystick linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PS3" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+    <rdf:li resource="http://del.icio.us/tag/joystick" />
+    <rdf:li resource="http://del.icio.us/tag/bluetooth" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linux.yes.nu/PS3Ubuntu/?Page=c3VtbWFyeTAx">
+<title>Optimizing the Ubuntu PS3 experience</title>
+<link>http://linux.yes.nu/PS3Ubuntu/?Page=c3VtbWFyeTAx</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:22:01Z</dc:date>
+<dc:subject>PS3 console hack linux optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PS3" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pabr.org/sixlinux/sixlinux.en.html">
+<title>Using the PlayStation 3 controller in Bluetooth mode with Linux</title>
+<link>http://www.pabr.org/sixlinux/sixlinux.en.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:21:11Z</dc:date>
+<dc:subject>PS3 bluetooth cell geek hack hardware howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/PS3" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/bluetooth" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/cell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cedric.vincent.perso.free.fr/Projets/index.html">
+<title>Js2mouse</title>
+<link>http://cedric.vincent.perso.free.fr/Projets/index.html</link>
+<description>Js2mouse converts joystick events into mouse events, so the user can use his joystick/gamepad as a pointer instead of the mouse</description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:19:55Z</dc:date>
+<dc:subject>desktop howto joystick linux mouse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/mouse" />
+    <rdf:li resource="http://del.icio.us/tag/joystick" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xebek.animeblogger.net/">
+<title>Xebek'blog</title>
+<link>http://xebek.animeblogger.net/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:13:24Z</dc:date>
+<dc:subject>anime blog reviews</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/reviews" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.ubc.ca/~murphy/jRMTool/doc/">
+<title>RMTool</title>
+<link>http://www.cs.ubc.ca/~murphy/jRMTool/doc/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-03T23:11:36Z</dc:date>
+<dc:subject>Java eclipse modeling plugins</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/modeling" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.jetbrains.com/idea/">
+<title>IntelliJ IDEA Blog</title>
+<link>http://blogs.jetbrains.com/idea/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-07-01T12:27:05Z</dc:date>
+<dc:subject>IDE Java blog development editor programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/IDE" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ozlabs.org/~jk/projects/petitboot/">
+<title>petitboot - graphical bootloader for ps3</title>
+<link>http://ozlabs.org/~jk/projects/petitboot/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-30T12:19:12Z</dc:date>
+<dc:subject>linux ps3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.corepy.org/">
+<title>C o r e P y : Synthetic Programming in Python</title>
+<link>http://www.corepy.org/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-27T09:24:12Z</dc:date>
+<dc:subject>api cell concurrency distributed performace programming ps3 python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/cell" />
+    <rdf:li resource="http://del.icio.us/tag/performace" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/power/library/pa-linuxps3-1/index.html">
+<title>Programming high-performance applications on the Cell BE processor, Part 1: An introduction to Linux on the PLAYSTATION 3</title>
+<link>http://www.ibm.com/developerworks/power/library/pa-linuxps3-1/index.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-27T09:15:35Z</dc:date>
+<dc:subject>console geek linux ps3 tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=EX_is9LzFSY">
+<title>Calculus in 20 Minutes Part 1</title>
+<link>http://www.youtube.com/watch?v=EX_is9LzFSY</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-23T07:15:32Z</dc:date>
+<dc:subject>education learning math science tutorials videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.malhar.net/sriram/kilim/">
+<title>Kilim</title>
+<link>http://www.malhar.net/sriram/kilim/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-12T15:08:08Z</dc:date>
+<dc:subject>Java VM bytecode concurrency messaging performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+    <rdf:li resource="http://del.icio.us/tag/VM" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/websphere/library/techarticles/0512_ritchie/0512_ritchie.html">
+<title>Enhancing WebSphere MQ JMS security using the Object Authority Manager</title>
+<link>http://www.ibm.com/developerworks/websphere/library/techarticles/0512_ritchie/0512_ritchie.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-12T13:48:45Z</dc:date>
+<dc:subject>JMS security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JMS" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.slashdot.org/tech/08/06/09/1927205.shtml">
+<title>Slashdot | A History of Copy Protection</title>
+<link>http://tech.slashdot.org/tech/08/06/09/1927205.shtml</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-10T11:59:39Z</dc:date>
+<dc:subject>article geek oldschool security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/oldschool" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/docs/books/jvms/second_edition/html/ClassFile.doc.html">
+<title>VM Spec The class File Format</title>
+<link>http://java.sun.com/docs/books/jvms/second_edition/html/ClassFile.doc.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-04T08:20:23Z</dc:date>
+<dc:subject>Java VM assembler bytecode reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+    <rdf:li resource="http://del.icio.us/tag/VM" />
+    <rdf:li resource="http://del.icio.us/tag/assembler" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/instrument/package-summary.html">
+<title>java.lang.instrument (Java 2 Platform SE 5.0)</title>
+<link>http://java.sun.com/j2se/1.5.0/docs/api/java/lang/instrument/package-summary.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-06-02T16:01:55Z</dc:date>
+<dc:subject>VM bytecode instrumentation java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/instrumentation" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+    <rdf:li resource="http://del.icio.us/tag/VM" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/socialhistoryjs/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; Vote! How to Detect the Social Sites Your Visitors Use</title>
+<link>http://azarask.in/blog/post/socialhistoryjs/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-28T16:42:43Z</dc:date>
+<dc:subject>blog community css hack history howto javascript privacy security social web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/doctype/wiki/Welcome?tm=6">
+<title>Welcome - doctype - Google Code</title>
+<link>http://code.google.com/p/doctype/wiki/Welcome?tm=6</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-23T08:47:09Z</dc:date>
+<dc:subject>DOM Google browser css howto javascript reference tips web wiki xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+    <rdf:li resource="http://del.icio.us/tag/DOM" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osxbook.com/book/bonus/chapter11/procfs/">
+<title>A MacFUSE-Based Process File System for Mac OS X</title>
+<link>http://osxbook.com/book/bonus/chapter11/procfs/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-22T15:07:40Z</dc:date>
+<dc:subject>OSX console filesystem howto linux mac tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/OSX" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://directory.apache.org/studio/">
+<title>Apache Directory Studio - The Eclipse based LDAP browser and directory client</title>
+<link>http://directory.apache.org/studio/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-22T09:00:57Z</dc:date>
+<dc:subject>Apache Eclipse browser identity ldap network plugins tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/ldap" />
+    <rdf:li resource="http://del.icio.us/tag/Apache" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/identity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hypertable.org/">
+<title>Hypertable: An Open Source, High Performance, Scalable Database</title>
+<link>http://www.hypertable.org/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T16:41:48Z</dc:date>
+<dc:subject>Google clustering distributed performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/clustering" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://andrei.gmxhome.de/bytecode/index.html">
+<title>Bytecode Outline plugin for Eclipse</title>
+<link>http://andrei.gmxhome.de/bytecode/index.html</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T13:14:37Z</dc:date>
+<dc:subject>Eclipse Java assembler bytecode language plugins programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/Eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+    <rdf:li resource="http://del.icio.us/tag/assembler" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=GuideJavaBytecode">
+<title>Enterprise Java Community: The Working Developer's Guide to Java Bytecode</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=GuideJavaBytecode</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T12:27:38Z</dc:date>
+<dc:subject>Java VM article assembler bytecode programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/VM" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+    <rdf:li resource="http://del.icio.us/tag/assembler" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myus.com/">
+<title>Access USA - The Leader In Package Forwarding</title>
+<link>http://www.myus.com/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T10:24:32Z</dc:date>
+<dc:subject>geek reallife travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reallife" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.testabilityexplorer.org/report">
+<title>Testability Explorer</title>
+<link>http://www.testabilityexplorer.org/report</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T07:44:01Z</dc:date>
+<dc:subject>Java bytecode testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/testability-explorer/">
+<title>testability-explorer - Google Code</title>
+<link>http://code.google.com/p/testability-explorer/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-21T07:44:01Z</dc:date>
+<dc:subject>Java bytecode programming testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/bytecode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jmx4ant.sourceforge.net/">
+<title>JMX4Ant</title>
+<link>http://jmx4ant.sourceforge.net/</link>
+<description></description>
+<dc:creator>gidouin</dc:creator>
+<dc:date>2008-05-20T15:24:51Z</dc:date>
+<dc:subject>JMX Java ant tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/JMX" />
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

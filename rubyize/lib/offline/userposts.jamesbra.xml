@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jamesbra">
+<title>del.icio.us/jamesbra</title>
+<link>http://del.icio.us/jamesbra</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.copyblogger.com/" />
+  <rdf:li rdf:resource="http://www.stubbleblog.com/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/" />
+  <rdf:li rdf:resource="http://garyvaynerchuk.com/2008/06/26/i-suck/" />
+  <rdf:li rdf:resource="http://beta.bloglines.com/topfeeds" />
+  <rdf:li rdf:resource="http://lifehacker.com/" />
+  <rdf:li rdf:resource="http://forrester.typepad.com/charleneli/" />
+  <rdf:li rdf:resource="http://searchenginewatch.com/showPage.html?page=3630126" />
+  <rdf:li rdf:resource="http://www.sparksocialmedia.com/" />
+  <rdf:li rdf:resource="http://www.blockbeta.com/" />
+  <rdf:li rdf:resource="http://www.bizjamseattle.com/jam-sessions/" />
+  <rdf:li rdf:resource="http://www.bizjamseattle.com/jam-sessions#wednesday" />
+  <rdf:li rdf:resource="http://blogbusinesssummit.com/" />
+  <rdf:li rdf:resource="http://www.pnwlocalnews.com/east_king/bel/" />
+  <rdf:li rdf:resource="http://www.fastcompany.tv/" />
+  <rdf:li rdf:resource="http://www.kaushik.net/avinash/" />
+  <rdf:li rdf:resource="http://www.garykoelling.com/" />
+  <rdf:li rdf:resource="http://googleblog.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.mattcutts.com/blog/" />
+  <rdf:li rdf:resource="http://www.mcbuzz.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html" />
+  <rdf:li rdf:resource="http://beyourownmaster.blogspot.com/2008/06/list-of-social-bookmark-sites.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/business/" />
+  <rdf:li rdf:resource="http://www.fastcompany.tv/video/salesforcecom-become-platform-juggernaut-says-ceo" />
+  <rdf:li rdf:resource="http://scobleizer.com/" />
+  <rdf:li rdf:resource="http://www.playlist.com/standalone/34892155" />
+  <rdf:li rdf:resource="http://wordle.net/" />
+  <rdf:li rdf:resource="http://trevinchow.com/blog/" />
+  <rdf:li rdf:resource="http://www.thisnext.com/item/31C3259D/7D85EFE8/LUCIA-Kirkland-Washington" />
+  <rdf:li rdf:resource="http://seattlepi.nwsource.com/food/362273_rest09.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.copyblogger.com/">
+<title>Copywriting tips for online marketing success from Copyblogger</title>
+<link>http://www.copyblogger.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-06T09:43:06Z</dc:date>
+<dc:subject>blogadvice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogadvice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stubbleblog.com/">
+<title>Stubbleblog</title>
+<link>http://www.stubbleblog.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-06T09:28:49Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-06T09:19:16Z</dc:date>
+<dc:subject>blogadvice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogadvice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/">
+<title>chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-06T09:10:30Z</dc:date>
+<dc:subject>blog blogadvice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogadvice" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://garyvaynerchuk.com/2008/06/26/i-suck/">
+<title>gary vaynerchuk &#xBB; I suck! - my 2 minute take on life</title>
+<link>http://garyvaynerchuk.com/2008/06/26/i-suck/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-05T17:17:52Z</dc:date>
+<dc:subject>inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beta.bloglines.com/topfeeds">
+<title>&#x3B2;loglines | Top 1000</title>
+<link>http://beta.bloglines.com/topfeeds</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-05T06:18:35Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/">
+<title>Lifehacker, tips and downloads for getting things done</title>
+<link>http://lifehacker.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-05T06:17:43Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forrester.typepad.com/charleneli/">
+<title>Groundswell Charlene Li's Blog</title>
+<link>http://forrester.typepad.com/charleneli/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-05T05:51:28Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchenginewatch.com/showPage.html?page=3630126">
+<title>Three Tips for Creating a Successful Blog - Search Engine Watch</title>
+<link>http://searchenginewatch.com/showPage.html?page=3630126</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-05T02:59:35Z</dc:date>
+<dc:subject>blogadvice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogadvice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sparksocialmedia.com/">
+<title>Spark Social Media</title>
+<link>http://www.sparksocialmedia.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T22:30:15Z</dc:date>
+<dc:subject>seattlesocialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seattlesocialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blockbeta.com/">
+<title>Welcome - Blockbeta Marketing: A Big Picture Approach to Small Business</title>
+<link>http://www.blockbeta.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T22:24:57Z</dc:date>
+<dc:subject>seattlesocialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seattlesocialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bizjamseattle.com/jam-sessions/">
+<title>BizJam Seattle 08 &#xBB; Jam Sessions</title>
+<link>http://www.bizjamseattle.com/jam-sessions/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T20:42:37Z</dc:date>
+<dc:subject>socialmediaseattle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmediaseattle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bizjamseattle.com/jam-sessions#wednesday">
+<title>BizJam Seattle 08 &#xBB; Jam Sessions</title>
+<link>http://www.bizjamseattle.com/jam-sessions#wednesday</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T20:42:07Z</dc:date>
+<dc:subject>&#x26;quot;social media seattle&#x26;quot;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%22social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/seattle%22" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogbusinesssummit.com/">
+<title>Blog Business Summit</title>
+<link>http://blogbusinesssummit.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T20:29:46Z</dc:date>
+<dc:subject>&#x26;quot;seattle business&#x26;quot;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%22seattle" />
+    <rdf:li resource="http://del.icio.us/tag/business%22" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pnwlocalnews.com/east_king/bel/">
+<title>Bellevue Reporter - Local News, Sports, Entertainment</title>
+<link>http://www.pnwlocalnews.com/east_king/bel/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-04T15:07:55Z</dc:date>
+<dc:subject>Bellevue</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Bellevue" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastcompany.tv/">
+<title>FastCompany.TV</title>
+<link>http://www.fastcompany.tv/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T22:43:33Z</dc:date>
+<dc:subject>business video,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video%2C" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kaushik.net/avinash/">
+<title>Web Analytics Blog | Occam's Razor by Avinash Kaushik</title>
+<link>http://www.kaushik.net/avinash/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T22:16:40Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.garykoelling.com/">
+<title>garykoelling | better off listening</title>
+<link>http://www.garykoelling.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T22:16:18Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googleblog.blogspot.com/">
+<title>Official Google Blog</title>
+<link>http://googleblog.blogspot.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T22:13:03Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mattcutts.com/blog/">
+<title>Matt Cutts: Gadgets, Google, and SEO</title>
+<link>http://www.mattcutts.com/blog/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T22:12:46Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mcbuzz.com/">
+<title>Web Marketing Mark McLaren</title>
+<link>http://www.mcbuzz.com/</link>
+<description>local seattle business</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-03T19:47:42Z</dc:date>
+<dc:subject>2.0, blog seattle tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seattle" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/2.0%2C" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html">
+<title>Websites you shouldn&#x2019;t have missed in JUNE 2008</title>
+<link>http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T14:23:13Z</dc:date>
+<dc:subject>TUTORIALs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/TUTORIALs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beyourownmaster.blogspot.com/2008/06/list-of-social-bookmark-sites.html">
+<title>Be Your Own Master: List of Social Bookmark Sites</title>
+<link>http://beyourownmaster.blogspot.com/2008/06/list-of-social-bookmark-sites.html</link>
+<description>so cool</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T06:35:15Z</dc:date>
+<dc:subject>inside socialbookmarking, tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialbookmarking%2C" />
+    <rdf:li resource="http://del.icio.us/tag/inside" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/business/">
+<title>Epicenter - Wired Blogs</title>
+<link>http://blog.wired.com/business/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T06:17:24Z</dc:date>
+<dc:subject>blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastcompany.tv/video/salesforcecom-become-platform-juggernaut-says-ceo">
+<title>Salesforce.com to Become Platform Juggernaut, Says CEO | FastCompany.TV</title>
+<link>http://www.fastcompany.tv/video/salesforcecom-become-platform-juggernaut-says-ceo</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T03:28:46Z</dc:date>
+<dc:subject>Benioff Fast Interview Scoble TV,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Scoble" />
+    <rdf:li resource="http://del.icio.us/tag/Interview" />
+    <rdf:li resource="http://del.icio.us/tag/Fast" />
+    <rdf:li resource="http://del.icio.us/tag/TV%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Benioff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scobleizer.com/">
+<title>Scobleizer &#x2014; Tech geek blogger</title>
+<link>http://scobleizer.com/</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T03:21:27Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.playlist.com/standalone/34892155">
+<title>playlist.com standalone player</title>
+<link>http://www.playlist.com/standalone/34892155</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T02:13:00Z</dc:date>
+<dc:subject>blog music, tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music%2C" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/</link>
+<description>cool sites</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T01:54:13Z</dc:date>
+<dc:subject>cool sites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/sites" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trevinchow.com/blog/">
+<title>Trevin Chow's blog</title>
+<link>http://trevinchow.com/blog/</link>
+<description>cool blog</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-02T01:41:31Z</dc:date>
+<dc:subject>blogs seattle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seattle" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thisnext.com/item/31C3259D/7D85EFE8/LUCIA-Kirkland-Washington">
+<title>LUCIA, Kirkland, Washington, Italian</title>
+<link>http://www.thisnext.com/item/31C3259D/7D85EFE8/LUCIA-Kirkland-Washington</link>
+<description>Another great blog post on Lucia in Kirkland - a very fun restaurant.  Not yet well known.</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-06-24T16:57:12Z</dc:date>
+<dc:subject>bellevue kirkland restaurant, restaurants restaurants,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kirkland" />
+    <rdf:li resource="http://del.icio.us/tag/restaurant%2C" />
+    <rdf:li resource="http://del.icio.us/tag/restaurants%2C" />
+    <rdf:li resource="http://del.icio.us/tag/bellevue" />
+    <rdf:li resource="http://del.icio.us/tag/restaurants" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seattlepi.nwsource.com/food/362273_rest09.html">
+<title>Tidbit's treasures surface at different times</title>
+<link>http://seattlepi.nwsource.com/food/362273_rest09.html</link>
+<description>Love this restaurant - good energy, doing well, busy, etc.</description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-06-05T04:38:17Z</dc:date>
+<dc:subject>bistro bistro, restaurant, restaurants, seattle tidbit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tidbit" />
+    <rdf:li resource="http://del.icio.us/tag/bistro%2C" />
+    <rdf:li resource="http://del.icio.us/tag/seattle" />
+    <rdf:li resource="http://del.icio.us/tag/restaurants%2C" />
+    <rdf:li resource="http://del.icio.us/tag/restaurant%2C" />
+    <rdf:li resource="http://del.icio.us/tag/bistro" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

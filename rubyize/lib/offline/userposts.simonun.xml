@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/simonun">
+<title>del.icio.us/simonun</title>
+<link>http://del.icio.us/simonun</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.dunneandraby.co.uk/" />
+  <rdf:li rdf:resource="http://www.recetasurbanas.net/" />
+  <rdf:li rdf:resource="http://www.findfreeclipart.com/10-great-free-vector-art-websites/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/10/09/30-usability-issues-to-be-aware-of/" />
+  <rdf:li rdf:resource="http://www.powercursor.com/" />
+  <rdf:li rdf:resource="http://www.krazydad.com/asciicam/" />
+  <rdf:li rdf:resource="http://www.supermarket-sweep-up.com/index.php" />
+  <rdf:li rdf:resource="http://www.cs.princeton.edu/theory/complexity/" />
+  <rdf:li rdf:resource="http://www.dstrukt.com/about-this-site/" />
+  <rdf:li rdf:resource="http://www.collegedegree.com/library/college-life/25-awesome-beta" />
+  <rdf:li rdf:resource="http://deoxy.org/" />
+  <rdf:li rdf:resource="http://www.stanislavkatz.com/" />
+  <rdf:li rdf:resource="http://www.6pli.com/" />
+  <rdf:li rdf:resource="http://www.textually.org/picturephoning/archives/2006/04/012048.htm" />
+  <rdf:li rdf:resource="http://www.ted.com/" />
+  <rdf:li rdf:resource="http://www.masternewmedia.org/information_design/information-design-principles/web-20-design-simple-social-design-components-20071017.htm" />
+  <rdf:li rdf:resource="http://www.andyeverson.com/prints/serenity.htm" />
+  <rdf:li rdf:resource="http://songza.com/" />
+  <rdf:li rdf:resource="http://www.moleculewear.com/index.php?id=4537" />
+  <rdf:li rdf:resource="http://vozme.com/index.php?lang=en" />
+  <rdf:li rdf:resource="http://fawnt.com/" />
+  <rdf:li rdf:resource="http://vectormagic.stanford.edu/vctr/vctr_flex?p=s&#x26;s=137" />
+  <rdf:li rdf:resource="http://www.generatorx.no/20070904/informative-fashion-newsknitter/" />
+  <rdf:li rdf:resource="http://www.digicult.it/" />
+  <rdf:li rdf:resource="http://mobile.processing.org/reference/index.php" />
+  <rdf:li rdf:resource="http://www.i-am-bored.com/bored_link.cfm?link_id=10729" />
+  <rdf:li rdf:resource="http://www.octopusjuice.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-07-06T13:06:50Z</dc:date>
+<dc:subject>mit research ricerca stesura tesi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/tesi" />
+    <rdf:li resource="http://del.icio.us/tag/ricerca" />
+    <rdf:li resource="http://del.icio.us/tag/stesura" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dunneandraby.co.uk/">
+<title>Dunne and Raby</title>
+<link>http://www.dunneandraby.co.uk/</link>
+<description>anthony dunne projects</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-06-27T13:35:54Z</dc:date>
+<dc:subject>anthony arte design digital dunne interaction interazione</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anthony" />
+    <rdf:li resource="http://del.icio.us/tag/dunne" />
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/interazione" />
+    <rdf:li resource="http://del.icio.us/tag/arte" />
+    <rdf:li resource="http://del.icio.us/tag/digital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.recetasurbanas.net/">
+<title>RECETAS URBANAS</title>
+<link>http://www.recetasurbanas.net/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-06-26T18:21:24Z</dc:date>
+<dc:subject>architecture architetti architettura art cirugeda design nomadismo santiago urban</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/santiago" />
+    <rdf:li resource="http://del.icio.us/tag/cirugeda" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/urban" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/architettura" />
+    <rdf:li resource="http://del.icio.us/tag/nomadismo" />
+    <rdf:li resource="http://del.icio.us/tag/architetti" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.findfreeclipart.com/10-great-free-vector-art-websites/">
+<title>10 Great Free Vector Art Websites</title>
+<link>http://www.findfreeclipart.com/10-great-free-vector-art-websites/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-06-19T21:15:07Z</dc:date>
+<dc:subject>art, design graphic illustrator vector, vectorial,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/vector%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art%2C" />
+    <rdf:li resource="http://del.icio.us/tag/vectorial%2C" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/10/09/30-usability-issues-to-be-aware-of/">
+<title>30 Usability Issues To Be Aware Of | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/10/09/30-usability-issues-to-be-aware-of/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-03-02T02:20:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.powercursor.com/">
+<title>PowerCursor - Design Interfaces you can Touch [BETA]</title>
+<link>http://www.powercursor.com/</link>
+<description>design interface interesting project</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-03-02T01:35:17Z</dc:date>
+<dc:subject>design interesting interface project</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.krazydad.com/asciicam/">
+<title>Amazing Instant Ascii Cam</title>
+<link>http://www.krazydad.com/asciicam/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-24T21:06:34Z</dc:date>
+<dc:subject>art, ascii ascii, cam, webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ascii%2C" />
+    <rdf:li resource="http://del.icio.us/tag/ascii" />
+    <rdf:li resource="http://del.icio.us/tag/cam%2C" />
+    <rdf:li resource="http://del.icio.us/tag/art%2C" />
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.supermarket-sweep-up.com/index.php">
+<title>http://www.supermarket-sweep-up.com/index.php</title>
+<link>http://www.supermarket-sweep-up.com/index.php</link>
+<description>ravensburger media course project</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-21T01:57:08Z</dc:date>
+<dc:subject>design, interaction media, projects, ravensburger, students</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/projects%2C" />
+    <rdf:li resource="http://del.icio.us/tag/ravensburger%2C" />
+    <rdf:li resource="http://del.icio.us/tag/media%2C" />
+    <rdf:li resource="http://del.icio.us/tag/students" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.princeton.edu/theory/complexity/">
+<title>Complexity Theory: A Modern Approach / Sanjeev Arora and Boaz Barak</title>
+<link>http://www.cs.princeton.edu/theory/complexity/</link>
+<description>tiling</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-19T22:36:06Z</dc:date>
+<dc:subject>complexity, computation, design, problem solving</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/complexity%2C" />
+    <rdf:li resource="http://del.icio.us/tag/computation%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/problem" />
+    <rdf:li resource="http://del.icio.us/tag/solving" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dstrukt.com/about-this-site/">
+<title>Information : Dstrukt</title>
+<link>http://www.dstrukt.com/about-this-site/</link>
+<description>.London based studio of motion graphic design
+</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-17T02:03:45Z</dc:date>
+<dc:subject>design graphic studio, video,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/studio%2C" />
+    <rdf:li resource="http://del.icio.us/tag/video%2C" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegedegree.com/library/college-life/25-awesome-beta">
+<title>25 Awesome Beta Research Tools from Libraries Around the World - College Degree.com</title>
+<link>http://www.collegedegree.com/library/college-life/25-awesome-beta</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-14T20:47:52Z</dc:date>
+<dc:subject>e-journal, library, online search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/e-journal%2C" />
+    <rdf:li resource="http://del.icio.us/tag/library%2C" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://deoxy.org/">
+<title>The Deoxyribonucleic Hyperdimension</title>
+<link>http://deoxy.org/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-13T18:41:17Z</dc:date>
+<dc:subject>interesting things</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/things" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stanislavkatz.com/">
+<title>In Soviet Latvia, Design Makes You!</title>
+<link>http://www.stanislavkatz.com/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-02-13T18:36:25Z</dc:date>
+<dc:subject>art, concept design, forniture, industrial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/industrial" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/forniture%2C" />
+    <rdf:li resource="http://del.icio.us/tag/art%2C" />
+    <rdf:li resource="http://del.icio.us/tag/concept" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.6pli.com/">
+<title>6PLI ACCOUNTS DEMO</title>
+<link>http://www.6pli.com/</link>
+<description>interactive tagging system</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-01-11T23:53:37Z</dc:date>
+<dc:subject>interactive system tagging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/tagging" />
+    <rdf:li resource="http://del.icio.us/tag/system" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.textually.org/picturephoning/archives/2006/04/012048.htm">
+<title> Phone to Carry Video Projector</title>
+<link>http://www.textually.org/picturephoning/archives/2006/04/012048.htm</link>
+<description>cellulare phone projection</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2008-01-11T23:46:32Z</dc:date>
+<dc:subject>mobile projector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/projector" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/">
+<title>TED Rocks</title>
+<link>http://www.ted.com/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-12-14T00:53:59Z</dc:date>
+<dc:subject>culture design, discussion, talks, technology, video,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/talks%2C" />
+    <rdf:li resource="http://del.icio.us/tag/discussion%2C" />
+    <rdf:li resource="http://del.icio.us/tag/video%2C" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.masternewmedia.org/information_design/information-design-principles/web-20-design-simple-social-design-components-20071017.htm">
+<title>Information Design Principles For Web 2.0 Design: Simple &#x26; Social - Robin Good's Latest News</title>
+<link>http://www.masternewmedia.org/information_design/information-design-principles/web-20-design-simple-social-design-components-20071017.htm</link>
+<description>Information Design Principles For Web 2.0 Design</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-12-12T13:43:29Z</dc:date>
+<dc:subject>2.0 Design For Information Principles Web reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Information" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/Principles" />
+    <rdf:li resource="http://del.icio.us/tag/For" />
+    <rdf:li resource="http://del.icio.us/tag/Web" />
+    <rdf:li resource="http://del.icio.us/tag/2.0" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.andyeverson.com/prints/serenity.htm">
+<title>Artwork by Andy Everson</title>
+<link>http://www.andyeverson.com/prints/serenity.htm</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-12-12T00:18:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://songza.com/">
+<title>Songza - The music search engine &#x26; internet jukebox. Listen. Now.</title>
+<link>http://songza.com/</link>
+<description>juke box online streaming</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-22T00:41:38Z</dc:date>
+<dc:subject>box, juke music, streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music%2C" />
+    <rdf:li resource="http://del.icio.us/tag/juke" />
+    <rdf:li resource="http://del.icio.us/tag/box%2C" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moleculewear.com/index.php?id=4537">
+<title>Molecule shirts showing the molecular structure of your favorite drugs</title>
+<link>http://www.moleculewear.com/index.php?id=4537</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-21T23:22:13Z</dc:date>
+<dc:subject>graphic, molecule, print t-shirt,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/t-shirt%2C" />
+    <rdf:li resource="http://del.icio.us/tag/graphic%2C" />
+    <rdf:li resource="http://del.icio.us/tag/molecule%2C" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vozme.com/index.php?lang=en">
+<title>vozMe</title>
+<link>http://vozme.com/index.php?lang=en</link>
+<description>create mp3 from text</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-21T22:27:29Z</dc:date>
+<dc:subject>cool mp3, text,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3%2C" />
+    <rdf:li resource="http://del.icio.us/tag/text%2C" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fawnt.com/">
+<title>http://fawnt.com/</title>
+<link>http://fawnt.com/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-21T22:01:59Z</dc:date>
+<dc:subject>fonts, graphic,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts%2C" />
+    <rdf:li resource="http://del.icio.us/tag/graphic%2C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectormagic.stanford.edu/vctr/vctr_flex?p=s&#x26;s=137">
+<title>VectorMagic</title>
+<link>http://vectormagic.stanford.edu/vctr/vctr_flex?p=s&#x26;s=137</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-21T17:30:43Z</dc:date>
+<dc:subject>art, digital graphic, vector,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector%2C" />
+    <rdf:li resource="http://del.icio.us/tag/graphic%2C" />
+    <rdf:li resource="http://del.icio.us/tag/art%2C" />
+    <rdf:li resource="http://del.icio.us/tag/digital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.generatorx.no/20070904/informative-fashion-newsknitter/">
+<title>Generator.x &#xBB; Informative fashion: Newsknitter</title>
+<link>http://www.generatorx.no/20070904/informative-fashion-newsknitter/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-11-21T01:08:34Z</dc:date>
+<dc:subject>art design, graphic, t-shirt,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/t-shirt%2C" />
+    <rdf:li resource="http://del.icio.us/tag/graphic%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digicult.it/">
+<title>Digicult - New Media Art, Cultura e Arte Elettronica, Cultura Digitale</title>
+<link>http://www.digicult.it/</link>
+<description></description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-10-02T20:54:36Z</dc:date>
+<dc:subject>art, culture design, digital, media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/digital%2C" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/art%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mobile.processing.org/reference/index.php">
+<title>Language (API) \ Mobile Processing</title>
+<link>http://mobile.processing.org/reference/index.php</link>
+<description>Processing language reference</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-09-24T12:05:07Z</dc:date>
+<dc:subject>computation design, processing,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/processing%2C" />
+    <rdf:li resource="http://del.icio.us/tag/design%2C" />
+    <rdf:li resource="http://del.icio.us/tag/computation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.i-am-bored.com/bored_link.cfm?link_id=10729">
+<title>Trippy Animation</title>
+<link>http://www.i-am-bored.com/bored_link.cfm?link_id=10729</link>
+<description>really cool animation</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-07-26T23:44:01Z</dc:date>
+<dc:subject>and animation black drawings flash video white</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/drawings" />
+    <rdf:li resource="http://del.icio.us/tag/black" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/white" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.octopusjuice.com/">
+<title>Freelance Web Designer, Developer and Search Engine Optimization Consultant</title>
+<link>http://www.octopusjuice.com/</link>
+<description>Color meaning</description>
+<dc:creator>simonun</dc:creator>
+<dc:date>2007-06-27T21:28:50Z</dc:date>
+<dc:subject>design graphic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

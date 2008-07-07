@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jarav">
+<title>del.icio.us/jarav</title>
+<link>http://del.icio.us/jarav</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.docsultant.com/nemo440/" />
+  <rdf:li rdf:resource="http://www.gamedesign.jp/flash/chatnoir/chatnoir.html" />
+  <rdf:li rdf:resource="http://www.crystalspace3d.org/main/Main_Page" />
+  <rdf:li rdf:resource="http://koderko.dk/J2METutorial/" />
+  <rdf:li rdf:resource="http://linuxgazette.net/152/srinivasan.html" />
+  <rdf:li rdf:resource="http://www.bud.ca/" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/58" />
+  <rdf:li rdf:resource="http://www.p16blog.com/p16/2008/07/supercomputing-for-the-masses-nvidia-cuda.html" />
+  <rdf:li rdf:resource="http://tuxtraining.com/2008/06/21/beating-sandvine-on-linux-with-iptables/" />
+  <rdf:li rdf:resource="http://tuxtraining.com/2008/04/04/basics-of-iptables/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.sumopaint.com/" />
+  <rdf:li rdf:resource="http://www.dncompute.com/blog/2008/06/23/browsercanvas-the-worlds-easiest-way-to-dynamically-resize-flash.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001016.html" />
+  <rdf:li rdf:resource="http://tomster.org/blog/archive/2007/10/19/spreading-the-word-on-customerize" />
+  <rdf:li rdf:resource="http://plone.org/documentation/tutorial/customizing-main-template-viewlets/tutorial-all-pages" />
+  <rdf:li rdf:resource="http://www.contentmanagementsoftware.info/plone-book" />
+  <rdf:li rdf:resource="http://www.gamasutra.com/view/feature/1549/practical_fluid_dynamics_part_1.php?page=1" />
+  <rdf:li rdf:resource="http://blog.zupko.info/?cat=11" />
+  <rdf:li rdf:resource="http://ria.alltop.com/" />
+  <rdf:li rdf:resource="http://lab.zupko.info/index2.html" />
+  <rdf:li rdf:resource="http://www-jpc.physics.ox.ac.uk/index.html" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_REST" />
+  <rdf:li rdf:resource="http://www.quasimondo.com/archives/000670.php" />
+  <rdf:li rdf:resource="http://okmij.org/ftp/" />
+  <rdf:li rdf:resource="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm" />
+  <rdf:li rdf:resource="http://cartan.cas.suffolk.edu/moin/OopDocbookWiki" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-06T10:57:41Z</dc:date>
+<dc:subject>book java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.docsultant.com/nemo440/">
+<title>Nemo 440 by Vadim Melnik Home Page</title>
+<link>http://www.docsultant.com/nemo440/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-05T20:23:09Z</dc:date>
+<dc:subject>as3 decompiler flex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/decompiler" />
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamedesign.jp/flash/chatnoir/chatnoir.html">
+<title>Chat Noir - Flash game</title>
+<link>http://www.gamedesign.jp/flash/chatnoir/chatnoir.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-05T09:17:31Z</dc:date>
+<dc:subject>cat flash game</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cat" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crystalspace3d.org/main/Main_Page">
+<title>Main Page - Crystal Space 3D</title>
+<link>http://www.crystalspace3d.org/main/Main_Page</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-05T05:06:51Z</dc:date>
+<dc:subject>3d game-programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game-programming" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koderko.dk/J2METutorial/">
+<title>Game Programming Crash Course (for J2ME): Welcome</title>
+<link>http://koderko.dk/J2METutorial/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-04T08:23:41Z</dc:date>
+<dc:subject>j2me programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/152/srinivasan.html">
+<title>A slightly advanced Introduction to Vim LG #152</title>
+<link>http://linuxgazette.net/152/srinivasan.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-03T07:56:04Z</dc:date>
+<dc:subject>tutorial vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bud.ca/">
+<title>Blog of Wheat &#x2014; bud.ca</title>
+<link>http://www.bud.ca/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-02T20:47:50Z</dc:date>
+<dc:subject>plone python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/plone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-01T17:57:12Z</dc:date>
+<dc:subject>cheatsheet vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/58">
+<title>Prototyping OpenGL applications with PyOpenGL - Siafoo</title>
+<link>http://www.siafoo.net/article/58</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-01T17:53:40Z</dc:date>
+<dc:subject>opengl python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/opengl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.p16blog.com/p16/2008/07/supercomputing-for-the-masses-nvidia-cuda.html">
+<title>P16: Practical Progress: Supercomputing for the masses: Nvidia CUDA</title>
+<link>http://www.p16blog.com/p16/2008/07/supercomputing-for-the-masses-nvidia-cuda.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-07-01T17:47:55Z</dc:date>
+<dc:subject>cuda nvidia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuda" />
+    <rdf:li resource="http://del.icio.us/tag/nvidia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tuxtraining.com/2008/06/21/beating-sandvine-on-linux-with-iptables/">
+<title>Tux Training &#xBB; Blog Archive &#xBB; Beating Sandvine on Linux with iptables</title>
+<link>http://tuxtraining.com/2008/06/21/beating-sandvine-on-linux-with-iptables/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-30T20:25:50Z</dc:date>
+<dc:subject>iptables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iptables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tuxtraining.com/2008/04/04/basics-of-iptables/">
+<title>Tux Training &#xBB; Blog Archive &#xBB; Basics of iptables</title>
+<link>http://tuxtraining.com/2008/04/04/basics-of-iptables/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-30T20:25:38Z</dc:date>
+<dc:subject>iptables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iptables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-30T19:36:50Z</dc:date>
+<dc:subject>css float</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/float" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; ContextFree.js &#x26; Algorithm Ink: Making Art with Javascript</title>
+<link>http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-30T17:06:25Z</dc:date>
+<dc:subject>canvas graphics javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/canvas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-30T06:59:20Z</dc:date>
+<dc:subject>compilers programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sumopaint.com/">
+<title>Sumopaint.com beta - Image Editing in the Browser</title>
+<link>http://www.sumopaint.com/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-29T20:34:47Z</dc:date>
+<dc:subject>graphics online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dncompute.com/blog/2008/06/23/browsercanvas-the-worlds-easiest-way-to-dynamically-resize-flash.html">
+<title>doesnotcompute &#xBB; BrowserCanvas. The World&#x2019;s Easiest Way to Dynamically Resize Flash</title>
+<link>http://www.dncompute.com/blog/2008/06/23/browsercanvas-the-worlds-easiest-way-to-dynamically-resize-flash.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-28T19:02:57Z</dc:date>
+<dc:subject>as3 javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001016.html">
+<title>Coding Horror: Regular Expressions: Now You Have Two Problems</title>
+<link>http://www.codinghorror.com/blog/archives/001016.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-28T08:43:23Z</dc:date>
+<dc:subject>programming regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomster.org/blog/archive/2007/10/19/spreading-the-word-on-customerize">
+<title>Spreading the word on customerize &#x2014; tomster.org</title>
+<link>http://tomster.org/blog/archive/2007/10/19/spreading-the-word-on-customerize</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-27T19:29:13Z</dc:date>
+<dc:subject>plone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://plone.org/documentation/tutorial/customizing-main-template-viewlets/tutorial-all-pages">
+<title>Customizing the viewlets in main_template &#x2014; Plone CMS: Open Source Content Management</title>
+<link>http://plone.org/documentation/tutorial/customizing-main-template-viewlets/tutorial-all-pages</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-27T19:21:44Z</dc:date>
+<dc:subject>plone viewlets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plone" />
+    <rdf:li resource="http://del.icio.us/tag/viewlets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.contentmanagementsoftware.info/plone-book">
+<title>Plone Book for Content Managers, Plone tutorials for effective content management</title>
+<link>http://www.contentmanagementsoftware.info/plone-book</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-27T19:11:36Z</dc:date>
+<dc:subject>documentation plone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plone" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamasutra.com/view/feature/1549/practical_fluid_dynamics_part_1.php?page=1">
+<title>Gamasutra - Practical Fluid Dynamics: Part 1</title>
+<link>http://www.gamasutra.com/view/feature/1549/practical_fluid_dynamics_part_1.php?page=1</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-27T05:56:12Z</dc:date>
+<dc:subject>games physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.zupko.info/?cat=11">
+<title>zupko.info &#xBB; effects</title>
+<link>http://blog.zupko.info/?cat=11</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-26T19:56:05Z</dc:date>
+<dc:subject>flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ria.alltop.com/">
+<title>RIA</title>
+<link>http://ria.alltop.com/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-26T19:30:39Z</dc:date>
+<dc:subject>flex ria</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ria" />
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lab.zupko.info/index2.html">
+<title>portfolio_03</title>
+<link>http://lab.zupko.info/index2.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-26T19:16:25Z</dc:date>
+<dc:subject>as3 flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-jpc.physics.ox.ac.uk/index.html">
+<title>JPC - Computer Virtualization in Java</title>
+<link>http://www-jpc.physics.ox.ac.uk/index.html</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-26T07:28:48Z</dc:date>
+<dc:subject>emulation java virtualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/virtualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_REST">
+<title>Get Started With REST - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_REST</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-25T05:20:34Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quasimondo.com/archives/000670.php">
+<title>Quasimondo - Mario Klingemann's Flash Blog: How to draw anything into a BitmapData properly</title>
+<link>http://www.quasimondo.com/archives/000670.php</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-24T19:36:27Z</dc:date>
+<dc:subject>as3 bitmapdata</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/bitmapdata" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://okmij.org/ftp/">
+<title>This FTP site</title>
+<link>http://okmij.org/ftp/</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-24T19:16:58Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm">
+<title>Sin &#x26; Cos: The Programmer's Pals!</title>
+<link>http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-23T15:10:36Z</dc:date>
+<dc:subject>games graphics programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cartan.cas.suffolk.edu/moin/OopDocbookWiki">
+<title>OopDocbookWiki - OopDocbookWiki</title>
+<link>http://cartan.cas.suffolk.edu/moin/OopDocbookWiki</link>
+<description></description>
+<dc:creator>jarav</dc:creator>
+<dc:date>2008-06-20T15:30:50Z</dc:date>
+<dc:subject>c++ qt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/qt" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

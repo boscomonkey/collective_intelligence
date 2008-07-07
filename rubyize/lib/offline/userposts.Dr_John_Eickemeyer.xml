@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dr_john_eickemeyer">
+<title>del.icio.us/dr_john_eickemeyer</title>
+<link>http://del.icio.us/dr_john_eickemeyer</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://ostatic.com/167227-blog/6-free-tools-for-creating-top-notch-documents" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/top-five-free-online-shooter-games/" />
+  <rdf:li rdf:resource="http://vivapinkfloyd.blogspot.com/2008/06/linux-video-players.html" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.moneysavingexpert.com/tipnote/learn-language-free" />
+  <rdf:li rdf:resource="http://alistapart.com/articles/getoutbindingsituations" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html" />
+  <rdf:li rdf:resource="http://vivapinkfloyd.blogspot.com/2008/06/smplayer-review-one-of-most-powerful.html" />
+  <rdf:li rdf:resource="http://ubuntu-tutorials.com/2008/07/03/printi-directly-to-pdf-in-ubuntu-804/" />
+  <rdf:li rdf:resource="http://www.truecrypt.org/docs/?s=hidden-operating-system" />
+  <rdf:li rdf:resource="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x" />
+  <rdf:li rdf:resource="http://boyunglee.com/music/handel/aria/" />
+  <rdf:li rdf:resource="http://www.blacksheeprecords.us/Shepherd_Productions/audio.html" />
+  <rdf:li rdf:resource="http://www.pcadvisor.co.uk/news/index.cfm?newsid=13582" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://www.apple.com/support/mac101/" />
+  <rdf:li rdf:resource="http://www.apple.com/support/switch101/" />
+  <rdf:li rdf:resource="http://ptech.allthingsd.com/20080702/some-general-tips-for-switch-to-mac-from-windows/" />
+  <rdf:li rdf:resource="http://matador.org/10-volunteer-opportunities-for-free-travel/#/" />
+  <rdf:li rdf:resource="http://mag.awn.com/index.php?" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139754" />
+  <rdf:li rdf:resource="http://imslp.org/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://education.guardian.co.uk/schools/story/0,,2288603,00.html" />
+  <rdf:li rdf:resource="http://www.popmatters.com/pm/feature/58714/swiper-no-swiping-the-demonology-of-dora-the-explorer/" />
+  <rdf:li rdf:resource="http://www.eurekalert.org/pub_releases/2008-06/du-atg063008.php" />
+  <rdf:li rdf:resource="http://www.sbea.mtu.edu/users/slstonge/scienceconfirm.html" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139589" />
+  <rdf:li rdf:resource="http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html" />
+  <rdf:li rdf:resource="http://www.pcmag.com/article2/0,1895,2265704,00.asp" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-06T03:56:57Z</dc:date>
+<dc:subject>astronomy entropy multiverse physics science space time toread travel universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/multiverse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-06T03:53:17Z</dc:date>
+<dc:subject>blog children computer free howto kids lifehacker microsoft security software tutorial windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ostatic.com/167227-blog/6-free-tools-for-creating-top-notch-documents">
+<title>6 Free Tools For Creating Top-Notch Documents | OStatic</title>
+<link>http://ostatic.com/167227-blog/6-free-tools-for-creating-top-notch-documents</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:27:18Z</dc:date>
+<dc:subject>free opensource software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/top-five-free-online-shooter-games/">
+<title>Top Five Free Online Shooter Games - Must Read For Gamers | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/top-five-free-online-shooter-games/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:26:57Z</dc:date>
+<dc:subject>free games list news online shooting top</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/top" />
+    <rdf:li resource="http://del.icio.us/tag/shooting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vivapinkfloyd.blogspot.com/2008/06/linux-video-players.html">
+<title>Echoes: 11 Video Players for Linux - Review</title>
+<link>http://vivapinkfloyd.blogspot.com/2008/06/linux-video-players.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:09:31Z</dc:date>
+<dc:subject>linux opensource player review software ubuntu video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:08:33Z</dc:date>
+<dc:subject>2008 cheat cheatsheet cheatsheets cli code command command-line commands linux programming reference tips vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/cheat" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheets" />
+    <rdf:li resource="http://del.icio.us/tag/cli" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/command" />
+    <rdf:li resource="http://del.icio.us/tag/command-line" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moneysavingexpert.com/tipnote/learn-language-free">
+<title>Learn a language for free using online tools</title>
+<link>http://www.moneysavingexpert.com/tipnote/learn-language-free</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:07:32Z</dc:date>
+<dc:subject>2008 business career courses diy edu education elearning free language languages learning online spanish tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/edu" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/spanish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alistapart.com/articles/getoutbindingsituations">
+<title>A List Apart: Articles: Getting Out of Binding Situations in JavaScript</title>
+<link>http://alistapart.com/articles/getoutbindingsituations</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T19:05:58Z</dc:date>
+<dc:subject>alistapart article bind binding closure cool development functional javascript jquery js programming prototype tutorial webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/bind" />
+    <rdf:li resource="http://del.icio.us/tag/closure" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/js" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/binding" />
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/alistapart" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html">
+<title>How To Lose Belly Fat - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T18:57:06Z</dc:date>
+<dc:subject>2008 baking best body cooking diet exercise fitness food health lifehack training weightloss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/baking" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/body" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/weightloss" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vivapinkfloyd.blogspot.com/2008/06/smplayer-review-one-of-most-powerful.html">
+<title>Echoes: SMPlayer Review - One of the Most Powerful Video Players for Linux</title>
+<link>http://vivapinkfloyd.blogspot.com/2008/06/smplayer-review-one-of-most-powerful.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T18:54:39Z</dc:date>
+<dc:subject>linux media multimedia player video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/multimedia" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntu-tutorials.com/2008/07/03/printi-directly-to-pdf-in-ubuntu-804/">
+<title>Print Directly To PDF in Ubuntu 8.04 : Ubuntu Tutorials : Dapper - Feisty - Gutsy - Hardy</title>
+<link>http://ubuntu-tutorials.com/2008/07/03/printi-directly-to-pdf-in-ubuntu-804/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T18:50:58Z</dc:date>
+<dc:subject>hardy pdf printing ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardy" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/printing" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.truecrypt.org/docs/?s=hidden-operating-system">
+<title>TrueCrypt - Free Open-Source On-The-Fly Disk Encryption Software for Windows Vista/XP, Mac OS X and Linux - Documentation</title>
+<link>http://www.truecrypt.org/docs/?s=hidden-operating-system</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T15:55:32Z</dc:date>
+<dc:subject>awesome computer computers cool crypto encryption freeware howto os privacy security software truecrypt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/crypto" />
+    <rdf:li resource="http://del.icio.us/tag/encryption" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/truecrypt" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x">
+<title>Screenshoot blurry in OS X? | creativebits</title>
+<link>http://creativebits.org/mac_os_x/screenshoot_blurry_os_x</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T15:51:14Z</dc:date>
+<dc:subject>apple capture howto jpg mac osx png screen screenshot screenshots terminal tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/jpg" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/png" />
+    <rdf:li resource="http://del.icio.us/tag/screen" />
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/screenshots" />
+    <rdf:li resource="http://del.icio.us/tag/terminal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boyunglee.com/music/handel/aria/">
+<title>classical mp3 handel</title>
+<link>http://boyunglee.com/music/handel/aria/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T15:28:39Z</dc:date>
+<dc:subject>choral handel mp3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/choral" />
+    <rdf:li resource="http://del.icio.us/tag/handel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blacksheeprecords.us/Shepherd_Productions/audio.html">
+<title>Recording Samples</title>
+<link>http://www.blacksheeprecords.us/Shepherd_Productions/audio.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T15:22:41Z</dc:date>
+<dc:subject>choral mp3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/choral" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcadvisor.co.uk/news/index.cfm?newsid=13582">
+<title>The 12 best Firefox 3.0 tweaks News - PC Advisor</title>
+<link>http://www.pcadvisor.co.uk/news/index.cfm?newsid=13582</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T14:39:01Z</dc:date>
+<dc:subject>browsers configuration firefox firefox3 software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browsers" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T06:19:54Z</dc:date>
+<dc:subject>boot grub hardy howto linux opensource optimization performance speed tips ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/grub" />
+    <rdf:li resource="http://del.icio.us/tag/hardy" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/speed" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apple.com/support/mac101/">
+<title>Apple - Support - Mac 101</title>
+<link>http://www.apple.com/support/mac101/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T05:57:36Z</dc:date>
+<dc:subject>apple beginner cheatsheet computer computers courses design docs english howto mac osx reference tips tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beginner" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/docs" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apple.com/support/switch101/">
+<title>Apple - Support - Switch 101</title>
+<link>http://www.apple.com/support/switch101/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T05:57:16Z</dc:date>
+<dc:subject>2007 apple computer computers digitalstorytelling english geek guide help howto mac osx reference switch tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/switch" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ptech.allthingsd.com/20080702/some-general-tips-for-switch-to-mac-from-windows/">
+<title>Some General Tips for Switch to Mac From Windows | Walt Mossberg | Personal Technology | AllThingsD</title>
+<link>http://ptech.allthingsd.com/20080702/some-general-tips-for-switch-to-mac-from-windows/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T05:52:18Z</dc:date>
+<dc:subject>apple computers guide leopard mac macosx microsoft osx switch tips windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/switch" />
+    <rdf:li resource="http://del.icio.us/tag/leopard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matador.org/10-volunteer-opportunities-for-free-travel/#/">
+<title>10 Volunteer Opportunities For Free Travel</title>
+<link>http://matador.org/10-volunteer-opportunities-for-free-travel/#/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T05:47:55Z</dc:date>
+<dc:subject>2008 activism adventure blogs charity community cool environment free fun philanthropy travel volunteer volunteering</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/adventure" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/charity" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/volunteer" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/volunteering" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/philanthropy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mag.awn.com/index.php?">
+<title>Animation World Magazine</title>
+<link>http://mag.awn.com/index.php?</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-05T05:42:17Z</dc:date>
+<dc:subject>2d 3d animation anime daily illustration magazine news tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2d" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+    <rdf:li resource="http://del.icio.us/tag/daily" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139754">
+<title>Linux.com :: An introduction to the Kismet packet sniffer</title>
+<link>http://www.linux.com/feature/139754</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-04T17:25:59Z</dc:date>
+<dc:subject>article intro kismet linux security server software sysadmin tool tools wifi wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/intro" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/kismet" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imslp.org/wiki/Main_Page">
+<title>Main Page - IMSLP</title>
+<link>http://imslp.org/wiki/Main_Page</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T20:19:47Z</dc:date>
+<dc:subject>archive archives art audio awesome charts choral classic classical free music piano score scores sheetmusic wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/archives" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+    <rdf:li resource="http://del.icio.us/tag/choral" />
+    <rdf:li resource="http://del.icio.us/tag/classic" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/scores" />
+    <rdf:li resource="http://del.icio.us/tag/sheetmusic" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/score" />
+    <rdf:li resource="http://del.icio.us/tag/piano" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://education.guardian.co.uk/schools/story/0,,2288603,00.html">
+<title>Schools of thought: teach children philosophy, experts urge | News crumb | EducationGuardian.co.uk</title>
+<link>http://education.guardian.co.uk/schools/story/0,,2288603,00.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:56:29Z</dc:date>
+<dc:subject>children criticalthinking education news philosophy schools teaching thinking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/thinking" />
+    <rdf:li resource="http://del.icio.us/tag/schools" />
+    <rdf:li resource="http://del.icio.us/tag/criticalthinking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popmatters.com/pm/feature/58714/swiper-no-swiping-the-demonology-of-dora-the-explorer/">
+<title>&#x22;Swiper, No Swiping!&#x22;: The Demonology of Dora the Explorer &#x3C; TV | PopMatters</title>
+<link>http://www.popmatters.com/pm/feature/58714/swiper-no-swiping-the-demonology-of-dora-the-explorer/</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:42:18Z</dc:date>
+<dc:subject>christian culture kids religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/christian" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eurekalert.org/pub_releases/2008-06/du-atg063008.php">
+<title>Achieving top grades in science subjects more difficult, proves research</title>
+<link>http://www.eurekalert.org/pub_releases/2008-06/du-atg063008.php</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:40:01Z</dc:date>
+<dc:subject>academia education science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/academia" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sbea.mtu.edu/users/slstonge/scienceconfirm.html">
+<title>Science Confirms the Bible</title>
+<link>http://www.sbea.mtu.edu/users/slstonge/scienceconfirm.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:37:44Z</dc:date>
+<dc:subject>bible christianity religion science theology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/christianity" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/theology" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139589">
+<title>Linux.com :: One live DVD, one ton of Linux games</title>
+<link>http://www.linux.com/feature/139589</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:15:01Z</dc:date>
+<dc:subject>cd dvd entertainment game games gaming linux live livecd review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cd" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/live" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/livecd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html">
+<title>TECH SOURCE FROM BOHOL: 10 Best Hacking and Security Software Tools for Linux</title>
+<link>http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T19:09:56Z</dc:date>
+<dc:subject>apps command-line crack cracking diagnostic fedora hack hacking linux security software sysadmin tools unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/command-line" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/cracking" />
+    <rdf:li resource="http://del.icio.us/tag/diagnostic" />
+    <rdf:li resource="http://del.icio.us/tag/fedora" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcmag.com/article2/0,1895,2265704,00.asp">
+<title>Get Free Music! - Reviews by PC Magazine</title>
+<link>http://www.pcmag.com/article2/0,1895,2265704,00.asp</link>
+<description></description>
+<dc:creator>Dr_John_Eickemeyer</dc:creator>
+<dc:date>2008-07-03T01:47:35Z</dc:date>
+<dc:subject>audio downloads free internet legal list lists magazine mp3 music pc radio streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/legal" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

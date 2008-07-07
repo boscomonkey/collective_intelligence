@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/krisu0100">
+<title>del.icio.us/krisu0100</title>
+<link>http://del.icio.us/krisu0100</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mintywhite.com/tech/xp/best-windows-freebies-and-guides-june-2008/" />
+  <rdf:li rdf:resource="http://www.installerapps.com/2008/07/05/top-25-casual-games-for-the-iphone/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/lifehacker-code/firefox-extensions/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/post-messages-to-twitter-using-your-mobile-phone-and-get-your-invite-here/" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.shareminer.com/" />
+  <rdf:li rdf:resource="http://www.usingmac.com/2008/7/1/inspiring-firefox-wallpapers" />
+  <rdf:li rdf:resource="http://sixrevisions.com/javascript/mootools_tutorials_and_example/" />
+  <rdf:li rdf:resource="http://www.instinctiv.com/" />
+  <rdf:li rdf:resource="http://www.rsscontenttool.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://kwout.com/" />
+  <rdf:li rdf:resource="http://davidwalsh.name/mootools-12-tooltips-customize" />
+  <rdf:li rdf:resource="http://doll-doll.com/" />
+  <rdf:li rdf:resource="http://azarask.in/projects/algorithm-ink/#99fdc2df" />
+  <rdf:li rdf:resource="http://www.webresourcesdepot.com/category/design/icons/" />
+  <rdf:li rdf:resource="http://www.jajadesign.net/" />
+  <rdf:li rdf:resource="http://ihacks.us/index.xml" />
+  <rdf:li rdf:resource="http://www.iuutiset.com/" />
+  <rdf:li rdf:resource="http://css-tricks.com/videos/css-tricks-video-25.php" />
+  <rdf:li rdf:resource="http://help-developer.com/index.php/2008/07/03/create-a-post-it-effect-in-the-gimp/" />
+  <rdf:li rdf:resource="http://www.tastekid.com/ask" />
+  <rdf:li rdf:resource="http://jibberbook.com/" />
+  <rdf:li rdf:resource="http://testmyiphone.com/" />
+  <rdf:li rdf:resource="http://www.appleiphoneschool.com/2008/07/03/current-top-nine-favorite-themes/" />
+  <rdf:li rdf:resource="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/" />
+  <rdf:li rdf:resource="http://www2.torrelay.com/fresh/web.pl" />
+  <rdf:li rdf:resource="http://css-tricks.com/cutting-edge-browsers-and-their-development-tools/" />
+  <rdf:li rdf:resource="http://www.globexdesigns.com/" />
+  <rdf:li rdf:resource="http://www.electricprism.com/aeron/slideshow/" />
+  <rdf:li rdf:resource="http://www.sumopaint.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mintywhite.com/tech/xp/best-windows-freebies-and-guides-june-2008/">
+<title>Best Windows Freebies and Guides [June 2008] | Windows Guides | Mintywhite.com</title>
+<link>http://mintywhite.com/tech/xp/best-windows-freebies-and-guides-june-2008/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-06T11:53:01Z</dc:date>
+<dc:subject>freeware howto windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.installerapps.com/2008/07/05/top-25-casual-games-for-the-iphone/">
+<title>Top 25 Casual Games for the iPhone</title>
+<link>http://www.installerapps.com/2008/07/05/top-25-casual-games-for-the-iphone/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-06T11:39:47Z</dc:date>
+<dc:subject>games ipod-touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/lifehacker-code/firefox-extensions/">
+<title>Lifehacker Code, Firefox Extensions - Lifehacker</title>
+<link>http://lifehacker.com/software/lifehacker-code/firefox-extensions/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-06T11:37:24Z</dc:date>
+<dc:subject>extensions firefox lists</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/post-messages-to-twitter-using-your-mobile-phone-and-get-your-invite-here/">
+<title>Post Messages To Twitter Using Your Mobile Phone - &#x26; Get Your Invite HERE! | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/post-messages-to-twitter-using-your-mobile-phone-and-get-your-invite-here/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-06T11:33:08Z</dc:date>
+<dc:subject>microblogging mobile twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-06T11:01:26Z</dc:date>
+<dc:subject>ajax animation icons webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shareminer.com/">
+<title>Search files on Rapidshare, Megaupload and file hosting services</title>
+<link>http://www.shareminer.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-05T08:48:52Z</dc:date>
+<dc:subject>crack download downloads files filesharing google hack media mp3 p2p rapidshare search sharing tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/rapidshare" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usingmac.com/2008/7/1/inspiring-firefox-wallpapers">
+<title>UsingMac - Beautiful, Inspiring Firefox Wallpapers</title>
+<link>http://www.usingmac.com/2008/7/1/inspiring-firefox-wallpapers</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-04T14:41:47Z</dc:date>
+<dc:subject>cool design desktop download firefox graphics inspiration list wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/javascript/mootools_tutorials_and_example/">
+<title>Learning MooTools: MooTools Tutorials and Examples</title>
+<link>http://sixrevisions.com/javascript/mootools_tutorials_and_example/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-04T13:36:56Z</dc:date>
+<dc:subject>ajax design html javascript list tutorial tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.instinctiv.com/">
+<title>Instinctiv - iPhone/iPod Touch application for enhancing random shuffle</title>
+<link>http://www.instinctiv.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T21:05:15Z</dc:date>
+<dc:subject>ipod-touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rsscontenttool.com/">
+<title>Feed Source - Home</title>
+<link>http://www.rsscontenttool.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T21:03:57Z</dc:date>
+<dc:subject>blog blogging feed feeds generator rss tools widget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/widget" />
+    <rdf:li resource="http://del.icio.us/tag/feeds" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:47:34Z</dc:date>
+<dc:subject>art best design development free graphics icons webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kwout.com/">
+<title>kwout | A brilliant way to quote</title>
+<link>http://kwout.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:31:26Z</dc:date>
+<dc:subject>applications apps bookmarklet web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/bookmarklet" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://davidwalsh.name/mootools-12-tooltips-customize">
+<title>MooTools 1.2 Tooltips: Customize Your Tips</title>
+<link>http://davidwalsh.name/mootools-12-tooltips-customize</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:25:39Z</dc:date>
+<dc:subject>ajax javascript programming tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doll-doll.com/">
+<title>: : doll-doll.com : : [&#x591A;&#x591A;] : : blog pet : :</title>
+<link>http://doll-doll.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:21:46Z</dc:date>
+<dc:subject>art design flash fun graphics widget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/widget" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/projects/algorithm-ink/#99fdc2df">
+<title>Algorithm Ink | Aza Raskin</title>
+<link>http://azarask.in/projects/algorithm-ink/#99fdc2df</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:19:01Z</dc:date>
+<dc:subject>art design inspiration javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webresourcesdepot.com/category/design/icons/">
+<title>Icons</title>
+<link>http://www.webresourcesdepot.com/category/design/icons/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T20:14:36Z</dc:date>
+<dc:subject>icons resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jajadesign.net/">
+<title>JAJAdesign</title>
+<link>http://www.jajadesign.net/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T18:50:45Z</dc:date>
+<dc:subject>cool ipod-touch suomi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/suomi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ihacks.us/index.xml">
+<title>http://ihacks.us/index.xml</title>
+<link>http://ihacks.us/index.xml</link>
+<description>Normal and craked iPhone and iPod Touch apps</description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T18:43:58Z</dc:date>
+<dc:subject>ipod-touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iuutiset.com/">
+<title>iUutiset - uutispalvelu iPhone ja Ipod Touch laitteille</title>
+<link>http://www.iuutiset.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T18:16:44Z</dc:date>
+<dc:subject>ipod-touch suomi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+    <rdf:li resource="http://del.icio.us/tag/suomi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/videos/css-tricks-video-25.php">
+<title>CSS-Tricks | Videos | Screencast #25</title>
+<link>http://css-tricks.com/videos/css-tricks-video-25.php</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T16:30:58Z</dc:date>
+<dc:subject>blogging css howto tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help-developer.com/index.php/2008/07/03/create-a-post-it-effect-in-the-gimp/">
+<title>Create a post-it effect in The Gimp</title>
+<link>http://help-developer.com/index.php/2008/07/03/create-a-post-it-effect-in-the-gimp/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T15:48:34Z</dc:date>
+<dc:subject>gimp gimp-oppaat graphics tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gimp-oppaat" />
+    <rdf:li resource="http://del.icio.us/tag/gimp" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tastekid.com/ask">
+<title>Taste Kid | Find similar music (artists, bands), movies, books</title>
+<link>http://www.tastekid.com/ask</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T12:02:26Z</dc:date>
+<dc:subject>discovery movie music search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/discovery" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jibberbook.com/">
+<title>JibberBook - Free Ajax Guestbook</title>
+<link>http://jibberbook.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T11:54:17Z</dc:date>
+<dc:subject>ajax opensource php web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://testmyiphone.com/">
+<title>iPhone Speedtest</title>
+<link>http://testmyiphone.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T08:37:19Z</dc:date>
+<dc:subject>ipod-touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appleiphoneschool.com/2008/07/03/current-top-nine-favorite-themes/">
+<title>Current Top Ten Favorite Themes | Apple iPhone School</title>
+<link>http://www.appleiphoneschool.com/2008/07/03/current-top-nine-favorite-themes/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-03T08:30:20Z</dc:date>
+<dc:subject>ipod-touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod-touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/">
+<title>Custom Checkboxes, Custom Radio Buttons, Custom Select Lists</title>
+<link>http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-02T20:09:23Z</dc:date>
+<dc:subject>ajax css design development html javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.torrelay.com/fresh/web.pl">
+<title>Torrent Relay - Download torrents online (web client)</title>
+<link>http://www2.torrelay.com/fresh/web.pl</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-02T14:14:23Z</dc:date>
+<dc:subject>download downloads online p2p tools torrent web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/cutting-edge-browsers-and-their-development-tools/">
+<title>Cutting Edge Browsers and Their Development Tools - CSS-Tricks</title>
+<link>http://css-tricks.com/cutting-edge-browsers-and-their-development-tools/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-02T13:46:18Z</dc:date>
+<dc:subject>browser css development html tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.globexdesigns.com/">
+<title>Globex Designs v.X - Illustrating Lives</title>
+<link>http://www.globexdesigns.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-02T11:54:25Z</dc:date>
+<dc:subject>design development google userstyles webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/userstyles" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electricprism.com/aeron/slideshow/">
+<title>Slideshow 2! A javascript class for Mootools 1.2 to stream and animate the presentation of images on your website</title>
+<link>http://www.electricprism.com/aeron/slideshow/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-02T08:32:10Z</dc:date>
+<dc:subject>ajax cool css design development javascript library mootools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sumopaint.com/">
+<title>Sumopaint.com beta - Image Editing in the Browser</title>
+<link>http://www.sumopaint.com/</link>
+<description></description>
+<dc:creator>krisu0100</dc:creator>
+<dc:date>2008-07-01T19:26:42Z</dc:date>
+<dc:subject>art design editing flash graphics online paint photoshop tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/editing" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/paint" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

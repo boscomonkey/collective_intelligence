@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/spitshine">
+<title>del.icio.us/spitshine</title>
+<link>http://del.icio.us/spitshine</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/news/uk/science/article4272828.ece" />
+  <rdf:li rdf:resource="http://www.ma.utexas.edu/users/stirling/computergeek/sshtunnel.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://network.nature.com/group/sciblog2008" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html" />
+  <rdf:li rdf:resource="http://www.soafacts.com/" />
+  <rdf:li rdf:resource="http://maxq.tigris.org/" />
+  <rdf:li rdf:resource="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html" />
+  <rdf:li rdf:resource="http://www.gladwell.com/2002/2002_03_25_a_paper.htm" />
+  <rdf:li rdf:resource="http://www.bioinformatics.org/project/?group_id=350" />
+  <rdf:li rdf:resource="http://www.drive5.com/muscle/" />
+  <rdf:li rdf:resource="http://www.google.com/" />
+  <rdf:li rdf:resource="http://article20.elsevier.com/contest/home.htm" />
+  <rdf:li rdf:resource="http://bioinfo.au.tsinghua.edu.cn/apbc2009/" />
+  <rdf:li rdf:resource="http://feedly.com/" />
+  <rdf:li rdf:resource="http://compbio.mit.edu/recombsat/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Disgusted_of_Tunbridge_Wells" />
+  <rdf:li rdf:resource="http://ummo-berlin.de/" />
+  <rdf:li rdf:resource="http://meetings.cshl.edu/meetings/netwrkuk08.shtml" />
+  <rdf:li rdf:resource="http://zattoo.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Riepl's_law" />
+  <rdf:li rdf:resource="http://strangemaps.wordpress.com/" />
+  <rdf:li rdf:resource="http://mkweb.bcgsc.ca/circos/" />
+  <rdf:li rdf:resource="http://www.scholarpedia.org/" />
+  <rdf:li rdf:resource="http://www.mebeam.com/" />
+  <rdf:li rdf:resource="http://www.lingr.com/" />
+  <rdf:li rdf:resource="http://boomloop.com/" />
+  <rdf:li rdf:resource="http://pownce.com/" />
+  <rdf:li rdf:resource="http://www.plurk.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Standard model of particles</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description>A chart of the major particles and their interactions.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-06T13:10:42Z</dc:date>
+<dc:subject>chart physics poster reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/news/uk/science/article4272828.ece">
+<title>Medical research is &#x2018;hindered by out-of-date laws&#x2019; - System is inefficient and corrupt, say scientists</title>
+<link>http://www.timesonline.co.uk/tol/news/uk/science/article4272828.ece</link>
+<description>Two Nobel laureates want radical changes to the patent system for medical research</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-06T09:42:54Z</dc:date>
+<dc:subject>medicine patents research science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/medicine" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/patents" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ma.utexas.edu/users/stirling/computergeek/sshtunnel.html">
+<title>SSH Tunneling (TCP port forwarding)</title>
+<link>http://www.ma.utexas.edu/users/stirling/computergeek/sshtunnel.html</link>
+<description></description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-05T21:03:12Z</dc:date>
+<dc:subject>network security ssh tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description>If you understand this plain and thoughtful list, it's quite likely that you are an OK programmer. And all good programmers that I have met question their programming skills.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-05T17:13:55Z</dc:date>
+<dc:subject>development education programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://network.nature.com/group/sciblog2008">
+<title>Science Blogging 2008</title>
+<link>http://network.nature.com/group/sciblog2008</link>
+<description>An event organized by Nature, held at the Royal Institution, London, August 30, 2008</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-03T07:33:41Z</dc:date>
+<dc:subject>2008 blogs research science web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>Programmer Competency Matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description>Skills and requirements for programmers. Not my style but useful.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-07-01T06:54:40Z</dc:date>
+<dc:subject>business coding programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html">
+<title>Gumption: Do YouJustGetMe? Do I Even Get Myself?</title>
+<link>http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html</link>
+<description>How well do we &#x26;quot;get a person&#x26;quot; from the Facebook et al. profiles. A collection of facts and thoughts</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-30T14:42:28Z</dc:date>
+<dc:subject>2008 blogs community facebook identity research science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/identity" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.soafacts.com/">
+<title>The Encyclopedia of SOA</title>
+<link>http://www.soafacts.com/</link>
+<description>&#x26;quot;In a battle between a ninja and a jedi, SOA would win.&#x26;quot;</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-29T09:34:33Z</dc:date>
+<dc:subject>architecture development funny humor j2ee java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maxq.tigris.org/">
+<title>MaxQ</title>
+<link>http://maxq.tigris.org/</link>
+<description>MaxQ is a web functional testing tool</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-29T09:31:34Z</dc:date>
+<dc:subject>css html java programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html">
+<title> A Few Different Ways To Tie Your Sneakers</title>
+<link>http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html</link>
+<description>www.popgive.com</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-27T13:06:42Z</dc:date>
+<dc:subject>fun knots</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/knots" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gladwell.com/2002/2002_03_25_a_paper.htm">
+<title>gladwell dot com - the social life of paper</title>
+<link>http://www.gladwell.com/2002/2002_03_25_a_paper.htm</link>
+<description>An article from the New Yorker - six years old, still interesting.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-25T07:39:58Z</dc:date>
+<dc:subject>books culture paper productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bioinformatics.org/project/?group_id=350">
+<title>CD-HI / CD-HIT</title>
+<link>http://www.bioinformatics.org/project/?group_id=350</link>
+<description>&#x26;quot;CD-HIT is a program for clustering large protein database at high sequence identity threshold. The program removes redundant sequences and generate a database of only the representatives.&#x26;quot;</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-24T15:47:40Z</dc:date>
+<dc:subject>bioinformatics teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drive5.com/muscle/">
+<title>MUSCLE home page</title>
+<link>http://www.drive5.com/muscle/</link>
+<description>The state of the art aligment programme</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-24T13:59:44Z</dc:date>
+<dc:subject>algorithm alignment bioinformatics software teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/alignment" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/">
+<title>Google</title>
+<link>http://www.google.com/</link>
+<description>A search engine for this internet, haven't used it much but heard a lot of good things about it.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-20T12:54:13Z</dc:date>
+<dc:subject>internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://article20.elsevier.com/contest/home.htm">
+<title>Elsevier Article 2.0 Contest</title>
+<link>http://article20.elsevier.com/contest/home.htm</link>
+<description>Contestants are to render, integrate or combine articles, obtained via a REST API. Starts September 1st, 2008</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-19T06:03:27Z</dc:date>
+<dc:subject>contest elsevier research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/contest" />
+    <rdf:li resource="http://del.icio.us/tag/elsevier" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bioinfo.au.tsinghua.edu.cn/apbc2009/">
+<title>Asia Pacific Bioinformatics Conference (APBC2009)</title>
+<link>http://bioinfo.au.tsinghua.edu.cn/apbc2009/</link>
+<description>Beijing, China, 13-16 January 2009. The line up is really impressive.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-17T15:38:30Z</dc:date>
+<dc:subject>2009 bioinformatics conference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/2009" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://feedly.com/">
+<title>feedly: a more social and magazine-like start page</title>
+<link>http://feedly.com/</link>
+<description>Wow, and I thought I had seen it all. This is highly useful and simple.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-17T15:07:06Z</dc:date>
+<dc:subject>aggregator extension firefox rss social startpage web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/startpage" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://compbio.mit.edu/recombsat/">
+<title>RECOMB Regulatory Genomics and Systems Biology 2008</title>
+<link>http://compbio.mit.edu/recombsat/</link>
+<description>Held at MIT, Oct 29-Nov 2, 2008</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-16T09:05:48Z</dc:date>
+<dc:subject>2008 bioinformatics biology conference research workshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/workshop" />
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Disgusted_of_Tunbridge_Wells">
+<title>Disgusted of Tunbridge Wells</title>
+<link>http://en.wikipedia.org/wiki/Disgusted_of_Tunbridge_Wells</link>
+<description>From Wikipedia, the free encyclopedia</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-16T08:34:47Z</dc:date>
+<dc:subject>culture england journalism via:twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/via:twitter" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/england" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ummo-berlin.de/">
+<title>Radkraft | individuelle Anfertigung von Fahrr&#xE4;dern</title>
+<link>http://ummo-berlin.de/</link>
+<description>... und Reparaturen. Bicyclerepairman arbeitet an der Ecke Schwedter/Sch&#xF6;nhauser Alle!</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-14T14:03:05Z</dc:date>
+<dc:subject>2008 berlin bike lang:de</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bike" />
+    <rdf:li resource="http://del.icio.us/tag/berlin" />
+    <rdf:li resource="http://del.icio.us/tag/lang:de" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://meetings.cshl.edu/meetings/netwrkuk08.shtml">
+<title>2008 CSHL/WT Meeting on Network Biology</title>
+<link>http://meetings.cshl.edu/meetings/netwrkuk08.shtml</link>
+<description>August 27 - 31, 2008, EBI Hinxton, UK
+</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-13T15:05:36Z</dc:date>
+<dc:subject>2008 bioinformatics conference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zattoo.com/">
+<title>Zattoo | TV meets PC</title>
+<link>http://zattoo.com/</link>
+<description>This could come in handy for football. Streaming several channels, including WDR Bielefeld!</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-13T14:22:50Z</dc:date>
+<dc:subject>applications germany internet streaming tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/germany" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Riepl's_law">
+<title>Riepl's law</title>
+<link>http://en.wikipedia.org/wiki/Riepl's_law</link>
+<description>&#x26;quot;new, further developed types of media never replace the existing modes of media and their usage patterns.&#x26;quot;</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-12T10:24:29Z</dc:date>
+<dc:subject>journalism media social wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://strangemaps.wordpress.com/">
+<title>Strange Maps</title>
+<link>http://strangemaps.wordpress.com/</link>
+<description>Hmm, maps!</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-10T13:59:38Z</dc:date>
+<dc:subject>blogs maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mkweb.bcgsc.ca/circos/">
+<title>Circos - visualize genomes and genomic data</title>
+<link>http://mkweb.bcgsc.ca/circos/</link>
+<description>Nice ideas, not sure it can do everything that I desire in terms of data exploration.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-09T11:46:35Z</dc:date>
+<dc:subject>2007 bioinformatics biology design genetics genome science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+    <rdf:li resource="http://del.icio.us/tag/genome" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scholarpedia.org/">
+<title>Scholarpedia</title>
+<link>http://www.scholarpedia.org/</link>
+<description>A free, peer reviewed encyclopedia . Strong in Neuroscience and Astrophysics and the math relevant to these subjects. Authors are elected for a given subject. Wants to be understandable and useful, which sounds better to me than &#x26;quot;neutral&#x26;quot;.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-09T11:05:19Z</dc:date>
+<dc:subject>encyclopedia reference research science social wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/encyclopedia" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mebeam.com/">
+<title>MeBeam Video Chat</title>
+<link>http://www.mebeam.com/</link>
+<description>Instant video chat. Very simple interface and set up, service not tested.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-08T09:12:25Z</dc:date>
+<dc:subject>applications chat collaboration video web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lingr.com/">
+<title>Lingr: Chatrooms for the people</title>
+<link>http://www.lingr.com/</link>
+<description>Chatroom community. Might be useful for setting up instant collaboration as no user registration is required. Busy rooms at the moment focus on sex and Iran as well as sex in Iran. Oh well.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-08T09:10:24Z</dc:date>
+<dc:subject>applications chat communication community web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boomloop.com/">
+<title>boomloop</title>
+<link>http://boomloop.com/</link>
+<description>Another Twitter simulacrum, available in German, advertises events. From Frankfurst/Main, Germany and available in German</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-08T09:03:27Z</dc:date>
+<dc:subject>events social twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/events" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pownce.com/">
+<title>Pownce</title>
+<link>http://pownce.com/</link>
+<description>Twitter/chat application, handles files and events</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-08T08:58:08Z</dc:date>
+<dc:subject>applications chat collaboration community social twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.plurk.com/">
+<title>Plurk.com</title>
+<link>http://www.plurk.com/</link>
+<description>Similar to Twitter, with time lines and a more advanced ajax interface. Finally tried it, worth the look for sure.</description>
+<dc:creator>spitshine</dc:creator>
+<dc:date>2008-06-08T08:55:22Z</dc:date>
+<dc:subject>2008 applications community plurk social tools twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/plurk" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

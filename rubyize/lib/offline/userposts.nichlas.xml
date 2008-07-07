@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/nichlas">
+<title>del.icio.us/nichlas</title>
+<link>http://del.icio.us/nichlas</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://imagechan.com/" />
+  <rdf:li rdf:resource="http://atom.smasher.org/gas-station/" />
+  <rdf:li rdf:resource="http://www.cooperativeresearch.org/timeline.jsp?timeline=civilliberties" />
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.cad-comic.com/comic.php" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=2402751682668296100" />
+  <rdf:li rdf:resource="http://groups.google.com/group/comp.text.tex/browse_thread/thread/5cb0b4db868f5a4e#" />
+  <rdf:li rdf:resource="http://theoval.sys.uea.ac.uk/~nlct/latex/pdfdoc/pdfdoc/pdfdoc.html" />
+  <rdf:li rdf:resource="http://olympus.het.brown.edu/~danieldf/latex/" />
+  <rdf:li rdf:resource="http://www.kronto.org/thesis/tips/index.html" />
+  <rdf:li rdf:resource="http://www.sci.usq.edu.au/resources/LaTeX/ltxusecol.html" />
+  <rdf:li rdf:resource="http://sourceforge.net/projects/gnuwin32/" />
+  <rdf:li rdf:resource="http://pi.bloo.us:800/academic/latex/plugin/" />
+  <rdf:li rdf:resource="http://www.eksperten.dk/spm/831137" />
+  <rdf:li rdf:resource="http://www.cse.ohio-state.edu/~gurari/TeX4ht/#QQ1-1-32" />
+  <rdf:li rdf:resource="http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/teTeX/latex/latex2e-html/ltx-2.html" />
+  <rdf:li rdf:resource="http://sts5984.anu.edu.au:8888/workbench/APSR/LaTeX-notes.odt.html" />
+  <rdf:li rdf:resource="http://chmox.sourceforge.net/" />
+  <rdf:li rdf:resource="http://wiki.docbook.org/" />
+  <rdf:li rdf:resource="http://helpdesk.ugent.be/vpn/en/akkoord.php" />
+  <rdf:li rdf:resource="http://www.oasis-open.org/docbook/documentation/reference/html/docbook.html" />
+  <rdf:li rdf:resource="http://newbiedoc.sourceforge.net/metadoc/docbook-guide.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/l-docbk.html" />
+  <rdf:li rdf:resource="http://lwn.net/2000/features/DocBook/" />
+  <rdf:li rdf:resource="http://www.xkcd.com/" />
+  <rdf:li rdf:resource="http://www.aalborgkommune.dk/Borgerportal/Erhverv+og+arbejde/Job/Jobs/Jobs.htm" />
+  <rdf:li rdf:resource="http://www.regionmidtjylland.dk/job" />
+  <rdf:li rdf:resource="http://www.scanjour.dk/index.aspx?id=7e01c673-34e1-49cf-94d3-f69b9c8e8e09" />
+  <rdf:li rdf:resource="http://www3.kk.dk/job.aspx" />
+  <rdf:li rdf:resource="http://www.thisted.dk/Topmenu/Om%20os/Ledige%20stillinger.aspx" />
+  <rdf:li rdf:resource="http://www.ouh.dk/wm219713" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://imagechan.com/">
+<title>Home of the Seriously Funny Image - ImageChan</title>
+<link>http://imagechan.com/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-06T12:29:53Z</dc:date>
+<dc:subject>gallery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atom.smasher.org/gas-station/">
+<title>Atom Smasher's Gas Station Sign Generator</title>
+<link>http://atom.smasher.org/gas-station/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-06T12:27:35Z</dc:date>
+<dc:subject>sjov</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sjov" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cooperativeresearch.org/timeline.jsp?timeline=civilliberties">
+<title>Loss of Civil Liberties Since 9/11</title>
+<link>http://www.cooperativeresearch.org/timeline.jsp?timeline=civilliberties</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-06T12:15:29Z</dc:date>
+<dc:subject>article</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-06T11:37:02Z</dc:date>
+<dc:subject>gallery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cad-comic.com/comic.php">
+<title>Ctrl+Alt+Del</title>
+<link>http://www.cad-comic.com/comic.php</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-06T11:25:23Z</dc:date>
+<dc:subject>comic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=2402751682668296100">
+<title>Akira</title>
+<link>http://video.google.com/videoplay?docid=2402751682668296100</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-05T23:09:32Z</dc:date>
+<dc:subject>movies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.google.com/group/comp.text.tex/browse_thread/thread/5cb0b4db868f5a4e#">
+<title>LaTex to HTMLhelp - comp.text.tex | Google Grupper</title>
+<link>http://groups.google.com/group/comp.text.tex/browse_thread/thread/5cb0b4db868f5a4e#</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-05T19:44:35Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theoval.sys.uea.ac.uk/~nlct/latex/pdfdoc/pdfdoc/pdfdoc.html">
+<title>Creating a PDF document using PDFLATEX</title>
+<link>http://theoval.sys.uea.ac.uk/~nlct/latex/pdfdoc/pdfdoc/pdfdoc.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-04T23:46:27Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://olympus.het.brown.edu/~danieldf/latex/">
+<title>Welcome to Daniel Doro Ferrante's LaTeX Page</title>
+<link>http://olympus.het.brown.edu/~danieldf/latex/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-04T12:21:40Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kronto.org/thesis/tips/index.html">
+<title>General LaTeX tips and tricks</title>
+<link>http://www.kronto.org/thesis/tips/index.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-04T12:04:57Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sci.usq.edu.au/resources/LaTeX/ltxusecol.html">
+<title>LaTeX: Use colour</title>
+<link>http://www.sci.usq.edu.au/resources/LaTeX/ltxusecol.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-04T11:59:49Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/projects/gnuwin32/">
+<title>SourceForge.net: GnuWin32</title>
+<link>http://sourceforge.net/projects/gnuwin32/</link>
+<description>Windows compiles of various GNU tools</description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-04T08:36:04Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pi.bloo.us:800/academic/latex/plugin/">
+<title>Academic - Latex Forum Plugin</title>
+<link>http://pi.bloo.us:800/academic/latex/plugin/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-03T08:17:00Z</dc:date>
+<dc:subject>latex software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eksperten.dk/spm/831137">
+<title>Eksperten | Programmer :: E-mail :: Outlook :: Oprette Ost-fil uden outlook</title>
+<link>http://www.eksperten.dk/spm/831137</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-07-03T06:58:19Z</dc:date>
+<dc:subject>question</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/question" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cse.ohio-state.edu/~gurari/TeX4ht/#QQ1-1-32">
+<title>TeX4ht: LaTeX and TeX for Hypertext</title>
+<link>http://www.cse.ohio-state.edu/~gurari/TeX4ht/#QQ1-1-32</link>
+<description>TeX4ht: LaTeX and TeX for Hypertext</description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T23:50:09Z</dc:date>
+<dc:subject>latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/teTeX/latex/latex2e-html/ltx-2.html">
+<title>Help On LaTeX Commands</title>
+<link>http://www-h.eng.cam.ac.uk/help/tpl/textprocessing/teTeX/latex/latex2e-html/ltx-2.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T23:04:43Z</dc:date>
+<dc:subject>latex reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sts5984.anu.edu.au:8888/workbench/APSR/LaTeX-notes.odt.html">
+<title>Sustainability of LaTeX documents</title>
+<link>http://sts5984.anu.edu.au:8888/workbench/APSR/LaTeX-notes.odt.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T22:48:01Z</dc:date>
+<dc:subject>archiving latex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archiving" />
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chmox.sourceforge.net/">
+<title>Chmox - a Mac OS X CHM viewer</title>
+<link>http://chmox.sourceforge.net/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T12:24:39Z</dc:date>
+<dc:subject>chm mac software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chm" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.docbook.org/">
+<title>DocBook Wiki</title>
+<link>http://wiki.docbook.org/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T12:17:39Z</dc:date>
+<dc:subject>docbook wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/docbook" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://helpdesk.ugent.be/vpn/en/akkoord.php">
+<title>Cisco VPN client downloads</title>
+<link>http://helpdesk.ugent.be/vpn/en/akkoord.php</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T11:39:29Z</dc:date>
+<dc:subject>vpn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vpn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oasis-open.org/docbook/documentation/reference/html/docbook.html">
+<title>DocBook</title>
+<link>http://www.oasis-open.org/docbook/documentation/reference/html/docbook.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T10:18:35Z</dc:date>
+<dc:subject>docbook markup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/docbook" />
+    <rdf:li resource="http://del.icio.us/tag/markup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newbiedoc.sourceforge.net/metadoc/docbook-guide.html">
+<title>NewbieDoc Docbook Guide</title>
+<link>http://newbiedoc.sourceforge.net/metadoc/docbook-guide.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T10:17:54Z</dc:date>
+<dc:subject>docbook markup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/docbook" />
+    <rdf:li resource="http://del.icio.us/tag/markup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/l-docbk.html">
+<title>A gentle guide to DocBook</title>
+<link>http://www.ibm.com/developerworks/library/l-docbk.html</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T10:17:42Z</dc:date>
+<dc:subject>docbook markup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/docbook" />
+    <rdf:li resource="http://del.icio.us/tag/markup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lwn.net/2000/features/DocBook/">
+<title>Exploring SGML DocBook</title>
+<link>http://lwn.net/2000/features/DocBook/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-30T10:17:32Z</dc:date>
+<dc:subject>docbook markup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/docbook" />
+    <rdf:li resource="http://del.icio.us/tag/markup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xkcd.com/">
+<title>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</title>
+<link>http://www.xkcd.com/</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-29T10:35:56Z</dc:date>
+<dc:subject>comic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aalborgkommune.dk/Borgerportal/Erhverv+og+arbejde/Job/Jobs/Jobs.htm">
+<title>Aalborg Kommune - Ledige jobs i AaK</title>
+<link>http://www.aalborgkommune.dk/Borgerportal/Erhverv+og+arbejde/Job/Jobs/Jobs.htm</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T23:16:28Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.regionmidtjylland.dk/job">
+<title>Job- Region Midtjylland</title>
+<link>http://www.regionmidtjylland.dk/job</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T23:02:08Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scanjour.dk/index.aspx?id=7e01c673-34e1-49cf-94d3-f69b9c8e8e09">
+<title>Scan&#xB7;Jour - Ledige stillinger</title>
+<link>http://www.scanjour.dk/index.aspx?id=7e01c673-34e1-49cf-94d3-f69b9c8e8e09</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T22:58:55Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www3.kk.dk/job.aspx">
+<title>K&#xF8;benhavns Kommune - Job i K&#xF8;benhavns Kommune</title>
+<link>http://www3.kk.dk/job.aspx</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T22:41:42Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thisted.dk/Topmenu/Om%20os/Ledige%20stillinger.aspx">
+<title>Thisted Kommune - Ledige stillinger</title>
+<link>http://www.thisted.dk/Topmenu/Om%20os/Ledige%20stillinger.aspx</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T22:27:10Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ouh.dk/wm219713">
+<title>Ledige stillinger // Odense Universitetshospital</title>
+<link>http://www.ouh.dk/wm219713</link>
+<description></description>
+<dc:creator>nichlas</dc:creator>
+<dc:date>2008-06-27T22:24:11Z</dc:date>
+<dc:subject>ledige-stillinger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ledige-stillinger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

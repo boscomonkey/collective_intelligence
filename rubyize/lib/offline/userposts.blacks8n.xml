@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/blacks8n">
+<title>del.icio.us/blacks8n</title>
+<link>http://del.icio.us/blacks8n</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=jmR0V6s3NKk" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://designyoutrust.com/2008/07/03/where-photography-meets-illustration/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://www.ted.com/index.php/talks/ken_robinson_says_schools_kill_creativity.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://www.grokker.com/" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://bitcast-b.bitgravity.com/websitedown/index.html" />
+  <rdf:li rdf:resource="http://wordle.net/create" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox" />
+  <rdf:li rdf:resource="http://saludnutricionydeporte.com/imagenes/calendariofrutas.jpg" />
+  <rdf:li rdf:resource="http://www.codeplex.com/sushi" />
+  <rdf:li rdf:resource="http://www.codeplex.com/PAL" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.null-hypothesis.co.uk/science/strange-but-true/item/invention_failure_never_work_disaster" />
+  <rdf:li rdf:resource="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/" />
+  <rdf:li rdf:resource="http://wirednewyork.com/forum/showthread.php?t=5010" />
+  <rdf:li rdf:resource="http://trinixy.ru/michael_kenna.html" />
+  <rdf:li rdf:resource="http://www.techcult.com/high-tech-pranks/" />
+  <rdf:li rdf:resource="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying" />
+  <rdf:li rdf:resource="http://blog.thekid.me.uk/archive/2007/07/25/debugging-tips-for-sharepoint-and-wss-exceptions.aspx" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10" />
+  <rdf:li rdf:resource="http://www.wired.com/entertainment/hollywood/news/2007/09/geektv_reviews?currentPage=all" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/jigarme/archive/2007/10/29/how-to-break-in-windbg-when-particular-function-returns-specific-value.aspx" />
+  <rdf:li rdf:resource="http://www.sharepointonlinkedin.com/post/2008/04/Redgate-ANTS-Profiler-and-Sharepoint-2007.aspx" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page/" />
+  <rdf:li rdf:resource="http://www.arubamaps.info/Icons/arles_gallery/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-06T09:08:29Z</dc:date>
+<dc:subject>hacking howto security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-06T09:01:31Z</dc:date>
+<dc:subject>AI howto research writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Fundamental Particles and Interactions</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-06T08:48:31Z</dc:date>
+<dc:subject>chart images physics research science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=jmR0V6s3NKk">
+<title>YouTube - I Met The Walrus</title>
+<link>http://www.youtube.com/watch?v=jmR0V6s3NKk</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-05T21:02:33Z</dc:date>
+<dc:subject>animation art illustration interview politics video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-05T14:58:32Z</dc:date>
+<dc:subject>GTD audio psychology sleep webtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webtools" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designyoutrust.com/2008/07/03/where-photography-meets-illustration/">
+<title>Where Photography Meets Illustration</title>
+<link>http://designyoutrust.com/2008/07/03/where-photography-meets-illustration/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-05T14:57:15Z</dc:date>
+<dc:subject>art design gallery illustration photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-05T11:47:05Z</dc:date>
+<dc:subject>design photography photoshop stock textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/index.php/talks/ken_robinson_says_schools_kill_creativity.html">
+<title>TED | Talks | Sir Ken Robinson: Do schools kill creativity? (video)</title>
+<link>http://www.ted.com/index.php/talks/ken_robinson_says_schools_kill_creativity.html</link>
+<description>&#x26;quot;if you are not prepared to be wrong, you'll never come up with something original&#x26;quot;</description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-04T21:36:06Z</dc:date>
+<dc:subject>art fun innovation inspirational learning psychology science video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/inspirational" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-04T20:08:46Z</dc:date>
+<dc:subject>design howto patterns usability webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.grokker.com/">
+<title>Grokker - A Different Way to Look at Search</title>
+<link>http://www.grokker.com/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-03T22:34:48Z</dc:date>
+<dc:subject>aggregator design emergence search statistics tagging visualization webtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/webtools" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/emergence" />
+    <rdf:li resource="http://del.icio.us/tag/tagging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-03T19:12:47Z</dc:date>
+<dc:subject>algorithms del.icio.us marketing seo web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bitcast-b.bitgravity.com/websitedown/index.html">
+<title>The Website Is Down</title>
+<link>http://bitcast-b.bitgravity.com/websitedown/index.html</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-02T23:08:44Z</dc:date>
+<dc:subject>fun tech video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/create">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/create</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-02T20:27:08Z</dc:date>
+<dc:subject>art del.icio.us design tagging typography visualization webtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tagging" />
+    <rdf:li resource="http://del.icio.us/tag/webtools" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox">
+<title>50 songs to make you dance</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-07-02T18:56:48Z</dc:date>
+<dc:subject>dance dj music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+    <rdf:li resource="http://del.icio.us/tag/dj" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://saludnutricionydeporte.com/imagenes/calendariofrutas.jpg">
+<title>Calendario de Frutas</title>
+<link>http://saludnutricionydeporte.com/imagenes/calendariofrutas.jpg</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-30T22:26:01Z</dc:date>
+<dc:subject>cheatsheet cooking health sports</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/sports" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeplex.com/sushi">
+<title>SharePoint SUSHI</title>
+<link>http://www.codeplex.com/sushi</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-30T21:13:14Z</dc:date>
+<dc:subject>sharepoint software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeplex.com/PAL">
+<title>Performance Analysis of Logs</title>
+<link>http://www.codeplex.com/PAL</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-30T21:12:27Z</dc:date>
+<dc:subject>microsoft performance sharepoint software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>Programmer Competency Matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-30T21:04:18Z</dc:date>
+<dc:subject>development interview learning programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.null-hypothesis.co.uk/science/strange-but-true/item/invention_failure_never_work_disaster">
+<title>Famous Invention's They Said Would Never Work</title>
+<link>http://www.null-hypothesis.co.uk/science/strange-but-true/item/invention_failure_never_work_disaster</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-20T14:41:13Z</dc:date>
+<dc:subject>future history ideas innovation quotations science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quotations" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/">
+<title>The Best Developer Cheat Sheets Around | Webmasters by Design</title>
+<link>http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-20T14:02:32Z</dc:date>
+<dc:subject>cheatsheet css database development html javascript programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wirednewyork.com/forum/showthread.php?t=5010">
+<title>New York in Black and White - Wired New York Forum</title>
+<link>http://wirednewyork.com/forum/showthread.php?t=5010</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-19T23:44:05Z</dc:date>
+<dc:subject>gallery history photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trinixy.ru/michael_kenna.html">
+<title>Silent World by Michael Kenna</title>
+<link>http://trinixy.ru/michael_kenna.html</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-19T15:48:30Z</dc:date>
+<dc:subject>art gallery photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcult.com/high-tech-pranks/">
+<title>The 25 Best High-Tech Pranks</title>
+<link>http://www.techcult.com/high-tech-pranks/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-18T14:22:20Z</dc:date>
+<dc:subject>computers fun pranks tricks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tricks" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/pranks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying">
+<title>Windows Vista: How to Make Windows Vista Less Annoying</title>
+<link>http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-17T16:55:22Z</dc:date>
+<dc:subject>howto performance tricks windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tricks" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.thekid.me.uk/archive/2007/07/25/debugging-tips-for-sharepoint-and-wss-exceptions.aspx">
+<title>Debugging tips for SharePoint</title>
+<link>http://blog.thekid.me.uk/archive/2007/07/25/debugging-tips-for-sharepoint-and-wss-exceptions.aspx</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-17T10:06:08Z</dc:date>
+<dc:subject>debugging howto sharepoint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10">
+<title>Python: 50 modules for all needs</title>
+<link>http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-16T18:58:52Z</dc:date>
+<dc:subject>api development library programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/entertainment/hollywood/news/2007/09/geektv_reviews?currentPage=all">
+<title>Reviews: Best and Worst 'Geek TV' Pilots</title>
+<link>http://www.wired.com/entertainment/hollywood/news/2007/09/geektv_reviews?currentPage=all</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-14T00:50:54Z</dc:date>
+<dc:subject>fun tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/jigarme/archive/2007/10/29/how-to-break-in-windbg-when-particular-function-returns-specific-value.aspx">
+<title>Jigar Mehta's Blog : How to break in WinDbg when particular function returns specific value??</title>
+<link>http://blogs.msdn.com/jigarme/archive/2007/10/29/how-to-break-in-windbg-when-particular-function-returns-specific-value.aspx</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-13T23:28:05Z</dc:date>
+<dc:subject>debugging howto tricks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/tricks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sharepointonlinkedin.com/post/2008/04/Redgate-ANTS-Profiler-and-Sharepoint-2007.aspx">
+<title>Redgate ANTS Profiler and Sharepoint 2007</title>
+<link>http://www.sharepointonlinkedin.com/post/2008/04/Redgate-ANTS-Profiler-and-Sharepoint-2007.aspx</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-13T22:59:39Z</dc:date>
+<dc:subject>performance sharepoint statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/sharepoint" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page/">
+<title>15 Tools to Help You Develop Faster Web Pages - Six Revisions</title>
+<link>http://sixrevisions.com/tools/faster_web_page/</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-12T17:58:54Z</dc:date>
+<dc:subject>freeware performance software statistics test webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arubamaps.info/Icons/arles_gallery/index.html">
+<title>PNG Icon Gallery</title>
+<link>http://www.arubamaps.info/Icons/arles_gallery/index.html</link>
+<description></description>
+<dc:creator>blacks8n</dc:creator>
+<dc:date>2008-06-12T00:08:11Z</dc:date>
+<dc:subject>design gallery icons images stock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

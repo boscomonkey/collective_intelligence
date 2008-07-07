@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ricardas">
+<title>del.icio.us/ricardas</title>
+<link>http://del.icio.us/ricardas</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://wir-sprechen-online.com/tag/en/?We-speak-Online" />
+  <rdf:li rdf:resource="http://timelog.metanotes.com/" />
+  <rdf:li rdf:resource="http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html" />
+  <rdf:li rdf:resource="http://live.linux-gamers.net/" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/" />
+  <rdf:li rdf:resource="http://wefunction.com/2008/07/function-free-icon-set/" />
+  <rdf:li rdf:resource="http://1-800-magic.blogspot.com/2008/06/back-to-microsoft.html" />
+  <rdf:li rdf:resource="http://www.coollector.com/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://www.howtodothings.com/food-and-drink/how-to-open-a-beer-without-an-opener" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/" />
+  <rdf:li rdf:resource="http://blog.stuartherbert.com/php/2008/06/16/40-firefox-extensions-every-web-developer-should-check-out/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/starting-a-social-media-strategy/" />
+  <rdf:li rdf:resource="http://reencoded.com/2008/06/15/fourty-two-more-creative-business-card-designs/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/designer/33-new-places-to-get-design-inspiration/" />
+  <rdf:li rdf:resource="http://polaris.gseis.ucla.edu/pagre/leader.html" />
+  <rdf:li rdf:resource="http://www.createchange.org/" />
+  <rdf:li rdf:resource="http://www.time.com/time/health/article/0,8599,1812420,00.html?xid=rss-topstories" />
+  <rdf:li rdf:resource="http://ecmascript4.com/" />
+  <rdf:li rdf:resource="http://www.eduplace.com/graphicorganizer/" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/" />
+  <rdf:li rdf:resource="http://e-casawa.info/" />
+  <rdf:li rdf:resource="http://portal.l2s.ru/" />
+  <rdf:li rdf:resource="http://lifehacker.com/" />
+  <rdf:li rdf:resource="http://www.glidedigital.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-06T11:28:45Z</dc:date>
+<dc:subject>conversion freeware tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-06T11:26:59Z</dc:date>
+<dc:subject>install tips tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/">
+<title>How to Find Motivation for the Things You Hate Doing | PickTheBrain | Motivation and Self Improvement</title>
+<link>http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-06T11:24:21Z</dc:date>
+<dc:subject>howto lifehacks motivation tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-05T11:43:36Z</dc:date>
+<dc:subject>howto linux tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wir-sprechen-online.com/tag/en/?We-speak-Online">
+<title>.EN &#xAB; Wir sprechen Online.</title>
+<link>http://wir-sprechen-online.com/tag/en/?We-speak-Online</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T15:23:22Z</dc:date>
+<dc:subject>microblog online speak</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblog" />
+    <rdf:li resource="http://del.icio.us/tag/speak" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://timelog.metanotes.com/">
+<title>TIME LOG</title>
+<link>http://timelog.metanotes.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T15:19:10Z</dc:date>
+<dc:subject>log time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/log" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html">
+<title>Official Gmail Blog: Tip: Set Gmail as your default email client in Firefox 3</title>
+<link>http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T15:11:00Z</dc:date>
+<dc:subject>email google howto lifehacks tips tools tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://live.linux-gamers.net/">
+<title>live.linux-gamers.net</title>
+<link>http://live.linux-gamers.net/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T15:10:39Z</dc:date>
+<dc:subject>Games free gaming linux livecd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/livecd" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/">
+<title>The Simple Dollar &#xBB; A Clever Trick for Automatically Finding Deals You Want at Amazon</title>
+<link>http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T10:40:24Z</dc:date>
+<dc:subject>Shopping lifehacks tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/Shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wefunction.com/2008/07/function-free-icon-set/">
+<title>Function Web Design &#x26; Development [ Blog ] &#xBB; Blog Archive &#xBB; Free Icons: Function Icon Set, 128 Completely Free Icons</title>
+<link>http://wefunction.com/2008/07/function-free-icon-set/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-03T10:37:26Z</dc:date>
+<dc:subject>Free design graphics icons inspiration resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://1-800-magic.blogspot.com/2008/06/back-to-microsoft.html">
+<title>1-800-MAGIC: Back to Microsoft</title>
+<link>http://1-800-magic.blogspot.com/2008/06/back-to-microsoft.html</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-02T12:20:50Z</dc:date>
+<dc:subject>business career google management microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coollector.com/">
+<title>FREE: Personalized Movie Encyclopedia + Database of Existing Videos + Collection Organizer + Best Price Finder</title>
+<link>http://www.coollector.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-02T12:15:07Z</dc:date>
+<dc:subject>download freeware movies organizer tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/organizer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-02T12:11:47Z</dc:date>
+<dc:subject>lifehacks tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - send notes that will self-destruct after being read</title>
+<link>https://privnote.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-07-02T11:54:01Z</dc:date>
+<dc:subject>email freeware notes privacy service tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtodothings.com/food-and-drink/how-to-open-a-beer-without-an-opener">
+<title>How To Open a Beer Without an Opener | How To Do Things.com</title>
+<link>http://www.howtodothings.com/food-and-drink/how-to-open-a-beer-without-an-opener</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-19T19:31:14Z</dc:date>
+<dc:subject>beer bottle fun howto lifehacks tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beer" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/bottle" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/">
+<title>How to get Cross Browser Compatibility Every Time | Anthony Short | Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-19T19:30:26Z</dc:date>
+<dc:subject>tips tools tutorial web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/">
+<title>40+ Most Wanted Wordpress Tricks and Hacks</title>
+<link>http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:29:26Z</dc:date>
+<dc:subject>howto tips tools tutorial web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.stuartherbert.com/php/2008/06/16/40-firefox-extensions-every-web-developer-should-check-out/">
+<title>Stuart Herbert On PHP - &#xBB; 40 Firefox Extensions Every Web Developer Should Check Out</title>
+<link>http://blog.stuartherbert.com/php/2008/06/16/40-firefox-extensions-every-web-developer-should-check-out/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:27:36Z</dc:date>
+<dc:subject>fun tips tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/starting-a-social-media-strategy/">
+<title>Starting a Social Media Strategy | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/starting-a-social-media-strategy/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:26:53Z</dc:date>
+<dc:subject>howto tips web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reencoded.com/2008/06/15/fourty-two-more-creative-business-card-designs/">
+<title>Fourty-Two More Creative Business Card Designs</title>
+<link>http://reencoded.com/2008/06/15/fourty-two-more-creative-business-card-designs/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:26:36Z</dc:date>
+<dc:subject>businesscards design fun inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/businesscards" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/designer/33-new-places-to-get-design-inspiration/">
+<title>33 New Places to Get Design Inspiration - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/designer/33-new-places-to-get-design-inspiration/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:20:04Z</dc:date>
+<dc:subject>fun tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://polaris.gseis.ucla.edu/pagre/leader.html">
+<title>How to Be a Leader in Your Field</title>
+<link>http://polaris.gseis.ucla.edu/pagre/leader.html</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-17T01:18:35Z</dc:date>
+<dc:subject>howto tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.createchange.org/">
+<title>Create Change</title>
+<link>http://www.createchange.org/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-12T00:11:43Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.time.com/time/health/article/0,8599,1812420,00.html?xid=rss-topstories">
+<title>How Much Sleep Do You Really Need? - TIME</title>
+<link>http://www.time.com/time/health/article/0,8599,1812420,00.html?xid=rss-topstories</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-12T00:11:24Z</dc:date>
+<dc:subject>lifehacks tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ecmascript4.com/">
+<title>Mascara: ECMAScript 4 &#x2192; Classic Javascript translator - AppEngine</title>
+<link>http://ecmascript4.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-12T00:10:14Z</dc:date>
+<dc:subject>tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eduplace.com/graphicorganizer/">
+<title>Graphic Organizers</title>
+<link>http://www.eduplace.com/graphicorganizer/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-12T00:09:55Z</dc:date>
+<dc:subject>lifehacks tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/">
+<title>100 Helpful Web Tools for Every Kind of Learner | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-11T23:06:00Z</dc:date>
+<dc:subject>fun lifehacks tips tools tutorial web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e-casawa.info/">
+<title>e-Casawa.info - Sharing Website - Home</title>
+<link>http://e-casawa.info/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-06-03T23:16:09Z</dc:date>
+<dc:subject>joomla templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/joomla" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://portal.l2s.ru/">
+<title>Lineage2 blog RU</title>
+<link>http://portal.l2s.ru/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-05-30T16:31:17Z</dc:date>
+<dc:subject>Lineage2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lineage2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/">
+<title>Lifehacker, tips and downloads for getting things done</title>
+<link>http://lifehacker.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-05-30T14:24:21Z</dc:date>
+<dc:subject>design freeware fun howto inspiration lifehacks tips tools tutorial web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.glidedigital.com/">
+<title>Glide Effortless</title>
+<link>http://www.glidedigital.com/</link>
+<description></description>
+<dc:creator>ricardas</dc:creator>
+<dc:date>2008-05-30T09:23:52Z</dc:date>
+<dc:subject>design email freeware fun service tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

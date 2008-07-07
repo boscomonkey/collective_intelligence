@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jhjazz">
+<title>del.icio.us/jhjazz</title>
+<link>http://del.icio.us/jhjazz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/download.html" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://www.bible.ca/" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp" />
+  <rdf:li rdf:resource="http://home.iae.nl/users/mhx/crenshaw/tiny.html" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.archive.org/details/movies" />
+  <rdf:li rdf:resource="http://www.wikinvest.com/" />
+  <rdf:li rdf:resource="http://www.revolutionhealth.com/" />
+  <rdf:li rdf:resource="http://www.oculture.com/2007/07/freeonlinecourses.html" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/" />
+  <rdf:li rdf:resource="http://stronglifts.com/20-super-foods-you-need-to-build-muscle-lose-fat/" />
+  <rdf:li rdf:resource="http://www.gamequarium.com/" />
+  <rdf:li rdf:resource="http://www.edhelper.com/" />
+  <rdf:li rdf:resource="http://www.virustotal.com/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/06/08/st_goodposture.xml" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/" />
+  <rdf:li rdf:resource="http://www.freemusiczilla.com/" />
+  <rdf:li rdf:resource="http://www.thesixtyone.com/" />
+  <rdf:li rdf:resource="http://www.webupon.com/Audio/Music-Rules-2-Top-60-Music-Websites-That-Deliver-the-Greatest-Free-Music.132133?v=1" />
+  <rdf:li rdf:resource="http://www.techcult.com/high-tech-pranks/" />
+  <rdf:li rdf:resource="http://www.youserials.com/" />
+  <rdf:li rdf:resource="http://lilypond.org/web/" />
+  <rdf:li rdf:resource="http://www.timeanddate.com/" />
+  <rdf:li rdf:resource="http://www.howtogeek.com/howto/windows-vista/install-windows-xp-on-your-pre-installed-windows-vista-computer/" />
+  <rdf:li rdf:resource="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/naps/" />
+  <rdf:li rdf:resource="http://www.pppst.com/templates.html" />
+  <rdf:li rdf:resource="http://www.fool.com/" />
+  <rdf:li rdf:resource="http://www.marketwatch.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/download.html">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/download.html</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-06T12:20:57Z</dc:date>
+<dc:subject>converter freeware video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-06T12:20:24Z</dc:date>
+<dc:subject>install xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-06T12:19:59Z</dc:date>
+<dc:subject>self-help shyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/self-help" />
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bible.ca/">
+<title>Interactive Bible Home Page www.bible.ca</title>
+<link>http://www.bible.ca/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-06T12:19:30Z</dc:date>
+<dc:subject>bible christian</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/christian" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp">
+<title>The 11 Best Foods You Arent Eating - Well - Tara Parker-Pope - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-01T12:09:52Z</dc:date>
+<dc:subject>health nutrition</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nutrition" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.iae.nl/users/mhx/crenshaw/tiny.html">
+<title>Let's Build a Compiler: Tiny Kiss in iForth</title>
+<link>http://home.iae.nl/users/mhx/crenshaw/tiny.html</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-07-01T12:09:37Z</dc:date>
+<dc:subject>programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>posterous - The place to post everything. Just email us.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-29T14:49:19Z</dc:date>
+<dc:subject>free service</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.archive.org/details/movies">
+<title>Internet Archive: Moving Image Archive</title>
+<link>http://www.archive.org/details/movies</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-29T14:48:53Z</dc:date>
+<dc:subject>Archive free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/Archive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikinvest.com/">
+<title>Investing Wiki with Research about Companies, Investment Concepts, and more...</title>
+<link>http://www.wikinvest.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-26T12:46:22Z</dc:date>
+<dc:subject>investing research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.revolutionhealth.com/">
+<title>Revolution Health - Start your Revolution - Revolution Health</title>
+<link>http://www.revolutionhealth.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-26T12:45:42Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oculture.com/2007/07/freeonlinecourses.html">
+<title>Free Online Courses from Great Universities | Open Culture</title>
+<link>http://www.oculture.com/2007/07/freeonlinecourses.html</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-20T06:30:32Z</dc:date>
+<dc:subject>free learning/ebooks online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/learning/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/">
+<title>57 Useful Google Tools You&#x2019;ve Never Heard Of | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-20T06:29:54Z</dc:date>
+<dc:subject>Google tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stronglifts.com/20-super-foods-you-need-to-build-muscle-lose-fat/">
+<title>20 Super Foods You Need to Build Muscle &#x26; Lose Fat | StrongLifts.com</title>
+<link>http://stronglifts.com/20-super-foods-you-need-to-build-muscle-lose-fat/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-20T06:29:35Z</dc:date>
+<dc:subject>food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamequarium.com/">
+<title>Gamequarium: A portal to thousands of free, online learning games and activities for Pre-School through Grade 6 students compiled by Diana Dell.</title>
+<link>http://www.gamequarium.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-19T14:38:56Z</dc:date>
+<dc:subject>kids learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edhelper.com/">
+<title>edHelper.com - Math, Reading Comprehension, Themes, Lesson Plans, and Worksheets</title>
+<link>http://www.edhelper.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-19T14:38:31Z</dc:date>
+<dc:subject>kids learning lessons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/lessons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virustotal.com/">
+<title>VirusTotal - Free Online Virus and Malware Scan</title>
+<link>http://www.virustotal.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-19T14:04:08Z</dc:date>
+<dc:subject>online scan virus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/virus" />
+    <rdf:li resource="http://del.icio.us/tag/scan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/06/08/st_goodposture.xml">
+<title>The knowledge: how to improve your posture - Telegraph</title>
+<link>http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/06/08/st_goodposture.xml</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T11:11:01Z</dc:date>
+<dc:subject>advice posture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/posture" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/">
+<title>37 FREE Must-Have Fonts - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T11:10:39Z</dc:date>
+<dc:subject>Fonts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freemusiczilla.com/">
+<title>Free Music Zilla: Free Pandora&#x2122;, IMEEM&#x2122;, Last.fm&#x2122;, Myspace, eSnips&#x2122;... Downloader - Download Pandora&#x2122;, IMEEM&#x2122;, Last.fm&#x2122;, Myspace, eSnips&#x2122;... Free!</title>
+<link>http://www.freemusiczilla.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T11:07:48Z</dc:date>
+<dc:subject>download music software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesixtyone.com/">
+<title>thesixtyone - a music adventure</title>
+<link>http://www.thesixtyone.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T11:06:57Z</dc:date>
+<dc:subject>Music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webupon.com/Audio/Music-Rules-2-Top-60-Music-Websites-That-Deliver-the-Greatest-Free-Music.132133?v=1">
+<title>Music Rules 2: Top 45 Music Websites That Deliver the Greatest Free Music</title>
+<link>http://www.webupon.com/Audio/Music-Rules-2-Top-60-Music-Websites-That-Deliver-the-Greatest-Free-Music.132133?v=1</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T11:06:10Z</dc:date>
+<dc:subject>Music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcult.com/high-tech-pranks/">
+<title>The 25 Best High-Tech Pranks</title>
+<link>http://www.techcult.com/high-tech-pranks/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-18T10:24:48Z</dc:date>
+<dc:subject>pranks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pranks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youserials.com/">
+<title>YouSerials.com - The KEY to Serial Numbers!</title>
+<link>http://www.youserials.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:20:48Z</dc:date>
+<dc:subject>search serials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/serials" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lilypond.org/web/">
+<title>LilyPond, music notation for everyone</title>
+<link>http://lilypond.org/web/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:18:01Z</dc:date>
+<dc:subject>music notation opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/notation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timeanddate.com/">
+<title>timeanddate.com</title>
+<link>http://www.timeanddate.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:15:48Z</dc:date>
+<dc:subject>calendar tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtogeek.com/howto/windows-vista/install-windows-xp-on-your-pre-installed-windows-vista-computer/">
+<title>Install Windows XP on Your Pre-Installed Windows Vista Computer :: the How-To Geek</title>
+<link>http://www.howtogeek.com/howto/windows-vista/install-windows-xp-on-your-pre-installed-windows-vista-computer/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:11:56Z</dc:date>
+<dc:subject>dualboot installation vista xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dualboot" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/installation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying">
+<title>Windows Vista: How to Make Windows Vista Less Annoying</title>
+<link>http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:10:35Z</dc:date>
+<dc:subject>tweaks vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/naps/">
+<title>How to nap - Boston.com</title>
+<link>http://www.boston.com/bostonglobe/ideas/naps/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-06-17T16:09:51Z</dc:date>
+<dc:subject>nap sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/nap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pppst.com/templates.html">
+<title>Free Templates to use in your presentations created in PowerPoint format</title>
+<link>http://www.pppst.com/templates.html</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-05-19T08:40:42Z</dc:date>
+<dc:subject>powerpointtemplates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpointtemplates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fool.com/">
+<title>Fool.com: Stock Market Advice | Stock Investing Advice</title>
+<link>http://www.fool.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-05-19T08:27:53Z</dc:date>
+<dc:subject>investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marketwatch.com/">
+<title>MarketWatch.com: Stock Market Quotes - Business News - Financial News</title>
+<link>http://www.marketwatch.com/</link>
+<description></description>
+<dc:creator>jhjazz</dc:creator>
+<dc:date>2008-05-19T08:27:34Z</dc:date>
+<dc:subject>investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

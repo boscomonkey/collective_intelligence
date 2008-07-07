@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hekoking">
+<title>del.icio.us/hekoking</title>
+<link>http://del.icio.us/hekoking</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.designwalker.com/2008/05/wp-themes.html" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-423.html" />
+  <rdf:li rdf:resource="http://www.darrenhoyt.com/2007/08/05/wordpress-magazine-theme-released/" />
+  <rdf:li rdf:resource="http://www.uetyi.instat.ne.jp/wordpress/?p=158" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/akio0911/20080416/1208362130" />
+  <rdf:li rdf:resource="http://nullpopopo.blogcube.info/2008/01/sed.html" />
+  <rdf:li rdf:resource="http://www.satoshiabe.jp/sed-notes.html" />
+  <rdf:li rdf:resource="http://www.gcd.org/sengoku/sedlec/" />
+  <rdf:li rdf:resource="http://www.linux.or.jp/JM/html/GNU_sed/man1/sed.1.html" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230879/" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/passengermod_rails%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E6%89%8B%E8%BB%BD%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%80%8Cpassengerprefpane%E3%80%8D/" />
+  <rdf:li rdf:resource="http://labs.unoh.net/2008/07/emacstips_1.html" />
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-389.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/boltman/20080702/1214956710" />
+  <rdf:li rdf:resource="http://www.balsamiq.com/#" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/ispring_free/" />
+  <rdf:li rdf:resource="http://blog.miraclelinux.com/yume/2008/07/post-b58f.html" />
+  <rdf:li rdf:resource="http://sweetlovexx.seesaa.net/article/102005614.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/skybluecanvas/" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www.mnet.ne.jp/~nakama/" />
+  <rdf:li rdf:resource="http://www.myipneighbors.com/" />
+  <rdf:li rdf:resource="http://www.coins.tsukuba.ac.jp/~yas/coins/syspro-2001/2001-06-25/" />
+  <rdf:li rdf:resource="http://www.sakura.ad.jp/services/eos/sakura_dedicated/specification.html" />
+  <rdf:li rdf:resource="http://park1.wakwak.com/~ima/centos4_top.html" />
+  <rdf:li rdf:resource="http://www.geocities.jp/geo_sunisland/index.html" />
+  <rdf:li rdf:resource="http://www.foxnews.com/story/0,2933,174333,00.html" />
+  <rdf:li rdf:resource="http://www.m-net.ne.jp/~k-web/beppyo/index.html" />
+  <rdf:li rdf:resource="http://www.1x1.jp/blog/2007/01/corporation_tax.html" />
+  <rdf:li rdf:resource="http://www.tky-ma.net/page035.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.designwalker.com/2008/05/wp-themes.html">
+<title>&#x7121;&#x6599;&#x3067;&#x4F7F;&#x3048;&#x308B;WordPress&#x30C6;&#x30FC;&#x30DE;&#x30AE;&#x30E3;&#x30E9;&#x30EA;&#x30FC; / &#x304A;&#x91D1;&#x3092;&#x6255;&#x3063;&#x3066;&#x3067;&#x3082;&#x624B;&#x306B;&#x5165;&#x308C;&#x305F;&#x3044;&#x30D7;&#x30EC;&#x30DF;&#x30A2;&#x30E0;&#x30C6;&#x30FC;&#x30DE;&#x307E;&#x3068;&#x3081; - DesignWalker</title>
+<link>http://www.designwalker.com/2008/05/wp-themes.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T12:33:00Z</dc:date>
+<dc:subject>wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-423.html">
+<title>2008&#x5E74;3&#x6708; wordpress&#x30D7;&#x30E9;&#x30B0;&#x30A4;&#x30F3;&#x307E;&#x3068;&#x3081;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-423.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T12:30:53Z</dc:date>
+<dc:subject>plugin wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.darrenhoyt.com/2007/08/05/wordpress-magazine-theme-released/">
+<title>Wordpress Magazine Theme Released | Darren Hoyt Dot Com</title>
+<link>http://www.darrenhoyt.com/2007/08/05/wordpress-magazine-theme-released/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T11:53:25Z</dc:date>
+<dc:subject>design wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uetyi.instat.ne.jp/wordpress/?p=158">
+<title>&#x65B0;&#x68EE;&#x304B;&#x3089;&#x306E;&#x96D1;&#x8A18; - expect&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x306E;&#x4F7F;&#x3044;&#x65B9;&#xFF08;telnet&#x3092;&#x30B7;&#x30A7;&#x30EB;&#x3067;&#x81EA;&#x52D5;&#x5B9F;&#x884C;&#x3059;&#x308B;&#xFF09;</title>
+<link>http://www.uetyi.instat.ne.jp/wordpress/?p=158</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T08:13:37Z</dc:date>
+<dc:subject>expect</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/akio0911/20080416/1208362130">
+<title>ruby&#x304B;&#x3089;postgres&#x3092;&#x6271;&#x3048;&#x308B;&#x3088;&#x3046;&#x306B;&#x3059;&#x308B; - &#x4F50;&#x85E4;&#x4F38;&#x543E;(akio0911)&#x306E;&#x30C7;&#x30B8;&#x30BF;&#x30EB;&#x30E9;&#x30A4;&#x30D5;&#x30CF;&#x30C3;&#x30AF;</title>
+<link>http://d.hatena.ne.jp/akio0911/20080416/1208362130</link>
+<description>&#x25A0;[ruby]ruby&#x304B;&#x3089;postgres&#x3092;&#x6271;&#x3048;&#x308B;&#x3088;&#x3046;&#x306B;&#x3059;&#x308B;</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T07:42:41Z</dc:date>
+<dc:subject>postgre ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/postgre" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nullpopopo.blogcube.info/2008/01/sed.html">
+<title>&#x3010;sed&#x3011;&#x3010;&#x5C0F;&#x30CD;&#x30BF;&#x3011;&#x3042;&#x308B;&#x884C;&#x306B;&#x6587;&#x5B57;&#x5217;&#x3092;&#x633F;&#x5165;&#x3057;&#x3064;&#x3064;&#x7F6E;&#x63DB;&#x3059;&#x308B; - nullpopopo</title>
+<link>http://nullpopopo.blogcube.info/2008/01/sed.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T05:50:13Z</dc:date>
+<dc:subject>sed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.satoshiabe.jp/sed-notes.html">
+<title>satoshiabe.jp : SED notes</title>
+<link>http://www.satoshiabe.jp/sed-notes.html</link>
+<description>&#x633F;&#x5165;</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T05:50:09Z</dc:date>
+<dc:subject>sed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gcd.org/sengoku/sedlec/">
+<title>SED Lecture</title>
+<link>http://www.gcd.org/sengoku/sedlec/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T05:36:49Z</dc:date>
+<dc:subject>sed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.or.jp/JM/html/GNU_sed/man1/sed.1.html">
+<title>Manpage of SED</title>
+<link>http://www.linux.or.jp/JM/html/GNU_sed/man1/sed.1.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T05:06:46Z</dc:date>
+<dc:subject>sed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230879/">
+<title>&#x3010; sed &#x3011; &#x6587;&#x5B57;&#x5217;&#x306E;&#x7F6E;&#x63DB;&#xFF0C;&#x884C;&#x306E;&#x524A;&#x9664;&#x3092;&#x884C;&#x3046;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20060227/230879/</link>
+<description>&#x306E;&#x5F8C;&#x306B;&#x633F;&#x5165;</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T05:06:35Z</dc:date>
+<dc:subject>sed</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/passengermod_rails%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E6%89%8B%E8%BB%BD%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%80%8Cpassengerprefpane%E3%80%8D/">
+<title>MOONGIFT: &#xBB; Passenger(mod_rails)&#x3092;&#x3082;&#x3063;&#x3068;&#x624B;&#x8EFD;&#x306B;&#x6D3B;&#x7528;&#x3059;&#x308B;&#x300C;Passenger.prefPane&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/passengermod_rails%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E6%89%8B%E8%BB%BD%E3%81%AB%E6%B4%BB%E7%94%A8%E3%81%99%E3%82%8B%E3%80%8Cpassengerprefpane%E3%80%8D/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T03:06:25Z</dc:date>
+<dc:subject>mod_rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mod_rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.unoh.net/2008/07/emacstips_1.html">
+<title>&#x30A6;&#x30CE;&#x30A6;&#x30E9;&#x30DC; Unoh Labs: &#x7D9A;&#x30FB;Emacs&#x3092;&#x81EA;&#x5206;&#x3067;&#x62E1;&#x5F35;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;Tips</title>
+<link>http://labs.unoh.net/2008/07/emacstips_1.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T03:05:43Z</dc:date>
+<dc:subject>emacs lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283">
+<title>&#x4F01;&#x696D;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;CMS&#x4E00;&#x6319;12&#x7A2E;&#x985E;&#x89E3;&#x8AAC;&#xFF08;&#x6A5F;&#x80FD;&#x3084;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;/&#x7BA1;&#x7406;&#x306E;&#x96E3;&#x6613;&#x5EA6;&#x8A55;&#x4FA1;&#x4ED8;&#x304D;&#xFF09; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/07/04/3283</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:29:46Z</dc:date>
+<dc:subject>cms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-389.html">
+<title>web&#x30B5;&#x30A4;&#x30C8;&#x306B;&#x3001;&#x3042;&#x308B;&#x753B;&#x50CF;&#x3092;&#x5165;&#x308C;&#x308B;&#x3060;&#x3051;&#x3067;&#x30A2;&#x30AF;&#x30BB;&#x30B9;&#x6570;&#x304C;3&#x500D;&#x306B;&#x306A;&#x308B;&#x30CD;&#x30C3;&#x30C8;&#x793E;&#x4F1A;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-389.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:14:05Z</dc:date>
+<dc:subject>seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/boltman/20080702/1214956710">
+<title>&#x30D9;&#x30F3;&#x30C1;&#x30E3;&#x30FC;&#x4F01;&#x696D;&#x306E;&#x305F;&#x3081;&#x306E;&#x30B9;&#x30C8;&#x30C3;&#x30AF;&#x30AA;&#x30D7;&#x30B7;&#x30E7;&#x30F3;&#x767A;&#x884C;&#x8853; - &#x5143;&#x30D5;&#x30A1;&#x30F3;&#x30C9;&#x30DE;&#x30CD;&#x30FC;&#x30B8;&#x30E3;&#x30FC;&#x306E;&#x30D0;&#x30A4;&#x30C8;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/boltman/20080702/1214956710</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:11:58Z</dc:date>
+<dc:subject>stockoption</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stockoption" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.balsamiq.com/#">
+<title>Balsamiq Studios, makers of plugins for Web Office applications | Balsamiq</title>
+<link>http://www.balsamiq.com/#</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:11:49Z</dc:date>
+<dc:subject>flash generator webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/ispring_free/">
+<title>MOONGIFT: &#xBB; &#x3042;&#x306A;&#x305F;&#x306E;&#x30D1;&#x30EF;&#x30FC;&#x30DD;&#x30A4;&#x30F3;&#x30C8;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x7D20;&#x6575;&#x306A;Flash&#x306B;&#x300C;iSpring Free&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/ispring_free/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:11:29Z</dc:date>
+<dc:subject>flash powerpoing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoing" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.miraclelinux.com/yume/2008/07/post-b58f.html">
+<title>&#x30E6;&#x30E1;&#x306E;&#x30C1;&#x30AB;&#x30E9;: &#x53D6;&#x7DE0;&#x5F79;&#x9000;&#x4EFB;&#x3002;&#x751F;&#x6DAF;&#x4E00;&#x30D7;&#x30ED;&#x30B0;&#x30E9;&#x30DE;&#x5BA3;&#x8A00;&#x3002;</title>
+<link>http://blog.miraclelinux.com/yume/2008/07/post-b58f.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:11:13Z</dc:date>
+<dc:subject>blog engineer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/engineer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sweetlovexx.seesaa.net/article/102005614.html">
+<title>&#x56FD;&#x5185;&#x30BD;&#x30FC;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30AF;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x307E;&#x3068;&#x3081; :: Love &#x26; Design ::</title>
+<link>http://sweetlovexx.seesaa.net/article/102005614.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T02:11:01Z</dc:date>
+<dc:subject>socialbookmarking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialbookmarking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/skybluecanvas/">
+<title>MOONGIFT: &#xBB; &#x5C0F;&#x301C;&#x4E2D;&#x898F;&#x6A21;&#x306A;Web&#x30B5;&#x30A4;&#x30C8;&#x69CB;&#x7BC9;&#x306B;&#x3074;&#x3063;&#x305F;&#x308A;&#x306A;CMS&#x300C;SkyBlueCanvas&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/skybluecanvas/</link>
+<description>SkyBlueCanvas&#x306F;&#x30C7;&#x30FC;&#x30BF;&#x30D9;&#x30FC;&#x30B9;&#x3092;&#x5FC5;&#x8981;&#x3068;&#x3057;&#x306A;&#x3044;&#x3001;XML&#x3092;&#x30D9;&#x30FC;&#x30B9;&#x3068;&#x3057;&#x305F;CMS&#x3060;&#x3002;</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T01:42:03Z</dc:date>
+<dc:subject>cms opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-06T01:33:08Z</dc:date>
+<dc:subject>accounting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mnet.ne.jp/~nakama/">
+<title>&#x30B5;&#x30EB;&#x306B;&#x3082;&#x308F;&#x304B;&#x308B;&#x6B63;&#x898F;&#x8868;&#x73FE;&#x5165;&#x9580;</title>
+<link>http://www.mnet.ne.jp/~nakama/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T09:23:09Z</dc:date>
+<dc:subject>&#x6B63;&#x898F;&#x8868;&#x73FE;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myipneighbors.com/">
+<title>myIPneighbors.com Reverse IP Domain Check DNS Tool</title>
+<link>http://www.myipneighbors.com/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T09:22:52Z</dc:date>
+<dc:subject>server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/server" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coins.tsukuba.ac.jp/~yas/coins/syspro-2001/2001-06-25/">
+<title>&#x30B9;&#x30AF;&#x30EA;&#x30D7;&#x30C8;&#x8A00;&#x8A9E;sed&#x3001;awk</title>
+<link>http://www.coins.tsukuba.ac.jp/~yas/coins/syspro-2001/2001-06-25/</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T06:20:28Z</dc:date>
+<dc:subject>awk sed shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sed" />
+    <rdf:li resource="http://del.icio.us/tag/awk" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sakura.ad.jp/services/eos/sakura_dedicated/specification.html">
+<title>[&#x53D7;&#x4ED8;&#x7D42;&#x4E86;]:SAKURA.AD.JP // &#x3055;&#x304F;&#x3089;&#x306E;&#x5C02;&#x7528;&#x30B5;&#x30FC;&#x30D0;</title>
+<link>http://www.sakura.ad.jp/services/eos/sakura_dedicated/specification.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T05:57:07Z</dc:date>
+<dc:subject>server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/server" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://park1.wakwak.com/~ima/centos4_top.html">
+<title>&#x3054;&#x3063;&#x305F;&#x716E; - Linux&#x5C0E;&#x5165;&#x8A18;(&#x899A;&#x3048;&#x66F8;&#x304D;) - CentOS4/CentOS5</title>
+<link>http://park1.wakwak.com/~ima/centos4_top.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T04:52:15Z</dc:date>
+<dc:subject>centos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/centos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geocities.jp/geo_sunisland/index.html">
+<title>UNIX &#x26; Linux &#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x30FB;&#x30B7;&#x30A7;&#x30EB;&#x30B9;&#x30AF;&#x30EA;&#x30D7;&#x30C8; &#x30EA;&#x30D5;&#x30A1;&#x30EC;&#x30F3;&#x30B9;</title>
+<link>http://www.geocities.jp/geo_sunisland/index.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T03:57:26Z</dc:date>
+<dc:subject>shellscript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shellscript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.foxnews.com/story/0,2933,174333,00.html">
+<title>FOXNews.com - Dvorak: Learning From Google - Science News | Science &#x26; Technology | Technology News</title>
+<link>http://www.foxnews.com/story/0,2933,174333,00.html</link>
+<description>The top executives at Google recently admitted that they kind of let their employees invent and develop whatever they think is cool and the company has no problem putting it online to see what happens.</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-05T03:38:07Z</dc:date>
+<dc:subject>column google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/column" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.m-net.ne.jp/~k-web/beppyo/index.html">
+<title>&#x6CD5;&#x4EBA;&#x7A0E;&#x306E;&#x78BA;&#x5B9A;&#x7533;&#x544A;&#x66F8;&#x306E;&#x5225;&#x8868;&#x306E;&#x66F8;&#x304D;&#x65B9;&#x5E73;&#x6210;18&#x5E74;&#x5EA6;</title>
+<link>http://www.m-net.ne.jp/~k-web/beppyo/index.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-04T01:52:04Z</dc:date>
+<dc:subject>&#x78BA;&#x5B9A;&#x7533;&#x544A;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.1x1.jp/blog/2007/01/corporation_tax.html">
+<title>&#x6CD5;&#x4EBA;&#x306E;&#x78BA;&#x5B9A;&#x7533;&#x544A; | Shin x blog</title>
+<link>http://www.1x1.jp/blog/2007/01/corporation_tax.html</link>
+<description></description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-04T01:51:49Z</dc:date>
+<dc:subject>accounting &#x78BA;&#x5B9A;&#x7533;&#x544A;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tky-ma.net/page035.html">
+<title>&#x6C7A;&#x7B97;&#x7533;&#x544A;&#x3092;&#x3057;&#x3066;&#x3044;&#x306A;&#x3044;&#xFF08;&#x5EC3;&#x696D;&#x306E;&#x57FA;&#x6E96;&#xFF09;</title>
+<link>http://www.tky-ma.net/page035.html</link>
+<description>&#x7406;&#x7531;&#x306F;&#x69D8;&#x3005;&#x3067;&#x3057;&#x3087;&#x3046;&#x304C;&#x3001;&#x5F53;&#x7136;&#x597D;&#x307E;&#x3057;&#x3044;&#x3053;&#x3068;&#x3067;&#x306F;&#x3042;&#x308A;&#x307E;&#x305B;&#x3093;&#xFF08;&#x9055;&#x6CD5;&#x306A;&#x3053;&#x3068;&#x3067;&#x3059;&#xFF09;&#x3002;
+
+&#x7121;&#x7533;&#x544A;&#x72B6;&#x614B;&#x3067;&#x3044;&#x308B;&#x3068;&#x3001;&#x7A0E;&#x52D9;&#x7F72;&#x3092;&#x306F;&#x3058;&#x3081;&#x3068;&#x3059;&#x308B;&#x7A0E;&#x52D9;&#x95A2;&#x9023;&#x5F79;&#x6240;&#x304B;&#x3089;&#x7533;&#x544A;&#x3059;&#x308B;&#x3088;&#x3046;&#x306B;&#x3068;&#x96FB;&#x8A71;&#x3084;&#x66F8;&#x9762;
+&#x3067;&#x518D;&#x4E09;&#x306B;&#x308F;&#x305F;&#x308A;</description>
+<dc:creator>hekoking</dc:creator>
+<dc:date>2008-07-04T01:50:59Z</dc:date>
+<dc:subject>accounting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

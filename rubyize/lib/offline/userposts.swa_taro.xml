@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/swa_taro">
+<title>del.icio.us/swa_taro</title>
+<link>http://del.icio.us/swa_taro</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/column/ide/034/" />
+  <rdf:li rdf:resource="http://phpspot.org/blog/archives/2008/06/csscss_layout_c.html" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/work/1234.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons" />
+  <rdf:li rdf:resource="http://shugo.net/ruby-codeconv/codeconv.html" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1233.html" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/?ST=develop&#x26;P=1" />
+  <rdf:li rdf:resource="http://phpspot.org/blog/archives/2008/06/post_217.html" />
+  <rdf:li rdf:resource="http://gigazine.net/index.php?/news/comments/20080624_how_to_avoid_camera_shake/" />
+  <rdf:li rdf:resource="http://wiredvision.jp/news/200806/2008062421.html" />
+  <rdf:li rdf:resource="http://civic.xrea.jp/2006/06/09/struts-using-list/" />
+  <rdf:li rdf:resource="http://weblibrary.s224.xrea.com/weblog/firefox/firefox3_video.html" />
+  <rdf:li rdf:resource="http://lab.tubonotubo.jp/tools/webdeveloper/index.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/articles/2008/06/22/air/menu.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/rubeus/" />
+  <rdf:li rdf:resource="http://qwik.rubybizcommons.jp/members/417.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/KAZUMiX/20060913/1158135318" />
+  <rdf:li rdf:resource="http://www.456bereastreet.com/archive/200609/css_frames_v2_fullheight/" />
+  <rdf:li rdf:resource="http://css-eblog.com/csstechnique/post-12.html" />
+  <rdf:li rdf:resource="http://blackshadow.seesaa.net/article/101156674.html" />
+  <rdf:li rdf:resource="http://sweetlovexx.seesaa.net/article/90107619.html" />
+  <rdf:li rdf:resource="http://jp.rubyist.net/RubyKaigi2007/Log0610-S1-03.html" />
+  <rdf:li rdf:resource="http://openwferu.rubyforge.org/ja/index.html" />
+  <rdf:li rdf:resource="http://mozilla-remix.seesaa.net/article/100971672.html" />
+  <rdf:li rdf:resource="http://www.techdego.com/2007/01/firefox.php" />
+  <rdf:li rdf:resource="http://www.limy.org/program/java/checkstyle/" />
+  <rdf:li rdf:resource="http://www003.upp.so-net.ne.jp/kaz-taka/checkstyle/4.1/config_naming.html" />
+  <rdf:li rdf:resource="http://www.ideo.com/visualizer.html" />
+  <rdf:li rdf:resource="http://www.develop-memo.com/java/eclipseplugin/checkstyle.html" />
+  <rdf:li rdf:resource="http://at-aka.blogspot.com/2008/06/firefox-extentions-firefox-3.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-07-06T01:21:28Z</dc:date>
+<dc:subject>accounting learning study wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/column/ide/034/">
+<title>&#x3010;&#x30B3;&#x30E9;&#x30E0;&#x3011;&#x30A4;&#x30DE;&#x30C9;&#x30AD;&#x306E;IDE&#x4E8B;&#x60C5; (34) Eclipse&#x306E;&#x30B7;&#x30E7;&#x30FC;&#x30C8;&#x30AB;&#x30C3;&#x30C8;&#x3092;&#x4F7F;&#x3044;&#x3053;&#x306A;&#x305D;&#x3046; | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/column/ide/034/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-07-04T13:56:00Z</dc:date>
+<dc:subject>eclipse shortcut</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/shortcut" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phpspot.org/blog/archives/2008/06/csscss_layout_c.html">
+<title>CSS&#x30EC;&#x30A4;&#x30A2;&#x30A6;&#x30C8;&#x306E;&#x30C1;&#x30FC;&#x30C8;&#x96C6;&#x300C;CSS Layout Cheats&#x300D;:phpspot&#x958B;&#x767A;&#x65E5;&#x8A8C;</title>
+<link>http://phpspot.org/blog/archives/2008/06/csscss_layout_c.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-30T02:59:24Z</dc:date>
+<dc:subject>cheatsheet css webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/work/1234.html">
+<title>&#x30AF;&#x30ED;&#x30B9;&#x30D6;&#x30E9;&#x30A6;&#x30B6;&#x306E;&#x305F;&#x3081;&#x306E;HTML/CSS&#x306E;&#x30C6;&#x30AF;&#x30CB;&#x30C3;&#x30AF;&#x96C6; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/work/1234.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-30T00:37:31Z</dc:date>
+<dc:subject>browser css html tips webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons">
+<title>Firefox 3&#x306B;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x3057;&#x3066;&#x3044;&#x308B;&#x30A2;&#x30C9;&#x30AA;&#x30F3; - soundscape out</title>
+<link>http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-30T00:35:29Z</dc:date>
+<dc:subject>addon extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shugo.net/ruby-codeconv/codeconv.html">
+<title>Ruby&#x30B3;&#x30FC;&#x30C7;&#x30A3;&#x30F3;&#x30B0;&#x898F;&#x7D04;</title>
+<link>http://shugo.net/ruby-codeconv/codeconv.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-27T03:46:13Z</dc:date>
+<dc:subject>coding document programming reference ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/document" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1233.html">
+<title>&#x30B0;&#x30E9;&#x30C7;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x3092;&#x30DE;&#x30B9;&#x30BF;&#x30FC;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;Photoshop&#x306E;&#x30C1;&#x30E5;&#x30FC;&#x30C8;&#x30EA;&#x30A2;&#x30EB;&#x96C6; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1233.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-26T03:56:00Z</dc:date>
+<dc:subject>graients webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/graients" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/?ST=develop&#x26;P=1">
+<title>Part5&#x3000;Mac OS X&#x306E;UNIX&#x306A;&#x4F7F;&#x3044;&#x65B9;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/?ST=develop&#x26;P=1</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-26T03:15:40Z</dc:date>
+<dc:subject>mac osx shell unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phpspot.org/blog/archives/2008/06/post_217.html">
+<title>&#x7D19;&#x3001;&#x30DA;&#x30A4;&#x30F3;&#x30C8;&#x3001;&#x30E1;&#x30BF;&#x30EB;&#x306E;&#x30C6;&#x30AF;&#x30B9;&#x30C1;&#x30E3;&#x753B;&#x50CF;&#x96C6;:phpspot&#x958B;&#x767A;&#x65E5;&#x8A8C;</title>
+<link>http://phpspot.org/blog/archives/2008/06/post_217.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-25T04:00:44Z</dc:date>
+<dc:subject>photoshop texture webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/texture" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gigazine.net/index.php?/news/comments/20080624_how_to_avoid_camera_shake/">
+<title>&#x624B;&#x3076;&#x308C;&#x3092;&#x8EFD;&#x6E1B;&#x3055;&#x305B;&#x308B;6&#x3064;&#x306E;&#x64AE;&#x5F71;&#x65B9;&#x6CD5; - GIGAZINE</title>
+<link>http://gigazine.net/index.php?/news/comments/20080624_how_to_avoid_camera_shake/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-25T02:49:03Z</dc:date>
+<dc:subject>camera photo tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiredvision.jp/news/200806/2008062421.html">
+<title>&#x300C;&#x30A2;&#x30EB;&#x30FB;&#x30B4;&#x30A2;&#x6C0F;&#x306E;&#x3088;&#x3046;&#x306B;&#x5F37;&#x529B;&#x306A;&#x30D7;&#x30EC;&#x30BC;&#x30F3;&#x300D;&#x3092;&#x3059;&#x308B;&#x79D8;&#x8A23; | WIRED VISION</title>
+<link>http://wiredvision.jp/news/200806/2008062421.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-24T09:08:17Z</dc:date>
+<dc:subject>keynote lifehack powerpoint presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/keynote" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://civic.xrea.jp/2006/06/09/struts-using-list/">
+<title>civic site : Struts&#x3067;List&#x3084;&#x914D;&#x5217;&#x306E;ActionForm&#x3092;&#x4F7F;&#x7528;&#x3059;&#x308B;</title>
+<link>http://civic.xrea.jp/2006/06/09/struts-using-list/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-24T08:53:54Z</dc:date>
+<dc:subject>java list struts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/struts" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblibrary.s224.xrea.com/weblog/firefox/firefox3_video.html">
+<title>Firefox3 &#x30DE;&#x30A4;&#x30A2;&#x30C9;&#x30AA;&#x30F3;&#x30EA;&#x30B9;&#x30C8; +&#x6700;&#x901F;&#x30D6;&#x30E9;&#x30A6;&#x30B8;&#x30F3;&#x30B0;Video - WEB&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3000;BLOG</title>
+<link>http://weblibrary.s224.xrea.com/weblog/firefox/firefox3_video.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-24T02:15:29Z</dc:date>
+<dc:subject>addon extension firefox list vimperator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/vimperator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lab.tubonotubo.jp/tools/webdeveloper/index.html">
+<title>Webdeveloper&#x306E;&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9;&#xFF1A;&#x30DF;&#x30CA;&#x30C8;&#x30E9;&#x30DC;</title>
+<link>http://lab.tubonotubo.jp/tools/webdeveloper/index.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-23T03:29:23Z</dc:date>
+<dc:subject>design development extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/articles/2008/06/22/air/menu.html">
+<title>&#x3010;&#x30CF;&#x30A6;&#x30C4;&#x30FC;&#x3011;&#x30BC;&#x30ED;&#x304B;&#x3089;&#x306F;&#x3058;&#x3081;&#x308B;Adobe AIR - TodoMemo&#x3092;&#x4F5C;&#x3063;&#x3066;&#x307F;&#x3088;&#x3046; | &#x30D1;&#x30BD;&#x30B3;&#x30F3; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/articles/2008/06/22/air/menu.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-23T03:23:23Z</dc:date>
+<dc:subject>adobe air development tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/rubeus/">
+<title>rubeus - Google Code</title>
+<link>http://code.google.com/p/rubeus/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-23T00:40:26Z</dc:date>
+<dc:subject>java rubeus ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubeus" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://qwik.rubybizcommons.jp/members/417.html">
+<title>Ruby&#x30D3;&#x30B8;&#x30CD;&#x30B9;&#x30FB;&#x30B3;&#x30E2;&#x30F3;&#x30BA; - Rubeus&#x521D;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#xFF01;</title>
+<link>http://qwik.rubybizcommons.jp/members/417.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-23T00:39:03Z</dc:date>
+<dc:subject>java rubeus ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubeus" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/KAZUMiX/20060913/1158135318">
+<title>&#x7D9A;&#x30FB;&#x65E5;&#x8A18;&#x306E;&#x30D8;&#x30C3;&#x30C0;&#x3068;&#x30D5;&#x30C3;&#x30BF;&#x3092;CSS&#x3067;&#x56FA;&#x5B9A;&#x8868;&#x793A;&#x306B;&#x3057;&#x3066;&#x307F;&#x305F; - KAZUMiX memo</title>
+<link>http://d.hatena.ne.jp/KAZUMiX/20060913/1158135318</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-22T15:52:56Z</dc:date>
+<dc:subject>css frames webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/frames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.456bereastreet.com/archive/200609/css_frames_v2_fullheight/">
+<title>CSS Frames v2, full-height | 456 Berea Street</title>
+<link>http://www.456bereastreet.com/archive/200609/css_frames_v2_fullheight/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-22T15:52:27Z</dc:date>
+<dc:subject>css frames layout webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/frames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-eblog.com/csstechnique/post-12.html">
+<title>&#x30D8;&#x30C3;&#x30C0;&#x3001;&#x30D5;&#x30C3;&#x30BF;&#x3092;&#x56FA;&#x5B9A;&#x3057;&#x3066;&#x307F;&#x308B;&#x3002; | CSS-EBLOG</title>
+<link>http://css-eblog.com/csstechnique/post-12.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-22T05:17:35Z</dc:date>
+<dc:subject>css html webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blackshadow.seesaa.net/article/101156674.html">
+<title>&#x5E7B;&#x5F71;&#x968F;&#x60F3;: &#x82F1;&#x8A9E;&#x8033;&#x3092;&#x935B;&#x3048;&#x308B;&#x305F;&#x3081;&#x306E;&#x79D1;&#x5B66;&#x306A;&#x30DD;&#x30C3;&#x30C9;&#x30AD;&#x30E3;&#x30B9;&#x30C8;&#xFF11;&#xFF10;&#x9078;</title>
+<link>http://blackshadow.seesaa.net/article/101156674.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-21T10:39:21Z</dc:date>
+<dc:subject>education english listening podcast science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/listening" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sweetlovexx.seesaa.net/article/90107619.html">
+<title>&#x3088;&#x308A;&#x3088;&#x3044;Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x306B;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;&#x914D;&#x8272;&#x306E;&#x30BB;&#x30AA;&#x30EA;&#x30FC; :: Love &#x26; Design ::</title>
+<link>http://sweetlovexx.seesaa.net/article/90107619.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-21T07:48:48Z</dc:date>
+<dc:subject>color design webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jp.rubyist.net/RubyKaigi2007/Log0610-S1-03.html">
+<title>&#x65E5;&#x672C; Ruby &#x4F1A;&#x8B70; 2007 - Log0610-S1-03</title>
+<link>http://jp.rubyist.net/RubyKaigi2007/Log0610-S1-03.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-21T05:47:29Z</dc:date>
+<dc:subject>library openwferu ruby workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openwferu" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://openwferu.rubyforge.org/ja/index.html">
+<title>OpenWFEru - open source ruby workflow engine</title>
+<link>http://openwferu.rubyforge.org/ja/index.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-21T05:27:47Z</dc:date>
+<dc:subject>OpenWFEru library ruby workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/OpenWFEru" />
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mozilla-remix.seesaa.net/article/100971672.html">
+<title>Mozilla Re-Mix: Firefox 3&#x306B;&#x5BFE;&#x5FDC;&#x3057;&#x3066;&#x3044;&#x308B;&#x4EE3;&#x8868;&#x7684;&#x30A2;&#x30C9;&#x30AA;&#x30F3;&#x30EA;&#x30B9;&#x30C8;&#x3002;</title>
+<link>http://mozilla-remix.seesaa.net/article/100971672.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-20T11:11:16Z</dc:date>
+<dc:subject>addon extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techdego.com/2007/01/firefox.php">
+<title>Firefox&#x3092;&#x8907;&#x6570;&#x30D7;&#x30ED;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3067;&#x4F7F;&#x3044;&#x5206;&#x3051;&#x308B; | Tech de Go</title>
+<link>http://www.techdego.com/2007/01/firefox.php</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T14:28:11Z</dc:date>
+<dc:subject>firefox howto profile tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/profile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.limy.org/program/java/checkstyle/">
+<title>Checkstyle Island</title>
+<link>http://www.limy.org/program/java/checkstyle/</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T13:29:27Z</dc:date>
+<dc:subject>checkstyle java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/checkstyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www003.upp.so-net.ne.jp/kaz-taka/checkstyle/4.1/config_naming.html">
+<title>Checkstyle - &#x547D;&#x540D;&#x898F;&#x7D04;</title>
+<link>http://www003.upp.so-net.ne.jp/kaz-taka/checkstyle/4.1/config_naming.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T12:59:18Z</dc:date>
+<dc:subject>checkstyle coding java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/checkstyle" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideo.com/visualizer.html">
+<title>Web Color Visualizer</title>
+<link>http://www.ideo.com/visualizer.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T06:07:29Z</dc:date>
+<dc:subject>color design html web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.develop-memo.com/java/eclipseplugin/checkstyle.html">
+<title>CheckStyle&#x306E;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x304B;&#x3089;&#x8A2D;&#x5B9A;&#x307E;&#x3067;(&#x30B3;&#x30FC;&#x30C7;&#x30A3;&#x30F3;&#x30B0;&#x898F;&#x7D04;&#x3092;&#x8A2D;&#x5B9A;&#x3067;&#x304D;&#x308B;Eclipse&#x30D7;&#x30E9;&#x30B0;&#x30A4;&#x30F3;)</title>
+<link>http://www.develop-memo.com/java/eclipseplugin/checkstyle.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T01:51:22Z</dc:date>
+<dc:subject>checkstyle java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/checkstyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://at-aka.blogspot.com/2008/06/firefox-extentions-firefox-3.html">
+<title>clmemo@aka: &#x307C;&#x304F;&#x304C;&#x4F7F;&#x3063;&#x3066;&#x308B; Firefox Extentions (Firefox 3 &#x7248;)</title>
+<link>http://at-aka.blogspot.com/2008/06/firefox-extentions-firefox-3.html</link>
+<description></description>
+<dc:creator>swa_taro</dc:creator>
+<dc:date>2008-06-19T00:09:52Z</dc:date>
+<dc:subject>addon extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

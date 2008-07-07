@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mi2u">
+<title>del.icio.us/mi2u</title>
+<link>http://del.icio.us/mi2u</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www2.aimnet.ne.jp/nakahara/3dart/3genri.html" />
+  <rdf:li rdf:resource="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://lastoneofthezodiac.blog38.fc2.com/blog-entry-399.html" />
+  <rdf:li rdf:resource="http://www.gpif.go.jp/" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0807/07/news012.html" />
+  <rdf:li rdf:resource="http://www.attedea.jp/" />
+  <rdf:li rdf:resource="http://www.nikkeibp.co.jp/sj/2/column/ba/48/" />
+  <rdf:li rdf:resource="http://www.kjc-web.com/contents/special/yatte/index.html" />
+  <rdf:li rdf:resource="http://sati.chu.jp/" />
+  <rdf:li rdf:resource="http://www.100shiki.com/archives/2008/07/gifgifmake.html" />
+  <rdf:li rdf:resource="http://www.tomabechi.com/" />
+  <rdf:li rdf:resource="http://taf5686.269g.net/" />
+  <rdf:li rdf:resource="http://www.xn--v8jg5f6f494z95i461bgmzb.com/" />
+  <rdf:li rdf:resource="http://www.popxpop.com/archives/2007/03/17tips.html" />
+  <rdf:li rdf:resource="http://onlinehelp.mindjet.com/mm6/Japanese/MM6HelpJP.htm#Keyboard_shortcuts.htm" />
+  <rdf:li rdf:resource="http://www.aptana.com/" />
+  <rdf:li rdf:resource="http://eclipsewiki.net/eclipse/" />
+  <rdf:li rdf:resource="http://www.rubylife.jp/regexp/index.html" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-210.html" />
+  <rdf:li rdf:resource="http://akimichi.homeunix.net/~emile/aki/html/medical/otolaryngology/node113.html" />
+  <rdf:li rdf:resource="http://www.shoshinsha.com/piano/piano_link/index.html" />
+  <rdf:li rdf:resource="http://www2.netwave.or.jp/~light/" />
+  <rdf:li rdf:resource="http://www.flashiroha.com/" />
+  <rdf:li rdf:resource="http://env01.cool.ne.jp/index02.htm" />
+  <rdf:li rdf:resource="http://www.zachgraeve.com/css-cheats/" />
+  <rdf:li rdf:resource="http://www.mdn.co.jp/content/view/6275/" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51075193.html" />
+  <rdf:li rdf:resource="http://blog.goo.ne.jp/ohmaelive" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/chabatake-2007/20071101/p1" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/lecture/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www2.aimnet.ne.jp/nakahara/3dart/3genri.html">
+<title>&#x7ACB;&#x4F53;&#x8868;&#x793A;&#x6CD5;&#x30FB;&#x7ACB;&#x4F53;&#x8996;&#x8981;&#x7D20; - &#xFF13;&#xFF24;&#x306E;&#x539F;&#x7406; principle</title>
+<link>http://www2.aimnet.ne.jp/nakahara/3dart/3genri.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-06T08:44:49Z</dc:date>
+<dc:subject>*study &#x7ACB;&#x4F53;&#x8996;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%AB%8B%E4%BD%93%E8%A6%96" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f">
+<title>&#x6E29;&#x6696;&#x5316;&#x61D0;&#x7591;&#x8AD6;&#x306E;&#x307E;&#x3068;&#x3081; - &#x6C60;&#x7530;&#x4FE1;&#x592B; blog</title>
+<link>http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-06T08:13:42Z</dc:date>
+<dc:subject>*eco *study *thisweek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*eco" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/*thisweek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-06T08:12:13Z</dc:date>
+<dc:subject>*accounting *business *money *study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*accounting" />
+    <rdf:li resource="http://del.icio.us/tag/*business" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/*money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lastoneofthezodiac.blog38.fc2.com/blog-entry-399.html">
+<title>Harmonia!! &#x3084;&#x308B;&#x592B;&#x30B7;&#x30EA;&#x30FC;&#x30BA;&#x307E;&#x3068;&#x3081;</title>
+<link>http://lastoneofthezodiac.blog38.fc2.com/blog-entry-399.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-06T07:04:59Z</dc:date>
+<dc:subject>*&#x307E;&#x3068;&#x3081; &#x3084;&#x308B;&#x592B;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E3%82%84%E3%82%8B%E5%A4%AB" />
+    <rdf:li resource="http://del.icio.us/tag/*%E3%81%BE%E3%81%A8%E3%82%81" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gpif.go.jp/">
+<title>&#x5E74;&#x91D1;&#x7A4D;&#x7ACB;&#x91D1;&#x7BA1;&#x7406;&#x904B;&#x7528;&#x72EC;&#x7ACB;&#x884C;&#x653F;&#x6CD5;&#x4EBA;</title>
+<link>http://www.gpif.go.jp/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-05T09:42:49Z</dc:date>
+<dc:subject>*study &#x5E74;&#x91D1;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%B9%B4%E9%87%91" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0807/07/news012.html">
+<title>&#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;&#x3067;&#x30DE;&#x30A4;&#x30F3;&#x30C9;&#x30DE;&#x30C3;&#x30D7;&#x2015;&#x2015;&#x7121;&#x6599;Web&#x30A2;&#x30D7;&#x30EA;6&#x9078; - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0807/07/news012.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-05T09:09:10Z</dc:date>
+<dc:subject>*mindmap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*mindmap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.attedea.jp/">
+<title>&#x30A2;&#x30A4;&#x30C7;&#x30A2;&#x3068;&#x30DE;&#x30A4;&#x30F3;&#x30C9;&#x3067;&#x3064;&#x306A;&#x304C;&#x308B;SNS&#xFF01;&#x3000;&#x30A2;&#x30C6;&#x30C7;&#x30A3;&#x30A2;</title>
+<link>http://www.attedea.jp/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-05T09:08:31Z</dc:date>
+<dc:subject>*mindmap *sns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/*sns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nikkeibp.co.jp/sj/2/column/ba/48/">
+<title>&#x304F;&#x306D;&#x304F;&#x306D;&#x3068;&#x5909;&#x8EAB;&#x3059;&#x308B;&#x30C9;&#x30D0;&#x30A4;&#x306E;&#x8D85;&#x9AD8;&#x5C64;&#x30D3;&#x30EB; / SAFETY JAPAN [&#x7D30;&#x91CE; &#x900F;&#x6C0F;] / &#x65E5;&#x7D4C;BP&#x793E;</title>
+<link>http://www.nikkeibp.co.jp/sj/2/column/ba/48/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T14:16:16Z</dc:date>
+<dc:subject>*neta structure &#x5EFA;&#x9020;&#x7269;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/structure" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BB%BA%E9%80%A0%E7%89%A9" />
+    <rdf:li resource="http://del.icio.us/tag/*neta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kjc-web.com/contents/special/yatte/index.html">
+<title>&#x30B8;&#x30E3;&#x30B0;&#x30EA;&#x30F3;&#x30B0;&#x3092;&#x3084;&#x3063;&#x3066;&#x307F;&#x3088;&#x3046;&#xFF01;</title>
+<link>http://www.kjc-web.com/contents/special/yatte/index.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T12:20:15Z</dc:date>
+<dc:subject>*study &#x30B8;&#x30E3;&#x30B0;&#x30EA;&#x30F3;&#x30B0;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%82%B8%E3%83%A3%E3%82%B0%E3%83%AA%E3%83%B3%E3%82%B0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sati.chu.jp/">
+<title>&#x53EF;&#x611B;&#x3044;&#x9854;&#x6587;&#x5B57;&#x30B5;&#x30A4;&#x30C8;&#x3000;-&#x9854;&#x6587;&#x5B57;CAFE-</title>
+<link>http://sati.chu.jp/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T12:16:08Z</dc:date>
+<dc:subject>*2ch *&#x9854;&#x6587;&#x5B57;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*%E9%A1%94%E6%96%87%E5%AD%97" />
+    <rdf:li resource="http://del.icio.us/tag/*2ch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.100shiki.com/archives/2008/07/gifgifmake.html">
+<title>&#x30D6;&#x30E9;&#x30A6;&#x30B6;&#x4E0A;&#x3067;GIF&#x30A2;&#x30CB;&#x30E1;&#x306E;&#x4F5C;&#x6210;&#x3001;&#x7DE8;&#x96C6;&#x304C;&#x3067;&#x304D;&#x308B;&#x300E;gifmake&#x300F; | 100SHIKI.COM</title>
+<link>http://www.100shiki.com/archives/2008/07/gifgifmake.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T12:15:16Z</dc:date>
+<dc:subject>*&#x7D20;&#x6750; gif gifmake</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gif" />
+    <rdf:li resource="http://del.icio.us/tag/gifmake" />
+    <rdf:li resource="http://del.icio.us/tag/*%E7%B4%A0%E6%9D%90" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tomabechi.com/">
+<title>&#x82EB;&#x7C73;&#x5730;&#x82F1;&#x4EBA; (Dr. Hideto Tomabechi Official Site) &#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30DA;&#x30FC;&#x30B8;: &#x82EB;&#x7C73;&#x5730;&#x30EF;&#x30FC;&#x30AF;&#x30B9;</title>
+<link>http://www.tomabechi.com/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T11:48:03Z</dc:date>
+<dc:subject>*brain *study &#x82EB;&#x7C73;&#x5730;&#x82F1;&#x4EBA;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%8B%AB%E7%B1%B3%E5%9C%B0%E8%8B%B1%E4%BA%BA" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/*brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://taf5686.269g.net/">
+<title>Elastic</title>
+<link>http://taf5686.269g.net/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T09:35:24Z</dc:date>
+<dc:subject>*fashion *study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*fashion" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xn--v8jg5f6f494z95i461bgmzb.com/">
+<title>&#x8133;&#x3092;&#x935B;&#x3048;&#x308B;&#x982D;&#x304C;&#x826F;&#x304F;&#x306A;&#x308B;&#x65B9;&#x6CD5;&#x8133;&#x529B;&#x958B;&#x767A;</title>
+<link>http://www.xn--v8jg5f6f494z95i461bgmzb.com/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T07:04:24Z</dc:date>
+<dc:subject>*brain *study iq</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*brain" />
+    <rdf:li resource="http://del.icio.us/tag/*study" />
+    <rdf:li resource="http://del.icio.us/tag/iq" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popxpop.com/archives/2007/03/17tips.html">
+<title>&#x3088;&#x304F;&#x7720;&#x308B;&#x305F;&#x3081;&#x306B;&#x899A;&#x3048;&#x3066;&#x304A;&#x304D;&#x305F;&#x3044;17&#x306E;Tips | POP*POP</title>
+<link>http://www.popxpop.com/archives/2007/03/17tips.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T06:55:27Z</dc:date>
+<dc:subject>*health *sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*sleep" />
+    <rdf:li resource="http://del.icio.us/tag/*health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onlinehelp.mindjet.com/mm6/Japanese/MM6HelpJP.htm#Keyboard_shortcuts.htm">
+<title>Mindjet MindManager 6 &#x30D8;&#x30EB;&#x30D7;</title>
+<link>http://onlinehelp.mindjet.com/mm6/Japanese/MM6HelpJP.htm#Keyboard_shortcuts.htm</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T06:51:24Z</dc:date>
+<dc:subject>*shortcut mindmanager</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmanager" />
+    <rdf:li resource="http://del.icio.us/tag/*shortcut" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aptana.com/">
+<title>Aptana</title>
+<link>http://www.aptana.com/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T06:33:52Z</dc:date>
+<dc:subject>aptana development eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aptana" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eclipsewiki.net/eclipse/">
+<title>FrontPage - EclipseWiki</title>
+<link>http://eclipsewiki.net/eclipse/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T06:31:51Z</dc:date>
+<dc:subject>development eclipse wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rubylife.jp/regexp/index.html">
+<title>Ruby&#x6B63;&#x898F;&#x8868;&#x73FE;&#x306E;&#x4F7F;&#x3044;&#x65B9;</title>
+<link>http://www.rubylife.jp/regexp/index.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T05:32:16Z</dc:date>
+<dc:subject>*thisweek regex ruby &#x6B63;&#x898F;&#x8868;&#x73FE;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE" />
+    <rdf:li resource="http://del.icio.us/tag/*thisweek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-210.html">
+<title>&#x30BD;&#x30FC;&#x30B7;&#x30E3;&#x30EB;&#x30D6;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30AF;&#x304C;&#x4F7F;&#x3044;&#x3084;&#x3059;&#x304F;&#x306A;&#x308B;&#x30BF;&#x30B0;&#x306E;&#x4ED8;&#x3051;&#x65B9;7&#x3064;&#x306E;&#x30B3;&#x30C4;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-210.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T05:29:01Z</dc:date>
+<dc:subject>*thisweek sbm socialbookmark tag</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sbm" />
+    <rdf:li resource="http://del.icio.us/tag/tag" />
+    <rdf:li resource="http://del.icio.us/tag/socialbookmark" />
+    <rdf:li resource="http://del.icio.us/tag/*thisweek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://akimichi.homeunix.net/~emile/aki/html/medical/otolaryngology/node113.html">
+<title>&#x5589;&#x982D; larynx</title>
+<link>http://akimichi.homeunix.net/~emile/aki/html/medical/otolaryngology/node113.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T03:23:17Z</dc:date>
+<dc:subject>sing study &#x5589;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/sing" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%96%89" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shoshinsha.com/piano/piano_link/index.html">
+<title>&#x30D4;&#x30A2;&#x30CE;&#x3092;&#x72EC;&#x5B66;&#x3067;&#x7DF4;&#x7FD2;&#x3059;&#x308B;&#x4EBA;&#x3078;</title>
+<link>http://www.shoshinsha.com/piano/piano_link/index.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T01:32:08Z</dc:date>
+<dc:subject>music piano study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/piano" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.netwave.or.jp/~light/">
+<title>&#xFF26;&#xFF2C;&#xFF21;&#xFF33;&#xFF28;&#x9053;&#x5834;</title>
+<link>http://www2.netwave.or.jp/~light/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T01:26:03Z</dc:date>
+<dc:subject>flash study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flashiroha.com/">
+<title>FLASH&#x306E;&#x304A;&#x52C9;&#x5F37;</title>
+<link>http://www.flashiroha.com/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-04T01:25:43Z</dc:date>
+<dc:subject>flash study tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://env01.cool.ne.jp/index02.htm">
+<title>&#x74B0;&#x5883;&#x554F;&#x984C;&#x3092;&#x8003;&#x3048;&#x308B;</title>
+<link>http://env01.cool.ne.jp/index02.htm</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T23:33:19Z</dc:date>
+<dc:subject>*thisweek &#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*thisweek" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachgraeve.com/css-cheats/">
+<title>CSS Layout Cheats | EMBRACE YOUR VICE (TM) | DESIGN FOR LIFE</title>
+<link>http://www.zachgraeve.com/css-cheats/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T23:11:00Z</dc:date>
+<dc:subject>css layout webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mdn.co.jp/content/view/6275/">
+<title>Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3068;&#x30B0;&#x30E9;&#x30D5;&#x30A3;&#x30C3;&#x30AF;&#x306E;&#x7DCF;&#x5408;&#x60C5;&#x5831;&#x30B5;&#x30A4;&#x30C8; - MdN Interactive - WEB&#x306E;&#x5B8C;&#x6210;&#x5EA6;&#x3092;&#x9AD8;&#x3081;&#x308B;76&#x306E;&#x6B63;&#x653B;&#x6CD5;</title>
+<link>http://www.mdn.co.jp/content/view/6275/</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T22:58:51Z</dc:date>
+<dc:subject>MDN webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MDN" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51075193.html">
+<title>404 Blog Not Found:&#x3068;&#x3063;&#x3068;&#x3068;&#x4E16;&#x306E;&#x4E2D;&#x3092;&#x52D5;&#x304B;&#x3059;&#x305F;&#x3063;&#x305F;1&#x3064;&#x306E;&#x5FC3;&#x304C;&#x3051;+3&#x3064;&#x306E;&#x7406;&#x7531;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51075193.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T16:10:19Z</dc:date>
+<dc:subject>Mental</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mental" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.goo.ne.jp/ohmaelive">
+<title>&#x5927;&#x524D;&#x7814;&#x4E00;&#x306E;&#x30CB;&#x30E5;&#x30FC;&#x30B9;&#x306E;&#x30DD;&#x30A4;&#x30F3;&#x30C8;</title>
+<link>http://blog.goo.ne.jp/ohmaelive</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T08:04:19Z</dc:date>
+<dc:subject>&#x5927;&#x524D;&#x7814;&#x4E00;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E5%A4%A7%E5%89%8D%E7%A0%94%E4%B8%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/chabatake-2007/20071101/p1">
+<title>&#x30BF;&#x30E2;&#x30EA;&#x306B;&#x5B66;&#x3076;&#x4F1A;&#x8A71;&#x8853; - &#x306A;&#x3081;&#x304F;&#x3058;&#x5E1D;&#x56FD;&#x306F;&#x5D29;&#x58CA;&#x5BF8;&#x524D;</title>
+<link>http://d.hatena.ne.jp/chabatake-2007/20071101/p1</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T08:02:44Z</dc:date>
+<dc:subject>communication &#x30BF;&#x30E2;&#x30EA;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%82%BF%E3%83%A2%E3%83%AA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/lecture/index.html">
+<title>IT&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x5FC5;&#x4FEE;&#x8B1B;&#x5EA7;100 &#xFF1A; ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/lecture/index.html</link>
+<description></description>
+<dc:creator>mi2u</dc:creator>
+<dc:date>2008-07-03T07:54:48Z</dc:date>
+<dc:subject>it study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

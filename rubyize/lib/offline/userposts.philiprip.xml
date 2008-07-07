@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/philiprip">
+<title>del.icio.us/philiprip</title>
+<link>http://del.icio.us/philiprip</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://philiprip.glogster.com/profile/" />
+  <rdf:li rdf:resource="http://tutpup.com/" />
+  <rdf:li rdf:resource="http://www.smilebox.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.skrbl.com/" />
+  <rdf:li rdf:resource="http://www.visuwords.com/" />
+  <rdf:li rdf:resource="http://edgeoftheseat.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.americanfolklore.net/brer-rabbit.html" />
+  <rdf:li rdf:resource="http://xroads.virginia.edu/~ug97/remus/tar-baby.html" />
+  <rdf:li rdf:resource="http://www.otmfan.com/html/brertar.htm" />
+  <rdf:li rdf:resource="http://www.sacred-texts.com/neu/eng/eft/eft14.htm" />
+  <rdf:li rdf:resource="http://www.authorama.com/english-fairy-tales-15.html" />
+  <rdf:li rdf:resource="http://www.ongoing-tales.com/SERIALS/oldtime/FAIRYTALES/beanstalk.html" />
+  <rdf:li rdf:resource="http://www.sarasota.k12.fl.us/sarasota/interdiscrdg.htm#Other%20Activities%20for%20the%20Readin3021" />
+  <rdf:li rdf:resource="http://www.mrexcel.com/articles.shtml#General" />
+  <rdf:li rdf:resource="http://www.aucklandcity.govt.nz/council/services/rubbish/default.asp" />
+  <rdf:li rdf:resource="http://www.aucklandcity.govt.nz/council/services/rubbish/atozguide.asp" />
+  <rdf:li rdf:resource="http://www.google.com/calendar/hosted/nixit.co.nz/embed?src=nixit.co.nz_sjkvroje14fummhvekukdgbfqg%40group.calendar.google.com&#x26;ctz=Pacific/Auckland" />
+  <rdf:li rdf:resource="http://del.icio.us/philiprip?url=http%3A%2F%2Fwww.educationworld.com%2Fa_tech%2Farchives%2Ftechtorials.shtml&#x26;title=Education%20World%20%C2%AE%20Technology%20Center%3A%20Archives%3A%20Techtorials" />
+  <rdf:li rdf:resource="http://www.ozgrid.com/download/" />
+  <rdf:li rdf:resource="http://www.datapigtechnologies.com/ExcelMain.htm" />
+  <rdf:li rdf:resource="http://www.ozgrid.com/Excel/free-training/basic-index.htm" />
+  <rdf:li rdf:resource="http://www.ozgrid.com/Excel/free-training/excel-lesson-37-basic.htm" />
+  <rdf:li rdf:resource="http://usd.edu/trio/tut/excel/index.html" />
+  <rdf:li rdf:resource="http://www.businessbookmall.com/Microsoft_Excel_Directions_For_Beginners.htm" />
+  <rdf:li rdf:resource="http://www.sabine.k12.la.us/class/excel_pivot_table.htm" />
+  <rdf:li rdf:resource="http://aect.ed.psu.edu/viewlets/prerequisite.htm" />
+  <rdf:li rdf:resource="http://etap.esd.co.nz/" />
+  <rdf:li rdf:resource="http://www.scrapetorrent.com/Search/" />
+  <rdf:li rdf:resource="http://www.santabarbaraca.gov/recycling-trash/residents_food.htm" />
+  <rdf:li rdf:resource="http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&#x26;objectid=10512393&#x26;pnum=0" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://philiprip.glogster.com/profile/">
+<title>Your Profile | Glogster</title>
+<link>http://philiprip.glogster.com/profile/</link>
+<description>Create poster about anything and share online.</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T08:14:19Z</dc:date>
+<dc:subject>Posters photos web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Posters" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutpup.com/">
+<title>tutpup - play, compete, learn</title>
+<link>http://tutpup.com/</link>
+<description>Like Mathletics but free. Also has spelling challenges....</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T08:11:01Z</dc:date>
+<dc:subject>classroom_resources fun games interactive maths spelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/classroom_resources" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/spelling" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smilebox.com/">
+<title>greeting cards, personalized cards - Smilebox.com</title>
+<link>http://www.smilebox.com/</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T07:50:58Z</dc:date>
+<dc:subject>album art photography photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/album" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description>wiki with tons of help using flickr with classes and schools</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T07:13:53Z</dc:date>
+<dc:subject>flickr photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skrbl.com/">
+<title>skrbl: easy to share online whiteboard</title>
+<link>http://www.skrbl.com/</link>
+<description>Online brainstorming and planning tool</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T07:12:19Z</dc:date>
+<dc:subject>brainstorming thinkingtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brainstorming" />
+    <rdf:li resource="http://del.icio.us/tag/thinkingtools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.visuwords.com/">
+<title>Visuwords online graphical dictionary and thesaurus</title>
+<link>http://www.visuwords.com/</link>
+<description>Great online thesaurus. Very visual</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T06:58:48Z</dc:date>
+<dc:subject>dictionary encyclopedia language reference thesaurus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/encyclopedia" />
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+    <rdf:li resource="http://del.icio.us/tag/thesaurus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edgeoftheseat.blogspot.com/">
+<title>EdgeoftheSeat</title>
+<link>http://edgeoftheseat.blogspot.com/</link>
+<description>Snazzing up your blogger with banners and backgrounds</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-07-01T06:51:09Z</dc:date>
+<dc:subject>blogs howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.americanfolklore.net/brer-rabbit.html">
+<title>Brer Rabbit: Stories featuring Brer Rabbit, Brer Fox, Brer Bear, and Sis Cow from American Folklore.</title>
+<link>http://www.americanfolklore.net/brer-rabbit.html</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T20:56:27Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xroads.virginia.edu/~ug97/remus/tar-baby.html">
+<title>The Wonderful Tar Baby Story</title>
+<link>http://xroads.virginia.edu/~ug97/remus/tar-baby.html</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T20:55:55Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.otmfan.com/html/brertar.htm">
+<title>Brer Rabbit and the Tar Baby</title>
+<link>http://www.otmfan.com/html/brertar.htm</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T20:55:30Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sacred-texts.com/neu/eng/eft/eft14.htm">
+<title>English Fairy Tales: Jack and the Beanstalk</title>
+<link>http://www.sacred-texts.com/neu/eng/eft/eft14.htm</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T09:24:51Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.authorama.com/english-fairy-tales-15.html">
+<title>English Fairy Tales - Jack and the Beanstalk (by Joseph Jacobs)</title>
+<link>http://www.authorama.com/english-fairy-tales-15.html</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T09:22:57Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ongoing-tales.com/SERIALS/oldtime/FAIRYTALES/beanstalk.html">
+<title>Ongoing Tales Fairytale Jack and the Beanstalk</title>
+<link>http://www.ongoing-tales.com/SERIALS/oldtime/FAIRYTALES/beanstalk.html</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-30T09:19:54Z</dc:date>
+<dc:subject>fairytales literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/fairytales" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sarasota.k12.fl.us/sarasota/interdiscrdg.htm#Other%20Activities%20for%20the%20Readin3021">
+<title>interdiscrdg</title>
+<link>http://www.sarasota.k12.fl.us/sarasota/interdiscrdg.htm#Other%20Activities%20for%20the%20Readin3021</link>
+<description>Graphic organisers and ideas for comprehension development</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-25T09:39:45Z</dc:date>
+<dc:subject>graphicorganizers literacy reading</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/graphicorganizers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mrexcel.com/articles.shtml#General">
+<title>Excel Tutorials and Articles from Mr Excel</title>
+<link>http://www.mrexcel.com/articles.shtml#General</link>
+<description>Dozens of help sheets. Very useful</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-24T07:05:11Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aucklandcity.govt.nz/council/services/rubbish/default.asp">
+<title>Rubbish and recycling</title>
+<link>http://www.aucklandcity.govt.nz/council/services/rubbish/default.asp</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-24T00:43:31Z</dc:date>
+<dc:subject>enviro_schools environment recycling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recycling" />
+    <rdf:li resource="http://del.icio.us/tag/enviro_schools" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aucklandcity.govt.nz/council/services/rubbish/atozguide.asp">
+<title>Rubbish and recycling</title>
+<link>http://www.aucklandcity.govt.nz/council/services/rubbish/atozguide.asp</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-24T00:43:00Z</dc:date>
+<dc:subject>enviro_schools recycling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recycling" />
+    <rdf:li resource="http://del.icio.us/tag/enviro_schools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/calendar/hosted/nixit.co.nz/embed?src=nixit.co.nz_sjkvroje14fummhvekukdgbfqg%40group.calendar.google.com&#x26;ctz=Pacific/Auckland">
+<title>NTC</title>
+<link>http://www.google.com/calendar/hosted/nixit.co.nz/embed?src=nixit.co.nz_sjkvroje14fummhvekukdgbfqg%40group.calendar.google.com&#x26;ctz=Pacific/Auckland</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-23T22:52:23Z</dc:date>
+<dc:subject>nga_taonga</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nga_taonga" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/philiprip?url=http%3A%2F%2Fwww.educationworld.com%2Fa_tech%2Farchives%2Ftechtorials.shtml&#x26;title=Education%20World%20%C2%AE%20Technology%20Center%3A%20Archives%3A%20Techtorials">
+<title>philiprip's favorites on del.icio.us</title>
+<link>http://del.icio.us/philiprip?url=http%3A%2F%2Fwww.educationworld.com%2Fa_tech%2Farchives%2Ftechtorials.shtml&#x26;title=Education%20World%20%C2%AE%20Technology%20Center%3A%20Archives%3A%20Techtorials</link>
+<description>tutorials</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T06:27:34Z</dc:date>
+<dc:subject>excel howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ozgrid.com/download/">
+<title>Free Excel Downloads. Excel Functions and VBA (Visual Basic for Applications)</title>
+<link>http://www.ozgrid.com/download/</link>
+<description>Tutorials and examples
+</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T06:15:45Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.datapigtechnologies.com/ExcelMain.htm">
+<title>DataPig Excel Training</title>
+<link>http://www.datapigtechnologies.com/ExcelMain.htm</link>
+<description>Tutorials, some video</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:57:24Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ozgrid.com/Excel/free-training/basic-index.htm">
+<title>Free Excel Training.Free Question Support &#x26; Free Excel Training</title>
+<link>http://www.ozgrid.com/Excel/free-training/basic-index.htm</link>
+<description>Excel lessons</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:55:33Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ozgrid.com/Excel/free-training/excel-lesson-37-basic.htm">
+<title>Excel IF Function/Formula.IF Formula in Excel Nested.Level 1 Free Training</title>
+<link>http://www.ozgrid.com/Excel/free-training/excel-lesson-37-basic.htm</link>
+<description>If formula explained in detail</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:54:26Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://usd.edu/trio/tut/excel/index.html">
+<title>Excel Tutorial</title>
+<link>http://usd.edu/trio/tut/excel/index.html</link>
+<description>The basics of excell, Also has some interseting advanced examples like  a mortgage table over time.</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:51:01Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessbookmall.com/Microsoft_Excel_Directions_For_Beginners.htm">
+<title>Free Microsoft Excel Leaning Materials</title>
+<link>http://www.businessbookmall.com/Microsoft_Excel_Directions_For_Beginners.htm</link>
+<description>Links to dozens of great Excell sites.</description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:43:26Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sabine.k12.la.us/class/excel_pivot_table.htm">
+<title>Excel Pivot Table</title>
+<link>http://www.sabine.k12.la.us/class/excel_pivot_table.htm</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:41:07Z</dc:date>
+<dc:subject>excel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aect.ed.psu.edu/viewlets/prerequisite.htm">
+<title>AECT Prerequisite</title>
+<link>http://aect.ed.psu.edu/viewlets/prerequisite.htm</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-17T05:40:06Z</dc:date>
+<dc:subject>M$ excel howto office tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/M$" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://etap.esd.co.nz/">
+<title>eTAP - electronic Teaching Assessment Planning.</title>
+<link>http://etap.esd.co.nz/</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-06-15T04:51:07Z</dc:date>
+<dc:subject>owairaka</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/owairaka" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scrapetorrent.com/Search/">
+<title>Torrent Search - ScrapeTorrent.com</title>
+<link>http://www.scrapetorrent.com/Search/</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-05-29T05:56:15Z</dc:date>
+<dc:subject>bittorrent movies music torrent torrents</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/torrents" />
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.santabarbaraca.gov/recycling-trash/residents_food.htm">
+<title>City of Santa Barbara Residents: Food Scraps and Composting</title>
+<link>http://www.santabarbaraca.gov/recycling-trash/residents_food.htm</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-05-26T20:35:04Z</dc:date>
+<dc:subject>composting enviro_schools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/composting" />
+    <rdf:li resource="http://del.icio.us/tag/enviro_schools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&#x26;objectid=10512393&#x26;pnum=0">
+<title>For food scraps, get wasted - 26 May 2008 - NZ Herald: New Zealand National news</title>
+<link>http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&#x26;objectid=10512393&#x26;pnum=0</link>
+<description></description>
+<dc:creator>philiprip</dc:creator>
+<dc:date>2008-05-26T20:34:41Z</dc:date>
+<dc:subject>composting enviro_schools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/enviro_schools" />
+    <rdf:li resource="http://del.icio.us/tag/composting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

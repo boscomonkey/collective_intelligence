@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kdaviesnz">
+<title>del.icio.us/kdaviesnz</title>
+<link>http://del.icio.us/kdaviesnz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26" />
+  <rdf:li rdf:resource="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes" />
+  <rdf:li rdf:resource="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://thecodecentral.com/2007/09/04/asynchronous-file-upload-yuis-approach" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/docs/YAHOO.util.Connect.html#method_abort" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/connection/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-introduction;jsessionid=363740126C568768CAE7DD81EC726092" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/is_email_in_danger.php" />
+  <rdf:li rdf:resource="http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/getoutbindingsituations" />
+  <rdf:li rdf:resource="http://www.bu.edu/arion/Paglia%2016-1.html" />
+  <rdf:li rdf:resource="http://www.frontpagemag.com/Articles/Read.aspx?GUID=932DF90B-4644-49A7-A754-C263BF74DE9B" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288127,00.html" />
+  <rdf:li rdf:resource="http://www.yosefk.com/blog/extreme-programming-explained.html" />
+  <rdf:li rdf:resource="http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html" />
+  <rdf:li rdf:resource="http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-06T05:23:27Z</dc:date>
+<dc:subject>astronomy entropy physics science space time travel universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-06T05:22:26Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x">
+<title>Screenshoot blurry in OS X? | creativebits</title>
+<link>http://creativebits.org/mac_os_x/screenshoot_blurry_os_x</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-05T12:02:41Z</dc:date>
+<dc:subject>jpg mac osx png screenshot screenshots terminal tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/screenshots" />
+    <rdf:li resource="http://del.icio.us/tag/terminal" />
+    <rdf:li resource="http://del.icio.us/tag/png" />
+    <rdf:li resource="http://del.icio.us/tag/jpg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-05T11:56:51Z</dc:date>
+<dc:subject>career coding development fun funny lifehacks programming rant</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/rant" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26">
+<title>25 Clever Bar Pick Up Lines | Sloshspot Blog</title>
+<link>http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-04T01:15:29Z</dc:date>
+<dc:subject>cool culture fun funny humor lines pickup reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/pickup" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/lines" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes">
+<title>SEO 2.0 | Top 10 Fatal URL Design Mistakes</title>
+<link>http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-04T01:12:40Z</dc:date>
+<dc:subject>design findability howto seo tips url usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/findability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/">
+<title>How To Setup MySQL Replication in 10 minutes | Hackosis</title>
+<link>http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-04T01:10:57Z</dc:date>
+<dc:subject>backup database howto mysql replication server sysadmin tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-04T01:10:13Z</dc:date>
+<dc:subject>api ibm programming reference schema tutorial tutorials xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/">
+<title>How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)</title>
+<link>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-04T01:09:13Z</dc:date>
+<dc:subject>application business development programming startup team techcrunch web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/techcrunch" />
+    <rdf:li resource="http://del.icio.us/tag/team" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T07:00:45Z</dc:date>
+<dc:subject>design development firefox gui opensource plugin prototyping software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T06:59:40Z</dc:date>
+<dc:subject>google proxy security software testing tools web xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T06:57:05Z</dc:date>
+<dc:subject>algorithm algorithms del.icio.us delicious digg reddit seo ycombinator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/ycombinator" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T06:55:40Z</dc:date>
+<dc:subject>business clients design freelance marketing sales toread work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T06:53:21Z</dc:date>
+<dc:subject>design download free graphics icon icons web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thecodecentral.com/2007/09/04/asynchronous-file-upload-yuis-approach">
+<title>Asynchronous File Upload - YUI&#x2019;s Approach : Code Central</title>
+<link>http://thecodecentral.com/2007/09/04/asynchronous-file-upload-yuis-approach</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T02:41:50Z</dc:date>
+<dc:subject>ajax asynchronous file fileupload javascript upload yahoo yui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/yui" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/asynchronous" />
+    <rdf:li resource="http://del.icio.us/tag/fileupload" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/docs/YAHOO.util.Connect.html#method_abort">
+<title>API: connection YAHOO.util.Connect (YUI Library)</title>
+<link>http://developer.yahoo.com/yui/docs/YAHOO.util.Connect.html#method_abort</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T01:42:50Z</dc:date>
+<dc:subject>api connection yui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/yui" />
+    <rdf:li resource="http://del.icio.us/tag/connection" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/connection/">
+<title>Yahoo! UI Library: Connection Manager</title>
+<link>http://developer.yahoo.com/yui/connection/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-03T01:41:45Z</dc:date>
+<dc:subject>connection yui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/yui" />
+    <rdf:li resource="http://del.icio.us/tag/connection" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-introduction;jsessionid=363740126C568768CAE7DD81EC726092">
+<title>InfoQ: A Brief Introduction to REST</title>
+<link>http://www.infoq.com/articles/rest-introduction;jsessionid=363740126C568768CAE7DD81EC726092</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T10:10:53Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/is_email_in_danger.php">
+<title>Is Email In Danger? - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/is_email_in_danger.php</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T10:02:08Z</dc:date>
+<dc:subject>email enterprise2.0 socialnetworking society twitter web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html">
+<title>Shneiderman's Eight Golden Rules of Interface Design</title>
+<link>http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T08:35:17Z</dc:date>
+<dc:subject>design development interface shneiderman ui usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/shneiderman" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T08:34:40Z</dc:date>
+<dc:subject>confidence fear freedom happiness lifehacks self-improvement selfimprovement shyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/selfimprovement" />
+    <rdf:li resource="http://del.icio.us/tag/confidence" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/fear" />
+    <rdf:li resource="http://del.icio.us/tag/freedom" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/getoutbindingsituations">
+<title>A List Apart: Articles: Getting Out of Binding Situations in JavaScript</title>
+<link>http://www.alistapart.com/articles/getoutbindingsituations</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T08:33:50Z</dc:date>
+<dc:subject>binding development howto javascript oop programming scope tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/binding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/scope" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bu.edu/arion/Paglia%2016-1.html">
+<title>Arion: A Journal of Humanities and the Classics</title>
+<link>http://www.bu.edu/arion/Paglia%2016-1.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T07:31:59Z</dc:date>
+<dc:subject>feminism toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/feminism" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.frontpagemag.com/Articles/Read.aspx?GUID=932DF90B-4644-49A7-A754-C263BF74DE9B">
+<title>FrontPage Magazine</title>
+<link>http://www.frontpagemag.com/Articles/Read.aspx?GUID=932DF90B-4644-49A7-A754-C263BF74DE9B</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T07:27:11Z</dc:date>
+<dc:subject>daniel pipes terrorism toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/daniel" />
+    <rdf:li resource="http://del.icio.us/tag/pipes" />
+    <rdf:li resource="http://del.icio.us/tag/terrorism" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/">
+<title>The Secret to Ultra-Sharp Photos</title>
+<link>http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T01:01:09Z</dc:date>
+<dc:subject>dof howto hyperfocal learning photo photography sharp tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/hyperfocal" />
+    <rdf:li resource="http://del.icio.us/tag/sharp" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/dof" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T01:00:34Z</dc:date>
+<dc:subject>anti-patterns antipatterns http patterns programming research rest webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/antipatterns" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/anti-patterns" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288127,00.html">
+<title>How to write a movie | News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288127,00.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-02T00:57:48Z</dc:date>
+<dc:subject>creative film filmmaking howto movies screenplay screenwriting writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/screenwriting" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/screenplay" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/filmmaking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yosefk.com/blog/extreme-programming-explained.html">
+<title>Extreme Programming Explained</title>
+<link>http://www.yosefk.com/blog/extreme-programming-explained.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-01T10:57:37Z</dc:date>
+<dc:subject>blog blogs extreme funny programming psychology toread xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/extreme" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html">
+<title>7 People From Around the World With Real Mutant Superpowers | Cracked.com</title>
+<link>http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-01T10:48:30Z</dc:date>
+<dc:subject>awesome biology cool funny genetics interesting people power</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+    <rdf:li resource="http://del.icio.us/tag/people" />
+    <rdf:li resource="http://del.icio.us/tag/power" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html">
+<title>URL Rewriting | redirecting URLs with Apache&#x2019;s mod_rewrite || HTMLSource ]</title>
+<link>http://www.yourhtmlsource.com/sitemanagement/urlrewriting.html</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-01T01:06:09Z</dc:date>
+<dc:subject>apache howto htaccess mod_rewrite programming tutorial web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mod_rewrite" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/htaccess" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>kdaviesnz</dc:creator>
+<dc:date>2008-07-01T00:53:00Z</dc:date>
+<dc:subject>css design float layout reference tips webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/float" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

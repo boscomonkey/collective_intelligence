@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/vinyl1337">
+<title>del.icio.us/vinyl1337</title>
+<link>http://del.icio.us/vinyl1337</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://steve.blogme.us/2007/12/12/ubuntu-llmp-linux-lighttpd-mysql-php-with-phpmyadmin-and-cacti-tutorial/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://pzizz.com/" />
+  <rdf:li rdf:resource="http://casualtygamer.com/2008/06/retro-wednesday-top-5-weirdest-games/" />
+  <rdf:li rdf:resource="http://www.gametunnel.com/articles.php?id=620" />
+  <rdf:li rdf:resource="http://www.fredperrysubculture.com/musicplayer_mainsite.asp?list=cat&#x26;id=1" />
+  <rdf:li rdf:resource="http://community.livejournal.com/lavandapop/profile" />
+  <rdf:li rdf:resource="http://www.paulsmith.co.uk/" />
+  <rdf:li rdf:resource="http://community.livejournal.com/lavandasport/" />
+  <rdf:li rdf:resource="http://www.nike.com/nikedunk/index.jhtml#l=homepage&#x26;co=UK&#x26;la=en" />
+  <rdf:li rdf:resource="http://www.pringlescotland.com/" />
+  <rdf:li rdf:resource="http://www.transcendusa.com/Support/DLCenter/index.asp" />
+  <rdf:li rdf:resource="http://www.crunchyroll.com/" />
+  <rdf:li rdf:resource="http://www.sirlin.net/Features/feature_PlayToWinPart1.htm" />
+  <rdf:li rdf:resource="http://ha.ckers.org/weird/tor.cgi" />
+  <rdf:li rdf:resource="http://torcheck.xenobite.eu/" />
+  <rdf:li rdf:resource="http://www.giotta.com/" />
+  <rdf:li rdf:resource="http://www.last.fm/tag/ninja+tune" />
+  <rdf:li rdf:resource="http://staff.tumblr.com/" />
+  <rdf:li rdf:resource="http://tomash.repost.org/chicks/zoe/" />
+  <rdf:li rdf:resource="http://studio.suse.com/" />
+  <rdf:li rdf:resource="http://www.mixx.com/" />
+  <rdf:li rdf:resource="http://www.ning.com/" />
+  <rdf:li rdf:resource="http://www.allgame.com/cg/agg.dll?p=agg&#x26;sql=1:11686~T2" />
+  <rdf:li rdf:resource="http://www.notebookreview.com/default.asp?newsID=3869" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=631979&#x26;highlight=pcsx2+feisty" />
+  <rdf:li rdf:resource="http://forum.lostpedia.com/showthread.php?t=11063" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Fundamental_force" />
+  <rdf:li rdf:resource="http://www.ultimate-guitar.com/tabs/i/iron_and_wine/teeth_in_the_grass_tab.htm" />
+  <rdf:li rdf:resource="http://www.kurobox.com/mwiki/index.php/Welcome_to_the_Kurobox_Wiki" />
+  <rdf:li rdf:resource="http://www.last.fm/group/New+Weird+Japan/connections" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://steve.blogme.us/2007/12/12/ubuntu-llmp-linux-lighttpd-mysql-php-with-phpmyadmin-and-cacti-tutorial/">
+<title>Steve&#x2019;s Ramblings &#xBB; Blog Archive &#xBB; Ubuntu LLMP (Linux Lighttpd MySQL PHP) with PHPMyAdmin and Cacti - Tutorial</title>
+<link>http://steve.blogme.us/2007/12/12/ubuntu-llmp-linux-lighttpd-mysql-php-with-phpmyadmin-and-cacti-tutorial/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-07-06T12:56:02Z</dc:date>
+<dc:subject>howto lighttpd mysql php server ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/lighttpd" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000&#xD7;2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-07-06T12:31:26Z</dc:date>
+<dc:subject>atom chart particle physics quantum science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pzizz.com/">
+<title>pzizz - treat sleep problems and increase energy</title>
+<link>http://pzizz.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-07-02T10:15:58Z</dc:date>
+<dc:subject>interesting sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://casualtygamer.com/2008/06/retro-wednesday-top-5-weirdest-games/">
+<title>Top #5 Weirdest Games | Casualty Gamer</title>
+<link>http://casualtygamer.com/2008/06/retro-wednesday-top-5-weirdest-games/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-30T22:51:06Z</dc:date>
+<dc:subject>8bit games gaming japan list weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/8bit" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gametunnel.com/articles.php?id=620">
+<title>Top 100 Independent Games by Game Tunnel</title>
+<link>http://www.gametunnel.com/articles.php?id=620</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-27T22:43:53Z</dc:date>
+<dc:subject>games gaming indie list top</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/top" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fredperrysubculture.com/musicplayer_mainsite.asp?list=cat&#x26;id=1">
+<title>Fred Perry - Music Player</title>
+<link>http://www.fredperrysubculture.com/musicplayer_mainsite.asp?list=cat&#x26;id=1</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-24T11:36:04Z</dc:date>
+<dc:subject>fred.perry free music music.player playlist tracks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/playlist" />
+    <rdf:li resource="http://del.icio.us/tag/music.player" />
+    <rdf:li resource="http://del.icio.us/tag/fred.perry" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tracks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.livejournal.com/lavandapop/profile">
+<title>lavandapop - about and tags</title>
+<link>http://community.livejournal.com/lavandapop/profile</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-24T11:31:21Z</dc:date>
+<dc:subject>fashion lavanda music style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/lavanda" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paulsmith.co.uk/">
+<title>Home - Paul Smith</title>
+<link>http://www.paulsmith.co.uk/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-24T10:58:42Z</dc:date>
+<dc:subject>clothes fashion shopping style uk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/clothes" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.livejournal.com/lavandasport/">
+<title>&#x41E;&#x444;&#x438;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x434;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A; &#x433;&#x440;&#x443;&#x43F;&#x43F;&#x44B; &#x22;&#x41B;&#x410;&#x412;&#x410;&#x41D;&#x414;&#x410;&#x22;</title>
+<link>http://community.livejournal.com/lavandasport/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-23T17:09:23Z</dc:date>
+<dc:subject>blog fashion lavanda music style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lavanda" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nike.com/nikedunk/index.jhtml#l=homepage&#x26;co=UK&#x26;la=en">
+<title>Nike.com - NikeDunk</title>
+<link>http://www.nike.com/nikedunk/index.jhtml#l=homepage&#x26;co=UK&#x26;la=en</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-23T17:01:09Z</dc:date>
+<dc:subject>fashion footwear shoes shopping style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/footwear" />
+    <rdf:li resource="http://del.icio.us/tag/shoes" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pringlescotland.com/">
+<title>Pringle of Scotland - Designers &#x26; manufacturers of the finest cashmere fashion and sportswear.</title>
+<link>http://www.pringlescotland.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-23T16:55:21Z</dc:date>
+<dc:subject>clothes fashion shopping style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/clothes" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.transcendusa.com/Support/DLCenter/index.asp">
+<title>Welcome to Transcend Website</title>
+<link>http://www.transcendusa.com/Support/DLCenter/index.asp</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-21T16:18:52Z</dc:date>
+<dc:subject>flash recovery tools usb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usb" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crunchyroll.com/">
+<title>crunchyroll - feed your need!</title>
+<link>http://www.crunchyroll.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-18T19:21:33Z</dc:date>
+<dc:subject>Asian anime movies streaming tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/Asian" />
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sirlin.net/Features/feature_PlayToWinPart1.htm">
+<title>Sirlin.net -- Your source of shocking insights on game design</title>
+<link>http://www.sirlin.net/Features/feature_PlayToWinPart1.htm</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-10T08:18:20Z</dc:date>
+<dc:subject>article gaming play.to.win strategy win</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/win" />
+    <rdf:li resource="http://del.icio.us/tag/play.to.win" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ha.ckers.org/weird/tor.cgi">
+<title>http://ha.ckers.org/weird/tor.cgi</title>
+<link>http://ha.ckers.org/weird/tor.cgi</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-09T19:47:07Z</dc:date>
+<dc:subject>Java TOR hack proxy security test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+    <rdf:li resource="http://del.icio.us/tag/TOR" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torcheck.xenobite.eu/">
+<title>TorCheck at Xenobite.eu - HTTP-Mode</title>
+<link>http://torcheck.xenobite.eu/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-09T19:33:14Z</dc:date>
+<dc:subject>Proxy TOR anonymous check ip privacy security test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/TOR" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+    <rdf:li resource="http://del.icio.us/tag/ip" />
+    <rdf:li resource="http://del.icio.us/tag/check" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/anonymous" />
+    <rdf:li resource="http://del.icio.us/tag/Proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.giotta.com/">
+<title>GUIDO GIOTTA PHOTOGRAPHY</title>
+<link>http://www.giotta.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-08T15:28:48Z</dc:date>
+<dc:subject>fashion photography portfolio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.last.fm/tag/ninja+tune">
+<title>ninja tune tag &#x2013; Music at Last.fm</title>
+<link>http://www.last.fm/tag/ninja+tune</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-05T18:03:00Z</dc:date>
+<dc:subject>indie music ninja ninja.tune tune</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/ninja" />
+    <rdf:li resource="http://del.icio.us/tag/tune" />
+    <rdf:li resource="http://del.icio.us/tag/ninja.tune" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://staff.tumblr.com/">
+<title>Tumblr Staff</title>
+<link>http://staff.tumblr.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-05T12:35:40Z</dc:date>
+<dc:subject>best.designs best.of.web2.0 blog simple.design tumblr web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/best.designs" />
+    <rdf:li resource="http://del.icio.us/tag/simple.design" />
+    <rdf:li resource="http://del.icio.us/tag/best.of.web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tumblr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomash.repost.org/chicks/zoe/">
+<title>http://tomash.repost.org/chicks/zoe/</title>
+<link>http://tomash.repost.org/chicks/zoe/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-03T15:22:42Z</dc:date>
+<dc:subject>album do.want gallery girl jb photos zoe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zoe" />
+    <rdf:li resource="http://del.icio.us/tag/jb" />
+    <rdf:li resource="http://del.icio.us/tag/do.want" />
+    <rdf:li resource="http://del.icio.us/tag/girl" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/album" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://studio.suse.com/">
+<title>SUSE Studio Signup</title>
+<link>http://studio.suse.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-02T19:08:26Z</dc:date>
+<dc:subject>distro linux suse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/distro" />
+    <rdf:li resource="http://del.icio.us/tag/suse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mixx.com/">
+<title>Mixx - News, photo, and video sharing</title>
+<link>http://www.mixx.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-02T18:09:50Z</dc:date>
+<dc:subject>best.designs best.of.web2.0 news social social.news web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/best.of.web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/best.designs" />
+    <rdf:li resource="http://del.icio.us/tag/social.news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ning.com/">
+<title>Ning. Create your own social network for anything.</title>
+<link>http://www.ning.com/</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T23:38:23Z</dc:date>
+<dc:subject>best.designs best.of.web2.0 design social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/best.of.web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/best.designs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allgame.com/cg/agg.dll?p=agg&#x26;sql=1:11686~T2">
+<title>allgame ((( The Legend of Zelda: Ocarina of Time &#x3E; Controls )))</title>
+<link>http://www.allgame.com/cg/agg.dll?p=agg&#x26;sql=1:11686~T2</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:49:30Z</dc:date>
+<dc:subject>controller controls gaming n64 nintendo zelda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zelda" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/controls" />
+    <rdf:li resource="http://del.icio.us/tag/controller" />
+    <rdf:li resource="http://del.icio.us/tag/nintendo" />
+    <rdf:li resource="http://del.icio.us/tag/n64" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.notebookreview.com/default.asp?newsID=3869">
+<title>Samsung Q45 Review</title>
+<link>http://www.notebookreview.com/default.asp?newsID=3869</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:49:01Z</dc:date>
+<dc:subject>hardware laptop q45 reviews samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/reviews" />
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+    <rdf:li resource="http://del.icio.us/tag/q45" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=631979&#x26;highlight=pcsx2+feisty">
+<title>Compiling PCSX2 from SVN - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=631979&#x26;highlight=pcsx2+feisty</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:47:37Z</dc:date>
+<dc:subject>emulation gaming howto pcsx2 persona3 ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/pcsx2" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/persona3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.lostpedia.com/showthread.php?t=11063">
+<title>Black holes in &#x22;The Constant&#x22; - Lostpedia Forums</title>
+<link>http://forum.lostpedia.com/showthread.php?t=11063</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:46:30Z</dc:date>
+<dc:subject>black.holes interesting lost physics series tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/black.holes" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/lost" />
+    <rdf:li resource="http://del.icio.us/tag/series" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Fundamental_force">
+<title>Fundamental interaction - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Fundamental_force</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:45:31Z</dc:date>
+<dc:subject>forces fundamental interaction nature physics reading science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/fundamental" />
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/forces" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ultimate-guitar.com/tabs/i/iron_and_wine/teeth_in_the_grass_tab.htm">
+<title>Teeth In The Grass Tab by Iron And Wine @ Ultimate-Guitar.Com</title>
+<link>http://www.ultimate-guitar.com/tabs/i/iron_and_wine/teeth_in_the_grass_tab.htm</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:44:49Z</dc:date>
+<dc:subject>chords guitar music tabs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chords" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/tabs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kurobox.com/mwiki/index.php/Welcome_to_the_Kurobox_Wiki">
+<title>Welcome to the Kurobox Wiki - Kurobox Central</title>
+<link>http://www.kurobox.com/mwiki/index.php/Welcome_to_the_Kurobox_Wiki</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:43:56Z</dc:date>
+<dc:subject>kurobox linux projects server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kurobox" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/projects" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.last.fm/group/New+Weird+Japan/connections">
+<title>New Weird Japan&#x2019;s Connections &#x2013; Groups at Last.fm</title>
+<link>http://www.last.fm/group/New+Weird+Japan/connections</link>
+<description></description>
+<dc:creator>vinyl1337</dc:creator>
+<dc:date>2008-06-01T14:43:08Z</dc:date>
+<dc:subject>artists groups indie japan music new weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/artists" />
+    <rdf:li resource="http://del.icio.us/tag/groups" />
+    <rdf:li resource="http://del.icio.us/tag/new" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

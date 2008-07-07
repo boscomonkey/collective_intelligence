@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/warstrekkid">
+<title>del.icio.us/warstrekkid</title>
+<link>http://del.icio.us/warstrekkid</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yudkowsky.net/bayes/bayes.html" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html?ex=1372737600&#x26;en=5de20a5d2fcc2cb1&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_Django" />
+  <rdf:li rdf:resource="http://biology.plosjournals.org/perlserv/?request=get-document&#x26;doi=10.1371/journal.pbio.0060159&#x26;ct=1" />
+  <rdf:li rdf:resource="http://www.sciencedaily.com/releases/2008/06/080630093618.htm" />
+  <rdf:li rdf:resource="http://www.joystiq.com/2008/06/30/wwi08-diablo-3-design-fundamentals/" />
+  <rdf:li rdf:resource="http://online.wsj.com/article_email/SB121450609076407973-lMyQjAxMDI4MTI0NzUyMDc2Wj.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/technology/29digi.html?_r=1&#x26;adxnnl=1&#x26;oref=slogin&#x26;ref=technology&#x26;adxnnlx=1214886906-bTxTxI8k1aUtkVVX9uGMuQ" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/30/business/30milk.html?_r=1&#x26;th=&#x26;adxnnl=1&#x26;oref=slogin&#x26;emc=th&#x26;adxnnlx=1214839235-b1aDOLiffve9x6IcnqBUBg" />
+  <rdf:li rdf:resource="http://www.diveintopython.org/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/sports/baseball/29pitcher.html?th&#x26;emc=th" />
+  <rdf:li rdf:resource="http://web.psung.name/emacstips/topten.html" />
+  <rdf:li rdf:resource="http://www.gamasutra.com/view/feature/3704/innovations_in_character_.php" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/26/scihawking126.xml" />
+  <rdf:li rdf:resource="http://amarsagoo.info/tofu/" />
+  <rdf:li rdf:resource="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory/#/" />
+  <rdf:li rdf:resource="http://www.claymath.org/Popular_Lectures/Minesweeper/" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/commentisfree/2008/jun/21/2" />
+  <rdf:li rdf:resource="http://web.mit.edu/newsoffice/2008/astrocytes-0619.html" />
+  <rdf:li rdf:resource="http://www.tomhinrichs.com/" />
+  <rdf:li rdf:resource="http://www.windley.com/archives/2007/10/fixing_macbook_pro_sleep_problems.shtml" />
+  <rdf:li rdf:resource="http://www.sciam.com/article.cfm?id=simple-groups-at-play" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/business/7464074.stm" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert/" />
+  <rdf:li rdf:resource="http://www.sciam.com/article.cfm?id=the-expert-mind&#x26;print=true" />
+  <rdf:li rdf:resource="http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/22/weekinreview/22itzkoff.html?_r=1&#x26;th&#x26;emc=th&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/26/business/media/26link.html?_r=2&#x26;oref=slogin&#x26;oref=slogin" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://yudkowsky.net/bayes/bayes.html">
+<title>An Intuitive Explanation of Bayesian Reasoning</title>
+<link>http://yudkowsky.net/bayes/bayes.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-06T06:52:36Z</dc:date>
+<dc:subject>bayestheorem math toread tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bayestheorem" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-06T06:51:08Z</dc:date>
+<dc:subject>ai mit research toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html?ex=1372737600&#x26;en=5de20a5d2fcc2cb1&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg">
+<title>Personal Best - Fitting Heat and Humidity Into Your Workouts - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html?ex=1372737600&#x26;en=5de20a5d2fcc2cb1&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-04T20:51:35Z</dc:date>
+<dc:subject>fitness heat nyt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+    <rdf:li resource="http://del.icio.us/tag/heat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_Django">
+<title>Get Started With Django - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_Django</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-04T18:26:49Z</dc:date>
+<dc:subject>development django programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://biology.plosjournals.org/perlserv/?request=get-document&#x26;doi=10.1371/journal.pbio.0060159&#x26;ct=1">
+<title>PLoS Biology - Mapping the Structural Core of Human Cerebral Cortex</title>
+<link>http://biology.plosjournals.org/perlserv/?request=get-document&#x26;doi=10.1371/journal.pbio.0060159&#x26;ct=1</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-03T20:44:56Z</dc:date>
+<dc:subject>neuroscience toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciencedaily.com/releases/2008/06/080630093618.htm">
+<title>How Does Language Exist In The Brain?</title>
+<link>http://www.sciencedaily.com/releases/2008/06/080630093618.htm</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-02T04:00:46Z</dc:date>
+<dc:subject>language toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.joystiq.com/2008/06/30/wwi08-diablo-3-design-fundamentals/">
+<title>WWI08: Diablo 3 design fundamentals - Joystiq</title>
+<link>http://www.joystiq.com/2008/06/30/wwi08-diablo-3-design-fundamentals/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-01T17:33:00Z</dc:date>
+<dc:subject>blizzard d3 design gaming rpg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d3" />
+    <rdf:li resource="http://del.icio.us/tag/blizzard" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/rpg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://online.wsj.com/article_email/SB121450609076407973-lMyQjAxMDI4MTI0NzUyMDc2Wj.html">
+<title>Science Journal - WSJ.com</title>
+<link>http://online.wsj.com/article_email/SB121450609076407973-lMyQjAxMDI4MTI0NzUyMDc2Wj.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-01T16:57:14Z</dc:date>
+<dc:subject>decisionmaking freewill neuroscience wsj</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freewill" />
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/wsj" />
+    <rdf:li resource="http://del.icio.us/tag/decisionmaking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/technology/29digi.html?_r=1&#x26;adxnnl=1&#x26;oref=slogin&#x26;ref=technology&#x26;adxnnlx=1214886906-bTxTxI8k1aUtkVVX9uGMuQ">
+<title>Digital Domain - Why Windows Software Could Use a Rush of Fresh Air - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/technology/29digi.html?_r=1&#x26;adxnnl=1&#x26;oref=slogin&#x26;ref=technology&#x26;adxnnlx=1214886906-bTxTxI8k1aUtkVVX9uGMuQ</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-07-01T04:35:41Z</dc:date>
+<dc:subject>nyt toread windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/30/business/30milk.html?_r=1&#x26;th=&#x26;adxnnl=1&#x26;oref=slogin&#x26;emc=th&#x26;adxnnlx=1214839235-b1aDOLiffve9x6IcnqBUBg">
+<title>Solution, or Mess? A Milk Jug for a Green Earth - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/30/business/30milk.html?_r=1&#x26;th=&#x26;adxnnl=1&#x26;oref=slogin&#x26;emc=th&#x26;adxnnlx=1214839235-b1aDOLiffve9x6IcnqBUBg</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-30T15:23:55Z</dc:date>
+<dc:subject>green milkjug nyt productdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/green" />
+    <rdf:li resource="http://del.icio.us/tag/productdesign" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+    <rdf:li resource="http://del.icio.us/tag/milkjug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diveintopython.org/">
+<title>Dive Into Python</title>
+<link>http://www.diveintopython.org/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-30T04:11:23Z</dc:date>
+<dc:subject>book free programming python tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/sports/baseball/29pitcher.html?th&#x26;emc=th">
+<title>1968 - A Country In a Low Era, A Game With A Low E.R.A. - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/sports/baseball/29pitcher.html?th&#x26;emc=th</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-29T18:42:14Z</dc:date>
+<dc:subject>baseball history nyt pitching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/baseball" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/pitching" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.psung.name/emacstips/topten.html">
+<title>Top ten essential Emacs tips</title>
+<link>http://web.psung.name/emacstips/topten.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-29T05:23:24Z</dc:date>
+<dc:subject>emacs programming tips toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamasutra.com/view/feature/3704/innovations_in_character_.php">
+<title>Gamasutra - Innovations In Character: Personalizing RPGs, Retaining Players</title>
+<link>http://www.gamasutra.com/view/feature/3704/innovations_in_character_.php</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-29T05:09:18Z</dc:date>
+<dc:subject>design gaming rpg toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/rpg" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/26/scihawking126.xml">
+<title>Stephen Hawking's explosive new theory - Telegraph</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/26/scihawking126.xml</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-27T05:38:58Z</dc:date>
+<dc:subject>bigbang cosmology quantumphysics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quantumphysics" />
+    <rdf:li resource="http://del.icio.us/tag/cosmology" />
+    <rdf:li resource="http://del.icio.us/tag/bigbang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://amarsagoo.info/tofu/">
+<title>Tofu</title>
+<link>http://amarsagoo.info/tofu/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-27T05:06:59Z</dc:date>
+<dc:subject>apps columns download free macos tofu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/macos" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/tofu" />
+    <rdf:li resource="http://del.icio.us/tag/columns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory/#/">
+<title>The End of Theory: The Data Deluge Makes the Scientific Method Obsolete</title>
+<link>http://www.wired.com/science/discoveries/magazine/16-07/pb_theory/#/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-26T20:11:23Z</dc:date>
+<dc:subject>data scientificmethod toread wired</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scientificmethod" />
+    <rdf:li resource="http://del.icio.us/tag/wired" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.claymath.org/Popular_Lectures/Minesweeper/">
+<title>Clay Mathematics Institute</title>
+<link>http://www.claymath.org/Popular_Lectures/Minesweeper/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-25T16:31:53Z</dc:date>
+<dc:subject>algorithms clay minesweeper npcompleteness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clay" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/minesweeper" />
+    <rdf:li resource="http://del.icio.us/tag/npcompleteness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all">
+<title>Annals of Medicine: The Itch: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-24T20:47:07Z</dc:date>
+<dc:subject>itch neuroscience newyorker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/itch" />
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/newyorker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/commentisfree/2008/jun/21/2">
+<title>Ben Goldacre: Why reading should not be believing | Comment is free | The Guardian</title>
+<link>http://www.guardian.co.uk/commentisfree/2008/jun/21/2</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-24T20:16:58Z</dc:date>
+<dc:subject>guardian oped sciencejournalism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sciencejournalism" />
+    <rdf:li resource="http://del.icio.us/tag/guardian" />
+    <rdf:li resource="http://del.icio.us/tag/oped" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.mit.edu/newsoffice/2008/astrocytes-0619.html">
+<title>MIT unlocks mystery behind brain imaging - MIT News Office</title>
+<link>http://web.mit.edu/newsoffice/2008/astrocytes-0619.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-24T16:48:04Z</dc:date>
+<dc:subject>bloodflow brainimaging mit neuroscience research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/brainimaging" />
+    <rdf:li resource="http://del.icio.us/tag/bloodflow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tomhinrichs.com/">
+<title>Tom Hinrichs</title>
+<link>http://www.tomhinrichs.com/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-24T16:45:50Z</dc:date>
+<dc:subject>ai cognitivearchitecture machinelearning research rts transferlearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/cognitivearchitecture" />
+    <rdf:li resource="http://del.icio.us/tag/rts" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/machinelearning" />
+    <rdf:li resource="http://del.icio.us/tag/transferlearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.windley.com/archives/2007/10/fixing_macbook_pro_sleep_problems.shtml">
+<title>Phil Windley's Technometria | Fixing MacBook Pro Sleep Problems</title>
+<link>http://www.windley.com/archives/2007/10/fixing_macbook_pro_sleep_problems.shtml</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-24T00:07:00Z</dc:date>
+<dc:subject>fix mbp sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mbp" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/fix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciam.com/article.cfm?id=simple-groups-at-play">
+<title>Rubik's Cube Inspired Puzzles Demonstrate Math's &#x22;Simple Groups&#x22;: Scientific American</title>
+<link>http://www.sciam.com/article.cfm?id=simple-groups-at-play</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-23T19:41:37Z</dc:date>
+<dc:subject>puzzles rubikscube sciam toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubikscube" />
+    <rdf:li resource="http://del.icio.us/tag/sciam" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/business/7464074.stm">
+<title>BBC NEWS | Business | The secret of Bill Gates' success</title>
+<link>http://news.bbc.co.uk/2/hi/business/7464074.stm</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-23T19:36:00Z</dc:date>
+<dc:subject>bbc billgates interview toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/billgates" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/bbc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert/">
+<title>Annals of Innovation: Dymaxion Man: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-23T19:29:08Z</dc:date>
+<dc:subject>buckminsterfuller newyorker review toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newyorker" />
+    <rdf:li resource="http://del.icio.us/tag/buckminsterfuller" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciam.com/article.cfm?id=the-expert-mind&#x26;print=true">
+<title>The Expert Mind: Scientific American</title>
+<link>http://www.sciam.com/article.cfm?id=the-expert-mind&#x26;print=true</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-23T16:12:03Z</dc:date>
+<dc:subject>expert sciam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expert" />
+    <rdf:li resource="http://del.icio.us/tag/sciam" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html">
+<title>Gates without Microsoft - FORTUNE Magazine</title>
+<link>http://money.cnn.com/magazines/fortune/storysupplement/gates_microsoft/index.html</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-22T20:25:07Z</dc:date>
+<dc:subject>billgates history microsoft slideshow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/billgates" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/22/weekinreview/22itzkoff.html?_r=1&#x26;th&#x26;emc=th&#x26;oref=slogin">
+<title>Ideas and Trends - The Shootout Over Hidden Meanings in a Video Game - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/22/weekinreview/22itzkoff.html?_r=1&#x26;th&#x26;emc=th&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-22T18:39:09Z</dc:date>
+<dc:subject>commentary gaming literature mgs nyt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mgs" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/commentary" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/">
+<title>The Simple Dollar &#xBB; Seven Ideas for Preparing Food at Home Cheaply with Minimal Space and Resources</title>
+<link>http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-22T05:45:35Z</dc:date>
+<dc:subject>cooking tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/26/business/media/26link.html?_r=2&#x26;oref=slogin&#x26;oref=slogin">
+<title>Link by Link - This Is Funny Only if You Know Unix - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/05/26/business/media/26link.html?_r=2&#x26;oref=slogin&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>warstrekkid</dc:creator>
+<dc:date>2008-06-22T03:09:18Z</dc:date>
+<dc:subject>comics interview nyt xkcd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xkcd" />
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/nyt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

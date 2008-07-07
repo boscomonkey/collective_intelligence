@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/m.zielinski">
+<title>del.icio.us/m.zielinski</title>
+<link>http://del.icio.us/m.zielinski</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://www.netzzeug.de/doppel-o-agenten/" />
+  <rdf:li rdf:resource="http://smartplaylists.com/" />
+  <rdf:li rdf:resource="http://forums.ilounge.com/showthread.php?t=174182" />
+  <rdf:li rdf:resource="http://wiki.openstreetmap.org/index.php/User:Computerteddy" />
+  <rdf:li rdf:resource="http://emexes.powweb.com/osm/" />
+  <rdf:li rdf:resource="http://www.ipodarcade.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free" />
+  <rdf:li rdf:resource="http://blog.dtmland.com/2008/04/using-itunes-to-semi-solve-multiple.html" />
+  <rdf:li rdf:resource="http://www.ipodwizard.net/cmps_index.php" />
+  <rdf:li rdf:resource="http://www.ifun.de/content/view/662/53/" />
+  <rdf:li rdf:resource="http://mypod.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.ifun.de/content/view/2949/1/" />
+  <rdf:li rdf:resource="http://www.simplehelp.net/2007/07/08/10-alternatives-to-itunes-for-managing-your-ipod/" />
+  <rdf:li rdf:resource="http://www.poddox.com/" />
+  <rdf:li rdf:resource="http://www.floola.com/modules/wiwimod/" />
+  <rdf:li rdf:resource="http://www.ephpod.com/" />
+  <rdf:li rdf:resource="http://www.yamipod.com/" />
+  <rdf:li rdf:resource="http://www.withopf.com/tools/usbagent/" />
+  <rdf:li rdf:resource="http://forum.xda-developers.com/showpost.php?p=1897000&#x26;postcount=3" />
+  <rdf:li rdf:resource="http://forum.xda-developers.com/showpost.php?p=1227587&#x26;postcount=20" />
+  <rdf:li rdf:resource="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying" />
+  <rdf:li rdf:resource="http://windowsvistablog.com/blogs/windowsexperience/archive/2008/06/03/windows-search-4-0-released-to-web.aspx" />
+  <rdf:li rdf:resource="http://safemanuals.com/" />
+  <rdf:li rdf:resource="http://www.heise.de/mobil/Windows-Mobile-PDAs-fuer-VPN-einrichten--/artikel/67998/2#literatur" />
+  <rdf:li rdf:resource="http://www.archive.org/details/George-Orwell-1984-Audio-book" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/robch/archive/tags/Macros/default.aspx" />
+  <rdf:li rdf:resource="http://www.blackviper.com/WinVista/servicecfg.htm" />
+  <rdf:li rdf:resource="http://de.youtube.com/watch?v=EYoGYqGl4O0" />
+  <rdf:li rdf:resource="http://www.colorado-300.de/garmin-tipps-und-tricks/index.html" />
+  <rdf:li rdf:resource="http://www.melibokus-biker.de/melibokus-biker.de/gps/gpsconv/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-07-06T10:32:16Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netzzeug.de/doppel-o-agenten/">
+<title>Die Doppel-O-Agenten oschn</title>
+<link>http://www.netzzeug.de/doppel-o-agenten/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-07-05T05:40:48Z</dc:date>
+<dc:subject>Geocaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Geocaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://smartplaylists.com/">
+<title>Smart Playlists.com - Tipps for ITunes Smart Playlists</title>
+<link>http://smartplaylists.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-07-02T09:39:13Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.ilounge.com/showthread.php?t=174182">
+<title>How-to: iTunes on USB drive (PC only)</title>
+<link>http://forums.ilounge.com/showthread.php?t=174182</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-07-02T05:27:24Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.openstreetmap.org/index.php/User:Computerteddy">
+<title>OpenStreetMap for Garmin</title>
+<link>http://wiki.openstreetmap.org/index.php/User:Computerteddy</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-07-01T05:25:33Z</dc:date>
+<dc:subject>gps maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emexes.powweb.com/osm/">
+<title>OpenStreetMap garmin routable</title>
+<link>http://emexes.powweb.com/osm/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-30T19:46:33Z</dc:date>
+<dc:subject>gps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ipodarcade.com/">
+<title>iPod Arcade | Free iPod Games</title>
+<link>http://www.ipodarcade.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-30T03:36:39Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free">
+<title>IPod: Copy Music from Your iPhone or iPod to Your Computer for Free</title>
+<link>http://lifehacker.com/394046/copy-music-from-your-iphone-or-ipod-to-your-computer-for-free</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-26T13:11:32Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.dtmland.com/2008/04/using-itunes-to-semi-solve-multiple.html">
+<title>DanTheMan Land: using itunes to semi-solve multiple genre angst</title>
+<link>http://blog.dtmland.com/2008/04/using-itunes-to-semi-solve-multiple.html</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-25T13:12:37Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ipodwizard.net/cmps_index.php">
+<title>iPodWizard.net - Theme Modding</title>
+<link>http://www.ipodwizard.net/cmps_index.php</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-24T10:34:41Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifun.de/content/view/662/53/">
+<title>Tipps und Tricks mit intelligenten Wiedergabelisten</title>
+<link>http://www.ifun.de/content/view/662/53/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T13:24:43Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mypod.sourceforge.net/">
+<title>myPod - Playlist Manager</title>
+<link>http://mypod.sourceforge.net/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T12:19:02Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifun.de/content/view/2949/1/">
+<title>Freeware-Roundup: Alle iTunes-Alternativen</title>
+<link>http://www.ifun.de/content/view/2949/1/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T12:12:11Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplehelp.net/2007/07/08/10-alternatives-to-itunes-for-managing-your-ipod/">
+<title>10 Alternatives to iTunes for managing your iPod</title>
+<link>http://www.simplehelp.net/2007/07/08/10-alternatives-to-itunes-for-managing-your-ipod/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T11:52:41Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.poddox.com/">
+<title>iPod Software PoddoX, iTunes alternative</title>
+<link>http://www.poddox.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T11:48:34Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.floola.com/modules/wiwimod/">
+<title>floola.com - ipod</title>
+<link>http://www.floola.com/modules/wiwimod/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T11:38:58Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ephpod.com/">
+<title>EphPod - iPod for Windows (and Linux)</title>
+<link>http://www.ephpod.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T11:32:44Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yamipod.com/">
+<title>Yet another iPod manager</title>
+<link>http://www.yamipod.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-23T11:05:23Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.withopf.com/tools/usbagent/">
+<title>USBAgent - start programs on mount/dismount</title>
+<link>http://www.withopf.com/tools/usbagent/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-19T06:27:54Z</dc:date>
+<dc:subject>USB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/USB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.xda-developers.com/showpost.php?p=1897000&#x26;postcount=3">
+<title>Provisioning xml for Files Email Wifi</title>
+<link>http://forum.xda-developers.com/showpost.php?p=1897000&#x26;postcount=3</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-18T17:05:05Z</dc:date>
+<dc:subject>PocketPC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PocketPC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.xda-developers.com/showpost.php?p=1227587&#x26;postcount=20">
+<title>Wifi Provisioning xml</title>
+<link>http://forum.xda-developers.com/showpost.php?p=1227587&#x26;postcount=20</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-18T17:04:10Z</dc:date>
+<dc:subject>PocketPC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PocketPC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying">
+<title>Windows Vista: How to Make Windows Vista Less Annoying</title>
+<link>http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-17T11:47:37Z</dc:date>
+<dc:subject>Vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/Vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://windowsvistablog.com/blogs/windowsexperience/archive/2008/06/03/windows-search-4-0-released-to-web.aspx">
+<title>The Windows Experience Blog : Windows Search 4.0 Released to Web</title>
+<link>http://windowsvistablog.com/blogs/windowsexperience/archive/2008/06/03/windows-search-4-0-released-to-web.aspx</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-12T14:27:38Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://safemanuals.com/">
+<title>Find your user guide - Anleitungen</title>
+<link>http://safemanuals.com/</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-12T14:25:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.heise.de/mobil/Windows-Mobile-PDAs-fuer-VPN-einrichten--/artikel/67998/2#literatur">
+<title>Windows-Mobile-PDAs-fuer-VPN-einrichten</title>
+<link>http://www.heise.de/mobil/Windows-Mobile-PDAs-fuer-VPN-einrichten--/artikel/67998/2#literatur</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-11T11:28:13Z</dc:date>
+<dc:subject>PocketPC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PocketPC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.archive.org/details/George-Orwell-1984-Audio-book">
+<title>George-Orwell-1984-Audio-book</title>
+<link>http://www.archive.org/details/George-Orwell-1984-Audio-book</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-09T07:34:53Z</dc:date>
+<dc:subject>free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/robch/archive/tags/Macros/default.aspx">
+<title>WIndows Speech Recognition Macros</title>
+<link>http://blogs.msdn.com/robch/archive/tags/Macros/default.aspx</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-04T05:30:15Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blackviper.com/WinVista/servicecfg.htm">
+<title>Windows Vista SP1 Service Configurations by Black Viper</title>
+<link>http://www.blackviper.com/WinVista/servicecfg.htm</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-06-03T16:25:01Z</dc:date>
+<dc:subject>vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.youtube.com/watch?v=EYoGYqGl4O0">
+<title>YouTube - WWFM III Germany - Supervised by Herkules GC19BJY</title>
+<link>http://de.youtube.com/watch?v=EYoGYqGl4O0</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-05-22T07:29:31Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.colorado-300.de/garmin-tipps-und-tricks/index.html">
+<title>Garmin Colorado 300 - Tipps und Tricks</title>
+<link>http://www.colorado-300.de/garmin-tipps-und-tricks/index.html</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-05-16T09:23:31Z</dc:date>
+<dc:subject>gps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.melibokus-biker.de/melibokus-biker.de/gps/gpsconv/index.html">
+<title>GPSConv GSP track splitting for colorado</title>
+<link>http://www.melibokus-biker.de/melibokus-biker.de/gps/gpsconv/index.html</link>
+<description></description>
+<dc:creator>m.zielinski</dc:creator>
+<dc:date>2008-05-15T06:18:56Z</dc:date>
+<dc:subject>gps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

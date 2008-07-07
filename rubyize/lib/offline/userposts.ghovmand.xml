@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ghovmand">
+<title>del.icio.us/ghovmand</title>
+<link>http://del.icio.us/ghovmand</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://code.google.com/p/moq/" />
+  <rdf:li rdf:resource="http://www.extensionmethod.net/" />
+  <rdf:li rdf:resource="http://msevents.microsoft.com/" />
+  <rdf:li rdf:resource="http://www.flock.com/" />
+  <rdf:li rdf:resource="http://mmagee.com/philclub/games.htm" />
+  <rdf:li rdf:resource="http://goonswithspoons.com/" />
+  <rdf:li rdf:resource="http://forum.mininova.org/index.php?showtopic=235000396" />
+  <rdf:li rdf:resource="http://www.funny-city.com/1845/" />
+  <rdf:li rdf:resource="http://www.earos.dk/" />
+  <rdf:li rdf:resource="http://www.goldenmp3.ru/" />
+  <rdf:li rdf:resource="http://www.gamingdelight.com/games/red.swf" />
+  <rdf:li rdf:resource="http://sixrevisions.com/ajax/ajax_techniques/" />
+  <rdf:li rdf:resource="http://arcade.itch.com/games/tank-defense/" />
+  <rdf:li rdf:resource="http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/" />
+  <rdf:li rdf:resource="http://live.sysinternals.com/" />
+  <rdf:li rdf:resource="http://www.productivity501.com/105-free-college-lectures/830/" />
+  <rdf:li rdf:resource="http://devkick.com/blog/milestone-01-70-high-end-components-for-web-designers-and-developers/" />
+  <rdf:li rdf:resource="http://www.webdesignerwall.com/" />
+  <rdf:li rdf:resource="http://www.kinowear.com/blog/the-elusive-perfect-shave/" />
+  <rdf:li rdf:resource="http://tuxtraining.com/2008/05/12/crack-password-protected-zip-rar-7z-and-pdf-files-in-linux/" />
+  <rdf:li rdf:resource="http://www.csharpopensource.com/" />
+  <rdf:li rdf:resource="http://www.fwatheater.com/#" />
+  <rdf:li rdf:resource="http://www.elise.com/recipes/archives/007245jamaican_jerk_burgers.php" />
+  <rdf:li rdf:resource="http://www.cubeecraft.com/" />
+  <rdf:li rdf:resource="http://chrispederick.com/work/web-developer/" />
+  <rdf:li rdf:resource="http://clean-ajax.sourceforge.net/index.php?tab=about" />
+  <rdf:li rdf:resource="http://csstidy.sourceforge.net/index.php" />
+  <rdf:li rdf:resource="http://code.google.com/p/blueprintcss/" />
+  <rdf:li rdf:resource="http://spritegen.website-performance.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description>I decided to start assembling the links in one location for my own reference if not some other geek without the funds for their own degree.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-06T13:09:36Z</dc:date>
+<dc:subject>courses education lists programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description>This post is more of a note to me so I know what to do when I need to install XP again, as I have just un-installed Vista after a months use and gone back to XP.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-06T12:55:26Z</dc:date>
+<dc:subject>desktop lists windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/moq/">
+<title>moq - Google Code</title>
+<link>http://code.google.com/p/moq/</link>
+<description>Moq (pronounced &#x26;quot;Mock-you&#x26;quot; or just &#x26;quot;Mock&#x26;quot;) is the only mocking library for .NET developed from scratch to take full advantage of .NET 3.5 (i.e. Linq expression trees) and C# 3.0 features (i.e. lambda expressions)</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-06T12:04:25Z</dc:date>
+<dc:subject>.net development framework programming tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.extensionmethod.net/">
+<title>Extension Method</title>
+<link>http://www.extensionmethod.net/</link>
+<description>ExtensionMethod.NET is a website on which .NET developers download and upload extension methods. It contains many user-rated methods that will expand your code library immediately.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-03T07:01:53Z</dc:date>
+<dc:subject>.net development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msevents.microsoft.com/">
+<title>Find MSDN Events and Webcasts</title>
+<link>http://msevents.microsoft.com/</link>
+<description>Webcasts from MS</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-02T07:05:31Z</dc:date>
+<dc:subject>online shortcut:msdnevents webcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webcast" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/shortcut:msdnevents" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flock.com/">
+<title>Flock</title>
+<link>http://www.flock.com/</link>
+<description>Flock is a tool that empower people and smooth out some of the more hairy parts of living and working online.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-07-01T12:54:15Z</dc:date>
+<dc:subject>bookmarks browser internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mmagee.com/philclub/games.htm">
+<title>etsu philosophy club: philosophy games</title>
+<link>http://mmagee.com/philclub/games.htm</link>
+<description>	</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-17T12:03:35Z</dc:date>
+<dc:subject>fun games online philosophy tests</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tests" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://goonswithspoons.com/">
+<title>GOONS WITH SPOONS - Main Page</title>
+<link>http://goonswithspoons.com/</link>
+<description>Welcome to Goons with Spoons, the SA recipe wiki.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-17T10:25:45Z</dc:date>
+<dc:subject>cooking food recipes wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.mininova.org/index.php?showtopic=235000396">
+<title>DVD to AVI - Mininova</title>
+<link>http://forum.mininova.org/index.php?showtopic=235000396</link>
+<description>AutoGK includes everything you need to rip DVD to AVI/DivX/XVid.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-17T10:22:15Z</dc:date>
+<dc:subject>dvd howto tutorials video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.funny-city.com/1845/">
+<title>Spin the black circle</title>
+<link>http://www.funny-city.com/1845/</link>
+<description>It may seem easy but it is not. Spin the center part and try to get the ball to the end of the stage. Let gravity do the work for you.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-12T10:06:54Z</dc:date>
+<dc:subject>fun games online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.earos.dk/">
+<title>eAR OS Free Edition and eAR RT-OS Enterprice Edition</title>
+<link>http://www.earos.dk/</link>
+<description>State-of-the-art video- and audiophile Operating System with the eAR Media Center</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-12T09:55:22Z</dc:date>
+<dc:subject>linux media video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.goldenmp3.ru/">
+<title>Mp3 Music Download - GoldenMp3.RU</title>
+<link>http://www.goldenmp3.ru/</link>
+<description>Online music purchase centre</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-05T12:29:21Z</dc:date>
+<dc:subject>download mp3 music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamingdelight.com/games/red.swf">
+<title>Shooting game</title>
+<link>http://www.gamingdelight.com/games/red.swf</link>
+<description>Shooting from an iglo at large balls!</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-04T07:49:56Z</dc:date>
+<dc:subject>fun games online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/ajax/ajax_techniques/">
+<title>25 Excellent Ajax Techniques and Examples - Six Revisions</title>
+<link>http://sixrevisions.com/ajax/ajax_techniques/</link>
+<description>25 hand-picked Ajax articles and tutorials that outline various methods and concepts involved in the development of Ajax-based applications.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-03T19:33:05Z</dc:date>
+<dc:subject>ajax css development html webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arcade.itch.com/games/tank-defense/">
+<title>Tank Defense - a game @ itch.com</title>
+<link>http://arcade.itch.com/games/tank-defense/</link>
+<description>Good tank game</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-06-03T06:36:07Z</dc:date>
+<dc:subject>games online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/">
+<title>30 Useful PHP Classes and Components &#xAB; PHP::Impact ( [str blog] )</title>
+<link>http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/</link>
+<description>Below I present 30 useful PHP classes and components that you can use to test, develop and deploy your PHP applications.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-30T17:59:12Z</dc:date>
+<dc:subject>php programming web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://live.sysinternals.com/">
+<title>live.sysinternals.com - /</title>
+<link>http://live.sysinternals.com/</link>
+<description>This is a file share allowing access to all Sysinternals utilities. We have developed this to test an alternate distribution mechanism for our utilities.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-29T09:15:54Z</dc:date>
+<dc:subject>os tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.productivity501.com/105-free-college-lectures/830/">
+<title>105 Free College Lectures : Productivity501</title>
+<link>http://www.productivity501.com/105-free-college-lectures/830/</link>
+<description>Here is a big list of 105 current college classes with free lectures online. Most of them have RSS feeds of podcasts you can subscribe to.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-29T07:02:27Z</dc:date>
+<dc:subject>education podcast video web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devkick.com/blog/milestone-01-70-high-end-components-for-web-designers-and-developers/">
+<title>Milestone 01 - 70+ High-End Components for Web Designers and Developers : DevKick Blog</title>
+<link>http://devkick.com/blog/milestone-01-70-high-end-components-for-web-designers-and-developers/</link>
+<description>So here is Milestone 01 - a handy collection of hand-picked, quality components sorted in framework/programming categories with the most popular component presented first in each category.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-28T18:09:15Z</dc:date>
+<dc:subject>ajax css framework html programming webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesignerwall.com/">
+<title>Web Designer Wall - Design Trends and Tutorials</title>
+<link>http://www.webdesignerwall.com/</link>
+<description>Why Web Designer Wall? As a designer, I often have a lot of ideas that flow in my mind; usually I draw them on my sketch pad and then paste on the wall. This is how the name was created &#x2014; a wall of ideas.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-28T06:53:47Z</dc:date>
+<dc:subject>css graphics html tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kinowear.com/blog/the-elusive-perfect-shave/">
+<title>The Elusive Perfect Shave</title>
+<link>http://www.kinowear.com/blog/the-elusive-perfect-shave/</link>
+<description>I discovered, with the help of many a wet-shavers&#x2019; advice, that one of these old school safety razors, coupled with the proper shaving cream, will do a much better job at giving you a close shave than those new 5-6 bladed monsters.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-27T10:25:53Z</dc:date>
+<dc:subject>health home tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tuxtraining.com/2008/05/12/crack-password-protected-zip-rar-7z-and-pdf-files-in-linux/">
+<title>Tux Training &#xBB; Blog Archive &#xBB; Crack Password Protected zip, rar, 7z, and pdf files in Linux</title>
+<link>http://tuxtraining.com/2008/05/12/crack-password-protected-zip-rar-7z-and-pdf-files-in-linux/</link>
+<description>fcrackzip isnt just any other file cracker</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-20T14:23:09Z</dc:date>
+<dc:subject>files hacking security tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.csharpopensource.com/">
+<title>C# open-source</title>
+<link>http://www.csharpopensource.com/</link>
+<description>Various C# opensource projects, listed by category</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-20T12:16:19Z</dc:date>
+<dc:subject>development dotnet opensource tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/dotnet" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fwatheater.com/#">
+<title>Video theater</title>
+<link>http://www.fwatheater.com/#</link>
+<description>Selected videos</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-19T10:39:50Z</dc:date>
+<dc:subject>film video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.elise.com/recipes/archives/007245jamaican_jerk_burgers.php">
+<title>Jamaican Jerk Burgers Recipe | Simply Recipes</title>
+<link>http://www.elise.com/recipes/archives/007245jamaican_jerk_burgers.php</link>
+<description>Try these hamburger patties, seasoned with a homemade Jamaican jerk spice mixture</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-18T17:59:09Z</dc:date>
+<dc:subject>food grill recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/grill" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cubeecraft.com/">
+<title>Cubeecraft.com - Print, cut and fold your own papercraft toys!</title>
+<link>http://www.cubeecraft.com/</link>
+<description>Each toy features interlocking tabs for construction - eliminating the need for tape, glue or other messy adhesives. To download click on the model you would like then save the template image.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T14:06:09Z</dc:date>
+<dc:subject>design fun games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chrispederick.com/work/web-developer/">
+<title>Web Developer</title>
+<link>http://chrispederick.com/work/web-developer/</link>
+<description>The Web Developer extension adds a menu and a toolbar to the browser with various web developer tools. It is designed for Firefox</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T08:27:08Z</dc:date>
+<dc:subject>browser css development programming webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clean-ajax.sourceforge.net/index.php?tab=about">
+<title>:: Clean AJAX ::</title>
+<link>http://clean-ajax.sourceforge.net/index.php?tab=about</link>
+<description>Clean is an open source engine for AJAX, that provides a high level interface to work with the AJAX technology.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T08:23:19Z</dc:date>
+<dc:subject>ajax css development webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csstidy.sourceforge.net/index.php">
+<title>CSSTidy</title>
+<link>http://csstidy.sourceforge.net/index.php</link>
+<description>CSSTidy is an opensource CSS parser and optimiser.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T08:17:07Z</dc:date>
+<dc:subject>css development html opensource programming tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/blueprintcss/">
+<title>blueprintcss - Google Code</title>
+<link>http://code.google.com/p/blueprintcss/</link>
+<description>Blueprint is a CSS framework, which aims to cut down on your CSS development time.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T08:16:10Z</dc:date>
+<dc:subject>css development html programming webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spritegen.website-performance.org/">
+<title>Website Performance | CSS Sprite Generator</title>
+<link>http://spritegen.website-performance.org/</link>
+<description>Using CSS sprites is an excellent way to improve web page performance by reducing the number of HTTP requests needed for rendering images, but it can take a lot of planning, measuring, and coding if done manually.</description>
+<dc:creator>ghovmand</dc:creator>
+<dc:date>2008-05-16T08:13:42Z</dc:date>
+<dc:subject>browser css development image webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

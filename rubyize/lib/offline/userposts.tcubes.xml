@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tcubes">
+<title>del.icio.us/tcubes</title>
+<link>http://del.icio.us/tcubes</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.typenow.net/themed.htm" />
+  <rdf:li rdf:resource="http://www.btinternet.com/~glynhughes/squashed/" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/shmoocon-hacking-videos/" />
+  <rdf:li rdf:resource="http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html" />
+  <rdf:li rdf:resource="http://www.getmooh.com/" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/gmail-architecture-part-1" />
+  <rdf:li rdf:resource="http://www.arubamaps.info/Icons/arles_gallery/index.html" />
+  <rdf:li rdf:resource="http://www.cs.ubc.ca/~harrison/Java/sorting-demo.html?donttaseme" />
+  <rdf:li rdf:resource="http://www.nondot.org/sabre/os/articles/TheBootProcess/" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/videos-from-defcon-15-hacker-conference/" />
+  <rdf:li rdf:resource="http://about.share4vn.com/2008/03/20-websites-that-made-me-a-better-web-developer.html" />
+  <rdf:li rdf:resource="http://freescienceonline.blogspot.com/2008/04/physics-video-lectures.html" />
+  <rdf:li rdf:resource="http://www.tar.hu/gamealgorithms/index.html" />
+  <rdf:li rdf:resource="http://web.cecs.pdx.edu/~walpole/class/cs510/spring2006/home.html" />
+  <rdf:li rdf:resource="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/" />
+  <rdf:li rdf:resource="http://www.webupon.com/Web-Talk/9-Outrageously-Handy-Websites-Everyone-Should-Try.114875" />
+  <rdf:li rdf:resource="http://nerdbusiness.com/blog/5978-high-quality-icons-web-apps-rss" />
+  <rdf:li rdf:resource="http://nerdbusiness.com/blog/218-hd-resolution-desktop-wallpapers-nerds" />
+  <rdf:li rdf:resource="http://www.rewardprograms.org/thefreegeek/features/101-awesome-downloadable-fonts-for-designers.html" />
+  <rdf:li rdf:resource="http://www.creditcardcompare.com.au/blog/jobseekers-toolkit-50-job-interview-techniques-tips-tricks.php" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml" />
+  <rdf:li rdf:resource="http://www.milw0rm.com/" />
+  <rdf:li rdf:resource="http://www.explorefaith.org/prayer/essays/living.html" />
+  <rdf:li rdf:resource="http://online-books-reference.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.vivalogo.com/vl-resources/beautiful-javascript-flash-galleries.htm" />
+  <rdf:li rdf:resource="http://www.cs.bris.ac.uk/~flach/SimplyLogical.html" />
+  <rdf:li rdf:resource="http://www.shmoocon.org/2006/presentations.html" />
+  <rdf:li rdf:resource="http://www.shmoocon.org/2007/videos/" />
+  <rdf:li rdf:resource="http://my.opera.com/community/forums/topic.dml?id=159189" />
+  <rdf:li rdf:resource="http://computing.net/windowsxp/wwwboard/forum/49685.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-07-06T06:59:42Z</dc:date>
+<dc:subject>java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.typenow.net/themed.htm">
+<title>TypeNow.net Themed Fonts Download Free Movie and Music Fonts</title>
+<link>http://www.typenow.net/themed.htm</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-07-04T09:41:24Z</dc:date>
+<dc:subject>desktop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.btinternet.com/~glynhughes/squashed/">
+<title>Squashed Philosophers- Condensed Plato Aristotle Augustine Descartes Hume Marx Freud Copernicus Hobbes Sartre Ayer Sade Wittgenstein Einstein</title>
+<link>http://www.btinternet.com/~glynhughes/squashed/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-26T16:18:44Z</dc:date>
+<dc:subject>philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/shmoocon-hacking-videos/">
+<title>Hacking Videos from Shmoocon - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/shmoocon-hacking-videos/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-24T14:48:03Z</dc:date>
+<dc:subject>hacks tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html">
+<title>The 25 most difficult questions</title>
+<link>http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-24T08:23:53Z</dc:date>
+<dc:subject>education jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getmooh.com/">
+<title>getmooh.com - Escape a Date, Escape from a Meeting, Escape People</title>
+<link>http://www.getmooh.com/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-23T17:00:52Z</dc:date>
+<dc:subject>social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/gmail-architecture-part-1">
+<title>Gmail Architecture Part 1 | Web Builder Zone</title>
+<link>http://css.dzone.com/news/gmail-architecture-part-1</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-13T18:11:40Z</dc:date>
+<dc:subject>javascript webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arubamaps.info/Icons/arles_gallery/index.html">
+<title>PNG Icons</title>
+<link>http://www.arubamaps.info/Icons/arles_gallery/index.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-06-11T16:27:36Z</dc:date>
+<dc:subject>desktop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.ubc.ca/~harrison/Java/sorting-demo.html?donttaseme">
+<title>Sorting Algorithms Demo</title>
+<link>http://www.cs.ubc.ca/~harrison/Java/sorting-demo.html?donttaseme</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-05-10T07:20:45Z</dc:date>
+<dc:subject>algo programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algo" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nondot.org/sabre/os/articles/TheBootProcess/">
+<title>OSRC: The Boot Process</title>
+<link>http://www.nondot.org/sabre/os/articles/TheBootProcess/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-05-04T17:12:33Z</dc:date>
+<dc:subject>hacks programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/videos-from-defcon-15-hacker-conference/">
+<title> Videos from Defcon 15 Hacker Conference - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/videos-from-defcon-15-hacker-conference/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-05-02T07:04:39Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://about.share4vn.com/2008/03/20-websites-that-made-me-a-better-web-developer.html">
+<title>20 Websites That Made Me A Better Web Developer | &#x22;IT&#x22; - I LIKE &#x22;IT&#x22; !</title>
+<link>http://about.share4vn.com/2008/03/20-websites-that-made-me-a-better-web-developer.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-05-01T09:22:33Z</dc:date>
+<dc:subject>programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freescienceonline.blogspot.com/2008/04/physics-video-lectures.html">
+<title>Free Science and Video Lectures Online!: Physics Video Lectures</title>
+<link>http://freescienceonline.blogspot.com/2008/04/physics-video-lectures.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-05-01T06:36:18Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tar.hu/gamealgorithms/index.html">
+<title>Core Techniques and Algorithms in Game Programming</title>
+<link>http://www.tar.hu/gamealgorithms/index.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-30T17:05:05Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.cecs.pdx.edu/~walpole/class/cs510/spring2006/home.html">
+<title>CS510 Advanced Operating Systems</title>
+<link>http://web.cecs.pdx.edu/~walpole/class/cs510/spring2006/home.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-29T15:32:21Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/">
+<title>21 Ways to Shoot Better Photographs | 10e20 Blog</title>
+<link>http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-29T14:53:29Z</dc:date>
+<dc:subject>tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webupon.com/Web-Talk/9-Outrageously-Handy-Websites-Everyone-Should-Try.114875">
+<title>9 Outrageously Handy Websites Everyone Should Try</title>
+<link>http://www.webupon.com/Web-Talk/9-Outrageously-Handy-Websites-Everyone-Should-Try.114875</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-28T16:48:01Z</dc:date>
+<dc:subject>utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nerdbusiness.com/blog/5978-high-quality-icons-web-apps-rss">
+<title> 5978 High Quality Icons for Web, Apps &#x26; RSS | Nerd Business Blog</title>
+<link>http://nerdbusiness.com/blog/5978-high-quality-icons-web-apps-rss</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-19T17:08:55Z</dc:date>
+<dc:subject>desktop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nerdbusiness.com/blog/218-hd-resolution-desktop-wallpapers-nerds">
+<title> 218 HD Resolution Desktop Wallpapers for Nerds | Nerd Business Blog</title>
+<link>http://nerdbusiness.com/blog/218-hd-resolution-desktop-wallpapers-nerds</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-19T17:05:12Z</dc:date>
+<dc:subject>desktop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rewardprograms.org/thefreegeek/features/101-awesome-downloadable-fonts-for-designers.html">
+<title> 101 Awesome Downloadable Fonts for Designers | Free Geekery</title>
+<link>http://www.rewardprograms.org/thefreegeek/features/101-awesome-downloadable-fonts-for-designers.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-17T18:05:54Z</dc:date>
+<dc:subject>desktop freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creditcardcompare.com.au/blog/jobseekers-toolkit-50-job-interview-techniques-tips-tricks.php">
+<title>Jobseeker&#x2019;s Toolkit: 50 Job Interview Techniques, Tips &#x26; Tricks | The Credit Letter</title>
+<link>http://www.creditcardcompare.com.au/blog/jobseekers-toolkit-50-job-interview-techniques-tips-tricks.php</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-08T19:06:00Z</dc:date>
+<dc:subject>jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml">
+<title> 110 best books: The perfect library - Telegraph</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-08T12:23:02Z</dc:date>
+<dc:subject>literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.milw0rm.com/">
+<title>milw0rm - exploits : vulnerabilities : videos : papers : shellcode</title>
+<link>http://www.milw0rm.com/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-06T14:06:16Z</dc:date>
+<dc:subject>hacks tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.explorefaith.org/prayer/essays/living.html">
+<title>Prayers for Living: explorefaith</title>
+<link>http://www.explorefaith.org/prayer/essays/living.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-03T14:31:37Z</dc:date>
+<dc:subject>christianity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/christianity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://online-books-reference.blogspot.com/">
+<title>Online books for reference Get computer science related books free-of-charge - programming, applications, networking, operating-systems, database, and so on</title>
+<link>http://online-books-reference.blogspot.com/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-03T14:12:57Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vivalogo.com/vl-resources/beautiful-javascript-flash-galleries.htm">
+<title>33 Most Beautiful Javascript and Flash Galleries | Vivalogo Resources</title>
+<link>http://www.vivalogo.com/vl-resources/beautiful-javascript-flash-galleries.htm</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-04-01T11:29:01Z</dc:date>
+<dc:subject>javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.bris.ac.uk/~flach/SimplyLogical.html">
+<title>Simply Logical</title>
+<link>http://www.cs.bris.ac.uk/~flach/SimplyLogical.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-03-29T18:02:34Z</dc:date>
+<dc:subject>algo programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algo" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shmoocon.org/2006/presentations.html">
+<title>ShmooCon: Less Moose than ever!</title>
+<link>http://www.shmoocon.org/2006/presentations.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-03-28T13:01:20Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shmoocon.org/2007/videos/">
+<title>Index of /2007/videos</title>
+<link>http://www.shmoocon.org/2007/videos/</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-03-28T11:38:27Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://my.opera.com/community/forums/topic.dml?id=159189">
+<title>File icon problem - Opera browser - Opera Community</title>
+<link>http://my.opera.com/community/forums/topic.dml?id=159189</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-03-26T12:34:18Z</dc:date>
+<dc:subject>tweaks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.net/windowsxp/wwwboard/forum/49685.html">
+<title>Computing.Net - Windows Icons</title>
+<link>http://computing.net/windowsxp/wwwboard/forum/49685.html</link>
+<description></description>
+<dc:creator>tcubes</dc:creator>
+<dc:date>2008-03-26T12:32:26Z</dc:date>
+<dc:subject>tweaks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

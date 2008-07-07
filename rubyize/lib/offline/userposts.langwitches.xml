@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/langwitches">
+<title>del.icio.us/langwitches</title>
+<link>http://del.icio.us/langwitches</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://tokoni.com/" />
+  <rdf:li rdf:resource="http://en.ekpenso.com/" />
+  <rdf:li rdf:resource="http://www.virsona.com/" />
+  <rdf:li rdf:resource="http://www.swurl.com/" />
+  <rdf:li rdf:resource="http://www.metmuseum.org/explore/dancers/index.html" />
+  <rdf:li rdf:resource="http://spintheglobe.wikispaces.com/" />
+  <rdf:li rdf:resource="http://www.mogulus.com/" />
+  <rdf:li rdf:resource="http://www.combo.com/landing.html" />
+  <rdf:li rdf:resource="http://web20guru.wikispaces.com/" />
+  <rdf:li rdf:resource="http://www.mamamedia.com/" />
+  <rdf:li rdf:resource="http://cmidthun.edublogs.org/2008/07/01/travel-through-space-and-time/" />
+  <rdf:li rdf:resource="http://ohioportal.org/moodle/course/view.php?id=18" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/19/garden/19argentina.html?_r=1&#x26;ex=1214452800&#x26;amp;en=4201f1bdd73f4f9e&#x26;amp;ei=5070&#x26;amp;emc=eta1&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.speedofcreativity.org/2008/06/30/nuggets-from-necc-1-2/" />
+  <rdf:li rdf:resource="http://www.compfight.com/" />
+  <rdf:li rdf:resource="http://2mgems.blogspot.com/" />
+  <rdf:li rdf:resource="http://wordpress.edgemereroadrunners.com/happyandsadtimes/" />
+  <rdf:li rdf:resource="http://www.coveritlive.com/index.php?option=com_altcaster&#x26;task=register&#x26;referral_code=LiveBlogReferral" />
+  <rdf:li rdf:resource="http://www.mangolanguages.com/main" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.handipoints.com/" />
+  <rdf:li rdf:resource="http://ping.fm/" />
+  <rdf:li rdf:resource="http://tinypaste.com/" />
+  <rdf:li rdf:resource="http://wikisend.com/" />
+  <rdf:li rdf:resource="http://nationalzoo.si.edu/Education/ConservationCentral/walk/default.cfm" />
+  <rdf:li rdf:resource="http://www.mikogo.com/Welcome.aspx" />
+  <rdf:li rdf:resource="http://www.picjuice.com/" />
+  <rdf:li rdf:resource="http://www.thinkport.org/Technology/template.tp" />
+  <rdf:li rdf:resource="http://www.studeous.com/" />
+  <rdf:li rdf:resource="http://www.sciencemuseum.org.uk/exhibitions/energy/site/EIZgames.asp" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-06T12:05:15Z</dc:date>
+<dc:subject>flickr resources tutorials wikispaces</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikispaces" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tokoni.com/">
+<title>Welcome to Tokoni</title>
+<link>http://tokoni.com/</link>
+<description>Life is full of stories, tell yours</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-05T13:55:37Z</dc:date>
+<dc:subject>stories storytelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storytelling" />
+    <rdf:li resource="http://del.icio.us/tag/stories" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.ekpenso.com/">
+<title>Ekpenso</title>
+<link>http://en.ekpenso.com/</link>
+<description>Ekpenso.com is an online mindmapping tool. Create and share your mindmaps. Ekpenso.com offers the ability to edit your mindmaps even when your offline: There is a google gears and a Adobe-air version.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-05T12:46:50Z</dc:date>
+<dc:subject>mindmap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virsona.com/">
+<title>Virsona: create the virtual you..</title>
+<link>http://www.virsona.com/</link>
+<description>Interacting with our Community Virsonas opens up a world of possibility - you can actually talk directly to one of your heroes, conduct research or simply have FUN!</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-05T12:43:31Z</dc:date>
+<dc:subject>avatar history web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/avatar" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.swurl.com/">
+<title>Swurl</title>
+<link>http://www.swurl.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-04T14:43:44Z</dc:date>
+<dc:subject>aggregator blogging feeds mashup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/feeds" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.metmuseum.org/explore/dancers/index.html">
+<title>The Dancers and Degas</title>
+<link>http://www.metmuseum.org/explore/dancers/index.html</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-04T12:33:01Z</dc:date>
+<dc:subject>SJEDS_art art museum_resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/museum_resources" />
+    <rdf:li resource="http://del.icio.us/tag/SJEDS_art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spintheglobe.wikispaces.com/">
+<title>spintheglobe &#xBB; home</title>
+<link>http://spintheglobe.wikispaces.com/</link>
+<description>This project is an exercise in online communication and will explore what life is like for students in these two opposite parts of the world. Watch this space as we become better informed about a place that you can only get to if you Spin The Globe!</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-04T01:57:47Z</dc:date>
+<dc:subject>collaboration geography global_awareness wikispaces</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+    <rdf:li resource="http://del.icio.us/tag/wikispaces" />
+    <rdf:li resource="http://del.icio.us/tag/global_awareness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mogulus.com/">
+<title>Mogulus &#xBB; Live Broadcast</title>
+<link>http://www.mogulus.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-03T22:37:03Z</dc:date>
+<dc:subject>collaboration streaming tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.combo.com/landing.html">
+<title>Combo</title>
+<link>http://www.combo.com/landing.html</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-03T12:56:59Z</dc:date>
+<dc:subject>aggregator iphone socialnetworking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web20guru.wikispaces.com/">
+<title>Web 2.0 Guru &#xBB; home</title>
+<link>http://web20guru.wikispaces.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-02T21:24:25Z</dc:date>
+<dc:subject>resources technology web2.0 wikispaces</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/wikispaces" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mamamedia.com/">
+<title>MaMaMedia.com - THE place for Kids on the Net</title>
+<link>http://www.mamamedia.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-02T21:20:37Z</dc:date>
+<dc:subject>children education elementary games sjeds-techconnect</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/elementary" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/sjeds-techconnect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cmidthun.edublogs.org/2008/07/01/travel-through-space-and-time/">
+<title>Travel Through Space and Time | Ms Midthun's Media Blog</title>
+<link>http://cmidthun.edublogs.org/2008/07/01/travel-through-space-and-time/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-02T13:32:16Z</dc:date>
+<dc:subject>langwitches travel_space_time_presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel_space_time_presentation" />
+    <rdf:li resource="http://del.icio.us/tag/langwitches" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ohioportal.org/moodle/course/view.php?id=18">
+<title>Course: The Great Race 2008</title>
+<link>http://ohioportal.org/moodle/course/view.php?id=18</link>
+<description>Travel virtual</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-01T20:54:47Z</dc:date>
+<dc:subject>elementary_school travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/elementary_school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/19/garden/19argentina.html?_r=1&#x26;ex=1214452800&#x26;amp;en=4201f1bdd73f4f9e&#x26;amp;ei=5070&#x26;amp;emc=eta1&#x26;oref=slogin">
+<title>At Home Abroad - Living Through Crisis and Renewal in Argentina - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/19/garden/19argentina.html?_r=1&#x26;ex=1214452800&#x26;amp;en=4201f1bdd73f4f9e&#x26;amp;ei=5070&#x26;amp;emc=eta1&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-01T20:27:14Z</dc:date>
+<dc:subject>argentina buenos_aires</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/buenos_aires" />
+    <rdf:li resource="http://del.icio.us/tag/argentina" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.speedofcreativity.org/2008/06/30/nuggets-from-necc-1-2/">
+<title>Nuggets from NECC 2008 (1) &#xBB; Moving at the Speed of Creativity</title>
+<link>http://www.speedofcreativity.org/2008/06/30/nuggets-from-necc-1-2/</link>
+<description>Hyperlinked writing is the most powerful form of writing, and provides one of the most important aspects of complexity in writing for a global audience. There is great power as well as responsibility when you link to the ideas of another.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-07-01T01:40:52Z</dc:date>
+<dc:subject>21stcenturyskills quotable writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quotable" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/21stcenturyskills" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.compfight.com/">
+<title>compfight / a flickr&#x2122; search tool</title>
+<link>http://www.compfight.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-30T22:25:13Z</dc:date>
+<dc:subject>creativecommons flickr images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://2mgems.blogspot.com/">
+<title>2M Gems</title>
+<link>http://2mgems.blogspot.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-30T17:57:24Z</dc:date>
+<dc:subject>blogs elementary_school examples</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/elementary_school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.edgemereroadrunners.com/happyandsadtimes/">
+<title>Happy and Sad Times</title>
+<link>http://wordpress.edgemereroadrunners.com/happyandsadtimes/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-30T17:55:57Z</dc:date>
+<dc:subject>blogs elementary_school examples</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/elementary_school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coveritlive.com/index.php?option=com_altcaster&#x26;task=register&#x26;referral_code=LiveBlogReferral">
+<title>COVERITLIVE.COM</title>
+<link>http://www.coveritlive.com/index.php?option=com_altcaster&#x26;task=register&#x26;referral_code=LiveBlogReferral</link>
+<description>Live Blogging</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-30T03:16:32Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mangolanguages.com/main">
+<title>Mango Languages</title>
+<link>http://www.mangolanguages.com/main</link>
+<description>Mango is designed to equip you with conversational abilities from the very start. Whether you're learning how to order a pizza or ask when the game starts, Mango immerses you in real, everyday conversations in 12 different language courses.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-29T13:18:32Z</dc:date>
+<dc:subject>world_languages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/world_languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>posterous - The place to post everything. Just email us.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-29T13:01:10Z</dc:date>
+<dc:subject>blogging file_sharing gmail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/file_sharing" />
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.handipoints.com/">
+<title>Handipoints - Make Fun of Work!</title>
+<link>http://www.handipoints.com/</link>
+<description>Parenting tools for Task and Goal management, Handipoints features HandiLand, a fun virtual world where kids adopt their own cartoon cat and use their points to buy clothes and gear for their cat.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-28T22:00:43Z</dc:date>
+<dc:subject>children education parenting teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/parenting" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ping.fm/">
+<title>Ping.fm / Update all of your social networks at once!</title>
+<link>http://ping.fm/</link>
+<description>Use AIM, GTalk, iGoogle, WAP, iPhone/iPod Touch, SMS or E-mail and let Ping.fm relay your message to a multitude of social networking sites.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-28T15:38:09Z</dc:date>
+<dc:subject>iphone mashup microblogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tinypaste.com/">
+<title>TinyPaste</title>
+<link>http://tinypaste.com/</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-28T14:43:33Z</dc:date>
+<dc:subject>blogging collaboration twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikisend.com/">
+<title>Wikisend: free file sharing service</title>
+<link>http://wikisend.com/</link>
+<description>Upload and download lots of  files, big files, small files, data files, media files, archives or backups - any files. With Wikisend it`s simple and free.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-28T14:40:56Z</dc:date>
+<dc:subject>file_sharing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/file_sharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nationalzoo.si.edu/Education/ConservationCentral/walk/default.cfm">
+<title>A Walk in the Forest - National Zoo| FONZ</title>
+<link>http://nationalzoo.si.edu/Education/ConservationCentral/walk/default.cfm</link>
+<description>Take a walk in this virtual Virginia forest and do field research using the same scientific methodologies and tools that Smithsonian scientists use to monitor forest biodiversity!</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-27T15:19:16Z</dc:date>
+<dc:subject>environment geography science sjeds-science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/sjeds-science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mikogo.com/Welcome.aspx">
+<title>Mikogo: Free Online Meetings</title>
+<link>http://www.mikogo.com/Welcome.aspx</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-27T15:17:30Z</dc:date>
+<dc:subject>collaboration conferencing screen_sharing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/conferencing" />
+    <rdf:li resource="http://del.icio.us/tag/screen_sharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picjuice.com/">
+<title>picjuice.com - online photo editor</title>
+<link>http://www.picjuice.com/</link>
+<description>With picjuice you can easily edit your photos: resize, crop, rotate, flip and adjust contrast and color levels. After you have finished, click on the &#x26;quot;Save&#x26;quot; icon to download your photo.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-27T14:19:17Z</dc:date>
+<dc:subject>editor graphics images photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkport.org/Technology/template.tp">
+<title>Think Technology: Graphic Organizers</title>
+<link>http://www.thinkport.org/Technology/template.tp</link>
+<description>Offers a collection of pre-formatted graphic organizers that you can integrate into activities and lesson plans or use by themselves.</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-27T14:17:21Z</dc:date>
+<dc:subject>graphic_organizer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphic_organizer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.studeous.com/">
+<title>Studeous | The Free and Easy Way to Manage Your Courses Online</title>
+<link>http://www.studeous.com/</link>
+<description>Studeous increases communication and collaboration, creating an enriching learning experience online.
+With tools like live chat, discussion boards, podcasting, and text messaging, learning doesn't stop after the bell rings.
+</description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-27T14:06:35Z</dc:date>
+<dc:subject>elearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciencemuseum.org.uk/exhibitions/energy/site/EIZgames.asp">
+<title>The Energy gallery - Energy info zone</title>
+<link>http://www.sciencemuseum.org.uk/exhibitions/energy/site/EIZgames.asp</link>
+<description></description>
+<dc:creator>langwitches</dc:creator>
+<dc:date>2008-06-26T13:37:41Z</dc:date>
+<dc:subject>environment games science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

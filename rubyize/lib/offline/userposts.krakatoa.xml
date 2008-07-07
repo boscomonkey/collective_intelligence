@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/krakatoa">
+<title>del.icio.us/krakatoa</title>
+<link>http://del.icio.us/krakatoa</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.salon.com/mwt/feature/2008/07/05/white_people/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.cabel.name/2008/07/yay-fireworks.html" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288990,00.html" />
+  <rdf:li rdf:resource="http://www.h-alhambrapalace.es/Web/Home.htm" />
+  <rdf:li rdf:resource="http://swtbot.sourceforge.net/index.html" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/House_centipede" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/criticker_movie_recommendations.php" />
+  <rdf:li rdf:resource="http://paulbuchheit.blogspot.com/2007/08/first-thing-that-you-need-to-understand.html" />
+  <rdf:li rdf:resource="http://zvikico.typepad.com/problog/2007/08/eclipse-europa-.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/25/dining/25mini.html?_r=3&#x26;ref=dining&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.red3d.com/cwr/steer/" />
+  <rdf:li rdf:resource="http://research.microsoft.com/sn/asirra/" />
+  <rdf:li rdf:resource="http://bicycletutor.com/" />
+  <rdf:li rdf:resource="http://www.malhar.net/sriram/kilim/" />
+  <rdf:li rdf:resource="http://www.thenewatlantis.com/publications/the-myth-of-multitasking" />
+  <rdf:li rdf:resource="http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/AtGoogleTalks" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/19/it-gets-worse-for-yahoo-delicious-founder-leaving/" />
+  <rdf:li rdf:resource="http://www.friday.com/bbum/2008/06/19/what-is-good-tequila/" />
+  <rdf:li rdf:resource="http://www.hackingnetflix.com/2008/06/netflix-elimina.html" />
+  <rdf:li rdf:resource="http://www.netflix.com/Help?p_faqid=3962" />
+  <rdf:li rdf:resource="http://assorted-experience.blogspot.com/2008/02/image-sequence-to-movie-mencoder.html" />
+  <rdf:li rdf:resource="http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/naps/" />
+  <rdf:li rdf:resource="http://www.surveyor.com/YARB.html" />
+  <rdf:li rdf:resource="http://www.npr.org/templates/story/story.php?storyId=91432804" />
+  <rdf:li rdf:resource="http://controversy.wearscience.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/La_M%C3%A8re_Poulard" />
+  <rdf:li rdf:resource="http://armorgames.com/play/21/phit" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.salon.com/mwt/feature/2008/07/05/white_people/">
+<title>Salon conversations: &#x22;Stuff White People Like,&#x22; Christian Lander | Salon Life</title>
+<link>http://www.salon.com/mwt/feature/2008/07/05/white_people/</link>
+<description>&#x26;quot;So then super-advanced white people went even further and got those metal Sigg bottles, and now you have this really solid hierarchy and ranking&#x26;quot;</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-06T13:08:59Z</dc:date>
+<dc:subject>alternative article culture humor racism salon yuppies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/racism" />
+    <rdf:li resource="http://del.icio.us/tag/alternative" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/yuppies" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/salon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description>list of desk chairs</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-06T12:50:53Z</dc:date>
+<dc:subject>design health programming reference shopping tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cabel.name/2008/07/yay-fireworks.html">
+<title>cabel.name: Yay! Fireworks!</title>
+<link>http://www.cabel.name/2008/07/yay-fireworks.html</link>
+<description></description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-05T19:10:28Z</dc:date>
+<dc:subject>bizarro culture humor usa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bizarro" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/usa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288990,00.html">
+<title>Missing scenes from Fritz Lang's Metropolis turn up after 80 years | News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288990,00.html</link>
+<description>dude! for realz?</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-05T15:17:02Z</dc:date>
+<dc:subject>awesome culture film omg srsly</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/srsly" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/omg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.h-alhambrapalace.es/Web/Home.htm">
+<title>Hotel Alhambra Palace</title>
+<link>http://www.h-alhambrapalace.es/Web/Home.htm</link>
+<description>is this the place dorothy mentioned?</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-01T20:30:32Z</dc:date>
+<dc:subject>bloggable espa&#xF1;a granada tovisit travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/granada" />
+    <rdf:li resource="http://del.icio.us/tag/espa%C3%B1a" />
+    <rdf:li resource="http://del.icio.us/tag/tovisit" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swtbot.sourceforge.net/index.html">
+<title>SWTBot - Welcome to SWTBot</title>
+<link>http://swtbot.sourceforge.net/index.html</link>
+<description>SWT GUI automation for testing</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-07-01T15:33:52Z</dc:date>
+<dc:subject>development eclipse java programming swt tdd utility</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/swt" />
+    <rdf:li resource="http://del.icio.us/tag/tdd" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/utility" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all">
+<title>Annals of Medicine: The Itch: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all</link>
+<description>I remember a radio lab about deaf people who hear symphonies. This article is like that, but about people with shingles who feel itchy.</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-29T11:59:41Z</dc:date>
+<dc:subject>article bloggable brain cognition health newyorker psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/newyorker" />
+    <rdf:li resource="http://del.icio.us/tag/cognition" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/House_centipede">
+<title>House centipede - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/House_centipede</link>
+<description>just found one this morning. ugh</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-29T10:19:09Z</dc:date>
+<dc:subject>housing reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/housing" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/criticker_movie_recommendations.php">
+<title>Criticker - Movie Recommendations Based on Taste - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/criticker_movie_recommendations.php</link>
+<description>looking for an alternative to netflix for keeping my movie rankings. criticker is one option, as is fixster</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-26T17:13:57Z</dc:date>
+<dc:subject>film movies social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paulbuchheit.blogspot.com/2007/08/first-thing-that-you-need-to-understand.html">
+<title>Paul Buchheit: The first thing that you need to understand about humans</title>
+<link>http://paulbuchheit.blogspot.com/2007/08/first-thing-that-you-need-to-understand.html</link>
+<description>&#x26;quot;They kept listening to what people said. This is always a mistake.&#x26;quot;</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-25T16:45:07Z</dc:date>
+<dc:subject>design psychology via:joshua</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/via:joshua" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zvikico.typepad.com/problog/2007/08/eclipse-europa-.html">
+<title>Either You Succeed or Explain: Eclipse Europa JDT: &#x22;Save Actions&#x22; rocks!</title>
+<link>http://zvikico.typepad.com/problog/2007/08/eclipse-europa-.html</link>
+<description></description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-25T14:21:02Z</dc:date>
+<dc:subject>eclipse todo work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/25/dining/25mini.html?_r=3&#x26;ref=dining&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin">
+<title>The Minimalist - Be Your Own Mixologist - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/25/dining/25mini.html?_r=3&#x26;ref=dining&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin</link>
+<description>Bittman's advice on drinking - forget funny names, and know what liquor you like.</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-25T14:06:00Z</dc:date>
+<dc:subject>article bloggable drinks mixology recipe todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/drinks" />
+    <rdf:li resource="http://del.icio.us/tag/mixology" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.red3d.com/cwr/steer/">
+<title>Steering Behaviors For Autonomous Characters</title>
+<link>http://www.red3d.com/cwr/steer/</link>
+<description></description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-24T17:58:10Z</dc:date>
+<dc:subject>agents ai artificiallife gameprogramming research simulation social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agents" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/artificiallife" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/gameprogramming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://research.microsoft.com/sn/asirra/">
+<title>MSR Asirra: A Human Interactive Proof</title>
+<link>http://research.microsoft.com/sn/asirra/</link>
+<description>cat identification as captcha</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-23T21:00:58Z</dc:date>
+<dc:subject>captcha development microsoft research turk vision</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/captcha" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/vision" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/turk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bicycletutor.com/">
+<title>The Bicycle Tutor - Bike Repair Video Tutorials</title>
+<link>http://bicycletutor.com/</link>
+<description>video how-tos for bicycle maintenance and repair</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-23T16:36:54Z</dc:date>
+<dc:subject>cycling diy howto repair</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/repair" />
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.malhar.net/sriram/kilim/">
+<title>Kilim</title>
+<link>http://www.malhar.net/sriram/kilim/</link>
+<description>message-passing library for java</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-23T14:39:04Z</dc:date>
+<dc:subject>api concurrency development erlang java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thenewatlantis.com/publications/the-myth-of-multitasking">
+<title>The New Atlantis &#xBB; The Myth of Multitasking</title>
+<link>http://www.thenewatlantis.com/publications/the-myth-of-multitasking</link>
+<description>my add has a first name, it's INTERNETS</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-23T14:30:05Z</dc:date>
+<dc:subject>article gtd health pop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/pop" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3">
+<title>Macworld | How to buy a camera lens</title>
+<link>http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3</link>
+<description>intro dslr lens advice</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-23T01:08:59Z</dc:date>
+<dc:subject>advice photography reference shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/AtGoogleTalks">
+<title>YouTube - AtGoogleTalks's Channel</title>
+<link>http://www.youtube.com/user/AtGoogleTalks</link>
+<description>@goog is cool</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-20T17:17:39Z</dc:date>
+<dc:subject>blog google impr-you-vment podcast talks towatch video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/talks" />
+    <rdf:li resource="http://del.icio.us/tag/towatch" />
+    <rdf:li resource="http://del.icio.us/tag/impr-you-vment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/19/it-gets-worse-for-yahoo-delicious-founder-leaving/">
+<title>It Gets Worse: Joshua Schachter Leaving Yahoo</title>
+<link>http://www.techcrunch.com/2008/06/19/it-gets-worse-for-yahoo-delicious-founder-leaving/</link>
+<description>Cut loose into the wilderness</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-20T14:39:30Z</dc:date>
+<dc:subject>dang via:joshua</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dang" />
+    <rdf:li resource="http://del.icio.us/tag/via:joshua" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.friday.com/bbum/2008/06/19/what-is-good-tequila/">
+<title>bbum&#x2019;s weblog-o-mat  &#xBB; Blog Archive</title>
+<link>http://www.friday.com/bbum/2008/06/19/what-is-good-tequila/</link>
+<description>tequila reference manual</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-19T19:18:54Z</dc:date>
+<dc:subject>drink reference toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drink" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackingnetflix.com/2008/06/netflix-elimina.html">
+<title>Hacking NetFlix : Netflix Eliminating Account Profiles - Update</title>
+<link>http://www.hackingnetflix.com/2008/06/netflix-elimina.html</link>
+<description>judging from the lack of buzz, I guess I was one of the few using this. Or rather, my friends and family were.</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-19T14:43:49Z</dc:date>
+<dc:subject>netflix wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netflix.com/Help?p_faqid=3962">
+<title>Netflix- What is happening to Profiles?</title>
+<link>http://www.netflix.com/Help?p_faqid=3962</link>
+<description>We will be eliminating Profiles, the feature that allowed you to set up separate DVD Queues under one account.  When? Profiles will be eliminated on September 1, 2008.</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-19T14:43:04Z</dc:date>
+<dc:subject>bloggable dang netflix webservices wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/dang" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://assorted-experience.blogspot.com/2008/02/image-sequence-to-movie-mencoder.html">
+<title>Assorted Experience: Image sequence to movie : Mencoder</title>
+<link>http://assorted-experience.blogspot.com/2008/02/image-sequence-to-movie-mencoder.html</link>
+<description>convert an image sequence to an AVI using mencoder.</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-18T20:37:25Z</dc:date>
+<dc:subject>howto video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo">
+<title>Exits: Stewart Butterfield's bizarre resignation letter to Yahoo</title>
+<link>http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo</link>
+<description></description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-18T16:36:50Z</dc:date>
+<dc:subject>bloggable cool flickr humor weareallgoingtohell web work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/weareallgoingtohell" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/naps/">
+<title>How to nap - Boston.com</title>
+<link>http://www.boston.com/bostonglobe/ideas/naps/</link>
+<description>warnapping or naphacking?</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-17T19:50:02Z</dc:date>
+<dc:subject>advice article health howto reference wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.surveyor.com/YARB.html">
+<title>YARB 1.0 (Yet Another Robotic Blimp)</title>
+<link>http://www.surveyor.com/YARB.html</link>
+<description>it is a blimp</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-17T00:05:06Z</dc:date>
+<dc:subject>robots</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/robots" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.npr.org/templates/story/story.php?storyId=91432804">
+<title>How to Be a Productive Procrastinator : NPR</title>
+<link>http://www.npr.org/templates/story/story.php?storyId=91432804</link>
+<description></description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-16T03:10:39Z</dc:date>
+<dc:subject>gtd tolisten</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/tolisten" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://controversy.wearscience.com/">
+<title>Teach the Controversy - Intelligently designed t-shirts urging you to show both sides of every story</title>
+<link>http://controversy.wearscience.com/</link>
+<description>look on my shirt, ye mighty, and despair</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-16T03:05:45Z</dc:date>
+<dc:subject>bloggable humor wishlist</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wishlist" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/La_M%C3%A8re_Poulard">
+<title>La M&#xE8;re Poulard - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/La_M%C3%A8re_Poulard</link>
+<description>favorite omlette of my aunt</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-15T04:14:04Z</dc:date>
+<dc:subject>bloggable local restaurant tovisit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tovisit" />
+    <rdf:li resource="http://del.icio.us/tag/restaurant" />
+    <rdf:li resource="http://del.icio.us/tag/local" />
+    <rdf:li resource="http://del.icio.us/tag/bloggable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://armorgames.com/play/21/phit">
+<title>Phit | Armor Games</title>
+<link>http://armorgames.com/play/21/phit</link>
+<description>tile arrangement game (packing)</description>
+<dc:creator>krakatoa</dc:creator>
+<dc:date>2008-06-13T17:56:34Z</dc:date>
+<dc:subject>flash games videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

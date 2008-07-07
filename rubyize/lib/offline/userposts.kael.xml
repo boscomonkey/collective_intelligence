@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kael">
+<title>del.icio.us/kael</title>
+<link>http://del.icio.us/kael</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cellulartechnologyhub.blogspot.com/2007/03/location-based-services-lbs.html" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://wiki.forum.nokia.com/index.php/TSJ000964_-_Series_40:_System_Properties_in_Operator_and_Manufacturer_domain" />
+  <rdf:li rdf:resource="http://wiki.forum.nokia.com/index.php/TSJ000306_-_MIDP:_System_properties" />
+  <rdf:li rdf:resource="http://wiki.forum.nokia.com/index.php/CS000947_-_Getting_Cell_ID_in_Java_ME" />
+  <rdf:li rdf:resource="http://ricin.lfsnal.org/books/O'Reilly%20Learning%20Wireless%20Java.pdf" />
+  <rdf:li rdf:resource="http://www.javameblog.com/2007/08/java-me-tutorials.html" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/articles/guiapis/" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/articles/ui/" />
+  <rdf:li rdf:resource="http://oreilly.com/catalog/wirelessjava/chapter/ch05.html" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/samples/" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/ttips/wmaconsole/" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/articles/wma2/" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/allarticles/" />
+  <rdf:li rdf:resource="http://www.j2medeveloper.com/techtips/ttip-usingwma.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/wi-j2me/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/wireless/library/wi-p2pmsg/" />
+  <rdf:li rdf:resource="http://www.cellbroadcastforum.org/downloads/pdfs/CBF-PUB_02_0002R2%204%20Handset%20Requirements%20Specification_oct_2006.pdf" />
+  <rdf:li rdf:resource="http://www.3gpp.org/FTP/Specs/html-info/23041.htm" />
+  <rdf:li rdf:resource="http://www.gsmhelpdesk.nl/en/helpdesk/helpdesk.php?id=57" />
+  <rdf:li rdf:resource="http://www.cellbroadcastforum.org/downloads/pdfs/AdvantagesServices.pdf" />
+  <rdf:li rdf:resource="http://windforwings.blogspot.com/2008/02/gsm-location-over-cell-broadcast.html" />
+  <rdf:li rdf:resource="http://www.kenneyjacob.com/2007/05/06/cell-broadcast/" />
+  <rdf:li rdf:resource="http://www.devx.com/wireless/Article/22266/1954" />
+  <rdf:li rdf:resource="http://developers.sun.com/mobility/midp/articles/wma/" />
+  <rdf:li rdf:resource="http://blog.dave.cridland.net/?p=59" />
+  <rdf:li rdf:resource="http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running" />
+  <rdf:li rdf:resource="http://laconi.ca/" />
+  <rdf:li rdf:resource="http://identi.ca/" />
+  <rdf:li rdf:resource="http://bombus-im.org/docs/O'Reilly%20-%20J2ME%20in%20a%20Nutshell.pdf" />
+  <rdf:li rdf:resource="http://downloads.pitchforkmedia.com/Manu%20Chao%20-%20Politik%20Kills%20(Prince%20Fatty%20Remix).mp3" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cellulartechnologyhub.blogspot.com/2007/03/location-based-services-lbs.html">
+<title>Cell Tech Hub..: Location Based Services (LBS) [Network Based]</title>
+<link>http://cellulartechnologyhub.blogspot.com/2007/03/location-based-services-lbs.html</link>
+<description>&#xB7; Cell Identification (Cell ID)
+&#xB7; Enhanced Cell ID (Network Based)
+&#xB7; Angle of Arrival (AOA)
+&#xB7; Time of Arrival (TOA)</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-06T10:44:50Z</dc:date>
+<dc:subject>cellid lbs &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/lbs" />
+    <rdf:li resource="http://del.icio.us/tag/cellid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-06T09:56:22Z</dc:date>
+<dc:subject>java &#x2606; &#x2761;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%9D%A1" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.forum.nokia.com/index.php/TSJ000964_-_Series_40:_System_Properties_in_Operator_and_Manufacturer_domain">
+<title>Series 40: System Properties in Operator and Manufacturer domain - Forum Nokia Wiki</title>
+<link>http://wiki.forum.nokia.com/index.php/TSJ000964_-_Series_40:_System_Properties_in_Operator_and_Manufacturer_domain</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-06T06:01:53Z</dc:date>
+<dc:subject>j2me nokia s40 &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/nokia" />
+    <rdf:li resource="http://del.icio.us/tag/s40" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.forum.nokia.com/index.php/TSJ000306_-_MIDP:_System_properties">
+<title>MIDP: System properties - Forum Nokia Wiki</title>
+<link>http://wiki.forum.nokia.com/index.php/TSJ000306_-_MIDP:_System_properties</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-06T05:36:12Z</dc:date>
+<dc:subject>j2me nokia &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/nokia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.forum.nokia.com/index.php/CS000947_-_Getting_Cell_ID_in_Java_ME">
+<title>Getting Cell ID in Java ME - Forum Nokia Wiki</title>
+<link>http://wiki.forum.nokia.com/index.php/CS000947_-_Getting_Cell_ID_in_Java_ME</link>
+<description>S40_cell_id = System.getProperty(&#x26;quot;Cell-ID&#x26;quot;);
+S60_cell_id = System.getProperty(&#x26;quot;com.nokia.mid.cellid&#x26;quot;);
+</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-06T05:33:38Z</dc:date>
+<dc:subject>cellid j2me nokia &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/cellid" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/nokia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ricin.lfsnal.org/books/O'Reilly%20Learning%20Wireless%20Java.pdf">
+<title>Learning Wireless Java.pdf (application/pdf Object)</title>
+<link>http://ricin.lfsnal.org/books/O'Reilly%20Learning%20Wireless%20Java.pdf</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:35:47Z</dc:date>
+<dc:subject>j2me &#x2606; &#x2761;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%9D%A1" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javameblog.com/2007/08/java-me-tutorials.html">
+<title>The Java ME Blog: Java ME Tutorials</title>
+<link>http://www.javameblog.com/2007/08/java-me-tutorials.html</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:28:32Z</dc:date>
+<dc:subject>j2me &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/articles/guiapis/">
+<title>The Java ME GUI APIs at a Glance</title>
+<link>http://developers.sun.com/mobility/midp/articles/guiapis/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:21:51Z</dc:date>
+<dc:subject>j2me ui &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/articles/ui/">
+<title>MIDP GUI Programming: Programming the Phone Interface</title>
+<link>http://developers.sun.com/mobility/midp/articles/ui/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:19:47Z</dc:date>
+<dc:subject>j2me ui &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oreilly.com/catalog/wirelessjava/chapter/ch05.html">
+<title>Learning Wireless Java: Chapter 5: MIDP GUI Programming</title>
+<link>http://oreilly.com/catalog/wirelessjava/chapter/ch05.html</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:08:24Z</dc:date>
+<dc:subject>j2me ui &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/samples/">
+<title>MIDP Code Samples</title>
+<link>http://developers.sun.com/mobility/midp/samples/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T16:01:54Z</dc:date>
+<dc:subject>j2me &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/ttips/wmaconsole/">
+<title>The J2ME Wireless Toolkit WMA Console</title>
+<link>http://developers.sun.com/mobility/midp/ttips/wmaconsole/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T13:47:29Z</dc:date>
+<dc:subject>cbs j2me sms wtk &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/wtk" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/articles/wma2/">
+<title>The Wireless Messaging API 2.0</title>
+<link>http://developers.sun.com/mobility/midp/articles/wma2/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T13:45:00Z</dc:date>
+<dc:subject>cbs j2me mms sms &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/mms" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/allarticles/">
+<title>Mobility Technical Articles</title>
+<link>http://developers.sun.com/mobility/allarticles/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T13:30:56Z</dc:date>
+<dc:subject>j2me &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.j2medeveloper.com/techtips/ttip-usingwma.html">
+<title>Tech-Tip: Using Wireless Messaging API</title>
+<link>http://www.j2medeveloper.com/techtips/ttip-usingwma.html</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T12:59:57Z</dc:date>
+<dc:subject>j2me sms &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/wi-j2me/">
+<title>Think small with J2ME</title>
+<link>http://www.ibm.com/developerworks/library/wi-j2me/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T11:44:03Z</dc:date>
+<dc:subject>j2me &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/wireless/library/wi-p2pmsg/">
+<title>Mobile P2P messaging, Part 1</title>
+<link>http://www.ibm.com/developerworks/wireless/library/wi-p2pmsg/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T11:07:04Z</dc:date>
+<dc:subject>j2me sms &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cellbroadcastforum.org/downloads/pdfs/CBF-PUB_02_0002R2%204%20Handset%20Requirements%20Specification_oct_2006.pdf">
+<title>Cell Broadcast Handset Requirements Specification.pdf (application/pdf Object)</title>
+<link>http://www.cellbroadcastforum.org/downloads/pdfs/CBF-PUB_02_0002R2%204%20Handset%20Requirements%20Specification_oct_2006.pdf</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T10:37:26Z</dc:date>
+<dc:subject>cbs mobile &#x2711;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%9C%91" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.3gpp.org/FTP/Specs/html-info/23041.htm">
+<title>3GPP specification: 23.041 - Technical realization of Cell Broadcast Service (CBS)</title>
+<link>http://www.3gpp.org/FTP/Specs/html-info/23041.htm</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T10:10:09Z</dc:date>
+<dc:subject>cbs mobile &#x2711;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%9C%91" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gsmhelpdesk.nl/en/helpdesk/helpdesk.php?id=57">
+<title>Cell Broadcast Service (Cell information / Information service)</title>
+<link>http://www.gsmhelpdesk.nl/en/helpdesk/helpdesk.php?id=57</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T10:08:12Z</dc:date>
+<dc:subject>cbs mobile &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cellbroadcastforum.org/downloads/pdfs/AdvantagesServices.pdf">
+<title>Advantages and Services Using Cell Broadcast.pdf (application/pdf Object)</title>
+<link>http://www.cellbroadcastforum.org/downloads/pdfs/AdvantagesServices.pdf</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T10:00:20Z</dc:date>
+<dc:subject>cbs mobile &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://windforwings.blogspot.com/2008/02/gsm-location-over-cell-broadcast.html">
+<title>Wind For Wings: GSM Location over Cell Broadcast</title>
+<link>http://windforwings.blogspot.com/2008/02/gsm-location-over-cell-broadcast.html</link>
+<description>&#x26;quot;Some mobile operators use channel 050 to broadcast cell tower location information. The location information is mostly just a text string with the location name&#x26;quot;.</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T09:27:52Z</dc:date>
+<dc:subject>cbs cellid lbs &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/lbs" />
+    <rdf:li resource="http://del.icio.us/tag/cellid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kenneyjacob.com/2007/05/06/cell-broadcast/">
+<title>Cell Broadcast | Disruptive Technologies and Education</title>
+<link>http://www.kenneyjacob.com/2007/05/06/cell-broadcast/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T09:26:23Z</dc:date>
+<dc:subject>cbs mobile &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.devx.com/wireless/Article/22266/1954">
+<title>Shout from the Hilltops with the J2ME Wireless Messaging API</title>
+<link>http://www.devx.com/wireless/Article/22266/1954</link>
+<description>cf. http://assets.devx.com/sourcecode/11372.zip</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T09:05:05Z</dc:date>
+<dc:subject>cbs j2me sms &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/mobility/midp/articles/wma/">
+<title>The Wireless Messaging API</title>
+<link>http://developers.sun.com/mobility/midp/articles/wma/</link>
+<description>java -jar %J2ME_WTK_HOME%\lib\wma-tck.jar -text -message &#x26;quot;Hello GSM7&#x26;quot; -verbose -send &#x26;quot;cbs://+5121234567:5000&#x26;quot;  || java -jar %J2ME_WTK_HOME%\lib\wma-tck.jar -receive &#x26;quot;cbs://:5000&#x26;quot;</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-05T08:59:14Z</dc:date>
+<dc:subject>cbs j2me sms &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/cbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.dave.cridland.net/?p=59">
+<title>text/plain &#xBB; Blog Archive &#xBB; laconi.ca&#x2019;s XMPP Interface</title>
+<link>http://blog.dave.cridland.net/?p=59</link>
+<description>Feature requests : ad hoc commands, HTTP auth over XMPP and PEP listener.</description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T23:21:41Z</dc:date>
+<dc:subject>laconi.ca xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/laconi.ca" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running">
+<title>0xDECAFBAD &#xBB; Getting Laconica up and running</title>
+<link>http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T23:19:37Z</dc:date>
+<dc:subject>laconi.ca &#x2606;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/laconi.ca" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://laconi.ca/">
+<title>Laconica : Home Page</title>
+<link>http://laconi.ca/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T23:19:03Z</dc:date>
+<dc:subject>laconi.ca social &#x2692;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%9A%92" />
+    <rdf:li resource="http://del.icio.us/tag/laconi.ca" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://identi.ca/">
+<title>Identi.ca</title>
+<link>http://identi.ca/</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T23:16:57Z</dc:date>
+<dc:subject>identi.ca social &#x2318;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%8C%98" />
+    <rdf:li resource="http://del.icio.us/tag/identi.ca" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bombus-im.org/docs/O'Reilly%20-%20J2ME%20in%20a%20Nutshell.pdf">
+<title>O'Reilly - J2ME in a Nutshell.pdf (application/pdf Object)</title>
+<link>http://bombus-im.org/docs/O'Reilly%20-%20J2ME%20in%20a%20Nutshell.pdf</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T14:18:44Z</dc:date>
+<dc:subject>j2me &#x2606; &#x2761;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%86" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%9D%A1" />
+    <rdf:li resource="http://del.icio.us/tag/j2me" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://downloads.pitchforkmedia.com/Manu%20Chao%20-%20Politik%20Kills%20(Prince%20Fatty%20Remix).mp3">
+<title>Manu Chao - Politik Kills (Prince Fatty Remix).mp3 (audio/mpeg Object)</title>
+<link>http://downloads.pitchforkmedia.com/Manu%20Chao%20-%20Politik%20Kills%20(Prince%20Fatty%20Remix).mp3</link>
+<description></description>
+<dc:creator>kael</dc:creator>
+<dc:date>2008-07-04T13:53:14Z</dc:date>
+<dc:subject>manu_chao prince_fatty reggae &#x266B;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E2%99%AB" />
+    <rdf:li resource="http://del.icio.us/tag/manu_chao" />
+    <rdf:li resource="http://del.icio.us/tag/prince_fatty" />
+    <rdf:li resource="http://del.icio.us/tag/reggae" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

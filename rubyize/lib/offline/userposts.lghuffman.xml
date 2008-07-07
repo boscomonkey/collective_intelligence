@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lghuffman">
+<title>del.icio.us/lghuffman</title>
+<link>http://del.icio.us/lghuffman</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://writetodone.com/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://advice.cio.com/abbie_lundberg/the_business_value_of_twitter" />
+  <rdf:li rdf:resource="http://www.cio.com/author/101055/C.G.+Lynch" />
+  <rdf:li rdf:resource="http://www.cio.com/article/420763/Twitter_s_Potential_for_Business_Users" />
+  <rdf:li rdf:resource="http://www.attensa.com/products/" />
+  <rdf:li rdf:resource="http://www.missionmanual.com/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://www.burnettcatchment.org/" />
+  <rdf:li rdf:resource="http://wordpress.org/extend/plugins/friendfeed-comments/" />
+  <rdf:li rdf:resource="http://dehamerspace.com/2008/04/08/working-at-home-the-office/" />
+  <rdf:li rdf:resource="http://www.vulpes.org/foxden/sounds/typical-fox-yell.wav" />
+  <rdf:li rdf:resource="http://www.technotheory.com/how-to-use-social-media-guide/" />
+  <rdf:li rdf:resource="http://www.lijit.com/" />
+  <rdf:li rdf:resource="http://www.davidleeking.com/2008/06/25/twitter-best-practices-so-far/" />
+  <rdf:li rdf:resource="http://www.dd-wrt.com/wiki/index.php/OpenDNS" />
+  <rdf:li rdf:resource="http://inoveryourhead.net/the-coming-collapse-of-the-middle-class/" />
+  <rdf:li rdf:resource="http://www.sojournmusic.com/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/22/jobs/22shifting.html" />
+  <rdf:li rdf:resource="http://conniebensen.com/" />
+  <rdf:li rdf:resource="http://www.ddmcd.com/my_dow.html" />
+  <rdf:li rdf:resource="http://www.inquisitr.com/1197/why-twitter-is-better-than-friendfeed/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/threading-the-social-needle/" />
+  <rdf:li rdf:resource="http://hdbizblog.com/blog/2008/06/04/linked-in-and-productivity/" />
+  <rdf:li rdf:resource="http://snipurl.com/" />
+  <rdf:li rdf:resource="http://www.michaelhyatt.com/fromwhereisit/2008/06/yes-you-can-sta.html" />
+  <rdf:li rdf:resource="http://randomfoo.net/blog/id/4186" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/" />
+  <rdf:li rdf:resource="http://www.redeemer.com/news_and_events/ad_detail.html?ad_id=65" />
+  <rdf:li rdf:resource="http://www.inrich.com/cva/ric/video.apx.-content-articles-RTD-2008-06-09-0059.html" />
+  <rdf:li rdf:resource="http://books.leadnet.org/2008/06/the-shack-is-th.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/15/magazine/15parenting-t.html?em&#x26;ex=1213502400&#x26;en=04b9e97c4ed5ef60&#x26;ei=5087%0A" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://writetodone.com/">
+<title>Write to Done</title>
+<link>http://writetodone.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-06T09:51:19Z</dc:date>
+<dc:subject>blogging productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-06T09:33:34Z</dc:date>
+<dc:subject>blogging chrisbrogan howto writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/chrisbrogan" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://advice.cio.com/abbie_lundberg/the_business_value_of_twitter">
+<title>The Business Value of Twitter | Advice and Opinion</title>
+<link>http://advice.cio.com/abbie_lundberg/the_business_value_of_twitter</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-05T04:59:41Z</dc:date>
+<dc:subject>business enterprise2.0 microblogging social socialnetworking twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cio.com/author/101055/C.G.+Lynch">
+<title>C.G. Lynch - CIO.com - Business Technology Leadership</title>
+<link>http://www.cio.com/author/101055/C.G.+Lynch</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-05T04:59:15Z</dc:date>
+<dc:subject>cio enterprise2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cio" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cio.com/article/420763/Twitter_s_Potential_for_Business_Users">
+<title>Twitter's Potential for Business Users - CIO.com - Business Technology Leadership</title>
+<link>http://www.cio.com/article/420763/Twitter_s_Potential_for_Business_Users</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-05T04:54:53Z</dc:date>
+<dc:subject>business cio enterprise2.0 microblogging socialnetworking twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/cio" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.attensa.com/products/">
+<title>Attensa Managed RSS Platform</title>
+<link>http://www.attensa.com/products/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-03T18:05:09Z</dc:date>
+<dc:subject>Web2.0 aggregator collaboration enterprise2.0 feeds outlook rss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/feeds" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.missionmanual.com/wiki/Main_Page">
+<title>Main Page - Missiopedia</title>
+<link>http://www.missionmanual.com/wiki/Main_Page</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-03T11:08:45Z</dc:date>
+<dc:subject>missions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/missions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.burnettcatchment.org/">
+<title>Burnett Catchment Care Association &#xBB; Home</title>
+<link>http://www.burnettcatchment.org/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-02T00:38:23Z</dc:date>
+<dc:subject>australia environment water waterresources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/australia" />
+    <rdf:li resource="http://del.icio.us/tag/water" />
+    <rdf:li resource="http://del.icio.us/tag/waterresources" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.org/extend/plugins/friendfeed-comments/">
+<title>FriendFeed Comments</title>
+<link>http://wordpress.org/extend/plugins/friendfeed-comments/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-01T00:06:27Z</dc:date>
+<dc:subject>comments friendfeed web2.0 wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/comments" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dehamerspace.com/2008/04/08/working-at-home-the-office/">
+<title>DeHamerspace &#xBB; Blog Archive &#xBB; Working At Home - The Office</title>
+<link>http://dehamerspace.com/2008/04/08/working-at-home-the-office/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-29T09:41:38Z</dc:date>
+<dc:subject>diy home office sheds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/sheds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vulpes.org/foxden/sounds/typical-fox-yell.wav">
+<title>Fox yell</title>
+<link>http://www.vulpes.org/foxden/sounds/typical-fox-yell.wav</link>
+<description>I think I found out what's making the creepy sound in the woods behind my house.</description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-28T06:39:52Z</dc:date>
+<dc:subject>foxes sounds wildlife</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sounds" />
+    <rdf:li resource="http://del.icio.us/tag/wildlife" />
+    <rdf:li resource="http://del.icio.us/tag/foxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technotheory.com/how-to-use-social-media-guide/">
+<title>Technotheory.com - Getting Started with Social Media - A Guide and Resource List</title>
+<link>http://www.technotheory.com/how-to-use-social-media-guide/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-27T04:29:05Z</dc:date>
+<dc:subject>social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lijit.com/">
+<title>Lijit | Home</title>
+<link>http://www.lijit.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-27T04:22:04Z</dc:date>
+<dc:subject>aggregator blogging social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.davidleeking.com/2008/06/25/twitter-best-practices-so-far/">
+<title>Twitter Best Practices So Far | David Lee King</title>
+<link>http://www.davidleeking.com/2008/06/25/twitter-best-practices-so-far/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-26T11:41:13Z</dc:date>
+<dc:subject>tips twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dd-wrt.com/wiki/index.php/OpenDNS">
+<title>OpenDNS - DD-WRT Wiki</title>
+<link>http://www.dd-wrt.com/wiki/index.php/OpenDNS</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-26T10:09:33Z</dc:date>
+<dc:subject>content_filtering dd-wrt dns openDNS router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dd-wrt" />
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/openDNS" />
+    <rdf:li resource="http://del.icio.us/tag/content_filtering" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://inoveryourhead.net/the-coming-collapse-of-the-middle-class/">
+<title>The Coming Collapse of the Middle Class</title>
+<link>http://inoveryourhead.net/the-coming-collapse-of-the-middle-class/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-26T03:54:04Z</dc:date>
+<dc:subject>economics economy society video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sojournmusic.com/">
+<title>Sojourn Music</title>
+<link>http://www.sojournmusic.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-23T10:12:46Z</dc:date>
+<dc:subject>christianity music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/christianity" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/22/jobs/22shifting.html">
+<title>Shifting Careers - Fighting a Workplace War Against Distraction - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/22/jobs/22shifting.html</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-22T17:02:24Z</dc:date>
+<dc:subject>creativity productivity work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://conniebensen.com/">
+<title>Connie Bensen</title>
+<link>http://conniebensen.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-22T17:02:07Z</dc:date>
+<dc:subject>community marketing socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ddmcd.com/my_dow.html">
+<title>Is &#x22;My Dow Network&#x22; a &#x22;Social&#xA0;Network&#x22;? - Managing Technology - Dennis McDonald's Blog</title>
+<link>http://www.ddmcd.com/my_dow.html</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-22T17:01:45Z</dc:date>
+<dc:subject>career socialnetworking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inquisitr.com/1197/why-twitter-is-better-than-friendfeed/">
+<title>Why Twitter Is Better Than FriendFeed</title>
+<link>http://www.inquisitr.com/1197/why-twitter-is-better-than-friendfeed/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-22T17:01:26Z</dc:date>
+<dc:subject>friendfeed twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/threading-the-social-needle/">
+<title>Threading the Social Needle | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/threading-the-social-needle/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-18T12:47:15Z</dc:date>
+<dc:subject>chrisbrogan networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chrisbrogan" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hdbizblog.com/blog/2008/06/04/linked-in-and-productivity/">
+<title>Productivity in Context &#xBB; Blog Archive &#xBB; Linked In and Productivity</title>
+<link>http://hdbizblog.com/blog/2008/06/04/linked-in-and-productivity/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-18T12:45:30Z</dc:date>
+<dc:subject>howto linkedin networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linkedin" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://snipurl.com/">
+<title>Snipurl / Snurl / Snipr - Snippetty snip snip with your looong URLs!</title>
+<link>http://snipurl.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-18T12:44:21Z</dc:date>
+<dc:subject>internet tools twitter web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.michaelhyatt.com/fromwhereisit/2008/06/yes-you-can-sta.html">
+<title>Yes, You Can Stay on Top of Email - Michael Hyatt</title>
+<link>http://www.michaelhyatt.com/fromwhereisit/2008/06/yes-you-can-sta.html</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-18T04:54:43Z</dc:date>
+<dc:subject>email productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://randomfoo.net/blog/id/4186">
+<title>random($foo): Google Spreadsheet, My Asset Allocation, Investing 101</title>
+<link>http://randomfoo.net/blog/id/4186</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-17T10:15:11Z</dc:date>
+<dc:subject>finance google investing spreadsheets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/spreadsheets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/">
+<title>100 Personal Branding Tactics Using Social Media</title>
+<link>http://www.chrisbrogan.com/</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-17T01:22:58Z</dc:date>
+<dc:subject>blogging branding business chrisbrogan socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/branding" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/chrisbrogan" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.redeemer.com/news_and_events/ad_detail.html?ad_id=65">
+<title>Nine Non-fiction Christian books (picks by Tim Keller)</title>
+<link>http://www.redeemer.com/news_and_events/ad_detail.html?ad_id=65</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-17T00:56:32Z</dc:date>
+<dc:subject>books list reading timkeller</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/timkeller" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inrich.com/cva/ric/video.apx.-content-articles-RTD-2008-06-09-0059.html">
+<title>McCain expects to win Va. - inRich.tv</title>
+<link>http://www.inrich.com/cva/ric/video.apx.-content-articles-RTD-2008-06-09-0059.html</link>
+<description>My mom and aunt stump for McCain in the last two minutes of this video!!!</description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-14T20:40:42Z</dc:date>
+<dc:subject>huffman mccain politics richmond virginia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/richmond" />
+    <rdf:li resource="http://del.icio.us/tag/virginia" />
+    <rdf:li resource="http://del.icio.us/tag/mccain" />
+    <rdf:li resource="http://del.icio.us/tag/huffman" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.leadnet.org/2008/06/the-shack-is-th.html">
+<title>Books @ Leadership Network: The Shack touted as Pilgrim's Progress</title>
+<link>http://books.leadnet.org/2008/06/the-shack-is-th.html</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-14T02:48:42Z</dc:date>
+<dc:subject>TheShack djchuang reviews</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reviews" />
+    <rdf:li resource="http://del.icio.us/tag/TheShack" />
+    <rdf:li resource="http://del.icio.us/tag/djchuang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/15/magazine/15parenting-t.html?em&#x26;ex=1213502400&#x26;en=04b9e97c4ed5ef60&#x26;ei=5087%0A">
+<title>When Mom and Dad Share It All - Adventures in Equal Parenting - Lisa Belkin - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/15/magazine/15parenting-t.html?em&#x26;ex=1213502400&#x26;en=04b9e97c4ed5ef60&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-06-14T02:26:39Z</dc:date>
+<dc:subject>children family marriage parenting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/family" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/marriage" />
+    <rdf:li resource="http://del.icio.us/tag/parenting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

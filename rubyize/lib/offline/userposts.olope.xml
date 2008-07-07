@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/olope">
+<title>del.icio.us/olope</title>
+<link>http://del.icio.us/olope</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://elvyx.com/" />
+  <rdf:li rdf:resource="https://fallme.dev.java.net/" />
+  <rdf:li rdf:resource="http://www.hdiv.org/" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/07/presentation-lund-spring-batch" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/spring-web-flow-crud-tutorial" />
+  <rdf:li rdf:resource="http://tutorials.jenkov.com/java-concurrency/index.html" />
+  <rdf:li rdf:resource="http://www.thecoderscorner.com/articleGen/show/8?page=1" />
+  <rdf:li rdf:resource="http://perspectives.mvdirona.com/2008/06/30/FacebookNeedleInAHaystackEfficientStorageOfBillionsOfPhotos.aspx" />
+  <rdf:li rdf:resource="http://lightbody.net/blog/2005/07/hashmapget_can_cause_an_infini.html" />
+  <rdf:li rdf:resource="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html" />
+  <rdf:li rdf:resource="http://www.it.uc3m.es/pervasive/documentos/Intro_J2ME.pdf" />
+  <rdf:li rdf:resource="http://www.digilife.be/quickreferences/PT/J2ME%20Step%20by%20step.pdf" />
+  <rdf:li rdf:resource="http://www.inkscape.org/" />
+  <rdf:li rdf:resource="http://blog.springsource.com/main/2007/11/14/annotated-web-mvc-controllers-in-spring-25/" />
+  <rdf:li rdf:resource="http://todoseries.com/descargas/juegos/la-oca-de-lost.jpg" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/ram-is-disk" />
+  <rdf:li rdf:resource="http://www.infoq.com/interviews/johnson-spring-osgi-tomcat" />
+  <rdf:li rdf:resource="http://parleys.com/display/PARLEYS/Home" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=ajgdx7ccvkxg_50ccp25f" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/hibernate-dynamic-table-routin" />
+  <rdf:li rdf:resource="http://sites.google.com/site/io/?pli=1" />
+  <rdf:li rdf:resource="http://www.25hoursaday.com/weblog/2008/05/26/SomeThoughtsOnSingleInstanceStorageAndTwitter.aspx" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/twitter-and-sharding" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/nasdaq-case-study-air-and-s3" />
+  <rdf:li rdf:resource="http://www.linkedin.com/answers/technology/software-development/TCH_SFT/246645-1893671" />
+  <rdf:li rdf:resource="https://www.agpd.es/portalweb/index-ides-idphp.php" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/design-and-architecture-of-infoq" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/1689" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-06T13:45:58Z</dc:date>
+<dc:subject>architecture article concurrency design performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elvyx.com/">
+<title>Elvyx - Elvyx: Home</title>
+<link>http://elvyx.com/</link>
+<description>Elvyx is a tool designed to monitor and profile the jdbc activity.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-05T13:22:40Z</dc:date>
+<dc:subject>Database JDBC Monitoring Performance SQL Testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/JDBC" />
+    <rdf:li resource="http://del.icio.us/tag/Monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/Performance" />
+    <rdf:li resource="http://del.icio.us/tag/SQL" />
+    <rdf:li resource="http://del.icio.us/tag/Testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://fallme.dev.java.net/">
+<title>fallme: Project Home Page</title>
+<link>https://fallme.dev.java.net/</link>
+<description>FallME is a framework based on the popular Spring Framework but designed for the Java ME (J2ME) platform and is compatible with MIDP. Currently included in FallME is an inversion of control (IoC) container as well as a RecordStoreTemplate.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-05T10:56:52Z</dc:date>
+<dc:subject>Framework IoC J2ME Mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/J2ME" />
+    <rdf:li resource="http://del.icio.us/tag/Framework" />
+    <rdf:li resource="http://del.icio.us/tag/IoC" />
+    <rdf:li resource="http://del.icio.us/tag/Mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hdiv.org/">
+<title>HDIV (HTTP Data Integrity Validator)</title>
+<link>http://www.hdiv.org/</link>
+<description>
+Protect your web applications against attacks</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-03T20:49:40Z</dc:date>
+<dc:subject>framework java security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/07/presentation-lund-spring-batch">
+<title>InfoQ: Presentation: Enterprise Batch Processing with Spring</title>
+<link>http://www.infoq.com/news/2008/07/presentation-lund-spring-batch</link>
+<description>Wayne Lund discusses batch processing, scenarios for using Spring Batch, Spring Batch infrastructure and architecture, scaling Spring Batch,failures and retrying, the Spring Batch Domain Reference Model and execution environment.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-03T17:14:50Z</dc:date>
+<dc:subject>Spring Video architecture batch scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/batch" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description>Float is a CSS positioning property. If you are familiar with print design, you can think of it like an image in a layout where the text wraps around it as necessary.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-02T14:40:28Z</dc:date>
+<dc:subject>css design layout reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/spring-web-flow-crud-tutorial">
+<title>Spring Web Flow CRUD Tutorial | Javalobby</title>
+<link>http://java.dzone.com/articles/spring-web-flow-crud-tutorial</link>
+<description>I'm currently studying Spring Web Flow (SWF). I want to share my experience in creating a simple CRUD Web application.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-02T09:52:39Z</dc:date>
+<dc:subject>Examples SWD Spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/SWD" />
+    <rdf:li resource="http://del.icio.us/tag/Examples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutorials.jenkov.com/java-concurrency/index.html">
+<title>Java Concurrency - A Tutorial</title>
+<link>http://tutorials.jenkov.com/java-concurrency/index.html</link>
+<description>The trail will primarily be concerned with multithreading in Java, but some of the problems occurring in multithreading are similar to problems occurring in multitasking and in distributed systems.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-01T20:22:58Z</dc:date>
+<dc:subject>Concurrency Java Programming Thread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/Thread" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thecoderscorner.com/articleGen/show/8?page=1">
+<title>A guide to mapping databases in Grails with GORM</title>
+<link>http://www.thecoderscorner.com/articleGen/show/8?page=1</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-01T18:03:51Z</dc:date>
+<dc:subject>GORM Grails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GORM" />
+    <rdf:li resource="http://del.icio.us/tag/Grails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perspectives.mvdirona.com/2008/06/30/FacebookNeedleInAHaystackEfficientStorageOfBillionsOfPhotos.aspx">
+<title>Perspectives - Facebook: Needle in a Haystack: Efficient Storage of Billions of Photos</title>
+<link>http://perspectives.mvdirona.com/2008/06/30/FacebookNeedleInAHaystackEfficientStorageOfBillionsOfPhotos.aspx</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-01T08:44:07Z</dc:date>
+<dc:subject>architecture caching database scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lightbody.net/blog/2005/07/hashmapget_can_cause_an_infini.html">
+<title>Blogbody &#xBB; Blog Archive &#xBB; HashMap.get() can cause an infinite loop!</title>
+<link>http://lightbody.net/blog/2005/07/hashmapget_can_cause_an_infini.html</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-01T08:42:31Z</dc:date>
+<dc:subject>concurrency java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html">
+<title>Building a Software Company: How to sell your software for $20,000</title>
+<link>http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-30T15:29:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.it.uc3m.es/pervasive/documentos/Intro_J2ME.pdf">
+<title>Intro_J2ME.pdf (application/pdf Objeto)</title>
+<link>http://www.it.uc3m.es/pervasive/documentos/Intro_J2ME.pdf</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-28T09:58:18Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.digilife.be/quickreferences/PT/J2ME%20Step%20by%20step.pdf">
+<title>J2ME Step by step.pdf (application/pdf Objeto)</title>
+<link>http://www.digilife.be/quickreferences/PT/J2ME%20Step%20by%20step.pdf</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-28T09:55:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.inkscape.org/">
+<title>Inkscape. Dibuja Libremente.</title>
+<link>http://www.inkscape.org/</link>
+<description>Inkscape es un editor de gr&#xE1;ficos vectoriales de c&#xF3;digo abierto, con capacidades similares a Illustrator, Freehand, CorelDraw o Xara X, usando el est&#xE1;ndar de la W3C: el formato de archivo Scalable Vector Graphics (SVG)</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-23T16:16:50Z</dc:date>
+<dc:subject>Design Graphics SVG</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/SVG" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.springsource.com/main/2007/11/14/annotated-web-mvc-controllers-in-spring-25/">
+<title>SpringSource Team Blog &#xBB; Annotated Web MVC Controllers in Spring 2.5</title>
+<link>http://blog.springsource.com/main/2007/11/14/annotated-web-mvc-controllers-in-spring-25/</link>
+<description>Spring 2.5 introduces an approach for writing annotated Web MVC controllers, which we haven't been blogging about much yet&#x2026; I'll take the opportunity to give you an overview of what Spring MVC is really about these days.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-23T09:19:49Z</dc:date>
+<dc:subject>MVC Spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/MVC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://todoseries.com/descargas/juegos/la-oca-de-lost.jpg">
+<title>La Oca de Lost</title>
+<link>http://todoseries.com/descargas/juegos/la-oca-de-lost.jpg</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-19T11:48:40Z</dc:date>
+<dc:subject>Lost Party</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Party" />
+    <rdf:li resource="http://del.icio.us/tag/Lost" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/ram-is-disk">
+<title>InfoQ: RAM is the new disk...</title>
+<link>http://www.infoq.com/news/2008/06/ram-is-disk</link>
+<description>Jim Gray, a man who has contributed greatly to technology over the past 40 years, is credited with saying that memory is the new disk and disk is the new tape.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-19T10:36:17Z</dc:date>
+<dc:subject>Architecture Scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/interviews/johnson-spring-osgi-tomcat">
+<title>InfoQ: Rod Johnson Discusses Spring, OSGi, Tomcat and the Future of Enterprise Java</title>
+<link>http://www.infoq.com/interviews/johnson-spring-osgi-tomcat</link>
+<description>Rod Johnson discusses the Spring Portfolio, the Oracle/BEA and Sun/MySQL acquisitions, Java EE 6, Tomcat and Spring, Spring Dynamic Modules, the future of enterprise Java, the benefits of OSGi for application developers, the Covalent acquisition &#x26;amp; Spring</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-18T09:00:27Z</dc:date>
+<dc:subject>J2EE Java OSGi Spring Tomcat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+    <rdf:li resource="http://del.icio.us/tag/OSGi" />
+    <rdf:li resource="http://del.icio.us/tag/Tomcat" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/J2EE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://parleys.com/display/PARLEYS/Home">
+<title>Home - Parleys - Parleys.com - The Next Generation RIA eLearning Platform</title>
+<link>http://parleys.com/display/PARLEYS/Home</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-15T13:42:16Z</dc:date>
+<dc:subject>Presentations Programming Software Talks Videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Videos" />
+    <rdf:li resource="http://del.icio.us/tag/Presentations" />
+    <rdf:li resource="http://del.icio.us/tag/Talks" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=ajgdx7ccvkxg_50ccp25f">
+<title>Java Web Framework Debate</title>
+<link>http://docs.google.com/View?docid=ajgdx7ccvkxg_50ccp25f</link>
+<description>If the choice of Spring + Hibernate is not debated, your choice of a web framework can always be easily criticized.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-13T15:02:22Z</dc:date>
+<dc:subject>@tfc Comparison Frameworks Java Reference Web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Web" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+    <rdf:li resource="http://del.icio.us/tag/Comparison" />
+    <rdf:li resource="http://del.icio.us/tag/%40tfc" />
+    <rdf:li resource="http://del.icio.us/tag/Frameworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/hibernate-dynamic-table-routin">
+<title>Hibernate - Dynamic Table Routing | Javalobby</title>
+<link>http://java.dzone.com/articles/hibernate-dynamic-table-routin</link>
+<description>I have been searching for a method to dynamically route objects to databases at runtime using Hibernate and recently I found a solution which fit the bill. This post explores the problem and identifies one possible solution.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-13T11:39:04Z</dc:date>
+<dc:subject>Hibernate ORM Routing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/Routing" />
+    <rdf:li resource="http://del.icio.us/tag/ORM" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sites.google.com/site/io/?pli=1">
+<title>Google I/O Sessions (Google I/O Session Videos and Slides)</title>
+<link>http://sites.google.com/site/io/?pli=1</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-13T09:27:00Z</dc:date>
+<dc:subject>Google Presentations Videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/Videos" />
+    <rdf:li resource="http://del.icio.us/tag/Presentations" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.25hoursaday.com/weblog/2008/05/26/SomeThoughtsOnSingleInstanceStorageAndTwitter.aspx">
+<title> Some Thoughts on Single Instance Storage and Twitter</title>
+<link>http://www.25hoursaday.com/weblog/2008/05/26/SomeThoughtsOnSingleInstanceStorageAndTwitter.aspx</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-12T22:20:49Z</dc:date>
+<dc:subject>Architecture Database Messaging Scalability Twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/Messaging" />
+    <rdf:li resource="http://del.icio.us/tag/Scalability" />
+    <rdf:li resource="http://del.icio.us/tag/Twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/twitter-and-sharding">
+<title>InfoQ: Architecting Twitter</title>
+<link>http://www.infoq.com/news/2008/06/twitter-and-sharding</link>
+<description>The architecture underlying the very popular social application Twitter has been at the center of several discussions lately. Twitter had several instances of downtime and had turned off several popular features as the team tried to deal with the issues.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-12T22:06:24Z</dc:date>
+<dc:subject>Architecture Performance Reference Scalability Twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+    <rdf:li resource="http://del.icio.us/tag/Twitter" />
+    <rdf:li resource="http://del.icio.us/tag/Scalability" />
+    <rdf:li resource="http://del.icio.us/tag/Performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/">
+<title>50 Cool Things You Can Do with Google Charts API | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/</link>
+<description>Chartophiles, have you heard that Google has made it incredibly easy to generate your own slick-looking charts? It&#x2019;s true, and all it takes to make one is the ability to read and edit a URL</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-10T09:45:07Z</dc:date>
+<dc:subject>API Charts Google Graphics Web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/Charts" />
+    <rdf:li resource="http://del.icio.us/tag/API" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/Web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/nasdaq-case-study-air-and-s3">
+<title>InfoQ: InfoQ Case Study: NASDAQ Market Replay</title>
+<link>http://www.infoq.com/articles/nasdaq-case-study-air-and-s3</link>
+<description>NASDAQ Market Replay provides a NASDAQ-validated replay and analysis of the activity in the stock market. The application is built using the Adobe Flex and AIR platform, and Amazon Simple Storage Service for persisting historical market data.</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-09T18:21:48Z</dc:date>
+<dc:subject>AWS Adobe Amazon Architecture Flash RIA S3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/RIA" />
+    <rdf:li resource="http://del.icio.us/tag/Flash" />
+    <rdf:li resource="http://del.icio.us/tag/S3" />
+    <rdf:li resource="http://del.icio.us/tag/AWS" />
+    <rdf:li resource="http://del.icio.us/tag/Amazon" />
+    <rdf:li resource="http://del.icio.us/tag/Adobe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linkedin.com/answers/technology/software-development/TCH_SFT/246645-1893671">
+<title>LinkedIn: Answers: Static vs. Dynamic Programming Langauges</title>
+<link>http://www.linkedin.com/answers/technology/software-development/TCH_SFT/246645-1893671</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-09T11:39:26Z</dc:date>
+<dc:subject>Comparison Dynamic Languages Programming Static</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Static" />
+    <rdf:li resource="http://del.icio.us/tag/Dynamic" />
+    <rdf:li resource="http://del.icio.us/tag/Languages" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/Comparison" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.agpd.es/portalweb/index-ides-idphp.php">
+<title>Agencia Espa&#xF1;ola de Protecci&#xF3;n de Datos</title>
+<link>https://www.agpd.es/portalweb/index-ides-idphp.php</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-09T09:33:14Z</dc:date>
+<dc:subject>Datos Espa&#xF1;a Seguridad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Datos" />
+    <rdf:li resource="http://del.icio.us/tag/Seguridad" />
+    <rdf:li resource="http://del.icio.us/tag/Espa%C3%B1a" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/design-and-architecture-of-infoq">
+<title>Design and architecture of InfoQ</title>
+<link>http://www.infoq.com/presentations/design-and-architecture-of-infoq</link>
+<description>This session shows the good, the bad, and the ugly of building InfoQ.com; from (lack of) initial requirements, design/implementation choices, deployment issues, and lessons learned along the way</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-07T12:06:54Z</dc:date>
+<dc:subject>Architecture Presentations Videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Presentations" />
+    <rdf:li resource="http://del.icio.us/tag/Videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/1689">
+<title>Pronounce :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/1689</link>
+<description>Pronounce an english word using services on www.merriam-webster.com</description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-06-06T10:39:33Z</dc:date>
+<dc:subject>Dictionary English Extension Firefox Learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/English" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+    <rdf:li resource="http://del.icio.us/tag/Dictionary" />
+    <rdf:li resource="http://del.icio.us/tag/Extension" />
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

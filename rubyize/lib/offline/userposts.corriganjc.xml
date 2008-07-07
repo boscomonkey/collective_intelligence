@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/corriganjc">
+<title>del.icio.us/corriganjc</title>
+<link>http://del.icio.us/corriganjc</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/j-benchmark2/index.html?ca=dgr-jw22javabench2ss&#x26;S_TACT=105AGX59&#x26;S_CMP=GR" />
+  <rdf:li rdf:resource="http://tsung.erlang-projects.org/" />
+  <rdf:li rdf:resource="http://www.inkscape.org/" />
+  <rdf:li rdf:resource="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139743" />
+  <rdf:li rdf:resource="http://maps.google.com/maps/ms?ie=UTF&#x26;msa=0&#x26;msid=117404454311069720041.000450acfaf9cdd44c4f7" />
+  <rdf:li rdf:resource="http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html" />
+  <rdf:li rdf:resource="http://www.go4th.ie/software/msc_sdd.html" />
+  <rdf:li rdf:resource="http://21ccw.blogspot.com/2008/05/parallel-quicksort-in-erlang-part-ii.html" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139742" />
+  <rdf:li rdf:resource="http://static.springframework.org/spring-ws/site/apidocs/index.html?org/springframework/oxm/castor/package-summary.html" />
+  <rdf:li rdf:resource="http://www.optix.org/~dxy/solaris/command/" />
+  <rdf:li rdf:resource="http://osdir.com/ml/java.jsr.166-concurrency/2005-02/msg00032.html" />
+  <rdf:li rdf:resource="http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/" />
+  <rdf:li rdf:resource="http://www.stonemind.net/blog/2007/02/23/a-java-developer-in-pythons-court/" />
+  <rdf:li rdf:resource="http://agilistas.org/presentations/pycon05/" />
+  <rdf:li rdf:resource="http://www.solocheck.ie/" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/xml/blog/2008/06/standardization_as_a_collectiv.html" />
+  <rdf:li rdf:resource="http://www.coker.com.au/bonnie++/" />
+  <rdf:li rdf:resource="http://jrothman.com/blog/mpd/2008/06/handoffs-dont-work.html" />
+  <rdf:li rdf:resource="http://blogs.sun.com/VirtualGuru/entry/easy_instalation_of_ips_freeware" />
+  <rdf:li rdf:resource="http://ultravioletos.blogspot.com/2008/05/opensolaris-and-blastwave.html" />
+  <rdf:li rdf:resource="http://dlc.sun.com/osol/docs/content/WEBSTACK/ggrud.html" />
+  <rdf:li rdf:resource="http://pkg.opensolaris.org/status" />
+  <rdf:li rdf:resource="http://blastwave.network.com:10000/" />
+  <rdf:li rdf:resource="http://pkg.sunfreeware.com:9000/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Static_single_assignment_form" />
+  <rdf:li rdf:resource="http://www.djangoproject.com/documentation/install/" />
+  <rdf:li rdf:resource="http://www.cookingforengineers.com/" />
+  <rdf:li rdf:resource="http://www.json.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>,</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-06T11:37:09Z</dc:date>
+<dc:subject>concurrency j2ee java performance programming scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/j-benchmark2/index.html?ca=dgr-jw22javabench2ss&#x26;S_TACT=105AGX59&#x26;S_CMP=GR">
+<title>Robust Java benchmarking, Part 2: Statistics and solutions</title>
+<link>http://www.ibm.com/developerworks/library/j-benchmark2/index.html?ca=dgr-jw22javabench2ss&#x26;S_TACT=105AGX59&#x26;S_CMP=GR</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T20:03:02Z</dc:date>
+<dc:subject>benchmark java performance testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tsung.erlang-projects.org/">
+<title>Tsung</title>
+<link>http://tsung.erlang-projects.org/</link>
+<description>Erlang based load testing tool.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T20:02:15Z</dc:date>
+<dc:subject>erlang http performance testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inkscape.org/">
+<title>Inkscape. Draw Freely.</title>
+<link>http://www.inkscape.org/</link>
+<description>OpenSource SVG editor</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T20:01:11Z</dc:date>
+<dc:subject>graphics opensource software svg tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/svg" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python">
+<title>about:cmlenz - The Truth About Unicode In Python</title>
+<link>http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python</link>
+<description>Nice article on i18n issues</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T15:44:21Z</dc:date>
+<dc:subject>i18n programming python unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139743">
+<title>Linux.com :: A new utility for quickly interpreting multiple Bonnie++ benchmarks</title>
+<link>http://www.linux.com/feature/139743</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T11:31:10Z</dc:date>
+<dc:subject>benchmarking filesystem performance solaris sysadmin via:reibrand</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/benchmarking" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/via:reibrand" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maps.google.com/maps/ms?ie=UTF&#x26;msa=0&#x26;msid=117404454311069720041.000450acfaf9cdd44c4f7">
+<title>Birthplaces of major programming languages</title>
+<link>http://maps.google.com/maps/ms?ie=UTF&#x26;msa=0&#x26;msid=117404454311069720041.000450acfaf9cdd44c4f7</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T11:24:03Z</dc:date>
+<dc:subject>history programming trivia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/trivia" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html">
+<title>Shneiderman's Eight Golden Rules of Interface Design</title>
+<link>http://faculty.washington.edu/jtenenbg/courses/360/f04/sessions/schneidermanGoldenRules.html</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-03T09:39:42Z</dc:date>
+<dc:subject>design gui hci programming psychology ui usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/hci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.go4th.ie/software/msc_sdd.html">
+<title>MSc (Software Design and Development) at NUIG</title>
+<link>http://www.go4th.ie/software/msc_sdd.html</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-01T21:36:40Z</dc:date>
+<dc:subject>career</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://21ccw.blogspot.com/2008/05/parallel-quicksort-in-erlang-part-ii.html">
+<title>21st Century Code Works: Parallel Quicksort in Erlang - Part II</title>
+<link>http://21ccw.blogspot.com/2008/05/parallel-quicksort-in-erlang-part-ii.html</link>
+<description>Implementation of quicksort using a parallel map function in Erlang. pmap_gather relies on Erlang's message queue servicing strategy,.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-01T21:15:14Z</dc:date>
+<dc:subject>concurrency erlang programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139742">
+<title>Linux.com :: Using Bonnie++ for filesystem performance benchmarking</title>
+<link>http://www.linux.com/feature/139742</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-01T10:37:56Z</dc:date>
+<dc:subject>filesystem linux performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://static.springframework.org/spring-ws/site/apidocs/index.html?org/springframework/oxm/castor/package-summary.html">
+<title>CastorMarshaller (Spring Web Services 1.5.2 API)</title>
+<link>http://static.springframework.org/spring-ws/site/apidocs/index.html?org/springframework/oxm/castor/package-summary.html</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-30T14:35:59Z</dc:date>
+<dc:subject>castor oxm programming spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/oxm" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/castor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.optix.org/~dxy/solaris/command/">
+<title>Solaris Command Reference</title>
+<link>http://www.optix.org/~dxy/solaris/command/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-25T15:03:43Z</dc:date>
+<dc:subject>documentation reference solaris sysadmin unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osdir.com/ml/java.jsr.166-concurrency/2005-02/msg00032.html">
+<title>Re: Why is ReentrantLock faster than synchronized : msg#00032</title>
+<link>http://osdir.com/ml/java.jsr.166-concurrency/2005-02/msg00032.html</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-25T08:54:13Z</dc:date>
+<dc:subject>concurrency java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/">
+<title>The true raconteur and I ain&#x2019;t talking about Feynman! &#xAB; Talking with a Lisp</title>
+<link>http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-25T08:53:03Z</dc:date>
+<dc:subject>design lisp programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stonemind.net/blog/2007/02/23/a-java-developer-in-pythons-court/">
+<title>stone mind &#xBB; a java developer in python&#x2019;s court</title>
+<link>http://www.stonemind.net/blog/2007/02/23/a-java-developer-in-pythons-court/</link>
+<description>Blog posting on tools for working with Python including test tools.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-24T16:39:55Z</dc:date>
+<dc:subject>java programming python testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agilistas.org/presentations/pycon05/">
+<title>Agile Testing with Python Test Frameworks</title>
+<link>http://agilistas.org/presentations/pycon05/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-24T16:32:27Z</dc:date>
+<dc:subject>jython python testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jython" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solocheck.ie/">
+<title>Irish Company And Irish Director Information Searches - SoloCheck</title>
+<link>http://www.solocheck.ie/</link>
+<description>Interesting site that makes the companies register searchable. Nice and zippy.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-24T16:11:01Z</dc:date>
+<dc:subject>business</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/xml/blog/2008/06/standardization_as_a_collectiv.html">
+<title>Standardization as a collective loss of imagination? - O'Reilly XML Blog</title>
+<link>http://www.oreillynet.com/xml/blog/2008/06/standardization_as_a_collectiv.html</link>
+<description>AN essay on typesetting an standards. A good jumping off point for ennumerating all the issues.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-23T13:43:23Z</dc:date>
+<dc:subject>CSS DSSSL XML publishing typesetting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/DSSSL" />
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/typesetting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coker.com.au/bonnie++/">
+<title>Bonnie++ now at 1.03c (very stable)!</title>
+<link>http://www.coker.com.au/bonnie++/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-21T19:35:34Z</dc:date>
+<dc:subject>disk filesystem performance unix via:reibrand</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+    <rdf:li resource="http://del.icio.us/tag/via:reibrand" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jrothman.com/blog/mpd/2008/06/handoffs-dont-work.html">
+<title>Managing Product Development &#xBB; Handoffs Don&#x2019;t Work</title>
+<link>http://jrothman.com/blog/mpd/2008/06/handoffs-dont-work.html</link>
+<description>This concisely articulates a nagging feeling I have had for years.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-21T19:32:10Z</dc:date>
+<dc:subject>management process</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/process" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/VirtualGuru/entry/easy_instalation_of_ips_freeware">
+<title>Instalation of IPS freeware SW into OpenSolaris or Indiana : VirtualGuru</title>
+<link>http://blogs.sun.com/VirtualGuru/entry/easy_instalation_of_ips_freeware</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T21:54:32Z</dc:date>
+<dc:subject>blastwave ips opensolaris solaris</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blastwave" />
+    <rdf:li resource="http://del.icio.us/tag/ips" />
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ultravioletos.blogspot.com/2008/05/opensolaris-and-blastwave.html">
+<title>Ultraviolet: OpenSolaris and Blastwave</title>
+<link>http://ultravioletos.blogspot.com/2008/05/opensolaris-and-blastwave.html</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T21:53:37Z</dc:date>
+<dc:subject>blastwave howto ips opensolaris repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/blastwave" />
+    <rdf:li resource="http://del.icio.us/tag/ips" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dlc.sun.com/osol/docs/content/WEBSTACK/ggrud.html">
+<title>Installing Web Stack Components - Web Stack Getting Started Guide</title>
+<link>http://dlc.sun.com/osol/docs/content/WEBSTACK/ggrud.html</link>
+<description>Entry point into documentation for setting up an Web stack on OpenSolaris</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T20:31:09Z</dc:date>
+<dc:subject>apache lamp opensolaris solaris web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lamp" />
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/solaris" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pkg.opensolaris.org/status">
+<title>OpenSolaris : pkg - image packaging system</title>
+<link>http://pkg.opensolaris.org/status</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T20:26:26Z</dc:date>
+<dc:subject>freeware opensolaris repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blastwave.network.com:10000/">
+<title>Blastwave : pkg - image packaging system</title>
+<link>http://blastwave.network.com:10000/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T20:25:44Z</dc:date>
+<dc:subject>freeware opensolaris repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pkg.sunfreeware.com:9000/">
+<title>SunFreeWare : pkg - image packaging system</title>
+<link>http://pkg.sunfreeware.com:9000/</link>
+<description></description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T20:25:13Z</dc:date>
+<dc:subject>freeware opensolaris repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensolaris" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Static_single_assignment_form">
+<title>Static single assignment form - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Static_single_assignment_form</link>
+<description>SSA</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-20T17:26:48Z</dc:date>
+<dc:subject>algorithms compiler programming ssa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ssa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.djangoproject.com/documentation/install/">
+<title>Django | How to install Django | Django Documentation</title>
+<link>http://www.djangoproject.com/documentation/install/</link>
+<description>Django setup instructions, including how to enable teh connection to a DB.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-19T19:40:35Z</dc:date>
+<dc:subject>django framework programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cookingforengineers.com/">
+<title>Cooking For Engineers - Step by Step Recipes and Food for the Analytically Minded</title>
+<link>http://www.cookingforengineers.com/</link>
+<description>Fantastic cookery site. Explains things in scientific terms.</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-19T19:07:27Z</dc:date>
+<dc:subject>cooking engineering food health recipe via:reibrand</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/via:reibrand" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.json.org/">
+<title>JSON</title>
+<link>http://www.json.org/</link>
+<description>Reference for JSON</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-06-19T18:33:44Z</dc:date>
+<dc:subject>javascript json programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

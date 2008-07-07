@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/szvinis">
+<title>del.icio.us/szvinis</title>
+<link>http://del.icio.us/szvinis</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://engineyard.com/" />
+  <rdf:li rdf:resource="http://www.mobissimo.com/" />
+  <rdf:li rdf:resource="http://litmusapp.com/" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://www.rubyonrails.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://engineyard.com/">
+<title>Engine Yard</title>
+<link>http://engineyard.com/</link>
+<description>Fully-Managed Ruby &#x26;amp; Rails Hosting and Deployment</description>
+<dc:creator>szvinis</dc:creator>
+<dc:date>2008-07-06T09:35:09Z</dc:date>
+<dc:subject>development hosting rails ruby servers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/servers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mobissimo.com/">
+<title>Mobissimo Travel</title>
+<link>http://www.mobissimo.com/</link>
+<description>An interesting web 2.0-ish travel website.</description>
+<dc:creator>szvinis</dc:creator>
+<dc:date>2008-07-06T09:12:35Z</dc:date>
+<dc:subject>2.0 travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://litmusapp.com/">
+<title>Litmus App</title>
+<link>http://litmusapp.com/</link>
+<description>Interface testing software for different OSs and browsers.</description>
+<dc:creator>szvinis</dc:creator>
+<dc:date>2008-07-06T09:12:11Z</dc:date>
+<dc:subject>2.0 development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>Ajax Activity Indicator Icons</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description>120+ ajax activity icons for free download.</description>
+<dc:creator>szvinis</dc:creator>
+<dc:date>2008-07-06T09:06:03Z</dc:date>
+<dc:subject>development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rubyonrails.org/">
+<title>Ruby on Rails</title>
+<link>http://www.rubyonrails.org/</link>
+<description></description>
+<dc:creator>szvinis</dc:creator>
+<dc:date>2008-07-06T06:40:10Z</dc:date>
+<dc:subject>development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

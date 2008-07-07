@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lenva">
+<title>del.icio.us/lenva</title>
+<link>http://del.icio.us/lenva</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.edubloggercon.com/Web%202.0%20Smackdown" />
+  <rdf:li rdf:resource="http://budtheteacher.com/blog/2008/07/03/the-podcast-driving-from-necc" />
+  <rdf:li rdf:resource="http://thewallscamedown.wikispaces.com/" />
+  <rdf:li rdf:resource="http://www.vertustech.com/blog/2008/02/11/32" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Web%20Design" />
+  <rdf:li rdf:resource="http://teachingeverystudent.blogspot.com/2008/03/jott-new-tool-for-learning.html" />
+  <rdf:li rdf:resource="http://edtechtalk.com/" />
+  <rdf:li rdf:resource="http://mrcsclassblog.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.flatclassrooms.com/Teach%20the%20World" />
+  <rdf:li rdf:resource="http://www.necollaborative.org/resources.htm" />
+  <rdf:li rdf:resource="http://schoolsupportservices.wetpaint.com/page/File%20Convertors%2FDownloaders" />
+  <rdf:li rdf:resource="http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting" />
+  <rdf:li rdf:resource="http://tbarrett.edublogs.org/2008/06/29/marking-work-in-google-docs" />
+  <rdf:li rdf:resource="http://www.google.com/translate_tools?hl=en" />
+  <rdf:li rdf:resource="http://sharetheaddiction.edublogs.org/2008/06/29/sliderocket-is-fabulous-online-presentation-app" />
+  <rdf:li rdf:resource="http://www.mybaliguide.com/cgi-bin/index.cgi?action=viewnews" />
+  <rdf:li rdf:resource="http://webquest.ning.com/" />
+  <rdf:li rdf:resource="http://www.callgraph.in/" />
+  <rdf:li rdf:resource="http://nickciske.com/tools/binary.php" />
+  <rdf:li rdf:resource="http://www.school-clip-art.com/" />
+  <rdf:li rdf:resource="http://accetour2008.ning.com/photo?page=8" />
+  <rdf:li rdf:resource="http://dragonsliteracy.wikispaces.com/Dragonimages" />
+  <rdf:li rdf:resource="http://teachdigital.pbwiki.com/voicethread" />
+  <rdf:li rdf:resource="http://blip.tv/file/1030933" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=dfnmfqtd_801g58hptd2" />
+  <rdf:li rdf:resource="http://digicc.com/fido" />
+  <rdf:li rdf:resource="http://www.squidoo.com/youtuberight" />
+  <rdf:li rdf:resource="http://www.appappeal.com/web-2-0-application-world-mosaic" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page" />
+  <rdf:li rdf:resource="http://k12onlineconference.org/?p=222" />
+  <rdf:li rdf:resource="http://score.kings.k12.ca.us/standards/seventh.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.edubloggercon.com/Web%202.0%20Smackdown">
+<title>edubloggercon &#xBB; Web 2.0 Smackdown</title>
+<link>http://www.edubloggercon.com/Web%202.0%20Smackdown</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-04T08:51:19Z</dc:date>
+<dc:subject>edubloggercon necc necc08 necc2008 web2.0tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/edubloggercon" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0tools" />
+    <rdf:li resource="http://del.icio.us/tag/necc" />
+    <rdf:li resource="http://del.icio.us/tag/necc08" />
+    <rdf:li resource="http://del.icio.us/tag/necc2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://budtheteacher.com/blog/2008/07/03/the-podcast-driving-from-necc">
+<title>&#xBB; The Podcast: Driving from NECC Bud the Teacher</title>
+<link>http://budtheteacher.com/blog/2008/07/03/the-podcast-driving-from-necc</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-04T06:38:04Z</dc:date>
+<dc:subject>budtheteacher necc neccpodcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/necc" />
+    <rdf:li resource="http://del.icio.us/tag/budtheteacher" />
+    <rdf:li resource="http://del.icio.us/tag/neccpodcast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thewallscamedown.wikispaces.com/">
+<title>thewallscamedown &#xBB; home</title>
+<link>http://thewallscamedown.wikispaces.com/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-04T03:50:27Z</dc:date>
+<dc:subject>collaboration globalcolla necc08 necc2008</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/globalcolla" />
+    <rdf:li resource="http://del.icio.us/tag/necc2008" />
+    <rdf:li resource="http://del.icio.us/tag/necc08" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vertustech.com/blog/2008/02/11/32">
+<title>Vertus Fluid Mask &#xBB; Blog Archive &#xBB; Our Top 40 Photoshopped Images</title>
+<link>http://www.vertustech.com/blog/2008/02/11/32</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-04T03:48:29Z</dc:date>
+<dc:subject>images photoshop photoshopexamples</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photoshopexamples" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Web%20Design">
+<title>educationalsoftware &#xBB; Web Design</title>
+<link>http://educationalsoftware.wikispaces.com/Web%20Design</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-03T04:05:45Z</dc:date>
+<dc:subject>colourpalette colourpalettes suzievesper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/colourpalettes" />
+    <rdf:li resource="http://del.icio.us/tag/colourpalette" />
+    <rdf:li resource="http://del.icio.us/tag/suzievesper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://teachingeverystudent.blogspot.com/2008/03/jott-new-tool-for-learning.html">
+<title>EdTech Solutions - Teaching Every Student: Jott: A Powerful New Tool for Learning</title>
+<link>http://teachingeverystudent.blogspot.com/2008/03/jott-new-tool-for-learning.html</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-03T01:29:27Z</dc:date>
+<dc:subject>audio cellphones jott</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jott" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/cellphones" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edtechtalk.com/">
+<title>EdTechTalk</title>
+<link>http://edtechtalk.com/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-03T00:26:52Z</dc:date>
+<dc:subject>edtechtalk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/edtechtalk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mrcsclassblog.blogspot.com/">
+<title>Mr. C's Class Blog</title>
+<link>http://mrcsclassblog.blogspot.com/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-03T00:26:19Z</dc:date>
+<dc:subject>necc08 neccvideo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/necc08" />
+    <rdf:li resource="http://del.icio.us/tag/neccvideo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flatclassrooms.com/Teach%20the%20World">
+<title>Flat Classrooms &#xBB; Teach the World</title>
+<link>http://www.flatclassrooms.com/Teach%20the%20World</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-02T00:00:14Z</dc:date>
+<dc:subject>collaboration flatclassroom</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/flatclassroom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.necollaborative.org/resources.htm">
+<title>http://www.necollaborative.org/resources.htm</title>
+<link>http://www.necollaborative.org/resources.htm</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-01T20:20:36Z</dc:date>
+<dc:subject>education ideas resources teacherresource teacherresources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresources" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://schoolsupportservices.wetpaint.com/page/File%20Convertors%2FDownloaders">
+<title>File Convertors/Downloaders - HandPicked - webtools for educators</title>
+<link>http://schoolsupportservices.wetpaint.com/page/File%20Convertors%2FDownloaders</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-01T05:59:32Z</dc:date>
+<dc:subject>web2.0 web2.0apps web2.0tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0apps" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting">
+<title>Share More! Wiki &#xBB; Work/Podcasting Resources?</title>
+<link>http://www.edsupport.cc/mguhlin/share/index.php?n=Work.Podcasting</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-07-01T04:47:12Z</dc:date>
+<dc:subject>podcast podcasting podcastresources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/podcastresources" />
+    <rdf:li resource="http://del.icio.us/tag/podcasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tbarrett.edublogs.org/2008/06/29/marking-work-in-google-docs">
+<title>Marking work in Google Docs | ICT in my Classroom</title>
+<link>http://tbarrett.edublogs.org/2008/06/29/marking-work-in-google-docs</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-30T20:09:10Z</dc:date>
+<dc:subject>feedback feedbackgoogledocs googledocs marking markinggoogledocs tombarrett</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/markinggoogledocs" />
+    <rdf:li resource="http://del.icio.us/tag/googledocs" />
+    <rdf:li resource="http://del.icio.us/tag/marking" />
+    <rdf:li resource="http://del.icio.us/tag/feedback" />
+    <rdf:li resource="http://del.icio.us/tag/feedbackgoogledocs" />
+    <rdf:li resource="http://del.icio.us/tag/tombarrett" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/translate_tools?hl=en">
+<title>Tools</title>
+<link>http://www.google.com/translate_tools?hl=en</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-30T06:58:54Z</dc:date>
+<dc:subject>googletranslate translate translation translator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googletranslate" />
+    <rdf:li resource="http://del.icio.us/tag/translator" />
+    <rdf:li resource="http://del.icio.us/tag/translation" />
+    <rdf:li resource="http://del.icio.us/tag/translate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sharetheaddiction.edublogs.org/2008/06/29/sliderocket-is-fabulous-online-presentation-app">
+<title>SlideRocket is Fabulous Online Presentation App | Sharing the Addiction</title>
+<link>http://sharetheaddiction.edublogs.org/2008/06/29/sliderocket-is-fabulous-online-presentation-app</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-29T20:41:09Z</dc:date>
+<dc:subject>sliderocket</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sliderocket" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mybaliguide.com/cgi-bin/index.cgi?action=viewnews">
+<title>My Bali Guide Information for traveling to Bali Indonesia</title>
+<link>http://www.mybaliguide.com/cgi-bin/index.cgi?action=viewnews</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-29T07:24:48Z</dc:date>
+<dc:subject>bali balishopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bali" />
+    <rdf:li resource="http://del.icio.us/tag/balishopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webquest.ning.com/">
+<title>WebQuest Dialog</title>
+<link>http://webquest.ning.com/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-29T02:26:45Z</dc:date>
+<dc:subject>ning webquest webquestning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ning" />
+    <rdf:li resource="http://del.icio.us/tag/webquest" />
+    <rdf:li resource="http://del.icio.us/tag/webquestning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.callgraph.in/">
+<title>Call Graph: The free Skype call recorder</title>
+<link>http://www.callgraph.in/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-29T01:35:43Z</dc:date>
+<dc:subject>recorder skype skyperecorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skype" />
+    <rdf:li resource="http://del.icio.us/tag/skyperecorder" />
+    <rdf:li resource="http://del.icio.us/tag/recorder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nickciske.com/tools/binary.php">
+<title>NickCiske.com | Binary - it's digitalicious!</title>
+<link>http://nickciske.com/tools/binary.php</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T11:41:45Z</dc:date>
+<dc:subject>binary converter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/binary" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.school-clip-art.com/">
+<title>School Clip Art for Teachers and Kids - Free Clipart for Educational Purposes</title>
+<link>http://www.school-clip-art.com/</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T04:00:16Z</dc:date>
+<dc:subject>clipart free graphics images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://accetour2008.ning.com/photo?page=8">
+<title>Latest Photos (143) - ACCE Study Tour 2008</title>
+<link>http://accetour2008.ning.com/photo?page=8</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T03:58:08Z</dc:date>
+<dc:subject>acce accening necc08 neccgroup nzoz ozvisitors</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/acce" />
+    <rdf:li resource="http://del.icio.us/tag/nzoz" />
+    <rdf:li resource="http://del.icio.us/tag/necc08" />
+    <rdf:li resource="http://del.icio.us/tag/neccgroup" />
+    <rdf:li resource="http://del.icio.us/tag/ozvisitors" />
+    <rdf:li resource="http://del.icio.us/tag/accening" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dragonsliteracy.wikispaces.com/Dragonimages">
+<title>DragonsLiteracy &#xBB; Dragonimages</title>
+<link>http://dragonsliteracy.wikispaces.com/Dragonimages</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T03:39:48Z</dc:date>
+<dc:subject>dragons dragonsliteracy literacy voicethread voicethreadexamples</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/voicethread" />
+    <rdf:li resource="http://del.icio.us/tag/voicethreadexamples" />
+    <rdf:li resource="http://del.icio.us/tag/dragonsliteracy" />
+    <rdf:li resource="http://del.icio.us/tag/dragons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://teachdigital.pbwiki.com/voicethread">
+<title>Teach Digital: Curriculum by Wes Fryer wiki / voicethread</title>
+<link>http://teachdigital.pbwiki.com/voicethread</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T03:36:04Z</dc:date>
+<dc:subject>digitalstorytelling necc08 voicethread wesfryer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voicethread" />
+    <rdf:li resource="http://del.icio.us/tag/wesfryer" />
+    <rdf:li resource="http://del.icio.us/tag/necc08" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blip.tv/file/1030933">
+<title>Plurk Basics</title>
+<link>http://blip.tv/file/1030933</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T03:32:29Z</dc:date>
+<dc:subject>Screencast plurk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plurk" />
+    <rdf:li resource="http://del.icio.us/tag/Screencast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=dfnmfqtd_801g58hptd2">
+<title>Copy of 21st Century Tools Syllabus</title>
+<link>http://docs.google.com/View?docid=dfnmfqtd_801g58hptd2</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-28T00:41:45Z</dc:date>
+<dc:subject>english tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digicc.com/fido">
+<title>Fido Puzzle</title>
+<link>http://digicc.com/fido</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-27T10:48:49Z</dc:date>
+<dc:subject>game math mathex puzzle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathex" />
+    <rdf:li resource="http://del.icio.us/tag/puzzle" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.squidoo.com/youtuberight">
+<title>How To Make YouTube Videos Look Great</title>
+<link>http://www.squidoo.com/youtuberight</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-26T07:29:45Z</dc:date>
+<dc:subject>howto videomaking youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videomaking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appappeal.com/web-2-0-application-world-mosaic">
+<title>World Mosaic Created From 1001 Web 2.0 Logos</title>
+<link>http://www.appappeal.com/web-2-0-application-world-mosaic</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-26T06:51:43Z</dc:date>
+<dc:subject>mosaic web2.0 worldmap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/worldmap" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/mosaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page">
+<title>15 Tools to Help You Develop Faster Web Pages</title>
+<link>http://sixrevisions.com/tools/faster_web_page</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-26T06:45:42Z</dc:date>
+<dc:subject>tools web webdesign webpagecreator webpages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webpages" />
+    <rdf:li resource="http://del.icio.us/tag/webpagecreator" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://k12onlineconference.org/?p=222">
+<title>K12 Online Conference 2008 | Announcing K12Online08 Keynotes!</title>
+<link>http://k12onlineconference.org/?p=222</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-26T04:53:00Z</dc:date>
+<dc:subject>k12online k12online2008 k12onlineconference k12onlineconference08 k12onlineconference2008 k12onlline08</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/k12onlline08" />
+    <rdf:li resource="http://del.icio.us/tag/k12online" />
+    <rdf:li resource="http://del.icio.us/tag/k12onlineconference08" />
+    <rdf:li resource="http://del.icio.us/tag/k12onlineconference" />
+    <rdf:li resource="http://del.icio.us/tag/k12onlineconference2008" />
+    <rdf:li resource="http://del.icio.us/tag/k12online2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://score.kings.k12.ca.us/standards/seventh.html">
+<title>Seventh Grade Standards</title>
+<link>http://score.kings.k12.ca.us/standards/seventh.html</link>
+<description></description>
+<dc:creator>lenva</dc:creator>
+<dc:date>2008-06-25T04:57:22Z</dc:date>
+<dc:subject>data graphs mathex statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathex" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/graphs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tinycrab">
+<title>del.icio.us/tinycrab</title>
+<link>http://del.icio.us/tinycrab</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.xcar.com.cn/" />
+  <rdf:li rdf:resource="http://my.smithmicro.com/win/index.html" />
+  <rdf:li rdf:resource="http://www.mezzoblue.com/icons/chalkwork/" />
+  <rdf:li rdf:resource="http://www.turing.org.uk/" />
+  <rdf:li rdf:resource="http://www.theannotatedturing.com/" />
+  <rdf:li rdf:resource="http://shellrevealed.com/blogs/shellblog/default.aspx" />
+  <rdf:li rdf:resource="http://htmlpurifier.org/" />
+  <rdf:li rdf:resource="http://unitinteractive.com/blog/2008/06/26/better-css-font-stacks/" />
+  <rdf:li rdf:resource="http://vladstudio.com/home/" />
+  <rdf:li rdf:resource="http://www.carsonworkshops.com/" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.whatwg.org/specs/web-apps/current-work/" />
+  <rdf:li rdf:resource="http://orbited.org/" />
+  <rdf:li rdf:resource="http://www.songtaste.com/" />
+  <rdf:li rdf:resource="http://www.ifeng.com/" />
+  <rdf:li rdf:resource="http://www.turingarchive.org/" />
+  <rdf:li rdf:resource="http://cn.nuangle.net/marry/" />
+  <rdf:li rdf:resource="http://goosh.org/" />
+  <rdf:li rdf:resource="http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.douban.com/subject/1033007/" />
+  <rdf:li rdf:resource="http://www.douban.com/book/search/%E9%92%B1%E7%A9%86" />
+  <rdf:li rdf:resource="http://www.douban.com/book/search/%E6%9D%8E%E6%95%96" />
+  <rdf:li rdf:resource="http://songshuhui.net/" />
+  <rdf:li rdf:resource="http://www.salesforce.com/platform/" />
+  <rdf:li rdf:resource="http://www.adobe.com/macromedia/events/john_gay/" />
+  <rdf:li rdf:resource="http://www.cshbl.com/gushu.html" />
+  <rdf:li rdf:resource="http://www.vrlab.umu.se/research/phun/" />
+  <rdf:li rdf:resource="http://forum.xinhuanet.com/" />
+  <rdf:li rdf:resource="http://agilechina.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-06T09:14:18Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xcar.com.cn/">
+<title>&#x7231;&#x5361;&#x6C7D;&#x8F66;&#x7F51;/&#x7231;&#x5361;&#x6C7D;&#x8F66;&#x4FF1;&#x4E50;&#x90E8; &#xFF0D; &#x5168;&#x7403;&#x9886;&#x5148;&#x7684;&#x6C7D;&#x8F66;&#x4E3B;&#x9898;&#x793E;&#x533A;&#x3001;&#x4E92;&#x52A8;&#x5A92;&#x4F53;&#x3001;&#x6C7D;&#x8F66;&#x8BBA;&#x575B;</title>
+<link>http://www.xcar.com.cn/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-06T00:40:40Z</dc:date>
+<dc:subject>auto life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/auto" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://my.smithmicro.com/win/index.html">
+<title>Smith Micro Consumer Software: StuffIt, Aquazone, QuickLink and more!</title>
+<link>http://my.smithmicro.com/win/index.html</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T11:24:43Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mezzoblue.com/icons/chalkwork/">
+<title>mezzoblue &#xA7; Chalkwork Royalty-free Stock Icons</title>
+<link>http://www.mezzoblue.com/icons/chalkwork/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T10:55:45Z</dc:date>
+<dc:subject>icon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.turing.org.uk/">
+<title>Alan Turing</title>
+<link>http://www.turing.org.uk/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T09:38:13Z</dc:date>
+<dc:subject>ai people</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/people" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theannotatedturing.com/">
+<title>The Annotated Turing by Charles Petzold</title>
+<link>http://www.theannotatedturing.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T09:35:26Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shellrevealed.com/blogs/shellblog/default.aspx">
+<title>Shell Blog</title>
+<link>http://shellrevealed.com/blogs/shellblog/default.aspx</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T09:34:47Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://htmlpurifier.org/">
+<title>HTML Purifier - Filter your HTML the standards-compliant way!</title>
+<link>http://htmlpurifier.org/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T09:28:02Z</dc:date>
+<dc:subject>library php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://unitinteractive.com/blog/2008/06/26/better-css-font-stacks/">
+<title>Unit Interactive :: Blog :: Better CSS Font Stacks</title>
+<link>http://unitinteractive.com/blog/2008/06/26/better-css-font-stacks/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T09:20:59Z</dc:date>
+<dc:subject>css fonts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vladstudio.com/home/">
+<title>Vladstudio.com - free desktop wallpapers, widescreen, dual monitors, iPhone wallpapers, backgrounds for mobile phones, wallpaper clocks, e-cards</title>
+<link>http://vladstudio.com/home/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T08:44:18Z</dc:date>
+<dc:subject>wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.carsonworkshops.com/">
+<title>Carson Workshops - Workshops for the web design and web development industry. Taught by the best of the best.</title>
+<link>http://www.carsonworkshops.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T08:07:13Z</dc:date>
+<dc:subject>webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>Posterous - The place to post everything. Just email us. Dead simple blog by email.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T01:26:50Z</dc:date>
+<dc:subject>blog web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatwg.org/specs/web-apps/current-work/">
+<title>HTML 5</title>
+<link>http://www.whatwg.org/specs/web-apps/current-work/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T00:53:56Z</dc:date>
+<dc:subject>webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://orbited.org/">
+<title>Orbited &#x2013; Networking for the Web</title>
+<link>http://orbited.org/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-05T00:49:33Z</dc:date>
+<dc:subject>ajax comet python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/comet" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.songtaste.com/">
+<title>SongTaste &#x7528;&#x97F3;&#x4E50;&#x503E;&#x542C;&#x5F7C;&#x6B64;</title>
+<link>http://www.songtaste.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T12:00:37Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifeng.com/">
+<title>&#x51E4;&#x51F0;&#x7F51;</title>
+<link>http://www.ifeng.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T04:35:04Z</dc:date>
+<dc:subject>chinese news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/chinese" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.turingarchive.org/">
+<title>Turing Digital Archive</title>
+<link>http://www.turingarchive.org/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T04:30:42Z</dc:date>
+<dc:subject>cs people</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/people" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cn.nuangle.net/marry/">
+<title>&#x7ED3;&#x5A5A;&#x4E3A;&#x4F55;</title>
+<link>http://cn.nuangle.net/marry/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T04:27:54Z</dc:date>
+<dc:subject>blog life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://goosh.org/">
+<title>goosh.org - the unofficial google shell.</title>
+<link>http://goosh.org/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:34:27Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/">
+<title>10 Open Source or Free Flash or Flex Code Libraries You Need To Check Out. | Visualrinse | Design and Development by Chad Udell</title>
+<link>http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:32:08Z</dc:date>
+<dc:subject>flash flex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:29:52Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.douban.com/subject/1033007/">
+<title>&#x5173;&#x7CFB;&#x5343;&#x4E07;&#x91CD; (&#x8C46;&#x74E3;)</title>
+<link>http://www.douban.com/subject/1033007/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:21:27Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.douban.com/book/search/%E9%92%B1%E7%A9%86">
+<title>&#x4E66;&#x7C4D;&#x641C;&#x7D22;: &#x94B1;&#x7A46;</title>
+<link>http://www.douban.com/book/search/%E9%92%B1%E7%A9%86</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:20:05Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.douban.com/book/search/%E6%9D%8E%E6%95%96">
+<title>&#x4E66;&#x7C4D;&#x641C;&#x7D22;: &#x674E;&#x6556;</title>
+<link>http://www.douban.com/book/search/%E6%9D%8E%E6%95%96</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-04T02:20:01Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://songshuhui.net/">
+<title>&#x79D1;&#x5B66;&#x677E;&#x9F20;&#x4F1A;</title>
+<link>http://songshuhui.net/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-03T05:46:04Z</dc:date>
+<dc:subject>blog science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salesforce.com/platform/">
+<title>Platform as a Service (PaaS) - Powering On-Demand SaaS Development - salesforce.com</title>
+<link>http://www.salesforce.com/platform/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-02T07:28:31Z</dc:date>
+<dc:subject>saas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/saas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adobe.com/macromedia/events/john_gay/">
+<title>Macromedia - Showcase: History of Flash</title>
+<link>http://www.adobe.com/macromedia/events/john_gay/</link>
+<description>lovely story</description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-02T01:52:42Z</dc:date>
+<dc:subject>flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cshbl.com/gushu.html">
+<title>&#x53E4;&#x4E66;&#x7AD6;&#x6392;&#x6587;&#x5B57;&#x8F6C;&#x6362;&#x5668;</title>
+<link>http://www.cshbl.com/gushu.html</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-01T23:17:32Z</dc:date>
+<dc:subject>chinese tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chinese" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vrlab.umu.se/research/phun/">
+<title>Phun - visual and interactive 2D physics - VRlab - Ume&#xE5; University</title>
+<link>http://www.vrlab.umu.se/research/phun/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-01T22:32:35Z</dc:date>
+<dc:subject>game</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.xinhuanet.com/">
+<title>&#x65B0;&#x534E;&#x7F51;&#x8BBA;&#x575B;</title>
+<link>http://forum.xinhuanet.com/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-07-01T11:36:56Z</dc:date>
+<dc:subject>bbs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agilechina.net/">
+<title>&#x654F;&#x6377;&#x4E2D;&#x56FD; - &#x5927;&#x4F1A;&#x4ECB;&#x7ECD;</title>
+<link>http://agilechina.net/</link>
+<description></description>
+<dc:creator>tinycrab</dc:creator>
+<dc:date>2008-06-30T12:19:40Z</dc:date>
+<dc:subject>agile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/apometron">
+<title>del.icio.us/apometron</title>
+<link>http://del.icio.us/apometron</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.flickr.com/photos/bdehamer/sets/72157594485548154/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397216/backyard-shed-turned-home-office" />
+  <rdf:li rdf:resource="http://www.vimeo.com/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/2497" />
+  <rdf:li rdf:resource="http://www.linuxnewmedia.com.br/noticia/voce_ajuda_o_sourceforgenet_a_premiar_os_melhores_projetos_sl_ca" />
+  <rdf:li rdf:resource="http://www.katzbabes.com/" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/7" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/2790" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/7527" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/1759" />
+  <rdf:li rdf:resource="http://www.olavodecarvalho.org/semana/080705dc.html" />
+  <rdf:li rdf:resource="http://revision3.com/tekzilla/" />
+  <rdf:li rdf:resource="http://www.popsci.com/gear-gadgets/article/2008-07/ready-aim-splat" />
+  <rdf:li rdf:resource="http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.google.com/search?num=100&#x26;q=%22marco+antonio+raupp%22" />
+  <rdf:li rdf:resource="http://www.miranda-im.org/download/" />
+  <rdf:li rdf:resource="http://www.radioeldoradoam.com.br/noticias/politica/2008/jun/16/4.htm" />
+  <rdf:li rdf:resource="http://www.slproweb.com/products/Win32OpenSSL.html" />
+  <rdf:li rdf:resource="http://www.fiscosoft.com.br/main_index.php?home=home_artigos&#x26;m=_&#x26;nx_=&#x26;viewid=197079" />
+  <rdf:li rdf:resource="http://www.google.com/search?q=%22jose+hable%22+%22decadencia+tributaria%22+%22vicio+de+competencia%22&#x26;ie=utf-8&#x26;oe=utf-8&#x26;aq=t&#x26;rls=org.mozilla:en-US:official&#x26;client=firefox-a" />
+  <rdf:li rdf:resource="http://www1.folha.uol.com.br/folha/informatica/ult124u418749.shtml" />
+  <rdf:li rdf:resource="http://br.youtube.com/watch?v=wnGDy8Qp1dc&#x26;feature=related" />
+  <rdf:li rdf:resource="http://br.youtube.com/watch?v=MIv_0wLNLuY&#x26;feature=related" />
+  <rdf:li rdf:resource="http://info.abril.com.br/blog/estacaowindows/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=jkxwJwObE7U" />
+  <rdf:li rdf:resource="http://br.youtube.com/watch?v=0uk2EgpezUk" />
+  <rdf:li rdf:resource="http://jamescasbolt.com/book/chapter1.html" />
+  <rdf:li rdf:resource="http://feeds.feedburner.com/filehippo" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.flickr.com/photos/bdehamer/sets/72157594485548154/">
+<title>Brian's Office - a set on Flickr</title>
+<link>http://www.flickr.com/photos/bdehamer/sets/72157594485548154/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T12:17:07Z</dc:date>
+<dc:subject>flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397216/backyard-shed-turned-home-office">
+<title>Featured Workspace: Backyard Shed Turned Home Office</title>
+<link>http://lifehacker.com/397216/backyard-shed-turned-home-office</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:57:01Z</dc:date>
+<dc:subject>home lifehacker office photos productivity work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/">
+<title>Vimeo, Video Sharing For You</title>
+<link>http://www.vimeo.com/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:53:24Z</dc:date>
+<dc:subject>videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:24:23Z</dc:date>
+<dc:subject>chair ergonomics office shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:10:48Z</dc:date>
+<dc:subject>converter freeware software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/2497">
+<title>CookieSafe :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/2497</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:09:04Z</dc:date>
+<dc:subject>extensions firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxnewmedia.com.br/noticia/voce_ajuda_o_sourceforgenet_a_premiar_os_melhores_projetos_sl_ca">
+<title>Linux Magazine Online &#x2013; Voc&#xEA; ajuda o SourceForge.net a premiar os melhores projetos SL/CA</title>
+<link>http://www.linuxnewmedia.com.br/noticia/voce_ajuda_o_sourceforgenet_a_premiar_os_melhores_projetos_sl_ca</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:07:51Z</dc:date>
+<dc:subject>sourceforge</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sourceforge" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.katzbabes.com/">
+<title>Katz Babes</title>
+<link>http://www.katzbabes.com/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T11:02:10Z</dc:date>
+<dc:subject>porn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/porn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/7">
+<title>Qute :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/7</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T07:25:04Z</dc:date>
+<dc:subject>firefox themes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/2790">
+<title>Who is on gabbly :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/2790</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T07:23:57Z</dc:date>
+<dc:subject>extensions firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/7527">
+<title>Camifox :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/7527</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T07:23:20Z</dc:date>
+<dc:subject>firefox themes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/1759">
+<title>Organize Status Bar :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/1759</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T07:22:38Z</dc:date>
+<dc:subject>extensions firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.olavodecarvalho.org/semana/080705dc.html">
+<title>Quem nos governa, afinal?</title>
+<link>http://www.olavodecarvalho.org/semana/080705dc.html</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T06:17:58Z</dc:date>
+<dc:subject>olavodecarvalho</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/olavodecarvalho" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://revision3.com/tekzilla/">
+<title>Tekzilla &#x2014; Revision3</title>
+<link>http://revision3.com/tekzilla/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T02:00:21Z</dc:date>
+<dc:subject>news technology television tv videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popsci.com/gear-gadgets/article/2008-07/ready-aim-splat">
+<title>Ready, Aim, Splat! | Popular Science</title>
+<link>http://www.popsci.com/gear-gadgets/article/2008-07/ready-aim-splat</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T01:45:29Z</dc:date>
+<dc:subject>gadgets paintball popsci.com science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/paintball" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/popsci.com" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html">
+<title>Teach Yourself Scheme in Fixnum Days</title>
+<link>http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T01:02:54Z</dc:date>
+<dc:subject>ebooks programming scheme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>Posterous - The place to post everything. Just email us. Dead simple blog by email.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T01:00:35Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/search?num=100&#x26;q=%22marco+antonio+raupp%22">
+<title>&#x22;marco antonio raupp&#x22; - Google Search</title>
+<link>http://www.google.com/search?num=100&#x26;q=%22marco+antonio+raupp%22</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-06T00:59:10Z</dc:date>
+<dc:subject>brasil googlesearch sbpc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googlesearch" />
+    <rdf:li resource="http://del.icio.us/tag/sbpc" />
+    <rdf:li resource="http://del.icio.us/tag/brasil" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.miranda-im.org/download/">
+<title>Miranda IM - Download</title>
+<link>http://www.miranda-im.org/download/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-05T14:49:03Z</dc:date>
+<dc:subject>messenger opensource software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/messenger" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.radioeldoradoam.com.br/noticias/politica/2008/jun/16/4.htm">
+<title>R&#xE1;dio Eldorado AM</title>
+<link>http://www.radioeldoradoam.com.br/noticias/politica/2008/jun/16/4.htm</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-05T14:46:43Z</dc:date>
+<dc:subject>confusao eldorado politica psdb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politica" />
+    <rdf:li resource="http://del.icio.us/tag/psdb" />
+    <rdf:li resource="http://del.icio.us/tag/confusao" />
+    <rdf:li resource="http://del.icio.us/tag/eldorado" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slproweb.com/products/Win32OpenSSL.html">
+<title>Shining Light Productions - Win32 OpenSSL</title>
+<link>http://www.slproweb.com/products/Win32OpenSSL.html</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-05T14:38:56Z</dc:date>
+<dc:subject>openssl security software ssl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openssl" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ssl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fiscosoft.com.br/main_index.php?home=home_artigos&#x26;m=_&#x26;nx_=&#x26;viewid=197079">
+<title>FISCOSoft - Informa&#xE7;&#xF5;es Fiscais e Legais - Imposto de Renda, CPMF, ICMS, REFIS, ISS, IPI, PIS, SIMPLES, Cofins, IOF, Legisla&#xE7;&#xE3;o e Jurisprud&#xEA;ncia</title>
+<link>http://www.fiscosoft.com.br/main_index.php?home=home_artigos&#x26;m=_&#x26;nx_=&#x26;viewid=197079</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:43:25Z</dc:date>
+<dc:subject>article impostos receitafederal renda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/receitafederal" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/impostos" />
+    <rdf:li resource="http://del.icio.us/tag/renda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/search?q=%22jose+hable%22+%22decadencia+tributaria%22+%22vicio+de+competencia%22&#x26;ie=utf-8&#x26;oe=utf-8&#x26;aq=t&#x26;rls=org.mozilla:en-US:official&#x26;client=firefox-a">
+<title>&#x22;jose hable&#x22; &#x22;decadencia tributaria&#x22; &#x22;vicio de competencia&#x22; - Google Search</title>
+<link>http://www.google.com/search?q=%22jose+hable%22+%22decadencia+tributaria%22+%22vicio+de+competencia%22&#x26;ie=utf-8&#x26;oe=utf-8&#x26;aq=t&#x26;rls=org.mozilla:en-US:official&#x26;client=firefox-a</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:42:57Z</dc:date>
+<dc:subject>fisco imposto receitafederal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/receitafederal" />
+    <rdf:li resource="http://del.icio.us/tag/fisco" />
+    <rdf:li resource="http://del.icio.us/tag/imposto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www1.folha.uol.com.br/folha/informatica/ult124u418749.shtml">
+<title>Folha Online - Inform&#xE1;tica - Baixar arquivo na internet pode virar crime - 03/07/2008</title>
+<link>http://www1.folha.uol.com.br/folha/informatica/ult124u418749.shtml</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:21:33Z</dc:date>
+<dc:subject>crime fascismo pirataria uol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pirataria" />
+    <rdf:li resource="http://del.icio.us/tag/crime" />
+    <rdf:li resource="http://del.icio.us/tag/uol" />
+    <rdf:li resource="http://del.icio.us/tag/fascismo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://br.youtube.com/watch?v=wnGDy8Qp1dc&#x26;feature=related">
+<title>YouTube - NET NUNCA CUMPRE NADA QUE PROMETE - ISSO &#xC9; UMA GARANTIA!</title>
+<link>http://br.youtube.com/watch?v=wnGDy8Qp1dc&#x26;feature=related</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:19:08Z</dc:date>
+<dc:subject>globo net virtua</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/net" />
+    <rdf:li resource="http://del.icio.us/tag/globo" />
+    <rdf:li resource="http://del.icio.us/tag/virtua" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://br.youtube.com/watch?v=MIv_0wLNLuY&#x26;feature=related">
+<title>YouTube - Trocando o seu IP no Net Virtua em 4 Minutos!</title>
+<link>http://br.youtube.com/watch?v=MIv_0wLNLuY&#x26;feature=related</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:17:54Z</dc:date>
+<dc:subject>globo ip net virtua windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ip" />
+    <rdf:li resource="http://del.icio.us/tag/virtua" />
+    <rdf:li resource="http://del.icio.us/tag/net" />
+    <rdf:li resource="http://del.icio.us/tag/globo" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://info.abril.com.br/blog/estacaowindows/">
+<title>INFO Online - Esta&#xE7;&#xE3;o Windows - Blog do Maur&#xED;cio Grego</title>
+<link>http://info.abril.com.br/blog/estacaowindows/</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-04T03:11:42Z</dc:date>
+<dc:subject>blog uol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/uol" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=jkxwJwObE7U">
+<title>YouTube - Boy singing britney spears scared to death by his mum</title>
+<link>http://www.youtube.com/watch?v=jkxwJwObE7U</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-03T23:50:17Z</dc:date>
+<dc:subject>humor youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://br.youtube.com/watch?v=0uk2EgpezUk">
+<title>YouTube - EU QUERO SUPORT&#xC9;CNICO!!!!</title>
+<link>http://br.youtube.com/watch?v=0uk2EgpezUk</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-03T19:24:30Z</dc:date>
+<dc:subject>bind humor porcaria suporte telefonica</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/suporte" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/telefonica" />
+    <rdf:li resource="http://del.icio.us/tag/bind" />
+    <rdf:li resource="http://del.icio.us/tag/porcaria" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jamescasbolt.com/book/chapter1.html">
+<title>James Casbolt.com - Tearing Down the Strongholds of the New World Order</title>
+<link>http://jamescasbolt.com/book/chapter1.html</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-03T16:08:54Z</dc:date>
+<dc:subject>biography ebook jamescasbolt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jamescasbolt" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/biography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://feeds.feedburner.com/filehippo">
+<title>FileHippo.com - powered by FeedBurner</title>
+<link>http://feeds.feedburner.com/filehippo</link>
+<description></description>
+<dc:creator>apometron</dc:creator>
+<dc:date>2008-07-03T16:06:30Z</dc:date>
+<dc:subject>downloads freeware mustread rss software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/mustread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

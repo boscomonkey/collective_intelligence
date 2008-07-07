@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/drkrahn">
+<title>del.icio.us/drkrahn</title>
+<link>http://del.icio.us/drkrahn</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/40-unusual-websites-you-should-bookmark/" />
+  <rdf:li rdf:resource="http://thefuturebuzz.com/2008/03/11/5-simple-ways-to-keep-your-mind-sharp/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215144000&#x26;en=aae8f317805e7437&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://chartgizmo.com/" />
+  <rdf:li rdf:resource="http://outlawdesignblog.com/2008/80-graphic-design-links-you-cant-live-without/" />
+  <rdf:li rdf:resource="http://www.elise.com/recipes/archives/007274red_chile_marinated_grilled_chicken.php" />
+  <rdf:li rdf:resource="http://www.rd.com/living-healthy/30-ways-to-reduce-your-risk-of-heart-disease-and-stroke/article16062.html" />
+  <rdf:li rdf:resource="http://www.voip-news.com/feature/hacking-skype-020607/" />
+  <rdf:li rdf:resource="http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html" />
+  <rdf:li rdf:resource="http://scanner.virus.org/" />
+  <rdf:li rdf:resource="http://www.taschen.com/lookinside/05204/index.htm" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/best-tips-getting-in-shape/" />
+  <rdf:li rdf:resource="http://www.internetpolyglot.com/" />
+  <rdf:li rdf:resource="http://freelancefolder.com/20-must-read-blogs-for-freelance-writers/" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/23/cheap-travel-accomodations/" />
+  <rdf:li rdf:resource="http://www.break.com/index/ball-girl-makes-incredible-catch.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/396692/extreme-lifehacker-home-office-makeover" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/" />
+  <rdf:li rdf:resource="http://www.listen-and-write.com/" />
+  <rdf:li rdf:resource="http://www.koaa.com/aaaa_top_stories/x1331638508" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/savingthespark" />
+  <rdf:li rdf:resource="http://www.healthassist.net/food/obesity.shtml" />
+  <rdf:li rdf:resource="http://www.jeffreymorgenthaler.com/2008/how-to-make-your-own-tonic-water/" />
+  <rdf:li rdf:resource="http://www.woonz.com/" />
+  <rdf:li rdf:resource="http://www.thewisdomjournal.com/Blog/12-things-i-learned-by-42-that-i-wish-i-knew-at-22/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description>hints for a blog within a company</description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-06T11:54:00Z</dc:date>
+<dc:subject>at blog work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/at" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/40-unusual-websites-you-should-bookmark/">
+<title>40 Unusual Websites you should Bookmark.</title>
+<link>http://www.makeuseof.com/tag/40-unusual-websites-you-should-bookmark/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-04T17:31:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://thefuturebuzz.com/2008/03/11/5-simple-ways-to-keep-your-mind-sharp/">
+<title>5 Simple Ways To Keep Your Mind Sharp</title>
+<link>http://thefuturebuzz.com/2008/03/11/5-simple-ways-to-keep-your-mind-sharp/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-03T07:05:11Z</dc:date>
+<dc:subject>mind</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mind" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/">
+<title>Lessons in Productivity from Ralph Waldo Emerson | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-03T06:47:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/">
+<title>Top 20 Motivation Hacks - An Overview</title>
+<link>http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-03T06:46:51Z</dc:date>
+<dc:subject>motivation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/">
+<title>9 Steps to Achieving Flow (and Happiness) in Your Work</title>
+<link>http://zenhabits.net/2008/06/guide-to-achieving-flow-and-happiness-in-your-work/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-03T06:44:16Z</dc:date>
+<dc:subject>zen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215144000&#x26;en=aae8f317805e7437&#x26;ei=5087%0A">
+<title>The 11 Best Foods You Arent Eating - Well - Tara Parker-Pope - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215144000&#x26;en=aae8f317805e7437&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-03T06:41:42Z</dc:date>
+<dc:subject>accessible food healthy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/healthy" />
+    <rdf:li resource="http://del.icio.us/tag/accessible" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chartgizmo.com/">
+<title>Create free online charts with ChartGizmo.com - Use our chart software for visualizing your data.</title>
+<link>http://chartgizmo.com/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-30T08:16:46Z</dc:date>
+<dc:subject>charts online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://outlawdesignblog.com/2008/80-graphic-design-links-you-cant-live-without/">
+<title>Graphic Design Links | Best Graphic Design Links | 80+ Graphic Design Links | Outlaw Design Blog - A Graphic Design Blog</title>
+<link>http://outlawdesignblog.com/2008/80-graphic-design-links-you-cant-live-without/</link>
+<description>for presentations</description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-29T10:54:48Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.elise.com/recipes/archives/007274red_chile_marinated_grilled_chicken.php">
+<title>Red Chile Marinated Grilled Chicken Recipe | Simply Recipes</title>
+<link>http://www.elise.com/recipes/archives/007274red_chile_marinated_grilled_chicken.php</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-28T08:52:35Z</dc:date>
+<dc:subject>chicken mexican peppers recipe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mexican" />
+    <rdf:li resource="http://del.icio.us/tag/chicken" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/peppers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/living-healthy/30-ways-to-reduce-your-risk-of-heart-disease-and-stroke/article16062.html">
+<title>30 Ways to Reduce Your Risk of Heart Disease and Stroke: Daily Changes | Living Healthy | Reader's Digest</title>
+<link>http://www.rd.com/living-healthy/30-ways-to-reduce-your-risk-of-heart-disease-and-stroke/article16062.html</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-28T08:51:11Z</dc:date>
+<dc:subject>disease heart stroke</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/heart" />
+    <rdf:li resource="http://del.icio.us/tag/disease" />
+    <rdf:li resource="http://del.icio.us/tag/stroke" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.voip-news.com/feature/hacking-skype-020607/">
+<title>skype hacked</title>
+<link>http://www.voip-news.com/feature/hacking-skype-020607/</link>
+<description>hints for easier use of skype</description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-28T06:09:36Z</dc:date>
+<dc:subject>easier hacks skype use</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skype" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/easier" />
+    <rdf:li resource="http://del.icio.us/tag/use" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/">
+<title>Tricks to manage multiple accounts in Gmail</title>
+<link>http://coenjacobs.net/lifehacking/tricks-manage-multiple-accounts-gmail/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-27T08:57:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html">
+<title>14 Simple Ways to Super Charge Your Brain</title>
+<link>http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-27T08:56:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://scanner.virus.org/">
+<title>Virus.Org :: Malware Scanning Service</title>
+<link>http://scanner.virus.org/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-27T06:41:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.taschen.com/lookinside/05204/index.htm">
+<title>Leaf through! Guidelines for Online Success</title>
+<link>http://www.taschen.com/lookinside/05204/index.htm</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-26T07:55:38Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/best-tips-getting-in-shape/">
+<title>All The Best Tips on Getting In Shape, In One Handy List | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/best-tips-getting-in-shape/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-25T17:17:27Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.internetpolyglot.com/">
+<title>Free language lessons online, Learn English, Spanish, German, French, Chinese, Russian - Internet Polyglot</title>
+<link>http://www.internetpolyglot.com/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-25T17:12:47Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://freelancefolder.com/20-must-read-blogs-for-freelance-writers/">
+<title>20 Must-Read Blogs For Freelance Writers : Freelance Folder</title>
+<link>http://freelancefolder.com/20-must-read-blogs-for-freelance-writers/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-25T08:05:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php">
+<title>4+ Ways to Quickly Create Excellent Presentations Online - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-24T12:30:10Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/23/cheap-travel-accomodations/">
+<title>30+ Tools For Finding Cheap Travel Accommodations</title>
+<link>http://mashable.com/2008/06/23/cheap-travel-accomodations/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-24T05:49:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.break.com/index/ball-girl-makes-incredible-catch.html">
+<title>Ball Girl Makes Incredible Catch&#xA0;Video</title>
+<link>http://www.break.com/index/ball-girl-makes-incredible-catch.html</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-24T05:48:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/396692/extreme-lifehacker-home-office-makeover">
+<title>Clutter: Extreme Lifehacker Home Office Makeover</title>
+<link>http://lifehacker.com/396692/extreme-lifehacker-home-office-makeover</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-23T08:46:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/">
+<title>57 Useful Google Tools You&#x2019;ve Never Heard Of | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-21T05:16:37Z</dc:date>
+<dc:subject>later read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/later" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.listen-and-write.com/">
+<title>Listen and Write - Dictation</title>
+<link>http://www.listen-and-write.com/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-06T07:54:51Z</dc:date>
+<dc:subject>tesl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tesl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.koaa.com/aaaa_top_stories/x1331638508">
+<title>KOAA.com - Unexplained ground heat burns boy&#x2019;s feet</title>
+<link>http://www.koaa.com/aaaa_top_stories/x1331638508</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-05T07:21:42Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/savingthespark">
+<title>A List Apart: Articles: Saving the Spark: Developing Creative Ideas</title>
+<link>http://www.alistapart.com/articles/savingthespark</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-06-04T09:37:34Z</dc:date>
+<dc:subject>away day prodrill</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/away" />
+    <rdf:li resource="http://del.icio.us/tag/day" />
+    <rdf:li resource="http://del.icio.us/tag/prodrill" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.healthassist.net/food/obesity.shtml">
+<title>14 Habits That Make You Fat</title>
+<link>http://www.healthassist.net/food/obesity.shtml</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-05-31T11:19:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.jeffreymorgenthaler.com/2008/how-to-make-your-own-tonic-water/">
+<title>Jeffrey Morgenthaler &#xBB; How to Make Your Own Tonic Water</title>
+<link>http://www.jeffreymorgenthaler.com/2008/how-to-make-your-own-tonic-water/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-05-29T16:14:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.woonz.com/">
+<title>Woonz.com - The Audio Search Engine and Download Option</title>
+<link>http://www.woonz.com/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-02-02T11:14:27Z</dc:date>
+<dc:subject>Download audio free mp3 music search searchengine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewisdomjournal.com/Blog/12-things-i-learned-by-42-that-i-wish-i-knew-at-22/">
+<title>12 Things I Learned By 42 That I Wish I Knew At 22 | The Wisdom Journal</title>
+<link>http://www.thewisdomjournal.com/Blog/12-things-i-learned-by-42-that-i-wish-i-knew-at-22/</link>
+<description></description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-02-01T22:36:55Z</dc:date>
+<dc:subject>advice blog inspiration life lifehacks motivation wisdom</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/wisdom" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

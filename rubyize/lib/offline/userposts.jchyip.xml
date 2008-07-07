@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jchyip">
+<title>del.icio.us/jchyip</title>
+<link>http://del.icio.us/jchyip</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://bobsutton.typepad.com/my_weblog/2008/07/gun-racks-pick-up-trucks-and-aggression-on-the-r.html" />
+  <rdf:li rdf:resource="http://rasmusson.wordpress.com/2008/06/10/quality-has-nothing-to-do-with-testing/" />
+  <rdf:li rdf:resource="http://pos-psych.com/news/sherri-fisher/20080205614" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/scalability-principles" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/15/fashion/15WORK.html?pagewanted=1&#x26;_r=2&#x26;ref=fashion" />
+  <rdf:li rdf:resource="http://pos-psych.com/news/sherri-fisher/20080405702" />
+  <rdf:li rdf:resource="http://www.superfactory.com/articles/Emiliani_respect_people_0208.htm" />
+  <rdf:li rdf:resource="http://www.maxdesign.com.au/presentation/process/index.htm" />
+  <rdf:li rdf:resource="http://www.shmula.com/397/reacting-to-visual-cues" />
+  <rdf:li rdf:resource="http://highscalability.com/unorthodox-approach-database-design-coming-shard" />
+  <rdf:li rdf:resource="http://www.presentationzen.com/presentationzen/2007/11/there-are-many.html" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2007/11/07/how-to-construct-a-killer-resume-from-start-to-finish/" />
+  <rdf:li rdf:resource="http://www.shmula.com/442/aza-raskin-on-cooperation-fence-throwing" />
+  <rdf:li rdf:resource="http://www.think-differently.org/2007/09/making-of-expert-3-key-factors.html" />
+  <rdf:li rdf:resource="http://www.lean.org/Events/WebinarHome.cfm" />
+  <rdf:li rdf:resource="http://www.javaspecialists.co.za/archive/Issue111.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/agile-team-room-wishlist" />
+  <rdf:li rdf:resource="http://www.xp123.com/xplor/xp0308/index.shtml" />
+  <rdf:li rdf:resource="http://www.agileadvice.com/archives/2005/12/penny_queueing.html" />
+  <rdf:li rdf:resource="http://www.stickyminds.com/BetterSoftware/magazine.asp?fn=cifea&#x26;id=93" />
+  <rdf:li rdf:resource="http://doc.opengarden.org/Articles/REST_for_the_Rest_of_Us" />
+  <rdf:li rdf:resource="http://www.askmen.com/fashion/fashiontip_150/182_fashion_advice.html" />
+  <rdf:li rdf:resource="http://sirenian.livejournal.com/34346.html" />
+  <rdf:li rdf:resource="http://weblogs.media.mit.edu/SIMPLICITY/archives/000404.html" />
+  <rdf:li rdf:resource="http://kanban.blogspot.com/2007/01/why-clean-your-desk-is-this-5s.html" />
+  <rdf:li rdf:resource="http://www.jackslocum.com/blog/2007/01/11/domquery-css-selector-basic-xpath-implementation-with-benchmarks/" />
+  <rdf:li rdf:resource="http://headrush.typepad.com/creating_passionate_users/2007/01/reverseengineer.html" />
+  <rdf:li rdf:resource="http://yuiblog.com/blog/2007/01/04/performance-research-part-2/" />
+  <rdf:li rdf:resource="http://headrush.typepad.com/creating_passionate_users/2006/12/dont_make_the_d.html" />
+  <rdf:li rdf:resource="http://www.optimizeandprophesize.com/jonathan_mendezs_blog/2006/10/the_death_of_be.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-07-05T23:15:48Z</dc:date>
+<dc:subject>scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bobsutton.typepad.com/my_weblog/2008/07/gun-racks-pick-up-trucks-and-aggression-on-the-r.html">
+<title>Bob Sutton: Gun Racks, Pick-Up Trucks and Aggression on the Road</title>
+<link>http://bobsutton.typepad.com/my_weblog/2008/07/gun-racks-pick-up-trucks-and-aggression-on-the-r.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-07-04T23:40:45Z</dc:date>
+<dc:subject>aggression</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggression" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rasmusson.wordpress.com/2008/06/10/quality-has-nothing-to-do-with-testing/">
+<title>Quality has nothing to do with testing &#xAB; Rasmusson Software Consulting</title>
+<link>http://rasmusson.wordpress.com/2008/06/10/quality-has-nothing-to-do-with-testing/</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-06-23T21:27:35Z</dc:date>
+<dc:subject>quality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quality" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pos-psych.com/news/sherri-fisher/20080205614">
+<title>&#x201D; Practice Does Make Perfect: The Value of Deliberate Practice &#x22; on Positive Psychology News Daily</title>
+<link>http://pos-psych.com/news/sherri-fisher/20080205614</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-06-21T06:13:33Z</dc:date>
+<dc:subject>expertise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expertise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/scalability-principles">
+<title>Scalability Principles</title>
+<link>http://www.infoq.com/articles/scalability-principles</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-05-21T21:40:51Z</dc:date>
+<dc:subject>scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/15/fashion/15WORK.html?pagewanted=1&#x26;_r=2&#x26;ref=fashion">
+<title>Diversity Proves Elusive for Women in Technical Fields - New York Times</title>
+<link>http://www.nytimes.com/2008/05/15/fashion/15WORK.html?pagewanted=1&#x26;_r=2&#x26;ref=fashion</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-05-17T00:13:48Z</dc:date>
+<dc:subject>diversity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diversity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pos-psych.com/news/sherri-fisher/20080405702">
+<title>&#x201D; Appreciative Inquiry and Strengths: Positive Psychology in the Special Education Process &#x22; on Positive Psychology News Daily</title>
+<link>http://pos-psych.com/news/sherri-fisher/20080405702</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-04-09T20:46:45Z</dc:date>
+<dc:subject>appreciativeinquiry education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/appreciativeinquiry" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.superfactory.com/articles/Emiliani_respect_people_0208.htm">
+<title>Superfactory - Article: The Equally Important &#x22;Respect for People&#x22; Principle by Bob Emiliani</title>
+<link>http://www.superfactory.com/articles/Emiliani_respect_people_0208.htm</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-02-20T11:30:48Z</dc:date>
+<dc:subject>respectforpeople</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/respectforpeople" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maxdesign.com.au/presentation/process/index.htm">
+<title>Max Design - Colored boxes - one method of building full CSS layouts</title>
+<link>http://www.maxdesign.com.au/presentation/process/index.htm</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-02-01T18:47:11Z</dc:date>
+<dc:subject>css layout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shmula.com/397/reacting-to-visual-cues">
+<title>shmula &#xBB; Reacting to Visual Cues : Business, Technology, and Stuff in Between</title>
+<link>http://www.shmula.com/397/reacting-to-visual-cues</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-01-11T22:23:21Z</dc:date>
+<dc:subject>visualmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualmanagement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://highscalability.com/unorthodox-approach-database-design-coming-shard">
+<title>An Unorthodox Approach to Database Design : The Coming of the Shard | High Scalability</title>
+<link>http://highscalability.com/unorthodox-approach-database-design-coming-shard</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-12-29T15:06:20Z</dc:date>
+<dc:subject>scalability sharding</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/sharding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.presentationzen.com/presentationzen/2007/11/there-are-many.html">
+<title>Presentation Zen: 10 links to cool, high-rez images</title>
+<link>http://www.presentationzen.com/presentationzen/2007/11/there-are-many.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-12-01T03:43:53Z</dc:date>
+<dc:subject>images presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2007/11/07/how-to-construct-a-killer-resume-from-start-to-finish/">
+<title>The Simple Dollar &#xBB; How to Construct a Killer Resume, From Start to Finish</title>
+<link>http://www.thesimpledollar.com/2007/11/07/how-to-construct-a-killer-resume-from-start-to-finish/</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-11-11T01:25:56Z</dc:date>
+<dc:subject>resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shmula.com/442/aza-raskin-on-cooperation-fence-throwing">
+<title>shmula &#xBB; Aza Raskin on Cooperation &#x26; Fence Throwing : Business, Technology, and Stuff in Between</title>
+<link>http://www.shmula.com/442/aza-raskin-on-cooperation-fence-throwing</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-11-11T00:41:07Z</dc:date>
+<dc:subject>smallteams</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/smallteams" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.think-differently.org/2007/09/making-of-expert-3-key-factors.html">
+<title>Think Differently!!: The Making of an Expert: The 3 Key Factors Underlying Individual Elite Performance in any Domain</title>
+<link>http://www.think-differently.org/2007/09/making-of-expert-3-key-factors.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-09-14T13:39:31Z</dc:date>
+<dc:subject>mastery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mastery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lean.org/Events/WebinarHome.cfm">
+<title>Lean Webinar Information</title>
+<link>http://www.lean.org/Events/WebinarHome.cfm</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-08-19T03:39:05Z</dc:date>
+<dc:subject>lean</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lean" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaspecialists.co.za/archive/Issue111.html">
+<title>[JavaSpecialists 111] - What is faster - LinkedList of ArrayList?</title>
+<link>http://www.javaspecialists.co.za/archive/Issue111.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-08-07T21:21:15Z</dc:date>
+<dc:subject>datastructures java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/datastructures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/agile-team-room-wishlist">
+<title>InfoQ: Designing Collaborative Spaces for Productivity</title>
+<link>http://www.infoq.com/articles/agile-team-room-wishlist</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-07-28T23:37:28Z</dc:date>
+<dc:subject>workspace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/workspace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xp123.com/xplor/xp0308/index.shtml">
+<title>INVEST in Stories / SMART Tasks</title>
+<link>http://www.xp123.com/xplor/xp0308/index.shtml</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-07-20T13:49:38Z</dc:date>
+<dc:subject>userstories</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/userstories" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.agileadvice.com/archives/2005/12/penny_queueing.html">
+<title>Penny Queueing Exercise - Lean Process (Agile Advice)</title>
+<link>http://www.agileadvice.com/archives/2005/12/penny_queueing.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-05-30T06:47:18Z</dc:date>
+<dc:subject>agile games,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games%2C" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stickyminds.com/BetterSoftware/magazine.asp?fn=cifea&#x26;id=93">
+<title>The Case of The Missing Fingerprint: Solve The Mystery of Successful End-of-Project Retrospectives</title>
+<link>http://www.stickyminds.com/BetterSoftware/magazine.asp?fn=cifea&#x26;id=93</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-05-27T21:53:22Z</dc:date>
+<dc:subject>retrospectives</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/retrospectives" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doc.opengarden.org/Articles/REST_for_the_Rest_of_Us">
+<title>Articles/REST for the Rest of Us - doc.opengarden.org</title>
+<link>http://doc.opengarden.org/Articles/REST_for_the_Rest_of_Us</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-04-27T11:16:02Z</dc:date>
+<dc:subject>REST</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/REST" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.askmen.com/fashion/fashiontip_150/182_fashion_advice.html">
+<title>AskMen.com - Ironing tip</title>
+<link>http://www.askmen.com/fashion/fashiontip_150/182_fashion_advice.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-27T07:34:19Z</dc:date>
+<dc:subject>ironing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ironing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sirenian.livejournal.com/34346.html">
+<title>sirenian: Removing duplication from equality</title>
+<link>http://sirenian.livejournal.com/34346.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-24T20:25:32Z</dc:date>
+<dc:subject>equality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/equality" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.media.mit.edu/SIMPLICITY/archives/000404.html">
+<title>Maeda's SIMPLICITY: setup for failure = setup for success</title>
+<link>http://weblogs.media.mit.edu/SIMPLICITY/archives/000404.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-13T22:12:09Z</dc:date>
+<dc:subject>failure success</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/failure" />
+    <rdf:li resource="http://del.icio.us/tag/success" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kanban.blogspot.com/2007/01/why-clean-your-desk-is-this-5s.html">
+<title>Lean Blog: Why Clean Your Desk? Is This 5S?</title>
+<link>http://kanban.blogspot.com/2007/01/why-clean-your-desk-is-this-5s.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-12T20:16:43Z</dc:date>
+<dc:subject>5S clean desk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/5S" />
+    <rdf:li resource="http://del.icio.us/tag/clean" />
+    <rdf:li resource="http://del.icio.us/tag/desk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jackslocum.com/blog/2007/01/11/domquery-css-selector-basic-xpath-implementation-with-benchmarks/">
+<title>Jack Slocum's Blog &#xBB; DomQuery - A lightweight CSS Selector / Basic XPath implementation</title>
+<link>http://www.jackslocum.com/blog/2007/01/11/domquery-css-selector-basic-xpath-implementation-with-benchmarks/</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-12T20:06:39Z</dc:date>
+<dc:subject>css query</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/query" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://headrush.typepad.com/creating_passionate_users/2007/01/reverseengineer.html">
+<title>Creating Passionate Users: Reverse-engineering user reviews</title>
+<link>http://headrush.typepad.com/creating_passionate_users/2007/01/reverseengineer.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-07T01:39:12Z</dc:date>
+<dc:subject>chartering</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chartering" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yuiblog.com/blog/2007/01/04/performance-research-part-2/">
+<title>Performance Research, Part 2: Browser Cache Usage - Exposed! &#xBB; Yahoo! User Interface Blog</title>
+<link>http://yuiblog.com/blog/2007/01/04/performance-research-part-2/</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2007-01-07T00:42:04Z</dc:date>
+<dc:subject>performance web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://headrush.typepad.com/creating_passionate_users/2006/12/dont_make_the_d.html">
+<title>Creating Passionate Users: Don't make the Demo look Done</title>
+<link>http://headrush.typepad.com/creating_passionate_users/2006/12/dont_make_the_d.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2006-12-28T22:13:25Z</dc:date>
+<dc:subject>demos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/demos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.optimizeandprophesize.com/jonathan_mendezs_blog/2006/10/the_death_of_be.html">
+<title>Jonathan Mendez's Blog: The Death of Best Practices</title>
+<link>http://www.optimizeandprophesize.com/jonathan_mendezs_blog/2006/10/the_death_of_be.html</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2006-12-26T22:43:05Z</dc:date>
+<dc:subject>bestpractice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bestpractice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

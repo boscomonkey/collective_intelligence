@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/warumono">
+<title>del.icio.us/warumono</title>
+<link>http://del.icio.us/warumono</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://veadardiary.blog29.fc2.com/blog-entry-1657.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/httpmr/" />
+  <rdf:li rdf:resource="http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html" />
+  <rdf:li rdf:resource="http://blog.rememberthemilk.jp/2008/07/05/190/" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dqnplus/archives/1144942.html" />
+  <rdf:li rdf:resource="http://www.nicovideo.jp/watch/sm3861986" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://bizmakoto.jp/makoto/articles/0807/04/news138.html" />
+  <rdf:li rdf:resource="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51076010.html" />
+  <rdf:li rdf:resource="http://www.forest.impress.co.jp/article/2008/07/03/eventlogexplorer.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/articles/2007/01/05/passpack/index.html" />
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/column/osx/282/index.html" />
+  <rdf:li rdf:resource="http://www.littlewingpinball.com/contents/ja/downloads.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/07/click.html" />
+  <rdf:li rdf:resource="http://japan.cnet.com/marketing/story/0,3800080523,20376589,00.htm" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/NEWS/20080704/310148/" />
+  <rdf:li rdf:resource="http://japan.cnet.com/special/story/0,2000056049,20376432,00.htm" />
+  <rdf:li rdf:resource="http://business.nikkeibp.co.jp/article/life/20080703/164410/" />
+  <rdf:li rdf:resource="http://mb.softbank.jp/mb/iphone/" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/articles/2008/07/04/recfriio_for_mac/index.html" />
+  <rdf:li rdf:resource="http://diamond.jp/series/nagasawa/10036/" />
+  <rdf:li rdf:resource="http://diamond.jp/feature/katsumakogai/10003/" />
+  <rdf:li rdf:resource="http://www.100shiki.com/archives/2008/07/privnote.html" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/fjava/special/ganymedej01/ganymedej01_1.html" />
+  <rdf:li rdf:resource="http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/skybluecanvas/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/finalvent/20080703/1215077939" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/07/03/044/index.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/07/03/031/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://veadardiary.blog29.fc2.com/blog-entry-1657.html">
+<title>Jaiku&#x3001;Twitter&#x3001;Timelog&#x3001;Wassr&#x3078;&#x540C;&#x6642;&#x6295;&#x7A3F;&#x3059;&#x308B;Widget&#x300E;Jaiterlogw&#x300F; | Mac&#x306E;&#x624B;&#x66F8;&#x304D;&#x8AAC;&#x660E;&#x66F8;</title>
+<link>http://veadardiary.blog29.fc2.com/blog-entry-1657.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T08:25:33Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/httpmr/">
+<title>MOONGIFT: &#xBB; HTTP&#x30D9;&#x30FC;&#x30B9;&#x306B;&#x3088;&#x308B;MapReduce&#x30D5;&#x30EC;&#x30FC;&#x30E0;&#x30EF;&#x30FC;&#x30AF;&#x300C;HTTPMR&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/httpmr/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T08:24:40Z</dc:date>
+<dc:subject>tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html">
+<title>&#x677E;&#x6D66;&#x664B;&#x4E5F;&#x306E;L/D: &#x6C17;&#x8C61;&#x885B;&#x661F;&#x306E;&#x5371;&#x6A5F;&#x7684;&#x72B6;&#x6CC1;</title>
+<link>http://smatsu.air-nifty.com/lbyd/2008/07/post_e23e.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T08:18:11Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rememberthemilk.jp/2008/07/05/190/">
+<title>Remember The Milk &#x65E5;&#x672C;&#x7248; &#x516C;&#x5F0F;&#x30D6;&#x30ED;&#x30B0; &#xBB; Tips &#xFF1A; &#x77ED;&#x7E2E;&#x8A9E;&#x3092;&#x4F7F;&#x3063;&#x3066;&#x671F;&#x65E5;&#x5165;&#x529B;&#x3092;&#x7D20;&#x65E9;&#x304F;&#x884C;&#x3046;&#x65B9;&#x6CD5;</title>
+<link>http://blog.rememberthemilk.jp/2008/07/05/190/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T01:23:13Z</dc:date>
+<dc:subject>tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dqnplus/archives/1144942.html">
+<title>&#x75DB;&#x3044;&#x30CB;&#x30E5;&#x30FC;&#x30B9;(&#xFF89;&#x2200;`):&#x4E94;&#x8F2A;&#x958B;&#x50AC;&#x3092;&#x6A5F;&#x306B;&#x3001;&#x300C;&#x30C1;&#x30E3;&#x30A4;&#x30CA;&#x30FB;&#x30C9;&#x30EC;&#x30B9;&#x300D;&#x306E;&#x5927;&#x80C6;&#x6539;&#x9769;&#x2026;&#x4E2D;&#x56FD;</title>
+<link>http://blog.livedoor.jp/dqnplus/archives/1144942.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T01:19:59Z</dc:date>
+<dc:subject>2ch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2ch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nicovideo.jp/watch/sm3861986">
+<title>&#x30A2;&#x30A4;&#x30C9;&#x30EB;&#x30DE;&#x30B9;&#x30BF;&#x30FC;&#x3000;&#x5076;&#x50CF;&#x6A5F;&#x52D5;&#x968A;&#x2010;&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;(&#x590F;)</title>
+<link>http://www.nicovideo.jp/watch/sm3861986</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T01:19:33Z</dc:date>
+<dc:subject>movie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-06T01:19:11Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bizmakoto.jp/makoto/articles/0807/04/news138.html">
+<title>Business Media &#x8AA0;&#xFF1A;&#x6D1E;&#x723A;&#x6E56;&#x30B5;&#x30DF;&#x30C3;&#x30C8;&#x76F4;&#x524D;&#x3060;&#x304B;&#x3089;&#x3053;&#x305D;&#x8AAD;&#x3093;&#x3067;&#x307B;&#x3057;&#x3044;&#x672C;&#xFF1A;&#x300E;&#x5730;&#x7403;&#x3068;&#x4E00;&#x7DD2;&#x306B;&#x982D;&#x3082;&#x51B7;&#x3084;&#x305B;&#xFF01;&#x300F;&#x3068;&#x306F;&#xFF1F;&#x2015;&#x2015;&#x8A33;&#x8005;&#x30FB;&#x5C71;&#x5F62;&#x6D69;&#x751F;&#x6C0F;&#x306B;&#x805E;&#x304F; (1/2)</title>
+<link>http://bizmakoto.jp/makoto/articles/0807/04/news138.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-05T13:15:32Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f">
+<title>&#x6E29;&#x6696;&#x5316;&#x61D0;&#x7591;&#x8AD6;&#x306E;&#x307E;&#x3068;&#x3081; - &#x6C60;&#x7530;&#x4FE1;&#x592B; blog</title>
+<link>http://blog.goo.ne.jp/ikedanobuo/e/37540a91ce3aa7fedb0ab8ef6f0d640f</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-05T13:05:49Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51076010.html">
+<title>404 Blog Not Found:perl - tie()&#x3063;&#x3066;&#x4F55;&#x3092;tie&#x3059;&#x308B;&#x306E;?</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51076010.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-05T13:05:03Z</dc:date>
+<dc:subject>tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.forest.impress.co.jp/article/2008/07/03/eventlogexplorer.html">
+<title>&#x7A93;&#x306E;&#x675C; - &#x3010;REVIEW&#x3011;Windows&#x306E;&#x30A4;&#x30D9;&#x30F3;&#x30C8;&#x30ED;&#x30B0;&#x3092;&#x5FB9;&#x5E95;&#x7684;&#x306B;&#x8ABF;&#x67FB;&#x3067;&#x304D;&#x308B;&#x300C;Event Log Explorer&#x300D;</title>
+<link>http://www.forest.impress.co.jp/article/2008/07/03/eventlogexplorer.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T14:25:21Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/articles/2007/01/05/passpack/index.html">
+<title>&#x3010;&#x30EC;&#x30D3;&#x30E5;&#x30FC;&#x3011;Web&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x306E;&#x30CB;&#x30E5;&#x30FC;&#x30D5;&#x30A7;&#x30FC;&#x30B9;&#x22;PassPack&#x22; - &#x8907;&#x6570;&#x30D1;&#x30B9;&#x30EF;&#x30FC;&#x30C9;&#x306E;&#x7BA1;&#x7406;&#x306A;&#x3089;&#x304A;&#x307E;&#x304B;&#x305B;&#x3092;! (1) &#x4F7F;&#x3044;&#x3084;&#x3059;&#x304F;&#x3066;&#x5B89;&#x5168;&#x306A;&#x30D1;&#x30B9;&#x30EF;&#x30FC;&#x30C9;&#x7BA1;&#x7406;&#x8853;&#x306A;&#x3093;&#x3066;&#x5B9F;&#x5728;&#x3059;&#x308B;&#x306E;? | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;</title>
+<link>http://journal.mycom.co.jp/articles/2007/01/05/passpack/index.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T14:23:35Z</dc:date>
+<dc:subject>infrastructure sec service</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/sec" />
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283">
+<title>&#x4F01;&#x696D;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;CMS&#x4E00;&#x6319;12&#x7A2E;&#x985E;&#x89E3;&#x8AAC;&#xFF08;&#x6A5F;&#x80FD;&#x3084;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;/&#x7BA1;&#x7406;&#x306E;&#x96E3;&#x6613;&#x5EA6;&#x8A55;&#x4FA1;&#x4ED8;&#x304D;&#xFF09; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/07/04/3283</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T14:21:59Z</dc:date>
+<dc:subject>cms infrastructure</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/column/osx/282/index.html">
+<title>&#x3010;&#x30B3;&#x30E9;&#x30E0;&#x3011;OS X &#x30CF;&#x30C3;&#x30AD;&#x30F3;&#x30B0;! (282) &#x307E;&#x3060;&#x898B;&#x306C;&#x300C;&#x96EA;&#x8C79;&#x300D;&#x3092;&#x5F85;&#x3061;&#x306A;&#x304C;&#x3089; - lipo&#x3067;&#x30C0;&#x30A4;&#x30A8;&#x30C3;&#x30C8;&#x7DE8; | &#x30D1;&#x30BD;&#x30B3;&#x30F3; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/column/osx/282/index.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T14:15:06Z</dc:date>
+<dc:subject>mac software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.littlewingpinball.com/contents/ja/downloads.html">
+<title>&#x30EA;&#x30C8;&#x30EB;&#x30A6;&#x30A4;&#x30F3;&#x30B0;&#x30D4;&#x30F3;&#x30DC;&#x30FC;&#x30EB; &#x30AA;&#x30D5;&#x30A3;&#x30B7;&#x30E3;&#x30EB;&#x30B5;&#x30A4;&#x30C8;</title>
+<link>http://www.littlewingpinball.com/contents/ja/downloads.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T08:03:35Z</dc:date>
+<dc:subject>game</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/07/click.html">
+<title>&#x64CD;&#x4F5C;&#x3092;&#x3059;&#x308B;&#x3060;&#x3051;&#x3067;&#x30D8;&#x30EB;&#x30D7;&#x30DA;&#x30FC;&#x30B8;&#x3063;&#x307D;&#x3044;&#x3082;&#x306E;&#x3092;&#x81EA;&#x52D5;&#x751F;&#x6210;&#x3057;&#x3066;&#x304F;&#x308C;&#x308B;&#x300E;Click!&#x30EC;&#x30B3;&#x30FC;&#x30C0;&#x30FC;&#x300F; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/07/click.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T07:54:57Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://japan.cnet.com/marketing/story/0,3800080523,20376589,00.htm">
+<title>Mac&#x306E;&#x30B7;&#x30A7;&#x30A2;&#x3001;&#x6025;&#x901F;&#x306B;&#x62E1;&#x5927;&#x4E2D;--Vista&#x306F;&#x632F;&#x308B;&#x308F;&#x305A;:&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0; - CNET Japan</title>
+<link>http://japan.cnet.com/marketing/story/0,3800080523,20376589,00.htm</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T07:38:40Z</dc:date>
+<dc:subject>trend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/NEWS/20080704/310148/">
+<title>Google&#xFF0C;Web&#x30A2;&#x30D7;&#x30EA;&#x7528;&#x8A66;&#x9A13;&#x30C4;&#x30FC;&#x30EB;&#x300C;ratproxy&#x300D;&#x3092;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3068;&#x3057;&#x3066;&#x516C;&#x958B;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/NEWS/20080704/310148/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T07:38:00Z</dc:date>
+<dc:subject>infrastructure security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://japan.cnet.com/special/story/0,2000056049,20376432,00.htm">
+<title>&#x300C;Windows XP&#x300D;&#x6700;&#x5F8C;&#x306E;&#x65E5;--Windows&#x306E;&#x3053;&#x308C;&#x304B;&#x3089;&#x3092;&#x8003;&#x3048;&#x308B;:&#x30B9;&#x30DA;&#x30B7;&#x30E3;&#x30EB;&#x30EC;&#x30DD;&#x30FC;&#x30C8; - CNET Japan</title>
+<link>http://japan.cnet.com/special/story/0,2000056049,20376432,00.htm</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T04:25:44Z</dc:date>
+<dc:subject>trend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://business.nikkeibp.co.jp/article/life/20080703/164410/">
+<title>18&#xFF1A;&#x5B8C;&#x74A7;&#x306A;&#x5973;&#xFF08;&#x3072;&#x3068;&#xFF09;&#x3092;&#x6CE3;&#x304B;&#x305B;&#x308B;&#x65B9;&#x6CD5;&#xFF1A;NBonline(&#x65E5;&#x7D4C;&#x30D3;&#x30B8;&#x30CD;&#x30B9; &#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;)</title>
+<link>http://business.nikkeibp.co.jp/article/life/20080703/164410/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T04:11:23Z</dc:date>
+<dc:subject>neta</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/neta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mb.softbank.jp/mb/iphone/">
+<title>iPhone 3G&#xA0;|&#xA0;SoftBank</title>
+<link>http://mb.softbank.jp/mb/iphone/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T01:28:51Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/articles/2008/07/04/recfriio_for_mac/index.html">
+<title>&#x3010;&#x30EC;&#x30DD;&#x30FC;&#x30C8;&#x3011;Mac OS X&#x3067;&#x5730;&#x30C7;&#x30B8;&#x3092;&#x9332;&#x753B;&#x3059;&#x308B;! - &#x958B;&#x767A;&#x8005;&#x304C;&#x8A9E;&#x308B;&#x300C;recfriio for Mac&#x300D; (1) &#x300C;recfriio for Mac&#x300D;&#x3068;&#x306F;&#x4F55;&#x304B;? | &#x30D1;&#x30BD;&#x30B3;&#x30F3; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/articles/2008/07/04/recfriio_for_mac/index.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T01:26:46Z</dc:date>
+<dc:subject>mac software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diamond.jp/series/nagasawa/10036/">
+<title>&#x300C;&#x30E4;&#x30DE;&#x30C0;&#x96FB;&#x6A5F;&#x300D;&#x53D6;&#x5F15;&#x5148;&#x5F93;&#x696D;&#x54E1;&#x201C;&#x30BF;&#x30C0;&#x50CD;&#x304D;&#x201D;&#x3067;&#x516C;&#x53D6;&#x304C;&#x6307;&#x6458;&#x3057;&#x305F;&#x554F;&#x984C;&#x70B9;&#xFF5C;&#x5F01;&#x8B77;&#x58EB;&#x30FB;&#x6C38;&#x6CA2;&#x5FB9;&#x3000;M&#x26;A&#x6642;&#x4EE3;&#x306E;&#x8AAD;&#x89E3;&#x529B;&#xFF5C;&#x30C0;&#x30A4;&#x30E4;&#x30E2;&#x30F3;&#x30C9;&#x30FB;&#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;</title>
+<link>http://diamond.jp/series/nagasawa/10036/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T01:26:12Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diamond.jp/feature/katsumakogai/10003/">
+<title>&#x52DD;&#x9593;&#x548C;&#x4EE3;vs&#x5C0F;&#x98FC;&#x5F3E;&#x3000;&#x7570;&#x8272;&#x5BFE;&#x8AC7;&#x7B2C;3&#x56DE; &#x300C;&#x30C6;&#x30EC;&#x30D3;&#x3092;&#x5208;&#x308C;&#xFF01;&#x300D;&#xFF5C;&#x7570;&#x8272;&#x5BFE;&#x8AC7;&#x3000;&#x5C0F;&#x98FC;&#x5F3E;vs&#x52DD;&#x9593;&#x548C;&#x4EE3;&#x300C;&#x4E00;&#x8A00;&#x5553;&#x4E0A;&#x300D;&#xFF5C;&#x30C0;&#x30A4;&#x30E4;&#x30E2;&#x30F3;&#x30C9;&#x30FB;&#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;</title>
+<link>http://diamond.jp/feature/katsumakogai/10003/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-04T01:25:42Z</dc:date>
+<dc:subject>trend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.100shiki.com/archives/2008/07/privnote.html">
+<title>&#x76F8;&#x624B;&#x304C;&#x8AAD;&#x3093;&#x3060;&#x77AC;&#x9593;&#x306B;&#x6D88;&#x3048;&#x3066;&#x3057;&#x307E;&#x3046;&#x30E1;&#x30C3;&#x30BB;&#x30FC;&#x30B8;&#x304C;&#x9001;&#x308C;&#x308B;&#x300E;Privnote&#x300F; | 100SHIKI.COM</title>
+<link>http://www.100shiki.com/archives/2008/07/privnote.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:54:11Z</dc:date>
+<dc:subject>service</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/fjava/special/ganymedej01/ganymedej01_1.html">
+<title>&#x4ECA;&#x5E74;&#x3082;&#x201C;&#x304B;&#x306B;&#x5EA7;&#x201D;&#x30EA;&#x30EA;&#x30FC;&#x30B9;&#xFF01; Eclipse 3.4&#x306E;&#x65B0;&#x6A5F;&#x80FD;&#x306F;&#xFF1F; (1/4) - @IT</title>
+<link>http://www.atmarkit.co.jp/fjava/special/ganymedej01/ganymedej01_1.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:52:45Z</dc:date>
+<dc:subject>tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html">
+<title>JavaScript&#x3067;HTML&#x3092;&#x30C0;&#x30A4;&#x30CA;&#x30DF;&#x30C3;&#x30AF;&#x306B;&#x66F8;&#x304D;&#x63DB;&#x3048;&#x308B;&#x3000;&#x524D;&#x7DE8; &#xFF0D; &#xFF20;IT&#x81EA;&#x5206;&#x6226;&#x7565;&#x7814;&#x7A76;&#x6240;</title>
+<link>http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:50:02Z</dc:date>
+<dc:subject>tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/skybluecanvas/">
+<title>MOONGIFT: &#xBB; &#x5C0F;&#x301C;&#x4E2D;&#x898F;&#x6A21;&#x306A;Web&#x30B5;&#x30A4;&#x30C8;&#x69CB;&#x7BC9;&#x306B;&#x3074;&#x3063;&#x305F;&#x308A;&#x306A;CMS&#x300C;SkyBlueCanvas&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/skybluecanvas/</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:48:45Z</dc:date>
+<dc:subject>cms infrastructure</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/finalvent/20080703/1215077939">
+<title>&#x3086;&#x3063;&#x304F;&#x308A;&#x4E16;&#x306E;&#x4E2D;&#x3092;&#x52D5;&#x304F;10&#x306E;&#x5FC3;&#x304C;&#x3051; - finalvent&#x306E;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/finalvent/20080703/1215077939</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:43:31Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/07/03/044/index.html">
+<title>&#x7C73;Google&#x3001;iPhone / iPod touch&#x7528;&#x300C;Google Talk&#x300D;&#x3092;&#x516C;&#x958B; | &#x30D1;&#x30BD;&#x30B3;&#x30F3; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/07/03/044/index.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:41:34Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/07/03/031/index.html">
+<title>&#x3042;&#x308A;&#x305D;&#x3046;&#x3067;&#x306A;&#x304B;&#x3063;&#x305F;! - &#x6B63;&#x7E2E;&#x5C3A;&#x306E;&#x9244;&#x9053;&#x5730;&#x56F3;&#x300C;&#x65E5;&#x672C;&#x9244;&#x9053;&#x65C5;&#x884C;&#x5730;&#x56F3;&#x5E33;&#x300D;&#x5927;&#x30D2;&#x30C3;&#x30C8; | &#x30E9;&#x30A4;&#x30D5; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/07/03/031/index.html</link>
+<description></description>
+<dc:creator>warumono</dc:creator>
+<dc:date>2008-07-03T12:39:53Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

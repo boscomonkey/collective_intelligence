@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/xtaran">
+<title>del.icio.us/xtaran</title>
+<link>http://del.icio.us/xtaran</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.linux-cd.com.ar/manuales/debian-menu/ch3.html" />
+  <rdf:li rdf:resource="http://www.vservers.ch/xen-server.html" />
+  <rdf:li rdf:resource="http://crackfoo.nicenamecrew.com/" />
+  <rdf:li rdf:resource="http://www.topten.ch/" />
+  <rdf:li rdf:resource="http://www.adventuresofgreg.com/" />
+  <rdf:li rdf:resource="http://www.russellbeattie.com/blog/mobile-browser-detection-in-php" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.kapiti.geek.nz/software/cil.html" />
+  <rdf:li rdf:resource="http://heracles.corsac.net/~corsac/debian/new/" />
+  <rdf:li rdf:resource="http://www.showusabetterway.com/" />
+  <rdf:li rdf:resource="http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running" />
+  <rdf:li rdf:resource="http://www.nzz.ch/images/radar_animiert_1.169.gif" />
+  <rdf:li rdf:resource="http://www.meteox.com/h.aspx?r=&#x26;jaar=-3&#x26;soort=loop1uur" />
+  <rdf:li rdf:resource="http://socialthing.com/" />
+  <rdf:li rdf:resource="http://hg.debian.org/hg/collab-maint/hobbit/hobbit-plugins" />
+  <rdf:li rdf:resource="http://projects.tuxfamily.org/group.pl?name=irssiotr" />
+  <rdf:li rdf:resource="http://www.robbyt.com/content/view/17/27/" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/120050" />
+  <rdf:li rdf:resource="http://httpd.apache.org/docs/2.2/mod/mod_authnz_ldap.html#authzldapauthoritative" />
+  <rdf:li rdf:resource="http://cli-apps.org/" />
+  <rdf:li rdf:resource="http://lists.debian.org/debian-devel-announce/2003/06/msg00016.html" />
+  <rdf:li rdf:resource="http://www.virel.de/" />
+  <rdf:li rdf:resource="http://www.railcab.de/" />
+  <rdf:li rdf:resource="http://groups.google.com/group/microclient/web/microclient-junior-sx-hardware" />
+  <rdf:li rdf:resource="http://dvice.com/archives/2008/06/the_730_ton_sta.php" />
+  <rdf:li rdf:resource="http://universaleditbutton.org/Universal_Edit_Button" />
+  <rdf:li rdf:resource="http://jimmac.musichall.cz/original.php" />
+  <rdf:li rdf:resource="http://kmuto.jp/debian/hcl/" />
+  <rdf:li rdf:resource="http://uneasysilence.com/archive/2007/11/12654/" />
+  <rdf:li rdf:resource="http://cosin.chaostreff.ch/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-06T10:47:10Z</dc:date>
+<dc:subject>chair ergonomics ergonomy furniture health office programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomy" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux-cd.com.ar/manuales/debian-menu/ch3.html">
+<title>Debian Menu System - What packages with applications should do</title>
+<link>http://www.linux-cd.com.ar/manuales/debian-menu/ch3.html</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T21:29:55Z</dc:date>
+<dc:subject>debian documentation menu reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/menu" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vservers.ch/xen-server.html">
+<title>vservers.ch: Xen Server</title>
+<link>http://www.vservers.ch/xen-server.html</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T21:08:27Z</dc:date>
+<dc:subject>hosting switzerland xen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xen" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/switzerland" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://crackfoo.nicenamecrew.com/">
+<title>NNC Crackfoo</title>
+<link>http://crackfoo.nicenamecrew.com/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T21:00:31Z</dc:date>
+<dc:subject>bot crack irc jabber lan-manager md5 service sha1 web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/md5" />
+    <rdf:li resource="http://del.icio.us/tag/sha1" />
+    <rdf:li resource="http://del.icio.us/tag/lan-manager" />
+    <rdf:li resource="http://del.icio.us/tag/irc" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.topten.ch/">
+<title>topten.ch - Der Klick zum besten Produkt!</title>
+<link>http://www.topten.ch/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T14:15:23Z</dc:date>
+<dc:subject>ecology environment hardware list powerconsumption search shopping switzerland topten</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecology" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/switzerland" />
+    <rdf:li resource="http://del.icio.us/tag/topten" />
+    <rdf:li resource="http://del.icio.us/tag/powerconsumption" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adventuresofgreg.com/">
+<title>Welcome to Adventures of Greg</title>
+<link>http://www.adventuresofgreg.com/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T10:40:25Z</dc:date>
+<dc:subject>adventure atlantic bike blog boat cycling greg hpb hpv marathon recumbent twitter world-record</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adventure" />
+    <rdf:li resource="http://del.icio.us/tag/bike" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/recumbent" />
+    <rdf:li resource="http://del.icio.us/tag/hpv" />
+    <rdf:li resource="http://del.icio.us/tag/boat" />
+    <rdf:li resource="http://del.icio.us/tag/atlantic" />
+    <rdf:li resource="http://del.icio.us/tag/marathon" />
+    <rdf:li resource="http://del.icio.us/tag/world-record" />
+    <rdf:li resource="http://del.icio.us/tag/greg" />
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/hpb" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.russellbeattie.com/blog/mobile-browser-detection-in-php">
+<title>Mobile Browser Detection in PHP - RussellBeattie.com</title>
+<link>http://www.russellbeattie.com/blog/mobile-browser-detection-in-php</link>
+<description>Nice &#x26;quot;mobile web&#x26;quot; icon and nice tagline, too. :-)</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-05T09:18:35Z</dc:date>
+<dc:subject>blog-post browser code detection hoto mobile php script</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/detection" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/script" />
+    <rdf:li resource="http://del.icio.us/tag/hoto" />
+    <rdf:li resource="http://del.icio.us/tag/blog-post" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-04T23:04:35Z</dc:date>
+<dc:subject>HTTP audit debugging googlecode proxy ratproxy security web2.0 xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HTTP" />
+    <rdf:li resource="http://del.icio.us/tag/googlecode" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/ratproxy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/audit" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kapiti.geek.nz/software/cil.html">
+<title>kapiti.geek.nz by Andrew Chilton: Software: cil</title>
+<link>http://www.kapiti.geek.nz/software/cil.html</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-04T21:24:56Z</dc:date>
+<dc:subject>bug cil command-line issue ticket tracker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ticket" />
+    <rdf:li resource="http://del.icio.us/tag/issue" />
+    <rdf:li resource="http://del.icio.us/tag/bug" />
+    <rdf:li resource="http://del.icio.us/tag/tracker" />
+    <rdf:li resource="http://del.icio.us/tag/command-line" />
+    <rdf:li resource="http://del.icio.us/tag/cil" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://heracles.corsac.net/~corsac/debian/new/">
+<title>NEW Queue graphs</title>
+<link>http://heracles.corsac.net/~corsac/debian/new/</link>
+<description>Seems to have stopped in January though.</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-04T06:17:31Z</dc:date>
+<dc:subject>NEW debian graph queue</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/NEW" />
+    <rdf:li resource="http://del.icio.us/tag/queue" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.showusabetterway.com/">
+<title>Show Us a Better Way</title>
+<link>http://www.showusabetterway.com/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-03T22:04:54Z</dc:date>
+<dc:subject>better data government information show uk way</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/show" />
+    <rdf:li resource="http://del.icio.us/tag/better" />
+    <rdf:li resource="http://del.icio.us/tag/way" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running">
+<title>0xDECAFBAD &#xBB; Getting Laconica up and running</title>
+<link>http://decafbad.com/blog/2008/07/03/getting-laconica-up-and-running</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-03T21:34:09Z</dc:date>
+<dc:subject>blog-post howto identi.ca laconi.ca microblogging openmicroblogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/identi.ca" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/laconi.ca" />
+    <rdf:li resource="http://del.icio.us/tag/openmicroblogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog-post" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nzz.ch/images/radar_animiert_1.169.gif">
+<title>NZZ: Animated Weather Radar Map of Switzerland</title>
+<link>http://www.nzz.ch/images/radar_animiert_1.169.gif</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-03T11:58:13Z</dc:date>
+<dc:subject>animated map nzz radar switzerland weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/radar" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/switzerland" />
+    <rdf:li resource="http://del.icio.us/tag/animated" />
+    <rdf:li resource="http://del.icio.us/tag/nzz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.meteox.com/h.aspx?r=&#x26;jaar=-3&#x26;soort=loop1uur">
+<title>Meteox.com - Weather - European rainfall radar</title>
+<link>http://www.meteox.com/h.aspx?r=&#x26;jaar=-3&#x26;soort=loop1uur</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-03T11:56:53Z</dc:date>
+<dc:subject>animated europe map meteox radar weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/meteox" />
+    <rdf:li resource="http://del.icio.us/tag/europe" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/animated" />
+    <rdf:li resource="http://del.icio.us/tag/radar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://socialthing.com/">
+<title>Socialthing!</title>
+<link>http://socialthing.com/</link>
+<description>Found via http://twitter.com/datenkeller/statuses/849179224</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-03T11:46:02Z</dc:date>
+<dc:subject>aggregator beta feed friendfeed lifestreaming microblogging private rss socialnetwork socialthing web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/lifestreaming" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/socialthing" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/private" />
+    <rdf:li resource="http://del.icio.us/tag/beta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hg.debian.org/hg/collab-maint/hobbit/hobbit-plugins">
+<title>hg/collab-maint/hobbit/hobbit-plugins: Summary</title>
+<link>http://hg.debian.org/hg/collab-maint/hobbit/hobbit-plugins</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-02T13:28:31Z</dc:date>
+<dc:subject>apt deb debian hg hobbit libs monitoring myon plugins repository zobel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hg" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+    <rdf:li resource="http://del.icio.us/tag/hobbit" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/apt" />
+    <rdf:li resource="http://del.icio.us/tag/libs" />
+    <rdf:li resource="http://del.icio.us/tag/myon" />
+    <rdf:li resource="http://del.icio.us/tag/zobel" />
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/deb" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://projects.tuxfamily.org/group.pl?name=irssiotr">
+<title>TuxFamily.org's Panel: irssiotr</title>
+<link>http://projects.tuxfamily.org/group.pl?name=irssiotr</link>
+<description>Off-The-Record messaging for irssi</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-02T11:15:01Z</dc:date>
+<dc:subject>IRC deb encryption irssi otr privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/otr" />
+    <rdf:li resource="http://del.icio.us/tag/irssi" />
+    <rdf:li resource="http://del.icio.us/tag/IRC" />
+    <rdf:li resource="http://del.icio.us/tag/encryption" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/deb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.robbyt.com/content/view/17/27/">
+<title>robbyt.com - Apache 2.2 and Active Directory</title>
+<link>http://www.robbyt.com/content/view/17/27/</link>
+<description>Some hints about what does not work if you use AuthzLDAPAuthoritative=off. But I need _why_ some other things don't work with AuthzLDAPAuthoritative=on...</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-01T11:57:44Z</dc:date>
+<dc:subject>AuthzLDAPAuthoritative ad apache authentication configuration documentation howto ldap mod_authnz_ldap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ldap" />
+    <rdf:li resource="http://del.icio.us/tag/mod_authnz_ldap" />
+    <rdf:li resource="http://del.icio.us/tag/AuthzLDAPAuthoritative" />
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+    <rdf:li resource="http://del.icio.us/tag/ad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/120050">
+<title>Linux.com :: Apache authentication and authorization using LDAP</title>
+<link>http://www.linux.com/feature/120050</link>
+<description>Some more details about side-effects of AuthzLDAPAuthoritative=on, but it's not the the be-all and end-all, either.</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-01T11:54:56Z</dc:date>
+<dc:subject>AuthzLDAPAuthoritative apache authentication configuration documentation howto ldap mod_authnz_ldap tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ldap" />
+    <rdf:li resource="http://del.icio.us/tag/mod_authnz_ldap" />
+    <rdf:li resource="http://del.icio.us/tag/AuthzLDAPAuthoritative" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://httpd.apache.org/docs/2.2/mod/mod_authnz_ldap.html#authzldapauthoritative">
+<title>mod_authnz_ldap - Apache HTTP Server</title>
+<link>http://httpd.apache.org/docs/2.2/mod/mod_authnz_ldap.html#authzldapauthoritative</link>
+<description>AuthzLDAPAuthoritative Directive -- unfortunately not really explained in detail</description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-07-01T11:52:03Z</dc:date>
+<dc:subject>AuthzLDAPAuthoritative apache authentication configuration documentation ldap mod_authnz_ldap reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/configuration" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/ldap" />
+    <rdf:li resource="http://del.icio.us/tag/mod_authnz_ldap" />
+    <rdf:li resource="http://del.icio.us/tag/AuthzLDAPAuthoritative" />
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cli-apps.org/">
+<title>Command Line Interface Apps - CLI-Apps.org</title>
+<link>http://cli-apps.org/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T21:33:19Z</dc:date>
+<dc:subject>applications cli commandline list screenshots text-mode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/commandline" />
+    <rdf:li resource="http://del.icio.us/tag/text-mode" />
+    <rdf:li resource="http://del.icio.us/tag/cli" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/screenshots" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lists.debian.org/debian-devel-announce/2003/06/msg00016.html">
+<title>Please don't misuse the debian/changelog to close bugs!</title>
+<link>http://lists.debian.org/debian-devel-announce/2003/06/msg00016.html</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T20:44:14Z</dc:date>
+<dc:subject>bts changelog debian howto misuse rhonda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/changelog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/misuse" />
+    <rdf:li resource="http://del.icio.us/tag/bts" />
+    <rdf:li resource="http://del.icio.us/tag/rhonda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virel.de/">
+<title>virel.de: search engine for microformats - SUCHEN</title>
+<link>http://www.virel.de/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T13:26:31Z</dc:date>
+<dc:subject>hcard microformats searchengine semanticweb vcard web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/hcard" />
+    <rdf:li resource="http://del.icio.us/tag/vcard" />
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railcab.de/">
+<title>http://www.railcab.de/</title>
+<link>http://www.railcab.de/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T01:24:05Z</dc:date>
+<dc:subject>bahn concept future idea peterpan prototype railway</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/railway" />
+    <rdf:li resource="http://del.icio.us/tag/concept" />
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/bahn" />
+    <rdf:li resource="http://del.icio.us/tag/peterpan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.google.com/group/microclient/web/microclient-junior-sx-hardware">
+<title>MicroClient Junior SX: Hardware - MicroClient | Google Groups</title>
+<link>http://groups.google.com/group/microclient/web/microclient-junior-sx-hardware</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T01:22:06Z</dc:date>
+<dc:subject>google google-groups hardware jrsx microclient specification</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microclient" />
+    <rdf:li resource="http://del.icio.us/tag/jrsx" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/specification" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/google-groups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dvice.com/archives/2008/06/the_730_ton_sta.php">
+<title>DVICE: The 730 ton stabilizing ball that keeps the tallest building in the world standing</title>
+<link>http://dvice.com/archives/2008/06/the_730_ton_sta.php</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T01:21:10Z</dc:date>
+<dc:subject>ball building gyro skyscraper stabilizing taipei tall</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skyscraper" />
+    <rdf:li resource="http://del.icio.us/tag/gyro" />
+    <rdf:li resource="http://del.icio.us/tag/tall" />
+    <rdf:li resource="http://del.icio.us/tag/building" />
+    <rdf:li resource="http://del.icio.us/tag/stabilizing" />
+    <rdf:li resource="http://del.icio.us/tag/taipei" />
+    <rdf:li resource="http://del.icio.us/tag/ball" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://universaleditbutton.org/Universal_Edit_Button">
+<title>Universal Edit Button - Universal Edit Button</title>
+<link>http://universaleditbutton.org/Universal_Edit_Button</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-30T01:04:33Z</dc:date>
+<dc:subject>add-on button dokuwiki edit firefox microformats universal web2.0 wiki wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/universal" />
+    <rdf:li resource="http://del.icio.us/tag/edit" />
+    <rdf:li resource="http://del.icio.us/tag/button" />
+    <rdf:li resource="http://del.icio.us/tag/dokuwiki" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/add-on" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jimmac.musichall.cz/original.php">
+<title>Original Photo Gallery</title>
+<link>http://jimmac.musichall.cz/original.php</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-29T19:54:16Z</dc:date>
+<dc:subject>css gallery html image-hosting original script</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/script" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/image-hosting" />
+    <rdf:li resource="http://del.icio.us/tag/original" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kmuto.jp/debian/hcl/">
+<title>Debian GNU/Linux device driver check page</title>
+<link>http://kmuto.jp/debian/hcl/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-29T18:55:00Z</dc:date>
+<dc:subject>compatibility debian drivers hardware kernel kmuto linux list reference service web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+    <rdf:li resource="http://del.icio.us/tag/drivers" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/kernel" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/kmuto" />
+    <rdf:li resource="http://del.icio.us/tag/compatibility" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uneasysilence.com/archive/2007/11/12654/">
+<title>Load OSX 10.5 Leopard on the eeePC</title>
+<link>http://uneasysilence.com/archive/2007/11/12654/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-29T18:52:54Z</dc:date>
+<dc:subject>blog-post eeepc hack howto leopard macosx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog-post" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/leopard" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosin.chaostreff.ch/">
+<title>Chaos Singularity</title>
+<link>http://cosin.chaostreff.ch/</link>
+<description></description>
+<dc:creator>XTaran</dc:creator>
+<dc:date>2008-06-29T18:45:03Z</dc:date>
+<dc:subject>ccc ccczh chaostreff cosin hacker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cosin" />
+    <rdf:li resource="http://del.icio.us/tag/ccc" />
+    <rdf:li resource="http://del.icio.us/tag/ccczh" />
+    <rdf:li resource="http://del.icio.us/tag/chaostreff" />
+    <rdf:li resource="http://del.icio.us/tag/hacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

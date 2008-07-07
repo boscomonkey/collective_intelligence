@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/l00ney">
+<title>del.icio.us/l00ney</title>
+<link>http://del.icio.us/l00ney</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.orkspace.net/secdocs/" />
+  <rdf:li rdf:resource="http://www.securitytube.net/" />
+  <rdf:li rdf:resource="http://www.tb-security.com/" />
+  <rdf:li rdf:resource="http://www.nmrc.org/index.html" />
+  <rdf:li rdf:resource="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417" />
+  <rdf:li rdf:resource="http://dev.mysql.com/doc/refman/5.1/en/server-system-variables.html#option_mysqld_expire_logs_days" />
+  <rdf:li rdf:resource="http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html#clustering-http" />
+  <rdf:li rdf:resource="http://camstudio.es/" />
+  <rdf:li rdf:resource="http://www.keepalived.org/LVS-NAT-Keepalived-HOWTO.html" />
+  <rdf:li rdf:resource="http://www.gnu.org/software/gnuradio/doc/exploring-gnuradio.html#usrp" />
+  <rdf:li rdf:resource="http://www.ettus.com/" />
+  <rdf:li rdf:resource="http://www.hackaday.com/2007/08/11/cccamp-2007-gsm-a5-cracking/" />
+  <rdf:li rdf:resource="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi?2006/CS/CS-2006-07" />
+  <rdf:li rdf:resource="http://www.freeitsecuritytraining.com/" />
+  <rdf:li rdf:resource="http://www.schneier.com/book-sandl.html" />
+  <rdf:li rdf:resource="http://www.owasp.org/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.sans.org/" />
+  <rdf:li rdf:resource="http://www.isecom.org/osstmm/" />
+  <rdf:li rdf:resource="http://ece.uprm.edu/~andre/insert/gmail.html" />
+  <rdf:li rdf:resource="http://www.gwap.com/gwap/" />
+  <rdf:li rdf:resource="http://fold.it/portal/adobe_main/" />
+  <rdf:li rdf:resource="http://www.cis.hut.fi/aapo/papers/IJCNN99_tutorialweb/IJCNN99_tutorial3.html" />
+  <rdf:li rdf:resource="http://sprott.physics.wisc.edu/chaostsa/" />
+  <rdf:li rdf:resource="http://www.mysql.com/news-and-events/newsletter/2004-01/a0000000301.html" />
+  <rdf:li rdf:resource="http://en.oreilly.com/mysql2008/public/schedule/detail/132" />
+  <rdf:li rdf:resource="http://www.drweb.com/" />
+  <rdf:li rdf:resource="http://www.vandomburg.net/installing-windows-xp-from-usb/" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docID=dhh4z6n4_96w387mqhn&#x26;revision=_latest" />
+  <rdf:li rdf:resource="http://arcade.itch.com/games/multitasking/" />
+  <rdf:li rdf:resource="http://lifehacker.com/389735/get-vistas-best-features-in-xp" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-07-06T13:08:08Z</dc:date>
+<dc:subject>sysadmin windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.orkspace.net/secdocs/">
+<title>Security and Hacking Documentation</title>
+<link>http://www.orkspace.net/secdocs/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-07-02T08:26:50Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.securitytube.net/">
+<title>SecurityTube - Watch, Learn and Contribute Computer Security Videos</title>
+<link>http://www.securitytube.net/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-23T16:08:15Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tb-security.com/">
+<title>TB&#xB7;Security: Home</title>
+<link>http://www.tb-security.com/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-23T09:47:06Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nmrc.org/index.html">
+<title>Nomad Mobile Research Centre (NMRC)</title>
+<link>http://www.nmrc.org/index.html</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-22T22:30:12Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417">
+<title>&#x2022; View topic - Vista: Tweaked, Tuned, Hacked</title>
+<link>http://www.poormanpcreview.com/forum/poormanpcreview/viewtopic.php?f=53&#x26;t=417</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-19T22:45:13Z</dc:date>
+<dc:subject>sysadmin toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.mysql.com/doc/refman/5.1/en/server-system-variables.html#option_mysqld_expire_logs_days">
+<title>MySQL :: MySQL 5.1 Reference Manual :: 5.1.3 System Variables</title>
+<link>http://dev.mysql.com/doc/refman/5.1/en/server-system-variables.html#option_mysqld_expire_logs_days</link>
+<description>MySQL Variables, useful for configuring my.cnf. Can use &#x26;quot;SHOW VARIABLES&#x26;quot; to check them</description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-12T09:01:06Z</dc:date>
+<dc:subject>admin linux mysql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html#clustering-http">
+<title>Chapter 16. Clustering</title>
+<link>http://docs.jboss.org/jbossas/jboss4guide/r4/html/cluster.chapt.html#clustering-http</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-06T09:45:50Z</dc:date>
+<dc:subject>jboss open3s</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/open3s" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://camstudio.es/">
+<title>CamStudio - Free Screen Recording Software - software de grabaci&#xF3;n de pantallas en v&#xED;deo avi y flash</title>
+<link>http://camstudio.es/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-05T08:02:35Z</dc:date>
+<dc:subject>free tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.keepalived.org/LVS-NAT-Keepalived-HOWTO.html">
+<title>LVS NAT + Keepalived HOWTO</title>
+<link>http://www.keepalived.org/LVS-NAT-Keepalived-HOWTO.html</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-03T15:24:18Z</dc:date>
+<dc:subject>keepalived linux open3s</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/open3s" />
+    <rdf:li resource="http://del.icio.us/tag/keepalived" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gnu.org/software/gnuradio/doc/exploring-gnuradio.html#usrp">
+<title>Exploring GNU Radio</title>
+<link>http://www.gnu.org/software/gnuradio/doc/exploring-gnuradio.html#usrp</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-03T15:02:03Z</dc:date>
+<dc:subject>radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ettus.com/">
+<title>Ettus Research LLC</title>
+<link>http://www.ettus.com/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-03T15:00:46Z</dc:date>
+<dc:subject>linux radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackaday.com/2007/08/11/cccamp-2007-gsm-a5-cracking/">
+<title>CCCamp 2007: GSM A5 cracking - Hack a Day</title>
+<link>http://www.hackaday.com/2007/08/11/cccamp-2007-gsm-a5-cracking/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-03T15:00:18Z</dc:date>
+<dc:subject>gsm security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/gsm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi?2006/CS/CS-2006-07">
+<title>Technical Report CS-2006-07</title>
+<link>http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi?2006/CS/CS-2006-07</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-06-03T15:00:06Z</dc:date>
+<dc:subject>gsm security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/gsm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeitsecuritytraining.com/">
+<title>Community-supported free training resource &#x2014; Free IT Security Training</title>
+<link>http://www.freeitsecuritytraining.com/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-30T07:32:42Z</dc:date>
+<dc:subject>security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.schneier.com/book-sandl.html">
+<title>Secrets and Lies by Bruce Schneier</title>
+<link>http://www.schneier.com/book-sandl.html</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-29T12:25:14Z</dc:date>
+<dc:subject>security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.owasp.org/index.php/Main_Page">
+<title>Main Page - OWASP</title>
+<link>http://www.owasp.org/index.php/Main_Page</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-29T08:55:46Z</dc:date>
+<dc:subject>security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sans.org/">
+<title>SANS Institute - Network, Security, Computer, Audit Information &#x26; Training</title>
+<link>http://www.sans.org/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-29T08:55:37Z</dc:date>
+<dc:subject>security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isecom.org/osstmm/">
+<title>ISECOM - Making Sense of Security</title>
+<link>http://www.isecom.org/osstmm/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-29T08:55:26Z</dc:date>
+<dc:subject>secu security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/secu" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ece.uprm.edu/~andre/insert/gmail.html">
+<title>INSERT - Exploiting the Trust Hierarchy among Email Servers</title>
+<link>http://ece.uprm.edu/~andre/insert/gmail.html</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-29T08:53:06Z</dc:date>
+<dc:subject>security toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gwap.com/gwap/">
+<title>gwap.com - Home</title>
+<link>http://www.gwap.com/gwap/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-27T17:08:40Z</dc:date>
+<dc:subject>interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fold.it/portal/adobe_main/">
+<title>Solve Puzzles for Science | Fold It!</title>
+<link>http://fold.it/portal/adobe_main/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-23T15:56:18Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cis.hut.fi/aapo/papers/IJCNN99_tutorialweb/IJCNN99_tutorial3.html">
+<title>Independent Component Analysis: A Tutorial</title>
+<link>http://www.cis.hut.fi/aapo/papers/IJCNN99_tutorialweb/IJCNN99_tutorial3.html</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-21T18:39:33Z</dc:date>
+<dc:subject>doctorat maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/doctorat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sprott.physics.wisc.edu/chaostsa/">
+<title>Chaos and Time-Series Analysis</title>
+<link>http://sprott.physics.wisc.edu/chaostsa/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-21T13:26:30Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mysql.com/news-and-events/newsletter/2004-01/a0000000301.html">
+<title>MySQL :: How to Monitor MySQL's performance</title>
+<link>http://www.mysql.com/news-and-events/newsletter/2004-01/a0000000301.html</link>
+<description>Basica monitoritzacio duna bd mysql</description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-19T16:25:15Z</dc:date>
+<dc:subject>linux open3s sysadmin toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/open3s" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.oreilly.com/mysql2008/public/schedule/detail/132">
+<title>Benchmarking and Monitoring: Tools of the Trade (Part I): MySQL Conference &#x26; Expo &#x2014; Co-presented by MySQL &#x26; O'Reilly Conferences, April 14 - 17, 2008, Santa Clara, CA</title>
+<link>http://en.oreilly.com/mysql2008/public/schedule/detail/132</link>
+<description>Ideas per monitoritzar rendiment d'una BD</description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-19T16:24:39Z</dc:date>
+<dc:subject>linux open3s sysadmin toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/open3s" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drweb.com/">
+<title>Dr.Web - innovative technologies for information security. Antivirus &#x26; antispam protection.</title>
+<link>http://www.drweb.com/</link>
+<description>Antivirus lliure poc conegut, util per quan el virus ja esta instalat i coneix els antivirus coneguts i no els deixa actuar.</description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-14T11:21:53Z</dc:date>
+<dc:subject>sysadmin windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vandomburg.net/installing-windows-xp-from-usb/">
+<title>Roderick van Domburg&#x2019;s Blog &#xBB; Installing Windows XP from USB</title>
+<link>http://www.vandomburg.net/installing-windows-xp-from-usb/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-14T11:20:11Z</dc:date>
+<dc:subject>sysadmin windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docID=dhh4z6n4_96w387mqhn&#x26;revision=_latest">
+<title>Preparing For EC2 Persistent Storage</title>
+<link>http://docs.google.com/View?docID=dhh4z6n4_96w387mqhn&#x26;revision=_latest</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-13T21:56:25Z</dc:date>
+<dc:subject>linux open3s sysadmin toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/open3s" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arcade.itch.com/games/multitasking/">
+<title>Multitasking - a game @ itch.com</title>
+<link>http://arcade.itch.com/games/multitasking/</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-13T21:54:20Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/389735/get-vistas-best-features-in-xp">
+<title>Windows: Get Vista's Best Features in XP</title>
+<link>http://lifehacker.com/389735/get-vistas-best-features-in-xp</link>
+<description></description>
+<dc:creator>l00ney</dc:creator>
+<dc:date>2008-05-13T21:54:15Z</dc:date>
+<dc:subject>sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rgrocha">
+<title>del.icio.us/rgrocha</title>
+<link>http://del.icio.us/rgrocha</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/en-us/library/cc351024(VS.85).aspx#combinators" />
+  <rdf:li rdf:resource="http://www.quirksmode.org/css/tables.html" />
+  <rdf:li rdf:resource="http://ladyada.net/make/gpsshield/" />
+  <rdf:li rdf:resource="http://www.vimeo.com/1237093?pg=embed&#x26;sec=1237093" />
+  <rdf:li rdf:resource="http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/" />
+  <rdf:li rdf:resource="http://myzonelabs.com/node/12" />
+  <rdf:li rdf:resource="http://www.sony-youth.com/software/eArea/" />
+  <rdf:li rdf:resource="http://www.geniisoft.com/showcase.nsf/WebEditors" />
+  <rdf:li rdf:resource="http://demo.wikiwyg.net/wikiwyg/demo/standalone/" />
+  <rdf:li rdf:resource="http://www.xstandard.com/" />
+  <rdf:li rdf:resource="http://www.themaninblue.com/experiment/widgEditor/" />
+  <rdf:li rdf:resource="http://www.blueshoes.org/en/javascript/editor/" />
+  <rdf:li rdf:resource="http://www.textarearich.com/index.php" />
+  <rdf:li rdf:resource="http://www.dynamicdrive.com/dynamicindex16/richtexteditor/index.htm" />
+  <rdf:li rdf:resource="http://freerichtexteditor.com/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/dvcs-guide" />
+  <rdf:li rdf:resource="http://www.crockford.com/javascript/jsmin.html" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/compressor/" />
+  <rdf:li rdf:resource="http://www.julienlecomte.net/yuicompressor/" />
+  <rdf:li rdf:resource="http://shrinksafe.dojotoolkit.org/" />
+  <rdf:li rdf:resource="http://jsdoc.sourceforge.net/#usage" />
+  <rdf:li rdf:resource="http://pdoc.sourceforge.net/scripts.html" />
+  <rdf:li rdf:resource="http://kb.mozillazine.org/Migrating_settings_to_a_new_profile" />
+  <rdf:li rdf:resource="http://www.dria.org/wordpress/archives/2008/06/12/655/" />
+  <rdf:li rdf:resource="http://www.cssplay.co.uk/menu/image_magnifier2.html" />
+  <rdf:li rdf:resource="http://spritegen.website-performance.org/" />
+  <rdf:li rdf:resource="http://www.cosmicscripts.com/servers/startingapache.html" />
+  <rdf:li rdf:resource="http://kevin.vanzonneveld.net/techblog/article/javascript_equivalent_for_phps_is_array/" />
+  <rdf:li rdf:resource="http://mislav.caboo.se/js/when-available-in-prototype/" />
+  <rdf:li rdf:resource="http://www.logicsupply.com/products/px_tc" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-07-05T22:38:52Z</dc:date>
+<dc:subject>java.perfomance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java.perfomance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/en-us/library/cc351024(VS.85).aspx#combinators">
+<title>CSS Compatibility and Internet Explorer</title>
+<link>http://msdn.microsoft.com/en-us/library/cc351024(VS.85).aspx#combinators</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-07-04T00:01:10Z</dc:date>
+<dc:subject>web.css.ie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web.css.ie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quirksmode.org/css/tables.html">
+<title>CSS - Fun with tables</title>
+<link>http://www.quirksmode.org/css/tables.html</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-29T13:30:36Z</dc:date>
+<dc:subject>web.css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web.css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ladyada.net/make/gpsshield/">
+<title>GPS datalogging shield for Arduino</title>
+<link>http://ladyada.net/make/gpsshield/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-29T10:01:11Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/1237093?pg=embed&#x26;sec=1237093">
+<title>Atmega644 is alive! on Vimeo</title>
+<link>http://www.vimeo.com/1237093?pg=embed&#x26;sec=1237093</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-28T01:48:58Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/">
+<title>CentOS Linux install and configure NTP to synchronize the system clock</title>
+<link>http://www.cyberciti.biz/faq/howto-install-ntp-to-synchronize-server-clock/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-24T12:03:22Z</dc:date>
+<dc:subject>sysadmin.linux.centos sysadmin.ntp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin.linux.centos" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin.ntp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://myzonelabs.com/node/12">
+<title>Firebug 1.2 Beta 3 SVN build | MyZoneLabs.com</title>
+<link>http://myzonelabs.com/node/12</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-24T09:02:05Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sony-youth.com/software/eArea/">
+<title>eArea - a really simple web-based text editor</title>
+<link>http://www.sony-youth.com/software/eArea/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:13:42Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geniisoft.com/showcase.nsf/WebEditors">
+<title>Genii Software | WebEditors</title>
+<link>http://www.geniisoft.com/showcase.nsf/WebEditors</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:12:03Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://demo.wikiwyg.net/wikiwyg/demo/standalone/">
+<title>http://demo.wikiwyg.net/wikiwyg/demo/standalone/</title>
+<link>http://demo.wikiwyg.net/wikiwyg/demo/standalone/</link>
+<description>High</description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:11:14Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xstandard.com/">
+<title>XStandard: free standards-compliant XHTML WYSIWYG editor</title>
+<link>http://www.xstandard.com/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:07:46Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.themaninblue.com/experiment/widgEditor/">
+<title>The Man in Blue &#x3E; Experiments &#x3E; widgEditor</title>
+<link>http://www.themaninblue.com/experiment/widgEditor/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:07:11Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blueshoes.org/en/javascript/editor/">
+<title>BlueShoes browser-based Wysiwyg Editor (dhtml, javascript)</title>
+<link>http://www.blueshoes.org/en/javascript/editor/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:05:46Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.textarearich.com/index.php">
+<title>TextArea Rich - Free WYSIWYG javascript editor (replace the textarea tag)</title>
+<link>http://www.textarearich.com/index.php</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T17:04:59Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dynamicdrive.com/dynamicindex16/richtexteditor/index.htm">
+<title>Dynamic Drive- Rich Text Editor (for textareas)</title>
+<link>http://www.dynamicdrive.com/dynamicindex16/richtexteditor/index.htm</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T16:20:01Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freerichtexteditor.com/">
+<title>Free Online Javascript WYSIWYG Rich Text Editor</title>
+<link>http://freerichtexteditor.com/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-21T16:19:33Z</dc:date>
+<dc:subject>javascript.widgets.rte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets.rte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/dvcs-guide">
+<title>InfoQ: Distributed Version Control Systems: A Not-So-Quick Guide Through</title>
+<link>http://www.infoq.com/articles/dvcs-guide</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-20T23:26:58Z</dc:date>
+<dc:subject>scm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crockford.com/javascript/jsmin.html">
+<title>JSMIN, The JavaScript Minifier</title>
+<link>http://www.crockford.com/javascript/jsmin.html</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T22:49:04Z</dc:date>
+<dc:subject>javascript.compressor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/compressor/">
+<title>Yahoo! UI Library: YUI Compressor</title>
+<link>http://developer.yahoo.com/yui/compressor/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T22:48:37Z</dc:date>
+<dc:subject>javascript.compressor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.julienlecomte.net/yuicompressor/">
+<title>Download the YUI Compressor</title>
+<link>http://www.julienlecomte.net/yuicompressor/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T22:48:20Z</dc:date>
+<dc:subject>javascript.compressor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shrinksafe.dojotoolkit.org/">
+<title>Dojo ShrinkSafe -- the safe way to make your JS sprightly</title>
+<link>http://shrinksafe.dojotoolkit.org/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T22:47:42Z</dc:date>
+<dc:subject>javascript.compressor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.compressor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jsdoc.sourceforge.net/#usage">
+<title>JSDoc Homepage - JavaScript Documentation Tool</title>
+<link>http://jsdoc.sourceforge.net/#usage</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T21:28:39Z</dc:date>
+<dc:subject>javascript.doc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.doc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdoc.sourceforge.net/scripts.html">
+<title>Pdoc: driver scripts</title>
+<link>http://pdoc.sourceforge.net/scripts.html</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T21:28:28Z</dc:date>
+<dc:subject>javascript.doc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.doc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kb.mozillazine.org/Migrating_settings_to_a_new_profile">
+<title>Transferring data to a new profile - MozillaZine Knowledge Base</title>
+<link>http://kb.mozillazine.org/Migrating_settings_to_a_new_profile</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-18T17:53:02Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dria.org/wordpress/archives/2008/06/12/655/">
+<title>dria.org &#xBB; Blog Archive &#xBB; Field Guide to Firefox 3</title>
+<link>http://www.dria.org/wordpress/archives/2008/06/12/655/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-17T07:48:52Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cssplay.co.uk/menu/image_magnifier2.html">
+<title>Stu Nicholls | CSSplay | CSS dynamic image magnifier</title>
+<link>http://www.cssplay.co.uk/menu/image_magnifier2.html</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-17T01:51:41Z</dc:date>
+<dc:subject>javascript.widgets web.css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.widgets" />
+    <rdf:li resource="http://del.icio.us/tag/web.css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spritegen.website-performance.org/">
+<title>Website Performance | CSS Sprite Generator</title>
+<link>http://spritegen.website-performance.org/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-16T14:21:53Z</dc:date>
+<dc:subject>web.css web.design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web.design" />
+    <rdf:li resource="http://del.icio.us/tag/web.css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cosmicscripts.com/servers/startingapache.html">
+<title>Tips from when apache wont start - CosmicScripts.com</title>
+<link>http://www.cosmicscripts.com/servers/startingapache.html</link>
+<description>ipcs -s | grep nobody | perl -e 'while (&#x26;lt;STDIN&#x26;gt;) { @a=split(/\s+/); print `ipcrm sem $a[1]`}'</description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-16T12:24:52Z</dc:date>
+<dc:subject>sysadmin.apache sysadmin.linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin.linux" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin.apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kevin.vanzonneveld.net/techblog/article/javascript_equivalent_for_phps_is_array/">
+<title>Javascript equivalent for PHP's is_array</title>
+<link>http://kevin.vanzonneveld.net/techblog/article/javascript_equivalent_for_phps_is_array/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-16T09:55:07Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mislav.caboo.se/js/when-available-in-prototype/">
+<title>A Prototype trick &#x2014; &#x201C;When available, do.&#x201D;</title>
+<link>http://mislav.caboo.se/js/when-available-in-prototype/</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-14T21:54:33Z</dc:date>
+<dc:subject>javascript.prototype</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript.prototype" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.logicsupply.com/products/px_tc">
+<title>Logic Supply - Leaders in Mini-ITX &#x26; Small Form Factor Solutions</title>
+<link>http://www.logicsupply.com/products/px_tc</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-06-14T16:23:42Z</dc:date>
+<dc:subject>hardware.picoitx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware.picoitx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

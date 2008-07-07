@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tasteach">
+<title>del.icio.us/tasteach</title>
+<link>http://del.icio.us/tasteach</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.metmuseum.org/explore/dancers/index.html" />
+  <rdf:li rdf:resource="http://magcloud.com/home" />
+  <rdf:li rdf:resource="http://www.newburypark.redbridge.sch.uk/langofmonth/index.html" />
+  <rdf:li rdf:resource="http://jakes.editme.com/" />
+  <rdf:li rdf:resource="http://portal.unesco.org/ci/en/ev.php-URL_ID=25740&#x26;URL_DO=DO_TOPIC&#x26;URL_SECTION=201.html" />
+  <rdf:li rdf:resource="http://www.itif.org/index.php?id=143" />
+  <rdf:li rdf:resource="http://www.ozprojects.edu.au/" />
+  <rdf:li rdf:resource="http://www.ozprojects.edu.au/course/view.php?id=11" />
+  <rdf:li rdf:resource="http://www.teachingideas.co.uk/" />
+  <rdf:li rdf:resource="http://pairadimes.davidtruss.com/do-not-go-quietly-into-your-classroom/" />
+  <rdf:li rdf:resource="http://www.classtools.net/" />
+  <rdf:li rdf:resource="http://wordle.net/gallery/wrdl/05706/Sumo_again" />
+  <rdf:li rdf:resource="http://www.habitsofmind.org/teaching_resources.htm" />
+  <rdf:li rdf:resource="http://web.mac.com/danielroettger/Site_2/Welcome.html" />
+  <rdf:li rdf:resource="http://www.middleweb.com/" />
+  <rdf:li rdf:resource="http://elearning.globalteacher.org.au/" />
+  <rdf:li rdf:resource="http://www.bretagdesigns.com/technologist/?p=352" />
+  <rdf:li rdf:resource="http://jennylu.wordpress.com/2008/06/11/viewzi-another-new-cool-visual-search-engine/" />
+  <rdf:li rdf:resource="http://www.authorstream.com/" />
+  <rdf:li rdf:resource="http://www.docstoc.com/docs/711324/Blog-Rules" />
+  <rdf:li rdf:resource="http://altsearchengines.com/2008/06/02/the-top-100-alternative-search-engines-june-2008/" />
+  <rdf:li rdf:resource="http://www.eightprinciples.com/" />
+  <rdf:li rdf:resource="http://www.thebeijingguide.com/great_wall_of_china/tower_inside.html" />
+  <rdf:li rdf:resource="http://groups.diigo.com/iwb-pedgagogy/bookmark" />
+  <rdf:li rdf:resource="http://fslactivities.sd61.bc.ca/kidsplayground/index.html" />
+  <rdf:li rdf:resource="http://mediacentre.dewr.gov.au/mediacentre/Gillard/Releases/TeachingfortheDigitalAge.htm" />
+  <rdf:li rdf:resource="http://disciplineforsmartpeople.com/index.php/working-with-discouraged-adolescents/" />
+  <rdf:li rdf:resource="http://spapps.go.com/hsb4/landing/" />
+  <rdf:li rdf:resource="http://joedale.typepad.com/integrating_ict_into_the_/2008/06/modern-language.html" />
+  <rdf:li rdf:resource="http://thinkingmachine.pbwiki.com/" />
+  <rdf:li rdf:resource="http://www.interactivewhiteboard.net.au/lesson.asp" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.metmuseum.org/explore/dancers/index.html">
+<title>The Dancers and Degas</title>
+<link>http://www.metmuseum.org/explore/dancers/index.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-04T08:10:04Z</dc:date>
+<dc:subject>museum_resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/museum_resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://magcloud.com/home">
+<title>MagCloud</title>
+<link>http://magcloud.com/home</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-04T08:03:29Z</dc:date>
+<dc:subject>Web2.0 magazine online printing publishing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/printing" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newburypark.redbridge.sch.uk/langofmonth/index.html">
+<title>index</title>
+<link>http://www.newburypark.redbridge.sch.uk/langofmonth/index.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-03T05:00:37Z</dc:date>
+<dc:subject>Resources languages video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jakes.editme.com/">
+<title>Jakesonline Wiki</title>
+<link>http://jakes.editme.com/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-02T06:44:42Z</dc:date>
+<dc:subject>Resources Web2.0 technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://portal.unesco.org/ci/en/ev.php-URL_ID=25740&#x26;URL_DO=DO_TOPIC&#x26;URL_SECTION=201.html">
+<title>ICT Competency Standards for Teachers: UNESCO-CI</title>
+<link>http://portal.unesco.org/ci/en/ev.php-URL_ID=25740&#x26;URL_DO=DO_TOPIC&#x26;URL_SECTION=201.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-02T06:43:36Z</dc:date>
+<dc:subject>ICT Teachers standards teaching technology unesco</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/Teachers" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/unesco" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itif.org/index.php?id=143">
+<title>ITIF: 2008 ITIF Broadband Rankings</title>
+<link>http://www.itif.org/index.php?id=143</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-02T06:36:24Z</dc:date>
+<dc:subject>technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ozprojects.edu.au/">
+<title>OZ Projects</title>
+<link>http://www.ozprojects.edu.au/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-02T05:08:42Z</dc:date>
+<dc:subject>Australia EDNA Resources ozprojects technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Australia" />
+    <rdf:li resource="http://del.icio.us/tag/EDNA" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/ozprojects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ozprojects.edu.au/course/view.php?id=11">
+<title>Project: Visual stories challenge (LP - U/Sec)</title>
+<link>http://www.ozprojects.edu.au/course/view.php?id=11</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-02T05:08:01Z</dc:date>
+<dc:subject>Storytelling literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/Storytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingideas.co.uk/">
+<title>Teaching Ideas - Free lesson ideas, plans, activities and resources for use in the primary classroom.</title>
+<link>http://www.teachingideas.co.uk/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-01T11:40:47Z</dc:date>
+<dc:subject>activities lessons resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/activities" />
+    <rdf:li resource="http://del.icio.us/tag/lessons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pairadimes.davidtruss.com/do-not-go-quietly-into-your-classroom/">
+<title>http://pairadimes.davidtruss.com/do-not-go-quietly-into-your-classroom/</title>
+<link>http://pairadimes.davidtruss.com/do-not-go-quietly-into-your-classroom/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-01T10:47:55Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.classtools.net/">
+<title>ClassTools.net: Games for Education</title>
+<link>http://www.classtools.net/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-07-01T09:15:25Z</dc:date>
+<dc:subject>games interactive resources tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/gallery/wrdl/05706/Sumo_again">
+<title>Wordle - Sumo again</title>
+<link>http://wordle.net/gallery/wrdl/05706/Sumo_again</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-21T06:41:48Z</dc:date>
+<dc:subject>wordle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.habitsofmind.org/teaching_resources.htm">
+<title>Teaching Resources</title>
+<link>http://www.habitsofmind.org/teaching_resources.htm</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-16T11:40:15Z</dc:date>
+<dc:subject>habitsofmind teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/habitsofmind" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.mac.com/danielroettger/Site_2/Welcome.html">
+<title>Daniel Roettger</title>
+<link>http://web.mac.com/danielroettger/Site_2/Welcome.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-16T08:34:35Z</dc:date>
+<dc:subject>Internet_Safety website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/Internet_Safety" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.middleweb.com/">
+<title>Welcome to MiddleWeb's Middle School Resources!</title>
+<link>http://www.middleweb.com/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-16T08:18:47Z</dc:date>
+<dc:subject>Resources middle_school teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/middle_school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elearning.globalteacher.org.au/">
+<title>The Victorian School Libraries Learning with Web 2.0 Program&#x2026; Re-imagine &#x2026;</title>
+<link>http://elearning.globalteacher.org.au/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-14T09:51:54Z</dc:date>
+<dc:subject>Blogs elearning technology web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bretagdesigns.com/technologist/?p=352">
+<title>http://www.bretagdesigns.com/technologist/?p=352</title>
+<link>http://www.bretagdesigns.com/technologist/?p=352</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-12T00:18:26Z</dc:date>
+<dc:subject>Blogs Teachers Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/Teachers" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jennylu.wordpress.com/2008/06/11/viewzi-another-new-cool-visual-search-engine/">
+<title>Viewzi - another new cool visual search engine. &#xAB; Lucacept - intercepting the Web</title>
+<link>http://jennylu.wordpress.com/2008/06/11/viewzi-another-new-cool-visual-search-engine/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-12T00:14:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.authorstream.com/">
+<title>authorSTREAM Present and Share PowerPoint Online</title>
+<link>http://www.authorstream.com/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-11T04:21:19Z</dc:date>
+<dc:subject>powerpoint share web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/share" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.docstoc.com/docs/711324/Blog-Rules">
+<title>Blog Rules</title>
+<link>http://www.docstoc.com/docs/711324/Blog-Rules</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-11T04:06:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://altsearchengines.com/2008/06/02/the-top-100-alternative-search-engines-june-2008/">
+<title>http://altsearchengines.com/2008/06/02/the-top-100-alternative-search-engines-june-2008/</title>
+<link>http://altsearchengines.com/2008/06/02/the-top-100-alternative-search-engines-june-2008/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-10T23:19:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.eightprinciples.com/">
+<title>The Eight Irresistible Principles of Fun</title>
+<link>http://www.eightprinciples.com/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-09T12:43:17Z</dc:date>
+<dc:subject>Web2.0 learning motivation philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thebeijingguide.com/great_wall_of_china/tower_inside.html">
+<title>The Great Wall of China</title>
+<link>http://www.thebeijingguide.com/great_wall_of_china/tower_inside.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-09T00:17:10Z</dc:date>
+<dc:subject>China Interactive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/China" />
+    <rdf:li resource="http://del.icio.us/tag/Interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.diigo.com/iwb-pedgagogy/bookmark">
+<title>Group IWB Pedgagogy's best bookmarks</title>
+<link>http://groups.diigo.com/iwb-pedgagogy/bookmark</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-08T10:16:21Z</dc:date>
+<dc:subject>IWBs Resources links</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/IWBs" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fslactivities.sd61.bc.ca/kidsplayground/index.html">
+<title>Kids Playground - Best French &#x26; English sites for kids / Terrain de jeux - Meilleurs sites pour enfants</title>
+<link>http://fslactivities.sd61.bc.ca/kidsplayground/index.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-07T04:25:02Z</dc:date>
+<dc:subject>activities games learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/activities" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mediacentre.dewr.gov.au/mediacentre/Gillard/Releases/TeachingfortheDigitalAge.htm">
+<title>Media Centre - The Hon Julia Gillard MP - Teaching for the Digital Age</title>
+<link>http://mediacentre.dewr.gov.au/mediacentre/Gillard/Releases/TeachingfortheDigitalAge.htm</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-06T07:34:24Z</dc:date>
+<dc:subject>Australia ICT media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/Australia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://disciplineforsmartpeople.com/index.php/working-with-discouraged-adolescents/">
+<title>Discipline for Smart People &#xBB; Working with discouraged adolescents</title>
+<link>http://disciplineforsmartpeople.com/index.php/working-with-discouraged-adolescents/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-06T07:15:22Z</dc:date>
+<dc:subject>discipline teenagers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/teenagers" />
+    <rdf:li resource="http://del.icio.us/tag/discipline" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spapps.go.com/hsb4/landing/">
+<title>Hot Shot Business</title>
+<link>http://spapps.go.com/hsb4/landing/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-05T11:16:06Z</dc:date>
+<dc:subject>Interactive entrepreneurship games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Interactive" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://joedale.typepad.com/integrating_ict_into_the_/2008/06/modern-language.html">
+<title>Integrating ICT into the MFL classroom:: Modern Languages in Primary Schools</title>
+<link>http://joedale.typepad.com/integrating_ict_into_the_/2008/06/modern-language.html</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-04T23:15:56Z</dc:date>
+<dc:subject>Resources languages tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkingmachine.pbwiki.com/">
+<title>Thinking Machine wiki - Welcome to Thinking Machine - a wiki ...</title>
+<link>http://thinkingmachine.pbwiki.com/</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-02T23:12:37Z</dc:date>
+<dc:subject>21stcentury Resources Web2.0 technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/21stcentury" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.interactivewhiteboard.net.au/lesson.asp">
+<title>InteractiveWhiteboard.net.au</title>
+<link>http://www.interactivewhiteboard.net.au/lesson.asp</link>
+<description></description>
+<dc:creator>tasteach</dc:creator>
+<dc:date>2008-06-02T23:10:55Z</dc:date>
+<dc:subject>IWBs interactive whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/IWBs" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

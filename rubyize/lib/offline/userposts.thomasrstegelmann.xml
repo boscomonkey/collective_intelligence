@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/thomasrstegelmann">
+<title>del.icio.us/thomasrstegelmann</title>
+<link>http://del.icio.us/thomasrstegelmann</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.ritirisi.com/2008/06/17/15-questions-to-ask-during-a-ruby-interview/" />
+  <rdf:li rdf:resource="http://rails-doc.org/" />
+  <rdf:li rdf:resource="http://www.capify.org/" />
+  <rdf:li rdf:resource="http://en.blog.wordpress.com/2008/07/04/iphone-updates/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks#WPA_Crackin" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://codeclimber.blogspot.com/2008/06/using-ruby-for-imap-with-gmail.html" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/" />
+  <rdf:li rdf:resource="http://www.vconversion.com/" />
+  <rdf:li rdf:resource="http://hopper.bigcartel.com/product/the-hopper-deck" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/" />
+  <rdf:li rdf:resource="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1531" />
+  <rdf:li rdf:resource="http://www.copperproject.com/" />
+  <rdf:li rdf:resource="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_Django" />
+  <rdf:li rdf:resource="http://wikileaks.org/" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/" />
+  <rdf:li rdf:resource="http://www.adobe.com/acom/connectnow/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/19/web-meeting-tools/" />
+  <rdf:li rdf:resource="http://sethgodin.typepad.com/seths_blog/2008/06/how-to-organize.html" />
+  <rdf:li rdf:resource="http://howtoforge.com/virtual-hosting-with-proftpd-and-mysql-ubuntu-8.04" />
+  <rdf:li rdf:resource="http://googletalk.blogspot.com/2008/06/chat-on-your-iphone.html" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox" />
+  <rdf:li rdf:resource="http://thefutureofsocial.com/7-very-likely-visions-of-social-networkings-future-is-this-web-30" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.ritirisi.com/2008/06/17/15-questions-to-ask-during-a-ruby-interview/">
+<title>Seize the Afternoon &#xBB; Blog Archive &#xBB; 15 Questions to Ask During a Ruby Interview</title>
+<link>http://blog.ritirisi.com/2008/06/17/15-questions-to-ask-during-a-ruby-interview/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:51:31Z</dc:date>
+<dc:subject>business career interview project_a rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rails-doc.org/">
+<title>The Rails Documentation App - Rails-doc.org</title>
+<link>http://rails-doc.org/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:51:01Z</dc:date>
+<dc:subject>api documentation rails reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.capify.org/">
+<title>Capistrano: Home</title>
+<link>http://www.capify.org/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:49:11Z</dc:date>
+<dc:subject>capistrano deployment rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/capistrano" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/deployment" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.blog.wordpress.com/2008/07/04/iphone-updates/">
+<title>iPhone Updates: Prologue and Mdot &#xAB; WordPress.com</title>
+<link>http://en.blog.wordpress.com/2008/07/04/iphone-updates/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:46:10Z</dc:date>
+<dc:subject>blog buiness iphone project_a prologue wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/prologue" />
+    <rdf:li resource="http://del.icio.us/tag/buiness" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:31:33Z</dc:date>
+<dc:subject>audio convert converter file media software tool video web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks#WPA_Crackin">
+<title>Cracking WEP and WPA Wireless Networks - Docupedia</title>
+<link>http://docs.lucidinteractive.ca/index.php/Cracking_WEP_and_WPA_Wireless_Networks#WPA_Crackin</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:30:25Z</dc:date>
+<dc:subject>hack howto wep wifi wireless wpa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/wep" />
+    <rdf:li resource="http://del.icio.us/tag/wpa" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:29:24Z</dc:date>
+<dc:subject>hack list password reference router security wifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:29:12Z</dc:date>
+<dc:subject>blogging productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:28:59Z</dc:date>
+<dc:subject>install software tweak vista windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tweak" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codeclimber.blogspot.com/2008/06/using-ruby-for-imap-with-gmail.html">
+<title>CodeClimber: using Ruby for IMAP with Gmail</title>
+<link>http://codeclimber.blogspot.com/2008/06/using-ruby-for-imap-with-gmail.html</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-05T21:45:22Z</dc:date>
+<dc:subject>gmail imap rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/imap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/">
+<title>Pathfinder Development &#xBB; Pretty blocks in Rails views</title>
+<link>http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-05T21:44:08Z</dc:date>
+<dc:subject>block helper rails ruby view</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/view" />
+    <rdf:li resource="http://del.icio.us/tag/helper" />
+    <rdf:li resource="http://del.icio.us/tag/block" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vconversion.com/">
+<title>YouTube Converter - Convert Online YouTube Videos - Download YouTube video - Online YouTube converter</title>
+<link>http://www.vconversion.com/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-05T21:29:43Z</dc:date>
+<dc:subject>convert video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hopper.bigcartel.com/product/the-hopper-deck">
+<title>THE HOPPER DECK &#x2014; The Hopper Deck</title>
+<link>http://hopper.bigcartel.com/product/the-hopper-deck</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-05T21:29:43Z</dc:date>
+<dc:subject>card crossfit deck shopping workout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crossfit" />
+    <rdf:li resource="http://del.icio.us/tag/workout" />
+    <rdf:li resource="http://del.icio.us/tag/card" />
+    <rdf:li resource="http://del.icio.us/tag/deck" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/">
+<title>Think Before You Voicemail</title>
+<link>http://www.techcrunch.com/2008/07/05/think-before-you-voicemail/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-05T21:28:53Z</dc:date>
+<dc:subject>communication phone productivity project_a social voicemail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voicemail" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1531">
+<title>Amazon Web Services Developer Connection : PAWS Marketplace - A Rails Marketplace Application in the Cloud</title>
+<link>http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1531</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-04T05:00:53Z</dc:date>
+<dc:subject>amazon aws ec2 ecommerce rails s3 simpledb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/simpledb" />
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.copperproject.com/">
+<title>Project Management Software - Copper Project</title>
+<link>http://www.copperproject.com/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-04T04:50:09Z</dc:date>
+<dc:subject>collaboration groupware management project_a projectmanagement web.20</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+    <rdf:li resource="http://del.icio.us/tag/web.20" />
+    <rdf:li resource="http://del.icio.us/tag/groupware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/">
+<title>What Happens To Your Body If You Drink A Coke Right Now?</title>
+<link>http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-04T04:22:25Z</dc:date>
+<dc:subject>coke food health nutrition</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/coke" />
+    <rdf:li resource="http://del.icio.us/tag/nutrition" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_Django">
+<title>Get Started With Django - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_Django</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-04T04:14:59Z</dc:date>
+<dc:subject>django howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikileaks.org/">
+<title>Wikileaks - Wikileaks</title>
+<link>http://wikileaks.org/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-04T04:13:48Z</dc:date>
+<dc:subject>analysis censorship collaboration conspiracy leak politics wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/censorship" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/conspiracy" />
+    <rdf:li resource="http://del.icio.us/tag/leak" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T19:44:33Z</dc:date>
+<dc:subject>algorithm algorithms analysis code data del.icio.us delicious digg programming reddit seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/">
+<title>How To Setup MySQL Replication in 10 minutes | Hackosis</title>
+<link>http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T19:15:28Z</dc:date>
+<dc:subject>backup mysql replication server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin">
+<title>The Minimalist - 101 Picnic Dishes to Make in 20 Minutes - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?_r=2&#x26;oref=slogin&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T19:14:33Z</dc:date>
+<dc:subject>cooking fast food picnic recipe summer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/fast" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/summer" />
+    <rdf:li resource="http://del.icio.us/tag/picnic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/">
+<title>How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)</title>
+<link>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T19:13:54Z</dc:date>
+<dc:subject>application business career development programming project_a projectmanagement startup team</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/team" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adobe.com/acom/connectnow/">
+<title>Adobe ConnectNow web conferencing from Acrobat.com</title>
+<link>http://www.adobe.com/acom/connectnow/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T16:05:43Z</dc:date>
+<dc:subject>adobe collaboration conferencing free project_a software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/conferencing" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/19/web-meeting-tools/">
+<title>12 Tools For Kickass Web Meetings</title>
+<link>http://mashable.com/2008/06/19/web-meeting-tools/</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T14:51:19Z</dc:date>
+<dc:subject>business career collaboration list meeting project_a reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/meeting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sethgodin.typepad.com/seths_blog/2008/06/how-to-organize.html">
+<title>Seth's Blog: How to organize the room</title>
+<link>http://sethgodin.typepad.com/seths_blog/2008/06/how-to-organize.html</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T14:48:52Z</dc:date>
+<dc:subject>business conference marketing presentation sethgodin speaking tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/speaking" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/sethgodin" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtoforge.com/virtual-hosting-with-proftpd-and-mysql-ubuntu-8.04">
+<title>Virtual Hosting With Proftpd And MySQL (Incl. Quota) On Ubuntu 8.04 LTS | HowtoForge - Linux Howtos and Tutorials</title>
+<link>http://howtoforge.com/virtual-hosting-with-proftpd-and-mysql-ubuntu-8.04</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T12:15:09Z</dc:date>
+<dc:subject>ftp hosting howto mysql server ubuntu virtual</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ftp" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/virtual" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googletalk.blogspot.com/2008/06/chat-on-your-iphone.html">
+<title>Google Talkabout: Chat on your iPhone</title>
+<link>http://googletalk.blogspot.com/2008/06/chat-on-your-iphone.html</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T12:12:07Z</dc:date>
+<dc:subject>chat google googletalk iphone social talk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/talk" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/googletalk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T11:59:38Z</dc:date>
+<dc:subject>application design development firefox gui prototyping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox">
+<title>50 songs to make you dance - Telegraph 50 songs to make you dance - Telegraph</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T06:52:45Z</dc:date>
+<dc:subject>dance list music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thefutureofsocial.com/7-very-likely-visions-of-social-networkings-future-is-this-web-30">
+<title>7 Very-Likely Visions Of Social Networking&#x2019;s Future: Is This Web 3.0? : The Future of Social</title>
+<link>http://thefutureofsocial.com/7-very-likely-visions-of-social-networkings-future-is-this-web-30</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-03T04:13:30Z</dc:date>
+<dc:subject>future media network project_a social trend web.30 web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/project_a" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web.30" />
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

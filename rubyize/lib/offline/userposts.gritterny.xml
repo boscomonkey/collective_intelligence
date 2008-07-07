@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/gritterny">
+<title>del.icio.us/gritterny</title>
+<link>http://del.icio.us/gritterny</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9103878&#x26;pageNumber=3" />
+  <rdf:li rdf:resource="http://www.rewardprograms.org/thefreegeek/features/beyond-craigslist-50-other-sites-to-buy-rent-or-snag-goods-and-get-cool-free-stuff.html" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/40-sites-you-might-actually-use/" />
+  <rdf:li rdf:resource="http://www.deke.com/content/101-photoshop-tips-5-minutes" />
+  <rdf:li rdf:resource="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/five-tools-i-use-for-listening/" />
+  <rdf:li rdf:resource="http://www.openjason.com/2008/06/16/list-of-all-lists-60-of-the-best-resources-of-resources/" />
+  <rdf:li rdf:resource="http://www.youserials.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html" />
+  <rdf:li rdf:resource="http://www.railsenvy.com/2008/6/2/Railsconf-videos" />
+  <rdf:li rdf:resource="http://devzone.zend.com/article/3580-Building-Dashboards-With-PHP-and-Flex" />
+  <rdf:li rdf:resource="http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/06/02/23FE-how-to-fire-IT-staff-skills-list_1.html" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/" />
+  <rdf:li rdf:resource="http://www.boxesandarrows.com/view/quick-and-easy-flash" />
+  <rdf:li rdf:resource="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/article/rails-for-beginners" />
+  <rdf:li rdf:resource="http://lifehacker.com/389735/get-vistas-best-features-in-xp" />
+  <rdf:li rdf:resource="http://timepass.onlyfanpics.com/nationalgeographicchannelstrikesagainmin.html?nationalgeographicchannelstrikesagainmin" />
+  <rdf:li rdf:resource="http://www.esquire.com/features/essential-skills-0508" />
+  <rdf:li rdf:resource="http://lifehacker.com/386675/secure-your-home-wi+fi-network" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/communication/presentation-masterclass-part-1-introduction.html" />
+  <rdf:li rdf:resource="http://www.opensourcerails.com/" />
+  <rdf:li rdf:resource="http://psdtuts.com/articles/7-principles-of-effective-icon-design/" />
+  <rdf:li rdf:resource="http://indiestartups.com/startups/legal-fees-how-to-minimize-or-rid-the-expense" />
+  <rdf:li rdf:resource="http://www.tipsfor.us/2008/04/07/21-awesome-but-lesser-known-open-source-applications-for-windows/" />
+  <rdf:li rdf:resource="http://www.les-stooges.org/pascal/pencil/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/04/02/39-creative-flash-designs/" />
+  <rdf:li rdf:resource="http://barkingiguana.com/2008/03/24/getting-started-with-rails-20" />
+  <rdf:li rdf:resource="http://tweetburner.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-07-06T12:54:51Z</dc:date>
+<dc:subject>tips xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9103878&#x26;pageNumber=3">
+<title>Hands on: 12 quick hacks for Firefox 3</title>
+<link>http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9103878&#x26;pageNumber=3</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-07-01T13:52:50Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rewardprograms.org/thefreegeek/features/beyond-craigslist-50-other-sites-to-buy-rent-or-snag-goods-and-get-cool-free-stuff.html">
+<title>Beyond Craigslist: 50 Other Sites to Buy, Rent, or Snag Goods (and Get Cool Free Stuff) | Free Geekery</title>
+<link>http://www.rewardprograms.org/thefreegeek/features/beyond-craigslist-50-other-sites-to-buy-rent-or-snag-goods-and-get-cool-free-stuff.html</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-26T01:29:56Z</dc:date>
+<dc:subject>Research classifieds reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Research" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/classifieds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/40-sites-you-might-actually-use/">
+<title>40 Sites You Might Actually Use | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/40-sites-you-might-actually-use/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-26T01:28:57Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deke.com/content/101-photoshop-tips-5-minutes">
+<title>101 Photoshop Tips in 5 Minutes | dekeOnline</title>
+<link>http://www.deke.com/content/101-photoshop-tips-5-minutes</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-25T22:39:09Z</dc:date>
+<dc:subject>photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/">
+<title>25 Beautiful Fantasy Photoshop Tutorials | PhotoshopTalent Blog</title>
+<link>http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-24T11:10:02Z</dc:date>
+<dc:subject>photoshop tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/five-tools-i-use-for-listening/">
+<title>Five Tools I Use for Listening | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/five-tools-i-use-for-listening/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-22T03:11:14Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openjason.com/2008/06/16/list-of-all-lists-60-of-the-best-resources-of-resources/">
+<title>Best of Open Source and Social Media: List of all Lists. 60 of the best resources of resources.</title>
+<link>http://www.openjason.com/2008/06/16/list-of-all-lists-60-of-the-best-resources-of-resources/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-18T00:58:06Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youserials.com/">
+<title>YouSerials.com - The KEY to Serial Numbers!</title>
+<link>http://www.youserials.com/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-17T10:21:10Z</dc:date>
+<dc:subject>hacking tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-16T11:33:21Z</dc:date>
+<dc:subject>tutorial webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html">
+<title>60 ridiculously useful tools and generators for your blog or website</title>
+<link>http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-16T11:31:42Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railsenvy.com/2008/6/2/Railsconf-videos">
+<title>Rails Envy: Railsconf Videos</title>
+<link>http://www.railsenvy.com/2008/6/2/Railsconf-videos</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-14T11:23:13Z</dc:date>
+<dc:subject>rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devzone.zend.com/article/3580-Building-Dashboards-With-PHP-and-Flex">
+<title>Building Dashboards With PHP and Flex</title>
+<link>http://devzone.zend.com/article/3580-Building-Dashboards-With-PHP-and-Flex</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-07T11:50:56Z</dc:date>
+<dc:subject>tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/06/02/23FE-how-to-fire-IT-staff-skills-list_1.html">
+<title>http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/06/02/23FE-how-to-fire-IT-staff-skills-list_1.html</title>
+<link>http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/06/02/23FE-how-to-fire-IT-staff-skills-list_1.html</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-04T01:26:13Z</dc:date>
+<dc:subject>lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/">
+<title>40 Excellent Photoshop Tutorials for Textures and Backgrounds | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-03T11:09:55Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boxesandarrows.com/view/quick-and-easy-flash">
+<title>Quick and Easy Flash Prototypes - Boxes and Arrows: The design behind the design</title>
+<link>http://www.boxesandarrows.com/view/quick-and-easy-flash</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-06-02T11:41:07Z</dc:date>
+<dc:subject>tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1">
+<title>%w(Akita On Rails) * 2.0 / Rolling with Rails 2.1 - The First Full Tutorial - Part 1</title>
+<link>http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-27T10:01:15Z</dc:date>
+<dc:subject>rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/article/rails-for-beginners">
+<title>Rails For Beginners: All You Need To Know! [Ruby &#x26; Rails]</title>
+<link>http://www.sitepoint.com/article/rails-for-beginners</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-23T23:26:14Z</dc:date>
+<dc:subject>rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/389735/get-vistas-best-features-in-xp">
+<title>Windows: Get Vista's Best Features in XP</title>
+<link>http://lifehacker.com/389735/get-vistas-best-features-in-xp</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-13T23:25:41Z</dc:date>
+<dc:subject>tips tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://timepass.onlyfanpics.com/nationalgeographicchannelstrikesagainmin.html?nationalgeographicchannelstrikesagainmin">
+<title>National Geographic Channel strikes again...mind blowing! (mortgage, finance, debt)</title>
+<link>http://timepass.onlyfanpics.com/nationalgeographicchannelstrikesagainmin.html?nationalgeographicchannelstrikesagainmin</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-10T00:52:43Z</dc:date>
+<dc:subject>images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.esquire.com/features/essential-skills-0508">
+<title>Skills for Men - Things Men Should Be Able to Do - Esquire</title>
+<link>http://www.esquire.com/features/essential-skills-0508</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-06T23:54:17Z</dc:date>
+<dc:subject>lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/386675/secure-your-home-wi+fi-network">
+<title>Weekend Project: Secure Your Home Wi-Fi Network</title>
+<link>http://lifehacker.com/386675/secure-your-home-wi+fi-network</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-05-06T10:19:35Z</dc:date>
+<dc:subject>networking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/communication/presentation-masterclass-part-1-introduction.html">
+<title>Presentation Masterclass - Part 1: Introduction - Lifehack.org</title>
+<link>http://www.lifehack.org/articles/communication/presentation-masterclass-part-1-introduction.html</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-20T11:53:16Z</dc:date>
+<dc:subject>tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensourcerails.com/">
+<title>Open Source Rails</title>
+<link>http://www.opensourcerails.com/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-15T11:36:46Z</dc:date>
+<dc:subject>rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/articles/7-principles-of-effective-icon-design/">
+<title>PSDTuts - Photoshop Tutorials and Links - 7 Principles of Effective Icon Design</title>
+<link>http://psdtuts.com/articles/7-principles-of-effective-icon-design/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-14T23:49:40Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://indiestartups.com/startups/legal-fees-how-to-minimize-or-rid-the-expense">
+<title>Legal Fees: How to minimize or rid the expense and list of free legal agreement templates | Indie Startups</title>
+<link>http://indiestartups.com/startups/legal-fees-how-to-minimize-or-rid-the-expense</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-14T11:45:10Z</dc:date>
+<dc:subject>startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tipsfor.us/2008/04/07/21-awesome-but-lesser-known-open-source-applications-for-windows/">
+<title>21 Awesome (But Lesser-Known) Open-Source Applications for Windows | Tech Tips For Us</title>
+<link>http://www.tipsfor.us/2008/04/07/21-awesome-but-lesser-known-open-source-applications-for-windows/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-08T16:18:27Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.les-stooges.org/pascal/pencil/">
+<title>Pencil - a traditional 2D animation software</title>
+<link>http://www.les-stooges.org/pascal/pencil/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-08T09:45:39Z</dc:date>
+<dc:subject>graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/04/02/39-creative-flash-designs/">
+<title>39 Creative Flash Designs | Design Showcase | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/04/02/39-creative-flash-designs/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-03T00:40:14Z</dc:date>
+<dc:subject>flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://barkingiguana.com/2008/03/24/getting-started-with-rails-20">
+<title>Barking Iguana: Getting started with Rails 2.0</title>
+<link>http://barkingiguana.com/2008/03/24/getting-started-with-rails-20</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-04-01T01:20:51Z</dc:date>
+<dc:subject>rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tweetburner.com/">
+<title>Tweetburner</title>
+<link>http://tweetburner.com/</link>
+<description></description>
+<dc:creator>gritterny</dc:creator>
+<dc:date>2008-03-25T23:22:06Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

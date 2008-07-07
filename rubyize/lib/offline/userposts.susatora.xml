@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/susatora">
+<title>del.icio.us/susatora</title>
+<link>http://del.icio.us/susatora</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.sunrain.jp/claim/without_limit.html" />
+  <rdf:li rdf:resource="http://it.slashdot.org/it/08/07/02/2227254.shtml" />
+  <rdf:li rdf:resource="http://www.technobahn.com/cgi-bin/news/read2?f=200807032232&#x26;page=2" />
+  <rdf:li rdf:resource="http://www.technobahn.com/news/2008/200804080215.html" />
+  <rdf:li rdf:resource="http://www.technobahn.com/news/2008/200807021838.html" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www.apple.com/jp/ftp-info/reference/javaformacosx105update1.html" />
+  <rdf:li rdf:resource="http://subtech.g.hatena.ne.jp/otsune/20071017/lantissrw" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/JavaBlack/20080630/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/dacs/20080619/1213880722" />
+  <rdf:li rdf:resource="http://googlewhacks.blogspot.com/2008/06/blog-post_30.html" />
+  <rdf:li rdf:resource="http://masakano.com/archives/51554921.html" />
+  <rdf:li rdf:resource="http://codezine.jp/a/article/aid/2578.aspx" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/07/02/010/index.html" />
+  <rdf:li rdf:resource="http://podcast-j.net/archives/2008/06/nec_i-collabo_learning_autorec.php" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/ILiad_(E-book_Reader)" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/news/articles/0807/01/news122.html" />
+  <rdf:li rdf:resource="http://www12.plala.or.jp/mojo/" />
+  <rdf:li rdf:resource="http://www.selenic.com/mercurial/wiki/index.cgi/JapaneseTutorial" />
+  <rdf:li rdf:resource="http://www.vector.co.jp/soft/win95/art/se389873.html" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0608/07/news082.html" />
+  <rdf:li rdf:resource="http://sophieproject.org/" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/06/sophie/" />
+  <rdf:li rdf:resource="http://ctags.sourceforge.net/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/m-hiyama/20080627/1214549228" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/06/i-doit/" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0806/27/news051.html" />
+  <rdf:li rdf:resource="http://www.sanyo-lcdp.com/product/hd2000/hd2000.html" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/NEWS/20080625/309469/" />
+  <rdf:li rdf:resource="http://gihyo.jp/book/2008/978-4-7741-3511-3" />
+  <rdf:li rdf:resource="http://www.viva-netscreen.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.sunrain.jp/claim/without_limit.html">
+<title>&#x96C7;&#x7528;&#x4FDD;&#x967A;&#x306E;&#x53D7;&#x7D66;&#x5236;&#x9650;&#x306E;&#x306A;&#x3044;&#x81EA;&#x5DF1;&#x90FD;&#x5408;&#x9000;&#x8077; - &#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x6B8B;&#x696D;&#x306B;&#x3088;&#x308B;&#x6B8B;&#x696D;&#x4EE3;&#x30FB;&#x672A;&#x6255;&#x3044;&#x8CC3;&#x91D1;&#x3092;&#x5DE1;&#x308B;&#x3001;&#x672C;&#x4EBA;&#x8A34;&#x8A1F;&#x30FB;&#x88C1;&#x5224;&#x306E;&#x5168;&#x8A18;&#x9332;</title>
+<link>http://www.sunrain.jp/claim/without_limit.html</link>
+<description>&#x96C7;&#x7528;&#x4FDD;&#x967A;&#x6CD5;&#x7B2C;33&#x6761;&#x306E;&#x300C;&#x96C7;&#x7528;&#x4FDD;&#x967A;&#x306E;&#x53D7;&#x7D66;&#x5236;&#x9650;&#x306E;&#x306A;&#x3044;&#x81EA;&#x5DF1;&#x90FD;&#x5408;&#x9000;&#x8077;&#x300D;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T13:13:48Z</dc:date>
+<dc:subject>business job law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://it.slashdot.org/it/08/07/02/2227254.shtml">
+<title>Slashdot | The Microsoft Office Rental Program</title>
+<link>http://it.slashdot.org/it/08/07/02/2227254.shtml</link>
+<description>$70 per year</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T10:13:37Z</dc:date>
+<dc:subject>microsoft microsoftequipt microsoftoffice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/microsoftoffice" />
+    <rdf:li resource="http://del.icio.us/tag/microsoftequipt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technobahn.com/cgi-bin/news/read2?f=200807032232&#x26;page=2">
+<title>&#x30DE;&#x30A4;&#x30AF;&#x30ED;&#x30BD;&#x30D5;&#x30C8;&#x3001;&#x30D1;&#x30C3;&#x30B1;&#x30FC;&#x30B8;&#x30BD;&#x30D5;&#x30C8;&#x306E;&#x8CA9;&#x58F2;&#x3067;&#x5E74;&#x984D;&#x30EC;&#x30F3;&#x30BF;&#x30EB;&#x5236;&#x306E;&#x5C0E;&#x5165;&#x3092;&#x6B63;&#x5F0F;&#x767A;&#x8868; - Technobahn</title>
+<link>http://www.technobahn.com/cgi-bin/news/read2?f=200807032232&#x26;page=2</link>
+<description>&#x30A2;&#x30E1;&#x30EA;&#x30AB;&#x306E;&#x8A71; &#x26;gt; &#x7D04;70&#x30C9;&#x30EB;&#xFF08;&#x7D04;7000&#x5186;&#xFF09;&#x524D;&#x5F8C;&#x306E;&#x8CBB;&#x7528;&#x3092;&#x652F;&#x6255;&#x3046;&#x3053;&#x3068;&#x3067;1&#x5E74;&#x9593;&#x306E;&#x4F7F;&#x7528;&#x6A29;&#x3092;&#x8CA9;&#x58F2;&#x3059;&#x308B;&#x30EC;&#x30F3;&#x30BF;&#x30EB;&#x5236;&#x5EA6;&#x306B;&#x4F3C;&#x305F;&#x5236;&#x5EA6;&#x300C;Microsoft Equipt&#x300D;&#x3092;&#x5C0E;&#x5165;&#x3059;&#x308B;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T10:12:02Z</dc:date>
+<dc:subject>microsoft microsoftequipt microsoftoffice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/microsoftoffice" />
+    <rdf:li resource="http://del.icio.us/tag/microsoftequipt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technobahn.com/news/2008/200804080215.html">
+<title>EU&#x3001;&#x98DB;&#x884C;&#x4E2D;&#x306E;&#x65C5;&#x5BA2;&#x6A5F;&#x5185;&#x3067;&#x306E;&#x643A;&#x5E2F;&#x96FB;&#x8A71;&#x306E;&#x4F7F;&#x7528;&#x3092;&#x539F;&#x5247;&#x89E3;&#x7981; - Technobahn</title>
+<link>http://www.technobahn.com/news/2008/200804080215.html</link>
+<description>&#x26;gt; FAA&#xFF08;&#x7C73;&#x9023;&#x90A6;&#x822A;&#x7A7A;&#x5C40;&#xFF09;&#x304C;&#x884C;&#x3063;&#x305F;&#x305D;&#x306E;&#x5F8C;&#x306E;&#x7814;&#x7A76;&#x8ABF;&#x67FB;&#x3067;&#x306F;&#x3001;&#x5B9F;&#x969B;&#x306B;&#x306F;&#x5F71;&#x97FF;&#x306F;&#x53CA;&#x307C;&#x3055;&#x306A;&#x3044;&#x3053;&#x3068;&#x304C;&#x5224;&#x660E;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T10:08:34Z</dc:date>
+<dc:subject>aircraft airplane cellphone mobilephone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cellphone" />
+    <rdf:li resource="http://del.icio.us/tag/mobilephone" />
+    <rdf:li resource="http://del.icio.us/tag/airplane" />
+    <rdf:li resource="http://del.icio.us/tag/aircraft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technobahn.com/news/2008/200807021838.html">
+<title>&#x5927;&#x5B66;&#x306E;&#x8B1B;&#x7FA9;&#x7528;&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x306F;&#x9AD8;&#x3059;&#x304E;&#x308B;&#x3001;&#x8B1B;&#x7FA9;&#x7528;&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x306E;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x5316;&#x304C;&#x9032;&#x884C; - Technobahn</title>
+<link>http://www.technobahn.com/news/2008/200807021838.html</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T10:07:44Z</dc:date>
+<dc:subject>elearning opencourseware textbook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opencourseware" />
+    <rdf:li resource="http://del.icio.us/tag/textbook" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-06T09:42:05Z</dc:date>
+<dc:subject>accounting wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apple.com/jp/ftp-info/reference/javaformacosx105update1.html">
+<title>&#x30A2;&#x30C3;&#x30D7;&#x30EB; - &#x30B5;&#x30DD;&#x30FC;&#x30C8; - &#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9; - Java for Mac OS X 10.5 &#x30A2;&#x30C3;&#x30D7;&#x30C7;&#x30FC;&#x30C8; 1</title>
+<link>http://www.apple.com/jp/ftp-info/reference/javaformacosx105update1.html</link>
+<description>Java SE 6 &#x30D0;&#x30FC;&#x30B8;&#x30E7;&#x30F3; 1.6.0_05</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-04T15:53:12Z</dc:date>
+<dc:subject>apple java macosx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://subtech.g.hatena.ne.jp/otsune/20071017/lantissrw">
+<title>Web::Scraper&#x3068;CustomFeed::Script&#x3067;&#x30E9;&#x30F3;&#x30C6;&#x30A3;&#x30B9;Web&#x30E9;&#x30B8;&#x30AA;&#x3092;PodCasting&#x5316; - otsune's SnakeOil - subtech</title>
+<link>http://subtech.g.hatena.ne.jp/otsune/20071017/lantissrw</link>
+<description>&#x3064;&#x307E;&#x308A;.asx&#x306A;&#x30CD;&#x30C3;&#x30C8;&#x30E9;&#x30B8;&#x30AA;&#x3092;&#x5438;&#x3044;&#x51FA;&#x3057;&#x3066;Podcast&#x5316;&#x3059;&#x308B;&#x306E;&#x3092;plagger&#x3067;&#x81EA;&#x52D5;&#x7684;&#x306B;&#x51FA;&#x6765;&#x308B;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-04T05:47:19Z</dc:date>
+<dc:subject>perl plagger podcast webscraper xpath</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/webscraper" />
+    <rdf:li resource="http://del.icio.us/tag/xpath" />
+    <rdf:li resource="http://del.icio.us/tag/plagger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/JavaBlack/20080630/p1">
+<title>&#x4F1A;&#x793E;&#x3092;&#x8F9E;&#x3081;&#x305F;&#x6642;&#x306E;&#x30E9;&#x30A4;&#x30D5;&#x30CF;&#x30C3;&#x30AF;&#xFF1F; - &#x30AB;&#x30EC;&#x30FC;&#x306A;&#x308B;&#x8F9B;&#x53E3;Java&#x306A;&#x8EE2;&#x8077;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/JavaBlack/20080630/p1</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-04T05:28:26Z</dc:date>
+<dc:subject>career job law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/dacs/20080619/1213880722">
+<title>PowerPoint&#x306E;&#x30D7;&#x30EC;&#x30BC;&#x30F3;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x30D5;&#x30E9;&#x30C3;&#x30B7;&#x30E5;&#x30E0;&#x30FC;&#x30D3;&#x30FC;&#x306B;&#x5909;&#x63DB;&#x3059;&#x308B;&#x30C4;&#x30FC;&#x30EB;-iSpring - &#x9069;&#x5B9C;&#x899A;&#x66F8;&#x306F;&#x3066;&#x306A;&#x7570;&#x672C;</title>
+<link>http://d.hatena.ne.jp/dacs/20080619/1213880722</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-03T02:35:07Z</dc:date>
+<dc:subject>flash ispring movie powerpoint powerpoint2007 swf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/ispring" />
+    <rdf:li resource="http://del.icio.us/tag/swf" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint2007" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlewhacks.blogspot.com/2008/06/blog-post_30.html">
+<title>Mint's log: &#x30BF;&#x30A4;&#x30E0;&#x30AD;&#x30FC;&#x30D1;&#x30FC;&#x304B;&#x3089;&#x898B;&#x305F;&#x826F;&#x3044;&#x30D7;&#x30EC;&#x30BC;&#x30F3;&#x30FB;&#x60AA;&#x3044;&#x30D7;&#x30EC;&#x30BC;&#x30F3;</title>
+<link>http://googlewhacks.blogspot.com/2008/06/blog-post_30.html</link>
+<description>ITHET2007 &#x3067;&#x540C;&#x69D8;&#x306E;&#x3053;&#x3068;&#x3092;&#x611F;&#x3058;&#x305F;&#x3002;&#x7279;&#x306B;&#x6642;&#x9593;&#x7BA1;&#x7406;&#x306B;&#x5931;&#x6557;&#x3057;&#x3066;&#x3044;&#x308B;&#x8B1B;&#x6F14;&#x8005;&#x306B;&#x3064;&#x3044;&#x3066;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-03T02:06:45Z</dc:date>
+<dc:subject>conference presentation yapc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/yapc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://masakano.com/archives/51554921.html">
+<title>&#x307E;&#x3055;&#x304B;&#x306E;&#x65E5;&#x8A18;:MS&#x306E;&#x67D0;&#x6C0F;&#x3068;&#x306E;&#x4F1A;&#x8A71;&#x30ED;&#x30B0;</title>
+<link>http://masakano.com/archives/51554921.html</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-03T01:41:17Z</dc:date>
+<dc:subject>codereview management microsoft programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/codereview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codezine.jp/a/article/aid/2578.aspx">
+<title>NetBeans6.1&#x306B;&#x3088;&#x308B;Ruby on Rails&#x958B;&#x767A;&#x74B0;&#x5883;&#x69CB;&#x7BC9;&#x624B;&#x9806;&#x66F8;&#xFF1A;CodeZine</title>
+<link>http://codezine.jp/a/article/aid/2578.aspx</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-03T01:36:25Z</dc:date>
+<dc:subject>netbeans ruby rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/07/02/010/index.html">
+<title>Mac&#x304B;&#x3089;Win&#x3092;&#x9060;&#x9694;&#x64CD;&#x4F5C;&#x3059;&#x308B;&#x300C;RDC 2&#x300D;&#x304C;&#x6B63;&#x5F0F;&#x516C;&#x958B; | &#x30D1;&#x30BD;&#x30B3;&#x30F3; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/07/02/010/index.html</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-03T01:35:27Z</dc:date>
+<dc:subject>macosx microsoft rdp windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/rdp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://podcast-j.net/archives/2008/06/nec_i-collabo_learning_autorec.php">
+<title>&#x3053;&#x308C;&#x3067;&#x8B1B;&#x7FA9;&#x306E;&#x9332;&#x753B;&#x3082;&#x5FC3;&#x914D;&#x3044;&#x3089;&#x305A;&#xFF01; - &#x300E;i-Collabo.AutoRec&#x300F;: Podcast journal - &#x30DD;&#x30C3;&#x30C9;&#x30AD;&#x30E3;&#x30B9;&#x30C8;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://podcast-j.net/archives/2008/06/nec_i-collabo_learning_autorec.php</link>
+<description>&#x6C17;&#x306B;&#x306A;&#x308B;&#x304A;&#x5024;&#x6BB5;&#x306F;&#x3001;5&#x30E9;&#x30A4;&#x30BB;&#x30F3;&#x30B9;&#x4ED8;&#x304D;&#x306E;&#x201C;&#x901A;&#x5E38;&#x7248;&#x201D;&#x304C;200&#x4E07;&#x5186;&#x3002;&#x65E2;&#x306B;LMS&#x3092;&#x5C0E;&#x5165;&#x3055;&#x308C;&#x3066;&#x3044;&#x308B;&#x6CD5;&#x4EBA;&#x30FB;&#x6559;&#x80B2;&#x6A5F;&#x95A2;&#x3055;&#x3093;&#x306B;&#x306F;&#x201C;LMS&#xFF08;&#x5B66;&#x7FD2;&#x7BA1;&#x7406;&#x30B7;&#x30B9;&#x30C6;&#x30E0;&#xFF09;&#x9023;&#x643A;&#x7248;&#x201D;&#x304C;100&#x4E07;&#x5186;&#x3067;&#x306E;&#x63D0;&#x4F9B;&#x3092;&#x4E88;&#x5B9A;&#x3057;&#x3066;&#x304A;&#x308A;&#x307E;&#x3059;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-01T23:31:38Z</dc:date>
+<dc:subject>elearning movie podcast recording video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/recording" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/ILiad_(E-book_Reader)">
+<title>iLiad - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/ILiad_(E-book_Reader)</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-01T16:21:27Z</dc:date>
+<dc:subject>ebook ebookreader iliad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iliad" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/ebookreader" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/news/articles/0807/01/news122.html">
+<title>&#x96FB;&#x5B50;&#x66F8;&#x7C4D;&#x7AEF;&#x672B;&#x58F2;&#x308C;&#x305A;&#x2500;&#x2500;&#x30BD;&#x30CB;&#x30FC;&#x3068;&#x677E;&#x4E0B;&#x304C;&#x4E8B;&#x5B9F;&#x4E0A;&#x64A4;&#x9000; - ITmedia News</title>
+<link>http://www.itmedia.co.jp/news/articles/0807/01/news122.html</link>
+<description>&#x3084;&#x306F;&#x308A;&#x30AA;&#x30E9;&#x30F3;&#x30C0;(&#x304B;&#x30C9;&#x30A4;&#x30C4;&#x3042;&#x305F;&#x308A;)&#x306B;&#x884C;&#x3063;&#x3066;iRex&#x793E;&#x306E;iLiad&#x3092;&#x8CB7;&#x3063;&#x3066;&#x304F;&#x308B;&#x3057;&#x304B;&#x306A;&#x3044;&#x304B;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-07-01T16:16:32Z</dc:date>
+<dc:subject>ebook ebookreader panasonic sony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebookreader" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/sony" />
+    <rdf:li resource="http://del.icio.us/tag/panasonic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www12.plala.or.jp/mojo/">
+<title>Mojo</title>
+<link>http://www12.plala.or.jp/mojo/</link>
+<description>&#x30C6;&#x30FC;&#x30D7;&#x8D77;&#x3053;&#x3057;&#x7528;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;&#x300C;&#x304A;&#x3053;&#x3057;&#x3084;&#x3059; Okoshiyasu2&#x300D;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-30T15:04:16Z</dc:date>
+<dc:subject>transcript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/transcript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.selenic.com/mercurial/wiki/index.cgi/JapaneseTutorial">
+<title>JapaneseTutorial - Mercurial</title>
+<link>http://www.selenic.com/mercurial/wiki/index.cgi/JapaneseTutorial</link>
+<description>Mercurial &#x306E;&#x4F7F;&#x3044;&#x65B9;&#x306E;&#x30C1;&#x30E5;&#x30FC;&#x30C8;&#x30EA;&#x30A2;&#x30EB;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-30T15:03:26Z</dc:date>
+<dc:subject>mercurial programming python scm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mercurial" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vector.co.jp/soft/win95/art/se389873.html">
+<title>KeyPlayer(Windows95/98/Me / &#x753B;&#x50CF;&#xFF06;&#x30B5;&#x30A6;&#x30F3;&#x30C9;)</title>
+<link>http://www.vector.co.jp/soft/win95/art/se389873.html</link>
+<description>&#x4F5C;&#x8005;&#x306F; &#x26;quot;&#x6A4B;&#x672C;&#x5546;&#x4F1A;&#x26;quot;( http://shokai.org/blog/ )&#x306E;&#x4EBA;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-30T15:02:49Z</dc:date>
+<dc:subject>transcript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/transcript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0608/07/news082.html">
+<title>ITmedia Biz.ID&#xFF1A;&#x300C;&#x30C6;&#x30FC;&#x30D7;&#x8D77;&#x3053;&#x3057;&#x300D;&#x306B;&#x7279;&#x5316;&#x3057;&#x305F;&#x518D;&#x751F;&#x30BD;&#x30D5;&#x30C8;</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0608/07/news082.html</link>
+<description>mojo, keyplayer: freesoft</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-30T15:01:04Z</dc:date>
+<dc:subject>transcript voicerecorder</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voicerecorder" />
+    <rdf:li resource="http://del.icio.us/tag/transcript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sophieproject.org/">
+<title>Sophie 1.0 Available Now | Sophie</title>
+<link>http://sophieproject.org/</link>
+<description>Sophie is software for writing and reading rich media documents in a networked environment.</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T19:01:15Z</dc:date>
+<dc:subject>book linux macosx windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/06/sophie/">
+<title>MOONGIFT: &#xBB; &#x81EA;&#x5206;&#x3067;&#x4F5C;&#x308B;&#x30DE;&#x30EB;&#x30C1;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x30D6;&#x30C3;&#x30AF;&#x300C;Sophie&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/06/sophie/</link>
+<description>Sophie&#x3068;Sophie Reader&#x306E;&#x4E8C;&#x7A2E;&#x985E;&#x304C;&#x5B58;&#x5728;&#x3059;&#x308B;&#x3002;&#x524D;&#x8005;&#x306F;&#x30C7;&#x30B8;&#x30BF;&#x30EB;&#x30D6;&#x30C3;&#x30AF;&#x3092;&#x4F5C;&#x6210;&#x3057;&#x3001;&#x5F8C;&#x8005;&#x306F;&#x95B2;&#x89A7;&#x5C02;&#x7528;&#x306E;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;&#x3060;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T19:00:28Z</dc:date>
+<dc:subject>book linux macosx windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ctags.sourceforge.net/">
+<title>Exuberant Ctags</title>
+<link>http://ctags.sourceforge.net/</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T18:57:31Z</dc:date>
+<dc:subject>ctags etags programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ctags" />
+    <rdf:li resource="http://del.icio.us/tag/etags" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/m-hiyama/20080627/1214549228">
+<title>Emacs&#x3067;JavaScript&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x5FEB;&#x9069;&#x306B;&#x8AAD;&#x3080;&#x305F;&#x3081;&#x306B;&#xFF1A;js2-mode&#x3068;&#x30A8;&#x30B0;&#x30BA;&#x30FC;&#x30D9;&#x30E9;&#x30F3;&#x30C8;Ctags - &#x6A9C;&#x5C71;&#x6B63;&#x5E78;&#x306E;&#x30AD;&#x30DE;&#x30A4;&#x30E9;&#x98FC;&#x80B2;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/m-hiyama/20080627/1214549228</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T18:57:06Z</dc:date>
+<dc:subject>ctags emacs etags javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ctags" />
+    <rdf:li resource="http://del.icio.us/tag/etags" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/06/i-doit/">
+<title>MOONGIFT: &#xBB; &#x793E;&#x5185;&#x306E;IT&#x8CC7;&#x7523;&#x3092;&#x4E00;&#x5143;&#x7BA1;&#x7406;&#x3059;&#x308B;&#x300C;i-doIT&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/06/i-doit/</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T08:05:13Z</dc:date>
+<dc:subject>business inventory management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/inventory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0806/27/news051.html">
+<title>3&#x5206;LifeHacking&#xFF1A;&#x30D7;&#x30EC;&#x30BC;&#x30F3;&#x4E2D;&#x306B;&#x30AD;&#x30FC;&#x30DC;&#x30FC;&#x30C9;&#x304B;&#x3089;&#x6587;&#x5B57;&#x3092;&#x5FEB;&#x9069;&#x306B;&#x5165;&#x529B;&#x3059;&#x308B; - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0806/27/news051.html</link>
+<description>&#x30EF;&#x30A4;&#x30E4;&#x30EC;&#x30B9;&#x30AD;&#x30FC;&#x30DC;&#x30FC;&#x30C9;&#x300C;RBK-207WT&#x300D; &#x5B9F;&#x58F2;&#x4FA1;&#x683C;5985&#x5186;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-29T07:45:14Z</dc:date>
+<dc:subject>key keyboard presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/key" />
+    <rdf:li resource="http://del.icio.us/tag/keyboard" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sanyo-lcdp.com/product/hd2000/hd2000.html">
+<title>LP-HD2000 &#x7279;&#x9577; &#xFF1A; &#x30E9;&#x30A4;&#x30F3;&#x30CA;&#x30C3;&#x30D7; | &#x4E09;&#x6D0B;&#x96FB;&#x6A5F;</title>
+<link>http://www.sanyo-lcdp.com/product/hd2000/hd2000.html</link>
+<description>&#x5E0C;&#x671B;&#x5C0F;&#x58F2;&#x4FA1;&#x683C; 15,750,000&#x5186;(&#x7D04;1500&#x4E07;&#x5186;)</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-28T19:49:29Z</dc:date>
+<dc:subject>projector sanyo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projector" />
+    <rdf:li resource="http://del.icio.us/tag/sanyo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/NEWS/20080625/309469/">
+<title>&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;ERP&#x300C;ERP5&#x300D;&#x306E;&#x4ECF;Nexedi&#x304C;&#x65E5;&#x672C;&#x4E0A;&#x9678;&#xFF0C;GRUB&#x306E;&#x5965;&#x5730;&#x79C0;&#x5247;&#x6C0F;&#x304C;&#x65E5;&#x672C;&#x6CD5;&#x4EBA;&#x793E;&#x9577;&#x306B;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/NEWS/20080625/309469/</link>
+<description>&#x307E;&#x305F;&#x30D5;&#x30E9;&#x30F3;&#x30B9;Nexedi&#x306B;&#x306F;&#xFF0C;&#x5965;&#x5730;&#x6C0F;&#x306E;&#x307B;&#x304B;&#x306B;&#x3082;Hiki&#x306E;&#x7BA1;&#x7406;&#x8005;&#x3067;&#x3042;&#x308B;&#x5869;&#x5D0E;&#x91CF;&#x5F66;&#x6C0F;&#xFF0C;Zope&#x306E;&#x30B3;&#x30DF;&#x30C3;&#x30BF;&#x3067;&#x3042;&#x308B;&#x7530;&#x539F;&#x60A0;&#x897F;&#x6C0F;&#x306A;&#x3069;&#x8457;&#x540D;&#x306A;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x958B;&#x767A;&#x8005;&#x304C;&#x5728;&#x7C4D;&#x3057;&#x3066;&#x3044;&#x308B;&#x3002;</description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-28T19:45:58Z</dc:date>
+<dc:subject>erp mysql nexedi okuji python zope</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nexedi" />
+    <rdf:li resource="http://del.icio.us/tag/okuji" />
+    <rdf:li resource="http://del.icio.us/tag/erp" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/zope" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gihyo.jp/book/2008/978-4-7741-3511-3">
+<title>&#x66F8;&#x7C4D;&#x6848;&#x5185;&#xFF1A;NetScreen/SSG&#x8A2D;&#x5B9A;&#x30AC;&#x30A4;&#x30C9;&#xFF5C;gihyo.jp &#x2026; &#x6280;&#x8853;&#x8A55;&#x8AD6;&#x793E;</title>
+<link>http://gihyo.jp/book/2008/978-4-7741-3511-3</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-28T19:21:31Z</dc:date>
+<dc:subject>book firewall ipsec juniper netscreen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netscreen" />
+    <rdf:li resource="http://del.icio.us/tag/juniper" />
+    <rdf:li resource="http://del.icio.us/tag/firewall" />
+    <rdf:li resource="http://del.icio.us/tag/ipsec" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.viva-netscreen.net/">
+<title>Netscreen/SSG&#x306E;&#x8A2D;&#x5B9A;</title>
+<link>http://www.viva-netscreen.net/</link>
+<description></description>
+<dc:creator>susatora</dc:creator>
+<dc:date>2008-06-28T19:21:06Z</dc:date>
+<dc:subject>firewall ipsec juniper netscreen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netscreen" />
+    <rdf:li resource="http://del.icio.us/tag/juniper" />
+    <rdf:li resource="http://del.icio.us/tag/firewall" />
+    <rdf:li resource="http://del.icio.us/tag/ipsec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

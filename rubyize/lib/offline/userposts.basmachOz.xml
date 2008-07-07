@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/basmachoz">
+<title>del.icio.us/basmachoz</title>
+<link>http://del.icio.us/basmachoz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://soa.dzone.com/articles/introduction-integration-and-o" />
+  <rdf:li rdf:resource="http://www.learntechnology.net/content/sitemesh/sitemesh.jsp" />
+  <rdf:li rdf:resource="http://today.java.net/pub/a/today/2004/03/11/sitemesh.html" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/crimes-against-xml" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-" />
+  <rdf:li rdf:resource="http://www.wintellect.com/CS/blogs/jrobbins/archive/2008/06/30/more-on-regular-expressions.aspx" />
+  <rdf:li rdf:resource="http://www-128.ibm.com/developerworks/library/ar-sevenprac/" />
+  <rdf:li rdf:resource="http://jvalentino.blogspot.com/2008/06/easiest-java-xml-binding.html" />
+  <rdf:li rdf:resource="http://www.eclipse.org/articles/article.php?file=Article-Eclipse-and-Maven2/index.html" />
+  <rdf:li rdf:resource="http://www.jguru.com/faq/view.jsp?EID=1311014" />
+  <rdf:li rdf:resource="http://www.java-tips.org/java-ee-tips/java-api-for-xml-web-services/writing-a-handler-in-jax-ws.html" />
+  <rdf:li rdf:resource="http://blogs.sun.com/arungupta/entry/message_logging_in_wsit_updated" />
+  <rdf:li rdf:resource="https://jax-ws.dev.java.net/guide/Logging.html#Transport_level_dump" />
+  <rdf:li rdf:resource="http://java.sun.com/developer/community/askxprt/sessions/2007/jl0226.jsp" />
+  <rdf:li rdf:resource="http://www.84bytes.com/2008/06/28/firebug-plugins-for-web-development/" />
+  <rdf:li rdf:resource="http://www.onjava.com/lpt/a/6415" />
+  <rdf:li rdf:resource="http://www.developer.com/java/other/article.php/1464821" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/jquery-five-questions-and-answ" />
+  <rdf:li rdf:resource="http://www.jroller.com/agoubard/entry/top_ten_performance_problems_and" />
+  <rdf:li rdf:resource="http://www.javalobby.org/articles/thread-safe/index.jsp" />
+  <rdf:li rdf:resource="http://ostas.blogspot.com/2007/12/tracing-myfaces-with-aspectj-tomcat-and.html" />
+  <rdf:li rdf:resource="http://www.parleys.com/display/PARLEYS/Home#talk=2097315;slide=1;title=Spring%20AOP%20and%20JMX" />
+  <rdf:li rdf:resource="http://www.roseindia.net/ajax/jquery/" />
+  <rdf:li rdf:resource="http://www.nooz.com/story/Kl-TjeNyZ0WSK3fc" />
+  <rdf:li rdf:resource="http://sourceforge.net/forum/forum.php?thread_id=1828941&#x26;forum_id=494205" />
+  <rdf:li rdf:resource="http://sourceforge.net/forum/forum.php?thread_id=1916222&#x26;forum_id=494205" />
+  <rdf:li rdf:resource="http://jopener.com/display/JOSP/Testing+Tools" />
+  <rdf:li rdf:resource="http://www.soapui.org/userguide/mock/operations.html" />
+  <rdf:li rdf:resource="https://jax-ws-sources.dev.java.net/" />
+  <rdf:li rdf:resource="http://www.jfilehelpers.com/index_en.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-06T10:28:19Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://soa.dzone.com/articles/introduction-integration-and-o">
+<title>Introduction to integration and Open ESB, part I: Open ESB serverside artifacts. | SOA Zone</title>
+<link>http://soa.dzone.com/articles/introduction-integration-and-o</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-06T10:27:19Z</dc:date>
+<dc:subject>esb open</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/open" />
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learntechnology.net/content/sitemesh/sitemesh.jsp">
+<title>learntechnology.net - Sitemesh as an alternative to Tiles</title>
+<link>http://www.learntechnology.net/content/sitemesh/sitemesh.jsp</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-06T07:33:05Z</dc:date>
+<dc:subject>sitemesh</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sitemesh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://today.java.net/pub/a/today/2004/03/11/sitemesh.html">
+<title>java.net: Introduction to SiteMesh</title>
+<link>http://today.java.net/pub/a/today/2004/03/11/sitemesh.html</link>
+<description>&#x26;lt;decorator:getProperty property=&#x26;quot;meta.author&#x26;quot; default=&#x26;quot;staff@example.com&#x26;quot; /&#x26;gt;</description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-06T07:27:59Z</dc:date>
+<dc:subject>sitemesh</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sitemesh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/crimes-against-xml">
+<title>Crimes Against XML | Javalobby</title>
+<link>http://java.dzone.com/articles/crimes-against-xml</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-05T13:35:11Z</dc:date>
+<dc:subject>xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-">
+<title>Java theory and practice: Going wild with generics, Part 2</title>
+<link>http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-05T13:34:42Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wintellect.com/CS/blogs/jrobbins/archive/2008/06/30/more-on-regular-expressions.aspx">
+<title>John Robbins' Blog : More on Regular Expressions</title>
+<link>http://www.wintellect.com/CS/blogs/jrobbins/archive/2008/06/30/more-on-regular-expressions.aspx</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-05T13:33:38Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-128.ibm.com/developerworks/library/ar-sevenprac/">
+<title>Seven practices for healthier, faster software development</title>
+<link>http://www-128.ibm.com/developerworks/library/ar-sevenprac/</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T22:50:34Z</dc:date>
+<dc:subject>development software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jvalentino.blogspot.com/2008/06/easiest-java-xml-binding.html">
+<title>Software Everything: The Easiest Java XML Binding</title>
+<link>http://jvalentino.blogspot.com/2008/06/easiest-java-xml-binding.html</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T22:49:13Z</dc:date>
+<dc:subject>jaxb xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jaxb" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/articles/article.php?file=Article-Eclipse-and-Maven2/index.html">
+<title>Eclipse Corner Article: Building Eclipse Plugins with Maven 2</title>
+<link>http://www.eclipse.org/articles/article.php?file=Article-Eclipse-and-Maven2/index.html</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T10:29:07Z</dc:date>
+<dc:subject>maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jguru.com/faq/view.jsp?EID=1311014">
+<title>jGuru: How can I get log4j to write out to multiple logs?</title>
+<link>http://www.jguru.com/faq/view.jsp?EID=1311014</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T02:29:41Z</dc:date>
+<dc:subject>log4j</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/log4j" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.java-tips.org/java-ee-tips/java-api-for-xml-web-services/writing-a-handler-in-jax-ws.html">
+<title>Java Tips - Writing a Handler in JAX-WS</title>
+<link>http://www.java-tips.org/java-ee-tips/java-api-for-xml-web-services/writing-a-handler-in-jax-ws.html</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T02:06:58Z</dc:date>
+<dc:subject>jax-ws</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jax-ws" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/arungupta/entry/message_logging_in_wsit_updated">
+<title>Miles to go ...: Message Logging in WSIT Updated</title>
+<link>http://blogs.sun.com/arungupta/entry/message_logging_in_wsit_updated</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-02T00:41:28Z</dc:date>
+<dc:subject>webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://jax-ws.dev.java.net/guide/Logging.html#Transport_level_dump">
+<title>jax-ws: JAX-WS Guide - Logging</title>
+<link>https://jax-ws.dev.java.net/guide/Logging.html#Transport_level_dump</link>
+<description>ou can also set this property programatically by executing com.sun.xml.ws.transport.http.HttpAdapter.dump=true; as Java progrma.
+
+The transport agnostic dump as explained above also wor</description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-01T23:06:37Z</dc:date>
+<dc:subject>webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/developer/community/askxprt/sessions/2007/jl0226.jsp">
+<title>Session Transcripts from February 26, 2007 on Ask the Experts - Sun Developer Network (SDN)</title>
+<link>http://java.sun.com/developer/community/askxprt/sessions/2007/jl0226.jsp</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-01T23:01:40Z</dc:date>
+<dc:subject>webservcies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webservcies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.84bytes.com/2008/06/28/firebug-plugins-for-web-development/">
+<title>4 Plugins to turbocharge your Firebug | 84 Bytes</title>
+<link>http://www.84bytes.com/2008/06/28/firebug-plugins-for-web-development/</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-30T22:58:08Z</dc:date>
+<dc:subject>debug javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onjava.com/lpt/a/6415">
+<title>ONJava.com: An Exception Handling Framework for J2EE Applications</title>
+<link>http://www.onjava.com/lpt/a/6415</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-29T23:29:12Z</dc:date>
+<dc:subject>exceptions</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exceptions" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developer.com/java/other/article.php/1464821">
+<title>Processing Stack Trace Data in Java</title>
+<link>http://www.developer.com/java/other/article.php/1464821</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-29T23:27:53Z</dc:date>
+<dc:subject>exception</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exception" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/jquery-five-questions-and-answ">
+<title>jQuery - Five Questions And Answers | Web Builder Zone</title>
+<link>http://css.dzone.com/news/jquery-five-questions-and-answ</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-29T13:11:13Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/agoubard/entry/top_ten_performance_problems_and">
+<title>Anthony Goubard's Weblog</title>
+<link>http://www.jroller.com/agoubard/entry/top_ten_performance_problems_and</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-29T13:11:01Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javalobby.org/articles/thread-safe/index.jsp">
+<title>Thread-safe webapps using Spring</title>
+<link>http://www.javalobby.org/articles/thread-safe/index.jsp</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-29T11:03:02Z</dc:date>
+<dc:subject>spring thread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/thread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ostas.blogspot.com/2007/12/tracing-myfaces-with-aspectj-tomcat-and.html">
+<title>My IT world: Tracing MyFaces with AspectJ, Tomcat and Maven 2</title>
+<link>http://ostas.blogspot.com/2007/12/tracing-myfaces-with-aspectj-tomcat-and.html</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-28T07:46:26Z</dc:date>
+<dc:subject>aop aspectj</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aop" />
+    <rdf:li resource="http://del.icio.us/tag/aspectj" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.parleys.com/display/PARLEYS/Home#talk=2097315;slide=1;title=Spring%20AOP%20and%20JMX">
+<title>Parleys: Spring AOP and JMX</title>
+<link>http://www.parleys.com/display/PARLEYS/Home#talk=2097315;slide=1;title=Spring%20AOP%20and%20JMX</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-28T07:18:01Z</dc:date>
+<dc:subject>JMX aop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JMX" />
+    <rdf:li resource="http://del.icio.us/tag/aop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roseindia.net/ajax/jquery/">
+<title>jQuery, jQuery - jQuery Tutorials and examples</title>
+<link>http://www.roseindia.net/ajax/jquery/</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-25T22:59:22Z</dc:date>
+<dc:subject>javascript jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nooz.com/story/Kl-TjeNyZ0WSK3fc">
+<title>A Response to: EJB 3 and Spring Comparative Analysis</title>
+<link>http://www.nooz.com/story/Kl-TjeNyZ0WSK3fc</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-24T03:03:18Z</dc:date>
+<dc:subject>spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/forum/forum.php?thread_id=1828941&#x26;forum_id=494205">
+<title>SourceForge.net: General Issues</title>
+<link>http://sourceforge.net/forum/forum.php?thread_id=1828941&#x26;forum_id=494205</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-22T12:26:20Z</dc:date>
+<dc:subject>soapui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soapui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/forum/forum.php?thread_id=1916222&#x26;forum_id=494205">
+<title>SourceForge.net: General Issues</title>
+<link>http://sourceforge.net/forum/forum.php?thread_id=1916222&#x26;forum_id=494205</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-22T12:18:22Z</dc:date>
+<dc:subject>soapui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soapui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jopener.com/display/JOSP/Testing+Tools">
+<title>Testing Tools - Java Open Source Projects - jopener.com</title>
+<link>http://jopener.com/display/JOSP/Testing+Tools</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-22T11:56:16Z</dc:date>
+<dc:subject>testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.soapui.org/userguide/mock/operations.html">
+<title>Web Service Mocking - Mock operations - soapUI</title>
+<link>http://www.soapui.org/userguide/mock/operations.html</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-22T05:59:22Z</dc:date>
+<dc:subject>soapui</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soapui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://jax-ws-sources.dev.java.net/">
+<title>https://jax-ws-sources.dev.java.net/</title>
+<link>https://jax-ws-sources.dev.java.net/</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-21T08:40:28Z</dc:date>
+<dc:subject>jaxws webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jaxws" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jfilehelpers.com/index_en.php">
+<title>JFileHelpers - Java FlatFiles Killer Library</title>
+<link>http://www.jfilehelpers.com/index_en.php</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-06-20T01:31:37Z</dc:date>
+<dc:subject>file processing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

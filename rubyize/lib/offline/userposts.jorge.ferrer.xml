@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jorge.ferrer">
+<title>del.icio.us/jorge.ferrer</title>
+<link>http://del.icio.us/jorge.ferrer</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.microsiervos.com/archivo/mundoreal/reto-100-objetos.html" />
+  <rdf:li rdf:resource="http://www.linux-magazine.com/issues/2008/91/the_way_of_the_ray" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/websphere/library/techarticles/0803_hepper/0803_hepper.html" />
+  <rdf:li rdf:resource="http://drupal.org/usability-test-university-baltimore-community-solutions" />
+  <rdf:li rdf:resource="http://blog.scottmebberson.com/2008/06/20/microformats-and-jquery/" />
+  <rdf:li rdf:resource="http://wblwaytech.wordpress.com/2008/06/26/faster-liferay/" />
+  <rdf:li rdf:resource="http://thoughtpad.net/alan-dean/http-headers-status.html" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/accessible-rich-internet-appli" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/liferay-5.0" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=49711" />
+  <rdf:li rdf:resource="http://jay.shao.org/archives/2008/03/10/jsr-286-is-official-does-it-matter" />
+  <rdf:li rdf:resource="http://duckdown.blogspot.com/2008/06/why-innovation-isnt-occuring-in.html" />
+  <rdf:li rdf:resource="http://www.cmswatch.com/Trends/1284-JSR-286:-The-last-portlet-standard" />
+  <rdf:li rdf:resource="http://developer.cisco.com/web/cdc/home;jsessionid=06AC5086AF85E7B0E2BFB825836A6030.liferay-portal1" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=JSR286Portlets" />
+  <rdf:li rdf:resource="http://portaldevelopment.wordpress.com/2008/06/23/liferay-portal-how-to-change-portlet-look-and-feel-on-every-page/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/steve-yegge-on-server-side-javascript" />
+  <rdf:li rdf:resource="http://firefox.cita.uiuc.edu/" />
+  <rdf:li rdf:resource="http://www.springify.com/archives/16" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/netkernel-casestudy" />
+  <rdf:li rdf:resource="http://www.microsiervos.com/archivo/juegos-y-diversion/cambio-de-color.html" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/1071-git-smart-how-were-using-git-to-track-our-source-code" />
+  <rdf:li rdf:resource="http://www.podipodi.com/" />
+  <rdf:li rdf:resource="http://royal.pingdom.com/?p=305" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/extremescaling" />
+  <rdf:li rdf:resource="http://www.campaignmonitor.com/css/" />
+  <rdf:li rdf:resource="http://prabu-lk.blogspot.com/2008/06/liferay-portal.html" />
+  <rdf:li rdf:resource="http://portlets.blogspot.com/2008/06/social-networking-portal-and-webos.html" />
+  <rdf:li rdf:resource="http://www.msepehr.com/?p=20" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-07-06T10:43:39Z</dc:date>
+<dc:subject>article java performance scalability verygood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsiervos.com/archivo/mundoreal/reto-100-objetos.html">
+<title>Reto: &#xBF;Es posible vivir poseyendo solo 100 cosas? | Microsiervos (MundoReal&#x2122;)</title>
+<link>http://www.microsiervos.com/archivo/mundoreal/reto-100-objetos.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-07-02T14:37:49Z</dc:date>
+<dc:subject>article good solidaridad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solidaridad" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux-magazine.com/issues/2008/91/the_way_of_the_ray">
+<title> Enterprise Collaboration with Liferay - THE WAY OF THE RAY - Linux Magazine Online</title>
+<link>http://www.linux-magazine.com/issues/2008/91/the_way_of_the_ray</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-07-02T09:05:08Z</dc:date>
+<dc:subject>article good liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/websphere/library/techarticles/0803_hepper/0803_hepper.html">
+<title>What's new in the Java Portlet Specification V2.0 (JSR 286)?</title>
+<link>http://www.ibm.com/developerworks/websphere/library/techarticles/0803_hepper/0803_hepper.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-07-02T09:03:58Z</dc:date>
+<dc:subject>article jsr286 pending portlets verygood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portlets" />
+    <rdf:li resource="http://del.icio.us/tag/jsr286" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+    <rdf:li resource="http://del.icio.us/tag/pending" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drupal.org/usability-test-university-baltimore-community-solutions">
+<title>Drupal usability tests from the University of Baltimore with community solutions | drupal.org</title>
+<link>http://drupal.org/usability-test-university-baltimore-community-solutions</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-29T10:25:26Z</dc:date>
+<dc:subject>article drupal usability verygood video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.scottmebberson.com/2008/06/20/microformats-and-jquery/">
+<title>Microformats and jQuery &#xAB; Scott Mebberson</title>
+<link>http://blog.scottmebberson.com/2008/06/20/microformats-and-jquery/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-29T09:49:58Z</dc:date>
+<dc:subject>article good jquery microformats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wblwaytech.wordpress.com/2008/06/26/faster-liferay/">
+<title>Faster Liferay &#xAB; SURF WBLWay Project Technical Blog</title>
+<link>http://wblwaytech.wordpress.com/2008/06/26/faster-liferay/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-27T12:14:59Z</dc:date>
+<dc:subject>article liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thoughtpad.net/alan-dean/http-headers-status.html">
+<title>HTTP/1.1 (DELETE, GET, HEAD, PUT, POST) : Alan Dean</title>
+<link>http://thoughtpad.net/alan-dean/http-headers-status.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-27T07:51:56Z</dc:date>
+<dc:subject>diagram rest verygood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/accessible-rich-internet-appli">
+<title>Accessible Rich Internet Applications - ARIA Slider | Web Builder Zone</title>
+<link>http://css.dzone.com/news/accessible-rich-internet-appli</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-26T19:46:02Z</dc:date>
+<dc:subject>aria article pendiente promising</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aria" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/pendiente" />
+    <rdf:li resource="http://del.icio.us/tag/promising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/liferay-5.0">
+<title>InfoQ: Liferay Portal 5.0 Released, Sun Joins the Team</title>
+<link>http://www.infoq.com/news/2008/06/liferay-5.0</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-26T10:52:48Z</dc:date>
+<dc:subject>article good liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=49711">
+<title>JSR-286 Now Posted</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=49711</link>
+<description>Nice discussion</description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T10:39:51Z</dc:date>
+<dc:subject>discussion good jsr286 portlets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portlets" />
+    <rdf:li resource="http://del.icio.us/tag/jsr286" />
+    <rdf:li resource="http://del.icio.us/tag/discussion" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jay.shao.org/archives/2008/03/10/jsr-286-is-official-does-it-matter">
+<title>Jason E. Shao &#xBB; Blog Archive &#xBB; JSR-286 is Official - Does it matter?</title>
+<link>http://jay.shao.org/archives/2008/03/10/jsr-286-is-official-does-it-matter</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T10:39:32Z</dc:date>
+<dc:subject>article good jsr286 portlets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portlets" />
+    <rdf:li resource="http://del.icio.us/tag/jsr286" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duckdown.blogspot.com/2008/06/why-innovation-isnt-occuring-in.html">
+<title>Enterprise Architecture: From Incite comes Insight...: Why innovation isn't occuring in enterprise software...</title>
+<link>http://duckdown.blogspot.com/2008/06/why-innovation-isnt-occuring-in.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T10:38:11Z</dc:date>
+<dc:subject>article liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmswatch.com/Trends/1284-JSR-286:-The-last-portlet-standard">
+<title>Trends: JSR 286: The last portlet standard?</title>
+<link>http://www.cmswatch.com/Trends/1284-JSR-286:-The-last-portlet-standard</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T10:35:06Z</dc:date>
+<dc:subject>article liferay portlets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portlets" />
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.cisco.com/web/cdc/home;jsessionid=06AC5086AF85E7B0E2BFB825836A6030.liferay-portal1">
+<title>Cisco Developer Community - Cisco Developer Community - Home</title>
+<link>http://developer.cisco.com/web/cdc/home;jsessionid=06AC5086AF85E7B0E2BFB825836A6030.liferay-portal1</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T07:45:49Z</dc:date>
+<dc:subject>liferay verygood website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=JSR286Portlets">
+<title>Enterprise Java Community: JSR 286 Portlets: Action-scoped Request Attributes</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=JSR286Portlets</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-25T07:38:50Z</dc:date>
+<dc:subject>article good portlets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portlets" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://portaldevelopment.wordpress.com/2008/06/23/liferay-portal-how-to-change-portlet-look-and-feel-on-every-page/">
+<title>Liferay Portal : How to change portlet look and feel on every page &#xAB; Portal Development&#x2019;s Weblog</title>
+<link>http://portaldevelopment.wordpress.com/2008/06/23/liferay-portal-how-to-change-portlet-look-and-feel-on-every-page/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-24T10:52:46Z</dc:date>
+<dc:subject>article liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder">
+<title>Ajaxian &#xBB; iWidgets Public Beta: Impressive Widget Builder</title>
+<link>http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-22T20:21:13Z</dc:date>
+<dc:subject>pending promising tools widget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/widget" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/promising" />
+    <rdf:li resource="http://del.icio.us/tag/pending" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/steve-yegge-on-server-side-javascript">
+<title>Ajaxian &#xBB; Steve Yegge on Server Side JavaScript</title>
+<link>http://ajaxian.com/archives/steve-yegge-on-server-side-javascript</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-22T20:20:06Z</dc:date>
+<dc:subject>article javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://firefox.cita.uiuc.edu/">
+<title>Firefox Accessibility Extension Documentation: Overview and Installation</title>
+<link>http://firefox.cita.uiuc.edu/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-22T19:40:43Z</dc:date>
+<dc:subject>accessibility good resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.springify.com/archives/16">
+<title>News from SpringOne 2008: RESTful Spring 3.0 : Springify</title>
+<link>http://www.springify.com/archives/16</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-22T19:37:20Z</dc:date>
+<dc:subject>article good rest spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/netkernel-casestudy">
+<title>InfoQ: A RESTful ESB implemented using NetKernel</title>
+<link>http://www.infoq.com/articles/netkernel-casestudy</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-20T08:42:20Z</dc:date>
+<dc:subject>article esb rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/esb" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsiervos.com/archivo/juegos-y-diversion/cambio-de-color.html">
+<title>Cambio de color | Microsiervos (Juegos y Diversi&#xF3;n)</title>
+<link>http://www.microsiervos.com/archivo/juegos-y-diversion/cambio-de-color.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-15T20:26:52Z</dc:date>
+<dc:subject>humor verygood video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/1071-git-smart-how-were-using-git-to-track-our-source-code">
+<title>Git smart: How we're using Git to track our source code - (37signals)</title>
+<link>http://www.37signals.com/svn/posts/1071-git-smart-how-were-using-git-to-track-our-source-code</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-15T14:22:38Z</dc:date>
+<dc:subject>article git good</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.podipodi.com/">
+<title>PodiPodi - The magical box - Enhance your website with PodiPodi box for your visitors!</title>
+<link>http://www.podipodi.com/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-14T16:15:54Z</dc:date>
+<dc:subject>enso jquery promising tool web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/enso" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/promising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://royal.pingdom.com/?p=305">
+<title>Royal Pingdom &#xBB; Javascript framework usage among top websites</title>
+<link>http://royal.pingdom.com/?p=305</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-14T16:12:22Z</dc:date>
+<dc:subject>article comparison good jquery prototype</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/extremescaling">
+<title>InfoQ: Need to Scale Fast? Just Re-Architect it!</title>
+<link>http://www.infoq.com/news/2008/06/extremescaling</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-14T13:47:48Z</dc:date>
+<dc:subject>article good performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.campaignmonitor.com/css/">
+<title>A Guide to CSS Support in Email</title>
+<link>http://www.campaignmonitor.com/css/</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-14T12:56:31Z</dc:date>
+<dc:subject>article css email verygood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prabu-lk.blogspot.com/2008/06/liferay-portal.html">
+<title>TASTE THE FREEDOM: Liferay Portal</title>
+<link>http://prabu-lk.blogspot.com/2008/06/liferay-portal.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-12T08:48:07Z</dc:date>
+<dc:subject>article liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://portlets.blogspot.com/2008/06/social-networking-portal-and-webos.html">
+<title>JSR 168 JSR 286 Portlets &#x26; Enterprise Portal: Social Networking Portal and WebOS</title>
+<link>http://portlets.blogspot.com/2008/06/social-networking-portal-and-webos.html</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-12T08:47:48Z</dc:date>
+<dc:subject>article liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msepehr.com/?p=20">
+<title>Mahyar SEPEHR &#xBB; Blog Archive &#xBB; Liferay : the ideal portal?</title>
+<link>http://www.msepehr.com/?p=20</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-06-12T08:46:53Z</dc:date>
+<dc:subject>article good liferay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/liferay" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/soft_">
+<title>del.icio.us/soft_</title>
+<link>http://del.icio.us/soft_</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/397216/backyard-shed-turned-home-office" />
+  <rdf:li rdf:resource="http://uservoice.com/" />
+  <rdf:li rdf:resource="http://www.tweetdeck.com/beta/" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/convertfiles.aspx" />
+  <rdf:li rdf:resource="http://stanlemon.net/projects/jgrowl.html#samples" />
+  <rdf:li rdf:resource="http://www.learningjquery.com/2008/07/introduction-to-jquery-ui#" />
+  <rdf:li rdf:resource="http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html#7.2" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.symfony-project.org/" />
+  <rdf:li rdf:resource="http://www.mapstraction.com/" />
+  <rdf:li rdf:resource="http://wefunction.com/2008/07/function-free-icon-set/" />
+  <rdf:li rdf:resource="http://orbited.org/wiki/JavaScriptIRCClientTutorial" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://21degrees.com.au/products/symphony/" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/getoutbindingsituations" />
+  <rdf:li rdf:resource="http://www.electricprism.com/aeron/slideshow/" />
+  <rdf:li rdf:resource="http://abrviewer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.unwieldy.net/moowheel/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://disruptive-innovations.com/zoo/cssvariables/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://www.artofadambetts.com/weblog/?p=219" />
+  <rdf:li rdf:resource="http://www.zennaware.com/cornerstone/" />
+  <rdf:li rdf:resource="http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>eXtplorer - A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-06T11:49:57Z</dc:date>
+<dc:subject>explorer php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/explorer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-06T11:48:08Z</dc:date>
+<dc:subject>conversion convert freeware software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-06T11:19:04Z</dc:date>
+<dc:subject>chair furniture office workspace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/workspace" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397216/backyard-shed-turned-home-office">
+<title>Featured Workspace: Backyard Shed Turned Home Office</title>
+<link>http://lifehacker.com/397216/backyard-shed-turned-home-office</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-06T11:10:33Z</dc:date>
+<dc:subject>diy office workspace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/workspace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uservoice.com/">
+<title>UserVoice &#xBB; Customer Feedback 2.0</title>
+<link>http://uservoice.com/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-05T19:54:32Z</dc:date>
+<dc:subject>collaboration community customerservice feedback</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/feedback" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/customerservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tweetdeck.com/beta/">
+<title>TweetDeck</title>
+<link>http://www.tweetdeck.com/beta/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-05T16:21:56Z</dc:date>
+<dc:subject>air microblogging tools twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/convertfiles.aspx">
+<title>Free online media file conversion</title>
+<link>http://www.youconvertit.com/convertfiles.aspx</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-05T05:02:55Z</dc:date>
+<dc:subject>conversion convert tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stanlemon.net/projects/jgrowl.html#samples">
+<title>stanlemon.net : jgrowl</title>
+<link>http://stanlemon.net/projects/jgrowl.html#samples</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-05T04:54:17Z</dc:date>
+<dc:subject>javascript jquery plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learningjquery.com/2008/07/introduction-to-jquery-ui#">
+<title>Introduction to jQuery UI</title>
+<link>http://www.learningjquery.com/2008/07/introduction-to-jquery-ui#</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-05T04:53:20Z</dc:date>
+<dc:subject>javascript jquery tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html#7.2">
+<title>PHP Tutorials Examples Introduction to PHP PDO</title>
+<link>http://www.phpro.org/tutorials/Introduction-to-PHP-PDO.html#7.2</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-04T21:47:16Z</dc:date>
+<dc:subject>database pdo php programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdo" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-04T03:22:27Z</dc:date>
+<dc:subject>lists schema xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.symfony-project.org/">
+<title>symfony | Web PHP Framework</title>
+<link>http://www.symfony-project.org/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T21:23:59Z</dc:date>
+<dc:subject>framework opensource php programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mapstraction.com/">
+<title>Mapstraction</title>
+<link>http://www.mapstraction.com/</link>
+<description>a javascript library to hide differences between mapping APIs.</description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T21:05:13Z</dc:date>
+<dc:subject>api javascript maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wefunction.com/2008/07/function-free-icon-set/">
+<title>Function Icon Set, 128 Completely Free Icons</title>
+<link>http://wefunction.com/2008/07/function-free-icon-set/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T12:41:23Z</dc:date>
+<dc:subject>free graphics icons resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://orbited.org/wiki/JavaScriptIRCClientTutorial">
+<title>JavaScriptIRCClientTutorial</title>
+<link>http://orbited.org/wiki/JavaScriptIRCClientTutorial</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T11:05:38Z</dc:date>
+<dc:subject>howto irc javascript tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/irc" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T09:20:39Z</dc:date>
+<dc:subject>free graphics icons lists</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T09:08:11Z</dc:date>
+<dc:subject>audio generator sleep whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-03T09:04:04Z</dc:date>
+<dc:subject>programming python reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://21degrees.com.au/products/symphony/">
+<title>Symphony</title>
+<link>http://21degrees.com.au/products/symphony/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-02T20:07:19Z</dc:date>
+<dc:subject>cms symphony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/symphony" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-02T19:22:15Z</dc:date>
+<dc:subject>book books lists reading sci-fi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/sci-fi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/getoutbindingsituations">
+<title>A List Apart: Articles: Getting Out of Binding Situations in JavaScript</title>
+<link>http://www.alistapart.com/articles/getoutbindingsituations</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-02T17:30:34Z</dc:date>
+<dc:subject>binding javascript programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/binding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electricprism.com/aeron/slideshow/">
+<title>Slideshow 2</title>
+<link>http://www.electricprism.com/aeron/slideshow/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-02T11:36:44Z</dc:date>
+<dc:subject>animation gallery javascript mootools slideshow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abrviewer.sourceforge.net/">
+<title>Opensource photohop brush viewer - abrViewer</title>
+<link>http://abrviewer.sourceforge.net/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T18:35:14Z</dc:date>
+<dc:subject>brushes opensource photoshop software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unwieldy.net/moowheel/">
+<title>MooWheel: a javascript connections visualization library</title>
+<link>http://www.unwieldy.net/moowheel/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T16:59:32Z</dc:date>
+<dc:subject>canvas javascript mootools visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/canvas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T15:29:07Z</dc:date>
+<dc:subject>brushes design free photoshop resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://disruptive-innovations.com/zoo/cssvariables/">
+<title>CSS Variables</title>
+<link>http://disruptive-innovations.com/zoo/cssvariables/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T13:11:45Z</dc:date>
+<dc:subject>css variables webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/variables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T10:06:40Z</dc:date>
+<dc:subject>generator graphics patterns resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artofadambetts.com/weblog/?p=219">
+<title>PS Feature: Layer Comps</title>
+<link>http://www.artofadambetts.com/weblog/?p=219</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T09:55:50Z</dc:date>
+<dc:subject>graphics layers photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/layers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zennaware.com/cornerstone/">
+<title>Zennaware &#xBB; Cornerstone</title>
+<link>http://www.zennaware.com/cornerstone/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T09:33:16Z</dc:date>
+<dc:subject>mac osx software subversion versioncontrol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/versioncontrol" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/">
+<title>Photoshop: Hand Drawn Design</title>
+<link>http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T09:32:24Z</dc:date>
+<dc:subject>design drawing photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/">
+<title>ContextFree.js &#x26; Algorithm Ink: Making Art with Javascript</title>
+<link>http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/</link>
+<description></description>
+<dc:creator>Soft_</dc:creator>
+<dc:date>2008-07-01T00:00:30Z</dc:date>
+<dc:subject>art canvas graphics javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/canvas" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

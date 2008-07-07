@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sp00nf3d">
+<title>del.icio.us/sp00nf3d</title>
+<link>http://del.icio.us/sp00nf3d</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=140" />
+  <rdf:li rdf:resource="http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=140&#x26;externalID=1021&#x26;fromSearchPage=true" />
+  <rdf:li rdf:resource="http://docs.amazonwebservices.com/AmazonFPS/2007-01-08/PayNowWidgetImplementationGuide/" />
+  <rdf:li rdf:resource="https://payments.amazon.com/sdui/sdui/business?sn=paynow/marketplace" />
+  <rdf:li rdf:resource="http://www.amazon.com/b?ie=UTF8&#x26;node=230659011" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.gameshield.com/introduction/license-models.aspx" />
+  <rdf:li rdf:resource="http://www.switched.com/2008/06/18/women-with-long-finger-nails-complaining-that-iphone-is-sexist/" />
+  <rdf:li rdf:resource="http://www.deadbeef.com/index.php/mod_auth_sspi/sspi.html" />
+  <rdf:li rdf:resource="http://incredimazing.com/page/Number_of_Men_who_will_die_as_a_result_of" />
+  <rdf:li rdf:resource="http://www.panoramio.com/photos/original/4293611.jpg" />
+  <rdf:li rdf:resource="http://www.alternativereel.com/includes/top-ten/display_review.php?id=00090" />
+  <rdf:li rdf:resource="http://photoshopdisasters.blogspot.com/2008/06/washington-post-unlikely.html" />
+  <rdf:li rdf:resource="http://ccollomb.free.fr/unlocker/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Comparison_of_issue_tracking_systems" />
+  <rdf:li rdf:resource="http://www.usa.denon.com/ProductDetails/3429.asp" />
+  <rdf:li rdf:resource="http://www.kmelektronik.de/" />
+  <rdf:li rdf:resource="http://desk08.customize.org/wallpaper/122" />
+  <rdf:li rdf:resource="http://www.emko.cz/emko_en/index.html" />
+  <rdf:li rdf:resource="http://www.logicsupply.com/categories/pico_systems" />
+  <rdf:li rdf:resource="http://agilewebdevelopment.com/plugins/autodb_admin_console" />
+  <rdf:li rdf:resource="http://pete.yandell.com/links/index.html" />
+  <rdf:li rdf:resource="http://www-maths.swan.ac.uk/staff/jrh/papers/JRHHislamWeb.pdf" />
+  <rdf:li rdf:resource="http://www.thinkgeek.com/computing/drives/a7ea/" />
+  <rdf:li rdf:resource="http://speedtest.10-fast-fingers.com/" />
+  <rdf:li rdf:resource="http://208.116.9.205/10/graphics/pics/12030/1.jpg" />
+  <rdf:li rdf:resource="http://www.amazon.ca/Programming-Collective-Intelligence-Building-Applications/dp/0596529325" />
+  <rdf:li rdf:resource="http://web.kuicr.kyoto-u.ac.jp/~alexg/rsruby/" />
+  <rdf:li rdf:resource="http://www.touchspin.com/chem/SWFs/pt2k61012.swf" />
+  <rdf:li rdf:resource="http://www.reddit.com/info/6l9t9/comments/" />
+  <rdf:li rdf:resource="http://somafm.com/play/groovesalad" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=140">
+<title>Amazon Web Services Developer Connection : Community Code</title>
+<link>http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=140</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T13:10:44Z</dc:date>
+<dc:subject>Amazon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=140&#x26;externalID=1021&#x26;fromSearchPage=true">
+<title>Amazon Web Services Developer Connection : Amazon FPS Hello World Sample in Ruby, Rails and REST</title>
+<link>http://developer.amazonwebservices.com/connect/entry!default.jspa?categoryID=140&#x26;externalID=1021&#x26;fromSearchPage=true</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T12:51:14Z</dc:date>
+<dc:subject>amazon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.amazonwebservices.com/AmazonFPS/2007-01-08/PayNowWidgetImplementationGuide/">
+<title>Flexible Payments Service</title>
+<link>http://docs.amazonwebservices.com/AmazonFPS/2007-01-08/PayNowWidgetImplementationGuide/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T12:50:05Z</dc:date>
+<dc:subject>Amazon micropayments</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Amazon" />
+    <rdf:li resource="http://del.icio.us/tag/micropayments" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://payments.amazon.com/sdui/sdui/business?sn=paynow/marketplace">
+<title>Amazon Payments Account Management</title>
+<link>https://payments.amazon.com/sdui/sdui/business?sn=paynow/marketplace</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T10:57:33Z</dc:date>
+<dc:subject>amazon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/b?ie=UTF8&#x26;node=230659011">
+<title>Amazon.com: International Shipping</title>
+<link>http://www.amazon.com/b?ie=UTF8&#x26;node=230659011</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T10:52:31Z</dc:date>
+<dc:subject>amazon international</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/international" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg 3000&#xD7;2275 pixels</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-06T09:58:34Z</dc:date>
+<dc:subject>chemistry physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gameshield.com/introduction/license-models.aspx">
+<title>GameShield License Models Available</title>
+<link>http://www.gameshield.com/introduction/license-models.aspx</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-05T00:00:34Z</dc:date>
+<dc:subject>license models</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/license" />
+    <rdf:li resource="http://del.icio.us/tag/models" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.switched.com/2008/06/18/women-with-long-finger-nails-complaining-that-iphone-is-sexist/">
+<title>Women With Long Finger Nails Complaining That iPhone Is Sexist - Switched</title>
+<link>http://www.switched.com/2008/06/18/women-with-long-finger-nails-complaining-that-iphone-is-sexist/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-02T21:31:56Z</dc:date>
+<dc:subject>funny iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deadbeef.com/index.php/mod_auth_sspi/sspi.html">
+<title>Mod_auth_sspi - Deadbeef.COM</title>
+<link>http://www.deadbeef.com/index.php/mod_auth_sspi/sspi.html</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-07-01T12:45:03Z</dc:date>
+<dc:subject>subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://incredimazing.com/page/Number_of_Men_who_will_die_as_a_result_of">
+<title>Number of Men who will die as a result of ... | Incredimazing</title>
+<link>http://incredimazing.com/page/Number_of_Men_who_will_die_as_a_result_of</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-16T22:11:34Z</dc:date>
+<dc:subject>dearg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dearg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.panoramio.com/photos/original/4293611.jpg">
+<title>4293611.jpg 1280&#xD7;1024 pixels</title>
+<link>http://www.panoramio.com/photos/original/4293611.jpg</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-16T22:01:50Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternativereel.com/includes/top-ten/display_review.php?id=00090">
+<title>Top Ten - Top 10 Charles Bukowski Quotes - Top 10 - Ham on Rye - Factotum - Women</title>
+<link>http://www.alternativereel.com/includes/top-ten/display_review.php?id=00090</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-15T23:28:27Z</dc:date>
+<dc:subject>bukowski</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bukowski" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photoshopdisasters.blogspot.com/2008/06/washington-post-unlikely.html">
+<title>PhotoshopDisasters: Washington Post: Unlikely</title>
+<link>http://photoshopdisasters.blogspot.com/2008/06/washington-post-unlikely.html</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-14T14:42:16Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ccollomb.free.fr/unlocker/">
+<title>UNLOCKER 1.8.7 BY CEDRICK 'NITCH' COLLOMB</title>
+<link>http://ccollomb.free.fr/unlocker/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-13T14:51:44Z</dc:date>
+<dc:subject>freeware windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Comparison_of_issue_tracking_systems">
+<title>Comparison of issue tracking systems - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Comparison_of_issue_tracking_systems</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-12T10:50:00Z</dc:date>
+<dc:subject>bugtracking issue tracking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tracking" />
+    <rdf:li resource="http://del.icio.us/tag/issue" />
+    <rdf:li resource="http://del.icio.us/tag/bugtracking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usa.denon.com/ProductDetails/3429.asp">
+<title>Denon USA | AK-DL1</title>
+<link>http://www.usa.denon.com/ProductDetails/3429.asp</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-11T17:20:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.kmelektronik.de/">
+<title>Willkommen bei K&#x26;M Elektronik AG - Computer und Elektronik Gross- und Einzelhandel</title>
+<link>http://www.kmelektronik.de/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-10T10:29:01Z</dc:date>
+<dc:subject>computer hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://desk08.customize.org/wallpaper/122">
+<title>DESKTOPOGRAPHY</title>
+<link>http://desk08.customize.org/wallpaper/122</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-08T23:30:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.emko.cz/emko_en/index.html">
+<title>EMKO Case a.s.</title>
+<link>http://www.emko.cz/emko_en/index.html</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-08T13:29:16Z</dc:date>
+<dc:subject>hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.logicsupply.com/categories/pico_systems">
+<title>Logic Supply - Leaders in Mini-ITX &#x26; Small Form Factor Solutions</title>
+<link>http://www.logicsupply.com/categories/pico_systems</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-08T09:48:39Z</dc:date>
+<dc:subject>hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agilewebdevelopment.com/plugins/autodb_admin_console">
+<title>Plugins - autoDB Admin Console - Agile Web Development</title>
+<link>http://agilewebdevelopment.com/plugins/autodb_admin_console</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-06T13:22:05Z</dc:date>
+<dc:subject>admin plugins rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pete.yandell.com/links/index.html">
+<title>Pete.Yandell.com OS X Audio Links</title>
+<link>http://pete.yandell.com/links/index.html</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-06T10:16:04Z</dc:date>
+<dc:subject>Music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-maths.swan.ac.uk/staff/jrh/papers/JRHHislamWeb.pdf">
+<title>lambda combinotary logic</title>
+<link>http://www-maths.swan.ac.uk/staff/jrh/papers/JRHHislamWeb.pdf</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-06T09:31:49Z</dc:date>
+<dc:subject>ebook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkgeek.com/computing/drives/a7ea/">
+<title>ThinkGeek :: External USB SATA Drive Dock</title>
+<link>http://www.thinkgeek.com/computing/drives/a7ea/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-05T19:11:25Z</dc:date>
+<dc:subject>disk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://speedtest.10-fast-fingers.com/">
+<title>Speedtest - how fast are you?</title>
+<link>http://speedtest.10-fast-fingers.com/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-03T11:20:37Z</dc:date>
+<dc:subject>typing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/typing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://208.116.9.205/10/graphics/pics/12030/1.jpg">
+<title>1.jpg 480&#xD7;555 pixels</title>
+<link>http://208.116.9.205/10/graphics/pics/12030/1.jpg</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-03T09:51:05Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.ca/Programming-Collective-Intelligence-Building-Applications/dp/0596529325">
+<title>Amazon.ca: Programming Collective Intelligence: Building Smart Web 2.0 Applications: Toby Segaran: Books</title>
+<link>http://www.amazon.ca/Programming-Collective-Intelligence-Building-Applications/dp/0596529325</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-02T21:11:24Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.kuicr.kyoto-u.ac.jp/~alexg/rsruby/">
+<title>rsruby's rsruby-0.4.2 Documentation</title>
+<link>http://web.kuicr.kyoto-u.ac.jp/~alexg/rsruby/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-01T21:12:40Z</dc:date>
+<dc:subject>R ruby statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/R" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.touchspin.com/chem/SWFs/pt2k61012.swf">
+<title>periodic table</title>
+<link>http://www.touchspin.com/chem/SWFs/pt2k61012.swf</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-06-01T17:13:36Z</dc:date>
+<dc:subject>chemistry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/info/6l9t9/comments/">
+<title>reddit.com: Best background music for programming?</title>
+<link>http://www.reddit.com/info/6l9t9/comments/</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-05-30T20:01:10Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://somafm.com/play/groovesalad">
+<title>SomaFM: Recently Played Tracks</title>
+<link>http://somafm.com/play/groovesalad</link>
+<description></description>
+<dc:creator>sp00nf3d</dc:creator>
+<dc:date>2008-05-30T19:58:03Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

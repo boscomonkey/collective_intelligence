@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/runningdan">
+<title>del.icio.us/runningdan</title>
+<link>http://del.icio.us/runningdan</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://www.fanphp.com/2008/06/20/mysql-database-optimization/" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/10_web_analytics_tools_free_innovative.php" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/" />
+  <rdf:li rdf:resource="http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/" />
+  <rdf:li rdf:resource="http://www.thewebsqueeze.com/articles/50-free-icon-sets-42.htm" />
+  <rdf:li rdf:resource="http://upcoming.yahoo.com/" />
+  <rdf:li rdf:resource="http://www.insidecrm.com/features/101-web-site-fixes-031808/" />
+  <rdf:li rdf:resource="http://www.cssglobe.com/post/1392/8-premium-one-line-css-tips" />
+  <rdf:li rdf:resource="http://ejohn.org/" />
+  <rdf:li rdf:resource="http://www.azcazandco.com/?p=153" />
+  <rdf:li rdf:resource="http://designsadvice.com/ajax/30-of-the-best-ajax-tutorials" />
+  <rdf:li rdf:resource="http://www.456bereastreet.com/archive/200701/learn_javascript_before_tasting_the_library_koolaid/" />
+  <rdf:li rdf:resource="http://www.fiftyfoureleven.com/weblog/web-development/css/the-definitive-css-gzip-method" />
+  <rdf:li rdf:resource="http://www.urbanfonts.com/" />
+  <rdf:li rdf:resource="http://perl.plover.com/Regex/article.html" />
+  <rdf:li rdf:resource="http://www.wired.com/" />
+  <rdf:li rdf:resource="http://www.thepeoples50million.org.uk/home" />
+  <rdf:li rdf:resource="http://juicystudio.com/article/screen-readers-display-none.php" />
+  <rdf:li rdf:resource="http://www.sustrans.org.uk/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/howtosizetextincss" />
+  <rdf:li rdf:resource="http://www.coolrunning.com/engine/2/2_4/128.shtml" />
+  <rdf:li rdf:resource="http://www.google.com/apis/maps/index.html" />
+  <rdf:li rdf:resource="http://www.christianmontoya.com/2007/11/09/php-techniques-i-use-all-the-time/" />
+  <rdf:li rdf:resource="http://www.spring.org.uk/2007/11/10-piercing-insights-into-human-nature.php" />
+  <rdf:li rdf:resource="http://www.vandelaydesign.com.nyud.net:8080/blog/design/web-20-design/" />
+  <rdf:li rdf:resource="http://www.theskepticsguide.org/logicalfallacies.asp" />
+  <rdf:li rdf:resource="http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-07-06T06:40:45Z</dc:date>
+<dc:subject>book free java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-07-05T07:42:17Z</dc:date>
+<dc:subject>optimization tips ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fanphp.com/2008/06/20/mysql-database-optimization/">
+<title>PHP programmer of bangladesh : MySQL Database Optimization</title>
+<link>http://www.fanphp.com/2008/06/20/mysql-database-optimization/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-06-25T10:20:35Z</dc:date>
+<dc:subject>database mysql optimization php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/10_web_analytics_tools_free_innovative.php">
+<title>10 Free, Innovative Web Analytics Tools - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/10_web_analytics_tools_free_innovative.php</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-06-21T07:11:57Z</dc:date>
+<dc:subject>analytics free tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/">
+<title>How to get Cross Browser Compatibility Every Time | Anthony Short | Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-06-19T15:45:19Z</dc:date>
+<dc:subject>browser bugs css tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/bugs" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-06-16T19:45:22Z</dc:date>
+<dc:subject>css development tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/">
+<title>Dramatic Text on Fire Effect in Photoshop</title>
+<link>http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-05-31T20:51:22Z</dc:date>
+<dc:subject>effects photoshop text tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/effects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/">
+<title>30 Useful PHP Classes and Components &#xAB; PHP::Impact ( [str blog] )</title>
+<link>http://phpimpact.wordpress.com/2008/05/29/30-useful-php-classes-and-components/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-05-30T14:10:16Z</dc:date>
+<dc:subject>development library php resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsqueeze.com/articles/50-free-icon-sets-42.htm">
+<title>50 Free Icon Sets - The Web Squeeze</title>
+<link>http://www.thewebsqueeze.com/articles/50-free-icon-sets-42.htm</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-05-18T20:54:14Z</dc:date>
+<dc:subject>graphics icons resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://upcoming.yahoo.com/">
+<title>Home - Upcoming</title>
+<link>http://upcoming.yahoo.com/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-04-18T13:34:41Z</dc:date>
+<dc:subject>events social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/events" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.insidecrm.com/features/101-web-site-fixes-031808/">
+<title>101 Five-Minute Fixes to Incrementally Improve Your Web Site - Inside CRM</title>
+<link>http://www.insidecrm.com/features/101-web-site-fixes-031808/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-03-19T16:01:58Z</dc:date>
+<dc:subject>development tips web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cssglobe.com/post/1392/8-premium-one-line-css-tips">
+<title>8 Premium One Line Css Tips | Css Globe</title>
+<link>http://www.cssglobe.com/post/1392/8-premium-one-line-css-tips</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-03-11T14:20:25Z</dc:date>
+<dc:subject>css tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ejohn.org/">
+<title>John Resig - JavaScript, Programming, and Web Applications</title>
+<link>http://ejohn.org/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2008-01-10T16:54:02Z</dc:date>
+<dc:subject>ajax development javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.azcazandco.com/?p=153">
+<title>Tips on using GIMP</title>
+<link>http://www.azcazandco.com/?p=153</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-23T18:34:22Z</dc:date>
+<dc:subject>gimp tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gimp" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designsadvice.com/ajax/30-of-the-best-ajax-tutorials">
+<title>30 Of The Best AJAX Tutorials - Designs Advice</title>
+<link>http://designsadvice.com/ajax/30-of-the-best-ajax-tutorials</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-21T19:40:21Z</dc:date>
+<dc:subject>AJAX javascript tutorial webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.456bereastreet.com/archive/200701/learn_javascript_before_tasting_the_library_koolaid/">
+<title>Learn JavaScript before tasting the library kool-aid | 456 Berea Street</title>
+<link>http://www.456bereastreet.com/archive/200701/learn_javascript_before_tasting_the_library_koolaid/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-12T09:54:53Z</dc:date>
+<dc:subject>javascript library webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fiftyfoureleven.com/weblog/web-development/css/the-definitive-css-gzip-method">
+<title>The Definitive Post on Gzipping your CSS - Compressing CSS</title>
+<link>http://www.fiftyfoureleven.com/weblog/web-development/css/the-definitive-css-gzip-method</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-07T13:10:11Z</dc:date>
+<dc:subject>gzip php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/gzip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.urbanfonts.com/">
+<title>Urbanfonts.com</title>
+<link>http://www.urbanfonts.com/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-03T17:23:36Z</dc:date>
+<dc:subject>fonts typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perl.plover.com/Regex/article.html">
+<title>How Regexes Work</title>
+<link>http://perl.plover.com/Regex/article.html</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-12-03T17:20:27Z</dc:date>
+<dc:subject>programming regex regexp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/regexp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/">
+<title>Wired News</title>
+<link>http://www.wired.com/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-24T19:47:20Z</dc:date>
+<dc:subject>computers geek news science technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thepeoples50million.org.uk/home">
+<title>Home | The People's 50 Million</title>
+<link>http://www.thepeoples50million.org.uk/home</link>
+<description>Vote for Sustrans!</description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-23T20:44:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://juicystudio.com/article/screen-readers-display-none.php">
+<title>Juicy Studio: Screen Readers and display: none</title>
+<link>http://juicystudio.com/article/screen-readers-display-none.php</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-23T20:17:41Z</dc:date>
+<dc:subject>accessibility css development screenreader</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/screenreader" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sustrans.org.uk/">
+<title>Sustrans Home</title>
+<link>http://www.sustrans.org.uk/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-22T16:48:26Z</dc:date>
+<dc:subject>cycling environment routes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/routes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/howtosizetextincss">
+<title>A List Apart: Articles: How to Size Text in CSS</title>
+<link>http://www.alistapart.com/articles/howtosizetextincss</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-20T20:41:13Z</dc:date>
+<dc:subject>css font typography webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coolrunning.com/engine/2/2_4/128.shtml">
+<title>Cool Running :: Intermediate Marathon Program</title>
+<link>http://www.coolrunning.com/engine/2/2_4/128.shtml</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-19T23:34:17Z</dc:date>
+<dc:subject>marathon running trainingprogrammer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/running" />
+    <rdf:li resource="http://del.icio.us/tag/marathon" />
+    <rdf:li resource="http://del.icio.us/tag/trainingprogrammer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/apis/maps/index.html">
+<title>Google Maps API</title>
+<link>http://www.google.com/apis/maps/index.html</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-16T22:46:01Z</dc:date>
+<dc:subject>development googlemaps javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.christianmontoya.com/2007/11/09/php-techniques-i-use-all-the-time/">
+<title>PHP techniques I use all the time | The Montoya Herald</title>
+<link>http://www.christianmontoya.com/2007/11/09/php-techniques-i-use-all-the-time/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-15T16:56:44Z</dc:date>
+<dc:subject>development php programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spring.org.uk/2007/11/10-piercing-insights-into-human-nature.php">
+<title>PsyBlog: Why We do Dumb or Irrational Things: 10 Brilliant Social Psychology Studies</title>
+<link>http://www.spring.org.uk/2007/11/10-piercing-insights-into-human-nature.php</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-14T11:55:29Z</dc:date>
+<dc:subject>experiments psychology science social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/experiments" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vandelaydesign.com.nyud.net:8080/blog/design/web-20-design/">
+<title>99 Resources for Web 2.0 Design &#x3C;&#x3C; Vandelay Website Design</title>
+<link>http://www.vandelaydesign.com.nyud.net:8080/blog/design/web-20-design/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-13T17:10:38Z</dc:date>
+<dc:subject>resources web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theskepticsguide.org/logicalfallacies.asp">
+<title>The Skeptics' Guide To The Universe - Logical Fallacies</title>
+<link>http://www.theskepticsguide.org/logicalfallacies.asp</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-13T13:42:46Z</dc:date>
+<dc:subject>logic science skepticism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/logic" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/skepticism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript/">
+<title>The seven rules of unobtrusive JavaScript</title>
+<link>http://icant.co.uk/articles/seven-rules-of-unobtrusive-javascript/</link>
+<description></description>
+<dc:creator>RunningDan</dc:creator>
+<dc:date>2007-11-13T13:36:44Z</dc:date>
+<dc:subject>javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

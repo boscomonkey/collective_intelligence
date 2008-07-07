@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sl_info">
+<title>del.icio.us/sl_info</title>
+<link>http://del.icio.us/sl_info</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.uxmatters.com/MT/archives/features/" />
+  <rdf:li rdf:resource="http://www.changemakers.net/" />
+  <rdf:li rdf:resource="http://www.businessweek.com/print/bwdaily/dnflash/mar2000/nf00302b.htm?chan=db" />
+  <rdf:li rdf:resource="http://www.learningcircuits.org/2004/oct2004/burke.htm" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.techsoup.org/learningcenter/internet/page8075.cfm?rss=1" />
+  <rdf:li rdf:resource="http://connectivism.ca/blog/2008/03/pedagogy_first_whatever.html" />
+  <rdf:li rdf:resource="http://www.scotland.gov.uk/Publications/2005/09/14111116/11179" />
+  <rdf:li rdf:resource="http://greenpolo.blogspot.com/2008/07/students-bring-psp-to-school-for-exams.html" />
+  <rdf:li rdf:resource="http://mashable.com/2007/08/08/online-games/" />
+  <rdf:li rdf:resource="http://del.icio.us/search/?setcount=50&#x26;all=social%20game%20flash" />
+  <rdf:li rdf:resource="http://blogwalker.edublogs.org/2008/07/02/digital-storytelling-with-arnie-abrams/" />
+  <rdf:li rdf:resource="http://online.wsj.com/public/article_print/SB121339775502373623.html" />
+  <rdf:li rdf:resource="http://www.reuters.com/article/technologyNews/idUSS2714298420080627?pageNumber=1" />
+  <rdf:li rdf:resource="http://newzjapan.com/2008/07/02/nintendo-ds-and-technology-in-education-in-japan" />
+  <rdf:li rdf:resource="http://www.vailsun.com/articles/2008/07/01/news/news04.txt" />
+  <rdf:li rdf:resource="http://www.olpcnews.com/people/leadership/hubris_model_of_olpc.html" />
+  <rdf:li rdf:resource="http://www.fablevision.com/" />
+  <rdf:li rdf:resource="http://educatebetter.org/" />
+  <rdf:li rdf:resource="http://www.turkishdailynews.com.tr/article.php?enewsid=106226" />
+  <rdf:li rdf:resource="http://www.ushahidi.com/" />
+  <rdf:li rdf:resource="http://headspacej.blogspot.com/2007/06/micro-assessment-vs-project-based.html" />
+  <rdf:li rdf:resource="http://www.thebackofthenapkin.com/" />
+  <rdf:li rdf:resource="http://www.ncwiseowl.org/Impact/TOC.htm" />
+  <rdf:li rdf:resource="http://www.ct4me.net/technology_integr.htm" />
+  <rdf:li rdf:resource="http://www.jobsetc.ca/toolbox/checklists/employability.jsp?lang=e" />
+  <rdf:li rdf:resource="http://www.ericdigests.org/2002-2/ten.htm" />
+  <rdf:li rdf:resource="http://mathtrain.blogspot.com/2008/06/google-certified-teacher-purposeful.html" />
+  <rdf:li rdf:resource="http://grassrootsinnovation.blogspot.com/2008/06/yesterdays-innovation_28.html" />
+  <rdf:li rdf:resource="http://www.swiftmob.com/" />
+  <rdf:li rdf:resource="http://sandfly.net.nz/experiments/wordmap/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.uxmatters.com/MT/archives/features/">
+<title>UXmatters :: Features</title>
+<link>http://www.uxmatters.com/MT/archives/features/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-06T07:01:32Z</dc:date>
+<dc:subject>usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.changemakers.net/">
+<title>Changemakers | Open Sourcing Social Solutions</title>
+<link>http://www.changemakers.net/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-06T06:53:37Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/print/bwdaily/dnflash/mar2000/nf00302b.htm?chan=db">
+<title>BusinessWeek Online:A Lesson in Computer Literacy from India's Poorest Kids</title>
+<link>http://www.businessweek.com/print/bwdaily/dnflash/mar2000/nf00302b.htm?chan=db</link>
+<description>  Annotated link http://www.diigo.com/bookmark/http%3A%2F%2Fwww.businessweek.com%2Fprint%2Fbwdaily%2Fdnflash%2Fmar2000%2Fnf00302b.htm%3Fchan%3Ddb</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-06T06:39:34Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learningcircuits.org/2004/oct2004/burke.htm">
+<title>Using Online Interaction to Break Your Addiction to Classroom Training</title>
+<link>http://www.learningcircuits.org/2004/oct2004/burke.htm</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-06T06:08:36Z</dc:date>
+<dc:subject>learninginteractives</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learninginteractives" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-06T06:08:02Z</dc:date>
+<dc:subject>flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techsoup.org/learningcenter/internet/page8075.cfm?rss=1">
+<title>Eight Secrets of Effective Online Networking</title>
+<link>http://www.techsoup.org/learningcenter/internet/page8075.cfm?rss=1</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-05T09:21:59Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://connectivism.ca/blog/2008/03/pedagogy_first_whatever.html">
+<title>Pedagogy First? Whatever.</title>
+<link>http://connectivism.ca/blog/2008/03/pedagogy_first_whatever.html</link>
+<description>Pedagogy should not even be a consideration during the planning stages of technology use. Harsh statement? Perhaps, but it's a reality. Few Utopian situations exist where our decisions on how to teach can be based exclusively on pedagogy. Resources, exper</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-05T08:56:53Z</dc:date>
+<dc:subject>connectivism contextisking cuc2 georgesiemens pedagogy siemens</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/pedagogy" />
+    <rdf:li resource="http://del.icio.us/tag/contextisking" />
+    <rdf:li resource="http://del.icio.us/tag/siemens" />
+    <rdf:li resource="http://del.icio.us/tag/georgesiemens" />
+    <rdf:li resource="http://del.icio.us/tag/connectivism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scotland.gov.uk/Publications/2005/09/14111116/11179">
+<title>The Impact of ICT Initiatives in Scottish Schools: Phase 3 - Final Report</title>
+<link>http://www.scotland.gov.uk/Publications/2005/09/14111116/11179</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-05T08:51:13Z</dc:date>
+<dc:subject>ICTimpact</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICTimpact" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenpolo.blogspot.com/2008/07/students-bring-psp-to-school-for-exams.html">
+<title>the world in our hands: Students Bring PSP to School for Exams</title>
+<link>http://greenpolo.blogspot.com/2008/07/students-bring-psp-to-school-for-exams.html</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-05T01:21:43Z</dc:date>
+<dc:subject>cuc2 mobilelearning psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+    <rdf:li resource="http://del.icio.us/tag/mobilelearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2007/08/08/online-games/">
+<title>ONLINE GAMES 2.0: 90+ Social Games, AJAX Games and Mashups</title>
+<link>http://mashable.com/2007/08/08/online-games/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-04T05:13:46Z</dc:date>
+<dc:subject>socialgame</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialgame" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/search/?setcount=50&#x26;all=social%20game%20flash">
+<title>del.icio.us search for &#x22;social game flash&#x22;</title>
+<link>http://del.icio.us/search/?setcount=50&#x26;all=social%20game%20flash</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-04T05:11:37Z</dc:date>
+<dc:subject>socialgame</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialgame" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogwalker.edublogs.org/2008/07/02/digital-storytelling-with-arnie-abrams/">
+<title>Digital Storytelling with Arnie Abrams | BlogWalker</title>
+<link>http://blogwalker.edublogs.org/2008/07/02/digital-storytelling-with-arnie-abrams/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T15:30:15Z</dc:date>
+<dc:subject>DigitalStorytelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DigitalStorytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://online.wsj.com/public/article_print/SB121339775502373623.html">
+<title>Amazing Teacher Facts - WSJ.com</title>
+<link>http://online.wsj.com/public/article_print/SB121339775502373623.html</link>
+<description>Unions keep saying the best people won't go into teaching unless we pay them what doctors and lawyers and CEOs make. Not only are Teach for America salaries significantly lower than what J.P. Morgan might offer, but these individuals go to some very rough</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T08:15:52Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reuters.com/article/technologyNews/idUSS2714298420080627?pageNumber=1">
+<title>Japanese students schooled with Nintendo | Technology | Reuters</title>
+<link>http://www.reuters.com/article/technologyNews/idUSS2714298420080627?pageNumber=1</link>
+<description>Junior high school teacher Motoko Okubo has used the handheld DS and textbook software since May in weekly sessions focusing on vocabulary, penmanship and audio comprehension.
+
+With years of games such as Super Mario on the prohibited list, she says stude</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T07:41:32Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newzjapan.com/2008/07/02/nintendo-ds-and-technology-in-education-in-japan">
+<title>Nintendo DS and Technology in Education in Japan | newZjapan</title>
+<link>http://newzjapan.com/2008/07/02/nintendo-ds-and-technology-in-education-in-japan</link>
+<description>I love the idea of using new and fun technologies in the classroom. However, it needs to be balanced with real teaching, and a human touch. I think the best thing teachers can do with technologies such as Nintendo DS is use them to get students using Engl</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T07:38:40Z</dc:date>
+<dc:subject>cuc2 handhelds nintendoInEducation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/nintendoInEducation" />
+    <rdf:li resource="http://del.icio.us/tag/handhelds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vailsun.com/articles/2008/07/01/news/news04.txt">
+<title>'Quality teachers' reason for success (US vs. Netherland Education)</title>
+<link>http://www.vailsun.com/articles/2008/07/01/news/news04.txt</link>
+<description>&#x26;quot;We are moving toward modeling our schools after today's workplaces,&#x26;quot; Baker said, &#x26;quot;where technology is handled in a digital manner. Computers are one of the main tools. But too often there is too much focus on the tool rather than the purpose. It's about</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T07:34:37Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.olpcnews.com/people/leadership/hubris_model_of_olpc.html">
+<title>OLPC News: A Hubris Model of One Laptop Per Child Implementation</title>
+<link>http://www.olpcnews.com/people/leadership/hubris_model_of_olpc.html</link>
+<description>The (lack of) implementation plan is only part of the OLPC hubris on this project. Underlying that is the more insidious educational theory level of the program.
+
+Teacher-centric approach
+
+    While this philosophy is essential to the mission of OLPC, it'</description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T07:33:26Z</dc:date>
+<dc:subject>cuc2 olpc xo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/olpc" />
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/xo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fablevision.com/">
+<title>FableVision</title>
+<link>http://www.fablevision.com/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T07:00:02Z</dc:date>
+<dc:subject>DigitalStorytelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DigitalStorytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educatebetter.org/">
+<title>Harnessing the power of visual literacy! - Dr. Lynell Burmark</title>
+<link>http://educatebetter.org/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T06:41:28Z</dc:date>
+<dc:subject>visualliteracy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualliteracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.turkishdailynews.com.tr/article.php?enewsid=106226">
+<title>Turkish schools have poor infrastructure - Turkish Daily News Jun 03, 2008</title>
+<link>http://www.turkishdailynews.com.tr/article.php?enewsid=106226</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-03T06:41:12Z</dc:date>
+<dc:subject>cuc2 limitedtechnology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/limitedtechnology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ushahidi.com/">
+<title>Ushahidi.com - Mapping Reports of The Post-Election Crisis in Kenya</title>
+<link>http://www.ushahidi.com/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-02T07:50:43Z</dc:date>
+<dc:subject>cuc2 mobileapplication mobilelearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/mobilelearning" />
+    <rdf:li resource="http://del.icio.us/tag/mobileapplication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://headspacej.blogspot.com/2007/06/micro-assessment-vs-project-based.html">
+<title>Jeremy Hiebert's headspaceJ -- Instructional Design and Technology</title>
+<link>http://headspacej.blogspot.com/2007/06/micro-assessment-vs-project-based.html</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-07-01T15:24:39Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thebackofthenapkin.com/">
+<title>Back of the Napkin</title>
+<link>http://www.thebackofthenapkin.com/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-30T18:02:49Z</dc:date>
+<dc:subject>DigitalStorytelling visualliteracy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualliteracy" />
+    <rdf:li resource="http://del.icio.us/tag/DigitalStorytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ncwiseowl.org/Impact/TOC.htm">
+<title>IMPACT: Guidelines for North Carolina Media and Technology Programs~Table of Contents</title>
+<link>http://www.ncwiseowl.org/Impact/TOC.htm</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T13:33:00Z</dc:date>
+<dc:subject>cuc2 technologyintegration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/technologyintegration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ct4me.net/technology_integr.htm">
+<title>Technology Integration: Essential Questions (Page 1 of 2)</title>
+<link>http://www.ct4me.net/technology_integr.htm</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T13:18:55Z</dc:date>
+<dc:subject>cuc2 technologyintegration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/technologyintegration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jobsetc.ca/toolbox/checklists/employability.jsp?lang=e">
+<title>Checklists - Canada - Training and Careers</title>
+<link>http://www.jobsetc.ca/toolbox/checklists/employability.jsp?lang=e</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T05:14:37Z</dc:date>
+<dc:subject>cuc2 employabilityskills</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/employabilityskills" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ericdigests.org/2002-2/ten.htm">
+<title>Successful K-12 Technology Planning: Ten Essential Elements. ERIC Digest.</title>
+<link>http://www.ericdigests.org/2002-2/ten.htm</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T04:36:35Z</dc:date>
+<dc:subject>cuc2 technologyintegration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/technologyintegration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mathtrain.blogspot.com/2008/06/google-certified-teacher-purposeful.html">
+<title>Mathtrain Marcos Blog</title>
+<link>http://mathtrain.blogspot.com/2008/06/google-certified-teacher-purposeful.html</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T03:47:39Z</dc:date>
+<dc:subject>cuc2 mathtrain screencast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+    <rdf:li resource="http://del.icio.us/tag/mathtrain" />
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://grassrootsinnovation.blogspot.com/2008/06/yesterdays-innovation_28.html">
+<title>Grassroots Innovation: Yesterday's Innovation</title>
+<link>http://grassrootsinnovation.blogspot.com/2008/06/yesterdays-innovation_28.html</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-29T03:45:00Z</dc:date>
+<dc:subject>cuc2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cuc2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.swiftmob.com/">
+<title>Swift - Mobile Site Creation, WAP Builder and Mobile Marketing Tools</title>
+<link>http://www.swiftmob.com/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-28T20:31:38Z</dc:date>
+<dc:subject>mobilelearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobilelearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sandfly.net.nz/experiments/wordmap/">
+<title>What is Word Map?</title>
+<link>http://sandfly.net.nz/experiments/wordmap/</link>
+<description></description>
+<dc:creator>sl_info</dc:creator>
+<dc:date>2008-06-28T19:57:08Z</dc:date>
+<dc:subject>wordpuzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpuzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/bacey">
+<title>del.icio.us/bacey</title>
+<link>http://del.icio.us/bacey</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://cotcot.hu/kozosseg/cikk/1623" />
+  <rdf:li rdf:resource="http://cotcot.hu/test/cikk/1249" />
+  <rdf:li rdf:resource="http://tomtenthij.co.uk/2008/1/25/rspec-plain-text-story-runner-on-a-fresh-rails-app" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/pub/a/ruby/2007/09/20/behavior-driven-development-using-ruby-part-3.html" />
+  <rdf:li rdf:resource="http://highline.rubyforge.org/" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/lpt/a/7133" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/pub/a/ruby/2007/08/09/behavior-driven-development-using-ruby-part-1.html" />
+  <rdf:li rdf:resource="http://fr.ivolo.us/" />
+  <rdf:li rdf:resource="http://clarkware.com/cgi/blosxom/2007/09/08#TestingControllers" />
+  <rdf:li rdf:resource="http://caboose.org/articles/2006/10/29/rspec-on-rails" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/article/hierarchical-data-database" />
+  <rdf:li rdf:resource="http://randomfoo.net/blog/id/4182" />
+  <rdf:li rdf:resource="http://ophcrack.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.cs.fiu.edu/~weiss/dsaa_c++3/code/" />
+  <rdf:li rdf:resource="http://www.cs.fiu.edu/~weiss/dsaajava/code/DataStructures/" />
+  <rdf:li rdf:resource="http://abstractgeneratorfactory.blogspot.com/2008/07/how-im-building-working-sports-betting.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://cybertiggyr.com/gene/15-vim/" />
+  <rdf:li rdf:resource="http://blog.tplus1.com/index.php/2007/06/24/using-dictionaries-rather-than-complex-if-elif-else-clauses/" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://blog.jayfields.com/2006/09/ruby-stub-variations-stubba.html" />
+  <rdf:li rdf:resource="http://travel.nytimes.com/2008/06/29/travel/29gardens.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://pythonbook.coffeeghost.net/" />
+  <rdf:li rdf:resource="http://www.reddit.com/info/6pvte/comments/" />
+  <rdf:li rdf:resource="http://www.uninformed.org/?v=1&#x26;amp;a=7" />
+  <rdf:li rdf:resource="http://www.tech-archive.net/Archive/WindowsCE/microsoft.public.windowsce.embedded/2007-08/msg00026.html" />
+  <rdf:li rdf:resource="http://www.appliedpda.com/downloads" />
+  <rdf:li rdf:resource="http://www.tkk.fi/Misc/Electronics/circuits/rspower.html" />
+  <rdf:li rdf:resource="http://electrosofts.com/parallel/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-06T07:32:05Z</dc:date>
+<dc:subject>java scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cotcot.hu/kozosseg/cikk/1623">
+<title>Hova mennyi&#xE9;rt? | cotcot</title>
+<link>http://cotcot.hu/kozosseg/cikk/1623</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T19:25:33Z</dc:date>
+<dc:subject>utazas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/utazas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cotcot.hu/test/cikk/1249">
+<title>Fuss, ha kedves az &#xE9;leted! | cotcot</title>
+<link>http://cotcot.hu/test/cikk/1249</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T18:44:08Z</dc:date>
+<dc:subject>sport</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sport" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomtenthij.co.uk/2008/1/25/rspec-plain-text-story-runner-on-a-fresh-rails-app">
+<title>Tom ten Thij's homepage: RSpec plain text story runner on a fresh rails app</title>
+<link>http://tomtenthij.co.uk/2008/1/25/rspec-plain-text-story-runner-on-a-fresh-rails-app</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T14:34:40Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/pub/a/ruby/2007/09/20/behavior-driven-development-using-ruby-part-3.html">
+<title>O'Reilly Network -- Behavior Driven Development Using Ruby (Part 3)</title>
+<link>http://www.oreillynet.com/pub/a/ruby/2007/09/20/behavior-driven-development-using-ruby-part-3.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T14:19:22Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://highline.rubyforge.org/">
+<title>HighLine</title>
+<link>http://highline.rubyforge.org/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T14:19:09Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/lpt/a/7133">
+<title>O'Reilly Network: Behavior-Driven Development Using Ruby (Part 2)</title>
+<link>http://www.oreillynet.com/lpt/a/7133</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T13:37:09Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/pub/a/ruby/2007/08/09/behavior-driven-development-using-ruby-part-1.html">
+<title>O'Reilly Network -- Behavior Driven Development Using Ruby (Part 1)</title>
+<link>http://www.oreillynet.com/pub/a/ruby/2007/08/09/behavior-driven-development-using-ruby-part-1.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T13:30:18Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fr.ivolo.us/">
+<title>fr.ivolo.us</title>
+<link>http://fr.ivolo.us/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T13:18:39Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clarkware.com/cgi/blosxom/2007/09/08#TestingControllers">
+<title>Mike Clark's Weblog</title>
+<link>http://clarkware.com/cgi/blosxom/2007/09/08#TestingControllers</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T13:11:20Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://caboose.org/articles/2006/10/29/rspec-on-rails">
+<title>caboose RSpec On Rails</title>
+<link>http://caboose.org/articles/2006/10/29/rspec-on-rails</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T13:09:44Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/article/hierarchical-data-database">
+<title>Storing Hierarchical Data in a Database [PHP &#x26; MySQL Tutorials]</title>
+<link>http://www.sitepoint.com/article/hierarchical-data-database</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:43:10Z</dc:date>
+<dc:subject>database graph</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://randomfoo.net/blog/id/4182">
+<title>random($foo): Rearchitecting Twitter: Brought to You By the 17th Letter of the Alphabet</title>
+<link>http://randomfoo.net/blog/id/4182</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:42:05Z</dc:date>
+<dc:subject>scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ophcrack.sourceforge.net/">
+<title>Ophcrack</title>
+<link>http://ophcrack.sourceforge.net/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:32:52Z</dc:date>
+<dc:subject>hacking password</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.fiu.edu/~weiss/dsaa_c++3/code/">
+<title>Source Code for Data Structures and Algorithm Analysis in C++ (Second Edition)</title>
+<link>http://www.cs.fiu.edu/~weiss/dsaa_c++3/code/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:32:25Z</dc:date>
+<dc:subject>datastructures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/datastructures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.fiu.edu/~weiss/dsaajava/code/DataStructures/">
+<title>Source Code for Data Structures and Algorithm Analysis in Java</title>
+<link>http://www.cs.fiu.edu/~weiss/dsaajava/code/DataStructures/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:32:12Z</dc:date>
+<dc:subject>datastructures java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/datastructures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abstractgeneratorfactory.blogspot.com/2008/07/how-im-building-working-sports-betting.html">
+<title>Abstract Generator Factory: How I'm building a (working) sports betting bot, part 1</title>
+<link>http://abstractgeneratorfactory.blogspot.com/2008/07/how-im-building-working-sports-betting.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T10:20:38Z</dc:date>
+<dc:subject>bot</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T09:56:45Z</dc:date>
+<dc:subject>google security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cybertiggyr.com/gene/15-vim/">
+<title>Lisp with Vim</title>
+<link>http://cybertiggyr.com/gene/15-vim/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T09:29:59Z</dc:date>
+<dc:subject>lisp vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.tplus1.com/index.php/2007/06/24/using-dictionaries-rather-than-complex-if-elif-else-clauses/">
+<title>Using dictionaries rather than complex if-elif-else clauses | t+1: Matt Wilson's blog</title>
+<link>http://blog.tplus1.com/index.php/2007/06/24/using-dictionaries-rather-than-complex-if-elif-else-clauses/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T09:24:10Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-05T09:12:24Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.jayfields.com/2006/09/ruby-stub-variations-stubba.html">
+<title>Jay Fields' Thoughts: Ruby Stub Variations: Stubba</title>
+<link>http://blog.jayfields.com/2006/09/ruby-stub-variations-stubba.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-04T13:30:09Z</dc:date>
+<dc:subject>rspec</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rspec" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://travel.nytimes.com/2008/06/29/travel/29gardens.html">
+<title>The Hidden Gardens of Paris - NYTimes.com</title>
+<link>http://travel.nytimes.com/2008/06/29/travel/29gardens.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-03T08:42:14Z</dc:date>
+<dc:subject>paris utazas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/paris" />
+    <rdf:li resource="http://del.icio.us/tag/utazas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-02T16:38:10Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pythonbook.coffeeghost.net/">
+<title>Invent Your Own Computer Games with Python - by Al Sweigart</title>
+<link>http://pythonbook.coffeeghost.net/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-02T16:25:42Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/info/6pvte/comments/">
+<title>reddit.com: Ask proggit: Which lisp?</title>
+<link>http://www.reddit.com/info/6pvte/comments/</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-02T16:18:35Z</dc:date>
+<dc:subject>lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uninformed.org/?v=1&#x26;amp;a=7">
+<title>Uninformed - vol 1 article 7</title>
+<link>http://www.uninformed.org/?v=1&#x26;amp;a=7</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-02T14:29:53Z</dc:date>
+<dc:subject>debug</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tech-archive.net/Archive/WindowsCE/microsoft.public.windowsce.embedded/2007-08/msg00026.html">
+<title>Re: Acccesing the LPT port using CF on CE</title>
+<link>http://www.tech-archive.net/Archive/WindowsCE/microsoft.public.windowsce.embedded/2007-08/msg00026.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-01T21:00:58Z</dc:date>
+<dc:subject>wince</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wince" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appliedpda.com/downloads">
+<title>AppliedPDA.com</title>
+<link>http://www.appliedpda.com/downloads</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-01T19:38:16Z</dc:date>
+<dc:subject>pda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tkk.fi/Misc/Electronics/circuits/rspower.html">
+<title>How to get power from RS-232 port</title>
+<link>http://www.tkk.fi/Misc/Electronics/circuits/rspower.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-01T19:10:01Z</dc:date>
+<dc:subject>serial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/serial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://electrosofts.com/parallel/index.html">
+<title>Parallel port interfacing tutorial: with C - e l e c t r o S o f t s . c o m</title>
+<link>http://electrosofts.com/parallel/index.html</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-01T17:45:31Z</dc:date>
+<dc:subject>parport</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/parport" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

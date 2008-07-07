@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/indaco">
+<title>del.icio.us/indaco</title>
+<link>http://del.icio.us/indaco</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.artima.com/cppsource/how_to_go_slow.html" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080703-viacom-wont-get-googles-source-code-will-get-12tb-of-youtube-data.html" />
+  <rdf:li rdf:resource="http://www.bash.org/?23601" />
+  <rdf:li rdf:resource="http://www.iht.com/articles/2008/06/29/opinion/edwang.php" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/ap/20080630/ap_on_re_us/gun_deaths_suicide" />
+  <rdf:li rdf:resource="http://www.maxim.com/FrankMillers10RulesForBeingaSuperhero/articles/26997.aspx" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/Y/YOUTUBE_LAWSUIT?SITE=WIRE" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=nojWJ6-XmeQ&#x26;NR=1" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=z70zNOSZ160" />
+  <rdf:li rdf:resource="http://raffy.ch/projects/vim.html" />
+  <rdf:li rdf:resource="http://punditkitchen.com/2008/06/26/political-pictures-darth-vader-catholics-power-throne/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=rykTElDjFN4" />
+  <rdf:li rdf:resource="http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.vanityfair.com/politics/features/2008/08/hitchens200808" />
+  <rdf:li rdf:resource="http://attivissimo.blogspot.com/2008/07/mp3-droganti.html" />
+  <rdf:li rdf:resource="http://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2008/07/stagflazione-da-domare.shtml?uuid=b375a820-477e-11dd-a870-91396f7e96b7" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/S/SCI_PSYCHEDELIC_STUDY?SITE=WIRE" />
+  <rdf:li rdf:resource="http://www.starcomics.com/uscite.php" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://ask.metafilter.com/95318/Exactly-how-screwed-am-I" />
+  <rdf:li rdf:resource="http://www.emusic.com/" />
+  <rdf:li rdf:resource="http://ask.metafilter.com/95325/Is-there-any-pointing-backing-up-DVDs-if-you-can-download-them" />
+  <rdf:li rdf:resource="http://www.joeydevilla.com/2008/06/11/gummi-lighthouses-when-candy-design-goes-terribly-hilariously-wrong/" />
+  <rdf:li rdf:resource="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html" />
+  <rdf:li rdf:resource="http://sethgodin.typepad.com/seths_blog/2008/06/saying-thanks-i.html" />
+  <rdf:li rdf:resource="http://www.comics.com//comics/pearls/archive/pearls-20080630.html" />
+  <rdf:li rdf:resource="http://www.howtogeek.com/howto/the-geek-blog/building-a-new-computer-part-4-installing-windows-and-loading-drivers/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-06T10:46:24Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/cppsource/how_to_go_slow.html">
+<title>How To Go Slow</title>
+<link>http://www.artima.com/cppsource/how_to_go_slow.html</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-06T10:45:52Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/">
+<title>How to Find Motivation for the Things You Hate Doing | PickTheBrain | Motivation and Self Improvement</title>
+<link>http://www.pickthebrain.com/blog/how-to-find-motivation-for-the-things-you-hate-doing/</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-06T10:44:17Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080703-viacom-wont-get-googles-source-code-will-get-12tb-of-youtube-data.html">
+<title>No Google source code for Viacom, just 12TB of YouTube data (Ars Technica)</title>
+<link>http://arstechnica.com/news.ars/post/20080703-viacom-wont-get-googles-source-code-will-get-12tb-of-youtube-data.html</link>
+<description>&#x26;quot;Viacom boldly asked the judge in its case against Google/YouTube for a copy of Google's search engine source code. The request was denied, but Viacom will get a copy of any video ever pulled from YouTube and a 12TB database of who watched what when.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T18:15:20Z</dc:date>
+<dc:subject>copyright google legge privacy viacom youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/copyright" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/viacom" />
+    <rdf:li resource="http://del.icio.us/tag/legge" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bash.org/?23601">
+<title>Quote #23601 (Quote Database)</title>
+<link>http://www.bash.org/?23601</link>
+<description>&#x26;quot;&#x26;lt;mage&#x26;gt; what should I give sister for unzipping? / &#x26;lt;Kevyn&#x26;gt; Um. Ten bucks? / &#x26;lt;mage&#x26;gt; no I mean like, WinZip?&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T12:24:28Z</dc:date>
+<dc:subject>IRC citazioni divertenti</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/IRC" />
+    <rdf:li resource="http://del.icio.us/tag/citazioni" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iht.com/articles/2008/06/29/opinion/edwang.php">
+<title>Your brain lies to you - International Herald Tribune</title>
+<link>http://www.iht.com/articles/2008/06/29/opinion/edwang.php</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T09:55:54Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/ap/20080630/ap_on_re_us/gun_deaths_suicide">
+<title>Surprising fact: Half of gun deaths are suicides - Yahoo! News</title>
+<link>http://news.yahoo.com/s/ap/20080630/ap_on_re_us/gun_deaths_suicide</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T09:54:25Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maxim.com/FrankMillers10RulesForBeingaSuperhero/articles/26997.aspx">
+<title>Frank Miller's 10 Superhero Commandments on Maxim.com : Hot Girls, Sex, Photos, Hot Videos, Sports, Movies and Music</title>
+<link>http://www.maxim.com/FrankMillers10RulesForBeingaSuperhero/articles/26997.aspx</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T09:38:12Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-05T07:20:12Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/Y/YOUTUBE_LAWSUIT?SITE=WIRE">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/Y/YOUTUBE_LAWSUIT?SITE=WIRE</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T20:01:16Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=nojWJ6-XmeQ&#x26;NR=1">
+<title>Banned Commercial - Condoms (YouTube)</title>
+<link>http://www.youtube.com/watch?v=nojWJ6-XmeQ&#x26;NR=1</link>
+<description>pubblicit&#xE0; di preservativi</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T17:54:13Z</dc:date>
+<dc:subject>divertenti preservativi video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/preservativi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=z70zNOSZ160">
+<title>Sylvania Light Bulbs (YouTube)</title>
+<link>http://www.youtube.com/watch?v=z70zNOSZ160</link>
+<description>pubblicit&#xE0; di un venditore di lampadine tailandese</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T17:40:49Z</dc:date>
+<dc:subject>divertenti lampadine pubblicit&#xE0; video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/pubblicit%C3%A0" />
+    <rdf:li resource="http://del.icio.us/tag/lampadine" />
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://raffy.ch/projects/vim.html">
+<title>VIM (Raffael Marty)</title>
+<link>http://raffy.ch/projects/vim.html</link>
+<description>&#x26;quot;I have compiled a little list of Shortcuts for those who want to learn VI (it's worth it!)&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T16:48:35Z</dc:date>
+<dc:subject>shortcuts vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/shortcuts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://punditkitchen.com/2008/06/26/political-pictures-darth-vader-catholics-power-throne/">
+<title>The power behind the throne (Funny Political Pictures)</title>
+<link>http://punditkitchen.com/2008/06/26/political-pictures-darth-vader-catholics-power-throne/</link>
+<description>&#x26;quot;from the annual meeting of all the bishops in the national church of Iceland. Darth Vader decided to join in.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T09:28:30Z</dc:date>
+<dc:subject>DarthVader divertenti immagini</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DarthVader" />
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/immagini" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=rykTElDjFN4">
+<title>Boba Fett interpreta Flashdance (YouTube)</title>
+<link>http://www.youtube.com/watch?v=rykTElDjFN4</link>
+<description>Viedo di Boba Fett (il cacciatore di taglie di Guerre Stellari) che balla in stop motion flash dance &#x26;quot;spostando la telecamera un millimetro alla volta&#x26;quot;.</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T07:19:55Z</dc:date>
+<dc:subject>BobaFett Flashdance StarWars StopMotion divertenti video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BobaFett" />
+    <rdf:li resource="http://del.icio.us/tag/StarWars" />
+    <rdf:li resource="http://del.icio.us/tag/Flashdance" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/StopMotion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html">
+<title>Teach Yourself Scheme in Fixnum Days</title>
+<link>http://www.ccs.neu.edu/home/dorai/t-y-scheme/t-y-scheme-Z-H-1.html</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-04T06:48:38Z</dc:date>
+<dc:subject>linguaggi lisp programmazione scheme scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/programmazione" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/linguaggi" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A">
+<title>101 Picnic Dishes to Make in 20 Minutes (The Minimalist - NYTimes.com)</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A</link>
+<description>&#x26;quot;With a little shopping, a little effort, and 20 minutes or less for assembly, you can create the kind of carry-out food that will put the local prepared food shops to shame while saving you a small fortune.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-03T11:01:32Z</dc:date>
+<dc:subject>cibo cucinare picnic ricette</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ricette" />
+    <rdf:li resource="http://del.icio.us/tag/cibo" />
+    <rdf:li resource="http://del.icio.us/tag/picnic" />
+    <rdf:li resource="http://del.icio.us/tag/cucinare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vanityfair.com/politics/features/2008/08/hitchens200808">
+<title>Believe Me, It's Torture: Politics &#x26; Power: vanityfair.com</title>
+<link>http://www.vanityfair.com/politics/features/2008/08/hitchens200808</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-03T06:17:54Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://attivissimo.blogspot.com/2008/07/mp3-droganti.html">
+<title>Il Disinformatico: MP3 droganti?</title>
+<link>http://attivissimo.blogspot.com/2008/07/mp3-droganti.html</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-03T06:08:53Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2008/07/stagflazione-da-domare.shtml?uuid=b375a820-477e-11dd-a870-91396f7e96b7">
+<title>Una stagflazione da domare (Il Sole 24 ORE)</title>
+<link>http://www.ilsole24ore.com/art/SoleOnLine4/Economia%20e%20Lavoro/2008/07/stagflazione-da-domare.shtml?uuid=b375a820-477e-11dd-a870-91396f7e96b7</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T19:42:58Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/S/SCI_PSYCHEDELIC_STUDY?SITE=WIRE">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/S/SCI_PSYCHEDELIC_STUDY?SITE=WIRE</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T17:57:02Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.starcomics.com/uscite.php">
+<title>Edizioni STAR COMICS - uscite del mese</title>
+<link>http://www.starcomics.com/uscite.php</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T08:52:47Z</dc:date>
+<dc:subject>OnePiece StarComics fumetti</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fumetti" />
+    <rdf:li resource="http://del.icio.us/tag/StarComics" />
+    <rdf:li resource="http://del.icio.us/tag/OnePiece" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description>&#x26;quot;Nevermind you&#x2019;re new to Vi or not, here&#x2019;s a big list of 100 useful commands, organized by topic, which will make your coder life better.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T06:52:19Z</dc:date>
+<dc:subject>Vi ViM cheatsheet programmazione shortcuts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ViM" />
+    <rdf:li resource="http://del.icio.us/tag/Vi" />
+    <rdf:li resource="http://del.icio.us/tag/programmazione" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/shortcuts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ask.metafilter.com/95318/Exactly-how-screwed-am-I">
+<title>How big of a deal is it to be looking for a job without a job?  (Ask Metafilter)</title>
+<link>http://ask.metafilter.com/95318/Exactly-how-screwed-am-I</link>
+<description>&#x26;quot;It is easier to find a job when you have a job. (...) It's like how you can be single for months and as soon as you find someone you get involved with, suddenly many men or women are amazingly interested in you&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T06:37:22Z</dc:date>
+<dc:subject>assunzione interviste lavoro licenziamento</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lavoro" />
+    <rdf:li resource="http://del.icio.us/tag/interviste" />
+    <rdf:li resource="http://del.icio.us/tag/licenziamento" />
+    <rdf:li resource="http://del.icio.us/tag/assunzione" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emusic.com/">
+<title>eMusic</title>
+<link>http://www.emusic.com/</link>
+<description>&#x26;quot;MP3 Music and Audiobook Downloads&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T06:25:25Z</dc:date>
+<dc:subject>audio audiobooks download emusic mp3 music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/emusic" />
+    <rdf:li resource="http://del.icio.us/tag/audiobooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ask.metafilter.com/95325/Is-there-any-pointing-backing-up-DVDs-if-you-can-download-them">
+<title>Is there any pointing backing up DVDs if you can download them? (Ask Metafilter)</title>
+<link>http://ask.metafilter.com/95325/Is-there-any-pointing-backing-up-DVDs-if-you-can-download-them</link>
+<description>&#x26;quot;Part of me is wondering, what's the point? BecauseI reckon I'd be able to find torrents of pretty near everything I own on DVD. Since I've already bought the DVDs in question, I wouldn't feel like I'm doing anything wrong.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-07-01T06:05:44Z</dc:date>
+<dc:subject>DVD backup etica film torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/etica" />
+    <rdf:li resource="http://del.icio.us/tag/DVD" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.joeydevilla.com/2008/06/11/gummi-lighthouses-when-candy-design-goes-terribly-hilariously-wrong/">
+<title>Gummi Lighthouses (Joey deVilla&#x2019;s Personal Blog)</title>
+<link>http://www.joeydevilla.com/2008/06/11/gummi-lighthouses-when-candy-design-goes-terribly-hilariously-wrong/</link>
+<description>&#x26;quot;When Candy Design Goes Terribly, Hilariously Wrong&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-06-30T18:12:49Z</dc:date>
+<dc:subject>candy cibo design divertenti</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/candy" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/cibo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html">
+<title>Gumption: Do YouJustGetMe? Do I Even Get Myself?</title>
+<link>http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-06-30T15:35:09Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sethgodin.typepad.com/seths_blog/2008/06/saying-thanks-i.html">
+<title>Seth's Blog: Saying thanks in a conference presentation</title>
+<link>http://sethgodin.typepad.com/seths_blog/2008/06/saying-thanks-i.html</link>
+<description>&#x26;quot;Approximately 5% of the official welcome speech consists of a litany of thanks. The committee, the sponsors, the tireless volunteers... Not only is this a total waste of time for most attendees, it doesn't even thank and reward the folks who helped.&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-06-30T15:25:28Z</dc:date>
+<dc:subject>SethGodin conferenze powerpoint presentazione</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/conferenze" />
+    <rdf:li resource="http://del.icio.us/tag/presentazione" />
+    <rdf:li resource="http://del.icio.us/tag/SethGodin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comics.com//comics/pearls/archive/pearls-20080630.html">
+<title>Pearls Before Swine, 30/6/2008</title>
+<link>http://www.comics.com//comics/pearls/archive/pearls-20080630.html</link>
+<description>&#x26;quot;I'm not very good with subject lines&#x26;quot;</description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-06-30T11:18:42Z</dc:date>
+<dc:subject>PearlsBeforeSwine divertenti email vignette</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vignette" />
+    <rdf:li resource="http://del.icio.us/tag/divertenti" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/PearlsBeforeSwine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtogeek.com/howto/the-geek-blog/building-a-new-computer-part-4-installing-windows-and-loading-drivers/">
+<title>Building a New Computer - Part 4: Installing Windows and Loading Drivers :: the How-To Geek</title>
+<link>http://www.howtogeek.com/howto/the-geek-blog/building-a-new-computer-part-4-installing-windows-and-loading-drivers/</link>
+<description></description>
+<dc:creator>indaco</dc:creator>
+<dc:date>2008-06-30T09:02:08Z</dc:date>
+<dc:subject>_daLeggere</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_daLeggere" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

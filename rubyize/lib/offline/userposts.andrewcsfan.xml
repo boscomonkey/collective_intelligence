@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/andrewcsfan">
+<title>del.icio.us/andrewcsfan</title>
+<link>http://del.icio.us/andrewcsfan</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/send_messages_that_self-destruct_with_privnote.php" />
+  <rdf:li rdf:resource="http://skitch.com/" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/tweetdeck_twitter_client.php" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/six_ways_to_update_your_status.php" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080704-keeping-your-pc-cool-on-a-hot-summer-day.html" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/polymeme_a_memetracker_with_ed.php" />
+  <rdf:li rdf:resource="http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html" />
+  <rdf:li rdf:resource="http://www.ted.com/index.php/talks/top10" />
+  <rdf:li rdf:resource="http://www.slashfilm.com/2008/07/03/7-photos-from-harry-potter-and-the-half-blood-prince/" />
+  <rdf:li rdf:resource="http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080701-hands-on-pluribo-aims-to-summarize-the-web.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/" />
+  <rdf:li rdf:resource="http://amysteriousmystery.blogspot.com/2008/07/top-seven-flying-spaghetti-monster.html" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/seeqpod_launches_podlists.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397745/cybersearch-integrates-search-results-with-your-awesomebar" />
+  <rdf:li rdf:resource="http://www.alleyinsider.com/2008/7/the-five-most-addictive-facebook-apps-mostly-games" />
+  <rdf:li rdf:resource="http://www.pcworld.com/businesscenter/article/147845/7_skills_for_it_fame_and_fortune.html" />
+  <rdf:li rdf:resource="http://www.download.com/8301-2007_4-9983077-12.html?part=rss&#x26;tag=feed&#x26;subj=TheDailyDownload" />
+  <rdf:li rdf:resource="http://macenstein.com/default/archives/1472" />
+  <rdf:li rdf:resource="http://www.slower-living.org/2008/07/on-becoming-the-person-you-want-to-be/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397701/install-speech-macros-in-vista" />
+  <rdf:li rdf:resource="http://www.pcmag.com/article2/0,1895,2324439,00.asp" />
+  <rdf:li rdf:resource="http://googlesystem.blogspot.com/2008/07/mozillas-weave-prototype-updated.html" />
+  <rdf:li rdf:resource="http://www.alleyinsider.com/2008/7/whats-next-for-the-nytimes-online-widgets-iphone-apps-apis" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/01/ustreamtv-just-got-a-redesign-but-justintv-is-still-beating-its-pants-off/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-06T12:59:25Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/send_messages_that_self-destruct_with_privnote.php">
+<title>Send Messages That Self-Destruct With Privnote</title>
+<link>http://www.readwriteweb.com/archives/send_messages_that_self-destruct_with_privnote.php</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-06T00:48:00Z</dc:date>
+<dc:subject>Howto email</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Howto" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://skitch.com/">
+<title>Skitch.com + Skitch = fast and fun screen capture and image sharing.</title>
+<link>http://skitch.com/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-05T11:52:38Z</dc:date>
+<dc:subject>freeware web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/tweetdeck_twitter_client.php">
+<title>TweetDeck: A Different Twitter Client</title>
+<link>http://www.readwriteweb.com/archives/tweetdeck_twitter_client.php</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T23:48:46Z</dc:date>
+<dc:subject>abobe freeware twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/abobe" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/six_ways_to_update_your_status.php">
+<title>Six Ways To Update Your Status</title>
+<link>http://www.readwriteweb.com/archives/six_ways_to_update_your_status.php</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T23:23:31Z</dc:date>
+<dc:subject>twitter web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080704-keeping-your-pc-cool-on-a-hot-summer-day.html">
+<title>Five ways to keep your PC cool on a hot summer day</title>
+<link>http://arstechnica.com/news.ars/post/20080704-keeping-your-pc-cool-on-a-hot-summer-day.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T23:06:31Z</dc:date>
+<dc:subject>howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/polymeme_a_memetracker_with_ed.php">
+<title>Polymeme: Memetracker With Editors</title>
+<link>http://www.readwriteweb.com/archives/polymeme_a_memetracker_with_ed.php</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T16:14:21Z</dc:date>
+<dc:subject>media web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html">
+<title>11 Websites To Save You Cash During The Recession - 7/3/2008</title>
+<link>http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T15:22:26Z</dc:date>
+<dc:subject>economics web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/index.php/talks/top10">
+<title>TED | About TED | TEDTalks</title>
+<link>http://www.ted.com/index.php/talks/top10</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T15:04:10Z</dc:date>
+<dc:subject>ted</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slashfilm.com/2008/07/03/7-photos-from-harry-potter-and-the-half-blood-prince/">
+<title>9 Photos from Harry Potter and the Half-Blood Prince | /Film</title>
+<link>http://www.slashfilm.com/2008/07/03/7-photos-from-harry-potter-and-the-half-blood-prince/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T15:01:37Z</dc:date>
+<dc:subject>photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks">
+<title>Lifehacker Top 10: Top 10 BitTorrent Tools and Tricks</title>
+<link>http://lifehacker.com/350405/top-10-bittorrent-tools-and-tricks</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T14:36:08Z</dc:date>
+<dc:subject>BT Howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BT" />
+    <rdf:li resource="http://del.icio.us/tag/Howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080701-hands-on-pluribo-aims-to-summarize-the-web.html">
+<title>Hands on: Pluribo aims to summarize the web</title>
+<link>http://arstechnica.com/news.ars/post/20080701-hands-on-pluribo-aims-to-summarize-the-web.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-04T00:42:52Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-03T23:00:14Z</dc:date>
+<dc:subject>freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/">
+<title>55 Free High Quality Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/02/55-free-high-quality-icon-sets/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-03T22:33:40Z</dc:date>
+<dc:subject>design icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://amysteriousmystery.blogspot.com/2008/07/top-seven-flying-spaghetti-monster.html">
+<title>a mysterious mystery: Top Seven Flying Spaghetti Monster Pictures</title>
+<link>http://amysteriousmystery.blogspot.com/2008/07/top-seven-flying-spaghetti-monster.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-03T22:33:02Z</dc:date>
+<dc:subject>design photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/seeqpod_launches_podlists.php">
+<title>SeeqPod Launches PodLists</title>
+<link>http://www.readwriteweb.com/archives/seeqpod_launches_podlists.php</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-03T15:20:04Z</dc:date>
+<dc:subject>Music web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal">
+<title>Featured User Style: Google Calendar Redesigned Facelifts GCal</title>
+<link>http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-03T12:20:59Z</dc:date>
+<dc:subject>Google freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/">
+<title>Poking Holes In The Long Tail Theory</title>
+<link>http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T23:24:33Z</dc:date>
+<dc:subject>economics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397745/cybersearch-integrates-search-results-with-your-awesomebar">
+<title>Featured Firefox Extension: CyberSearch Integrates Search Results with Your AwesomeBar</title>
+<link>http://lifehacker.com/397745/cybersearch-integrates-search-results-with-your-awesomebar</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T23:23:31Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alleyinsider.com/2008/7/the-five-most-addictive-facebook-apps-mostly-games">
+<title>The Five Most Addictive Facebook Apps: Mostly Games</title>
+<link>http://www.alleyinsider.com/2008/7/the-five-most-addictive-facebook-apps-mostly-games</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T23:21:15Z</dc:date>
+<dc:subject>facebook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcworld.com/businesscenter/article/147845/7_skills_for_it_fame_and_fortune.html">
+<title>PC World - Business Center: 7 Skills for IT Fame and Fortune</title>
+<link>http://www.pcworld.com/businesscenter/article/147845/7_skills_for_it_fame_and_fortune.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T23:08:08Z</dc:date>
+<dc:subject>career</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.download.com/8301-2007_4-9983077-12.html?part=rss&#x26;tag=feed&#x26;subj=TheDailyDownload">
+<title>Fight Phishing with Flagfox for Firefox | Software news, tips and opinions from Download.com editors - Download.com</title>
+<link>http://www.download.com/8301-2007_4-9983077-12.html?part=rss&#x26;tag=feed&#x26;subj=TheDailyDownload</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T22:59:54Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://macenstein.com/default/archives/1472">
+<title>Macenstein | The 21 Worst Apple-themed wallpapers ever</title>
+<link>http://macenstein.com/default/archives/1472</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T22:59:19Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slower-living.org/2008/07/on-becoming-the-person-you-want-to-be/">
+<title>On Becoming the Person You Want to Be | Slower Living</title>
+<link>http://www.slower-living.org/2008/07/on-becoming-the-person-you-want-to-be/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T15:49:36Z</dc:date>
+<dc:subject>self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done | Zen Habits</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T15:49:14Z</dc:date>
+<dc:subject>self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397701/install-speech-macros-in-vista">
+<title>How To: Install Speech Macros in Vista</title>
+<link>http://lifehacker.com/397701/install-speech-macros-in-vista</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T15:34:36Z</dc:date>
+<dc:subject>Howto speech vista</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Howto" />
+    <rdf:li resource="http://del.icio.us/tag/speech" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcmag.com/article2/0,1895,2324439,00.asp">
+<title>Eight Handy Tools in Excel You Probably Don't Know About</title>
+<link>http://www.pcmag.com/article2/0,1895,2324439,00.asp</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T15:17:22Z</dc:date>
+<dc:subject>Excel Howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Excel" />
+    <rdf:li resource="http://del.icio.us/tag/Howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlesystem.blogspot.com/2008/07/mozillas-weave-prototype-updated.html">
+<title>Mozilla's Weave Prototype Updated</title>
+<link>http://googlesystem.blogspot.com/2008/07/mozillas-weave-prototype-updated.html</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T15:00:42Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alleyinsider.com/2008/7/whats-next-for-the-nytimes-online-widgets-iphone-apps-apis">
+<title>What's Next For The NYTimes Online? Widgets, iPhone Apps, APIs, And More</title>
+<link>http://www.alleyinsider.com/2008/7/whats-next-for-the-nytimes-online-widgets-iphone-apps-apis</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T13:02:20Z</dc:date>
+<dc:subject>news web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/01/ustreamtv-just-got-a-redesign-but-justintv-is-still-beating-its-pants-off/">
+<title>Ustream.tv Just Got a Redesign, But Justin.tv Is Still Beating Its Pants Off</title>
+<link>http://www.techcrunch.com/2008/07/01/ustreamtv-just-got-a-redesign-but-justintv-is-still-beating-its-pants-off/</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T13:00:17Z</dc:date>
+<dc:subject>TV web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/TV" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>andrewcsfan</dc:creator>
+<dc:date>2008-07-02T12:58:02Z</dc:date>
+<dc:subject>Photos freeware media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/Photos" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

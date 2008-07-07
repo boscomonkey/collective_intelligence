@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/secsaba">
+<title>del.icio.us/secsaba</title>
+<link>http://del.icio.us/secsaba</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://online-media-archive.net/tv/browse.php" />
+  <rdf:li rdf:resource="http://tv.vanelus.com/" />
+  <rdf:li rdf:resource="http://ababasoft.com/music/music01.html" />
+  <rdf:li rdf:resource="http://www.doremifasoft.com/" />
+  <rdf:li rdf:resource="http://www.mahalo.com/" />
+  <rdf:li rdf:resource="http://www.classicalarchives.com/" />
+  <rdf:li rdf:resource="http://www.quackit.com/" />
+  <rdf:li rdf:resource="http://www.wholetomato.com/default.asp" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://blog.wired.com/gadgets/iphone/index.html" />
+  <rdf:li rdf:resource="http://www.uow.edu.au/arts/sts/bmartin/pubs/95sa.html" />
+  <rdf:li rdf:resource="http://2bits.com/articles/installing-a-dedicated-server-or-a-vps-with-ubuntu-server-804-lts-hardy-heron-drupal-6x.html" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/15-plus-Collection-of-Google-Interview-Experiences-interviewresources" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx" />
+  <rdf:li rdf:resource="http://webinfo.fi/" />
+  <rdf:li rdf:resource="http://guitarebooksforall.blogspot.com/" />
+  <rdf:li rdf:resource="http://guitartrade.org/" />
+  <rdf:li rdf:resource="http://musictheory.net/index.html" />
+  <rdf:li rdf:resource="http://www.guitarprotabs.org/" />
+  <rdf:li rdf:resource="http://classicaland.com/" />
+  <rdf:li rdf:resource="http://www.pianopublicdomain.com/" />
+  <rdf:li rdf:resource="http://www.gmajormusictheory.org/Freebies/Guitar/guitarindex.html" />
+  <rdf:li rdf:resource="http://www.myriad-online.com/en/products/pdftomusic.htm" />
+  <rdf:li rdf:resource="http://www.free-scores.com/" />
+  <rdf:li rdf:resource="http://www.mutopiaproject.org/" />
+  <rdf:li rdf:resource="http://ubuntu-snippets.blogspot.com/2008/06/guide-to-faster-ubuntu.html" />
+  <rdf:li rdf:resource="http://symphony.lotus.com/software/lotus/symphony/home.jspa" />
+  <rdf:li rdf:resource="http://www.pdasnews.com/" />
+  <rdf:li rdf:resource="http://roadmap.sourceforge.net/" />
+  <rdf:li rdf:resource="http://yle.fi/opinportti/supisuomea/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-07-06T07:08:14Z</dc:date>
+<dc:subject>books free java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://online-media-archive.net/tv/browse.php">
+<title>TOMA - Internet TV</title>
+<link>http://online-media-archive.net/tv/browse.php</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T16:21:13Z</dc:date>
+<dc:subject>media streaming tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tv.vanelus.com/">
+<title>TvOnline - Televiziune Digitala Gratis</title>
+<link>http://tv.vanelus.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T14:18:14Z</dc:date>
+<dc:subject>online streaming tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ababasoft.com/music/music01.html">
+<title>Free flash online music games online ear training</title>
+<link>http://ababasoft.com/music/music01.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T09:49:13Z</dc:date>
+<dc:subject>games guitar music piano training</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/piano" />
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doremifasoft.com/">
+<title>Soft Mozart learning piano software for child and beginner. Learn to play the piano and read music</title>
+<link>http://www.doremifasoft.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T09:22:06Z</dc:date>
+<dc:subject>learn mozart music software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mozart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mahalo.com/">
+<title>Mahalo.com: Human-powered Search</title>
+<link>http://www.mahalo.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T09:06:31Z</dc:date>
+<dc:subject>community directory howto human mahalo search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mahalo" />
+    <rdf:li resource="http://del.icio.us/tag/human" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.classicalarchives.com/">
+<title>CLASSICAL MUSIC ARCHIVES - CLASSICAL MUSIC</title>
+<link>http://www.classicalarchives.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-28T08:20:06Z</dc:date>
+<dc:subject>archives catalog classical free midi music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/catalog" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/midi" />
+    <rdf:li resource="http://del.icio.us/tag/archives" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quackit.com/">
+<title>Quackit webmaster tutorials</title>
+<link>http://www.quackit.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-27T12:19:31Z</dc:date>
+<dc:subject>html tutorial webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wholetomato.com/default.asp">
+<title>Visual Assist X</title>
+<link>http://www.wholetomato.com/default.asp</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-26T12:53:15Z</dc:date>
+<dc:subject>c++ coding development refactoring software tools visualstudio windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/visualstudio" />
+    <rdf:li resource="http://del.icio.us/tag/refactoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>30+ List of Computer Science Video Lectures</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-24T09:23:17Z</dc:date>
+<dc:subject>algorithm courses development education learning university videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/university" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/gadgets/iphone/index.html">
+<title>iPhone on Wired</title>
+<link>http://blog.wired.com/gadgets/iphone/index.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-24T09:20:56Z</dc:date>
+<dc:subject>iphone wired</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/wired" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uow.edu.au/arts/sts/bmartin/pubs/95sa.html">
+<title>Democracy without Elections, by Brian Martin</title>
+<link>http://www.uow.edu.au/arts/sts/bmartin/pubs/95sa.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-22T12:01:30Z</dc:date>
+<dc:subject>demokracia politika</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politika" />
+    <rdf:li resource="http://del.icio.us/tag/demokracia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://2bits.com/articles/installing-a-dedicated-server-or-a-vps-with-ubuntu-server-804-lts-hardy-heron-drupal-6x.html">
+<title>Installing a dedicated server or a VPS with Ubuntu Server 8.04 LTS (Hardy Heron) for Drupal 6.x | 2bits.com, Inc. - Drupal Development, Customization and Consulting</title>
+<link>http://2bits.com/articles/installing-a-dedicated-server-or-a-vps-with-ubuntu-server-804-lts-hardy-heron-drupal-6x.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-22T07:24:01Z</dc:date>
+<dc:subject>drupal howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/15-plus-Collection-of-Google-Interview-Experiences-interviewresources">
+<title>LinkMingle.com &#xBB; 15+ Collection of Google Interview Experiences</title>
+<link>http://linkmingle.com/list/15-plus-Collection-of-Google-Interview-Experiences-interviewresources</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-22T06:56:56Z</dc:date>
+<dc:subject>career google interview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx">
+<title>We Don't Need No Architects</title>
+<link>http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-21T09:33:25Z</dc:date>
+<dc:subject>architecture development microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webinfo.fi/">
+<title>Suomalainen hakukone Webinfo ilmainen s&#xE4;hk&#xF6;posti</title>
+<link>http://webinfo.fi/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:09:40Z</dc:date>
+<dc:subject>directory finland info search web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+    <rdf:li resource="http://del.icio.us/tag/finland" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/info" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://guitarebooksforall.blogspot.com/">
+<title>Free Guitar ebooks download links</title>
+<link>http://guitarebooksforall.blogspot.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:08:50Z</dc:date>
+<dc:subject>ebooks guitar music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://guitartrade.org/">
+<title>Guitar Forum : Index page</title>
+<link>http://guitartrade.org/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:08:30Z</dc:date>
+<dc:subject>forum guitar music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://musictheory.net/index.html">
+<title>Ricci Adams' Musictheory.net</title>
+<link>http://musictheory.net/index.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:08:18Z</dc:date>
+<dc:subject>learn music theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guitarprotabs.org/">
+<title>Guitar Pro Tabs</title>
+<link>http://www.guitarprotabs.org/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:07:56Z</dc:date>
+<dc:subject>free guitar music tabs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/tabs" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://classicaland.com/">
+<title>CLASSICA(land): Sheet Music Books Archive in PDF format. Classical music.</title>
+<link>http://classicaland.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:07:10Z</dc:date>
+<dc:subject>classical music sheetmusic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/sheetmusic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pianopublicdomain.com/">
+<title>Free piano sheet music for download in PDF format : Piano Public Domain</title>
+<link>http://www.pianopublicdomain.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:06:46Z</dc:date>
+<dc:subject>classical free music sheetmusic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/sheetmusic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gmajormusictheory.org/Freebies/Guitar/guitarindex.html">
+<title>Free Guitar Music!</title>
+<link>http://www.gmajormusictheory.org/Freebies/Guitar/guitarindex.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:06:19Z</dc:date>
+<dc:subject>free guitar learn music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myriad-online.com/en/products/pdftomusic.htm">
+<title>PDFtoMusic</title>
+<link>http://www.myriad-online.com/en/products/pdftomusic.htm</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:04:58Z</dc:date>
+<dc:subject>music pdf software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.free-scores.com/">
+<title>Free-scores.com : Mondial de la Partition Gratuite (Partitions Gratuites Directes et Annuaire)</title>
+<link>http://www.free-scores.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:04:41Z</dc:date>
+<dc:subject>classical free music sheetmusic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/sheetmusic" />
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mutopiaproject.org/">
+<title>The Mutopia Project</title>
+<link>http://www.mutopiaproject.org/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-20T11:04:10Z</dc:date>
+<dc:subject>classical free library music sheetmusic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sheetmusic" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/classical" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntu-snippets.blogspot.com/2008/06/guide-to-faster-ubuntu.html">
+<title>Gude to faster Ubuntu</title>
+<link>http://ubuntu-snippets.blogspot.com/2008/06/guide-to-faster-ubuntu.html</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-17T12:37:05Z</dc:date>
+<dc:subject>fast howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/fast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://symphony.lotus.com/software/lotus/symphony/home.jspa">
+<title>Lotus Symphony</title>
+<link>http://symphony.lotus.com/software/lotus/symphony/home.jspa</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-05T17:19:04Z</dc:date>
+<dc:subject>freeware ibm lotus office openoffice software symphony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/symphony" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/lotus" />
+    <rdf:li resource="http://del.icio.us/tag/openoffice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pdasnews.com/">
+<title>PDA news</title>
+<link>http://www.pdasnews.com/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-03T09:52:33Z</dc:date>
+<dc:subject>mobile pda phone pocketpc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/pda" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/pocketpc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://roadmap.sourceforge.net/">
+<title>Roadmap GPS navigator</title>
+<link>http://roadmap.sourceforge.net/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-03T05:25:13Z</dc:date>
+<dc:subject>freeware gps linux maps opensource qt software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/qt" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yle.fi/opinportti/supisuomea/">
+<title>Learn finnish</title>
+<link>http://yle.fi/opinportti/supisuomea/</link>
+<description></description>
+<dc:creator>secsaba</dc:creator>
+<dc:date>2008-06-02T10:15:20Z</dc:date>
+<dc:subject>finnish learn yle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+    <rdf:li resource="http://del.icio.us/tag/finnish" />
+    <rdf:li resource="http://del.icio.us/tag/yle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

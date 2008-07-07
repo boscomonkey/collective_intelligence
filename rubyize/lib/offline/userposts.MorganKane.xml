@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/morgankane">
+<title>del.icio.us/morgankane</title>
+<link>http://del.icio.us/morgankane</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.filehippo.com/" />
+  <rdf:li rdf:resource="http://www.copyblogger.com/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://podcast.no/" />
+  <rdf:li rdf:resource="http://blogg.ipublish.no/" />
+  <rdf:li rdf:resource="http://www.saptutorials.com/index/1,xhtml" />
+  <rdf:li rdf:resource="http://www.microsoft.com/presspass/exec/billg/videos/" />
+  <rdf:li rdf:resource="http://www.erosfriend.com/index4.php?gclid=CLWQ19bAl5QCFQs4QgodNRjLuA" />
+  <rdf:li rdf:resource="http://www.ancient-heroes.com/forums/index.php" />
+  <rdf:li rdf:resource="http://www.simpleliving.com/default.aspx" />
+  <rdf:li rdf:resource="http://www.conanmods.com/" />
+  <rdf:li rdf:resource="http://www.bouvet.no/BouvetWEB/Kurs.aspx?catid=162e6100-e21d-4048-b9ee-1195a36eeeee" />
+  <rdf:li rdf:resource="http://pr-dev.norkom:8281/default.aspx" />
+  <rdf:li rdf:resource="http://www.yogajournal.com/basics/751" />
+  <rdf:li rdf:resource="http://www.yogajournal.com/" />
+  <rdf:li rdf:resource="http://www.thesecretsofyoga.com/meditation.html" />
+  <rdf:li rdf:resource="http://inlimineimport.wordpress.com/category/meditation/" />
+  <rdf:li rdf:resource="http://www.theinquirer.net/" />
+  <rdf:li rdf:resource="http://www.anobii.com/anobi/anobii_home.php" />
+  <rdf:li rdf:resource="http://www.matchadream.com/" />
+  <rdf:li rdf:resource="http://www.anandtech.com/" />
+  <rdf:li rdf:resource="http://www.how-to-meditate.org/" />
+  <rdf:li rdf:resource="http://folding.stanford.edu/" />
+  <rdf:li rdf:resource="http://aoc.wikia.com/wiki/Age_of_Conan_Wiki" />
+  <rdf:li rdf:resource="http://www.insidecrm.com/features/100-webmaster-videos-061208/" />
+  <rdf:li rdf:resource="http://sapmmforum.blogspot.com/" />
+  <rdf:li rdf:resource="https://www.google.com/analytics/home/?hl=en" />
+  <rdf:li rdf:resource="http://bl144w.blu144.mail.live.com/mail/mail.aspx?wa=wsignin1.0&#x26;n=1809042317" />
+  <rdf:li rdf:resource="http://qik.com/" />
+  <rdf:li rdf:resource="http://www.weblin.com/home.php?room=en1" />
+  <rdf:li rdf:resource="http://www.smallworlds.com/login.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.filehippo.com/">
+<title>FileHippo.com - Download Free Software</title>
+<link>http://www.filehippo.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-06T13:06:12Z</dc:date>
+<dc:subject>dailys downloads favorites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/favorites" />
+    <rdf:li resource="http://del.icio.us/tag/dailys" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.copyblogger.com/">
+<title>Copywriting tips for online marketing success from Copyblogger</title>
+<link>http://www.copyblogger.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-06T12:56:25Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-06T12:53:34Z</dc:date>
+<dc:subject>blogtools howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogtools" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://podcast.no/">
+<title>PodCast.no - Forsiden</title>
+<link>http://podcast.no/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-05T18:24:21Z</dc:date>
+<dc:subject>blogtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogtools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogg.ipublish.no/">
+<title>iPublish blogg</title>
+<link>http://blogg.ipublish.no/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-05T18:23:08Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.saptutorials.com/index/1,xhtml">
+<title>SAP Transactions list</title>
+<link>http://www.saptutorials.com/index/1,xhtml</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-01T08:59:39Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/presspass/exec/billg/videos/">
+<title>Bill Gates: Looking Back, Moving Ahead</title>
+<link>http://www.microsoft.com/presspass/exec/billg/videos/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-30T11:08:11Z</dc:date>
+<dc:subject>billgates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/billgates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.erosfriend.com/index4.php?gclid=CLWQ19bAl5QCFQs4QgodNRjLuA">
+<title>ErosFriend</title>
+<link>http://www.erosfriend.com/index4.php?gclid=CLWQ19bAl5QCFQs4QgodNRjLuA</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-28T15:54:46Z</dc:date>
+<dc:subject>pron</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pron" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ancient-heroes.com/forums/index.php">
+<title>Forums - Powered by vBulletin</title>
+<link>http://www.ancient-heroes.com/forums/index.php</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-27T09:14:03Z</dc:date>
+<dc:subject>aoc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aoc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simpleliving.com/default.aspx">
+<title>Simple Living - Home Page</title>
+<link>http://www.simpleliving.com/default.aspx</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-26T23:26:11Z</dc:date>
+<dc:subject>lifestyle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifestyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.conanmods.com/">
+<title>Age of Conan Mods - ConanMods.com - Age of Conan, Addons, and More!</title>
+<link>http://www.conanmods.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-26T12:20:47Z</dc:date>
+<dc:subject>aoc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aoc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bouvet.no/BouvetWEB/Kurs.aspx?catid=162e6100-e21d-4048-b9ee-1195a36eeeee">
+<title>Bovuet SAP kurs</title>
+<link>http://www.bouvet.no/BouvetWEB/Kurs.aspx?catid=162e6100-e21d-4048-b9ee-1195a36eeeee</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-26T11:31:58Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pr-dev.norkom:8281/default.aspx">
+<title>Komplett.admin DEV</title>
+<link>http://pr-dev.norkom:8281/default.aspx</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-26T10:11:12Z</dc:date>
+<dc:subject>saptest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/saptest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yogajournal.com/basics/751">
+<title>Yoga Journal - Yoga Beginners Expert Q&#x26;A - Office Yoga Tips</title>
+<link>http://www.yogajournal.com/basics/751</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-24T10:11:02Z</dc:date>
+<dc:subject>lifestyle yoga</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/yoga" />
+    <rdf:li resource="http://del.icio.us/tag/lifestyle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yogajournal.com/">
+<title>Yoga Journal</title>
+<link>http://www.yogajournal.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-24T10:11:02Z</dc:date>
+<dc:subject>yoga</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/yoga" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesecretsofyoga.com/meditation.html">
+<title>Yoga Techniques and Meditation</title>
+<link>http://www.thesecretsofyoga.com/meditation.html</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-22T23:23:59Z</dc:date>
+<dc:subject>meditation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meditation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://inlimineimport.wordpress.com/category/meditation/">
+<title>meditation &#xAB; In Limine: An exploration of life through yoga</title>
+<link>http://inlimineimport.wordpress.com/category/meditation/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>meditation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meditation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theinquirer.net/">
+<title>The INQUIRER - microprocessors, servers, memory, PCs, graphics, networking, storage</title>
+<link>http://www.theinquirer.net/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>it-news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/it-news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anobii.com/anobi/anobii_home.php">
+<title>aNobii: Create, Share, and Explore booklists</title>
+<link>http://www.anobii.com/anobi/anobii_home.php</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>community</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.matchadream.com/">
+<title>matchAdream.com - the world's dream log: Free dream interpretation and dream blog.</title>
+<link>http://www.matchadream.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>community</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anandtech.com/">
+<title>AnandTech: your source for hardware analysis and news</title>
+<link>http://www.anandtech.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>it-news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/it-news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.how-to-meditate.org/">
+<title>How to Meditate</title>
+<link>http://www.how-to-meditate.org/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-18T14:44:16Z</dc:date>
+<dc:subject>meditation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meditation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://folding.stanford.edu/">
+<title>Folding@home - Main</title>
+<link>http://folding.stanford.edu/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-17T16:35:45Z</dc:date>
+<dc:subject>folding@home</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/folding%40home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aoc.wikia.com/wiki/Age_of_Conan_Wiki">
+<title>Age of Conan Wiki - Ultimate Age of Conan Wiki with information on Archetypes, Classes, Lore, Guilds and more.</title>
+<link>http://aoc.wikia.com/wiki/Age_of_Conan_Wiki</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-14T15:26:33Z</dc:date>
+<dc:subject>aoc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aoc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.insidecrm.com/features/100-webmaster-videos-061208/">
+<title>100 Awesome Webmaster Videos on YouTube - Inside CRM</title>
+<link>http://www.insidecrm.com/features/100-webmaster-videos-061208/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-14T07:46:11Z</dc:date>
+<dc:subject>webtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webtools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sapmmforum.blogspot.com/">
+<title>SAP MM Forum</title>
+<link>http://sapmmforum.blogspot.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-13T09:05:34Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.google.com/analytics/home/?hl=en">
+<title>Google Analytics</title>
+<link>https://www.google.com/analytics/home/?hl=en</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-12T12:08:07Z</dc:date>
+<dc:subject>blogtools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogtools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bl144w.blu144.mail.live.com/mail/mail.aspx?wa=wsignin1.0&#x26;n=1809042317">
+<title>Windows Live Hotmail</title>
+<link>http://bl144w.blu144.mail.live.com/mail/mail.aspx?wa=wsignin1.0&#x26;n=1809042317</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-12T09:41:08Z</dc:date>
+<dc:subject>dailys fav</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dailys" />
+    <rdf:li resource="http://del.icio.us/tag/fav" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://qik.com/">
+<title>QIK | Streaming video right from your phone</title>
+<link>http://qik.com/</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-09T17:28:37Z</dc:date>
+<dc:subject>webtv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webtv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.weblin.com/home.php?room=en1">
+<title>weblin</title>
+<link>http://www.weblin.com/home.php?room=en1</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-09T10:23:09Z</dc:date>
+<dc:subject>checkIT community social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/checkIT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smallworlds.com/login.php">
+<title>SmallWorlds</title>
+<link>http://www.smallworlds.com/login.php</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-06-07T21:30:11Z</dc:date>
+<dc:subject>community</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

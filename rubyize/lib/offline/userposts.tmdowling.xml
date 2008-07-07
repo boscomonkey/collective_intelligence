@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tmdowling">
+<title>del.icio.us/tmdowling</title>
+<link>http://del.icio.us/tmdowling</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.latimes.com/business/la-fi-oil28-2008jun28,0,418557,print.story" />
+  <rdf:li rdf:resource="http://www.prairienet.org/pcsa/recipes/purslane.htm" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215403200&#x26;en=34af860814be999d&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/magazine/29weeds-t.html?pagewanted=all" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/30/13-friendfeed-tools-for-twitter-refugees/" />
+  <rdf:li rdf:resource="http://writerriver.com/" />
+  <rdf:li rdf:resource="http://desktoptopia.com/" />
+  <rdf:li rdf:resource="http://www.nismat.org/ptcor/tennis_elbow/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/travel/941316/10-great-rail-journeys.html" />
+  <rdf:li rdf:resource="http://www.ribbonfarm.com/2008/06/03/context-switching-metaphors-for-work-life-blending/" />
+  <rdf:li rdf:resource="http://wilwheaton.typepad.com/" />
+  <rdf:li rdf:resource="http://www.homegrownevolution.com/" />
+  <rdf:li rdf:resource="http://mail2ff.com/" />
+  <rdf:li rdf:resource="http://www.evilgeniuschronicles.org/wordpress/2008/06/15/there-must-be-50-ways-to-leave-your-twitter/" />
+  <rdf:li rdf:resource="http://www.ft.com/cms/s/0/4bb053f2-364e-11dd-8bb8-0000779fd2ac.html?nclick_check=1" />
+  <rdf:li rdf:resource="http://www.db798.com/pictobrowser/samples.html" />
+  <rdf:li rdf:resource="http://www.onedaybuys.com/latest.php" />
+  <rdf:li rdf:resource="http://www.slacker.com/" />
+  <rdf:li rdf:resource="http://www.inhabitat.com/2008/06/23/slovenias-gorgeous-honeycomb-housing-complex/" />
+  <rdf:li rdf:resource="http://fredeinaudi.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.drudge.com/" />
+  <rdf:li rdf:resource="http://www.consumerreports.org/cro/money/resource-center/recession-guide-4-08/recession-guide.htm?loginMethod=auto" />
+  <rdf:li rdf:resource="http://www.thewebsqueeze.com/articles/40-free-stock-photo-sites-43.htm" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/03/06/35-really-incredible-free-icon-sets/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/03/01/online-image-editing/" />
+  <rdf:li rdf:resource="http://make3d.stanford.edu/" />
+  <rdf:li rdf:resource="http://www.snap2objects.com/2007/09/02/15-free-online-image-editors/" />
+  <rdf:li rdf:resource="http://www.clevr.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/02/where-can-i-find-textures-and-background-images/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/css/30_css_techniques_examples" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-06T13:02:07Z</dc:date>
+<dc:subject>WinXP download freeware howto install lifehacks opensource reference resource review software tips tools tweaks utilities windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/WinXP" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/business/la-fi-oil28-2008jun28,0,418557,print.story">
+<title>Envisioning a world of $200-a-barrel oil - Los Angeles Times</title>
+<link>http://www.latimes.com/business/la-fi-oil28-2008jun28,0,418557,print.story</link>
+<description>Implications for trade, transportation, housing, and the economy in general</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-06T11:55:25Z</dc:date>
+<dc:subject>economics energy peakoil prediction transportation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/peakoil" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/prediction" />
+    <rdf:li resource="http://del.icio.us/tag/transportation" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prairienet.org/pcsa/recipes/purslane.htm">
+<title>Purslane Recipes from Prairieland Community Supported Agriculture (PCSA)</title>
+<link>http://www.prairienet.org/pcsa/recipes/purslane.htm</link>
+<description>Recipes</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-06T11:51:36Z</dc:date>
+<dc:subject>edibleweeds gardening health landscaping recipes urbanagriculture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/gardening" />
+    <rdf:li resource="http://del.icio.us/tag/urbanagriculture" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/edibleweeds" />
+    <rdf:li resource="http://del.icio.us/tag/landscaping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215403200&#x26;en=34af860814be999d&#x26;ei=5087%0A">
+<title>The 11 Best Foods You Arent Eating - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/?em&#x26;ex=1215403200&#x26;en=34af860814be999d&#x26;ei=5087%0A</link>
+<description>Beets, Cabbage, Swiss chard, Cinnamon, Pomegranate juice, Dried plums,Pumpkin seeds, Sardines, Turmeric, Frozen blueberries, Canned pumpkin</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-06T11:24:29Z</dc:date>
+<dc:subject>cooking diet food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/magazine/29weeds-t.html?pagewanted=all">
+<title>Can Weeds Help Solve the Climate Crisis? - Global Warming - Environment - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/magazine/29weeds-t.html?pagewanted=all</link>
+<description>Weedy ancestors of our food crops, some scientists predict, will cope far better with coming climatic changes than their domesticated descendants.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-02T11:20:21Z</dc:date>
+<dc:subject>biofuel climatechange environment globalwarming kudzu sustainable</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/sustainable" />
+    <rdf:li resource="http://del.icio.us/tag/globalwarming" />
+    <rdf:li resource="http://del.icio.us/tag/climatechange" />
+    <rdf:li resource="http://del.icio.us/tag/biofuel" />
+    <rdf:li resource="http://del.icio.us/tag/kudzu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/30/13-friendfeed-tools-for-twitter-refugees/">
+<title>13 FriendFeed Tools for Twitter Refugees</title>
+<link>http://www.techcrunch.com/2008/06/30/13-friendfeed-tools-for-twitter-refugees/</link>
+<description>There has been much talk of Twitter users moving over to FriendFeed since Twitter replies were down for the majority of last week. ...</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-01T12:55:31Z</dc:date>
+<dc:subject>friendfeed reference resource socialnetwork socialnetworking twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://writerriver.com/">
+<title>Writer River: A Social Media News Site for Technical Communicators / Front Page Stories</title>
+<link>http://writerriver.com/</link>
+<description>Pligg Content Management System</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-07-01T12:01:31Z</dc:date>
+<dc:subject>news social technicalwriting techwriting writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/techwriting" />
+    <rdf:li resource="http://del.icio.us/tag/technicalwriting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://desktoptopia.com/">
+<title>&#xA0;&#x2606; Desktoptopia &#x2606;&#xA0;</title>
+<link>http://desktoptopia.com/</link>
+<description>Automatically changes PC (winXP) or Mac wallpaper, with usable and beautiful desktop designs created by top designers in almost every design field and selected by a panel of reviewers.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-30T15:52:13Z</dc:date>
+<dc:subject>art backgrounds design desktop download free gallery software wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nismat.org/ptcor/tennis_elbow/">
+<title>Physical Therapy Corner: Tennis Elbow &#x2014; Portal</title>
+<link>http://www.nismat.org/ptcor/tennis_elbow/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-29T16:01:15Z</dc:date>
+<dc:subject>diagnosis elbow exercise health tenniselbow therapy treatment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/elbow" />
+    <rdf:li resource="http://del.icio.us/tag/therapy" />
+    <rdf:li resource="http://del.icio.us/tag/tenniselbow" />
+    <rdf:li resource="http://del.icio.us/tag/treatment" />
+    <rdf:li resource="http://del.icio.us/tag/diagnosis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/travel/941316/10-great-rail-journeys.html">
+<title>10 great rail journeys - Telegraph</title>
+<link>http://www.telegraph.co.uk/travel/941316/10-great-rail-journeys.html</link>
+<description>Great train journeys provide a return to more leisurely days, when travel was a decorous adventure rather than an irritant endured between home and holiday. Between them, our top 10 carve up the most spectacular scenery on the planet.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-28T23:23:49Z</dc:date>
+<dc:subject>inspiration photos scenery train travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/train" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/scenery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ribbonfarm.com/2008/06/03/context-switching-metaphors-for-work-life-blending/">
+<title>Context-Switching Metaphors for Work-Life Blending</title>
+<link>http://www.ribbonfarm.com/2008/06/03/context-switching-metaphors-for-work-life-blending/</link>
+<description>Alternative metaphors and the realities they try to represent</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-28T20:39:52Z</dc:date>
+<dc:subject>business coping family productivity work-life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work-life" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/family" />
+    <rdf:li resource="http://del.icio.us/tag/coping" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wilwheaton.typepad.com/">
+<title>WWdN: In Exile</title>
+<link>http://wilwheaton.typepad.com/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-28T15:47:43Z</dc:date>
+<dc:subject>Entertainment Funny News blog books geek humor politics scifi startrek tech wheaton writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/wheaton" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/Entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/Funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/News" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/startrek" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.homegrownevolution.com/">
+<title>Homegrown Evolution</title>
+<link>http://www.homegrownevolution.com/</link>
+<description>a blog that explores a fast-growing new movement: urbanites are becoming gardeners and farmers; have researched and experimented with small scale urban agriculture since moving to their tiny bungalow in Los Angeles ten years ago.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-28T15:10:46Z</dc:date>
+<dc:subject>Environment Home Sustainable blog community diy food gardening green homesteading howto reference urban urbanagriculture urbanfarming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gardening" />
+    <rdf:li resource="http://del.icio.us/tag/urban" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/urbanfarming" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/homesteading" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/Environment" />
+    <rdf:li resource="http://del.icio.us/tag/green" />
+    <rdf:li resource="http://del.icio.us/tag/Home" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/Sustainable" />
+    <rdf:li resource="http://del.icio.us/tag/urbanagriculture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mail2ff.com/">
+<title>Welcome to Mail 2 FF!</title>
+<link>http://mail2ff.com/</link>
+<description>Post a message to FriendFeed by sending mail to nickname+key@mail2ff.com where &#x26;quot;nickname&#x26;quot; is your FriendFeed nickname, &#x26;quot;+&#x26;quot; is the plus character and &#x26;quot;key&#x26;quot; is your FriendFeed remote key. Type your message in the email subject and comments in the email body</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-28T05:33:42Z</dc:date>
+<dc:subject>blog email friendfeed photo socialnetwork socialsoftware tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/socialsoftware" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evilgeniuschronicles.org/wordpress/2008/06/15/there-must-be-50-ways-to-leave-your-twitter/">
+<title>There Must Be 50 Ways to Leave Your Twitter | Evil Genius Chronicles</title>
+<link>http://www.evilgeniuschronicles.org/wordpress/2008/06/15/there-must-be-50-ways-to-leave-your-twitter/</link>
+<description>Here are details on how you too can get the hell away from Twitter, increase the functionality available to you and still not lose your whole social network. I</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-27T17:46:58Z</dc:date>
+<dc:subject>aggregator friendfeed howto introduction socialnetwork twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/introduction" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ft.com/cms/s/0/4bb053f2-364e-11dd-8bb8-0000779fd2ac.html?nclick_check=1">
+<title>FT.com Article: FriendFeed openness puts pressure on rivals</title>
+<link>http://www.ft.com/cms/s/0/4bb053f2-364e-11dd-8bb8-0000779fd2ac.html?nclick_check=1</link>
+<description>Valley&#x2019;s digerati hail Google &#x2018;offspring&#x2019;</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-27T16:11:44Z</dc:date>
+<dc:subject>aggregator article friendfeed introduction media review socialnetwork technology trends twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetwork" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/introduction" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/trends" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.db798.com/pictobrowser/samples.html">
+<title>PictoBrowser Samples</title>
+<link>http://www.db798.com/pictobrowser/samples.html</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-26T12:22:14Z</dc:date>
+<dc:subject>flash flickr gallery image photography slideshow tools webdev widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onedaybuys.com/latest.php">
+<title>One Day Sales and Sites at OneDayBuys.com!</title>
+<link>http://www.onedaybuys.com/latest.php</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-24T20:50:38Z</dc:date>
+<dc:subject>bargains deals home&#x26;amp;family reference resource retail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/retail" />
+    <rdf:li resource="http://del.icio.us/tag/deals" />
+    <rdf:li resource="http://del.icio.us/tag/bargains" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/home%26family" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slacker.com/">
+<title>Slacker Web Player</title>
+<link>http://www.slacker.com/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-24T13:38:07Z</dc:date>
+<dc:subject>Entertainment Fun Radio Software audio free music online player web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/Entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/Radio" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inhabitat.com/2008/06/23/slovenias-gorgeous-honeycomb-housing-complex/">
+<title>Inhabitat &#xBB; Slovenia&#x2019;s Gorgeous Honeycomb Housing Complex</title>
+<link>http://www.inhabitat.com/2008/06/23/slovenias-gorgeous-honeycomb-housing-complex/</link>
+<description>A Green Design Blog, Sustainable Design Blog, Future-forward design for the world you inhabit - your daily source for innovations in sustainable architecture and green design for the home.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-23T19:13:57Z</dc:date>
+<dc:subject>architecture design housing inspiration sustainable</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/housing" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/sustainable" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fredeinaudi.blogspot.com/">
+<title>Fred Einaudi post-apocalyptic paintings</title>
+<link>http://fredeinaudi.blogspot.com/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-23T14:44:46Z</dc:date>
+<dc:subject>Fun Pictures art image inspiration painting post-apocalyptic surreal surrealism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/surrealism" />
+    <rdf:li resource="http://del.icio.us/tag/post-apocalyptic" />
+    <rdf:li resource="http://del.icio.us/tag/painting" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+    <rdf:li resource="http://del.icio.us/tag/surreal" />
+    <rdf:li resource="http://del.icio.us/tag/Pictures" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drudge.com/">
+<title>Drudge Retort: Red Meat for Yellow Dogs</title>
+<link>http://www.drudge.com/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-23T13:26:55Z</dc:date>
+<dc:subject>News Progressive aggregator imported opinion politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/News" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/opinion" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/Progressive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.consumerreports.org/cro/money/resource-center/recession-guide-4-08/recession-guide.htm?loginMethod=auto">
+<title>ConsumerReports.org - Recession guide</title>
+<link>http://www.consumerreports.org/cro/money/resource-center/recession-guide-4-08/recession-guide.htm?loginMethod=auto</link>
+<description>Belt-tightening tips, expert advice, Ratings, and Recommendations to help you to protect your home, job, and investments.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-22T04:42:31Z</dc:date>
+<dc:subject>consumer consumerreports finance home reference shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/consumer" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/consumerreports" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsqueeze.com/articles/40-free-stock-photo-sites-43.htm">
+<title>40 Free Stock Photo Sites - The Web Squeeze</title>
+<link>http://www.thewebsqueeze.com/articles/40-free-stock-photo-sites-43.htm</link>
+<description>Web Design and Development Help Forum discussing all web design topics and technologies, managing your Web Design Business, Website Reviews and Critiques, and helpful articles and tutorials.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:40:06Z</dc:date>
+<dc:subject>Development Images design download free graphics imported photography photos resource stock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/03/06/35-really-incredible-free-icon-sets/">
+<title>35 (Really) Incredible Free Icon Sets | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/03/06/35-really-incredible-free-icon-sets/</link>
+<description>When it comes to icons, web designers and graphic artists have an excellent opportunity showcase their craft, prove experience explore creativity. A sweet, nice icon set is a perfect of designer's work powerful instrument build</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:55Z</dc:date>
+<dc:subject>Development Images clipart design download free graphics icon icons imported resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/03/01/online-image-editing/">
+<title>Seven Great Online Image Editing Apps</title>
+<link>http://mashable.com/2008/03/01/online-image-editing/</link>
+<description>The vast majority of people don't really need heavyweight image editing applications like Photoshop or Aperture. Luckily, you can find ...</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:52Z</dc:date>
+<dc:subject>Development Images imported tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://make3d.stanford.edu/">
+<title>Make3D --- convert your image into 3d</title>
+<link>http://make3d.stanford.edu/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:46Z</dc:date>
+<dc:subject>3d Development Images conversion convert imported photography photos software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.snap2objects.com/2007/09/02/15-free-online-image-editors/">
+<title>15 Free Online Image Editors</title>
+<link>http://www.snap2objects.com/2007/09/02/15-free-online-image-editors/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:33Z</dc:date>
+<dc:subject>Development Images editor imported online tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clevr.com/">
+<title>CleVR &#xBB; Free and easy panoramic images, photo stitching software and virtual tours</title>
+<link>http://www.clevr.com/</link>
+<description>Free and easy-to-use photo stitching software and virtual tour hosting. Create panoramic photos and virtual tours for free.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:32Z</dc:date>
+<dc:subject>Development Images editor filehosting free imagehosting imageprocessing imported panorama photo photography tool tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/panorama" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/imageprocessing" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/imagehosting" />
+    <rdf:li resource="http://del.icio.us/tag/filehosting" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/02/where-can-i-find-textures-and-background-images/">
+<title>Free textures and background images - Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/01/02/where-can-i-find-textures-and-background-images/</link>
+<description></description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:14Z</dc:date>
+<dc:subject>Development Images backgrounds clipart design free imported patterns textures webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/Images" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/css/30_css_techniques_examples">
+<title>30 Exceptional CSS Techniques and Examples | Six Revisions</title>
+<link>http://sixrevisions.com/css/30_css_techniques_examples</link>
+<description>30 excellent CSS techniques and examples that showcases the capabilities and robustness of CSS.</description>
+<dc:creator>tmdowling</dc:creator>
+<dc:date>2008-06-21T21:39:08Z</dc:date>
+<dc:subject>Development css cssandhtml design examples howto imported reference webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+    <rdf:li resource="http://del.icio.us/tag/cssandhtml" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

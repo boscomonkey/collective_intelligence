@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kan.kangaroo">
+<title>del.icio.us/kan.kangaroo</title>
+<link>http://del.icio.us/kan.kangaroo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://habrahabr.ru/blog/office/45933.html" />
+  <rdf:li rdf:resource="http://www.betterworld.com/Harry-Potter-and-the-Prisoner-of-Azkaban-Book-3-id-0439136369-c-0.aspx" />
+  <rdf:li rdf:resource="http://www.yosefk.com/blog/extreme-programming-explained.html" />
+  <rdf:li rdf:resource="http://polemika.com.ua/?action=redirect&#x26;url=2008/03/13/ukrainu-zhdet-rezkij-obval-cen-na-zhile" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=aU6ojtBW0Qo&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.thewebsiteisdown.com/" />
+  <rdf:li rdf:resource="http://habrahabr.ru/blog/sql/45174.html" />
+  <rdf:li rdf:resource="http://java.sun.com/products/plugin/1.3/docs/jsobject.html" />
+  <rdf:li rdf:resource="http://habrahabr.ru/blog/pixar/45059.html" />
+  <rdf:li rdf:resource="http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:LiveConnect:JSObject" />
+  <rdf:li rdf:resource="http://altblog.ru/ya-xochu-firefox-plaginy/" />
+  <rdf:li rdf:resource="http://habrahabr.ru/blog/freelance/43834.html" />
+  <rdf:li rdf:resource="http://www.developers.org.ua/archives/cb/2008/05/29/it-talk-kharkov/" />
+  <rdf:li rdf:resource="http://www.onjava.com/pub/a/onjava/2001/03/01/pseudo_sessions.html?page=1" />
+  <rdf:li rdf:resource="http://balusc.blogspot.com/2007/11/friendly-urls-in-jsf.html" />
+  <rdf:li rdf:resource="http://balusc.blogspot.com/2006/06/communication-in-jsf.html" />
+  <rdf:li rdf:resource="http://vingrad.ru/blogs/doomik/" />
+  <rdf:li rdf:resource="https://swingexplorer.dev.java.net/" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/theater/" />
+  <rdf:li rdf:resource="http://www.shokhirev.com/mikhail/ruby/ltp/index.html" />
+  <rdf:li rdf:resource="http://www.news.com/Google-wins-patent-for-search-results-page-design/2100-1030_3-6143586.html" />
+  <rdf:li rdf:resource="http://search.freelancer.com.ua/" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-07-2004/jw-0712-threadsafe.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=UFJXWTcCDxE" />
+  <rdf:li rdf:resource="http://www.benovsky.com/photo/alps/" />
+  <rdf:li rdf:resource="http://www.cmcrossroads.com/bradapp/links/scm-links.html#SCM" />
+  <rdf:li rdf:resource="http://www.developers.org.ua/archives/yanina/2007/12/07/pmarca-career-planning-p1/" />
+  <rdf:li rdf:resource="http://getafreelancer-daily.ru/archives/date/2007/11/page/6" />
+  <rdf:li rdf:resource="http://heckfy.3eu.ru/?p=24" />
+  <rdf:li rdf:resource="http://developers.sun.com/portalserver/reference/techart/jsr168/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-05T22:58:01Z</dc:date>
+<dc:subject>article j2ee java read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://habrahabr.ru/blog/office/45933.html">
+<title>10 &#x43B;&#x443;&#x447;&#x448;&#x438;&#x445; &#x434;&#x43E;&#x43C;&#x430;&#x448;&#x43D;&#x438;&#x445; &#x43E;&#x444;&#x438;&#x441;&#x43E;&#x432;. &#x41B;&#x438;&#x447;&#x43D;&#x44B;&#x439; &#x440;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433;. / &#x41F;&#x440;&#x43E;&#x435;&#x43A;&#x442; &#xAB;&#x41E;&#x444;&#x438;&#x441;&#xBB; / &#x411;&#x43B;&#x43E;&#x433;&#x438; / &#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440;</title>
+<link>http://habrahabr.ru/blog/office/45933.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-05T22:54:21Z</dc:date>
+<dc:subject>photo see view work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/view" />
+    <rdf:li resource="http://del.icio.us/tag/see" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.betterworld.com/Harry-Potter-and-the-Prisoner-of-Azkaban-Book-3-id-0439136369-c-0.aspx">
+<title>Harry Potter and the Prisoner of Azkaban (Book 3) : J.K. Rowling : 978-0439136365 - Better World Books</title>
+<link>http://www.betterworld.com/Harry-Potter-and-the-Prisoner-of-Azkaban-Book-3-id-0439136369-c-0.aspx</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-05T08:26:47Z</dc:date>
+<dc:subject>book online shop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/shop" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yosefk.com/blog/extreme-programming-explained.html">
+<title>Extreme Programming Explained</title>
+<link>http://www.yosefk.com/blog/extreme-programming-explained.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-04T07:33:05Z</dc:date>
+<dc:subject>Agile XP article read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/XP" />
+    <rdf:li resource="http://del.icio.us/tag/Agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://polemika.com.ua/?action=redirect&#x26;url=2008/03/13/ukrainu-zhdet-rezkij-obval-cen-na-zhile">
+<title>Polemika.com.ua :: &#x423;&#x43A;&#x440;&#x430;&#x438;&#x43D;&#x443; &#x436;&#x434;&#x435;&#x442; &#x440;&#x435;&#x437;&#x43A;&#x438;&#x439; &#x43E;&#x431;&#x432;&#x430;&#x43B; &#x446;&#x435;&#x43D; &#x43D;&#x430; &#x436;&#x438;&#x43B;&#x44C;&#x435;</title>
+<link>http://polemika.com.ua/?action=redirect&#x26;url=2008/03/13/ukrainu-zhdet-rezkij-obval-cen-na-zhile</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-01T08:35:09Z</dc:date>
+<dc:subject>flat life love osezno wife</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osezno" />
+    <rdf:li resource="http://del.icio.us/tag/wife" />
+    <rdf:li resource="http://del.icio.us/tag/love" />
+    <rdf:li resource="http://del.icio.us/tag/flat" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=aU6ojtBW0Qo&#x26;feature=related">
+<title>YouTube - 9 months of gestation in 20 seconds - New Version!</title>
+<link>http://www.youtube.com/watch?v=aU6ojtBW0Qo&#x26;feature=related</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-01T07:10:08Z</dc:date>
+<dc:subject>fun osezno video wife</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/wife" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/osezno" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsiteisdown.com/">
+<title>The Website Is Down</title>
+<link>http://www.thewebsiteisdown.com/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-30T16:29:11Z</dc:date>
+<dc:subject>fun funny humor video web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://habrahabr.ru/blog/sql/45174.html">
+<title>&#x41F;&#x440;&#x43E;&#x438;&#x437;&#x432;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x441;&#x442;&#x44C; SELECT-&#x437;&#x430;&#x43F;&#x440;&#x43E;&#x441;&#x43E;&#x432; / SQL / &#x411;&#x43B;&#x43E;&#x433;&#x438; / &#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440;</title>
+<link>http://habrahabr.ru/blog/sql/45174.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-25T11:53:18Z</dc:date>
+<dc:subject>programming read sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/products/plugin/1.3/docs/jsobject.html">
+<title>How Java to Javascript Communication Works in Java Plug-in</title>
+<link>http://java.sun.com/products/plugin/1.3/docs/jsobject.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-23T15:20:56Z</dc:date>
+<dc:subject>ajax applet web work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/applet" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://habrahabr.ru/blog/pixar/45059.html">
+<title>&#x41A;&#x430;&#x43A; &#x421;&#x442;&#x438;&#x432; &#x414;&#x436;&#x43E;&#x431;&#x441; &#x432;&#x43E;&#x441;&#x43A;&#x440;&#x435;&#x441;&#x438;&#x43B; &#x441;&#x442;&#x443;&#x434;&#x438;&#x44E; Pixar / Pixar / &#x411;&#x43B;&#x43E;&#x433;&#x438; / &#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440;</title>
+<link>http://habrahabr.ru/blog/pixar/45059.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-23T15:20:56Z</dc:date>
+<dc:subject>english pixar read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/pixar" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:LiveConnect:JSObject">
+<title>Core JavaScript 1.5 Reference:LiveConnect:JSObject - MDC</title>
+<link>http://developer.mozilla.org/en/docs/Core_JavaScript_1.5_Reference:LiveConnect:JSObject</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-23T15:09:20Z</dc:date>
+<dc:subject>ajax applet java javascript web work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/applet" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://altblog.ru/ya-xochu-firefox-plaginy/">
+<title>&#x42F; &#x445;&#x43E;&#x447;&#x443; Firefox &#x43F;&#x43B;&#x430;&#x433;&#x438;&#x43D;&#x44B; &#x2026;</title>
+<link>http://altblog.ru/ya-xochu-firefox-plaginy/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-23T07:55:53Z</dc:date>
+<dc:subject>firefox plugins web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://habrahabr.ru/blog/freelance/43834.html">
+<title>12 &#x43F;&#x440;&#x43E;&#x441;&#x442;&#x44B;&#x445; &#x43F;&#x440;&#x430;&#x432;&#x438;&#x43B;, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x43D;&#x435; &#x434;&#x435;&#x433;&#x440;&#x430;&#x434;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x432;&#x43E; &#x444;&#x440;&#x438;&#x43B;&#x430;&#x43D;&#x441;&#x435; / &#x424;&#x440;&#x438;&#x43B;&#x430;&#x43D;&#x441; / &#x411;&#x43B;&#x43E;&#x433;&#x438; / &#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440;</title>
+<link>http://habrahabr.ru/blog/freelance/43834.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-06-04T11:08:57Z</dc:date>
+<dc:subject>article blog freelance work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developers.org.ua/archives/cb/2008/05/29/it-talk-kharkov/">
+<title>&#x41F;&#x435;&#x440;&#x432;&#x430;&#x44F; &#x432;&#x441;&#x442;&#x440;&#x435;&#x447;&#x430; IT-&#x441;&#x43E;&#x43E;&#x431;&#x449;&#x435;&#x441;&#x442;&#x432;&#x430; IT Talk, &#x433;. &#x425;&#x430;&#x440;&#x44C;&#x43A;&#x43E;&#x432; - cb - &#x431;&#x43B;&#x43E;&#x433; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x447;&#x438;&#x43A;&#x43E;&#x432;</title>
+<link>http://www.developers.org.ua/archives/cb/2008/05/29/it-talk-kharkov/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-30T12:58:32Z</dc:date>
+<dc:subject>Kharkiv java june meeting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meeting" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/Kharkiv" />
+    <rdf:li resource="http://del.icio.us/tag/june" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onjava.com/pub/a/onjava/2001/03/01/pseudo_sessions.html?page=1">
+<title>ONJava.com -- Pseudo Sessions for JSP, Servlets and HTTP</title>
+<link>http://www.onjava.com/pub/a/onjava/2001/03/01/pseudo_sessions.html?page=1</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-28T14:40:32Z</dc:date>
+<dc:subject>article java my session site web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/my" />
+    <rdf:li resource="http://del.icio.us/tag/site" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/session" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://balusc.blogspot.com/2007/11/friendly-urls-in-jsf.html">
+<title>The BalusC Code: Friendly URL's in JSF</title>
+<link>http://balusc.blogspot.com/2007/11/friendly-urls-in-jsf.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-27T12:40:37Z</dc:date>
+<dc:subject>article jsf my site url web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jsf" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/my" />
+    <rdf:li resource="http://del.icio.us/tag/site" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://balusc.blogspot.com/2006/06/communication-in-jsf.html">
+<title>asdf</title>
+<link>http://balusc.blogspot.com/2006/06/communication-in-jsf.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-24T14:20:51Z</dc:date>
+<dc:subject>java jsf programming tutorial web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jsf" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vingrad.ru/blogs/doomik/">
+<title>&#x411;&#x43B;&#x43E;&#x433; &#x434;&#x443;&#x43C;&#x435;&#x433;&#x433;&#x430;</title>
+<link>http://vingrad.ru/blogs/doomik/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-22T06:14:31Z</dc:date>
+<dc:subject>free game poker time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://swingexplorer.dev.java.net/">
+<title>swingexplorer: Swing Explorer</title>
+<link>https://swingexplorer.dev.java.net/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-21T06:36:49Z</dc:date>
+<dc:subject>gui java programming swing tool tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/swing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/theater/">
+<title>Yahoo! UI Library: YUI Theater</title>
+<link>http://developer.yahoo.com/yui/theater/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-16T11:11:31Z</dc:date>
+<dc:subject>tutorial video yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shokhirev.com/mikhail/ruby/ltp/index.html">
+<title>&#x22;&#x423;&#x447;&#x438;&#x441;&#x44C; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x442;&#x44C;&#x22;</title>
+<link>http://www.shokhirev.com/mikhail/ruby/ltp/index.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-12T13:36:55Z</dc:date>
+<dc:subject>book learn online ruby tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news.com/Google-wins-patent-for-search-results-page-design/2100-1030_3-6143586.html">
+<title>Google wins patent for search results page design - CNET News.com</title>
+<link>http://www.news.com/Google-wins-patent-for-search-results-page-design/2100-1030_3-6143586.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-10T21:52:10Z</dc:date>
+<dc:subject>design google patent search work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/patent" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://search.freelancer.com.ua/">
+<title>&#x412;&#x441;&#x435; &#x43F;&#x440;&#x43E;&#x435;&#x43A;&#x442;&#x44B; &#x434;&#x43B;&#x44F; &#x444;&#x440;&#x438;&#x43B;&#x430;&#x43D;&#x441;&#x435;&#x440;&#x43E;&#x432;</title>
+<link>http://search.freelancer.com.ua/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-10T20:44:19Z</dc:date>
+<dc:subject>freelance job search work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-07-2004/jw-0712-threadsafe.html">
+<title>Write thread-safe servlets - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-07-2004/jw-0712-threadsafe.html</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-10T12:17:13Z</dc:date>
+<dc:subject>article java servlet thread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/servlet" />
+    <rdf:li resource="http://del.icio.us/tag/thread" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=UFJXWTcCDxE">
+<title>good music</title>
+<link>http://www.youtube.com/watch?v=UFJXWTcCDxE</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-09T21:13:05Z</dc:date>
+<dc:subject>listen music work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/listen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.benovsky.com/photo/alps/">
+<title>-- The Alps ------------------------------------------------------</title>
+<link>http://www.benovsky.com/photo/alps/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-07T06:08:15Z</dc:date>
+<dc:subject>cool photo web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmcrossroads.com/bradapp/links/scm-links.html#SCM">
+<title>Brad Appleton's Software Configuration Management Links</title>
+<link>http://www.cmcrossroads.com/bradapp/links/scm-links.html#SCM</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-05T15:26:32Z</dc:date>
+<dc:subject>homework link orex scm web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/link" />
+    <rdf:li resource="http://del.icio.us/tag/orex" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/homework" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developers.org.ua/archives/yanina/2007/12/07/pmarca-career-planning-p1/">
+<title>&#x420;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x43E; &#x41C;&#x430;&#x440;&#x43A;&#x430; &#x410;&#x43D;&#x434;&#x435;&#x440;&#x441;&#x435;&#x43D;&#x430; &#x43F;&#x43E; &#x43F;&#x43B;&#x430;&#x43D;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44E; &#x43A;&#x430;&#x440;&#x44C;&#x435;&#x440;&#x44B;, &#x447;&#x430;&#x441;&#x442;&#x44C; 1: &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;&#x441;&#x442;&#x438; - yanina - &#x431;&#x43B;&#x43E;&#x433; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x447;&#x438;&#x43A;&#x43E;&#x432;</title>
+<link>http://www.developers.org.ua/archives/yanina/2007/12/07/pmarca-career-planning-p1/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-05T14:39:15Z</dc:date>
+<dc:subject>article career life programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://getafreelancer-daily.ru/archives/date/2007/11/page/6">
+<title>&#x424;&#x440;&#x438;&#x43B;&#x430;&#x43D;&#x441;, &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430; &#x432; &#x438;&#x43D;&#x442;&#x435;&#x440;&#x43D;&#x435;&#x442;&#x435;, &#x443;&#x434;&#x430;&#x43B;&#x435;&#x43D;&#x43D;&#x430;&#x44F; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430; &#xBB; 2007 &#xBB; &#x41D;&#x43E;&#x44F;&#x431;&#x440;&#x44C;</title>
+<link>http://getafreelancer-daily.ru/archives/date/2007/11/page/6</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-05T07:58:31Z</dc:date>
+<dc:subject>blog freelance story</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://heckfy.3eu.ru/?p=24">
+<title>Heckfy &#xBB; Blog Archive &#xBB; 10 &#x441;&#x430;&#x43C;&#x44B;&#x445; &#x43F;&#x43E;&#x43B;&#x435;&#x437;&#x43D;&#x44B;&#x445; firefox &#x43F;&#x43B;&#x430;&#x433;&#x438;&#x43D;&#x43E;&#x432; &#x434;&#x43B;&#x44F; &#x432;&#x435;&#x431;-&#x43C;&#x430;&#x441;&#x442;&#x435;&#x440;&#x430;</title>
+<link>http://heckfy.3eu.ru/?p=24</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-05-05T06:20:12Z</dc:date>
+<dc:subject>FF Firefoc plugin tutorial web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/Firefoc" />
+    <rdf:li resource="http://del.icio.us/tag/FF" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/portalserver/reference/techart/jsr168/">
+<title>Introducing Java Portlet Specifications: JSR 168 and JSR 286</title>
+<link>http://developers.sun.com/portalserver/reference/techart/jsr168/</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-04-24T07:59:21Z</dc:date>
+<dc:subject>article java jee portlet programming sun tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/jee" />
+    <rdf:li resource="http://del.icio.us/tag/sun" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/portlet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

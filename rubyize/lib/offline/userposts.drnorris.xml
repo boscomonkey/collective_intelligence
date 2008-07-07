@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/drnorris">
+<title>del.icio.us/drnorris</title>
+<link>http://del.icio.us/drnorris</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.vgcats.com/" />
+  <rdf:li rdf:resource="http://www.newsweek.com/id/144399/page/1" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/1999/02/11/ecnthink11.xml" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/04/30/sm_babies03.xml&#x26;page=1" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?view=DETAILS&#x26;grid=&#x26;xml=/earth/2008/07/01/scibrain101.xml" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html" />
+  <rdf:li rdf:resource="http://greenbuildingelements.com/2008/06/27/community-solar-power/" />
+  <rdf:li rdf:resource="http://online.wsj.com/article/SB121450609076407973.html?mod=hpp_us_inside_today" />
+  <rdf:li rdf:resource="http://www.dynamism.com/" />
+  <rdf:li rdf:resource="http://www.sciam.com/article.cfm?id=the-self-organizing-quantum-universe&#x26;page=2" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html" />
+  <rdf:li rdf:resource="http://www.sciam.com/article.cfm?id=can-a-robot-an-insect-or" />
+  <rdf:li rdf:resource="http://uwnews.org/article.asp?articleID=42563" />
+  <rdf:li rdf:resource="http://www.neave.com/television/" />
+  <rdf:li rdf:resource="http://www.advrider.com/forums/showthread.php?t=135295" />
+  <rdf:li rdf:resource="http://www.advrider.com/forums/showthread.php?t=227340" />
+  <rdf:li rdf:resource="http://totalruckus.com/Mobile/thread.php?topic_id=12143&#x26;&#x26;start=1390" />
+  <rdf:li rdf:resource="http://discovermagazine.com/1997/jul/aheadfornumbers1179/" />
+  <rdf:li rdf:resource="http://discovermagazine.com/2008/jul/16-is-the-universe-actually-made-of-math/article_view?b_start:int=0&#x26;-C=" />
+  <rdf:li rdf:resource="http://www.nytimes.com/library/national/science/011800sci-space-nanobes.html" />
+  <rdf:li rdf:resource="http://www.time.com/time/magazine/article/0,9171,1812048,00.html#=rss" />
+  <rdf:li rdf:resource="http://www.warp9racing.com/" />
+  <rdf:li rdf:resource="http://www.destructoid.com/hey-ashly-whatcha-playing-episode-three-89989.phtml" />
+  <rdf:li rdf:resource="http://www.thumpertalk.com/forum/archive/index.php/t-70968.html" />
+  <rdf:li rdf:resource="http://www.scrapetorrent.com/Results/results.php?search=%s&#x26;sort=seed" />
+  <rdf:li rdf:resource="http://pix.jj.am/gallery/v/Heterochromia_NN/" />
+  <rdf:li rdf:resource="http://www.collectedcurios.com/" />
+  <rdf:li rdf:resource="http://www.wirah.com/en/events" />
+  <rdf:li rdf:resource="http://www.ted.com/index.php/talks/view/id/129" />
+  <rdf:li rdf:resource="http://deniska.dcemu.co.uk/mapthis-0-5-20-with-holux-support-for-slim-psps-79825.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-06T06:57:28Z</dc:date>
+<dc:subject>articles entropy physics science time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vgcats.com/">
+<title>VG Cats - Updated Mondays</title>
+<link>http://www.vgcats.com/</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-04T06:59:55Z</dc:date>
+<dc:subject>webcomic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webcomic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newsweek.com/id/144399/page/1">
+<title>The Scientists Who Revived Magic Mushroom Research | Newsweek Health | Newsweek.com</title>
+<link>http://www.newsweek.com/id/144399/page/1</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-03T17:13:08Z</dc:date>
+<dc:subject>drugs mushrooms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drugs" />
+    <rdf:li resource="http://del.icio.us/tag/mushrooms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/1999/02/11/ecnthink11.xml">
+<title>I am coherent, therefore I think - Telegraph</title>
+<link>http://www.telegraph.co.uk/digitallife/main.jhtml?xml=/connected/1999/02/11/ecnthink11.xml</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-01T20:34:31Z</dc:date>
+<dc:subject>brain consciousness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/consciousness" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/04/30/sm_babies03.xml&#x26;page=1">
+<title>Harvard's baby brain research lab - Telegraph</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/04/30/sm_babies03.xml&#x26;page=1</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-01T20:23:10Z</dc:date>
+<dc:subject>articles baby learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/baby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?view=DETAILS&#x26;grid=&#x26;xml=/earth/2008/07/01/scibrain101.xml">
+<title>Scientist identify brain 'core' that could reveal secrets of thought - Telegraph</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?view=DETAILS&#x26;grid=&#x26;xml=/earth/2008/07/01/scibrain101.xml</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-01T19:19:26Z</dc:date>
+<dc:subject>brain consciousness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/consciousness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html">
+<title>The 11 Best Foods You Arent Eating - Well - Tara Parker-Pope - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-07-01T02:11:37Z</dc:date>
+<dc:subject>cooking food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenbuildingelements.com/2008/06/27/community-solar-power/">
+<title>Community Solar Power : Green Building Elements</title>
+<link>http://greenbuildingelements.com/2008/06/27/community-solar-power/</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-30T14:13:31Z</dc:date>
+<dc:subject>green solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/green" />
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://online.wsj.com/article/SB121450609076407973.html?mod=hpp_us_inside_today">
+<title>Science Journal - WSJ.com</title>
+<link>http://online.wsj.com/article/SB121450609076407973.html?mod=hpp_us_inside_today</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-30T14:13:31Z</dc:date>
+<dc:subject>brain consciousness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/consciousness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dynamism.com/">
+<title>Dynamism</title>
+<link>http://www.dynamism.com/</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-27T15:02:55Z</dc:date>
+<dc:subject>import laptop notebook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/notebook" />
+    <rdf:li resource="http://del.icio.us/tag/import" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciam.com/article.cfm?id=the-self-organizing-quantum-universe&#x26;page=2">
+<title>Using Causality to Solve the Puzzle of Quantum Spacetime: Scientific American</title>
+<link>http://www.sciam.com/article.cfm?id=the-self-organizing-quantum-universe&#x26;page=2</link>
+<description>This stuff is so much fun.</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-27T00:18:04Z</dc:date>
+<dc:subject>philosophy physics spacetime theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spacetime" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html">
+<title>14 Simple Ways to Super Charge Your Brain</title>
+<link>http://www.dumblittleman.com/2008/06/14-simple-ways-to-super-charge-your.html</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-26T21:57:08Z</dc:date>
+<dc:subject>brain lifehacks self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciam.com/article.cfm?id=can-a-robot-an-insect-or">
+<title>Can a Robot, an Insect or God Be Aware?: Scientific American</title>
+<link>http://www.sciam.com/article.cfm?id=can-a-robot-an-insect-or</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-26T21:56:30Z</dc:date>
+<dc:subject>brain consciousness philosophy robots</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/consciousness" />
+    <rdf:li resource="http://del.icio.us/tag/robots" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uwnews.org/article.asp?articleID=42563">
+<title>uwnews.org | Online service lets blind surf the Internet from any computer, anywhere | University of Washington News and Information</title>
+<link>http://uwnews.org/article.asp?articleID=42563</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-26T21:55:42Z</dc:date>
+<dc:subject>accessibility blind screenreader</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blind" />
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/screenreader" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neave.com/television/">
+<title>Neave Television ...telly without context</title>
+<link>http://www.neave.com/television/</link>
+<description>This is tremendously entertaining.</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-23T03:53:15Z</dc:date>
+<dc:subject>amuzing television</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/amuzing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.advrider.com/forums/showthread.php?t=135295">
+<title>the DR650 thread - ADVrider</title>
+<link>http://www.advrider.com/forums/showthread.php?t=135295</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-22T05:53:50Z</dc:date>
+<dc:subject>dr650 motorcycle thread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dr650" />
+    <rdf:li resource="http://del.icio.us/tag/motorcycle" />
+    <rdf:li resource="http://del.icio.us/tag/thread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.advrider.com/forums/showthread.php?t=227340">
+<title>Drz400 Thread - ADVrider</title>
+<link>http://www.advrider.com/forums/showthread.php?t=227340</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-22T05:53:16Z</dc:date>
+<dc:subject>drz400 motorcycle threads</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drz400" />
+    <rdf:li resource="http://del.icio.us/tag/motorcycle" />
+    <rdf:li resource="http://del.icio.us/tag/threads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://totalruckus.com/Mobile/thread.php?topic_id=12143&#x26;&#x26;start=1390">
+<title>The Adventures of Wan - Rucking Across the US! [Part 1]</title>
+<link>http://totalruckus.com/Mobile/thread.php?topic_id=12143&#x26;&#x26;start=1390</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-22T05:38:29Z</dc:date>
+<dc:subject>adventures motorcycle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motorcycle" />
+    <rdf:li resource="http://del.icio.us/tag/adventures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://discovermagazine.com/1997/jul/aheadfornumbers1179/">
+<title>A Head for Numbers | Animal Intelligence | DISCOVER Magazine</title>
+<link>http://discovermagazine.com/1997/jul/aheadfornumbers1179/</link>
+<description>On the way we conceptualize numbers.</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-20T15:28:38Z</dc:date>
+<dc:subject>intelligence math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/intelligence" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://discovermagazine.com/2008/jul/16-is-the-universe-actually-made-of-math/article_view?b_start:int=0&#x26;-C=">
+<title>Is the Universe Actually Made of Math? | Math | DISCOVER Magazine</title>
+<link>http://discovermagazine.com/2008/jul/16-is-the-universe-actually-made-of-math/article_view?b_start:int=0&#x26;-C=</link>
+<description>This is a great article.</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-17T19:34:40Z</dc:date>
+<dc:subject>cosmology mathematics philosophy physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/cosmology" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/library/national/science/011800sci-space-nanobes.html">
+<title>Scientists Find Smallest Form of Life, if It Lives</title>
+<link>http://www.nytimes.com/library/national/science/011800sci-space-nanobes.html</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-16T21:07:56Z</dc:date>
+<dc:subject>biology life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.time.com/time/magazine/article/0,9171,1812048,00.html#=rss">
+<title>Living with 100 things or fewer.</title>
+<link>http://www.time.com/time/magazine/article/0,9171,1812048,00.html#=rss</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-14T19:41:43Z</dc:date>
+<dc:subject>alternative_living clutter lifehacks simple zen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clutter" />
+    <rdf:li resource="http://del.icio.us/tag/zen" />
+    <rdf:li resource="http://del.icio.us/tag/alternative_living" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/simple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.warp9racing.com/">
+<title>Warp 9 Racing</title>
+<link>http://www.warp9racing.com/</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-13T14:46:15Z</dc:date>
+<dc:subject>motorcycle sm wheels</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motorcycle" />
+    <rdf:li resource="http://del.icio.us/tag/wheels" />
+    <rdf:li resource="http://del.icio.us/tag/sm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.destructoid.com/hey-ashly-whatcha-playing-episode-three-89989.phtml">
+<title>(Digg Cached for the mercy of our server) - Destructoid, the hardcore gamer community. || Gamer culture, Videogame reviews, News, Hints, Cheats, and Codes for PS3, Wii, Xbox 360, PC, PlayStation 2, GameCube, PSP, DS, GBA, Retro &#x26; more</title>
+<link>http://www.destructoid.com/hey-ashly-whatcha-playing-episode-three-89989.phtml</link>
+<description>I don't know why; I thought this was funny.  I was on digg, so you probably saw it anyway.</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-11T03:26:19Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thumpertalk.com/forum/archive/index.php/t-70968.html">
+<title>Valve shim replacement the EZ way - ThumperTalk</title>
+<link>http://www.thumpertalk.com/forum/archive/index.php/t-70968.html</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-06-10T19:01:00Z</dc:date>
+<dc:subject>drz400 maintenance motorcycle valve</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motorcycle" />
+    <rdf:li resource="http://del.icio.us/tag/valve" />
+    <rdf:li resource="http://del.icio.us/tag/maintenance" />
+    <rdf:li resource="http://del.icio.us/tag/drz400" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scrapetorrent.com/Results/results.php?search=%s&#x26;sort=seed">
+<title>scrapetorrent.com</title>
+<link>http://www.scrapetorrent.com/Results/results.php?search=%s&#x26;sort=seed</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-26T02:27:03Z</dc:date>
+<dc:subject>search shortcut:s torrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shortcut:s" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pix.jj.am/gallery/v/Heterochromia_NN/">
+<title>Heterochromia_NN</title>
+<link>http://pix.jj.am/gallery/v/Heterochromia_NN/</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-21T06:37:14Z</dc:date>
+<dc:subject>ecchi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecchi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collectedcurios.com/">
+<title>Jolly Jack's Collected Curios</title>
+<link>http://www.collectedcurios.com/</link>
+<description>I like &#x26;quot;Sequential Art&#x26;quot;</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-21T06:36:57Z</dc:date>
+<dc:subject>webcomic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webcomic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wirah.com/en/events">
+<title>Events | Wirah</title>
+<link>http://www.wirah.com/en/events</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-20T18:01:12Z</dc:date>
+<dc:subject>activism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/index.php/talks/view/id/129">
+<title>TED | Talks | Blaise Aguera y Arcas: Jaw-dropping Photosynth demo (video)</title>
+<link>http://www.ted.com/index.php/talks/view/id/129</link>
+<description></description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-20T02:48:52Z</dc:date>
+<dc:subject>technology ted visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://deniska.dcemu.co.uk/mapthis-0-5-20-with-holux-support-for-slim-psps-79825.html">
+<title>Deniska`s PSP Development Site :: The Home of Map This the Map and GPS Software for the PSP</title>
+<link>http://deniska.dcemu.co.uk/mapthis-0-5-20-with-holux-support-for-slim-psps-79825.html</link>
+<description>gps, google maps offline</description>
+<dc:creator>drnorris</dc:creator>
+<dc:date>2008-05-19T18:08:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/wfifi">
+<title>del.icio.us/wfifi</title>
+<link>http://del.icio.us/wfifi</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.openqa.org/" />
+  <rdf:li rdf:resource="http://www.opensourcetesting.org/" />
+  <rdf:li rdf:resource="http://textbooktorrents.com/" />
+  <rdf:li rdf:resource="http://www.ifanshu.com/" />
+  <rdf:li rdf:resource="http://www.coloribus.com/" />
+  <rdf:li rdf:resource="http://www.mysqlperformanceblog.com/tools/" />
+  <rdf:li rdf:resource="http://www.lessthandot.com/" />
+  <rdf:li rdf:resource="http://www.iam.unibe.ch/~scg/OORP/" />
+  <rdf:li rdf:resource="http://www.lexicon.net/sjmachin/xlrd.htm" />
+  <rdf:li rdf:resource="http://www.rubyflow.com/" />
+  <rdf:li rdf:resource="http://djangoplugables.com/" />
+  <rdf:li rdf:resource="http://arcade.itch.com/games/random-defense/" />
+  <rdf:li rdf:resource="http://code.google.com/p/waf/" />
+  <rdf:li rdf:resource="http://www.photoshoproadmap.com/Photoshop-blog/2008/04/01/100-wonderful-photo-effects-photoshop-tutorials/" />
+  <rdf:li rdf:resource="http://anonymouse.org/" />
+  <rdf:li rdf:resource="http://agilejava.blogbus.com/" />
+  <rdf:li rdf:resource="http://4u.straightline.jp/" />
+  <rdf:li rdf:resource="http://www.javapassion.com/webservices/" />
+  <rdf:li rdf:resource="http://www.popcrunch.com/international-beauty-30-women/" />
+  <rdf:li rdf:resource="http://reference.sitepoint.com/html" />
+  <rdf:li rdf:resource="http://taffydb.com/index.cfm" />
+  <rdf:li rdf:resource="http://coffeeghost.net/pybat/python_cheatsheet.png" />
+  <rdf:li rdf:resource="http://abduzeedo.com/20-beautiful-hdr-pictures?=main" />
+  <rdf:li rdf:resource="http://www.3dtotal.com/ps100/pstut100.html" />
+  <rdf:li rdf:resource="http://www.haokanbu.com/" />
+  <rdf:li rdf:resource="http://blogs.sun.com/wzhang/" />
+  <rdf:li rdf:resource="http://www.ubuntux.org/ubuntu-search/" />
+  <rdf:li rdf:resource="http://www.readcode.org/" />
+  <rdf:li rdf:resource="http://www.noupe.com/jquery/50-amazing-jquery-examples-part1.html" />
+  <rdf:li rdf:resource="http://www.yycaf.net/bbs/index.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-07-06T07:36:44Z</dc:date>
+<dc:subject>education java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openqa.org/">
+<title>OpenQA: Home</title>
+<link>http://www.openqa.org/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-07-04T06:58:54Z</dc:date>
+<dc:subject>opensource qa testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/qa" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensourcetesting.org/">
+<title>Open source software testing tools</title>
+<link>http://www.opensourcetesting.org/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-07-04T06:45:50Z</dc:date>
+<dc:subject>opensource testing tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://textbooktorrents.com/">
+<title>Textbook Torrents : Download Textbooks For Free</title>
+<link>http://textbooktorrents.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-07-04T06:12:36Z</dc:date>
+<dc:subject>bittorrent book education free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifanshu.com/">
+<title>&#x77EE;&#x756A;&#x85AF; - &#x7231;&#x7FFB;&#x4E66; - &#x5728;&#x7EBF;&#x9605;&#x8BFB;</title>
+<link>http://www.ifanshu.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-06-23T08:04:41Z</dc:date>
+<dc:subject>online read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coloribus.com/">
+<title>Coloribus.com - Advertising Archive and mysterious coincidences in commercials</title>
+<link>http://www.coloribus.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-06-22T05:46:55Z</dc:date>
+<dc:subject>art blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mysqlperformanceblog.com/tools/">
+<title>MySQL Performance Tools</title>
+<link>http://www.mysqlperformanceblog.com/tools/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-06-02T03:33:42Z</dc:date>
+<dc:subject>mysql technology tips tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lessthandot.com/">
+<title>LessThanDot (LTD) is the creation of an experienced group of IT professionals</title>
+<link>http://www.lessthandot.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-06-02T03:19:58Z</dc:date>
+<dc:subject>blog community development forum technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iam.unibe.ch/~scg/OORP/">
+<title>Object-Oriented Reengineering Patterns</title>
+<link>http://www.iam.unibe.ch/~scg/OORP/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-06-02T03:07:09Z</dc:date>
+<dc:subject>Free Programming book patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lexicon.net/sjmachin/xlrd.htm">
+<title>Lingfo - xlrd extension</title>
+<link>http://www.lexicon.net/sjmachin/xlrd.htm</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-10T17:07:14Z</dc:date>
+<dc:subject>excel library python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rubyflow.com/">
+<title>RubyFlow</title>
+<link>http://www.rubyflow.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-10T17:01:17Z</dc:date>
+<dc:subject>blog computer ruby tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://djangoplugables.com/">
+<title>Django Pluggables &#x2022; Welcome!</title>
+<link>http://djangoplugables.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-10T06:29:59Z</dc:date>
+<dc:subject>Application django python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/Application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arcade.itch.com/games/random-defense/">
+<title>Random Defense - the game @ itch.com</title>
+<link>http://arcade.itch.com/games/random-defense/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-10T05:45:19Z</dc:date>
+<dc:subject>flash games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/waf/">
+<title>waf - Google Code</title>
+<link>http://code.google.com/p/waf/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-06T06:26:56Z</dc:date>
+<dc:subject>OpenSource development python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshoproadmap.com/Photoshop-blog/2008/04/01/100-wonderful-photo-effects-photoshop-tutorials/">
+<title>100 wonderful photo effects Photoshop tutorials</title>
+<link>http://www.photoshoproadmap.com/Photoshop-blog/2008/04/01/100-wonderful-photo-effects-photoshop-tutorials/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-04-04T13:03:46Z</dc:date>
+<dc:subject>Photoshop art design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anonymouse.org/">
+<title>Anonymouse.org</title>
+<link>http://anonymouse.org/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-31T08:47:19Z</dc:date>
+<dc:subject>Proxy anonymous web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anonymous" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/Proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agilejava.blogbus.com/">
+<title>Agile - &#x535A;&#x5BA2;&#x5927;&#x5DF4;</title>
+<link>http://agilejava.blogbus.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-29T06:22:44Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://4u.straightline.jp/">
+<title>4U</title>
+<link>http://4u.straightline.jp/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-27T05:16:55Z</dc:date>
+<dc:subject>art blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javapassion.com/webservices/">
+<title>Web Services and SOA Programming Hands-on Online Training Course by Sang Shin</title>
+<link>http://www.javapassion.com/webservices/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-13T01:32:31Z</dc:date>
+<dc:subject>Tutorial java webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popcrunch.com/international-beauty-30-women/">
+<title> International Beauty - 30 Countries, 30 Women</title>
+<link>http://www.popcrunch.com/international-beauty-30-women/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-12T05:05:13Z</dc:date>
+<dc:subject>fun images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reference.sitepoint.com/html">
+<title>HTML Reference (beta)</title>
+<link>http://reference.sitepoint.com/html</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-12T04:58:55Z</dc:date>
+<dc:subject>html reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://taffydb.com/index.cfm">
+<title>Taffy DB : A JavaScript database for your browser</title>
+<link>http://taffydb.com/index.cfm</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-12T04:53:02Z</dc:date>
+<dc:subject>AJAX database</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coffeeghost.net/pybat/python_cheatsheet.png">
+<title>python_cheatsheet.png (PNG Image, 773x938 pixels)</title>
+<link>http://coffeeghost.net/pybat/python_cheatsheet.png</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-12T04:52:46Z</dc:date>
+<dc:subject>Programming cheatsheet python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/20-beautiful-hdr-pictures?=main">
+<title>20 Beautiful HDR Pictures | Abduzeedo by design</title>
+<link>http://abduzeedo.com/20-beautiful-hdr-pictures?=main</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-01T05:09:01Z</dc:date>
+<dc:subject>cool photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.3dtotal.com/ps100/pstut100.html">
+<title>100 Photoshop Tutorials for Creating Beautiful Art</title>
+<link>http://www.3dtotal.com/ps100/pstut100.html</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-03-01T04:46:53Z</dc:date>
+<dc:subject>art blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.haokanbu.com/">
+<title>&#x9996;&#x9875; - &#x597D;&#x770B;&#x7C3F; - &#x66F4;&#x6613;&#x7528;&#x7684;&#x56FE;&#x7247;&#x535A;&#x5BA2;</title>
+<link>http://www.haokanbu.com/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-29T07:26:57Z</dc:date>
+<dc:subject>blog photo web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/wzhang/">
+<title>&#x7F51;&#x515C;&#x513F;</title>
+<link>http://blogs.sun.com/wzhang/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-25T01:19:06Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubuntux.org/ubuntu-search/">
+<title>Ubuntu search engine</title>
+<link>http://www.ubuntux.org/ubuntu-search/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-22T05:18:15Z</dc:date>
+<dc:subject>linux search ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readcode.org/">
+<title>Readcode: Read code from everywhere. Share your comments with everyone!</title>
+<link>http://www.readcode.org/</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-22T04:26:22Z</dc:date>
+<dc:subject>Programming code linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/jquery/50-amazing-jquery-examples-part1.html">
+<title>50+ Amazing Jquery Examples- Part1</title>
+<link>http://www.noupe.com/jquery/50-amazing-jquery-examples-part1.html</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-14T09:36:48Z</dc:date>
+<dc:subject>AJAX design jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yycaf.net/bbs/index.php">
+<title>YYcaF&#x97E9;&#x5267;&#x65E5;&#x5267;</title>
+<link>http://www.yycaf.net/bbs/index.php</link>
+<description></description>
+<dc:creator>wfifi</dc:creator>
+<dc:date>2008-02-14T04:58:54Z</dc:date>
+<dc:subject>download forum movie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

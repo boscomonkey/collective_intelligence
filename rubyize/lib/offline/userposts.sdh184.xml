@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sdh184">
+<title>del.icio.us/sdh184</title>
+<link>http://del.icio.us/sdh184</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/" />
+  <rdf:li rdf:resource="http://www.noitulove.ch/2008/07/03/learning-r-part-i/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/" />
+  <rdf:li rdf:resource="http://zenhabits.net/" />
+  <rdf:li rdf:resource="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" />
+  <rdf:li rdf:resource="http://cplus.about.com/gi/dynamic/offsite.htm?zi=1/XJ/Ya&#x26;sdn=cplus&#x26;zu=http%3A%2F%2Fwww.wlap.org%2Fcern%2Flectures%2Ftech%2Fc%2F" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html" />
+  <rdf:li rdf:resource="http://www.simplehelp.net/windows/how-to-install-and-run-kde-programs-in-windows/" />
+  <rdf:li rdf:resource="http://www.technewsworld.com/rsstory/63527.html" />
+  <rdf:li rdf:resource="http://www.comp.nus.edu.sg/~damithch/guide/" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=-3733345136856180693&#x26;q=Designing+API&#x26;ei=ADBbSNSKGaLQ4ALW89T5Dg" />
+  <rdf:li rdf:resource="http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/" />
+  <rdf:li rdf:resource="http://scpd.stanford.edu/scpd/students/Dam_ui/pages/ArchivedVideoList56K.asp?Include=aha" />
+  <rdf:li rdf:resource="http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678" />
+  <rdf:li rdf:resource="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=eLbMPyrw4rw&#x26;feature=PlayList&#x26;p=6EE0CD02910E57B8&#x26;index=0" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html" />
+  <rdf:li rdf:resource="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/video-lecture-from-nand-to-tetris-in-12-steps/" />
+  <rdf:li rdf:resource="http://www.chc-3.com/pub/beautifulsoftware.htm" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles" />
+  <rdf:li rdf:resource="http://www.101cookbooks.com/archives/banana-chip-cookies-recipe.html" />
+  <rdf:li rdf:resource="http://www2.torrelay.com/fresh/web.pl" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10" />
+  <rdf:li rdf:resource="http://www.gamesforthebrain.com/" />
+  <rdf:li rdf:resource="http://swiss.csail.mit.edu/classes/symbolic/spring08/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-06T09:21:04Z</dc:date>
+<dc:subject>crack hack hacking password security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-06T09:14:04Z</dc:date>
+<dc:subject>book ebook free java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/">
+<title>Musings of an Anonymous Geek &#xBB; Blog Archive &#xBB; This is how I want all project web sites to look&#x2026;</title>
+<link>http://www.protocolostomy.com/2008/07/03/this-is-how-i-want-all-project-web-sites-to-look/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-04T16:55:40Z</dc:date>
+<dc:subject>design development programming regular</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/regular" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noitulove.ch/2008/07/03/learning-r-part-i/">
+<title>No-it-u-love - &#xBB; Learning R - Part I</title>
+<link>http://www.noitulove.ch/2008/07/03/learning-r-part-i/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-04T16:50:27Z</dc:date>
+<dc:subject>Learning programming statistics tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-03T22:55:17Z</dc:date>
+<dc:subject>hacks howto lifehack productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/">
+<title>Top 20 Motivation Hacks - An Overview | Zen Habits</title>
+<link>http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-03T19:56:37Z</dc:date>
+<dc:subject>gtd inspiration lifehacks motivation productivity tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/">
+<title>Zen Habits | Simple Productivity</title>
+<link>http://zenhabits.net/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-03T19:20:59Z</dc:date>
+<dc:subject>gtd lifehacks motivation productivity zen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/zen" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
+<title>Google C++ Style Guide</title>
+<link>http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-03T19:11:18Z</dc:date>
+<dc:subject>c++ code development google programming style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cplus.about.com/gi/dynamic/offsite.htm?zi=1/XJ/Ya&#x26;sdn=cplus&#x26;zu=http%3A%2F%2Fwww.wlap.org%2Fcern%2Flectures%2Ftech%2Fc%2F">
+<title>About.com: http://www.wlap.org/cern/lectures/tech/c/</title>
+<link>http://cplus.about.com/gi/dynamic/offsite.htm?zi=1/XJ/Ya&#x26;sdn=cplus&#x26;zu=http%3A%2F%2Fwww.wlap.org%2Fcern%2Flectures%2Ftech%2Fc%2F</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-03T19:10:28Z</dc:date>
+<dc:subject>c++ video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html">
+<title>How To Lose Belly Fat - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-02T21:15:21Z</dc:date>
+<dc:subject>diet exercise health training weightloss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/weightloss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplehelp.net/windows/how-to-install-and-run-kde-programs-in-windows/">
+<title>How to install and run KDE programs in Windows - Simple Help</title>
+<link>http://www.simplehelp.net/windows/how-to-install-and-run-kde-programs-in-windows/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-07-02T21:15:02Z</dc:date>
+<dc:subject>howto install kde linux windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technewsworld.com/rsstory/63527.html">
+<title>Technology News: Applications: 10 Great Software Programs You Can Get Gratis</title>
+<link>http://www.technewsworld.com/rsstory/63527.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-30T17:49:21Z</dc:date>
+<dc:subject>free freeware software tools utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.nus.edu.sg/~damithch/guide/">
+<title>A Student's Guide to Software Engineering Projects - Free online guide for Students</title>
+<link>http://www.comp.nus.edu.sg/~damithch/guide/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-27T20:19:42Z</dc:date>
+<dc:subject>books development engineering programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=-3733345136856180693&#x26;q=Designing+API&#x26;ei=ADBbSNSKGaLQ4ALW89T5Dg">
+<title>How To Design A Good API and Why it Matters</title>
+<link>http://video.google.com/videoplay?docid=-3733345136856180693&#x26;q=Designing+API&#x26;ei=ADBbSNSKGaLQ4ALW89T5Dg</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-24T22:44:03Z</dc:date>
+<dc:subject>api design google java programming video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/">
+<title>The true raconteur and I ain&#x2019;t talking about Feynman! &#xAB; Talking with a Lisp</title>
+<link>http://z0ltan.wordpress.com/2008/06/24/the-true-raconteur-and-i-aint-talking-about-feynman/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-24T22:41:00Z</dc:date>
+<dc:subject>api design programming video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scpd.stanford.edu/scpd/students/Dam_ui/pages/ArchivedVideoList56K.asp?Include=aha">
+<title>SCPD Video Links</title>
+<link>http://scpd.stanford.edu/scpd/students/Dam_ui/pages/ArchivedVideoList56K.asp?Include=aha</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-24T22:12:52Z</dc:date>
+<dc:subject>Stanford knuth lectures programming video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/knuth" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+    <rdf:li resource="http://del.icio.us/tag/Stanford" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678">
+<title>14 vital Internet tools</title>
+<link>http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-23T22:33:27Z</dc:date>
+<dc:subject>free freeware internet utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm">
+<title>Sin &#x26; Cos: The Programmer's Pals!</title>
+<link>http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-23T22:29:09Z</dc:date>
+<dc:subject>algorithms games graphics programming sin trigonometry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/trigonometry" />
+    <rdf:li resource="http://del.icio.us/tag/sin" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=eLbMPyrw4rw&#x26;feature=PlayList&#x26;p=6EE0CD02910E57B8&#x26;index=0">
+<title>YouTube - Lecture - 1 Introduction</title>
+<link>http://www.youtube.com/watch?v=eLbMPyrw4rw&#x26;feature=PlayList&#x26;p=6EE0CD02910E57B8&#x26;index=0</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-23T19:21:02Z</dc:date>
+<dc:subject>AI algorithms sorting video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/sorting" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-23T19:06:51Z</dc:date>
+<dc:subject>computer education learning lectures programming video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html">
+<title>Animated Sorting Algorithm Demo</title>
+<link>http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-22T22:01:09Z</dc:date>
+<dc:subject>algorithms programming sort sorting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/sorting" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/sort" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/">
+<title>The Best Developer Cheat Sheets Around | Webmasters by Design</title>
+<link>http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-21T12:29:07Z</dc:date>
+<dc:subject>development reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/video-lecture-from-nand-to-tetris-in-12-steps/">
+<title>Video Lecture: From Nand to Tetris in 12 Steps - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/video-lecture-from-nand-to-tetris-in-12-steps/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-19T18:19:12Z</dc:date>
+<dc:subject>NAND computerscience computing video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/computerscience" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/NAND" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chc-3.com/pub/beautifulsoftware.htm">
+<title>The Relationship Between Software Aesthetics and Quality</title>
+<link>http://www.chc-3.com/pub/beautifulsoftware.htm</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-19T17:44:43Z</dc:date>
+<dc:subject>design programming software zen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/zen" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles">
+<title>LinkMingle.com &#xBB; List of Free Online Python Books</title>
+<link>http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-19T09:10:20Z</dc:date>
+<dc:subject>Code Python books oreilly programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oreilly" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.101cookbooks.com/archives/banana-chip-cookies-recipe.html">
+<title>Banana Chip Cookies Recipe - 101 Cookbooks</title>
+<link>http://www.101cookbooks.com/archives/banana-chip-cookies-recipe.html</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-16T18:54:20Z</dc:date>
+<dc:subject>L recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/L" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.torrelay.com/fresh/web.pl">
+<title>Torrent Relay - Download torrents online (web client)</title>
+<link>http://www2.torrelay.com/fresh/web.pl</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-16T18:44:05Z</dc:date>
+<dc:subject>bittorrent p2p torrent torrents</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/torrents" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/">
+<title>40+ Most Wanted Wordpress Tricks and Hacks</title>
+<link>http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-16T18:42:19Z</dc:date>
+<dc:subject>blog howto tips wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10">
+<title>Python: 50 modules for all needs</title>
+<link>http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-16T18:25:48Z</dc:date>
+<dc:subject>Python development library modules programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/modules" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesforthebrain.com/">
+<title>Games for the Brain</title>
+<link>http://www.gamesforthebrain.com/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-15T19:06:08Z</dc:date>
+<dc:subject>brain game games puzzle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzle" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swiss.csail.mit.edu/classes/symbolic/spring08/">
+<title>Adventures in Advanced Symbolic Programming</title>
+<link>http://swiss.csail.mit.edu/classes/symbolic/spring08/</link>
+<description></description>
+<dc:creator>sdh184</dc:creator>
+<dc:date>2008-06-14T11:02:22Z</dc:date>
+<dc:subject>course lisp mit programming scheme sicp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/sicp" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

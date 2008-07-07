@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/zerosifr">
+<title>del.icio.us/zerosifr</title>
+<link>http://del.icio.us/zerosifr</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html" />
+  <rdf:li rdf:resource="http://www.truecrypt.org/docs/?s=hidden-operating-system" />
+  <rdf:li rdf:resource="http://www.noob.us/humor/patrick-stewart-is-a-pervert/" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Trigger-Green-Traffic-Lights" />
+  <rdf:li rdf:resource="http://www.engadget.com/2008/06/30/tesla-announces-the-model-s-a-60k-all-electric-five-passenge/" />
+  <rdf:li rdf:resource="http://www.chicagotribune.com/business/chi-mxa0629unojun29,0,111563.story" />
+  <rdf:li rdf:resource="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/" />
+  <rdf:li rdf:resource="http://flashfabrica.com/f_learning/brain/brain.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/wiredscience/2008/06/gene-editing-co.html" />
+  <rdf:li rdf:resource="http://www.carectomy.com/index.php/Train/All-Aboard-the-Train-that-Never-Stops" />
+  <rdf:li rdf:resource="http://www.subversity.net/reversing/hacking-minesweeper" />
+  <rdf:li rdf:resource="http://www.philipstraub.com/Superman_metropolis.htm" />
+  <rdf:li rdf:resource="http://www.thewebsiteisdown.com/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.toxel.com/inspiration/2008/06/28/24-unforgettable-advertisements/" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/4097258.stm" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://genomics.senescence.info/species/query.php?show=5&#x26;sort=4&#x26;page=1" />
+  <rdf:li rdf:resource="http://img.photobucket.com/albums/v256/medusasowl/weirdstuff/babydragonba7.jpg" />
+  <rdf:li rdf:resource="http://i29.tinypic.com/oielo8.jpg" />
+  <rdf:li rdf:resource="http://www.metacafe.com/watch/1231230/christian_the_lion/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=qrrXB4JmSok" />
+  <rdf:li rdf:resource="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html" />
+  <rdf:li rdf:resource="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html" />
+  <rdf:li rdf:resource="http://xkcd.com/441/" />
+  <rdf:li rdf:resource="http://featuresblogs.chicagotribune.com/headcandy/2008/06/a-modern-day-ro.html" />
+  <rdf:li rdf:resource="http://www.scienceblog.com/cms/feeling-powerless-leads-expensive-purchases-16762.html" />
+  <rdf:li rdf:resource="http://www.subtire.com/i.php?n=wtg.jpg" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2194232/" />
+  <rdf:li rdf:resource="http://www-jpc.physics.ox.ac.uk/getjpc.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-06T11:55:09Z</dc:date>
+<dc:subject>pic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html">
+<title>If Your Last Girlfriend Had an IMDb Page | Cracked.com</title>
+<link>http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-06T11:34:27Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.truecrypt.org/docs/?s=hidden-operating-system">
+<title>TrueCrypt - Free Open-Source On-The-Fly Disk Encryption Software for Windows Vista/XP, Mac OS X and Linux - Documentation</title>
+<link>http://www.truecrypt.org/docs/?s=hidden-operating-system</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-05T05:35:43Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noob.us/humor/patrick-stewart-is-a-pervert/">
+<title>Patrick Stewart is a pervert</title>
+<link>http://www.noob.us/humor/patrick-stewart-is-a-pervert/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-05T05:32:28Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Trigger-Green-Traffic-Lights">
+<title>How to Trigger Green Traffic Lights - wikiHow</title>
+<link>http://www.wikihow.com/Trigger-Green-Traffic-Lights</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:43:34Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2008/06/30/tesla-announces-the-model-s-a-60k-all-electric-five-passenge/">
+<title>Tesla announces the Model S: a $60k, all-electric, five passenger sports sedan - Engadget</title>
+<link>http://www.engadget.com/2008/06/30/tesla-announces-the-model-s-a-60k-all-electric-five-passenge/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:38:40Z</dc:date>
+<dc:subject>environment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chicagotribune.com/business/chi-mxa0629unojun29,0,111563.story">
+<title>Uno and only -- chicagotribune.com</title>
+<link>http://www.chicagotribune.com/business/chi-mxa0629unojun29,0,111563.story</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:36:32Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/">
+<title>Amazing 3D Art from the Best Street Artists | WebUrbanist</title>
+<link>http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:32:59Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flashfabrica.com/f_learning/brain/brain.html">
+<title>&#x8133;&#x5E74;&#x9F62;&#x30C6;&#x30B9;&#x30C8;01 &#x8133;&#x30C8;&#x30EC;&#x77AC;&#x9593;&#x8A18;&#x61B6;</title>
+<link>http://flashfabrica.com/f_learning/brain/brain.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:18:57Z</dc:date>
+<dc:subject>flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/wiredscience/2008/06/gene-editing-co.html">
+<title>Gene Editing Could Make Anyone Immune to AIDS | Wired Science from Wired.com</title>
+<link>http://blog.wired.com/wiredscience/2008/06/gene-editing-co.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:11:39Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.carectomy.com/index.php/Train/All-Aboard-the-Train-that-Never-Stops">
+<title>Carectomy.com: Removing Cars from People - All Aboard the Train that Never Stops!</title>
+<link>http://www.carectomy.com/index.php/Train/All-Aboard-the-Train-that-Never-Stops</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:08:39Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subversity.net/reversing/hacking-minesweeper">
+<title>Minesweeper hacking - Viewing process memory in Windows | Subversity</title>
+<link>http://www.subversity.net/reversing/hacking-minesweeper</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:04:16Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.philipstraub.com/Superman_metropolis.htm">
+<title>Superman Metropolis</title>
+<link>http://www.philipstraub.com/Superman_metropolis.htm</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T09:01:09Z</dc:date>
+<dc:subject>pic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsiteisdown.com/">
+<title>The Website Is Down</title>
+<link>http://www.thewebsiteisdown.com/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-07-01T08:58:29Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T07:35:20Z</dc:date>
+<dc:subject>pr programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pr" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.toxel.com/inspiration/2008/06/28/24-unforgettable-advertisements/">
+<title>Toxel.com &#xBB; 24 Unforgettable Advertisements</title>
+<link>http://www.toxel.com/inspiration/2008/06/28/24-unforgettable-advertisements/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:48:44Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/4097258.stm">
+<title>BBC NEWS | Science/Nature | New model 'permits time travel'</title>
+<link>http://news.bbc.co.uk/2/hi/4097258.stm</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:36:25Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:30:44Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://genomics.senescence.info/species/query.php?show=5&#x26;sort=4&#x26;page=1">
+<title>Search the AnAge Database</title>
+<link>http://genomics.senescence.info/species/query.php?show=5&#x26;sort=4&#x26;page=1</link>
+<description>	Human	122.5</description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:21:35Z</dc:date>
+<dc:subject>s science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/s" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://img.photobucket.com/albums/v256/medusasowl/weirdstuff/babydragonba7.jpg">
+<title>babydragonba7.jpg (JPEG Image, 439x640 pixels)</title>
+<link>http://img.photobucket.com/albums/v256/medusasowl/weirdstuff/babydragonba7.jpg</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:20:07Z</dc:date>
+<dc:subject>pic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i29.tinypic.com/oielo8.jpg">
+<title>oielo8.jpg (JPEG Image, 500x352 pixels)</title>
+<link>http://i29.tinypic.com/oielo8.jpg</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-30T03:16:36Z</dc:date>
+<dc:subject>pic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.metacafe.com/watch/1231230/christian_the_lion/">
+<title>Christian the Lion - Video</title>
+<link>http://www.metacafe.com/watch/1231230/christian_the_lion/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-27T22:29:57Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=qrrXB4JmSok">
+<title>YouTube - wresting back flip to a pin</title>
+<link>http://www.youtube.com/watch?v=qrrXB4JmSok</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-27T21:29:45Z</dc:date>
+<dc:subject>youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html">
+<title>Cool Stuff | Cool Pictures | Cool Things: 10 Very Rare Clouds</title>
+<link>http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-27T21:24:05Z</dc:date>
+<dc:subject>environment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html">
+<title>www.popgive.com: A Few Different Ways To Tie Your Sneakers</title>
+<link>http://www.popgive.com/2008/06/few-diferent-ways-to-tie-your-sneakers.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-27T21:23:39Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/441/">
+<title>xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe</title>
+<link>http://xkcd.com/441/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:51:23Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://featuresblogs.chicagotribune.com/headcandy/2008/06/a-modern-day-ro.html">
+<title>HeadCandy | Chicago Tribune | Blog | Blogroll</title>
+<link>http://featuresblogs.chicagotribune.com/headcandy/2008/06/a-modern-day-ro.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:35:50Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scienceblog.com/cms/feeling-powerless-leads-expensive-purchases-16762.html">
+<title>Feeling powerless leads to expensive purchases | Science Blog</title>
+<link>http://www.scienceblog.com/cms/feeling-powerless-leads-expensive-purchases-16762.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:30:44Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subtire.com/i.php?n=wtg.jpg">
+<title>EMBED</title>
+<link>http://www.subtire.com/i.php?n=wtg.jpg</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:27:41Z</dc:date>
+<dc:subject>pic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2194232/">
+<title>A genetic theory of homosexuality. - By William Saletan - Slate Magazine</title>
+<link>http://www.slate.com/id/2194232/</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:27:10Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-jpc.physics.ox.ac.uk/getjpc.html">
+<title>JPC - Get JPC</title>
+<link>http://www-jpc.physics.ox.ac.uk/getjpc.html</link>
+<description></description>
+<dc:creator>ZeroSifr</dc:creator>
+<dc:date>2008-06-26T06:04:30Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

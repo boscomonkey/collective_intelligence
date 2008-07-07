@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/siggib">
+<title>del.icio.us/siggib</title>
+<link>http://del.icio.us/siggib</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.physics.berkeley.edu/research/zettl/projects/nanoradio/radio.html" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://economistsview.typepad.com/economistsview/2008/07/dont-look-down.html" />
+  <rdf:li rdf:resource="http://www.itfrontal.de/2008/07/wissenschaft-20.html" />
+  <rdf:li rdf:resource="http://techliberation.com/2008/07/02/the-incoherent-singularity/" />
+  <rdf:li rdf:resource="http://elsa.berkeley.edu/~saez/" />
+  <rdf:li rdf:resource="http://globalguerrillas.typepad.com/johnrobb/2008/07/social-compact.html#comments" />
+  <rdf:li rdf:resource="http://globalguerrillas.typepad.com/.shared/image.html?/photos/uncategorized/2008/07/03/income.jpg" />
+  <rdf:li rdf:resource="http://lefsetz.com/wordpress/index.php/archives/2008/07/03/careers/" />
+  <rdf:li rdf:resource="http://blog.longnow.org/2008/07/03/where-the-linear-crosses-the-exponential/" />
+  <rdf:li rdf:resource="http://www.openthefuture.com/2008/07/singular_sensations.html" />
+  <rdf:li rdf:resource="http://www.jessicadasilva.com/2008/07/02/its-worth-fighting-for/" />
+  <rdf:li rdf:resource="http://thoughtware.tv/videos/watch/1247" />
+  <rdf:li rdf:resource="http://www.science.org.au/nova/newscientist/027ns_005.htm" />
+  <rdf:li rdf:resource="http://www.masternewmedia.org/news/2008/07/02/the_future_and_what_it.htm" />
+  <rdf:li rdf:resource="http://www.nypost.com/php/pfriendly/print.php?url=http://www.nypost.com/seven/07012008/postopinion/opedcolumnists/al_qaedas_plan_b_117936.htm" />
+  <rdf:li rdf:resource="http://www.sanger.ac.uk/Info/Press/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=omoX9vkyOU0" />
+  <rdf:li rdf:resource="http://globalguerrillas.typepad.com/johnrobb/2008/06/grim.html" />
+  <rdf:li rdf:resource="http://www.vidpr.com/clients/academyce/j_lee/" />
+  <rdf:li rdf:resource="http://www.vidpr.com/clients/academyce/" />
+  <rdf:li rdf:resource="http://www.scribd.com/people/view/1235211" />
+  <rdf:li rdf:resource="http://www.vidpr.com/clients/academyce/v_newman/" />
+  <rdf:li rdf:resource="http://www.bundestag.de/ausschuesse/a22/a22_nm/oeffentliche_Sitzungen/uanm_19/Stellungnahmen/" />
+  <rdf:li rdf:resource="http://upcoming.yahoo.com/event/454942/" />
+  <rdf:li rdf:resource="http://www.everyscape.com/index.aspx" />
+  <rdf:li rdf:resource="http://www.gov.ca.gov/index.php?/press-release/10038/" />
+  <rdf:li rdf:resource="http://www.everydayfiction.com/virtuoso-by-gustavo-bondoni/" />
+  <rdf:li rdf:resource="http://globalguerrillas.typepad.com/globalguerrillas/2008/06/bow-tie-contr-1.html" />
+  <rdf:li rdf:resource="http://www.mail-archive.com/agi@v2.listbox.com/msg12244.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.physics.berkeley.edu/research/zettl/projects/nanoradio/radio.html">
+<title>Nanotube Radio</title>
+<link>http://www.physics.berkeley.edu/research/zettl/projects/nanoradio/radio.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-06T12:59:49Z</dc:date>
+<dc:subject>2007 nanotechnology technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nanotechnology" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-06T11:12:47Z</dc:date>
+<dc:subject>entropy interview physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-05T12:25:55Z</dc:date>
+<dc:subject>***** audio concentration generator health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/*****" />
+    <rdf:li resource="http://del.icio.us/tag/concentration" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://economistsview.typepad.com/economistsview/2008/07/dont-look-down.html">
+<title>Economist's View: Don't Look Down</title>
+<link>http://economistsview.typepad.com/economistsview/2008/07/dont-look-down.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-05T12:22:15Z</dc:date>
+<dc:subject>2010 Economy USA ideology inequality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Economy" />
+    <rdf:li resource="http://del.icio.us/tag/USA" />
+    <rdf:li resource="http://del.icio.us/tag/inequality" />
+    <rdf:li resource="http://del.icio.us/tag/ideology" />
+    <rdf:li resource="http://del.icio.us/tag/2010" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itfrontal.de/2008/07/wissenschaft-20.html">
+<title>IT-Frontal: Wissenschaft 2.0 - Ein Kulturschock?</title>
+<link>http://www.itfrontal.de/2008/07/wissenschaft-20.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-05T07:13:21Z</dc:date>
+<dc:subject>acceleration science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/acceleration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techliberation.com/2008/07/02/the-incoherent-singularity/">
+<title>Technology Liberation Front &#xBB; Archive &#xBB; The Incoherent Singularity</title>
+<link>http://techliberation.com/2008/07/02/the-incoherent-singularity/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T12:59:38Z</dc:date>
+<dc:subject>2008 Singularitycritic singularity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/singularity" />
+    <rdf:li resource="http://del.icio.us/tag/Singularitycritic" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elsa.berkeley.edu/~saez/">
+<title>Emmanuel Saez's Home Page</title>
+<link>http://elsa.berkeley.edu/~saez/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T11:22:15Z</dc:date>
+<dc:subject>economics inequality people</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/inequality" />
+    <rdf:li resource="http://del.icio.us/tag/people" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://globalguerrillas.typepad.com/johnrobb/2008/07/social-compact.html#comments">
+<title>John Robb's Weblog: Social Compact?</title>
+<link>http://globalguerrillas.typepad.com/johnrobb/2008/07/social-compact.html#comments</link>
+<description>Quote Buffett: &#x26;quot;The average American went exactly nowhere on the economic scale&#x26;quot; over the past two decades. &#x26;quot;He's been on a treadmill, while the superrich have been on a spaceship.&#x26;quot;</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T11:15:25Z</dc:date>
+<dc:subject>USA inequality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inequality" />
+    <rdf:li resource="http://del.icio.us/tag/USA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://globalguerrillas.typepad.com/.shared/image.html?/photos/uncategorized/2008/07/03/income.jpg">
+<title>Pic: Share of total income going  to the top 10%</title>
+<link>http://globalguerrillas.typepad.com/.shared/image.html?/photos/uncategorized/2008/07/03/income.jpg</link>
+<description>No words necessary!</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T11:12:13Z</dc:date>
+<dc:subject>inequality presingularity trend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inequality" />
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lefsetz.com/wordpress/index.php/archives/2008/07/03/careers/">
+<title>Lefsetz Letter &#xBB; Blog Archive &#xBB; Careers</title>
+<link>http://lefsetz.com/wordpress/index.php/archives/2008/07/03/careers/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T08:50:07Z</dc:date>
+<dc:subject>business career music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.longnow.org/2008/07/03/where-the-linear-crosses-the-exponential/">
+<title>The Long Now Blog &#xBB; Blog Archive &#xBB; Where the Linear Crosses the Exponential</title>
+<link>http://blog.longnow.org/2008/07/03/where-the-linear-crosses-the-exponential/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T08:21:19Z</dc:date>
+<dc:subject>Dyson KevinKelly climate_change climatecrisis exponential</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/KevinKelly" />
+    <rdf:li resource="http://del.icio.us/tag/Dyson" />
+    <rdf:li resource="http://del.icio.us/tag/climate_change" />
+    <rdf:li resource="http://del.icio.us/tag/climatecrisis" />
+    <rdf:li resource="http://del.icio.us/tag/exponential" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openthefuture.com/2008/07/singular_sensations.html">
+<title>Open the Future: Singular Sensations</title>
+<link>http://www.openthefuture.com/2008/07/singular_sensations.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T08:05:57Z</dc:date>
+<dc:subject>Singularitycritic presingularity singularity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/singularity" />
+    <rdf:li resource="http://del.icio.us/tag/Singularitycritic" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jessicadasilva.com/2008/07/02/its-worth-fighting-for/">
+<title>&#x201C;It&#x2019;s worth fighting for&#x201D;</title>
+<link>http://www.jessicadasilva.com/2008/07/02/its-worth-fighting-for/</link>
+<description>Quote: &#x26;quot;&#x201C;People need to stop looking at TBO.com as an add on to The Tampa Tribune,&#x201D; she said. &#x201C;The truth is that The Tampa Tribune is an add on to TBO.&#x201D;&#x26;quot;</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T07:17:14Z</dc:date>
+<dc:subject>2008 check crisis future media reality trend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/reality" />
+    <rdf:li resource="http://del.icio.us/tag/check" />
+    <rdf:li resource="http://del.icio.us/tag/crisis" />
+    <rdf:li resource="http://del.icio.us/tag/trend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thoughtware.tv/videos/watch/1247">
+<title>Thoughtware.TV - Happiness, Virtue, And Transcendence In A Neurotechnological Future</title>
+<link>http://thoughtware.tv/videos/watch/1247</link>
+<description>Lecture of James J. Hughes</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-04T07:11:51Z</dc:date>
+<dc:subject>2008 audio future neuroscience religion transhumanism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/transhumanism" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.science.org.au/nova/newscientist/027ns_005.htm">
+<title>Further reading - New Scientist</title>
+<link>http://www.science.org.au/nova/newscientist/027ns_005.htm</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-03T07:50:04Z</dc:date>
+<dc:subject>2007 countdown future minerals technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+    <rdf:li resource="http://del.icio.us/tag/minerals" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/countdown" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.masternewmedia.org/news/2008/07/02/the_future_and_what_it.htm">
+<title>The Future And What It Holds: Howard Rheingold Video Interview - Frontiers Of Interaction IV - Robin Good's Latest News</title>
+<link>http://www.masternewmedia.org/news/2008/07/02/the_future_and_what_it.htm</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-02T20:18:28Z</dc:date>
+<dc:subject>2008 future rheingold video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rheingold" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nypost.com/php/pfriendly/print.php?url=http://www.nypost.com/seven/07012008/postopinion/opedcolumnists/al_qaedas_plan_b_117936.htm">
+<title>AL QAEDA'S PLAN B</title>
+<link>http://www.nypost.com/php/pfriendly/print.php?url=http://www.nypost.com/seven/07012008/postopinion/opedcolumnists/al_qaedas_plan_b_117936.htm</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-02T18:32:00Z</dc:date>
+<dc:subject>2008 2015 future islam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/islam" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/2015" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sanger.ac.uk/Info/Press/">
+<title>Wellcome Trust Sanger Institute Press Releases</title>
+<link>http://www.sanger.ac.uk/Info/Press/</link>
+<description>Fifteen human genomes each week</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-02T11:30:27Z</dc:date>
+<dc:subject>2008 acceleration bioinformatics genetics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/bioinformatics" />
+    <rdf:li resource="http://del.icio.us/tag/acceleration" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=omoX9vkyOU0">
+<title>YouTube - Raw video: Patient dies on Kings County Hospital floor</title>
+<link>http://www.youtube.com/watch?v=omoX9vkyOU0</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-02T09:53:56Z</dc:date>
+<dc:subject>Longevity USA check countdown dystopy inequality presingularity reality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/USA" />
+    <rdf:li resource="http://del.icio.us/tag/inequality" />
+    <rdf:li resource="http://del.icio.us/tag/Longevity" />
+    <rdf:li resource="http://del.icio.us/tag/reality" />
+    <rdf:li resource="http://del.icio.us/tag/check" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+    <rdf:li resource="http://del.icio.us/tag/countdown" />
+    <rdf:li resource="http://del.icio.us/tag/dystopy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://globalguerrillas.typepad.com/johnrobb/2008/06/grim.html">
+<title>John Robb's Weblog: GRIM</title>
+<link>http://globalguerrillas.typepad.com/johnrobb/2008/06/grim.html</link>
+<description>Dum di dum di dei</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T19:41:23Z</dc:date>
+<dc:subject>2008 countdown crisis global indicator presingularity summer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/summer" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/global" />
+    <rdf:li resource="http://del.icio.us/tag/crisis" />
+    <rdf:li resource="http://del.icio.us/tag/countdown" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+    <rdf:li resource="http://del.icio.us/tag/indicator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vidpr.com/clients/academyce/j_lee/">
+<title>Juliette Lee: The Eye of Leadership</title>
+<link>http://www.vidpr.com/clients/academyce/j_lee/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T14:33:32Z</dc:date>
+<dc:subject>**** inspiration intuition video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/intuition" />
+    <rdf:li resource="http://del.icio.us/tag/****" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vidpr.com/clients/academyce/">
+<title>Academy of Chief Executives</title>
+<link>http://www.vidpr.com/clients/academyce/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T14:24:25Z</dc:date>
+<dc:subject>**** video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/****" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/people/view/1235211">
+<title>David Gurteen: Inside Knowledge</title>
+<link>http://www.scribd.com/people/view/1235211</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T13:54:52Z</dc:date>
+<dc:subject>knowledge</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/knowledge" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vidpr.com/clients/academyce/v_newman/">
+<title>Victor Newman:  4 Faces of a CEO</title>
+<link>http://www.vidpr.com/clients/academyce/v_newman/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T13:50:28Z</dc:date>
+<dc:subject>acceleration innovation video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/acceleration" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bundestag.de/ausschuesse/a22/a22_nm/oeffentliche_Sitzungen/uanm_19/Stellungnahmen/">
+<title>Deutscher Bundestag: Unterausschuss Neue Medien Stellungnahmen</title>
+<link>http://www.bundestag.de/ausschuesse/a22/a22_nm/oeffentliche_Sitzungen/uanm_19/Stellungnahmen/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T12:55:49Z</dc:date>
+<dc:subject>blogs germany media politics power</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/germany" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/power" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://upcoming.yahoo.com/event/454942/">
+<title>Singularity Summit 2008 at Montgomery Theater (Saturday, October 18, 2008) - Upcoming</title>
+<link>http://upcoming.yahoo.com/event/454942/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-07-01T08:37:37Z</dc:date>
+<dc:subject>**** 2008 singularity summit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/singularity" />
+    <rdf:li resource="http://del.icio.us/tag/summit" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/****" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.everyscape.com/index.aspx">
+<title>Welcome to EveryScape</title>
+<link>http://www.everyscape.com/index.aspx</link>
+<description>Can&#xB4;t think of a logical tag. Maps? Not really. Web2.0? Ts ts. - A little bit presingularity.</description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-06-30T21:53:28Z</dc:date>
+<dc:subject>2008 Visualization maps presingularity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/Visualization" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gov.ca.gov/index.php?/press-release/10038/">
+<title>Governor Schwarzenegger Celebrates Clean Technology Investment in California, Welcomes Tesla Motors Production to California - Press Release by Governor Arnold Schwarzenegger</title>
+<link>http://www.gov.ca.gov/index.php?/press-release/10038/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-06-30T21:42:47Z</dc:date>
+<dc:subject>2008 ZEV energy oil tesla transportation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tesla" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/transportation" />
+    <rdf:li resource="http://del.icio.us/tag/ZEV" />
+    <rdf:li resource="http://del.icio.us/tag/oil" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.everydayfiction.com/virtuoso-by-gustavo-bondoni/">
+<title>VIRTUOSO &#x2022; by Gustavo Bondoni | Every Day Fiction</title>
+<link>http://www.everydayfiction.com/virtuoso-by-gustavo-bondoni/</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-06-30T13:52:45Z</dc:date>
+<dc:subject>sf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://globalguerrillas.typepad.com/globalguerrillas/2008/06/bow-tie-contr-1.html">
+<title>Global Guerrillas: BOW-TIE CONTROL SYSTEMS</title>
+<link>http://globalguerrillas.typepad.com/globalguerrillas/2008/06/bow-tie-contr-1.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-06-30T09:47:43Z</dc:date>
+<dc:subject>2010 2015 globalization presingularity systems trends</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/systems" />
+    <rdf:li resource="http://del.icio.us/tag/globalization" />
+    <rdf:li resource="http://del.icio.us/tag/trends" />
+    <rdf:li resource="http://del.icio.us/tag/2010" />
+    <rdf:li resource="http://del.icio.us/tag/2015" />
+    <rdf:li resource="http://del.icio.us/tag/presingularity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mail-archive.com/agi@v2.listbox.com/msg12244.html">
+<title>[agi] Paper rec: Complex Systems: Network Thinking</title>
+<link>http://www.mail-archive.com/agi@v2.listbox.com/msg12244.html</link>
+<description></description>
+<dc:creator>siggiB</dc:creator>
+<dc:date>2008-06-30T09:45:29Z</dc:date>
+<dc:subject>statistics systems</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/systems" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

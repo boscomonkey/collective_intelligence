@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/miracle2k">
+<title>del.icio.us/miracle2k</title>
+<link>http://del.icio.us/miracle2k</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/000240.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://polyphasicsleep.info/index.php?title=Main_Page" />
+  <rdf:li rdf:resource="http://rebelscience.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.crashplan.com/" />
+  <rdf:li rdf:resource="http://www.adberry.com/home.html" />
+  <rdf:li rdf:resource="http://www.allbootdisks.com/" />
+  <rdf:li rdf:resource="http://www.vmware.com/support/reference/common/guest_win95.html" />
+  <rdf:li rdf:resource="http://technicianspot.blogspot.com/2008/02/one-of-my-post-has-to-be-about-headache.html" />
+  <rdf:li rdf:resource="https://launchpad.net/graphite" />
+  <rdf:li rdf:resource="http://ha.ckers.org/xss.html" />
+  <rdf:li rdf:resource="http://refactormycode.com/" />
+  <rdf:li rdf:resource="http://www.deltatronic.de/" />
+  <rdf:li rdf:resource="http://www.ichbinleise.de/" />
+  <rdf:li rdf:resource="http://de.youtube.com/watch?v=6Bqq38WZctA" />
+  <rdf:li rdf:resource="http://code.google.com/p/codeswarm/" />
+  <rdf:li rdf:resource="http://www.theamericanscholar.org/su08/elite-deresiewicz.html" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/kernel-boot-process" />
+  <rdf:li rdf:resource="http://developer.amazonwebservices.com/connect/entry.jspa?entryID=592" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/khen1234/archive/2006/01/23/516375.aspx" />
+  <rdf:li rdf:resource="http://www.artofprogramming.net/dev_clarion_legend.html" />
+  <rdf:li rdf:resource="http://www.wormly.com/" />
+  <rdf:li rdf:resource="http://oss.oetiker.ch/optools/wiki/du2rrd" />
+  <rdf:li rdf:resource="http://code.google.com/p/brackup/" />
+  <rdf:li rdf:resource="http://www.hackszine.com/blog/archive/2007/03/howto_recover_text_from_blurre.html?CMP=OTC-7G2N43923558" />
+  <rdf:li rdf:resource="http://progetti.arstecnica.it/tailor" />
+  <rdf:li rdf:resource="http://www.nirvanix.com/" />
+  <rdf:li rdf:resource="http://de.youtube.com/watch?v=x7PhJp3ciRQ" />
+  <rdf:li rdf:resource="http://de.youtube.com/watch?v=vPKvwd9vJZY" />
+  <rdf:li rdf:resource="http://www.vimeo.com/1093745" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/powershell/archive/2006/10/16/Windows-PowerShell-Font-Customization.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/000240.html">
+<title>Coding Horror: A Developer's Second Most Important Asset</title>
+<link>http://www.codinghorror.com/blog/archives/000240.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-06T10:00:00Z</dc:date>
+<dc:subject>b&#xFC;ro b&#xFC;rostuhl chair chairs codinghorror ergonomics furniture health office programming stuhl st&#xFC;hle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/codinghorror" />
+    <rdf:li resource="http://del.icio.us/tag/stuhl" />
+    <rdf:li resource="http://del.icio.us/tag/b%C3%BCro" />
+    <rdf:li resource="http://del.icio.us/tag/b%C3%BCrostuhl" />
+    <rdf:li resource="http://del.icio.us/tag/st%C3%BChle" />
+    <rdf:li resource="http://del.icio.us/tag/chairs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-06T09:59:53Z</dc:date>
+<dc:subject>b&#xFC;ro b&#xFC;rostuhl chair chairs codinghorror ergonomics furniture health office programming stuhl st&#xFC;hle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/codinghorror" />
+    <rdf:li resource="http://del.icio.us/tag/stuhl" />
+    <rdf:li resource="http://del.icio.us/tag/b%C3%BCro" />
+    <rdf:li resource="http://del.icio.us/tag/b%C3%BCrostuhl" />
+    <rdf:li resource="http://del.icio.us/tag/st%C3%BChle" />
+    <rdf:li resource="http://del.icio.us/tag/chairs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://polyphasicsleep.info/index.php?title=Main_Page">
+<title>Main Page - Polyphasicsleep.info</title>
+<link>http://polyphasicsleep.info/index.php?title=Main_Page</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-05T08:13:53Z</dc:date>
+<dc:subject>davinci polyphasic schlafen sleep vinci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/polyphasic" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/schlafen" />
+    <rdf:li resource="http://del.icio.us/tag/vinci" />
+    <rdf:li resource="http://del.icio.us/tag/davinci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rebelscience.blogspot.com/">
+<title>Rebel Science News</title>
+<link>http://rebelscience.blogspot.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-04T12:20:05Z</dc:date>
+<dc:subject>alan_turing computers computing distributed multicore parallel processors programming turing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/parallel" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/multicore" />
+    <rdf:li resource="http://del.icio.us/tag/turing" />
+    <rdf:li resource="http://del.icio.us/tag/alan_turing" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/processors" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crashplan.com/">
+<title>CrashPlan &#x2013; Automatic Offsite Backup</title>
+<link>http://www.crashplan.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-02T22:50:51Z</dc:date>
+<dc:subject>backup backups offsite software storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/backups" />
+    <rdf:li resource="http://del.icio.us/tag/offsite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adberry.com/home.html">
+<title>Home</title>
+<link>http://www.adberry.com/home.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-02T22:49:54Z</dc:date>
+<dc:subject>adagency ads deutsch germany vermarkter werbenetzwerk werbung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vermarkter" />
+    <rdf:li resource="http://del.icio.us/tag/werbung" />
+    <rdf:li resource="http://del.icio.us/tag/ads" />
+    <rdf:li resource="http://del.icio.us/tag/adagency" />
+    <rdf:li resource="http://del.icio.us/tag/germany" />
+    <rdf:li resource="http://del.icio.us/tag/deutsch" />
+    <rdf:li resource="http://del.icio.us/tag/werbenetzwerk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allbootdisks.com/">
+<title>Welcome to the all new AllBootDisks | AllBootDisks - Providing Free Boot Disks from MS-DOS to Windows XP.</title>
+<link>http://www.allbootdisks.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-02T22:49:21Z</dc:date>
+<dc:subject>boot bootdisk bootdisks disks dos floppy images utilities windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bootdisk" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/dos" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/bootdisks" />
+    <rdf:li resource="http://del.icio.us/tag/disks" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/floppy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vmware.com/support/reference/common/guest_win95.html">
+<title>Windows 95 Installation Guidelines and Known Problems</title>
+<link>http://www.vmware.com/support/reference/common/guest_win95.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-07-02T22:48:48Z</dc:date>
+<dc:subject>bookdisk disk virtualization vmware win95 windows windows95</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/windows95" />
+    <rdf:li resource="http://del.icio.us/tag/win95" />
+    <rdf:li resource="http://del.icio.us/tag/virtualization" />
+    <rdf:li resource="http://del.icio.us/tag/bookdisk" />
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://technicianspot.blogspot.com/2008/02/one-of-my-post-has-to-be-about-headache.html">
+<title>Technician Spot: Realtek HD front audio</title>
+<link>http://technicianspot.blogspot.com/2008/02/one-of-my-post-has-to-be-about-headache.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-30T04:53:47Z</dc:date>
+<dc:subject>audio realtek sound soundcard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/realtek" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/soundcard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://launchpad.net/graphite">
+<title>Graphite - Enterprise scalable realtime graphing in Launchpad</title>
+<link>https://launchpad.net/graphite</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-30T02:20:21Z</dc:date>
+<dc:subject>django graphing monitoring python rrdtool storage visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/graphing" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/rrdtool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ha.ckers.org/xss.html">
+<title>XSS (Cross Site Scripting) Cheat Sheet</title>
+<link>http://ha.ckers.org/xss.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-26T20:08:56Z</dc:date>
+<dc:subject>cheatsheet hacking javascript reference scripting security xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://refactormycode.com/">
+<title>Recent codes - RefactorMyCode.com</title>
+<link>http://refactormycode.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-26T20:06:06Z</dc:date>
+<dc:subject>code codereview collaboration programming refactor refactoring review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/refactoring" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/codereview" />
+    <rdf:li resource="http://del.icio.us/tag/refactor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deltatronic.de/">
+<title>Deltatronic - Leise Computer, Silent PC</title>
+<link>http://www.deltatronic.de/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-26T14:02:11Z</dc:date>
+<dc:subject>computer desktop hardware leise l&#xFC;fter l&#xFC;fterlos pc silent silentpc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/silent" />
+    <rdf:li resource="http://del.icio.us/tag/silentpc" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/leise" />
+    <rdf:li resource="http://del.icio.us/tag/l%C3%BCfter" />
+    <rdf:li resource="http://del.icio.us/tag/l%C3%BCfterlos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ichbinleise.de/">
+<title>ichbinleise.de - Office PC | Media PC | Game PC | l&#xFC;fterloser PC | Notebook</title>
+<link>http://www.ichbinleise.de/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-26T14:00:40Z</dc:date>
+<dc:subject>computer desktop hardware leise l&#xFC;fter l&#xFC;fterlos pc silent silentpc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/silent" />
+    <rdf:li resource="http://del.icio.us/tag/silentpc" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/leise" />
+    <rdf:li resource="http://del.icio.us/tag/l%C3%BCfter" />
+    <rdf:li resource="http://del.icio.us/tag/l%C3%BCfterlos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.youtube.com/watch?v=6Bqq38WZctA">
+<title>YouTube - PlayStation European TV Commercial: 'Double Life'</title>
+<link>http://de.youtube.com/watch?v=6Bqq38WZctA</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-26T05:15:50Z</dc:date>
+<dc:subject>ad advertisment life playstation ps1 sony video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/ad" />
+    <rdf:li resource="http://del.icio.us/tag/playstation" />
+    <rdf:li resource="http://del.icio.us/tag/sony" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/advertisment" />
+    <rdf:li resource="http://del.icio.us/tag/ps1" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/codeswarm/">
+<title>codeswarm - Google Code</title>
+<link>http://code.google.com/p/codeswarm/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-25T14:14:12Z</dc:date>
+<dc:subject>codeswarm comitters cool graphics processing programming software swarm video visualization visuals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/codeswarm" />
+    <rdf:li resource="http://del.icio.us/tag/swarm" />
+    <rdf:li resource="http://del.icio.us/tag/comitters" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/visuals" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theamericanscholar.org/su08/elite-deresiewicz.html">
+<title>The American Scholar - The Disadvantages of an Elite Education - By William Deresiewicz</title>
+<link>http://www.theamericanscholar.org/su08/elite-deresiewicz.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-24T10:40:06Z</dc:date>
+<dc:subject>academia ausbildung behaviour bildung business career children college culture education elite essay harvard ivy lehrer school studieren teacher university universit&#xE4;t yale</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/academia" />
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/behaviour" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/ausbildung" />
+    <rdf:li resource="http://del.icio.us/tag/bildung" />
+    <rdf:li resource="http://del.icio.us/tag/universit%C3%A4t" />
+    <rdf:li resource="http://del.icio.us/tag/studieren" />
+    <rdf:li resource="http://del.icio.us/tag/university" />
+    <rdf:li resource="http://del.icio.us/tag/college" />
+    <rdf:li resource="http://del.icio.us/tag/yale" />
+    <rdf:li resource="http://del.icio.us/tag/harvard" />
+    <rdf:li resource="http://del.icio.us/tag/teacher" />
+    <rdf:li resource="http://del.icio.us/tag/lehrer" />
+    <rdf:li resource="http://del.icio.us/tag/ivy" />
+    <rdf:li resource="http://del.icio.us/tag/elite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/kernel-boot-process">
+<title>The Kernel Boot Process : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/kernel-boot-process</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-24T00:26:51Z</dc:date>
+<dc:subject>boot booting bootloader design kernel linux os</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kernel" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/bootloader" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/booting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.amazonwebservices.com/connect/entry.jspa?entryID=592">
+<title>Amazon Web Services Developer Connection : Windows Server 2003 on Fedora Core 6 [Qemu] V.1.1</title>
+<link>http://developer.amazonwebservices.com/connect/entry.jspa?entryID=592</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-23T20:32:39Z</dc:date>
+<dc:subject>aws ec2 qemu virtualization vmware windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/qemu" />
+    <rdf:li resource="http://del.icio.us/tag/virtualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/khen1234/archive/2006/01/23/516375.aspx">
+<title>Ken Henderson's WebLog : Goodbye, My Friend</title>
+<link>http://blogs.msdn.com/khen1234/archive/2006/01/23/516375.aspx</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-23T20:31:50Z</dc:date>
+<dc:subject>borland dannythorphe delphi future microsoft thorphe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/borland" />
+    <rdf:li resource="http://del.icio.us/tag/delphi" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/thorphe" />
+    <rdf:li resource="http://del.icio.us/tag/dannythorphe" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artofprogramming.net/dev_clarion_legend.html">
+<title>TopSpeed Legend - Clarion Software for Windows RAD, Database - Links, Tips for Clarion Programmers and Resources for Database Developers</title>
+<link>http://www.artofprogramming.net/dev_clarion_legend.html</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-23T20:31:11Z</dc:date>
+<dc:subject>borland compiler compilers delphi pascal rad readlist windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlist" />
+    <rdf:li resource="http://del.icio.us/tag/borland" />
+    <rdf:li resource="http://del.icio.us/tag/delphi" />
+    <rdf:li resource="http://del.icio.us/tag/pascal" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/rad" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wormly.com/">
+<title>Web Site Monitoring and Server Uptime Monitoring. Eliminate Downtime and Improve Performance | Wormly</title>
+<link>http://www.wormly.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-23T19:31:13Z</dc:date>
+<dc:subject>hosted hosting monitor monitoring nagios performance service website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/nagios" />
+    <rdf:li resource="http://del.icio.us/tag/monitor" />
+    <rdf:li resource="http://del.icio.us/tag/hosted" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oss.oetiker.ch/optools/wiki/du2rrd">
+<title>du2rrd - OETIKER+PARTNER AG Tools - Trac</title>
+<link>http://oss.oetiker.ch/optools/wiki/du2rrd</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-23T15:04:14Z</dc:date>
+<dc:subject>disk linux monitor monitoring rrd storage unix visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/disk" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/monitor" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/rrd" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/brackup/">
+<title>brackup - Google Code</title>
+<link>http://code.google.com/p/brackup/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-22T00:06:51Z</dc:date>
+<dc:subject>backup backups brad duplicity livejournal perl s3 sixapart unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/livejournal" />
+    <rdf:li resource="http://del.icio.us/tag/brad" />
+    <rdf:li resource="http://del.icio.us/tag/sixapart" />
+    <rdf:li resource="http://del.icio.us/tag/backups" />
+    <rdf:li resource="http://del.icio.us/tag/duplicity" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackszine.com/blog/archive/2007/03/howto_recover_text_from_blurre.html?CMP=OTC-7G2N43923558">
+<title>Hackszine.com: Howto: Recover Text From Blurred Images</title>
+<link>http://www.hackszine.com/blog/archive/2007/03/howto_recover_text_from_blurre.html?CMP=OTC-7G2N43923558</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-21T22:46:28Z</dc:date>
+<dc:subject>blur filter image images recovery security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/blur" />
+    <rdf:li resource="http://del.icio.us/tag/filter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://progetti.arstecnica.it/tailor">
+<title>Tailor &#x2013; Trac</title>
+<link>http://progetti.arstecnica.it/tailor</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-21T00:50:20Z</dc:date>
+<dc:subject>conversion convert converter darcs git mercurial python scm sourcecontrol subversion svn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+    <rdf:li resource="http://del.icio.us/tag/mercurial" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/darcs" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/sourcecontrol" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nirvanix.com/">
+<title>Nirvanix - Home</title>
+<link>http://www.nirvanix.com/</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-20T17:04:03Z</dc:date>
+<dc:subject>amazon api aws backup cloud hosting onlinestorage s3 storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/onlinestorage" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.youtube.com/watch?v=x7PhJp3ciRQ">
+<title>YouTube - hi, im a wii</title>
+<link>http://de.youtube.com/watch?v=x7PhJp3ciRQ</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-18T22:48:35Z</dc:date>
+<dc:subject>console consoles funny playstation3 sexy spoof video videogames wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/playstation3" />
+    <rdf:li resource="http://del.icio.us/tag/spoof" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+    <rdf:li resource="http://del.icio.us/tag/consoles" />
+    <rdf:li resource="http://del.icio.us/tag/sexy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.youtube.com/watch?v=vPKvwd9vJZY">
+<title>YouTube - Spore Penis Monster</title>
+<link>http://de.youtube.com/watch?v=vPKvwd9vJZY</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-18T21:13:12Z</dc:date>
+<dc:subject>creature funny penis spore video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spore" />
+    <rdf:li resource="http://del.icio.us/tag/penis" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/creature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/1093745">
+<title>code_swarm - Python on Vimeo</title>
+<link>http://www.vimeo.com/1093745</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-18T11:42:24Z</dc:date>
+<dc:subject>codeswarm comitters cool graphics history processing programming python swarm video visualization visuals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/codeswarm" />
+    <rdf:li resource="http://del.icio.us/tag/swarm" />
+    <rdf:li resource="http://del.icio.us/tag/comitters" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/visuals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/powershell/archive/2006/10/16/Windows-PowerShell-Font-Customization.aspx">
+<title>Windows PowerShell : Windows PowerShell Font Customization</title>
+<link>http://blogs.msdn.com/powershell/archive/2006/10/16/Windows-PowerShell-Font-Customization.aspx</link>
+<description></description>
+<dc:creator>miracle2k</dc:creator>
+<dc:date>2008-06-18T03:50:11Z</dc:date>
+<dc:subject>cmd consolas console font fonts powershell windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powershell" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/consolas" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+    <rdf:li resource="http://del.icio.us/tag/cmd" />
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

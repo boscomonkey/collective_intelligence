@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/artmourad">
+<title>del.icio.us/artmourad</title>
+<link>http://del.icio.us/artmourad</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.webofdebt.com/articles/subprime_defense.php" />
+  <rdf:li rdf:resource="http://shmooedfood.blogspot.com/2006/05/vegan-chocolate-babka.html" />
+  <rdf:li rdf:resource="http://nichegeek.com/10_totally_stupid_online_business_ideas_that_made_someone_rich" />
+  <rdf:li rdf:resource="http://blacklistednews.com/view.asp?ID=7014" />
+  <rdf:li rdf:resource="http://exitthematrix.dod.net/matrixmirror/ar01s02.html#WhatItIs" />
+  <rdf:li rdf:resource="http://lifehacker.com/391555/best-free-ways-to-protect-your-private-files" />
+  <rdf:li rdf:resource="http://www.citizen.org/litigation/free_info/foic_lr/index.cfm#Statutes" />
+  <rdf:li rdf:resource="http://www.citizen.org/litigation/free_info/" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2007/06/speaking_as_a_p.html" />
+  <rdf:li rdf:resource="http://blog.ericfeng.com/" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/01/the_zen_of_busi.html" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/01/how_to_kick_but.html" />
+  <rdf:li rdf:resource="http://www.andybudd.com/archives/2006/07/public_speaking_tips/index.php" />
+  <rdf:li rdf:resource="http://www.dumblittleman.com/2007/08/how-to-craft-killer-elevator-pitch-that.html" />
+  <rdf:li rdf:resource="http://www.planb.dk/public-speaking-and-presentation-skills/sound-intelligent-powerful-polished-articulate-and-confident.shtml" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/01/how_to_get_a_st.html" />
+  <rdf:li rdf:resource="http://blog.ericfeng.com/250-things-i-have-learnt-that-will-make-you-become-a-highly-successful-speaker/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-07-06T12:27:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.webofdebt.com/articles/subprime_defense.php">
+<title>Web of Debt - The Secret Bailout of JPMorgan: How Insider Trading Looted Bear Stearns and the American Taxpayer</title>
+<link>http://www.webofdebt.com/articles/subprime_defense.php</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-06-27T11:09:47Z</dc:date>
+<dc:subject>debt foreclosure loan mortgage subprime</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mortgage" />
+    <rdf:li resource="http://del.icio.us/tag/subprime" />
+    <rdf:li resource="http://del.icio.us/tag/loan" />
+    <rdf:li resource="http://del.icio.us/tag/foreclosure" />
+    <rdf:li resource="http://del.icio.us/tag/debt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shmooedfood.blogspot.com/2006/05/vegan-chocolate-babka.html">
+<title>Shmooed Food: Vegan Chocolate Babka</title>
+<link>http://shmooedfood.blogspot.com/2006/05/vegan-chocolate-babka.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-06-20T12:46:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://nichegeek.com/10_totally_stupid_online_business_ideas_that_made_someone_rich">
+<title>10 Totally Stupid Online Business Ideas That Made Someone Rich | NicheGeek.com</title>
+<link>http://nichegeek.com/10_totally_stupid_online_business_ideas_that_made_someone_rich</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-06-20T12:41:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blacklistednews.com/view.asp?ID=7014">
+<title>Socially Engineering The Public For Martial Law</title>
+<link>http://blacklistednews.com/view.asp?ID=7014</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-06-20T12:21:09Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://exitthematrix.dod.net/matrixmirror/ar01s02.html#WhatItIs">
+<title>The Matrix</title>
+<link>http://exitthematrix.dod.net/matrixmirror/ar01s02.html#WhatItIs</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-06-20T12:21:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/391555/best-free-ways-to-protect-your-private-files">
+<title>Privacy: Best Free Ways to Protect Your Private Files</title>
+<link>http://lifehacker.com/391555/best-free-ways-to-protect-your-private-files</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-05-19T23:11:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.citizen.org/litigation/free_info/foic_lr/index.cfm#Statutes">
+<title>Public Citizen | FOIC Legal Resources - Resources for Legal Research on the Freedom of Information Act</title>
+<link>http://www.citizen.org/litigation/free_info/foic_lr/index.cfm#Statutes</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-05-15T02:31:08Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.citizen.org/litigation/free_info/">
+<title>Public Citizen | Freedom of Information Clearinghouse - Freedom of Information Clearinghouse</title>
+<link>http://www.citizen.org/litigation/free_info/</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-05-14T23:42:21Z</dc:date>
+<dc:subject>Act Freedon Information how of to</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Freedon" />
+    <rdf:li resource="http://del.icio.us/tag/of" />
+    <rdf:li resource="http://del.icio.us/tag/Information" />
+    <rdf:li resource="http://del.icio.us/tag/Act" />
+    <rdf:li resource="http://del.icio.us/tag/how" />
+    <rdf:li resource="http://del.icio.us/tag/to" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2007/06/speaking_as_a_p.html">
+<title>How to Change the World: Speaking as a Performing Art</title>
+<link>http://blog.guykawasaki.com/2007/06/speaking_as_a_p.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-26T14:22:58Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.ericfeng.com/">
+<title>The Public Speaking Blog</title>
+<link>http://blog.ericfeng.com/</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-26T14:18:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/01/the_zen_of_busi.html">
+<title>Let the Good Times Roll by Guy Kawasaki: The Zen of Business Plans</title>
+<link>http://blog.guykawasaki.com/2006/01/the_zen_of_busi.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:38:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/01/how_to_kick_but.html">
+<title>Let the Good Times Roll by Guy Kawasaki: How to Kick Butt On a Panel</title>
+<link>http://blog.guykawasaki.com/2006/01/how_to_kick_but.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:37:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.andybudd.com/archives/2006/07/public_speaking_tips/index.php">
+<title>Andy Budd::Blogography: Public Speaking Tips</title>
+<link>http://www.andybudd.com/archives/2006/07/public_speaking_tips/index.php</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:36:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.dumblittleman.com/2007/08/how-to-craft-killer-elevator-pitch-that.html">
+<title>How to Craft a Killer Elevator Pitch That Will Land You Big Business - Dumb Little Man</title>
+<link>http://www.dumblittleman.com/2007/08/how-to-craft-killer-elevator-pitch-that.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:35:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.planb.dk/public-speaking-and-presentation-skills/sound-intelligent-powerful-polished-articulate-and-confident.shtml">
+<title>Sound intelligent, powerful, polished, articulate, and confident</title>
+<link>http://www.planb.dk/public-speaking-and-presentation-skills/sound-intelligent-powerful-polished-articulate-and-confident.shtml</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:35:22Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/01/how_to_get_a_st.html">
+<title>Let the Good Times Roll by Guy Kawasaki: How to Get a Standing Ovation</title>
+<link>http://blog.guykawasaki.com/2006/01/how_to_get_a_st.html</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:32:47Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.ericfeng.com/250-things-i-have-learnt-that-will-make-you-become-a-highly-successful-speaker/">
+<title>The Public Speaking Blog &#xBB; Blog Archive &#xBB; 250 Things You Wish You Know That Will Guarantee Your Speaking Success</title>
+<link>http://blog.ericfeng.com/250-things-i-have-learnt-that-will-make-you-become-a-highly-successful-speaker/</link>
+<description></description>
+<dc:creator>artmourad</dc:creator>
+<dc:date>2008-04-07T14:32:03Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

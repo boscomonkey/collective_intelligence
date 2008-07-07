@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/velayoudam">
+<title>del.icio.us/velayoudam</title>
+<link>http://del.icio.us/velayoudam</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.smartbear.com/docs/book/code-collaborator.pdf" />
+  <rdf:li rdf:resource="http://www.smartbear.com/codecollab-code-review-book.php?howheard=Coding+Horror" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.exttld.com/" />
+  <rdf:li rdf:resource="http://www.stumbleupon.com/demo/?review=1#url=http://jackslocum.com/blog/2008/02/07/ides-plugins-and-tools-for-extjs-20/" />
+  <rdf:li rdf:resource="http://www.alittlemadness.com/2008/04/24/ext-discovers-step-2-of-the-slashdot-business-model/" />
+  <rdf:li rdf:resource="http://news.cnet.com/8301-13505_3-9878693-16.html" />
+  <rdf:li rdf:resource="http://www.stumbleupon.com/tag/extjs/" />
+  <rdf:li rdf:resource="http://westciv.com/xray/" />
+  <rdf:li rdf:resource="http://www.my-debugbar.com/wiki/IETester/HomePage" />
+  <rdf:li rdf:resource="http://www.debugbar.com/" />
+  <rdf:li rdf:resource="http://clientside.cnet.com/wiki/mootorial/0-mootoolsvsothers" />
+  <rdf:li rdf:resource="http://www.whitehatsec.com/downloads/WP10Things.pdf" />
+  <rdf:li rdf:resource="http://jeremiahgrossman.blogspot.com/2006/01/advanced-web-attack-techniques-using.html" />
+  <rdf:li rdf:resource="http://developers.sun.com/portalserver/reference/techart/ajax-portlets.html" />
+  <rdf:li rdf:resource="http://javascriptant.com/articles/24/javascript-libraries-by-comparison" />
+  <rdf:li rdf:resource="http://www.picnik.com/app#/home/welcome" />
+  <rdf:li rdf:resource="http://www.lifeclever.com/10-free-web-based-alternatives-to-photoshop/" />
+  <rdf:li rdf:resource="http://www.ohdave.com/rsa/" />
+  <rdf:li rdf:resource="http://mediaproducts.gartner.com/reprints/microsoft/vol4/article15/article15.html" />
+  <rdf:li rdf:resource="http://www.jaxmag.com/itr/online_artikel/psecom,id,638,nodeid,147.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/web/library/wa-struts/" />
+  <rdf:li rdf:resource="http://www.javapractices.com/topic/TopicAction.do?Id=217" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Comparison_of_Unicode_encodings" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/ISO_8859-1" />
+  <rdf:li rdf:resource="http://www.javapractices.com/home/HomeAction.do" />
+  <rdf:li rdf:resource="http://www.itarchitect.co.uk/articles/display.asp?id=400" />
+  <rdf:li rdf:resource="http://www.codingthearchitecture.com/pages/book/index.html" />
+  <rdf:li rdf:resource="http://www.codingthearchitecture.com/pages/book/mind-the-gap.html" />
+  <rdf:li rdf:resource="http://docs.sun.com/source/817-6096/architecture.html#wp31749" />
+  <rdf:li rdf:resource="http://tlt.psu.edu/suggestions/international/web/tips/langtag.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.smartbear.com/docs/book/code-collaborator.pdf">
+<title>code-collaborator.pdf (application/pdf Object)</title>
+<link>http://www.smartbear.com/docs/book/code-collaborator.pdf</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-06T09:41:39Z</dc:date>
+<dc:subject>code-collaborator codereview tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code-collaborator" />
+    <rdf:li resource="http://del.icio.us/tag/codereview" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smartbear.com/codecollab-code-review-book.php?howheard=Coding+Horror">
+<title>Products | Code Collaborator | Get the Free Book</title>
+<link>http://www.smartbear.com/codecollab-code-review-book.php?howheard=Coding+Horror</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-06T09:41:17Z</dc:date>
+<dc:subject>codereview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/codereview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-06T09:20:02Z</dc:date>
+<dc:subject>Chair Programmer ergonomics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/Programmer" />
+    <rdf:li resource="http://del.icio.us/tag/Chair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.exttld.com/">
+<title>ExtTLD - Simplify ExtJS for JEE</title>
+<link>http://www.exttld.com/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-05T09:44:29Z</dc:date>
+<dc:subject>extjs j2ee library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stumbleupon.com/demo/?review=1#url=http://jackslocum.com/blog/2008/02/07/ides-plugins-and-tools-for-extjs-20/">
+<title>StumbleUpon Demo - Jack Slocum&#x26;8217;s Blog - &#x26; IDEs and tools for Ext JS 2.0</title>
+<link>http://www.stumbleupon.com/demo/?review=1#url=http://jackslocum.com/blog/2008/02/07/ides-plugins-and-tools-for-extjs-20/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-05T09:43:04Z</dc:date>
+<dc:subject>IDE extjs tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+    <rdf:li resource="http://del.icio.us/tag/IDE" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alittlemadness.com/2008/04/24/ext-discovers-step-2-of-the-slashdot-business-model/">
+<title>a little madness &#xBB; Ext Discovers Step 2 of the Slashdot Business Model?</title>
+<link>http://www.alittlemadness.com/2008/04/24/ext-discovers-step-2-of-the-slashdot-business-model/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-05T09:42:39Z</dc:date>
+<dc:subject>extjs issue license</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+    <rdf:li resource="http://del.icio.us/tag/license" />
+    <rdf:li resource="http://del.icio.us/tag/issue" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.cnet.com/8301-13505_3-9878693-16.html">
+<title>ExtJS: When open source is not open at all | The Open Road - The Business and Politics of Open Source by Matt Asay - CNET News.com</title>
+<link>http://news.cnet.com/8301-13505_3-9878693-16.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-05T09:35:03Z</dc:date>
+<dc:subject>extjs issue licensing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+    <rdf:li resource="http://del.icio.us/tag/licensing" />
+    <rdf:li resource="http://del.icio.us/tag/issue" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stumbleupon.com/tag/extjs/">
+<title>Extjs Websites</title>
+<link>http://www.stumbleupon.com/tag/extjs/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-07-05T09:25:10Z</dc:date>
+<dc:subject>extjs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://westciv.com/xray/">
+<title>XRAY :: for web developers</title>
+<link>http://westciv.com/xray/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-04T05:13:48Z</dc:date>
+<dc:subject>debugger javascript tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/debugger" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.my-debugbar.com/wiki/IETester/HomePage">
+<title>My DebugBar | IETester / HomePage</title>
+<link>http://www.my-debugbar.com/wiki/IETester/HomePage</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-04T04:33:18Z</dc:date>
+<dc:subject>1, 6 IE IE5.5 IE7 IE8 Vista XP and beta javascript on testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/IE8" />
+    <rdf:li resource="http://del.icio.us/tag/beta" />
+    <rdf:li resource="http://del.icio.us/tag/1%2C" />
+    <rdf:li resource="http://del.icio.us/tag/IE7" />
+    <rdf:li resource="http://del.icio.us/tag/IE" />
+    <rdf:li resource="http://del.icio.us/tag/6" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/IE5.5" />
+    <rdf:li resource="http://del.icio.us/tag/on" />
+    <rdf:li resource="http://del.icio.us/tag/Vista" />
+    <rdf:li resource="http://del.icio.us/tag/XP" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.debugbar.com/">
+<title>DebugBar - IE extension for web developer : DOM inspector, Javascript debugger, HTTP headers viewer, Cookies viewer</title>
+<link>http://www.debugbar.com/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-04T04:31:31Z</dc:date>
+<dc:subject>IE debugger extension javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/IE" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/debugger" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clientside.cnet.com/wiki/mootorial/0-mootoolsvsothers">
+<title>Mootools vs. Other Frameworks &#xBB; Clientside Examples &#x26; Tutorials &#xBB; Clientside</title>
+<link>http://clientside.cnet.com/wiki/mootorial/0-mootoolsvsothers</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-04T04:31:18Z</dc:date>
+<dc:subject>Mootools comparison</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mootools" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whitehatsec.com/downloads/WP10Things.pdf">
+<title>TEN THINGS YOU SHOULD KNOW ABOUT WEB APPLICATION SECURITY</title>
+<link>http://www.whitehatsec.com/downloads/WP10Things.pdf</link>
+<description>TEN THINGS YOU SHOULD KNOW
+ABOUT WEB APPLICATION SECURITY</description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T18:59:06Z</dc:date>
+<dc:subject>APPLICATION SECURITY WEB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/WEB" />
+    <rdf:li resource="http://del.icio.us/tag/APPLICATION" />
+    <rdf:li resource="http://del.icio.us/tag/SECURITY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jeremiahgrossman.blogspot.com/2006/01/advanced-web-attack-techniques-using.html">
+<title>advanced-web-attack-techniques-us</title>
+<link>http://jeremiahgrossman.blogspot.com/2006/01/advanced-web-attack-techniques-using.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T18:54:34Z</dc:date>
+<dc:subject>google hacks javascript security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developers.sun.com/portalserver/reference/techart/ajax-portlets.html">
+<title>Best Practices for Applying Ajax to JSR 168 Portlets</title>
+<link>http://developers.sun.com/portalserver/reference/techart/ajax-portlets.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T06:32:02Z</dc:date>
+<dc:subject>ajax dojo portlet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/portlet" />
+    <rdf:li resource="http://del.icio.us/tag/dojo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javascriptant.com/articles/24/javascript-libraries-by-comparison">
+<title>javascript ant // articles // JavaScript Libraries By&#xA0;Comparison</title>
+<link>http://javascriptant.com/articles/24/javascript-libraries-by-comparison</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T06:01:22Z</dc:date>
+<dc:subject>comparison javascript library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picnik.com/app#/home/welcome">
+<title>Picnik</title>
+<link>http://www.picnik.com/app#/home/welcome</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T05:49:55Z</dc:date>
+<dc:subject>editing free online photo tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/editing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifeclever.com/10-free-web-based-alternatives-to-photoshop/">
+<title>10 Free Web-based Alternatives to Photoshop</title>
+<link>http://www.lifeclever.com/10-free-web-based-alternatives-to-photoshop/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T05:25:04Z</dc:date>
+<dc:subject>Design applications apps free photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ohdave.com/rsa/">
+<title>RSA In JavaScript</title>
+<link>http://www.ohdave.com/rsa/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T05:23:49Z</dc:date>
+<dc:subject>javascript rsa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/rsa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mediaproducts.gartner.com/reprints/microsoft/vol4/article15/article15.html">
+<title>Magic Quadrant for Integrated SOA Governance Technology Sets, 2007</title>
+<link>http://mediaproducts.gartner.com/reprints/microsoft/vol4/article15/article15.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-06-02T04:50:28Z</dc:date>
+<dc:subject>Governance SOA</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SOA" />
+    <rdf:li resource="http://del.icio.us/tag/Governance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jaxmag.com/itr/online_artikel/psecom,id,638,nodeid,147.html">
+<title>The Benefits of Coding Standards - jax magazine :: The Premier Online Resource for Java, Apache, XML, and Web Services</title>
+<link>http://www.jaxmag.com/itr/online_artikel/psecom,id,638,nodeid,147.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-21T13:26:57Z</dc:date>
+<dc:subject>Coding Standards</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Coding" />
+    <rdf:li resource="http://del.icio.us/tag/Standards" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/web/library/wa-struts/">
+<title>Best practices for Struts development</title>
+<link>http://www.ibm.com/developerworks/web/library/wa-struts/</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-21T13:17:50Z</dc:date>
+<dc:subject>Best practices struts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/struts" />
+    <rdf:li resource="http://del.icio.us/tag/Best" />
+    <rdf:li resource="http://del.icio.us/tag/practices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javapractices.com/topic/TopicAction.do?Id=217">
+<title>Java Practices -&#x3E; Beware of common hacks</title>
+<link>http://www.javapractices.com/topic/TopicAction.do?Id=217</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-20T15:30:25Z</dc:date>
+<dc:subject>Java Practices common hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Practices" />
+    <rdf:li resource="http://del.icio.us/tag/common" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Comparison_of_Unicode_encodings">
+<title>Comparison of Unicode encodings - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Comparison_of_Unicode_encodings</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-20T15:26:21Z</dc:date>
+<dc:subject>Comparison Unicode encodings</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Comparison" />
+    <rdf:li resource="http://del.icio.us/tag/Unicode" />
+    <rdf:li resource="http://del.icio.us/tag/encodings" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/ISO_8859-1">
+<title>ISO/IEC 8859-1 - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/ISO_8859-1</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-20T15:10:48Z</dc:date>
+<dc:subject>iso-8859-1</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iso-8859-1" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javapractices.com/home/HomeAction.do">
+<title>Java Practices -&#x3E; Home</title>
+<link>http://www.javapractices.com/home/HomeAction.do</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-20T14:32:30Z</dc:date>
+<dc:subject>java practices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/practices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itarchitect.co.uk/articles/display.asp?id=400">
+<title>ITarchitect | Articles | Evolution of the Web Presentation Layer: Silverlight and ASP.NET AJAX architectures</title>
+<link>http://www.itarchitect.co.uk/articles/display.asp?id=400</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-19T11:19:10Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codingthearchitecture.com/pages/book/index.html">
+<title>Essays for hands-on software architects - Coding the Architecture</title>
+<link>http://www.codingthearchitecture.com/pages/book/index.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-19T09:13:14Z</dc:date>
+<dc:subject>architecture software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codingthearchitecture.com/pages/book/mind-the-gap.html">
+<title>Mind the gap - Coding the Architecture</title>
+<link>http://www.codingthearchitecture.com/pages/book/mind-the-gap.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-19T09:05:38Z</dc:date>
+<dc:subject>Ar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.sun.com/source/817-6096/architecture.html#wp31749">
+<title>logical architecture</title>
+<link>http://docs.sun.com/source/817-6096/architecture.html#wp31749</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-14T15:30:29Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tlt.psu.edu/suggestions/international/web/tips/langtag.html">
+<title>Web Developers &#xBB; Developing Tips &#xBB; Declare the Language</title>
+<link>http://tlt.psu.edu/suggestions/international/web/tips/langtag.html</link>
+<description></description>
+<dc:creator>velayoudam</dc:creator>
+<dc:date>2008-05-01T07:53:15Z</dc:date>
+<dc:subject>DevelopingTips Internationalization WebDevelopers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/WebDevelopers" />
+    <rdf:li resource="http://del.icio.us/tag/DevelopingTips" />
+    <rdf:li resource="http://del.icio.us/tag/Internationalization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

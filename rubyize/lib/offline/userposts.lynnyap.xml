@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lynnyap">
+<title>del.icio.us/lynnyap</title>
+<link>http://del.icio.us/lynnyap</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://singapore.angloinfo.com/af/750/anglofile.html" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.cpd.ogi.edu/mst/capstone/17Mistakes.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://singapore.angloinfo.com/af/750/anglofile.html">
+<title>Singapore Feng Shui</title>
+<link>http://singapore.angloinfo.com/af/750/anglofile.html</link>
+<description>fengshui classified</description>
+<dc:creator>lynnyap</dc:creator>
+<dc:date>2008-07-06T12:59:20Z</dc:date>
+<dc:subject>classified</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/classified" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description>blogging notes</description>
+<dc:creator>lynnyap</dc:creator>
+<dc:date>2008-07-06T08:49:54Z</dc:date>
+<dc:subject>blog notes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cpd.ogi.edu/mst/capstone/17Mistakes.htm">
+<title>http://www.cpd.ogi.edu/mst/capstone/17Mistakes.htm</title>
+<link>http://www.cpd.ogi.edu/mst/capstone/17Mistakes.htm</link>
+<description>mistakes people make</description>
+<dc:creator>lynnyap</dc:creator>
+<dc:date>2008-07-06T08:38:15Z</dc:date>
+<dc:subject>lesson</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lesson" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

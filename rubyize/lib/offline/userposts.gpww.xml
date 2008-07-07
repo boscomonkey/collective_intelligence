@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/gpww">
+<title>del.icio.us/gpww</title>
+<link>http://del.icio.us/gpww</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.truecrypt.org/docs/?s=hidden-operating-system" />
+  <rdf:li rdf:resource="http://pdos.csail.mit.edu/~baford/vm/" />
+  <rdf:li rdf:resource="http://swtch.com/9vx/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=2xZCgFl6SRs&#x26;amp;feature=related" />
+  <rdf:li rdf:resource="http://www.ics.uci.edu/~eppstein/PADS/" />
+  <rdf:li rdf:resource="http://you.presscue.com/node/982" />
+  <rdf:li rdf:resource="http://www.newscientist.com/article/dn14151-guzzling-coffee-may-cut-heart-disease.html?DCMP=ILC-hmts&#x26;nsref=news8_head_dn14151" />
+  <rdf:li rdf:resource="http://www.convertworld.com/en" />
+  <rdf:li rdf:resource="http://www.airscooter.com/" />
+  <rdf:li rdf:resource="http://petdance.com/ack/" />
+  <rdf:li rdf:resource="http://www.loiclemeur.com/english/2008/05/friendfeed-is-g.html" />
+  <rdf:li rdf:resource="http://www.micropersuasion.com/2008/06/three-little-ti.html" />
+  <rdf:li rdf:resource="http://www.withouthotair.com/" />
+  <rdf:li rdf:resource="http://www.eigenfactor.org/map/maps.htm" />
+  <rdf:li rdf:resource="http://www.zagg.com/" />
+  <rdf:li rdf:resource="http://www.louisgray.com/live/2008/06/loud3r-launches-massive-semantically.html" />
+  <rdf:li rdf:resource="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/" />
+  <rdf:li rdf:resource="http://www.barackobama.com/issues/" />
+  <rdf:li rdf:resource="http://www.appleinsider.com/articles/08/06/16/apples_open_secret_sproutcore_is_cocoa_for_the_web.html" />
+  <rdf:li rdf:resource="http://www.myprops.org/content/US-News-and-World-Report-Interviews-Peter-Schiff-In-many-ways-its-going-to-be-worse-than-the-Depression/" />
+  <rdf:li rdf:resource="http://lifehacker.com/395368/best-online-language-tools-for-word-nerds" />
+  <rdf:li rdf:resource="http://www.fivecentnickel.com/2008/06/06/how-to-get-rid-of-ants-safely-and-without-an-exterminator/" />
+  <rdf:li rdf:resource="http://www.physorg.com/news131804347.html" />
+  <rdf:li rdf:resource="http://e360.yale.edu/content/feature.msp?id=2012" />
+  <rdf:li rdf:resource="http://photojournal.jpl.nasa.gov/figures/PIA10748_fig1.jpg" />
+  <rdf:li rdf:resource="http://www.wired.com/culture/culturereviews/magazine/16-06/st_best" />
+  <rdf:li rdf:resource="http://www.touchspin.com/chem/SWFs/pt2k61012.swf" />
+  <rdf:li rdf:resource="http://www.salon.com/opinion/greenwald/2008/05/28/mcclellan/index.html" />
+  <rdf:li rdf:resource="http://medheadlines.com/2008/05/28/gina-keeps-discrimination-out-of-genetic-info/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Standard model of fundamental particles and interactions</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-07-06T12:13:19Z</dc:date>
+<dc:subject>physics reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.truecrypt.org/docs/?s=hidden-operating-system">
+<title>Hidden Operating System - TrueCrypt - Free Open-Source On-The-Fly Disk Encryption Software</title>
+<link>http://www.truecrypt.org/docs/?s=hidden-operating-system</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-07-05T13:57:32Z</dc:date>
+<dc:subject>Tools howto privacy reference security software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdos.csail.mit.edu/~baford/vm/">
+<title>VX32 Virtual Extension Environment</title>
+<link>http://pdos.csail.mit.edu/~baford/vm/</link>
+<description>portable, efficient, safe execution of untrusted x86 code</description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-29T17:11:57Z</dc:date>
+<dc:subject>linux osx security software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swtch.com/9vx/">
+<title>9vx - a port of the plan 9 operating system to freebsd, linux, and os x</title>
+<link>http://swtch.com/9vx/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-29T17:06:51Z</dc:date>
+<dc:subject>Linux OSX cool unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/OSX" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=2xZCgFl6SRs&#x26;amp;feature=related">
+<title>YouTube - Incredible Machine - Der Lauf der Dinge</title>
+<link>http://www.youtube.com/watch?v=2xZCgFl6SRs&#x26;amp;feature=related</link>
+<description>pyrotechnics &#x26;amp; chemistry!</description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-28T15:19:00Z</dc:date>
+<dc:subject>RubeGoldberg cool fun</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/RubeGoldberg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ics.uci.edu/~eppstein/PADS/">
+<title>PADS: Python Algorithms and Data Structures, by David Eppstein (UCI) [public domain]</title>
+<link>http://www.ics.uci.edu/~eppstein/PADS/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-28T13:35:36Z</dc:date>
+<dc:subject>OpenSource Python computer_science free reference software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/computer_science" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://you.presscue.com/node/982">
+<title>Global Warming Twenty Years Later: Tipping Points Near</title>
+<link>http://you.presscue.com/node/982</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-24T17:08:55Z</dc:date>
+<dc:subject>climate environment future politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/article/dn14151-guzzling-coffee-may-cut-heart-disease.html?DCMP=ILC-hmts&#x26;nsref=news8_head_dn14151">
+<title>Guzzling coffee may cut heart disease - health - 16 June 2008 - New Scientist</title>
+<link>http://www.newscientist.com/article/dn14151-guzzling-coffee-may-cut-heart-disease.html?DCMP=ILC-hmts&#x26;nsref=news8_head_dn14151</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-24T16:38:07Z</dc:date>
+<dc:subject>health news science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.convertworld.com/en">
+<title>Unit Conversion Online - Use Our Unique Conversion Tools Free</title>
+<link>http://www.convertworld.com/en</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-23T19:03:56Z</dc:date>
+<dc:subject>Tools math reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.airscooter.com/">
+<title>AirScooter Corporation Website</title>
+<link>http://www.airscooter.com/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-23T19:03:19Z</dc:date>
+<dc:subject>cool design future transportation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/transportation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://petdance.com/ack/">
+<title>ack -- better than grep, a power search tool for programmers</title>
+<link>http://petdance.com/ack/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-22T13:46:10Z</dc:date>
+<dc:subject>PERL Tools development geek programming regexp search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/PERL" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/regexp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.loiclemeur.com/english/2008/05/friendfeed-is-g.html">
+<title>Loic Le Meur Blog: Friendfeed Is Going To Kill Google Reader, Not Twitter</title>
+<link>http://www.loiclemeur.com/english/2008/05/friendfeed-is-g.html</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-22T13:44:02Z</dc:date>
+<dc:subject>Tools information lifehacks social web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.micropersuasion.com/2008/06/three-little-ti.html">
+<title>Three Little Tips for Capturing Info Bits Quickly</title>
+<link>http://www.micropersuasion.com/2008/06/three-little-ti.html</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-22T13:32:27Z</dc:date>
+<dc:subject>Tools information lifehacks social web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.withouthotair.com/">
+<title>Sustainable Energy - Without the Hot Air (withouthotair.com)</title>
+<link>http://www.withouthotair.com/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-21T17:53:43Z</dc:date>
+<dc:subject>analysis climate energy environment free policy politics sustainability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/sustainability" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/policy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eigenfactor.org/map/maps.htm">
+<title>eigenfactor.org - ranking and mapping scientific journals</title>
+<link>http://www.eigenfactor.org/map/maps.htm</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-21T17:40:22Z</dc:date>
+<dc:subject>cool science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zagg.com/">
+<title>ZAGG | invisibleSHIELD | iPhone, iPod Cases, Screen Protectors, Covers, Shields, Skins, Invisible Shield</title>
+<link>http://www.zagg.com/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-18T18:11:34Z</dc:date>
+<dc:subject>Tools hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.louisgray.com/live/2008/06/loud3r-launches-massive-semantically.html">
+<title>LOUD3R Launches Massive Semantically-Driven Network</title>
+<link>http://www.louisgray.com/live/2008/06/loud3r-launches-massive-semantically.html</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-18T15:48:59Z</dc:date>
+<dc:subject>Tools semantic-web web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/semantic-web" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/">
+<title>Cocoa for Windows + Flash Killer = SproutCore &#x2014; RoughlyDrafted Magazine</title>
+<link>http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-17T21:16:12Z</dc:date>
+<dc:subject>AJAX Apple JavaScript OpenSource Tools programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/Apple" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/">
+<title>SproutCore</title>
+<link>http://www.sproutcore.com/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-16T17:22:51Z</dc:date>
+<dc:subject>AJAX JavaScript OpenSource programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.barackobama.com/issues/">
+<title>Barack Obama | Issues</title>
+<link>http://www.barackobama.com/issues/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-16T17:21:51Z</dc:date>
+<dc:subject>policy politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/policy" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appleinsider.com/articles/08/06/16/apples_open_secret_sproutcore_is_cocoa_for_the_web.html">
+<title>SproutCore is Cocoa for the Web</title>
+<link>http://www.appleinsider.com/articles/08/06/16/apples_open_secret_sproutcore_is_cocoa_for_the_web.html</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-16T17:14:03Z</dc:date>
+<dc:subject>AJAX JavaScript OpenSource programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myprops.org/content/US-News-and-World-Report-Interviews-Peter-Schiff-In-many-ways-its-going-to-be-worse-than-the-Depression/">
+<title>US News and World Reports Interviews Peter Schiff: &#x22;In many ways, it's going to be worse than the Depression.&#x22; - Housing Bubble and Bear Links</title>
+<link>http://www.myprops.org/content/US-News-and-World-Report-Interviews-Peter-Schiff-In-many-ways-its-going-to-be-worse-than-the-Depression/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-12T17:33:36Z</dc:date>
+<dc:subject>crisis economy future retirement security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/crisis" />
+    <rdf:li resource="http://del.icio.us/tag/retirement" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/395368/best-online-language-tools-for-word-nerds">
+<title>Language: Best Online Language Tools for Word Nerds</title>
+<link>http://lifehacker.com/395368/best-online-language-tools-for-word-nerds</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-10T21:30:18Z</dc:date>
+<dc:subject>Tools cool reference writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fivecentnickel.com/2008/06/06/how-to-get-rid-of-ants-safely-and-without-an-exterminator/">
+<title>How to Get Rid of Ants Safely and Without an Exterminator</title>
+<link>http://www.fivecentnickel.com/2008/06/06/how-to-get-rid-of-ants-safely-and-without-an-exterminator/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-09T21:29:30Z</dc:date>
+<dc:subject>howto lifehacks reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.physorg.com/news131804347.html">
+<title>Inflatable electric car can drive off cliffs</title>
+<link>http://www.physorg.com/news131804347.html</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-05T16:58:16Z</dc:date>
+<dc:subject>cool energy technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e360.yale.edu/content/feature.msp?id=2012">
+<title>Yale Environment 360: The Tipping Point</title>
+<link>http://e360.yale.edu/content/feature.msp?id=2012</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-04T17:16:15Z</dc:date>
+<dc:subject>climate crisis environment science sustainability wickedProblems</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/sustainability" />
+    <rdf:li resource="http://del.icio.us/tag/wickedProblems" />
+    <rdf:li resource="http://del.icio.us/tag/crisis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photojournal.jpl.nasa.gov/figures/PIA10748_fig1.jpg">
+<title>Map to the Milky Way -- Top View</title>
+<link>http://photojournal.jpl.nasa.gov/figures/PIA10748_fig1.jpg</link>
+<description>(JPEG Image, 5600x5600 pixels)</description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-04T16:55:34Z</dc:date>
+<dc:subject>reference space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/culture/culturereviews/magazine/16-06/st_best">
+<title>8 Best: Non-Wikipedia Pedias</title>
+<link>http://www.wired.com/culture/culturereviews/magazine/16-06/st_best</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-02T21:24:54Z</dc:date>
+<dc:subject>fun information wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.touchspin.com/chem/SWFs/pt2k61012.swf">
+<title>Interactive periodic table of the elements</title>
+<link>http://www.touchspin.com/chem/SWFs/pt2k61012.swf</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-06-01T17:20:50Z</dc:date>
+<dc:subject>cool education physics reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salon.com/opinion/greenwald/2008/05/28/mcclellan/index.html">
+<title>Scott McClellan on the &#x22;liberal media&#x22; - Glenn Greenwald - Salon.com</title>
+<link>http://www.salon.com/opinion/greenwald/2008/05/28/mcclellan/index.html</link>
+<description>George Bush's own Press Secretary criticizes the American media for being &#x26;quot;too deferential&#x26;quot; to the Government.</description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-05-29T16:40:17Z</dc:date>
+<dc:subject>corruption injustice media news politics stupidity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/stupidity" />
+    <rdf:li resource="http://del.icio.us/tag/corruption" />
+    <rdf:li resource="http://del.icio.us/tag/injustice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://medheadlines.com/2008/05/28/gina-keeps-discrimination-out-of-genetic-info/">
+<title>MedHeadlines - GINA Keeps Discrimination Out of Genetic Info</title>
+<link>http://medheadlines.com/2008/05/28/gina-keeps-discrimination-out-of-genetic-info/</link>
+<description></description>
+<dc:creator>gpww</dc:creator>
+<dc:date>2008-05-28T16:45:44Z</dc:date>
+<dc:subject>genetics healthcare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

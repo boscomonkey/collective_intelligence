@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kurakura">
+<title>del.icio.us/kurakura</title>
+<link>http://del.icio.us/kurakura</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/" />
+  <rdf:li rdf:resource="http://store.shopping.yahoo.co.jp/murauchi/4547441250688.html" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://www.fubiz.net/blog/index.php?2008/06/04/1692-70-amazing-business-cards" />
+  <rdf:li rdf:resource="http://www.inside-games.jp/special/cero/10004.html" />
+  <rdf:li rdf:resource="http://www.erc.pref.fukui.jp/topic/earth.html" />
+  <rdf:li rdf:resource="http://www.city.yokkaichi.mie.jp/gakusyu/mondai.htm" />
+  <rdf:li rdf:resource="http://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+  <rdf:li rdf:resource="http://eco-one.net/" />
+  <rdf:li rdf:resource="http://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+  <rdf:li rdf:resource="http://kankyo.jsf.or.jp/" />
+  <rdf:li rdf:resource="http://emehmedovic.com/xmca/toobplayer/#/download/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/29/scistubble129.xml" />
+  <rdf:li rdf:resource="http://www.pdf-search-engine.com/index.php" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/26/firefox-3-extensions/" />
+  <rdf:li rdf:resource="http://www.next-gen.biz/" />
+  <rdf:li rdf:resource="http://www.teamviewer.com/index.aspx" />
+  <rdf:li rdf:resource="http://creativebits.org/cool_business_card_designs" />
+  <rdf:li rdf:resource="http://www.openclipart.org/" />
+  <rdf:li rdf:resource="http://justcreativedesign.com/2007/12/27/how-to-boost-your-creativity/" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/" />
+  <rdf:li rdf:resource="http://fabulously40.com/article/2293/Cannibalism-Is-Healthy/" />
+  <rdf:li rdf:resource="http://lifehacker.com/396268/dia-does-powerful-diagrams-and-flowcharts" />
+  <rdf:li rdf:resource="http://shouronbun.com/index.html" />
+  <rdf:li rdf:resource="http://www.dealtime.com/xDN-nutrition--brand_pherone" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Blog" />
+  <rdf:li rdf:resource="http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0" />
+  <rdf:li rdf:resource="http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" />
+  <rdf:li rdf:resource="http://whatjapanthinks.com/tag/sns/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-06T12:45:53Z</dc:date>
+<dc:subject>3d art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/">
+<title>HairStyles that my Mom won&#x2019;t approve &#xAB; Omg OWNED!!$#%$$@! =p</title>
+<link>http://omgowned.wordpress.com/2008/06/07/hairstyles-that-my-mom-wont-approve/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-06T05:29:22Z</dc:date>
+<dc:subject>amazing animal art cool funny hair interesting weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hair" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/animal" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://store.shopping.yahoo.co.jp/murauchi/4547441250688.html">
+<title>murauchi.co.jp&#x3000;&#x30CA;&#x30B7;&#x30E7;&#x30CA;&#x30EB; &#x30DB;&#x30EA;&#x30BE;&#x30F3;&#x30C8;&#x30FB;&#x30A2;&#x30C3;&#x30D1;&#x30FC;&#x30E9;&#x30A4;&#x30C8; &#x3010;&#x8D85;&#x5927;&#x4EBA;&#x6C17;&#x5546;&#x54C1;!&#x3011;HH319 - Yahoo!&#x30B7;&#x30E7;&#x30C3;&#x30D4;&#x30F3;&#x30B0;</title>
+<link>http://store.shopping.yahoo.co.jp/murauchi/4547441250688.html</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-04T15:13:17Z</dc:date>
+<dc:subject>TOBUY lamp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lamp" />
+    <rdf:li resource="http://del.icio.us/tag/TOBUY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-02T14:30:44Z</dc:date>
+<dc:subject>communication confidence fear happiness health lifehacks psychology selfimprovement shyness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+    <rdf:li resource="http://del.icio.us/tag/selfimprovement" />
+    <rdf:li resource="http://del.icio.us/tag/confidence" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/fear" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fubiz.net/blog/index.php?2008/06/04/1692-70-amazing-business-cards">
+<title>70 Amazing Business Cards - Fubiz&#x2122;</title>
+<link>http://www.fubiz.net/blog/index.php?2008/06/04/1692-70-amazing-business-cards</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T17:14:40Z</dc:date>
+<dc:subject>business businesscards card cards design inspiration marketing print</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/businesscards" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/cards" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+    <rdf:li resource="http://del.icio.us/tag/card" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inside-games.jp/special/cero/10004.html">
+<title>CERO&#x7279;&#x96C6; / CERO&#x306B;&#x3088;&#x308B;&#x30EC;&#x30FC;&#x30C6;&#x30A3;&#x30F3;&#x30B0;&#x3068;&#x305D;&#x306E;&#x5F0A;&#x5BB3; - iNSIDE</title>
+<link>http://www.inside-games.jp/special/cero/10004.html</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T16:25:30Z</dc:date>
+<dc:subject>CERO &#x30C7;&#x30E1;&#x30EA;&#x30C3;&#x30C8; &#x30E1;&#x30EA;&#x30C3;&#x30C8; &#x554F;&#x984C;&#x70B9;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CERO" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%95%8F%E9%A1%8C%E7%82%B9" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.erc.pref.fukui.jp/topic/earth.html">
+<title>&#x5730;&#x7403;&#x74B0;&#x5883;&#x554F;&#x984C;</title>
+<link>http://www.erc.pref.fukui.jp/topic/earth.html</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:28:23Z</dc:date>
+<dc:subject>&#x30EA;&#x30C6;&#x30E9;&#x30B7; &#x5730;&#x7403;&#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.city.yokkaichi.mie.jp/gakusyu/mondai.htm">
+<title>&#x5730;&#x7403;&#x74B0;&#x5883;&#x554F;&#x984C;&#x3068;&#x306F;&#xFF1F;</title>
+<link>http://www.city.yokkaichi.mie.jp/gakusyu/mondai.htm</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:28:05Z</dc:date>
+<dc:subject>&#x5730;&#x7403;&#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C">
+<title>&#x5730;&#x7403;&#x74B0;&#x5883;&#x554F;&#x984C; - Wikipedia</title>
+<link>http://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:27:29Z</dc:date>
+<dc:subject>&#x30EA;&#x30C6;&#x30E9;&#x30B7; &#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eco-one.net/">
+<title>&#x5730;&#x7403;&#x6E29;&#x6696;&#x5316;&#x306E;&#x539F;&#x56E0;&#x3068;&#x74B0;&#x5883;&#x554F;&#x984C;&#x306E;&#x771F;&#x5B9F;</title>
+<link>http://eco-one.net/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:27:16Z</dc:date>
+<dc:subject>&#x30EA;&#x30C6;&#x30E9;&#x30B7; &#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C">
+<title>&#x74B0;&#x5883;&#x554F;&#x984C; - Wikipedia</title>
+<link>http://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:26:10Z</dc:date>
+<dc:subject>&#x30EA;&#x30C6;&#x30E9;&#x30B7; &#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kankyo.jsf.or.jp/">
+<title>&#x5730;&#x7403;&#x3092;&#x5B88;&#x308B;</title>
+<link>http://kankyo.jsf.or.jp/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T02:25:56Z</dc:date>
+<dc:subject>&#x30EA;&#x30C6;&#x30E9;&#x30B7; &#x74B0;&#x5883;&#x554F;&#x984C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%92%B0%E5%A2%83%E5%95%8F%E9%A1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emehmedovic.com/xmca/toobplayer/#/download/">
+<title>ToobPlayer 1.0.0 - Download</title>
+<link>http://emehmedovic.com/xmca/toobplayer/#/download/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-07-01T01:11:41Z</dc:date>
+<dc:subject>code flash flv free javascript player video web youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/29/scistubble129.xml">
+<title>Women prefer men with stubble for love, sex and marriage - Telegraph</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/29/scistubble129.xml</link>
+<description>stubble</description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-30T04:43:28Z</dc:date>
+<dc:subject>beard culture interesting stubby style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/beard" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/stubby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pdf-search-engine.com/index.php">
+<title>Ebook Search - Pdf Search Engine</title>
+<link>http://www.pdf-search-engine.com/index.php</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-28T03:51:32Z</dc:date>
+<dc:subject>books ebook ebooks free libros online pdf search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/26/firefox-3-extensions/">
+<title>30+ Must-Have Updated Firefox 3 Extensions</title>
+<link>http://mashable.com/2008/06/26/firefox-3-extensions/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-27T00:31:54Z</dc:date>
+<dc:subject>directory extension extensions firefox firefox3 internet mashable tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/mashable" />
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.next-gen.biz/">
+<title>Next Generation - Interactive Entertainment Today, Video Game and Industry News - Home of Edge Online</title>
+<link>http://www.next-gen.biz/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-26T10:38:28Z</dc:date>
+<dc:subject>business game games gaming magazine news technology videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teamviewer.com/index.aspx">
+<title>TeamViewer - Free Desktop Sharing and Remote Control</title>
+<link>http://www.teamviewer.com/index.aspx</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-24T02:26:47Z</dc:date>
+<dc:subject>collaboration desktop freeware remote sharing software tools vnc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/remote" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/vnc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativebits.org/cool_business_card_designs">
+<title>Cool business card designs | creativebits</title>
+<link>http://creativebits.org/cool_business_card_designs</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-24T01:33:19Z</dc:date>
+<dc:subject>advertising art business businesscards cards cool design inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/businesscards" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/cards" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openclipart.org/">
+<title>Open Clip Art Library Drawing Together</title>
+<link>http://www.openclipart.org/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-24T01:31:02Z</dc:date>
+<dc:subject>art clipart design free graphics icons images opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://justcreativedesign.com/2007/12/27/how-to-boost-your-creativity/">
+<title>Boost Your Creativity</title>
+<link>http://justcreativedesign.com/2007/12/27/how-to-boost-your-creativity/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-20T15:40:13Z</dc:date>
+<dc:subject>advice article creativity design graphic inspiration resource tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/">
+<title>37 FREE Must-Have Fonts - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-20T15:37:32Z</dc:date>
+<dc:subject>design download downloads font fonts free resources typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/">
+<title>20 Photoshop Secrets Revealed&#x2026; - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-18T14:25:30Z</dc:date>
+<dc:subject>adobe howto photoshop resources shortcuts tips tricks tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/shortcuts" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/tricks" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fabulously40.com/article/2293/Cannibalism-Is-Healthy/">
+<title>Fabulously40.com - Cannibalism Is Healthy?</title>
+<link>http://fabulously40.com/article/2293/Cannibalism-Is-Healthy/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-18T14:18:54Z</dc:date>
+<dc:subject>art creative design food fun funny inspiration photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396268/dia-does-powerful-diagrams-and-flowcharts">
+<title>Featured Download: Dia Does Powerful Diagrams and Flowcharts</title>
+<link>http://lifehacker.com/396268/dia-does-powerful-diagrams-and-flowcharts</link>
+<description>Dia Does Powerful Diagrams and Flowcharts</description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-17T03:00:29Z</dc:date>
+<dc:subject>DIA diagram flowchart freeware lifehacker linux software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flowchart" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/DIA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shouronbun.com/index.html">
+<title>&#x5C0F;&#x8AD6;&#x6587;&#x306E;&#x66F8;&#x304D;&#x65B9;&#x30FB;&#x30EC;&#x30DD;&#x30FC;&#x30C8;&#x306E;&#x66F8;&#x304D;&#x65B9; &#x8AD6;&#x6587;&#x306E;&#x66F8;&#x304D;&#x65B9;</title>
+<link>http://shouronbun.com/index.html</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-10T08:11:32Z</dc:date>
+<dc:subject>japanese writing &#x30EC;&#x30DD;&#x30FC;&#x30C8; &#x5C0F;&#x8AD6;&#x6587; &#x65E5;&#x672C;&#x8A9E; &#x66F8;&#x304D;&#x65B9;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88" />
+    <rdf:li resource="http://del.icio.us/tag/%E6%9B%B8%E3%81%8D%E6%96%B9" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%B0%8F%E8%AB%96%E6%96%87" />
+    <rdf:li resource="http://del.icio.us/tag/%E6%97%A5%E6%9C%AC%E8%AA%9E" />
+    <rdf:li resource="http://del.icio.us/tag/japanese" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dealtime.com/xDN-nutrition--brand_pherone">
+<title>Pherone - Nutrition - Find, Compare, and Buy at DealTime</title>
+<link>http://www.dealtime.com/xDN-nutrition--brand_pherone</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-09T13:43:08Z</dc:date>
+<dc:subject>pherone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pherone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Blog">
+<title>Blog - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Blog</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-09T03:59:56Z</dc:date>
+<dc:subject>blog &#x77E5;&#x8B58;&#x3068;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%9F%A5%E8%AD%98%E3%81%A8%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0">
+<title>&#x30D6;&#x30ED;&#x30B0; - Wikipedia</title>
+<link>http://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%82%B0</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-09T03:58:10Z</dc:date>
+<dc:subject>Blog &#x77E5;&#x8B58;&#x3068;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%9F%A5%E8%AD%98%E3%81%A8%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9">
+<title>&#x30BD;&#x30FC;&#x30B7;&#x30E3;&#x30EB;&#x30FB;&#x30CD;&#x30C3;&#x30C8;&#x30EF;&#x30FC;&#x30AD;&#x30F3;&#x30B0;&#x30FB;&#x30B5;&#x30FC;&#x30D3;&#x30B9; - Wikipedia</title>
+<link>http://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%BB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-09T03:57:43Z</dc:date>
+<dc:subject>sns &#x77E5;&#x8B58;&#x3068;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sns" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%9F%A5%E8%AD%98%E3%81%A8%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whatjapanthinks.com/tag/sns/">
+<title>sns &#xBB; &#x4E16;&#x8AD6; What Japan Thinks</title>
+<link>http://whatjapanthinks.com/tag/sns/</link>
+<description></description>
+<dc:creator>kurakura</dc:creator>
+<dc:date>2008-06-09T02:46:02Z</dc:date>
+<dc:subject>Polls SNS &#x77E5;&#x8B58;&#x3068;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SNS" />
+    <rdf:li resource="http://del.icio.us/tag/Polls" />
+    <rdf:li resource="http://del.icio.us/tag/%E7%9F%A5%E8%AD%98%E3%81%A8%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

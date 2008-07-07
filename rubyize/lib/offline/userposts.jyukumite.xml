@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jyukumite">
+<title>del.icio.us/jyukumite</title>
+<link>http://del.icio.us/jyukumite</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://forums.msdn.microsoft.com/en-US/netfxbcl/thread/0b90cbb5-cc67-4503-ae93-633d2ef0536b/" />
+  <rdf:li rdf:resource="http://www.codeproject.com/KB/trace/minememoryreader.aspx" />
+  <rdf:li rdf:resource="http://cnx.org/content/m14481/latest/" />
+  <rdf:li rdf:resource="http://www.scilab.org/product/dic-mat-sci/M2SCI_doc.htm" />
+  <rdf:li rdf:resource="http://www.es.lth.se/ugradcourses/asb/CE/CE5e.pdf" />
+  <rdf:li rdf:resource="http://www.mathworks.com/access/helpdesk/help/toolbox/dspblks/ref/rlsfilter.html" />
+  <rdf:li rdf:resource="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080627/cancer_trial_080627/20080628?hub=TopStories" />
+  <rdf:li rdf:resource="http://entechtaiwan.net/util/ps.shtm" />
+  <rdf:li rdf:resource="http://dclib.sourceforge.net/algorithms.html" />
+  <rdf:li rdf:resource="http://www.eee.strath.ac.uk/r.w.stewart/adaptivejava/begin.htm" />
+  <rdf:li rdf:resource="http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt" />
+  <rdf:li rdf:resource="http://picasa.google.com/download/thanks.html" />
+  <rdf:li rdf:resource="http://www.apple.com/itunes/download/" />
+  <rdf:li rdf:resource="http://www.slysoft.com/en/virtual-clonedrive.html?aid=50878" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/01/27/st_diet127.xml&#x26;page=1" />
+  <rdf:li rdf:resource="http://artofmanliness.com/2008/06/03/quit-coddling-your-kids/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Electromagnetic_spectrum" />
+  <rdf:li rdf:resource="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html" />
+  <rdf:li rdf:resource="http://www.bresink.de/osx/TemperatureMonitor.html" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/being-human/dn13355-music-special-five-great-auditory-illusions-.html" />
+  <rdf:li rdf:resource="http://aluigi.altervista.org/mytoolz.htm" />
+  <rdf:li rdf:resource="http://isorecorder.alexfeinman.com/isorecorder.htm" />
+  <rdf:li rdf:resource="http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm" />
+  <rdf:li rdf:resource="http://www.slysoft.com/en/download.html" />
+  <rdf:li rdf:resource="http://www.livrona.com/blog/programming/10-object-oriented-design-principles" />
+  <rdf:li rdf:resource="http://images-2.redbubble.com/img/art/size:large/view:main/348730-7-true-measure.jpg" />
+  <rdf:li rdf:resource="http://www.rollingstone.com/news/story/20947527/the_100_greatest_guitar_songs_of_all_time/print" />
+  <rdf:li rdf:resource="http://www.pcworld.com/zoom?id=146161&#x26;page=1&#x26;zoomIdx=1" />
+  <rdf:li rdf:resource="http://www.yelp.com/" />
+  <rdf:li rdf:resource="http://www.xyplorer.com/download.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (29%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-06T09:50:22Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.msdn.microsoft.com/en-US/netfxbcl/thread/0b90cbb5-cc67-4503-ae93-633d2ef0536b/">
+<title>Generic Classes... bah humbug. : .NET Base Class Library : MSDN Forums</title>
+<link>http://forums.msdn.microsoft.com/en-US/netfxbcl/thread/0b90cbb5-cc67-4503-ae93-633d2ef0536b/</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-06T00:47:42Z</dc:date>
+<dc:subject>c# generics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%23" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/KB/trace/minememoryreader.aspx">
+<title>CodeProject. Free source code and programming help</title>
+<link>http://www.codeproject.com/KB/trace/minememoryreader.aspx</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-01T13:30:18Z</dc:date>
+<dc:subject>debugger followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+    <rdf:li resource="http://del.icio.us/tag/debugger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cnx.org/content/m14481/latest/">
+<title>Filtering Periodic Signals</title>
+<link>http://cnx.org/content/m14481/latest/</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-01T07:04:51Z</dc:date>
+<dc:subject>filters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scilab.org/product/dic-mat-sci/M2SCI_doc.htm">
+<title>Matlab/Scilab equivalent functions</title>
+<link>http://www.scilab.org/product/dic-mat-sci/M2SCI_doc.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-01T06:37:02Z</dc:date>
+<dc:subject>filters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.es.lth.se/ugradcourses/asb/CE/CE5e.pdf">
+<title>Computer exercise 5: Recursive Least Squares ( RLS )</title>
+<link>http://www.es.lth.se/ugradcourses/asb/CE/CE5e.pdf</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-01T06:35:25Z</dc:date>
+<dc:subject>filters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathworks.com/access/helpdesk/help/toolbox/dspblks/ref/rlsfilter.html">
+<title>RLS Filter :: Blocks (Signal Processing Blockset&#x2122;)</title>
+<link>http://www.mathworks.com/access/helpdesk/help/toolbox/dspblks/ref/rlsfilter.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-07-01T00:23:55Z</dc:date>
+<dc:subject>filter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080627/cancer_trial_080627/20080628?hub=TopStories">
+<title>CTV.ca | Scientists to test if cancer cure can work in humans</title>
+<link>http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080627/cancer_trial_080627/20080628?hub=TopStories</link>
+<description>granulocytes</description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-29T09:23:30Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://entechtaiwan.net/util/ps.shtm">
+<title>EnTech Taiwan | Utilities | PowerStrip</title>
+<link>http://entechtaiwan.net/util/ps.shtm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-28T04:59:46Z</dc:date>
+<dc:subject>installme utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dclib.sourceforge.net/algorithms.html">
+<title>dlib C++ Library - Algorithms</title>
+<link>http://dclib.sourceforge.net/algorithms.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-24T12:35:08Z</dc:date>
+<dc:subject>filter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eee.strath.ac.uk/r.w.stewart/adaptivejava/begin.htm">
+<title>Adaptive Signal Processing JAVA Applet</title>
+<link>http://www.eee.strath.ac.uk/r.w.stewart/adaptivejava/begin.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-24T11:32:00Z</dc:date>
+<dc:subject>filter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/filter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt">
+<title>http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt</title>
+<link>http://www.musicdsp.org/files/Audio-EQ-Cookbook.txt</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-11T07:45:35Z</dc:date>
+<dc:subject>audio dsp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/dsp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://picasa.google.com/download/thanks.html">
+<title>Picasa: Free download from Google</title>
+<link>http://picasa.google.com/download/thanks.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-08T01:10:39Z</dc:date>
+<dc:subject>installme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apple.com/itunes/download/">
+<title>Apple - iTunes - Download iTunes</title>
+<link>http://www.apple.com/itunes/download/</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-08T01:10:04Z</dc:date>
+<dc:subject>installme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slysoft.com/en/virtual-clonedrive.html?aid=50878">
+<title>SlySoft Virtual CloneDrive</title>
+<link>http://www.slysoft.com/en/virtual-clonedrive.html?aid=50878</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-08T00:30:09Z</dc:date>
+<dc:subject>installme iso</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+    <rdf:li resource="http://del.icio.us/tag/iso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/01/27/st_diet127.xml&#x26;page=1">
+<title>Big fat lie - Telegraph</title>
+<link>http://www.telegraph.co.uk/health/main.jhtml?xml=/health/2008/01/27/st_diet127.xml&#x26;page=1</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-07T13:14:08Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://artofmanliness.com/2008/06/03/quit-coddling-your-kids/">
+<title>Quit Coddling Your Kids | The Art of Manliness</title>
+<link>http://artofmanliness.com/2008/06/03/quit-coddling-your-kids/</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-07T04:48:46Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Electromagnetic_spectrum">
+<title>Electromagnetic spectrum - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Electromagnetic_spectrum</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-03T23:02:18Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html">
+<title>SuperDuper!</title>
+<link>http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-02T11:51:26Z</dc:date>
+<dc:subject>followup installme mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bresink.de/osx/TemperatureMonitor.html">
+<title>Temperature Monitor: Description</title>
+<link>http://www.bresink.de/osx/TemperatureMonitor.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-02T11:43:40Z</dc:date>
+<dc:subject>installme mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/being-human/dn13355-music-special-five-great-auditory-illusions-.html">
+<title>Music special: Five great auditory illusions - being-human - 24 February 2008 - New Scientist</title>
+<link>http://www.newscientist.com/channel/being-human/dn13355-music-special-five-great-auditory-illusions-.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-02T03:42:43Z</dc:date>
+<dc:subject>cool followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aluigi.altervista.org/mytoolz.htm">
+<title>Luigi Auriemma</title>
+<link>http://aluigi.altervista.org/mytoolz.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-01T08:04:13Z</dc:date>
+<dc:subject>iso tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/iso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://isorecorder.alexfeinman.com/isorecorder.htm">
+<title>ISO Recorder v 2</title>
+<link>http://isorecorder.alexfeinman.com/isorecorder.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-01T01:40:25Z</dc:date>
+<dc:subject>installme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm">
+<title>Freeware MagicISO Virtual CD/DVD-ROM(MagicDisc) Overview</title>
+<link>http://www.magiciso.com/tutorials/miso-magicdisc-overview.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-01T01:40:10Z</dc:date>
+<dc:subject>installme iso</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+    <rdf:li resource="http://del.icio.us/tag/iso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slysoft.com/en/download.html">
+<title>SlySoft Download | AnyDVD, CloneDVD, CloneCD, Any DVD, Clone DVD, CloneCD</title>
+<link>http://www.slysoft.com/en/download.html</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-06-01T01:38:39Z</dc:date>
+<dc:subject>installme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/installme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livrona.com/blog/programming/10-object-oriented-design-principles">
+<title>10 Object Oriented Design Principles | Livrona</title>
+<link>http://www.livrona.com/blog/programming/10-object-oriented-design-principles</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-31T11:02:28Z</dc:date>
+<dc:subject>followup programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://images-2.redbubble.com/img/art/size:large/view:main/348730-7-true-measure.jpg">
+<title>348730-7-true-measure.jpg (JPEG Image, 413x550 pixels)</title>
+<link>http://images-2.redbubble.com/img/art/size:large/view:main/348730-7-true-measure.jpg</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-31T09:43:31Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rollingstone.com/news/story/20947527/the_100_greatest_guitar_songs_of_all_time/print">
+<title>The 100 Greatest Guitar Songs of All Time : Rolling Stone</title>
+<link>http://www.rollingstone.com/news/story/20947527/the_100_greatest_guitar_songs_of_all_time/print</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-31T09:42:57Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcworld.com/zoom?id=146161&#x26;page=1&#x26;zoomIdx=1">
+<title>PC World - PC World</title>
+<link>http://www.pcworld.com/zoom?id=146161&#x26;page=1&#x26;zoomIdx=1</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-31T09:42:51Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yelp.com/">
+<title>San Francisco Restaurants, Dentists, Bars, Beauty Salons, Doctors</title>
+<link>http://www.yelp.com/</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-31T09:42:48Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xyplorer.com/download.htm">
+<title>XYplorer - A Windows File Manager and Explorer Replacement</title>
+<link>http://www.xyplorer.com/download.htm</link>
+<description></description>
+<dc:creator>jyukumite</dc:creator>
+<dc:date>2008-05-23T01:54:51Z</dc:date>
+<dc:subject>followup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/followup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tobiasdelk">
+<title>del.icio.us/tobiasdelk</title>
+<link>http://del.icio.us/tobiasdelk</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.supercook.com/signin.asp?msg=2" />
+  <rdf:li rdf:resource="http://www.latimes.com/#" />
+  <rdf:li rdf:resource="https://www.learnvisualstudio.net/login.aspx?ReturnUrl=%2FMembers%2FGettingStarted_List.aspx" />
+  <rdf:li rdf:resource="http://morethanburnttoast.blogspot.com/search/label/Bread%20and%20Pizza" />
+  <rdf:li rdf:resource="http://listen2russian.com/links/index.html" />
+  <rdf:li rdf:resource="http://www.foreignlanguageresource.com/Foreign_Language_Resources_Russian_Page.html" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.geocities.com/SiliconValley/Horizon/3950/Main.htm" />
+  <rdf:li rdf:resource="http://www.geocities.com/oflameron/?200813" />
+  <rdf:li rdf:resource="http://www.intelligentedu.com/newly_researched_free_training/Visual_Basic.html" />
+  <rdf:li rdf:resource="http://del.icio.us/gnomelinks" />
+  <rdf:li rdf:resource="http://www.brainbell.com/" />
+  <rdf:li rdf:resource="http://www.pelzgolf.com/shortgame/home.aspx" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/24/earay124.xml&#x26;CMP=ILC-mostviewedbox" />
+  <rdf:li rdf:resource="http://www.expertvillage.com/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/everything-you-wanted-to-know-about-simplifying-your-life-and-way-more/" />
+  <rdf:li rdf:resource="http://onecomputerguy.com/keyboard.htm#ie_shortcuts" />
+  <rdf:li rdf:resource="http://www.expertvillage.com/categories.htm" />
+  <rdf:li rdf:resource="http://www.bootsnall.com/articles/08-06/becoming-an-expat.html" />
+  <rdf:li rdf:resource="http://www.vclcomponents.com/ASP_NET/Online_Communities/C__and_ASP_NET_Tutorials_for_beginners-info.html" />
+  <rdf:li rdf:resource="http://www.dotnetspider.com/" />
+  <rdf:li rdf:resource="http://searchwincomputing.techtarget.com/tip/0,289483,sid68_gci905284,00.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.truecrypt.org/docs/?s=hidden-operating-system" />
+  <rdf:li rdf:resource="http://weburbanist.com/abandoned-buildings-towns-and-cities/" />
+  <rdf:li rdf:resource="http://www.expertvillage.com/video-series/839_homemade-pizza.htm" />
+  <rdf:li rdf:resource="http://www.expertvillage.com/video/65825_teriyaki-chicken-cook-beef.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.supercook.com/signin.asp?msg=2">
+<title>Supercook</title>
+<link>http://www.supercook.com/signin.asp?msg=2</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T14:11:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.latimes.com/#">
+<title>Los Angeles Times</title>
+<link>http://www.latimes.com/#</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:55:00Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="https://www.learnvisualstudio.net/login.aspx?ReturnUrl=%2FMembers%2FGettingStarted_List.aspx">
+<title>Learn Visual Studio.Net - Member Login</title>
+<link>https://www.learnvisualstudio.net/login.aspx?ReturnUrl=%2FMembers%2FGettingStarted_List.aspx</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:50:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://morethanburnttoast.blogspot.com/search/label/Bread%20and%20Pizza">
+<title>More Than Burnt Toast: Bread and Pizza</title>
+<link>http://morethanburnttoast.blogspot.com/search/label/Bread%20and%20Pizza</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:48:48Z</dc:date>
+<dc:subject>Recipe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Recipe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listen2russian.com/links/index.html">
+<title>Learn Russian - Russian Language Lessons - External Links</title>
+<link>http://listen2russian.com/links/index.html</link>
+<description>Best Russian Language Site</description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:47:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.foreignlanguageresource.com/Foreign_Language_Resources_Russian_Page.html">
+<title>Foreign Language Resources&#xA0;-&#xA0;Foreign Language Resources Russian Page</title>
+<link>http://www.foreignlanguageresource.com/Foreign_Language_Resources_Russian_Page.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:47:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:45:28Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.geocities.com/SiliconValley/Horizon/3950/Main.htm">
+<title>Stan's Visual Basic for Beginners</title>
+<link>http://www.geocities.com/SiliconValley/Horizon/3950/Main.htm</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:40:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.geocities.com/oflameron/?200813">
+<title>OfLameron - Logical Game on VB</title>
+<link>http://www.geocities.com/oflameron/?200813</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:39:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.intelligentedu.com/newly_researched_free_training/Visual_Basic.html">
+<title>Free Visual Basic Training</title>
+<link>http://www.intelligentedu.com/newly_researched_free_training/Visual_Basic.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:39:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/gnomelinks">
+<title>Gnomelinks' Favorites</title>
+<link>http://del.icio.us/gnomelinks</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:38:28Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.brainbell.com/">
+<title>Free web development resources, web designing, graphics designing, tutorials, tips</title>
+<link>http://www.brainbell.com/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:38:03Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.pelzgolf.com/shortgame/home.aspx">
+<title>Golf Lessons</title>
+<link>http://www.pelzgolf.com/shortgame/home.aspx</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:37:26Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/">
+<title>Telegraph - Britain's No.1 Newspaper</title>
+<link>http://www.telegraph.co.uk/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:35:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/24/earay124.xml&#x26;CMP=ILC-mostviewedbox">
+<title>Telegraph - Britain's No.1 Newspaper</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/24/earay124.xml&#x26;CMP=ILC-mostviewedbox</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:34:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.expertvillage.com/">
+<title>Videos on ExpertVillage.com | How to videos, free video clips</title>
+<link>http://www.expertvillage.com/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:34:28Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:34:07Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/everything-you-wanted-to-know-about-simplifying-your-life-and-way-more/">
+<title>Zen Habits</title>
+<link>http://zenhabits.net/2008/06/everything-you-wanted-to-know-about-simplifying-your-life-and-way-more/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:33:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://onecomputerguy.com/keyboard.htm#ie_shortcuts">
+<title>Keyboard Shortcuts</title>
+<link>http://onecomputerguy.com/keyboard.htm#ie_shortcuts</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:32:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.expertvillage.com/categories.htm">
+<title>Free Online Videos by Category | ExpertVillage</title>
+<link>http://www.expertvillage.com/categories.htm</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:32:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.bootsnall.com/articles/08-06/becoming-an-expat.html">
+<title>Becoming an Expat, expat, expatriate, Jessica Spiegel, Living abroad | BootsnAll Articles</title>
+<link>http://www.bootsnall.com/articles/08-06/becoming-an-expat.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T13:32:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.vclcomponents.com/ASP_NET/Online_Communities/C__and_ASP_NET_Tutorials_for_beginners-info.html">
+<title>C</title>
+<link>http://www.vclcomponents.com/ASP_NET/Online_Communities/C__and_ASP_NET_Tutorials_for_beginners-info.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T12:50:56Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.dotnetspider.com/">
+<title>C</title>
+<link>http://www.dotnetspider.com/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-06T12:39:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://searchwincomputing.techtarget.com/tip/0,289483,sid68_gci905284,00.html">
+<title>Put a command line shortcut in your mouse's right click menu</title>
+<link>http://searchwincomputing.techtarget.com/tip/0,289483,sid68_gci905284,00.html</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T18:30:40Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T17:17:38Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T17:06:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.truecrypt.org/docs/?s=hidden-operating-system">
+<title>TrueCrypt - Free Open-Source On-The-Fly Disk Encryption Software for Windows Vista/XP, Mac OS X and Linux - Documentation</title>
+<link>http://www.truecrypt.org/docs/?s=hidden-operating-system</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T17:06:44Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://weburbanist.com/abandoned-buildings-towns-and-cities/">
+<title>Abandoned Buildings, Towns and Cities | WebUrbanist</title>
+<link>http://weburbanist.com/abandoned-buildings-towns-and-cities/</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T17:06:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.expertvillage.com/video-series/839_homemade-pizza.htm">
+<title>Homemade Pizza Recipe | ExpertVillage Videos</title>
+<link>http://www.expertvillage.com/video-series/839_homemade-pizza.htm</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T16:18:18Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.expertvillage.com/video/65825_teriyaki-chicken-cook-beef.htm">
+<title>Cook Beef for Teriyaki | ExpertVillage Videos</title>
+<link>http://www.expertvillage.com/video/65825_teriyaki-chicken-cook-beef.htm</link>
+<description></description>
+<dc:creator>TobiasDelk</dc:creator>
+<dc:date>2008-07-05T16:15:22Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

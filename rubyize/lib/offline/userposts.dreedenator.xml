@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dreedenator">
+<title>del.icio.us/dreedenator</title>
+<link>http://del.icio.us/dreedenator</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.snowydaydesign.com/" />
+  <rdf:li rdf:resource="http://www.wpremix.com/home/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.veggiemealplans.com/" />
+  <rdf:li rdf:resource="http://www.opensourcemac.org/" />
+  <rdf:li rdf:resource="http://www.mikledet.com/" />
+  <rdf:li rdf:resource="http://tredosoft.com/Multiple_IE" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://www.webresourceslinks.com/" />
+  <rdf:li rdf:resource="http://www.manageme.in/" />
+  <rdf:li rdf:resource="http://www.webdepiction.com/" />
+  <rdf:li rdf:resource="http://viviti.com/" />
+  <rdf:li rdf:resource="http://stylizedweb.com/2008/06/25/amaizing-wordpress-hacks-part-1/" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/article/guide-web-character-encoding" />
+  <rdf:li rdf:resource="http://freecss.info/free-css-tutorials/using-css-with-adsense/" />
+  <rdf:li rdf:resource="http://codex.wordpress.org/Template_Tags/the_excerpt" />
+  <rdf:li rdf:resource="http://www.macosxhints.com/article.php?story=20070411201020536" />
+  <rdf:li rdf:resource="http://wpthemes.blogohblog.net/?page_id=2" />
+  <rdf:li rdf:resource="http://www.kapikua.com/theme-leia-en/" />
+  <rdf:li rdf:resource="http://www.webresourcesdepot.com/load-content-while-scrolling-with-jquery/" />
+  <rdf:li rdf:resource="http://perishablepress.com/press/2006/08/30/nifty-css-link-hover-effect/" />
+  <rdf:li rdf:resource="http://perishablepress.com/press/2006/08/27/crazy-css-underline-effects/" />
+  <rdf:li rdf:resource="http://www.cushycms.com/" />
+  <rdf:li rdf:resource="http://www.bodyburden.org/" />
+  <rdf:li rdf:resource="http://socialwebtools.info/2008/06/26/e-junkie-selling-online/" />
+  <rdf:li rdf:resource="http://colororacle.cartography.ch/" />
+  <rdf:li rdf:resource="http://www.bioneural.net/2006/08/09/valid-fix-for-png-transparency-on-a-single-image/" />
+  <rdf:li rdf:resource="http://stylizedweb.com/2007/12/30/png-transparency-issues/" />
+  <rdf:li rdf:resource="http://tpb420.com/" />
+  <rdf:li rdf:resource="http://www.communitymx.com/abstract.cfm?cid=07F83" />
+  <rdf:li rdf:resource="http://otterman.wordpress.com/category/mac/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.snowydaydesign.com/">
+<title>Snowy Day Design - Web and graphic design studio</title>
+<link>http://www.snowydaydesign.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-06T11:42:09Z</dc:date>
+<dc:subject>myniche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myniche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wpremix.com/home/">
+<title>Home | premium wordPress theme, wordpress cms, custom wordpress template,</title>
+<link>http://www.wpremix.com/home/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-06T11:40:46Z</dc:date>
+<dc:subject>themes wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-06T11:34:37Z</dc:date>
+<dc:subject>blogging myniche writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myniche" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.veggiemealplans.com/">
+<title>Veggie Meal Plans</title>
+<link>http://www.veggiemealplans.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-04T12:19:07Z</dc:date>
+<dc:subject>food recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensourcemac.org/">
+<title>Open Source Mac - Free, Open-Source software for OS X</title>
+<link>http://www.opensourcemac.org/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-04T12:00:51Z</dc:date>
+<dc:subject>mac macware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macware" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mikledet.com/">
+<title>Mikledet - Hebrew Virtual Keyboard</title>
+<link>http://www.mikledet.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-03T13:21:30Z</dc:date>
+<dc:subject>hebrew</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hebrew" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tredosoft.com/Multiple_IE">
+<title>Install multiple versions of IE on your PC | TredoSoft</title>
+<link>http://tredosoft.com/Multiple_IE</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-03T13:12:44Z</dc:date>
+<dc:subject>ie6 ie7</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ie6" />
+    <rdf:li resource="http://del.icio.us/tag/ie7" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T14:06:03Z</dc:date>
+<dc:subject>textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webresourceslinks.com/">
+<title>WebResourcesLinks &#xBB; Home</title>
+<link>http://www.webresourceslinks.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T13:20:15Z</dc:date>
+<dc:subject>resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.manageme.in/">
+<title>Personal Finance/Money Management Software: Manage Personal Finance, Expenses, Home Budget</title>
+<link>http://www.manageme.in/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T12:52:00Z</dc:date>
+<dc:subject>finances webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/finances" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdepiction.com/">
+<title>Web Depiction | Remarkable Web and Branding Services</title>
+<link>http://www.webdepiction.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T12:44:54Z</dc:date>
+<dc:subject>myniche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myniche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://viviti.com/">
+<title>Viviti - build a website as unique and dynamic as you</title>
+<link>http://viviti.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T12:09:42Z</dc:date>
+<dc:subject>myniche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myniche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stylizedweb.com/2008/06/25/amaizing-wordpress-hacks-part-1/">
+<title>Amaizing WordPress hacks part 1 | StylizedWeb.com</title>
+<link>http://stylizedweb.com/2008/06/25/amaizing-wordpress-hacks-part-1/</link>
+<description>Post and</description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T12:02:00Z</dc:date>
+<dc:subject>wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/article/guide-web-character-encoding">
+<title>guide to character encoding</title>
+<link>http://www.sitepoint.com/article/guide-web-character-encoding</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-02T06:30:07Z</dc:date>
+<dc:subject>code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freecss.info/free-css-tutorials/using-css-with-adsense/">
+<title>Using CSS With Adsense</title>
+<link>http://freecss.info/free-css-tutorials/using-css-with-adsense/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-01T10:06:30Z</dc:date>
+<dc:subject>adsense</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adsense" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codex.wordpress.org/Template_Tags/the_excerpt">
+<title>Template Tags/the excerpt &#xAB; WordPress Codex</title>
+<link>http://codex.wordpress.org/Template_Tags/the_excerpt</link>
+<description> &#x26;lt;?php if(is_category() || is_archive()) {
+     the_excerpt();
+ } else {
+     the_content();
+ } ?&#x26;gt; 
+
+</description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-01T06:18:14Z</dc:date>
+<dc:subject>wordpress:archive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress:archive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macosxhints.com/article.php?story=20070411201020536">
+<title>macosxhints.com - An extremely fast way to read Word documents</title>
+<link>http://www.macosxhints.com/article.php?story=20070411201020536</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-30T17:55:56Z</dc:date>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wpthemes.blogohblog.net/?page_id=2">
+<title>WordPress Themes &#xBB; About</title>
+<link>http://wpthemes.blogohblog.net/?page_id=2</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-30T15:52:42Z</dc:date>
+<dc:subject>themes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kapikua.com/theme-leia-en/">
+<title>kapikua blog &#xBB; Theme Leia</title>
+<link>http://www.kapikua.com/theme-leia-en/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-30T15:43:23Z</dc:date>
+<dc:subject>3col</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3col" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webresourcesdepot.com/load-content-while-scrolling-with-jquery/">
+<title>Load Content While Scrolling With jQuery</title>
+<link>http://www.webresourcesdepot.com/load-content-while-scrolling-with-jquery/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-29T07:53:52Z</dc:date>
+<dc:subject>jquery loading</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/loading" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perishablepress.com/press/2006/08/30/nifty-css-link-hover-effect/">
+<title>Nifty CSS Link Hover Effect &#x2022; Perishable Press</title>
+<link>http://perishablepress.com/press/2006/08/30/nifty-css-link-hover-effect/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-29T07:50:22Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://perishablepress.com/press/2006/08/27/crazy-css-underline-effects/">
+<title>Crazy CSS Underline Effects &#x2022; Perishable Press</title>
+<link>http://perishablepress.com/press/2006/08/27/crazy-css-underline-effects/</link>
+<description>.altdouble { /* alternate double */ border-bottom: 3px double; line-height: 1.7em; }</description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-29T07:44:55Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cushycms.com/">
+<title>Free and simple CMS &#xBB; CushyCMS</title>
+<link>http://www.cushycms.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-29T07:24:26Z</dc:date>
+<dc:subject>cms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bodyburden.org/">
+<title>EWG || Human Toxome Project</title>
+<link>http://www.bodyburden.org/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-27T09:40:11Z</dc:date>
+<dc:subject>healthblog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/healthblog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://socialwebtools.info/2008/06/26/e-junkie-selling-online/">
+<title>E-junkie | Selling Online The Easy, Secure Way | Social Web Tools</title>
+<link>http://socialwebtools.info/2008/06/26/e-junkie-selling-online/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-27T08:26:04Z</dc:date>
+<dc:subject>makemoney</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/makemoney" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://colororacle.cartography.ch/">
+<title>Color Oracle</title>
+<link>http://colororacle.cartography.ch/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-26T20:50:42Z</dc:date>
+<dc:subject>accesability colors</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/colors" />
+    <rdf:li resource="http://del.icio.us/tag/accesability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bioneural.net/2006/08/09/valid-fix-for-png-transparency-on-a-single-image/">
+<title>Valid fix for PNG transparency on a single image at bioneural.net</title>
+<link>http://www.bioneural.net/2006/08/09/valid-fix-for-png-transparency-on-a-single-image/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-26T15:32:35Z</dc:date>
+<dc:subject>png</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/png" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stylizedweb.com/2007/12/30/png-transparency-issues/">
+<title>PNG transparency issues | StylizedWeb.com</title>
+<link>http://stylizedweb.com/2007/12/30/png-transparency-issues/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-26T15:27:35Z</dc:date>
+<dc:subject>png</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/png" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tpb420.com/">
+<title>Welcome to the Frontpage</title>
+<link>http://tpb420.com/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-26T07:25:23Z</dc:date>
+<dc:subject>tpb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tpb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.communitymx.com/abstract.cfm?cid=07F83">
+<title>CSS tutorials - The CMX CSS Hack Cheatsheet PDF - Intermediate tutorials for CSS</title>
+<link>http://www.communitymx.com/abstract.cfm?cid=07F83</link>
+<description>clude a dizzying combination of slashes, asterisks, and sequences of code. How does anyone remember all that? And how does anyone remember which hack works for what problem? Today we have just the solution: a one-page PDF you can print out that includes t</description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-25T16:49:04Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://otterman.wordpress.com/category/mac/">
+<title>mac &#xAB; Otterman speaks&#x2026;</title>
+<link>http://otterman.wordpress.com/category/mac/</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-06-25T08:40:53Z</dc:date>
+<dc:subject>mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

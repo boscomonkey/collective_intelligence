@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sreinhardt">
+<title>del.icio.us/sreinhardt</title>
+<link>http://del.icio.us/sreinhardt</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://maemo.org/downloads/OS2008/" />
+  <rdf:li rdf:resource="https://garage.maemo.org/" />
+  <rdf:li rdf:resource="http://www.humyo.com/" />
+  <rdf:li rdf:resource="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/" />
+  <rdf:li rdf:resource="http://www.bodydaemon.com/default.aspx" />
+  <rdf:li rdf:resource="http://tabletschool.blogspot.com/" />
+  <rdf:li rdf:resource="http://wiki.eeeuser.com/eee_pc_701" />
+  <rdf:li rdf:resource="http://ubuntu-eee.tuxfamily.org/index.php5?title=Main_Page" />
+  <rdf:li rdf:resource="http://www.picowiki.com/" />
+  <rdf:li rdf:resource="http://www.fubiz.net/blog/index.php?2008/04/15/1692-70-amazing-business-cards" />
+  <rdf:li rdf:resource="http://penzu.com/pad" />
+  <rdf:li rdf:resource="http://www.text2mindmap.com/" />
+  <rdf:li rdf:resource="http://www.iopus.com/imacros/support/" />
+  <rdf:li rdf:resource="http://wiki.imacros.net/iMacros_for_Firefox" />
+  <rdf:li rdf:resource="http://www.simplehelp.net/2008/05/21/12-ways-to-use-twitter-to-increase-your-productivity/" />
+  <rdf:li rdf:resource="http://imageshack.us/" />
+  <rdf:li rdf:resource="http://www.phonemyphone.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/386927/creative-ways-to-reuse-disposable-items" />
+  <rdf:li rdf:resource="http://www.gregsmithequipment.com/" />
+  <rdf:li rdf:resource="http://osliving.com/" />
+  <rdf:li rdf:resource="http://www.zaphu.com/2008/01/04/use-ssh-to-create-secure-tunnels-for-file-transfers-sftp-remote-desktop-vnc-subversion-svn-and-firefox-traffic/" />
+  <rdf:li rdf:resource="http://www.hicksdesign.co.uk/journal/mac-mini-media-centre" />
+  <rdf:li rdf:resource="http://textop.us/" />
+  <rdf:li rdf:resource="http://www.cloncom.com/index.jsp" />
+  <rdf:li rdf:resource="http://www.prepaidcardsearch.com/" />
+  <rdf:li rdf:resource="http://simpleforce.net/fastsms/cellpro.html" />
+  <rdf:li rdf:resource="http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/03/24/The-Web-best-free-stuff_1.html" />
+  <rdf:li rdf:resource="https://luminotes.com/" />
+  <rdf:li rdf:resource="http://www.rewardprograms.org/thefreegeek/features/how_to_make_your_usb_drive_into_a_digital_swiss_army_knife.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description>Password recovery, router default passwords, etc.</description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-07-06T12:12:45Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - send notes that will self-destruct after being read</title>
+<link>https://privnote.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-07-03T11:02:27Z</dc:date>
+<dc:subject>note privacy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/note" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maemo.org/downloads/OS2008/">
+<title>maemo.org - OS 2008</title>
+<link>http://maemo.org/downloads/OS2008/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-27T23:38:03Z</dc:date>
+<dc:subject>n800</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n800" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://garage.maemo.org/">
+<title>garage: Welcome</title>
+<link>https://garage.maemo.org/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-26T11:32:56Z</dc:date>
+<dc:subject>N800</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/N800" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.humyo.com/">
+<title>humyo.com - Free Online File Storage &#x26; Backup Space</title>
+<link>http://www.humyo.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-25T23:55:24Z</dc:date>
+<dc:subject>storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/">
+<title>35 Ways To Watch Television Without Cable Or Satellite.</title>
+<link>http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-24T15:17:42Z</dc:date>
+<dc:subject>tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bodydaemon.com/default.aspx">
+<title>BodyDaemon | Free Online Weightlifting/Fitness Progress Journal Community</title>
+<link>http://www.bodydaemon.com/default.aspx</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-18T19:29:57Z</dc:date>
+<dc:subject>blog exercise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tabletschool.blogspot.com/">
+<title>Nokia N800 Tabletschool</title>
+<link>http://tabletschool.blogspot.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-18T05:23:16Z</dc:date>
+<dc:subject>n800</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n800" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.eeeuser.com/eee_pc_701">
+<title>Asus Eee PC Users</title>
+<link>http://wiki.eeeuser.com/eee_pc_701</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-16T19:52:51Z</dc:date>
+<dc:subject>asuseee</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asuseee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntu-eee.tuxfamily.org/index.php5?title=Main_Page">
+<title>Main Page - Ubuntu Eee</title>
+<link>http://ubuntu-eee.tuxfamily.org/index.php5?title=Main_Page</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-12T12:03:03Z</dc:date>
+<dc:subject>asuseee ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asuseee" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picowiki.com/">
+<title>PicoWiki a hosted wiki for your iPhone Blackberry, PDA or smartphone</title>
+<link>http://www.picowiki.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-10T06:15:34Z</dc:date>
+<dc:subject>mobile wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fubiz.net/blog/index.php?2008/04/15/1692-70-amazing-business-cards">
+<title>70 Amazing Business Cards - Fubiz&#x2122;</title>
+<link>http://www.fubiz.net/blog/index.php?2008/04/15/1692-70-amazing-business-cards</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-04T21:03:46Z</dc:date>
+<dc:subject>businesscards design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/businesscards" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://penzu.com/pad">
+<title>Penzu : Free Private Journal and Diary</title>
+<link>http://penzu.com/pad</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-06-01T23:32:53Z</dc:date>
+<dc:subject>blog journal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journal" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.text2mindmap.com/">
+<title>Text 2 Mind Map - An online text to mind map converter</title>
+<link>http://www.text2mindmap.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-29T20:25:10Z</dc:date>
+<dc:subject>mindmap productivity tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iopus.com/imacros/support/">
+<title>iMacros | Online Support Resources - Web Automation, Web Scraping, Web Testing</title>
+<link>http://www.iopus.com/imacros/support/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-26T22:38:36Z</dc:date>
+<dc:subject>imacros</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imacros" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.imacros.net/iMacros_for_Firefox">
+<title>iMacros for Firefox - iMacros</title>
+<link>http://wiki.imacros.net/iMacros_for_Firefox</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-26T22:38:29Z</dc:date>
+<dc:subject>imacros</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imacros" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplehelp.net/2008/05/21/12-ways-to-use-twitter-to-increase-your-productivity/">
+<title>12 ways to use Twitter to increase your productivity - Simplehelp</title>
+<link>http://www.simplehelp.net/2008/05/21/12-ways-to-use-twitter-to-increase-your-productivity/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-22T21:03:46Z</dc:date>
+<dc:subject>twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imageshack.us/">
+<title>ImageShack&#xAE; - Image Hosting</title>
+<link>http://imageshack.us/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-13T18:22:28Z</dc:date>
+<dc:subject>hosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phonemyphone.com/">
+<title>PhoneMyPhone.com :: find your cell phone, escape boring meetings, or end sucky dates early :P!</title>
+<link>http://www.phonemyphone.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-12T21:01:36Z</dc:date>
+<dc:subject>phone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/386927/creative-ways-to-reuse-disposable-items">
+<title>Clever Uses: Creative Ways to Reuse &#x22;Disposable&#x22; Items</title>
+<link>http://lifehacker.com/386927/creative-ways-to-reuse-disposable-items</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-05-12T20:56:49Z</dc:date>
+<dc:subject>recycle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gregsmithequipment.com/">
+<title>Greg Smith Equipment Sales Inc. - The lift professionals with quality automotive equipment at discount prices.</title>
+<link>http://www.gregsmithequipment.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-26T23:52:27Z</dc:date>
+<dc:subject>carlift</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carlift" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osliving.com/">
+<title>Open Source Living</title>
+<link>http://osliving.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-18T20:50:41Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zaphu.com/2008/01/04/use-ssh-to-create-secure-tunnels-for-file-transfers-sftp-remote-desktop-vnc-subversion-svn-and-firefox-traffic/">
+<title>Use SSH to Create Secure Tunnels for File Transfers (SFTP), Remote Desktop (VNC), Subversion (SVN), and Firefox Traffic : Zaphu</title>
+<link>http://www.zaphu.com/2008/01/04/use-ssh-to-create-secure-tunnels-for-file-transfers-sftp-remote-desktop-vnc-subversion-svn-and-firefox-traffic/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-18T20:50:11Z</dc:date>
+<dc:subject>security vpn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/vpn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hicksdesign.co.uk/journal/mac-mini-media-centre">
+<title>Mac Mini Media Centre / journal / hicksdesign</title>
+<link>http://www.hicksdesign.co.uk/journal/mac-mini-media-centre</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-18T20:48:10Z</dc:date>
+<dc:subject>mac macmini</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macmini" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://textop.us/">
+<title>TextOpus - all text tools You need!</title>
+<link>http://textop.us/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-13T20:13:43Z</dc:date>
+<dc:subject>tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cloncom.com/index.jsp">
+<title>Calling Cards: Your Phone Card &#x26; International Calling Cards Source.</title>
+<link>http://www.cloncom.com/index.jsp</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-12T20:04:33Z</dc:date>
+<dc:subject>callingcard phone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/callingcard" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prepaidcardsearch.com/">
+<title>international prepaid cards prepaid calling cards rechargeable cards AT&#x26;T prepaid cards work from Iraq!</title>
+<link>http://www.prepaidcardsearch.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-12T20:04:01Z</dc:date>
+<dc:subject>callingcard phone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/callingcard" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simpleforce.net/fastsms/cellpro.html">
+<title>Cellular Provider Gateways</title>
+<link>http://simpleforce.net/fastsms/cellpro.html</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-04-09T19:08:30Z</dc:date>
+<dc:subject>sms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/03/24/The-Web-best-free-stuff_1.html">
+<title>The Web's best free stuff | IDGSister | News | March 24, 2008 | By Preston Gralla and Erik Larkin, PC World, IDG News Service</title>
+<link>http://www.infoworld.com/archives/emailPrint.jsp?R=printThis&#x26;A=/article/08/03/24/The-Web-best-free-stuff_1.html</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-03-25T13:38:58Z</dc:date>
+<dc:subject>apps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://luminotes.com/">
+<title>Luminotes: personal wiki notebook</title>
+<link>https://luminotes.com/</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-03-21T12:22:16Z</dc:date>
+<dc:subject>organizer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/organizer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rewardprograms.org/thefreegeek/features/how_to_make_your_usb_drive_into_a_digital_swiss_army_knife.html">
+<title>How to: Make Your USB Drive into a Digital Swiss Army Knife | Free Geekery</title>
+<link>http://www.rewardprograms.org/thefreegeek/features/how_to_make_your_usb_drive_into_a_digital_swiss_army_knife.html</link>
+<description></description>
+<dc:creator>sreinhardt</dc:creator>
+<dc:date>2008-03-16T22:13:42Z</dc:date>
+<dc:subject>portable</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

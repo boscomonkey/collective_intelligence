@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/debteacher">
+<title>del.icio.us/debteacher</title>
+<link>http://del.icio.us/debteacher</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.atomvic.org/" />
+  <rdf:li rdf:resource="http://www.media-awareness.ca/english/resources/educational/teaching_backgrounders/media_literacy/perfect_curriculum_1.cfm" />
+  <rdf:li rdf:resource="http://aocmedialiteracy.org/" />
+  <rdf:li rdf:resource="http://www.edutopia.org/" />
+  <rdf:li rdf:resource="http://www.secondaryfutures.co.nz/index.php" />
+  <rdf:li rdf:resource="http://studyingmusicvideo.blogspot.com/" />
+  <rdf:li rdf:resource="http://longroadnewmedia.wikispaces.com/" />
+  <rdf:li rdf:resource="http://wikidstuff.wikispaces.com/Time4online+Workshop" />
+  <rdf:li rdf:resource="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9043838" />
+  <rdf:li rdf:resource="http://www.broadcastnow.co.uk/opinion_and_blogs/2008/06/hot_topic_internet_tv.html;jsessionid=04F25FB0B86726C81942EDD808B26023" />
+  <rdf:li rdf:resource="http://skynews7.typepad.com/" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/" />
+  <rdf:li rdf:resource="http://www.mediascape.ac.nz/cms/index.php?page=showcase-2" />
+  <rdf:li rdf:resource="http://blog.vodpod.com/?p=111" />
+  <rdf:li rdf:resource="http://www.findsounds.com/types.html" />
+  <rdf:li rdf:resource="https://www.learningplace.com.au/deliver/content.asp?pid=30483" />
+  <rdf:li rdf:resource="http://www.visit4info.com/" />
+  <rdf:li rdf:resource="https://www.learningplace.com.au/deliver/content.asp?pid=29145" />
+  <rdf:li rdf:resource="https://www.learningplace.com.au/defaulteqa.asp?orgid=88&#x26;suborgid=575" />
+  <rdf:li rdf:resource="http://www.vnunet.com/vnunet/downloads/2196408/magix-music-maker-basic" />
+  <rdf:li rdf:resource="http://www.ofcom.org.uk/theforum/coverage/" />
+  <rdf:li rdf:resource="http://www.shambles.net/web2/comingofage/" />
+  <rdf:li rdf:resource="http://www.bsa.govt.nz/mediastudies/" />
+  <rdf:li rdf:resource="http://www.newstatesman.com/pdf/gamessupp2007.htm" />
+  <rdf:li rdf:resource="http://www.newstatesman.com/pdf/media2008.htm" />
+  <rdf:li rdf:resource="http://www.classroom20wiki.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Social+Bookmarks" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Flash_animation" />
+  <rdf:li rdf:resource="http://www.w3schools.com/html/html_intro.asp" />
+  <rdf:li rdf:resource="http://www.abc.net.au/tv/gruentransfer/default.htm" />
+  <rdf:li rdf:resource="http://www.abc.net.au/tv/gruentransfer/consumersrevenge.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.atomvic.org/">
+<title>ATOM Australian Teachers Of Media (03) 9534 9986</title>
+<link>http://www.atomvic.org/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-07-02T19:25:14Z</dc:date>
+<dc:subject>media_education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media_education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.media-awareness.ca/english/resources/educational/teaching_backgrounders/media_literacy/perfect_curriculum_1.cfm">
+<title>The Perfect Curriculum</title>
+<link>http://www.media-awareness.ca/english/resources/educational/teaching_backgrounders/media_literacy/perfect_curriculum_1.cfm</link>
+<description>Media education curriculum ideas</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-07-02T19:14:37Z</dc:date>
+<dc:subject>media_education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media_education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aocmedialiteracy.org/">
+<title>AoC MLE ClearingHouse - Home</title>
+<link>http://aocmedialiteracy.org/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-07-02T19:12:25Z</dc:date>
+<dc:subject>media_literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media_literacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edutopia.org/">
+<title>Edutopia: What Works in Public Education</title>
+<link>http://www.edutopia.org/</link>
+<description>George Lucas Educational Foundation</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-26T20:27:15Z</dc:date>
+<dc:subject>Education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.secondaryfutures.co.nz/index.php">
+<title>Secondary Futures</title>
+<link>http://www.secondaryfutures.co.nz/index.php</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-23T08:12:40Z</dc:date>
+<dc:subject>Education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://studyingmusicvideo.blogspot.com/">
+<title>Studying Music Video</title>
+<link>http://studyingmusicvideo.blogspot.com/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-19T20:31:38Z</dc:date>
+<dc:subject>music_video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music_video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://longroadnewmedia.wikispaces.com/">
+<title>longroadnewmedia &#xBB; home</title>
+<link>http://longroadnewmedia.wikispaces.com/</link>
+<description>wiki produced by students about new media - excellenct section on You tube</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-19T20:28:14Z</dc:date>
+<dc:subject>media_dept_wiki new_media wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/new_media" />
+    <rdf:li resource="http://del.icio.us/tag/media_dept_wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikidstuff.wikispaces.com/Time4online+Workshop">
+<title>wikidstuff &#xBB; Time4online Workshop</title>
+<link>http://wikidstuff.wikispaces.com/Time4online+Workshop</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-18T18:49:43Z</dc:date>
+<dc:subject>wiki_education wiki_how_to</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki_education" />
+    <rdf:li resource="http://del.icio.us/tag/wiki_how_to" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9043838">
+<title>In Depth: Apple's Leopard leaps to new heights</title>
+<link>http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9043838</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-18T18:42:23Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.broadcastnow.co.uk/opinion_and_blogs/2008/06/hot_topic_internet_tv.html;jsessionid=04F25FB0B86726C81942EDD808B26023">
+<title>Hot Topic: internet TV</title>
+<link>http://www.broadcastnow.co.uk/opinion_and_blogs/2008/06/hot_topic_internet_tv.html;jsessionid=04F25FB0B86726C81942EDD808B26023</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-18T11:10:00Z</dc:date>
+<dc:subject>TV_industry radio scholarship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scholarship" />
+    <rdf:li resource="http://del.icio.us/tag/TV_industry" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://skynews7.typepad.com/">
+<title>Sky News Editors' Blog</title>
+<link>http://skynews7.typepad.com/</link>
+<description>a day in the life of a journalist and how to to online journalism</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-17T19:37:02Z</dc:date>
+<dc:subject>journalism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/">
+<title>100 Helpful Web Tools for Every Kind of Learner | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/10/100-helpful-web-tools-for-every-kind-of-learner/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-17T09:32:33Z</dc:date>
+<dc:subject>Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediascape.ac.nz/cms/index.php?page=showcase-2">
+<title>Mediascape - Students Media Showcase</title>
+<link>http://www.mediascape.ac.nz/cms/index.php?page=showcase-2</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-16T01:35:21Z</dc:date>
+<dc:subject>student_exemplar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/student_exemplar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.vodpod.com/?p=111">
+<title>VodPod in Words &#xBB; How do I add videos to my pod?</title>
+<link>http://blog.vodpod.com/?p=111</link>
+<description>how to vod_pod</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-13T02:09:08Z</dc:date>
+<dc:subject>Web2.0 vod_pod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vod_pod" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.findsounds.com/types.html">
+<title>FindSounds - Sound Types</title>
+<link>http://www.findsounds.com/types.html</link>
+<description>find any sound you want (well nearly) for adding to your productions</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-12T20:08:51Z</dc:date>
+<dc:subject>production</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/production" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.learningplace.com.au/deliver/content.asp?pid=30483">
+<title>Switched On Teachers - The Teacher Lounge - The Podcasting Desk</title>
+<link>https://www.learningplace.com.au/deliver/content.asp?pid=30483</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-10T21:09:54Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.visit4info.com/">
+<title>visit4info - The Place for TV Adverts and Funny Video Clips</title>
+<link>http://www.visit4info.com/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-10T20:01:06Z</dc:date>
+<dc:subject>Advertising</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.learningplace.com.au/deliver/content.asp?pid=29145">
+<title>Switched On Teachers - Our ICT Learning Journeys - Robyn Bowman</title>
+<link>https://www.learningplace.com.au/deliver/content.asp?pid=29145</link>
+<description>digital photography in year 10 journalism</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-10T19:48:51Z</dc:date>
+<dc:subject>journalism photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.learningplace.com.au/defaulteqa.asp?orgid=88&#x26;suborgid=575">
+<title>Switched On Teachers</title>
+<link>https://www.learningplace.com.au/defaulteqa.asp?orgid=88&#x26;suborgid=575</link>
+<description>australian online ict community</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-10T19:46:56Z</dc:date>
+<dc:subject>ictpd online_communities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ictpd" />
+    <rdf:li resource="http://del.icio.us/tag/online_communities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vnunet.com/vnunet/downloads/2196408/magix-music-maker-basic">
+<title>Magix Music Maker Basic Edition - vnunet.com</title>
+<link>http://www.vnunet.com/vnunet/downloads/2196408/magix-music-maker-basic</link>
+<description>freeware music maker for PCs</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-04T20:11:30Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ofcom.org.uk/theforum/coverage/">
+<title>Ofcom Website | Conference coverage</title>
+<link>http://www.ofcom.org.uk/theforum/coverage/</link>
+<description>media literacy conference coverage</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-04T05:58:47Z</dc:date>
+<dc:subject>conferences media_education media_literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media_literacy" />
+    <rdf:li resource="http://del.icio.us/tag/media_education" />
+    <rdf:li resource="http://del.icio.us/tag/conferences" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shambles.net/web2/comingofage/">
+<title>Shambles in S.E.Asia : Coming of Age Booklet (Web 2.0)</title>
+<link>http://www.shambles.net/web2/comingofage/</link>
+<description>excellent booklet explaining things to do with Web 2.0 and education</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-03T22:27:55Z</dc:date>
+<dc:subject>Education Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bsa.govt.nz/mediastudies/">
+<title>BSA Media Studies &#xBB; School activities</title>
+<link>http://www.bsa.govt.nz/mediastudies/</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-03T22:03:12Z</dc:date>
+<dc:subject>media_education scholarship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media_education" />
+    <rdf:li resource="http://del.icio.us/tag/scholarship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newstatesman.com/pdf/gamessupp2007.htm">
+<title>New Statesman - Video games</title>
+<link>http://www.newstatesman.com/pdf/gamessupp2007.htm</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-03T21:02:23Z</dc:date>
+<dc:subject>video_games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video_games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newstatesman.com/pdf/media2008.htm">
+<title>New Statesman - Media2008</title>
+<link>http://www.newstatesman.com/pdf/media2008.htm</link>
+<description>Media - the multi-platform age - about the constantly evolving broadcast media</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-06-03T21:01:41Z</dc:date>
+<dc:subject>scholarship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scholarship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.classroom20wiki.com/">
+<title>classroom2dot0 &#xBB; home</title>
+<link>http://www.classroom20wiki.com/</link>
+<description>overview of web 2.0 and collaborative technologies</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T23:58:37Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Social+Bookmarks">
+<title>educationalsoftware &#xBB; Social Bookmarks</title>
+<link>http://educationalsoftware.wikispaces.com/Social+Bookmarks</link>
+<description>how to use delicious and other social bookmarking sites</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T23:36:36Z</dc:date>
+<dc:subject>Web2.0 delicious_how_to</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/delicious_how_to" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Flash_animation">
+<title>Flash animation - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Flash_animation</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T23:23:02Z</dc:date>
+<dc:subject>animation production</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/production" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3schools.com/html/html_intro.asp">
+<title>Introduction to HTML</title>
+<link>http://www.w3schools.com/html/html_intro.asp</link>
+<description></description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T22:23:34Z</dc:date>
+<dc:subject>html</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.abc.net.au/tv/gruentransfer/default.htm">
+<title>The Gruen Transfer</title>
+<link>http://www.abc.net.au/tv/gruentransfer/default.htm</link>
+<description>the advertising industry, and the production of TVCs</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T22:21:29Z</dc:date>
+<dc:subject>Advertising</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.abc.net.au/tv/gruentransfer/consumersrevenge.htm">
+<title>http://www.abc.net.au/tv/ - The Gruen Transfer - Consumer's Revenge</title>
+<link>http://www.abc.net.au/tv/gruentransfer/consumersrevenge.htm</link>
+<description>create your own TVCs</description>
+<dc:creator>Debteacher</dc:creator>
+<dc:date>2008-05-31T22:18:39Z</dc:date>
+<dc:subject>Advertising production</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advertising" />
+    <rdf:li resource="http://del.icio.us/tag/production" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

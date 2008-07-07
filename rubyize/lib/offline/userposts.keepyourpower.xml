@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/keepyourpower">
+<title>del.icio.us/keepyourpower</title>
+<link>http://del.icio.us/keepyourpower</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.deviantart.com/" />
+  <rdf:li rdf:resource="http://xiles.net/" />
+  <rdf:li rdf:resource="http://www.eyalw.com/drupal/" />
+  <rdf:li rdf:resource="http://osx.portraitofakite.com/index2.htm" />
+  <rdf:li rdf:resource="http://snapstrip.com/" />
+  <rdf:li rdf:resource="http://www.cairoshell.com/" />
+  <rdf:li rdf:resource="http://emergedesktop.org/" />
+  <rdf:li rdf:resource="http://www.hklii.org/" />
+  <rdf:li rdf:resource="http://www.legislation.gov.hk/blis_export.nsf/chome.htm" />
+  <rdf:li rdf:resource="http://ldd.lego.com/" />
+  <rdf:li rdf:resource="http://boxee.tv/index2.php" />
+  <rdf:li rdf:resource="http://www.posti.ca/" />
+  <rdf:li rdf:resource="http://www.otakusoftware.com/deskspace/" />
+  <rdf:li rdf:resource="http://qttabbar.wikidot.com/" />
+  <rdf:li rdf:resource="http://rocketdock.com/" />
+  <rdf:li rdf:resource="http://tomseffect.com/" />
+  <rdf:li rdf:resource="http://www.doominow.com/" />
+  <rdf:li rdf:resource="http://humanized.com/enso/" />
+  <rdf:li rdf:resource="http://www.swurl.com/" />
+  <rdf:li rdf:resource="http://cybernetnews.com/cybersearch/" />
+  <rdf:li rdf:resource="http://lifewithoutbuildings.net/" />
+  <rdf:li rdf:resource="https://privnote.com/" />
+  <rdf:li rdf:resource="http://www.wirewize.com/" />
+  <rdf:li rdf:resource="http://www.101cookbooks.com/index.html" />
+  <rdf:li rdf:resource="http://schools-wikipedia.org/" />
+  <rdf:li rdf:resource="http://www.wpanorama.com/wpanorama.php?r=1214828929" />
+  <rdf:li rdf:resource="http://buyersguide.macrumors.com/" />
+  <rdf:li rdf:resource="http://www.instructables.com/" />
+  <rdf:li rdf:resource="http://www.handymanfixhomerepair.com/" />
+  <rdf:li rdf:resource="http://hdr101.com/hdr-tutorial/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-06T12:58:42Z</dc:date>
+<dc:subject>Conversion Download Multimedia Software Tools Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Multimedia" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deviantart.com/">
+<title>deviantART: where ART meets application!</title>
+<link>http://www.deviantart.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T15:25:28Z</dc:date>
+<dc:subject>Design Download Graphics Reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xiles.net/">
+<title>[xiles.net] File Manager: NexusFile, Font Manager: NexusFont</title>
+<link>http://xiles.net/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:43:01Z</dc:date>
+<dc:subject>Productivity Software Tools Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eyalw.com/drupal/">
+<title>MightyBox | simple, yet powerful</title>
+<link>http://www.eyalw.com/drupal/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:39:31Z</dc:date>
+<dc:subject>Opensource Productivity Software Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+    <rdf:li resource="http://del.icio.us/tag/Opensource" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osx.portraitofakite.com/index2.htm">
+<title>FlyakiteOSX v3.5 - Modify . Simplify . Aquafy [The Official Site]</title>
+<link>http://osx.portraitofakite.com/index2.htm</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:37:38Z</dc:date>
+<dc:subject>Desktop Download Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Desktop" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://snapstrip.com/">
+<title>Snap! - Your own photobooth</title>
+<link>http://snapstrip.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:36:50Z</dc:date>
+<dc:subject>Fun Graphics Software Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cairoshell.com/">
+<title>Cairo: Windows Shell Alternative &#xBB; Home</title>
+<link>http://www.cairoshell.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:23:37Z</dc:date>
+<dc:subject>Desktop Download Opensource Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Desktop" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Opensource" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emergedesktop.org/">
+<title>emergedesktop.org</title>
+<link>http://emergedesktop.org/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-05T04:22:48Z</dc:date>
+<dc:subject>Desktop Opensource Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Opensource" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Desktop" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hklii.org/">
+<title>Hong Kong Legal Information Institute (HKLII)</title>
+<link>http://www.hklii.org/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T07:43:06Z</dc:date>
+<dc:subject>HongKong Law Reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Law" />
+    <rdf:li resource="http://del.icio.us/tag/HongKong" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.legislation.gov.hk/blis_export.nsf/chome.htm">
+<title>Bilingual Laws Information System</title>
+<link>http://www.legislation.gov.hk/blis_export.nsf/chome.htm</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T07:42:37Z</dc:date>
+<dc:subject>HongKong Law Reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HongKong" />
+    <rdf:li resource="http://del.icio.us/tag/Law" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ldd.lego.com/">
+<title>LEGO Digital Designer : Virtual Building Software</title>
+<link>http://ldd.lego.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T03:06:57Z</dc:date>
+<dc:subject>Download Fun Game Software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+    <rdf:li resource="http://del.icio.us/tag/Game" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boxee.tv/index2.php">
+<title>BOXEE</title>
+<link>http://boxee.tv/index2.php</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:58:50Z</dc:date>
+<dc:subject>Entertainment Linux Mac Multimedia OSX Opensource Software Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/Opensource" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/Mac" />
+    <rdf:li resource="http://del.icio.us/tag/OSX" />
+    <rdf:li resource="http://del.icio.us/tag/Multimedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.posti.ca/">
+<title>postica . stick it!</title>
+<link>http://www.posti.ca/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:35:47Z</dc:date>
+<dc:subject>Collaboration Online Productivity Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/Online" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.otakusoftware.com/deskspace/">
+<title>Otaku Software</title>
+<link>http://www.otakusoftware.com/deskspace/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:32:17Z</dc:date>
+<dc:subject>Download Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://qttabbar.wikidot.com/">
+<title>QuizoApps: QTTabBar</title>
+<link>http://qttabbar.wikidot.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:28:22Z</dc:date>
+<dc:subject>Download Productivity Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rocketdock.com/">
+<title>RocketDock - About RocketDock</title>
+<link>http://rocketdock.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:26:44Z</dc:date>
+<dc:subject>Download Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomseffect.com/">
+<title>Tom's Effect - Findexer</title>
+<link>http://tomseffect.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:24:44Z</dc:date>
+<dc:subject>Download Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doominow.com/">
+<title>Doomi. A to do list application.</title>
+<link>http://www.doominow.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:17:10Z</dc:date>
+<dc:subject>Download Linux Mac OSX Productivity Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Mac" />
+    <rdf:li resource="http://del.icio.us/tag/OSX" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://humanized.com/enso/">
+<title>Humanized &#x3E; Enso</title>
+<link>http://humanized.com/enso/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T02:14:51Z</dc:date>
+<dc:subject>Download Productivity Software Visual~Effect Windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Windows" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Download" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+    <rdf:li resource="http://del.icio.us/tag/Visual~Effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.swurl.com/">
+<title>Swurl</title>
+<link>http://www.swurl.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T01:53:07Z</dc:date>
+<dc:subject>Blog Microblogging Online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Online" />
+    <rdf:li resource="http://del.icio.us/tag/Microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cybernetnews.com/cybersearch/">
+<title>CyberSearch Firefox Extension</title>
+<link>http://cybernetnews.com/cybersearch/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-04T01:52:25Z</dc:date>
+<dc:subject>Firefox Plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+    <rdf:li resource="http://del.icio.us/tag/Plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifewithoutbuildings.net/">
+<title>Life Without Buildings</title>
+<link>http://lifewithoutbuildings.net/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-03T08:37:05Z</dc:date>
+<dc:subject>Architecture Blog Urbanism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Urbanism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://privnote.com/">
+<title>Privnote - send notes that will self-destruct after being read</title>
+<link>https://privnote.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-03T08:35:50Z</dc:date>
+<dc:subject>Notes Online Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Online" />
+    <rdf:li resource="http://del.icio.us/tag/Notes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wirewize.com/">
+<title>Wirewize - Welcome!</title>
+<link>http://www.wirewize.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-02T14:18:54Z</dc:date>
+<dc:subject>DIY Electronics Guide Home Reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/Guide" />
+    <rdf:li resource="http://del.icio.us/tag/Home" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+    <rdf:li resource="http://del.icio.us/tag/Electronics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.101cookbooks.com/index.html">
+<title>101 Cookbooks - Recipe Journal</title>
+<link>http://www.101cookbooks.com/index.html</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-07-01T15:26:27Z</dc:date>
+<dc:subject>Blog Food Recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Food" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/Recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://schools-wikipedia.org/">
+<title>2007 Wikipedia Selection for schools</title>
+<link>http://schools-wikipedia.org/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-30T12:36:03Z</dc:date>
+<dc:subject>Encyclopedia Reference Wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Wiki" />
+    <rdf:li resource="http://del.icio.us/tag/Encyclopedia" />
+    <rdf:li resource="http://del.icio.us/tag/Reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wpanorama.com/wpanorama.php?r=1214828929">
+<title>WPanorama - Panoramic image viewer and screen saver</title>
+<link>http://www.wpanorama.com/wpanorama.php?r=1214828929</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-30T12:30:40Z</dc:date>
+<dc:subject>Photography Software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buyersguide.macrumors.com/">
+<title>Mac Buyer's Guide: Know When to Buy Your Mac, iPod or iPhone</title>
+<link>http://buyersguide.macrumors.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-29T03:39:41Z</dc:date>
+<dc:subject>Guide Hardware Mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Guide" />
+    <rdf:li resource="http://del.icio.us/tag/Mac" />
+    <rdf:li resource="http://del.icio.us/tag/Hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.instructables.com/">
+<title>Instructables - The World's Biggest DIY &#x26; How To Show &#x26; Tell</title>
+<link>http://www.instructables.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-29T01:54:47Z</dc:date>
+<dc:subject>DIY Fun Guide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/Guide" />
+    <rdf:li resource="http://del.icio.us/tag/Fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.handymanfixhomerepair.com/">
+<title>Handyman Fix Home Repair | How to Fix, Build, Install, Customize, Repair, Renovate, Restore, and Demolish your House</title>
+<link>http://www.handymanfixhomerepair.com/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-29T01:52:38Z</dc:date>
+<dc:subject>DIY Guide Home</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Guide" />
+    <rdf:li resource="http://del.icio.us/tag/Home" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hdr101.com/hdr-tutorial/">
+<title>hdr tutorial, hdr photography resources and Photomatix Tutorials. HDR101.com</title>
+<link>http://hdr101.com/hdr-tutorial/</link>
+<description></description>
+<dc:creator>keepyourpower</dc:creator>
+<dc:date>2008-06-28T17:19:49Z</dc:date>
+<dc:subject>HDR Photography Tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+    <rdf:li resource="http://del.icio.us/tag/HDR" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

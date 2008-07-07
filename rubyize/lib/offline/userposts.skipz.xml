@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/skipz">
+<title>del.icio.us/skipz</title>
+<link>http://del.icio.us/skipz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://portableapps.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.whiteboardevolved.com/?gclid=CKDB9_TjqZQCFSY1agodeTz7tw" />
+  <rdf:li rdf:resource="http://webtools4u2use.wikispaces.com/" />
+  <rdf:li rdf:resource="http://www.northwestcollege.edu/id/koellind/sf/course.html" />
+  <rdf:li rdf:resource="http://hubcap.clemson.edu/~sparks/sfindex.html" />
+  <rdf:li rdf:resource="http://www.d.umn.edu/cla/faculty/tbacig/hmcl3220/summary.html" />
+  <rdf:li rdf:resource="http://www.aboutsf.com/lessons/HSintro.php" />
+  <rdf:li rdf:resource="http://www.aacu.org/bildner/documents/rowansyllabus6.pdf" />
+  <rdf:li rdf:resource="http://www.chass.utoronto.ca/~ian/237f2001.html" />
+  <rdf:li rdf:resource="http://www.users.muohio.edu/erlichrd/courseinsf/class.html" />
+  <rdf:li rdf:resource="http://web.ics.purdue.edu/~felluga/sf.html" />
+  <rdf:li rdf:resource="http://www2.ku.edu/~sfcenter/teaching.htm" />
+  <rdf:li rdf:resource="http://www.wsu.edu/~brians/science_fiction/Science_Fiction_Guides.html" />
+  <rdf:li rdf:resource="http://totspot.com./login" />
+  <rdf:li rdf:resource="http://www.worth1000.com/contest.asp?contest_id=19677&#x26;display=photoshop#entries" />
+  <rdf:li rdf:resource="http://jolt.merlot.org/currentissue.html" />
+  <rdf:li rdf:resource="http://www.dailylit.com/" />
+  <rdf:li rdf:resource="http://foodblogsearch.com/" />
+  <rdf:li rdf:resource="http://www.clutterme.com/" />
+  <rdf:li rdf:resource="http://blip.tv/file/1030933" />
+  <rdf:li rdf:resource="http://www.opensourceshakespeare.org/views/plays/plays.php" />
+  <rdf:li rdf:resource="http://webblender.com/" />
+  <rdf:li rdf:resource="http://screennation.afi.com/" />
+  <rdf:li rdf:resource="http://freetech4teachers.blogspot.com/2008/07/open-source-living.html" />
+  <rdf:li rdf:resource="http://www.myfamily.com/Welcome/Default.aspx" />
+  <rdf:li rdf:resource="http://www.plurkguide.com/" />
+  <rdf:li rdf:resource="http://www.shelfari.com/" />
+  <rdf:li rdf:resource="http://drewpolly.com/" />
+  <rdf:li rdf:resource="http://whdb.com/2008/the-top-50-proprietary-programs-that-drive-you-crazy-and-their-open-source-alternatives/" />
+  <rdf:li rdf:resource="http://pages.lindberghschools.ws/education/components/scrapbook/default.php?sectiondetailid=7181" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://portableapps.com/">
+<title>PortableApps.com - Portable software for USB drives</title>
+<link>http://portableapps.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-06T08:52:11Z</dc:date>
+<dc:subject>applications freeware opensource portable tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-06T08:39:17Z</dc:date>
+<dc:subject>educationalsoftware flickr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/educationalsoftware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whiteboardevolved.com/?gclid=CKDB9_TjqZQCFSY1agodeTz7tw">
+<title>eBeam - the whiteboard evolved : : whiteboardevolved.com</title>
+<link>http://www.whiteboardevolved.com/?gclid=CKDB9_TjqZQCFSY1agodeTz7tw</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T22:21:10Z</dc:date>
+<dc:subject>whiteboardevolved whiteboardevolved.com</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/whiteboardevolved.com" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboardevolved" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webtools4u2use.wikispaces.com/">
+<title>WebTools4u2use &#xBB; home</title>
+<link>http://webtools4u2use.wikispaces.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T18:50:41Z</dc:date>
+<dc:subject>blogging education library library2.0 web2.0 wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/library2.0" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.northwestcollege.edu/id/koellind/sf/course.html">
+<title>Classic Science Fiction: Course Description</title>
+<link>http://www.northwestcollege.edu/id/koellind/sf/course.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:35:35Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hubcap.clemson.edu/~sparks/sfindex.html">
+<title>Science Fiction Index</title>
+<link>http://hubcap.clemson.edu/~sparks/sfindex.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:33:36Z</dc:date>
+<dc:subject>literature sciencefiction scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sciencefiction" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.d.umn.edu/cla/faculty/tbacig/hmcl3220/summary.html">
+<title>SCIENCE FICTION SUMMARY</title>
+<link>http://www.d.umn.edu/cla/faculty/tbacig/hmcl3220/summary.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:31:12Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aboutsf.com/lessons/HSintro.php">
+<title>AboutSF.com - Lessons Library</title>
+<link>http://www.aboutsf.com/lessons/HSintro.php</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:27:54Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aacu.org/bildner/documents/rowansyllabus6.pdf">
+<title>rowansyllabus6.pdf (application/pdf Object)</title>
+<link>http://www.aacu.org/bildner/documents/rowansyllabus6.pdf</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:22:58Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chass.utoronto.ca/~ian/237f2001.html">
+<title>ENG 237F (L0101): Science Fiction and Fantasy Course Description</title>
+<link>http://www.chass.utoronto.ca/~ian/237f2001.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:21:38Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.users.muohio.edu/erlichrd/courseinsf/class.html">
+<title>Class Materials</title>
+<link>http://www.users.muohio.edu/erlichrd/courseinsf/class.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:20:38Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.ics.purdue.edu/~felluga/sf.html">
+<title>Syllabus for English 373: Science Fiction and Fantasy</title>
+<link>http://web.ics.purdue.edu/~felluga/sf.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:18:38Z</dc:date>
+<dc:subject>scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.ku.edu/~sfcenter/teaching.htm">
+<title>Teaching Science Fiction</title>
+<link>http://www2.ku.edu/~sfcenter/teaching.htm</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:12:44Z</dc:date>
+<dc:subject>Gunn Teaching scifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/Gunn" />
+    <rdf:li resource="http://del.icio.us/tag/Teaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wsu.edu/~brians/science_fiction/Science_Fiction_Guides.html">
+<title>Course Materials for the Study of Science Fiction</title>
+<link>http://www.wsu.edu/~brians/science_fiction/Science_Fiction_Guides.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T11:11:10Z</dc:date>
+<dc:subject>scifi study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://totspot.com./login">
+<title>TotSpot - A place for kids</title>
+<link>http://totspot.com./login</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-05T08:51:44Z</dc:date>
+<dc:subject>children web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worth1000.com/contest.asp?contest_id=19677&#x26;display=photoshop#entries">
+<title>Worth1000.com | Photoshop Contests | Are you Worthy&#x2122; | contest</title>
+<link>http://www.worth1000.com/contest.asp?contest_id=19677&#x26;display=photoshop#entries</link>
+<description>How to hide an elephant</description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T17:40:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://jolt.merlot.org/currentissue.html">
+<title>JOLT - Journal of Online Learning and Teaching</title>
+<link>http://jolt.merlot.org/currentissue.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T14:33:19Z</dc:date>
+<dc:subject>blog e-learning education learning technology training</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailylit.com/">
+<title>DailyLit: Read books by email and RSS.</title>
+<link>http://www.dailylit.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T14:17:10Z</dc:date>
+<dc:subject>aggregator books ebooks literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://foodblogsearch.com/">
+<title>Food Blog Search</title>
+<link>http://foodblogsearch.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T11:07:06Z</dc:date>
+<dc:subject>aggregator food recipe web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clutterme.com/">
+<title>ClutterMe.com: Custom Homepage, 1 Page Website, One page website</title>
+<link>http://www.clutterme.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T10:34:50Z</dc:date>
+<dc:subject>ESL free publishing resources web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/ESL" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blip.tv/file/1030933">
+<title>Plurk Basics</title>
+<link>http://blip.tv/file/1030933</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-04T08:49:51Z</dc:date>
+<dc:subject>Plurk tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Plurk" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensourceshakespeare.org/views/plays/plays.php">
+<title>Complete list of Shakespeare's plays, by genre :|: Open Source Shakespeare &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0; &#xA0;</title>
+<link>http://www.opensourceshakespeare.org/views/plays/plays.php</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-03T22:15:37Z</dc:date>
+<dc:subject>books literature reference shakespeare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/shakespeare" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webblender.com/">
+<title>webblender.com</title>
+<link>http://webblender.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-02T21:20:16Z</dc:date>
+<dc:subject>web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screennation.afi.com/">
+<title>AFI ScreenNation</title>
+<link>http://screennation.afi.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-02T08:30:18Z</dc:date>
+<dc:subject>afi digitalstorytelling education screennation technology video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/afi" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/screennation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freetech4teachers.blogspot.com/2008/07/open-source-living.html">
+<title>Free Technology for Teachers: Open Source Living</title>
+<link>http://freetech4teachers.blogspot.com/2008/07/open-source-living.html</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-07-01T21:27:25Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myfamily.com/Welcome/Default.aspx">
+<title>myfamily.com - Build a private family web site with myfamily.com</title>
+<link>http://www.myfamily.com/Welcome/Default.aspx</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-30T10:35:53Z</dc:date>
+<dc:subject>archive family genealogy social socialnetworking webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/genealogy" />
+    <rdf:li resource="http://del.icio.us/tag/family" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.plurkguide.com/">
+<title>Ultimate Guide to Plurk &#x2014; Plurk Guide:</title>
+<link>http://www.plurkguide.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-30T09:38:13Z</dc:date>
+<dc:subject>Plurk professional_development socialnetworking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Plurk" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/professional_development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shelfari.com/">
+<title>Welcome to Shelfari! Read, Share, Explore! - Shelfari</title>
+<link>http://www.shelfari.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-30T09:30:31Z</dc:date>
+<dc:subject>blog imported library literature publishing web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drewpolly.com/">
+<title>Drew Polly</title>
+<link>http://drewpolly.com/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-28T21:27:27Z</dc:date>
+<dc:subject>elementary mathematics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/elementary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whdb.com/2008/the-top-50-proprietary-programs-that-drive-you-crazy-and-their-open-source-alternatives/">
+<title>The Top 50 Proprietary Programs that Drive You Crazy &#x2014; and Their Open Source Alternatives | WHDb</title>
+<link>http://whdb.com/2008/the-top-50-proprietary-programs-that-drive-you-crazy-and-their-open-source-alternatives/</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-27T21:11:34Z</dc:date>
+<dc:subject>applications free opensource tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pages.lindberghschools.ws/education/components/scrapbook/default.php?sectiondetailid=7181">
+<title>Instructional Technology - Top 20 skills every educator should have</title>
+<link>http://pages.lindberghschools.ws/education/components/scrapbook/default.php?sectiondetailid=7181</link>
+<description></description>
+<dc:creator>skipz</dc:creator>
+<dc:date>2008-06-27T19:19:46Z</dc:date>
+<dc:subject>e-learning education technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

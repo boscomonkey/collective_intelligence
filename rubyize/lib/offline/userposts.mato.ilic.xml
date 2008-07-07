@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mato.ilic">
+<title>del.icio.us/mato.ilic</title>
+<link>http://del.icio.us/mato.ilic</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept" />
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://code.google.com/p/rubycas-client/" />
+  <rdf:li rdf:resource="http://code.google.com/p/rubycas-server/" />
+  <rdf:li rdf:resource="http://www.adobe.com/devnet/flash/articles/flash_selenium.html" />
+  <rdf:li rdf:resource="http://algorithmist.wordpress.com/2008/01/22/puremvc-links/" />
+  <rdf:li rdf:resource="http://bumpslide.com/blog/2008/01/16/puremvc_demo_src/" />
+  <rdf:li rdf:resource="http://www.websector.de/blog/2007/12/25/10-tips-for-working-with-puremvc/" />
+  <rdf:li rdf:resource="http://www.getdigital.de/" />
+  <rdf:li rdf:resource="http://bc.tech.coop/blog/060224.html" />
+  <rdf:li rdf:resource="http://www.davidtucker.net/category/cairngorm/" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://www.improveit.com.br/en/opensource/selenium_poetry" />
+  <rdf:li rdf:resource="http://pchart.sourceforge.net/" />
+  <rdf:li rdf:resource="http://code.google.com/apis/ajaxlibs/" />
+  <rdf:li rdf:resource="http://www.drogomir.com/blog/2008/6/18/upload-progress-bar-with-mod_passenger-and-apache" />
+  <rdf:li rdf:resource="http://scripts.mit.edu/~cci/wiki/index.php?title=Main_Page" />
+  <rdf:li rdf:resource="http://particletree.com/features/eclipse-to-textmate-an-ideological-change/" />
+  <rdf:li rdf:resource="http://www.lachoseinteractive.net/en/community/subversion/svnx/features/" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/kernel-boot-process" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/how-computers-boot-up" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/motherboard-chipsets-memory-map" />
+  <rdf:li rdf:resource="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/" />
+  <rdf:li rdf:resource="http://justcreativedesign.com/2008/04/08/creative-photographs/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/" />
+  <rdf:li rdf:resource="http://alistapart.com/articles/fauxabsolutepositioning" />
+  <rdf:li rdf:resource="http://puzzlefarter.com/" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>eXtplorer - A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-06T10:54:26Z</dc:date>
+<dc:subject>Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept">
+<title>Tom ten Thij's homepage: Rails schema browser plugin: proof of concept</title>
+<link>http://tomtenthij.nl/2008/2/12/rails-schema-browser-plugin-proof-of-concept</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-06T09:01:25Z</dc:date>
+<dc:subject>Rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-06T08:55:37Z</dc:date>
+<dc:subject>Icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/rubycas-client/">
+<title>rubycas-client - Google Code</title>
+<link>http://code.google.com/p/rubycas-client/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-03T20:32:20Z</dc:date>
+<dc:subject>Rails Ruby SSO</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Rails" />
+    <rdf:li resource="http://del.icio.us/tag/Ruby" />
+    <rdf:li resource="http://del.icio.us/tag/SSO" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/rubycas-server/">
+<title>rubycas-server - Google Code</title>
+<link>http://code.google.com/p/rubycas-server/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-03T20:30:57Z</dc:date>
+<dc:subject>Ruby SSO</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ruby" />
+    <rdf:li resource="http://del.icio.us/tag/SSO" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adobe.com/devnet/flash/articles/flash_selenium.html">
+<title>Adobe - Developer Center : Writing and running functional tests for Flash with Selenium RC</title>
+<link>http://www.adobe.com/devnet/flash/articles/flash_selenium.html</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-02T20:33:41Z</dc:date>
+<dc:subject>Flash Selenium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flash" />
+    <rdf:li resource="http://del.icio.us/tag/Selenium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://algorithmist.wordpress.com/2008/01/22/puremvc-links/">
+<title>PureMVC Links &#xAB; The Algorithmist</title>
+<link>http://algorithmist.wordpress.com/2008/01/22/puremvc-links/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-01T12:20:20Z</dc:date>
+<dc:subject>PureMVC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PureMVC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bumpslide.com/blog/2008/01/16/puremvc_demo_src/">
+<title>bumpslide.com/blog  &#xBB; Blog Archive   &#xBB; PureMVC Flash App with Source</title>
+<link>http://bumpslide.com/blog/2008/01/16/puremvc_demo_src/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-01T12:19:20Z</dc:date>
+<dc:subject>PureMVC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PureMVC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.websector.de/blog/2007/12/25/10-tips-for-working-with-puremvc/">
+<title>WS-Blog  &#xBB; 10 tips for working with PureMVC</title>
+<link>http://www.websector.de/blog/2007/12/25/10-tips-for-working-with-puremvc/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-07-01T12:14:21Z</dc:date>
+<dc:subject>ActionScript Flash Flex PureMVC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PureMVC" />
+    <rdf:li resource="http://del.icio.us/tag/ActionScript" />
+    <rdf:li resource="http://del.icio.us/tag/Flash" />
+    <rdf:li resource="http://del.icio.us/tag/Flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getdigital.de/">
+<title>getDigital - Geek Shop mit Gadgets und Shirts f&#xFC;r Computerfreaks</title>
+<link>http://www.getdigital.de/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-30T22:11:30Z</dc:date>
+<dc:subject>Shops</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Shops" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bc.tech.coop/blog/060224.html">
+<title>Bill Clementson's Blog: The Most Important Idea in Computer Science</title>
+<link>http://bc.tech.coop/blog/060224.html</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-30T21:23:13Z</dc:date>
+<dc:subject>Computerscience</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Computerscience" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.davidtucker.net/category/cairngorm/">
+<title>David Tucker - Web Development Goodness   &#xBB; Cairngorm</title>
+<link>http://www.davidtucker.net/category/cairngorm/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-30T18:45:26Z</dc:date>
+<dc:subject>Cairngorm Flex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flex" />
+    <rdf:li resource="http://del.icio.us/tag/Cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-29T18:58:21Z</dc:date>
+<dc:subject>Linux Shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/Shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.improveit.com.br/en/opensource/selenium_poetry">
+<title>Selenium Poetry - Improve It</title>
+<link>http://www.improveit.com.br/en/opensource/selenium_poetry</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-28T11:00:41Z</dc:date>
+<dc:subject>Rails Selenium</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Selenium" />
+    <rdf:li resource="http://del.icio.us/tag/Rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pchart.sourceforge.net/">
+<title>pChart | a PHP Charting library</title>
+<link>http://pchart.sourceforge.net/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-27T21:46:12Z</dc:date>
+<dc:subject>PHP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/apis/ajaxlibs/">
+<title>AJAX Libraries API - Google Code</title>
+<link>http://code.google.com/apis/ajaxlibs/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-26T17:58:08Z</dc:date>
+<dc:subject>AJAX</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drogomir.com/blog/2008/6/18/upload-progress-bar-with-mod_passenger-and-apache">
+<title>Drogomir's blog &#xBB; Blog &#xBB; Upload progress bar with mod_passenger and apache</title>
+<link>http://www.drogomir.com/blog/2008/6/18/upload-progress-bar-with-mod_passenger-and-apache</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-26T16:53:25Z</dc:date>
+<dc:subject>Apache Rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Rails" />
+    <rdf:li resource="http://del.icio.us/tag/Apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scripts.mit.edu/~cci/wiki/index.php?title=Main_Page">
+<title>Main Page - MIT Center for Collective Intelligence</title>
+<link>http://scripts.mit.edu/~cci/wiki/index.php?title=Main_Page</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-25T20:16:26Z</dc:date>
+<dc:subject>Intelligence</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Intelligence" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://particletree.com/features/eclipse-to-textmate-an-ideological-change/">
+<title>Particletree &#xBB; Eclipse to Textmate: An IDEological Change</title>
+<link>http://particletree.com/features/eclipse-to-textmate-an-ideological-change/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-24T17:28:19Z</dc:date>
+<dc:subject>Textmate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Textmate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lachoseinteractive.net/en/community/subversion/svnx/features/">
+<title>La Chose : web agency and software maker &#x2013; agence web et d&#xE9;veloppement de logiciels</title>
+<link>http://www.lachoseinteractive.net/en/community/subversion/svnx/features/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-24T17:28:06Z</dc:date>
+<dc:subject>Subversion Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Subversion" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/kernel-boot-process">
+<title>The Kernel Boot Process : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/kernel-boot-process</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-23T22:01:54Z</dc:date>
+<dc:subject>Hardware Linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hardware" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/how-computers-boot-up">
+<title>How Computers Boot Up : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/how-computers-boot-up</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-23T22:01:35Z</dc:date>
+<dc:subject>Hardware Linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hardware" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/motherboard-chipsets-memory-map">
+<title>Motherboard Chipsets and the Memory Map : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/motherboard-chipsets-memory-map</link>
+<description>indeed</description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-23T22:01:18Z</dc:date>
+<dc:subject>Hardware Linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hardware" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/">
+<title>75 Insane High Res Photoshop Brushes</title>
+<link>http://elitebydesign.com/75-insane-high-res-photoshop-brushes/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-22T21:17:28Z</dc:date>
+<dc:subject>Brushes Photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Brushes" />
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://justcreativedesign.com/2008/04/08/creative-photographs/">
+<title>92 More Must See Creative Photographs</title>
+<link>http://justcreativedesign.com/2008/04/08/creative-photographs/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-22T21:15:35Z</dc:date>
+<dc:subject>Creative</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Creative" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/">
+<title>SproutCore &#xBB; home</title>
+<link>http://www.sproutcore.com/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-21T20:29:53Z</dc:date>
+<dc:subject>Framework Javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Framework" />
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alistapart.com/articles/fauxabsolutepositioning">
+<title>A List Apart: Articles: Faux Absolute Positioning</title>
+<link>http://alistapart.com/articles/fauxabsolutepositioning</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-20T18:53:40Z</dc:date>
+<dc:subject>CSS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://puzzlefarter.com/">
+<title>Puzzle Farter -- Online Game</title>
+<link>http://puzzlefarter.com/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-20T18:35:06Z</dc:date>
+<dc:subject>Games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/">
+<title>37 FREE Must-Have Fonts - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-20T18:17:59Z</dc:date>
+<dc:subject>Fonts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/">
+<title>20 Photoshop Secrets Revealed&#x2026; - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-17T18:17:31Z</dc:date>
+<dc:subject>Photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/">
+<title>40+ Most Wanted Wordpress Tricks and Hacks</title>
+<link>http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/</link>
+<description></description>
+<dc:creator>mato.ilic</dc:creator>
+<dc:date>2008-06-16T20:24:15Z</dc:date>
+<dc:subject>Webdesign Wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/Wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

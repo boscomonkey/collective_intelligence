@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/m040601">
+<title>del.icio.us/m040601</title>
+<link>http://del.icio.us/m040601</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.amazon.com/gp/product/0979034221?ie=UTF8&#x26;tag=osnews-20&#x26;linkCode=as2&#x26;camp=1789&#x26;creative=9325&#x26;creativeASIN=0979034221" />
+  <rdf:li rdf:resource="http://wiki.bsdforen.de/howto/datenrettung?rev=1215340066" />
+  <rdf:li rdf:resource="http://www.freebsddiary.org/ezjail.php" />
+  <rdf:li rdf:resource="https://www.scalr.net/login.php" />
+  <rdf:li rdf:resource="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1603" />
+  <rdf:li rdf:resource="http://www.talend.com/" />
+  <rdf:li rdf:resource="http://de.wikipedia.org/wiki/PPS-System" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.aspsms.com/solutions/3rd-party/jabbertosms/" />
+  <rdf:li rdf:resource="http://www.messagingbay.com/smsxmpp.jsp?navi=27" />
+  <rdf:li rdf:resource="http://www.collective2.com/" />
+  <rdf:li rdf:resource="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx" />
+  <rdf:li rdf:resource="http://sprog.sourceforge.net/" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.jedox.com/en/enterprise-spreadsheets/index.html" />
+  <rdf:li rdf:resource="http://code.google.com/apis/health/" />
+  <rdf:li rdf:resource="http://www.wireshark.org/docs/man-pages/tshark.html" />
+  <rdf:li rdf:resource="https://people.mozilla.com/~cbeard/weave/dist/latest-weave.xpi" />
+  <rdf:li rdf:resource="http://www.virtualappliances.net/" />
+  <rdf:li rdf:resource="http://memberwebs.com/stef/freebsd/jails/jailer/" />
+  <rdf:li rdf:resource="http://code.google.com/p/mod-jail/" />
+  <rdf:li rdf:resource="http://wiki.freebsd.org/Jails#20080703095426" />
+  <rdf:li rdf:resource="http://wiki.freebsd.org/AsusEee#20080624151500" />
+  <rdf:li rdf:resource="http://www.askapache.com/wordpress/encrypted-wordpress-site-backups.html" />
+  <rdf:li rdf:resource="http://www.freshports.org/sysutils/cmdwatch/" />
+  <rdf:li rdf:resource="http://friedcpu.wordpress.com/2007/07/17/why-arent-you-using-ionice-yet/" />
+  <rdf:li rdf:resource="http://peazip.sourceforge.net/" />
+  <rdf:li rdf:resource="http://sourceforge.net/projects/btmgr/" />
+  <rdf:li rdf:resource="http://gdmap.sourceforge.net/" />
+  <rdf:li rdf:resource="http://glinden.blogspot.com/2006/11/hadoop-on-amazon-ec2.html" />
+  <rdf:li rdf:resource="http://opie.handhelds.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.amazon.com/gp/product/0979034221?ie=UTF8&#x26;tag=osnews-20&#x26;linkCode=as2&#x26;camp=1789&#x26;creative=9325&#x26;creativeASIN=0979034221">
+<title>Amazon.com: The Best of FreeBSD Basics: Dru Lavigne, Greg Lehey, Jeremy C. Reed: Books</title>
+<link>http://www.amazon.com/gp/product/0979034221?ie=UTF8&#x26;tag=osnews-20&#x26;linkCode=as2&#x26;camp=1789&#x26;creative=9325&#x26;creativeASIN=0979034221</link>
+<description>An updated and expanded collection of Dru's excellent collection of online tutorials on the O'Reilly Network's BSD DevCenter, this book is sure to find a treasured spot on the FreeBSD user's bookshelf. Invaluable for newbies, it still contains something f</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T12:31:12Z</dc:date>
+<dc:subject>freebsd meta:bestofthebest meta:books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+    <rdf:li resource="http://del.icio.us/tag/meta:books" />
+    <rdf:li resource="http://del.icio.us/tag/meta:bestofthebest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.bsdforen.de/howto/datenrettung?rev=1215340066">
+<title>howto:datenrettung - BSDForen.de Wiki...Mit dd die betroffene Partition auf eine andere Festplatte ausreichendem Platz als Datei kopieren.</title>
+<link>http://wiki.bsdforen.de/howto/datenrettung?rev=1215340066</link>
+<description> Grunds&#xE4;tzlich sollte niemand diesen Artikel lesen m&#xFC;ssen, denn mit einer m&#xF6;glichst aktuellen Datensicherung ist eine defekte oder auch nur vermurkste Festplatte schnell rekonstruiert.
+
+Hier findet man Anleitungen f&#xFC;r Backups:</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T12:27:28Z</dc:date>
+<dc:subject>backup freebsd meta:hacks sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meta:hacks" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freebsddiary.org/ezjail.php">
+<title>The FreeBSD Diary -- ezjail - A jail administration framework</title>
+<link>http://www.freebsddiary.org/ezjail.php</link>
+<description>I want to set up some jails. They will each be very similar. They will each be used to test a slightly different configuration of Bacula. My tool of choice is ezjail, available in the ports tree.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T12:23:04Z</dc:date>
+<dc:subject>freebsd jails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jails" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.scalr.net/login.php">
+<title>Scalr</title>
+<link>https://www.scalr.net/login.php</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T12:18:09Z</dc:date>
+<dc:subject>Redundancy amazon ec2 it:infra meta:bestofthebest rails scalability sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/it:infra" />
+    <rdf:li resource="http://del.icio.us/tag/meta:bestofthebest" />
+    <rdf:li resource="http://del.icio.us/tag/Redundancy" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1603">
+<title>Amazon Web Services Developer Connection : Auto-Scaling Web Sites Using Amazon EC2 and Scalr</title>
+<link>http://developer.amazonwebservices.com/connect/entry.jspa?externalID=1603</link>
+<description>Scalr allows network administrators to create virtual server farms, using prebuilt components. Scalr uses four Amazon Machine Instances (AMIs) for load balancing, databases, application server, and a generic base image. Administrators can preconfigure one</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T12:16:55Z</dc:date>
+<dc:subject>Redundancy deployment ec2 it:infra</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/it:infra" />
+    <rdf:li resource="http://del.icio.us/tag/Redundancy" />
+    <rdf:li resource="http://del.icio.us/tag/deployment" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.talend.com/">
+<title>Talend - first provider of open source data integration software</title>
+<link>http://www.talend.com/</link>
+<description>Talend, the first provider of open source data integration software, leverages the open source model to make data integration available to all types of organizations, regardless of their size, level of expertise or budgetary constraints. Talend&#x2019;s soluti</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T09:15:17Z</dc:date>
+<dc:subject>ExtractTransformLoad b cms datamining db erp etl projmanag tools tools:webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tools:webdev" />
+    <rdf:li resource="http://del.icio.us/tag/erp" />
+    <rdf:li resource="http://del.icio.us/tag/projmanag" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/etl" />
+    <rdf:li resource="http://del.icio.us/tag/datamining" />
+    <rdf:li resource="http://del.icio.us/tag/ExtractTransformLoad" />
+    <rdf:li resource="http://del.icio.us/tag/db" />
+    <rdf:li resource="http://del.icio.us/tag/b" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.wikipedia.org/wiki/PPS-System">
+<title>PPS-System &#x2013; Wikipedia</title>
+<link>http://de.wikipedia.org/wiki/PPS-System</link>
+<description>Ein PPS-System (Produktionsplanungs- und Steuerungssystem) ist ein Computerprogramm oder ein System aus Computerprogrammen, das den Anwender bei der Produktionsplanung und -steuerung unterst&#xFC;tzt und die damit verbundene Datenverwaltung &#xFC;bernimmt. Ziel d</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T08:50:03Z</dc:date>
+<dc:subject>erp tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/erp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-06T08:39:30Z</dc:date>
+<dc:subject>boldness gtd my:self my:uni us</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/us" />
+    <rdf:li resource="http://del.icio.us/tag/my:self" />
+    <rdf:li resource="http://del.icio.us/tag/my:uni" />
+    <rdf:li resource="http://del.icio.us/tag/boldness" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aspsms.com/solutions/3rd-party/jabbertosms/">
+<title>aspsms.com - Solutions - 3rd-Party - Jabber to SMS</title>
+<link>http://www.aspsms.com/solutions/3rd-party/jabbertosms/</link>
+<description>Sending SMS with your Jabber Client: A Jabber transport allows a Jabber user to communicate with other types of non-Jabber networks. Most Jabber users use a transport to communicate with other legacy IM services, such as AIM, MSN, ICQ or Yahoo. With your</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T22:49:27Z</dc:date>
+<dc:subject>im im2sms jabber mobile sms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/im2sms" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.messagingbay.com/smsxmpp.jsp?navi=27">
+<title>MessagingBay</title>
+<link>http://www.messagingbay.com/smsxmpp.jsp?navi=27</link>
+<description>
+A. This service makes it possible to send SMS from your Google Talk IM client, Gmail client or other Jabber IM client like Psi etc.
+B. It is assumed that you already have your Google Talk id (example, test@gmail.com) or other Jabber ID(eg. test@jabber.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T22:49:02Z</dc:date>
+<dc:subject>im2sms jabber mobile sms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/im2sms" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collective2.com/">
+<title>Collective2 - The Trading System Authority</title>
+<link>http://www.collective2.com/</link>
+<description> Collective2 monitors over 6,109 trading systems. Whether you trade stocks, futures, forex, or options - you'll find a trading strategy here on C2.
+
+Think of us as an independent &#x26;quot;trading system auditor.&#x26;quot; We'll investigate which trading systems are prof</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T21:32:42Z</dc:date>
+<dc:subject>trading</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trading" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx">
+<title>Windows SteadyState</title>
+<link>http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx</link>
+<description>It creates a cache file in which your operating system operates, meaning any harmful changes can be undone by simply emptying the cac</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T21:09:44Z</dc:date>
+<dc:subject>backup security sysadmin tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sprog.sourceforge.net/">
+<title>Sprog!</title>
+<link>http://sprog.sourceforge.net/</link>
+<description>Sprog is a graphical tool which anyone can use to build programs by plugging parts together. In Sprog jargon, the parts are known as 'gears' and they are assembled to make a 'machine'.
+
+The types of programs that you can build with Sprog will fit this g</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T10:12:39Z</dc:date>
+<dc:subject>dev meta:what tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/meta:what" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T10:03:05Z</dc:date>
+<dc:subject>dev meta:bestofthebest meta:ref webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/meta:bestofthebest" />
+    <rdf:li resource="http://del.icio.us/tag/meta:ref" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jedox.com/en/enterprise-spreadsheets/index.html">
+<title>Jedox - Enterprise Spreadsheets for Excel | Jedox - Enterprise Spreadsheets f&#xFC;r Excel</title>
+<link>http://www.jedox.com/en/enterprise-spreadsheets/index.html</link>
+<description>Though you will likely never experience a GPL'd Microsoft Excel, you can use the open-source Palo 2.5 from Jedox to serve up Excel spreadsheets. Palo is a multi-user, high performance data server application that allows workers enterprise-wide to access,</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T09:45:55Z</dc:date>
+<dc:subject>bi meta:what opensource projmanag tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/meta:what" />
+    <rdf:li resource="http://del.icio.us/tag/bi" />
+    <rdf:li resource="http://del.icio.us/tag/projmanag" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/apis/health/">
+<title>Health Data API - Google Code</title>
+<link>http://code.google.com/apis/health/</link>
+<description>
+
+The Google Health Data API allows client applications to view and send Health content in the form of Google Data API feeds. Your client application can use the Health Data API to create new medical records, request a list of medical records and query</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T09:34:47Z</dc:date>
+<dc:subject>google tools:api</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools:api" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wireshark.org/docs/man-pages/tshark.html">
+<title>tshark - The Wireshark Network Analyzer 0.99.9</title>
+<link>http://www.wireshark.org/docs/man-pages/tshark.html</link>
+<description>TShark is a network protocol analyzer. It lets you capture packet data from a live network, or read packets from a previously saved capture file, either printing a decoded form of those packets to the standard output or writing the packets to a file. TSha</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T09:08:28Z</dc:date>
+<dc:subject>cli nets security sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/nets" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/cli" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://people.mozilla.com/~cbeard/weave/dist/latest-weave.xpi">
+<title>Download Weave 0.2</title>
+<link>https://people.mozilla.com/~cbeard/weave/dist/latest-weave.xpi</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-05T08:54:01Z</dc:date>
+<dc:subject>backup extensions firefox meta:bestofthebest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/meta:bestofthebest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virtualappliances.net/">
+<title>Virtual Appliances Home - kvm/qemu/raw - www.virtualappliances.net/</title>
+<link>http://www.virtualappliances.net/</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T21:49:23Z</dc:date>
+<dc:subject>virtual</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/virtual" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://memberwebs.com/stef/freebsd/jails/jailer/">
+<title>jailer</title>
+<link>http://memberwebs.com/stef/freebsd/jails/jailer/</link>
+<description>jailer is used for managing FreeBSD jails from the inside. It takes care of the startup, shutdown and console. See the man page for details on how it works.
+
+Included is injail, a utility (contributed by J. Quick) to test in scripts whether the current</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T21:18:21Z</dc:date>
+<dc:subject>freebsd jails meta:top tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jails" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+    <rdf:li resource="http://del.icio.us/tag/meta:top" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/mod-jail/">
+<title>mod-jail - Google Code</title>
+<link>http://code.google.com/p/mod-jail/</link>
+<description>mod_jail is Apache 1.3.xx/2.0.xx module, that makes running Apache in a secure jail
+prison easy, so it is intended to run on FreeBSD only. It is similar to
+mod_chroot, but uses FreeBSD's specific system call - jail. Also mod_jail make
+it possible to ch</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T21:16:56Z</dc:date>
+<dc:subject>apache freebsd http it:infra jails meta:bestofthebest tools tools:webdev virtual webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meta:bestofthebest" />
+    <rdf:li resource="http://del.icio.us/tag/jails" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tools:webdev" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/it:infra" />
+    <rdf:li resource="http://del.icio.us/tag/virtual" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.freebsd.org/Jails#20080703095426">
+<title>Jails - FreeBSD Wiki</title>
+<link>http://wiki.freebsd.org/Jails#20080703095426</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T21:13:01Z</dc:date>
+<dc:subject>freebsd jails meta:top</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jails" />
+    <rdf:li resource="http://del.icio.us/tag/meta:top" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.freebsd.org/AsusEee#20080624151500">
+<title>AsusEee - FreeBSD Wiki</title>
+<link>http://wiki.freebsd.org/AsusEee#20080624151500</link>
+<description>This page describes FreeBSD support for the Asus line of subnotebooks, Eee PC.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T21:10:41Z</dc:date>
+<dc:subject>eeepc freebsd hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/eeepc" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.askapache.com/wordpress/encrypted-wordpress-site-backups.html">
+<title>Encrypted WordPress Site Backups</title>
+<link>http://www.askapache.com/wordpress/encrypted-wordpress-site-backups.html</link>
+<description></description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T19:37:34Z</dc:date>
+<dc:subject>backup encrypt wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/encrypt" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freshports.org/sysutils/cmdwatch/">
+<title>FreshPorts -- sysutils/cmdwatch</title>
+<link>http://www.freshports.org/sysutils/cmdwatch/</link>
+<description>This is the familiar Linux &#x26;quot;watch&#x26;quot; utility originally written by Tony
+Rems &#x26;lt;rembo@unisoft.com&#x26;gt; with help from Francois Pinard and more recently
+Mike Coleman &#x26;lt;mkc@acm.org&#x26;gt;.  I found it useful, so here it is.  Basically
+&#x26;quot;watches&#x26;quot; the output of a given co</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T19:36:28Z</dc:date>
+<dc:subject>freebsd sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://friedcpu.wordpress.com/2007/07/17/why-arent-you-using-ionice-yet/">
+<title>Why aren&#x2019;t you using ionice yet??? &#xAB; Fried CPU</title>
+<link>http://friedcpu.wordpress.com/2007/07/17/why-arent-you-using-ionice-yet/</link>
+<description>The best usecase for using ionice to improve performance is when you need to do two classes of tasks at once: The ones that don&#x2019;t use much disk IO but demand fast response, and the ones that do a LOT of disk IO but don&#x2019;t need it done urgently.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T19:33:56Z</dc:date>
+<dc:subject>freebsd meta:hacks meta:top performance sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/meta:hacks" />
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+    <rdf:li resource="http://del.icio.us/tag/meta:top" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://peazip.sourceforge.net/">
+<title>PeaZip: free RAR 7Z ACE PAQ TAR ZIP archiver utility</title>
+<link>http://peazip.sourceforge.net/</link>
+<description>
+	
+PeaZip free archiver utility is a portable, open source file and archive manager.
+PeaZip is cross platform and runs on 32 and 64 bit Windows (9x, 2000, XP, Vista) and Linux. It supports handling many archive and compression formats:</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T00:03:44Z</dc:date>
+<dc:subject>filemanagement linux meta:tooop sysadmin tools unix windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/filemanagement" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/meta:tooop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/projects/btmgr/">
+<title>SourceForge.net: Smart BootManager</title>
+<link>http://sourceforge.net/projects/btmgr/</link>
+<description>Smart BootManager is an os independent BootManager which has easy to use interface and many other features. The main goals of SBM are to be absolutely OS independent, flexible and full-featured. It has all of the features needed to boot a variety of OS.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-04T00:02:04Z</dc:date>
+<dc:subject>hardware sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gdmap.sourceforge.net/">
+<title>GD Map - A tool to visualize disk space</title>
+<link>http://gdmap.sourceforge.net/</link>
+<description>GdMap is a tool which allows to visualize disk space. Ever wondered why your hard disk is full or what directory and files take up most of the space? With GdMap these questions can be answered quickly. To display directory structures cushion treemaps are</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-03T23:58:37Z</dc:date>
+<dc:subject>desktop filemanagement gui storage tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/filemanagement" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glinden.blogspot.com/2006/11/hadoop-on-amazon-ec2.html">
+<title>Geeking with Greg: Hadoop on Amazon EC2</title>
+<link>http://glinden.blogspot.com/2006/11/hadoop-on-amazon-ec2.html</link>
+<description>Hadoop, an open source clone of Google FS and MapReduce, can be run on top of Amazon EC2, a hosting service that allows leasing servers on an hourly basis.</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-03T23:55:42Z</dc:date>
+<dc:subject>distributed ec2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://opie.handhelds.org/">
+<title>Opie</title>
+<link>http://opie.handhelds.org/</link>
+<description>The Open Palmtop Integrated Environment is a 'fork' of the [WWW]Qtopia environment developed by [WWW]Trolltech. Opie is a completely Open Source graphical user environment for PDAs and other small form-factor devices running Linux. It is maintained by a g</description>
+<dc:creator>m040601</dc:creator>
+<dc:date>2008-07-03T23:47:17Z</dc:date>
+<dc:subject>distro hardware linux palm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/palm" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/distro" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

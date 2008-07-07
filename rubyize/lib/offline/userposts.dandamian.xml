@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dandamian">
+<title>del.icio.us/dandamian</title>
+<link>http://del.icio.us/dandamian</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://books.google.com/books?id=FUdv3zX9RbUC&#x26;pg=PA93&#x26;lpg=PA93&#x26;dq=marshall+4210+extension+cabinet&#x26;source=web&#x26;ots=_Lk0Kv7iJA&#x26;sig=iiwln_Ei-HFVUyv4nJdgh2Gt1-o&#x26;hl=en&#x26;sa=X&#x26;oi=book_result&#x26;resnum=2&#x26;ct=result#PPA48,M1" />
+  <rdf:li rdf:resource="http://www.acmqueue.com/modules.php?name=Content&#x26;pa=printer_friendly&#x26;pid=388&#x26;page=1" />
+  <rdf:li rdf:resource="http://hurvitz.org/blog/2008/06/linkedin-architecture" />
+  <rdf:li rdf:resource="http://hasin.wordpress.com/2007/08/" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=49731" />
+  <rdf:li rdf:resource="http://studentweb.eku.edu/justin_holton/tubes.html" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/print/php5-standard-library" />
+  <rdf:li rdf:resource="http://www.moskalyuk.com/blog/php-optimization-tips/1272" />
+  <rdf:li rdf:resource="http://talks.php.net/show/php-best-practices/" />
+  <rdf:li rdf:resource="http://bitfilm.net/2007/11/27/even-more-tips-for-faster-php-scripts/" />
+  <rdf:li rdf:resource="http://blog.rightbrainnetworks.com/2006/09/18/10-things-you-probably-didnt-know-about-php/" />
+  <rdf:li rdf:resource="http://reinholdweber.com/?p=3" />
+  <rdf:li rdf:resource="http://phplens.com/lens/php-book/optimizing-debugging-php.php" />
+  <rdf:li rdf:resource="http://quickcache.codeworxtech.com/" />
+  <rdf:li rdf:resource="http://actsasflinn.com/articles/2007/08/08/php-and-activerecord" />
+  <rdf:li rdf:resource="http://www.rooftopsolutions.nl/article/107" />
+  <rdf:li rdf:resource="http://drupal.org/project/cacherouter" />
+  <rdf:li rdf:resource="http://trac.thrudb.org/" />
+  <rdf:li rdf:resource="http://twasink.net/blog/archives/2005/10/ehcache_dissect_1.html" />
+  <rdf:li rdf:resource="http://dev2dev.bea.com/pub/a/2007/02/php-java-bridge.html" />
+  <rdf:li rdf:resource="http://www.mysqlperformanceblog.com/2006/09/27/apc-or-memcached/" />
+  <rdf:li rdf:resource="http://munin.projects.linpro.no/" />
+  <rdf:li rdf:resource="http://www.jboss.com/index.html?module=bb&#x26;op=viewtopic&#x26;p=3944494" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/knowledgecenter-is/knowledgecenter-is.tss?l=JSFAnti-PatternsandPitfalls" />
+  <rdf:li rdf:resource="http://forums.whirlpool.net.au/forum-replies-archive.cfm/396595.html" />
+  <rdf:li rdf:resource="http://www.pal-guide.com/index.php?lc=global" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=48053" />
+  <rdf:li rdf:resource="http://blog.ianbicking.org/starting-with-selenium.html" />
+  <rdf:li rdf:resource="http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson" />
+  <rdf:li rdf:resource="http://www.hibernate.org/15.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-07-06T08:46:45Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.google.com/books?id=FUdv3zX9RbUC&#x26;pg=PA93&#x26;lpg=PA93&#x26;dq=marshall+4210+extension+cabinet&#x26;source=web&#x26;ots=_Lk0Kv7iJA&#x26;sig=iiwln_Ei-HFVUyv4nJdgh2Gt1-o&#x26;hl=en&#x26;sa=X&#x26;oi=book_result&#x26;resnum=2&#x26;ct=result#PPA48,M1">
+<title>The History of Marshall: The ... - Google Book Search</title>
+<link>http://books.google.com/books?id=FUdv3zX9RbUC&#x26;pg=PA93&#x26;lpg=PA93&#x26;dq=marshall+4210+extension+cabinet&#x26;source=web&#x26;ots=_Lk0Kv7iJA&#x26;sig=iiwln_Ei-HFVUyv4nJdgh2Gt1-o&#x26;hl=en&#x26;sa=X&#x26;oi=book_result&#x26;resnum=2&#x26;ct=result#PPA48,M1</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-27T00:16:25Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acmqueue.com/modules.php?name=Content&#x26;pa=printer_friendly&#x26;pid=388&#x26;page=1">
+<title>A Conversation with Werner Vogels (Amazon)</title>
+<link>http://www.acmqueue.com/modules.php?name=Content&#x26;pa=printer_friendly&#x26;pid=388&#x26;page=1</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-26T18:00:46Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hurvitz.org/blog/2008/06/linkedin-architecture">
+<title>Cookies are for Closers: Oren Hurvitz&#x2019;s Blog &#xBB; LinkedIn Architecture</title>
+<link>http://hurvitz.org/blog/2008/06/linkedin-architecture</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-26T17:58:04Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hasin.wordpress.com/2007/08/">
+<title>YSlow performance hints</title>
+<link>http://hasin.wordpress.com/2007/08/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-19T15:12:37Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=49731">
+<title>Jawr 2.4: Fast page loading and best YSlow grades</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=49731</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-19T08:35:56Z</dc:date>
+<dc:subject>java javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://studentweb.eku.edu/justin_holton/tubes.html">
+<title>Guitar Tube / Valve Amp FAQ</title>
+<link>http://studentweb.eku.edu/justin_holton/tubes.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-06-12T01:27:28Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/print/php5-standard-library">
+<title>Introducing PHP 5's Standard Library</title>
+<link>http://www.sitepoint.com/print/php5-standard-library</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-28T07:56:09Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moskalyuk.com/blog/php-optimization-tips/1272">
+<title>alex.moskalyuk  &#xBB; Blog Archive   &#xBB; 12 PHP optimization tips</title>
+<link>http://www.moskalyuk.com/blog/php-optimization-tips/1272</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T11:07:55Z</dc:date>
+<dc:subject>performance php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://talks.php.net/show/php-best-practices/">
+<title>PHP best practices - The dos and don'ts</title>
+<link>http://talks.php.net/show/php-best-practices/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T11:05:15Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bitfilm.net/2007/11/27/even-more-tips-for-faster-php-scripts/">
+<title>Even More Tips for faster PHP scripts | Making the web</title>
+<link>http://bitfilm.net/2007/11/27/even-more-tips-for-faster-php-scripts/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T09:38:31Z</dc:date>
+<dc:subject>performance php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rightbrainnetworks.com/2006/09/18/10-things-you-probably-didnt-know-about-php/">
+<title>Yet Another Web Development Blog &#xBB; 10 things you (probably) didn&#x2019;t know about PHP.</title>
+<link>http://blog.rightbrainnetworks.com/2006/09/18/10-things-you-probably-didnt-know-about-php/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T09:16:02Z</dc:date>
+<dc:subject>performance php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reinholdweber.com/?p=3">
+<title>40 Tips for optimizing your php code // Reinhold Weber</title>
+<link>http://reinholdweber.com/?p=3</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T09:13:25Z</dc:date>
+<dc:subject>performance php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phplens.com/lens/php-book/optimizing-debugging-php.php">
+<title>: A HOWTO on Optimizing PHP with tips and methodologies</title>
+<link>http://phplens.com/lens/php-book/optimizing-debugging-php.php</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-24T09:13:07Z</dc:date>
+<dc:subject>performance php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://quickcache.codeworxtech.com/">
+<title>:: Quickcache ::</title>
+<link>http://quickcache.codeworxtech.com/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T14:27:12Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://actsasflinn.com/articles/2007/08/08/php-and-activerecord">
+<title>PHP and ActiveRecord</title>
+<link>http://actsasflinn.com/articles/2007/08/08/php-and-activerecord</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T12:58:41Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rooftopsolutions.nl/article/107">
+<title>Caching in PHP using the filesystem, APC and Memcached - Het bijstere spoor</title>
+<link>http://www.rooftopsolutions.nl/article/107</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T09:04:02Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drupal.org/project/cacherouter">
+<title>Cache Router | drupal.org</title>
+<link>http://drupal.org/project/cacherouter</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T09:01:46Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trac.thrudb.org/">
+<title>Thrudb &#x2013; Trac</title>
+<link>http://trac.thrudb.org/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T08:52:45Z</dc:date>
+<dc:subject>db</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/db" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twasink.net/blog/archives/2005/10/ehcache_dissect_1.html">
+<title>ehcache dissected (Software is too expensive to build cheaply...)</title>
+<link>http://twasink.net/blog/archives/2005/10/ehcache_dissect_1.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T07:40:28Z</dc:date>
+<dc:subject>java performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev2dev.bea.com/pub/a/2007/02/php-java-bridge.html">
+<title>Using PHP-Java Bridges with WebLogic Server</title>
+<link>http://dev2dev.bea.com/pub/a/2007/02/php-java-bridge.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T07:34:44Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mysqlperformanceblog.com/2006/09/27/apc-or-memcached/">
+<title>APC or Memcached | MySQL Performance Blog</title>
+<link>http://www.mysqlperformanceblog.com/2006/09/27/apc-or-memcached/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T07:06:44Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://munin.projects.linpro.no/">
+<title>Munin</title>
+<link>http://munin.projects.linpro.no/</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-23T06:40:21Z</dc:date>
+<dc:subject>monitoring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jboss.com/index.html?module=bb&#x26;op=viewtopic&#x26;p=3944494">
+<title>Exploded WebModule: Can web-uri point outside of jboss?</title>
+<link>http://www.jboss.com/index.html?module=bb&#x26;op=viewtopic&#x26;p=3944494</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-04-14T11:53:30Z</dc:date>
+<dc:subject>jboss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/knowledgecenter-is/knowledgecenter-is.tss?l=JSFAnti-PatternsandPitfalls">
+<title>Enterprise Java Community: JSF Anti-Patterns and Pitfalls</title>
+<link>http://www.theserverside.com/tt/knowledgecenter-is/knowledgecenter-is.tss?l=JSFAnti-PatternsandPitfalls</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-03-03T10:27:08Z</dc:date>
+<dc:subject>jsf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jsf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.whirlpool.net.au/forum-replies-archive.cfm/396595.html">
+<title>onselect change focus to next field - Coding - Coding &#x26; Web</title>
+<link>http://forums.whirlpool.net.au/forum-replies-archive.cfm/396595.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-02-12T08:46:09Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pal-guide.com/index.php?lc=global">
+<title>PHILIPS - PAL guide</title>
+<link>http://www.pal-guide.com/index.php?lc=global</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-01-17T11:28:34Z</dc:date>
+<dc:subject>auto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/auto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=48053">
+<title>Running JEE applications on Amazon EC2</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=48053</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-01-12T09:01:47Z</dc:date>
+<dc:subject>ec2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.ianbicking.org/starting-with-selenium.html">
+<title>Starting with Selenium</title>
+<link>http://blog.ianbicking.org/starting-with-selenium.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-01-12T08:50:12Z</dc:date>
+<dc:subject>test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/test" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson">
+<title>Meet Hudson - hudson - Hudson Wiki</title>
+<link>http://hudson.gotdns.com/wiki/display/HUDSON/Meet+Hudson</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-01-10T15:32:14Z</dc:date>
+<dc:subject>testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hibernate.org/15.html">
+<title>hibernate.org - Performance Q&#x26;A</title>
+<link>http://www.hibernate.org/15.html</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-01-09T17:51:03Z</dc:date>
+<dc:subject>ejb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ejb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rvcouto">
+<title>del.icio.us/rvcouto</title>
+<link>http://del.icio.us/rvcouto</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.wisebread.com/biggest-money-saving-tip-move-far-away-from-the-joneses" />
+  <rdf:li rdf:resource="https://www.forge.funambol.org/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/SyncML" />
+  <rdf:li rdf:resource="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=4119&#x26;Imobiliaria=11477&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=" />
+  <rdf:li rdf:resource="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=3163&#x26;Imobiliaria=11293&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto#fotos" />
+  <rdf:li rdf:resource="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=12346&#x26;Imobiliaria=262&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto" />
+  <rdf:li rdf:resource="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=04.08.003&#x26;Imobiliaria=4007&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto" />
+  <rdf:li rdf:resource="http://osdir.com/ml/misc.opensync.devel/2007-09/threads.html#00072" />
+  <rdf:li rdf:resource="http://www.nabble.com/Samsung-SGH-D600%3A-Request-not-successfull%3A-83-to4960304.html#a4960304" />
+  <rdf:li rdf:resource="http://br.youtube.com/watch?v=qKeD5nT1hdI" />
+  <rdf:li rdf:resource="http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/Apartamento_amplo_e_confort%C3%A1vel_/add29175854_12347_16350_0_2_87_8700360_379/index2.aspx" />
+  <rdf:li rdf:resource="http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/SANTO_AMARO_/add29524386_12347_16350_0_2_87_8700360_413/index2.aspx" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=ZM5zGJl9w9c&#x26;sdig=1" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Structuration_theory" />
+  <rdf:li rdf:resource="http://www.bashiba.com/" />
+  <rdf:li rdf:resource="http://forum2.mobile-review.com/showthread.php?t=26789" />
+  <rdf:li rdf:resource="http://forums.data.bg/viewtopic.php?p=11305693&#x26;sid=a3e788375249df58ef0bad38f37477ac" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/3216798/Samsung-SGHD900-SGHD900-User-Manual-ver13-ENGLISH" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/dayal-ajax-gwt-gears" />
+  <rdf:li rdf:resource="http://www.amazon.com/exec/obidos/tg/detail/-/0071591060/ref=ord_cart_shr?_encoding=UTF8&#x26;m=ATVPDKIKX0DER&#x26;v=glance" />
+  <rdf:li rdf:resource="http://bradapp.blogspot.com/2006/05/simple-aint-easy-myths-and.html" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://forum2.mobile-review.com/showthread.php?t=23428" />
+  <rdf:li rdf:resource="http://tools.assembla.com/zsharp/wiki/UsingZSharp" />
+  <rdf:li rdf:resource="http://www.cellularmagazine.it/forum/firmware-programmi-per-laggiornamento-serie-d-e-e-vt27756.html" />
+  <rdf:li rdf:resource="http://www.cellularmagazine.it/forum/d900-hints-tips-vt23405.html" />
+  <rdf:li rdf:resource="http://forum.sgh.ru/lofiversion/index.php/t34164.html" />
+  <rdf:li rdf:resource="http://forum.sgh.ru/topic34164.html" />
+  <rdf:li rdf:resource="http://tools.assembla.com/zsharp/wiki/AT" />
+  <rdf:li rdf:resource="http://macintoshhowto.com/phone/how-to-sync-your-d900i-to-macintosh-osx.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-06T14:09:31Z</dc:date>
+<dc:subject>architecture article concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wisebread.com/biggest-money-saving-tip-move-far-away-from-the-joneses">
+<title>Biggest Money Saving Tip: Move Far Away from the Joneses | Wise Bread</title>
+<link>http://www.wisebread.com/biggest-money-saving-tip-move-far-away-from-the-joneses</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-06T14:07:45Z</dc:date>
+<dc:subject>finance life lifehack money style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.forge.funambol.org/">
+<title>Funambol community forge</title>
+<link>https://www.forge.funambol.org/</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T11:47:44Z</dc:date>
+<dc:subject>email mobile opensource outlook software sync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/SyncML">
+<title>SyncML - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/SyncML</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T11:45:55Z</dc:date>
+<dc:subject>calendar cellphone mobile programming sync synchronization syncml xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/syncml" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/synchronization" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/cellphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=4119&#x26;Imobiliaria=11477&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=">
+<title>SAO PAULO, SP, VL GUARANI, Apartamento Padr&#xE3;o, 2 Quartos/Dts.</title>
+<link>http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=4119&#x26;Imobiliaria=11477&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T03:03:21Z</dc:date>
+<dc:subject>carol:interessante</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:interessante" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=3163&#x26;Imobiliaria=11293&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto#fotos">
+<title>SAO PAULO, SP, VL GUARANI, Apartamento Padr&#xE3;o, 2 Quartos/Dts.</title>
+<link>http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=3163&#x26;Imobiliaria=11293&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto#fotos</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T02:47:34Z</dc:date>
+<dc:subject>carol:interessante</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:interessante" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=12346&#x26;Imobiliaria=262&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto">
+<title>SAO PAULO, SP, VL GUARANI, Apartamento Padr&#xE3;o, 3 Quartos/Dts.</title>
+<link>http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=12346&#x26;Imobiliaria=262&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T02:42:39Z</dc:date>
+<dc:subject>carol:interessante</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:interessante" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=04.08.003&#x26;Imobiliaria=4007&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto">
+<title>SAO PAULO, SP, VL GUARANI, Apartamento Padr&#xE3;o, 2 Quartos/Dts.</title>
+<link>http://www.zap.com.br/imoveis/detalhes.aspx?Imovel=04.08.003&#x26;Imobiliaria=4007&#x26;tran=3&#x26;conta=&#x26;contato=&#x26;foto=foto</link>
+<description>RUA MUCURI</description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-05T02:40:27Z</dc:date>
+<dc:subject>carol:interessante</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:interessante" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osdir.com/ml/misc.opensync.devel/2007-09/threads.html#00072">
+<title>misc.opensync.devel (thread)</title>
+<link>http://osdir.com/ml/misc.opensync.devel/2007-09/threads.html#00072</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T21:58:02Z</dc:date>
+<dc:subject>d900 obex teleca</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/teleca" />
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nabble.com/Samsung-SGH-D600%3A-Request-not-successfull%3A-83-to4960304.html#a4960304">
+<title>Nabble - Samsung SGH-D600: Request not successfull: 83</title>
+<link>http://www.nabble.com/Samsung-SGH-D600%3A-Request-not-successfull%3A-83-to4960304.html#a4960304</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T21:26:10Z</dc:date>
+<dc:subject>d900 obex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://br.youtube.com/watch?v=qKeD5nT1hdI">
+<title>YouTube - Gubi no programa &#x22;De Perto Ningu&#xE9;m &#xC9; Normal&#x22; da GNT</title>
+<link>http://br.youtube.com/watch?v=qKeD5nT1hdI</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T21:10:40Z</dc:date>
+<dc:subject>gubi ime magic usp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ime" />
+    <rdf:li resource="http://del.icio.us/tag/usp" />
+    <rdf:li resource="http://del.icio.us/tag/gubi" />
+    <rdf:li resource="http://del.icio.us/tag/magic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/Apartamento_amplo_e_confort%C3%A1vel_/add29175854_12347_16350_0_2_87_8700360_379/index2.aspx">
+<title>Apartamento amplo e confort&#xE1;vel - Im&#xF3;veis - Apartamentos - S&#xE3;o Paulo</title>
+<link>http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/Apartamento_amplo_e_confort%C3%A1vel_/add29175854_12347_16350_0_2_87_8700360_379/index2.aspx</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T14:03:34Z</dc:date>
+<dc:subject>carol:apartamento</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:apartamento" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/SANTO_AMARO_/add29524386_12347_16350_0_2_87_8700360_413/index2.aspx">
+<title>SANTO AMARO - Im&#xF3;veis - Apartamentos - S&#xE3;o Paulo</title>
+<link>http://www.balcao.com/ClasificadosWeb/S%C3%A3o_Paulo/SANTO_AMARO_/add29524386_12347_16350_0_2_87_8700360_413/index2.aspx</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T14:03:31Z</dc:date>
+<dc:subject>carol:apartamento</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carol:apartamento" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=ZM5zGJl9w9c&#x26;sdig=1">
+<title>YouTube - Making the Semantic Web Accessible to the Casual User</title>
+<link>http://www.youtube.com/watch?v=ZM5zGJl9w9c&#x26;sdig=1</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T12:55:16Z</dc:date>
+<dc:subject>presentation query semanticweb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+    <rdf:li resource="http://del.icio.us/tag/query" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Structuration_theory">
+<title>Structuration - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Structuration_theory</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T09:59:45Z</dc:date>
+<dc:subject>clarity design lifehack reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/clarity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bashiba.com/">
+<title>88 | BASHIBA PANORAMA &#x3E; YOUR BUSINESS CLIMATE REALTIME |</title>
+<link>http://www.bashiba.com/</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-04T09:57:04Z</dc:date>
+<dc:subject>3d attention data design hardware panorama psychology startup visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/panorama" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/attention" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum2.mobile-review.com/showthread.php?t=26789">
+<title>Total FLASH guide for DUMMIES - Mobile-Review.com Forums</title>
+<link>http://forum2.mobile-review.com/showthread.php?t=26789</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-03T13:31:54Z</dc:date>
+<dc:subject>d900 firmware flash guide howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/firmware" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.data.bg/viewtopic.php?p=11305693&#x26;sid=a3e788375249df58ef0bad38f37477ac">
+<title>Forums.Data.BG: &#x41F;&#x440;&#x435;&#x433;&#x43B;&#x435;&#x434; &#x43D;&#x430; &#x442;&#x435;&#x43C;&#x430; - &#x412;&#x441;&#x438;&#x447;&#x43A;&#x43E; &#x437;&#x430; Samsung (&#x43C;&#x435;&#x43B;&#x43E;&#x434;&#x438;&#x438;, &#x43A;&#x430;&#x440;&#x442;&#x438;&#x43D;&#x43A;&#x438;, &#x438;&#x433;&#x440;&#x438; &#x438; &#x434;&#x440;&#x443;&#x433;&#x438;)</title>
+<link>http://forums.data.bg/viewtopic.php?p=11305693&#x26;sid=a3e788375249df58ef0bad38f37477ac</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-03T13:14:09Z</dc:date>
+<dc:subject>code d900 hack java ppp serial usb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/ppp" />
+    <rdf:li resource="http://del.icio.us/tag/usb" />
+    <rdf:li resource="http://del.icio.us/tag/serial" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/3216798/Samsung-SGHD900-SGHD900-User-Manual-ver13-ENGLISH">
+<title>Samsung - SGH-D900 - SGH-D900 User Manual (ver.1.3) - ENGLISH</title>
+<link>http://www.scribd.com/doc/3216798/Samsung-SGHD900-SGHD900-User-Manual-ver13-ENGLISH</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-03T12:25:59Z</dc:date>
+<dc:subject>d900 manual</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/manual" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/dayal-ajax-gwt-gears">
+<title>InfoQ: Building Large AJAX Applications with GWT 1.4 and Google Gears</title>
+<link>http://www.infoq.com/presentations/dayal-ajax-gwt-gears</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-03T09:53:25Z</dc:date>
+<dc:subject>ajax gears google gwt java presentation video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/gears" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/exec/obidos/tg/detail/-/0071591060/ref=ord_cart_shr?_encoding=UTF8&#x26;m=ATVPDKIKX0DER&#x26;v=glance">
+<title>Amazon.com: SCJP Sun Certified Programmer for Java 6 Exam 310-065: Katherine Sierra, Bert Bates: Books</title>
+<link>http://www.amazon.com/exec/obidos/tg/detail/-/0071591060/ref=ord_cart_shr?_encoding=UTF8&#x26;m=ATVPDKIKX0DER&#x26;v=glance</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-02T09:58:31Z</dc:date>
+<dc:subject>amazon book certification java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/certification" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bradapp.blogspot.com/2006/05/simple-aint-easy-myths-and.html">
+<title>Brad Appleton's ACME Blog: Simple ain't Easy: Myths and Misunderstandings about Simplicity</title>
+<link>http://bradapp.blogspot.com/2006/05/simple-aint-easy-myths-and.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-02T09:58:18Z</dc:date>
+<dc:subject>agile architecture blog design development programming simplicity software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/simplicity" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done | Zen Habits</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-02T09:58:10Z</dc:date>
+<dc:subject>gtd guide lifehacks lists productivity resources self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum2.mobile-review.com/showthread.php?t=23428">
+<title>Unlocking the box of fun - Dragonfly Series (D500/D900...) - Mobile-Review.com Forums</title>
+<link>http://forum2.mobile-review.com/showthread.php?t=23428</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T22:13:26Z</dc:date>
+<dc:subject>d900 hack hardware mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tools.assembla.com/zsharp/wiki/UsingZSharp">
+<title>UsingZSharp - ZSharp - Trac</title>
+<link>http://tools.assembla.com/zsharp/wiki/UsingZSharp</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:14:40Z</dc:date>
+<dc:subject>obex samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cellularmagazine.it/forum/firmware-programmi-per-laggiornamento-serie-d-e-e-vt27756.html">
+<title>Firmware &#x26; Programmi Per L'aggiornamento Serie D E E.</title>
+<link>http://www.cellularmagazine.it/forum/firmware-programmi-per-laggiornamento-serie-d-e-e-vt27756.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:14:28Z</dc:date>
+<dc:subject>d900 firmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/firmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cellularmagazine.it/forum/d900-hints-tips-vt23405.html">
+<title>D900: Hints&#x26;Tips</title>
+<link>http://www.cellularmagazine.it/forum/d900-hints-tips-vt23405.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:13:24Z</dc:date>
+<dc:subject>d900</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.sgh.ru/lofiversion/index.php/t34164.html">
+<title>Mobile Forum &#x3E; D900xefk2</title>
+<link>http://forum.sgh.ru/lofiversion/index.php/t34164.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:11:28Z</dc:date>
+<dc:subject>d900 obex phone samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.sgh.ru/topic34164.html">
+<title>D900xefk2 - Mobile Forum</title>
+<link>http://forum.sgh.ru/topic34164.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:11:25Z</dc:date>
+<dc:subject>d900 obex phone samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tools.assembla.com/zsharp/wiki/AT">
+<title>AT - ZSharp - Trac</title>
+<link>http://tools.assembla.com/zsharp/wiki/AT</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T21:11:11Z</dc:date>
+<dc:subject>obex phone samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+    <rdf:li resource="http://del.icio.us/tag/obex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://macintoshhowto.com/phone/how-to-sync-your-d900i-to-macintosh-osx.html">
+<title>How to sync your D900i to Macintosh OSX | Macintosh How To</title>
+<link>http://macintoshhowto.com/phone/how-to-sync-your-d900i-to-macintosh-osx.html</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-01T20:28:32Z</dc:date>
+<dc:subject>d900 guide macosx osx samsung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/d900" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/samsung" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

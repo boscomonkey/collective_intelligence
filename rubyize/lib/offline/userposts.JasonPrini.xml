@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jasonprini">
+<title>del.icio.us/jasonprini</title>
+<link>http://del.icio.us/jasonprini</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://www.bestwpthemes.com/" />
+  <rdf:li rdf:resource="http://www.voiceoftech.com/swhitley/?page_id=129" />
+  <rdf:li rdf:resource="http://bicycletutor.com/" />
+  <rdf:li rdf:resource="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/26/rocket-stoves-use-tw.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/" />
+  <rdf:li rdf:resource="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/" />
+  <rdf:li rdf:resource="http://www.italian-food-recipes.net/2007/10/canederli-with-speck-primo.html" />
+  <rdf:li rdf:resource="http://blog.makezine.com/archive/2008/06/how_to_build_a_lucid_drea.html?CMP=OTC-0D6B48984890" />
+  <rdf:li rdf:resource="http://www.sfu.ca/~achanne/projects/bookbinding/" />
+  <rdf:li rdf:resource="http://www.withouthotair.com/" />
+  <rdf:li rdf:resource="http://www.tumbleweedhouses.com/houses/enesti/" />
+  <rdf:li rdf:resource="http://37signals.com/papers/introtopatterns/" />
+  <rdf:li rdf:resource="http://schillmania.com/projects/soundmanager2/" />
+  <rdf:li rdf:resource="http://code.google.com/apis/ajaxlibs/" />
+  <rdf:li rdf:resource="http://www.chromaticsites.com/web-design-blog/2008-05-26/the-official-successful-website-checklist-challenge/" />
+  <rdf:li rdf:resource="http://nettuts.com/javascript-ajax/how-to-load-in-and-animate-content-with-jquery/" />
+  <rdf:li rdf:resource="http://www.iconlook.com/" />
+  <rdf:li rdf:resource="http://blog.thejit.org/javascript-information-visualization-toolkit-jit/" />
+  <rdf:li rdf:resource="http://psdtuts.com/text-effects-tutorials/create-a-spectacular-grass-text-effect-in-photoshop/" />
+  <rdf:li rdf:resource="http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html" />
+  <rdf:li rdf:resource="http://www.pearsonified.com/2008/05/how-to-use-wordpress-functions.php" />
+  <rdf:li rdf:resource="http://www.leigeber.com/2008/05/ajax-image-gallery-slideshow/" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/30-exceptional-ajaxjavascript-techniques-recently-created.html" />
+  <rdf:li rdf:resource="http://www.jankoatwarpspeed.com/post/2008/04/30/make-fancy-buttons-using-css-sliding-doors-technique.aspx" />
+  <rdf:li rdf:resource="http://www.designspongeonline.com/2008/05/welcome-julia-and-how-to-make-a-repeat-pattern.html" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/best-social-media-advice-from-this-site/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-06T11:52:14Z</dc:date>
+<dc:subject>cool design math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-04T19:14:09Z</dc:date>
+<dc:subject>design form web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-03T15:23:01Z</dc:date>
+<dc:subject>business entrepreneurship freelance marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-02T11:55:14Z</dc:date>
+<dc:subject>brushes photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bestwpthemes.com/">
+<title>Best Wordpress Themes &#xBB; Cool free and premium Wordpress themes</title>
+<link>http://www.bestwpthemes.com/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-01T12:53:46Z</dc:date>
+<dc:subject>themes wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.voiceoftech.com/swhitley/?page_id=129">
+<title>EasyPayPal WordPress Plugin | Shannon Whitley</title>
+<link>http://www.voiceoftech.com/swhitley/?page_id=129</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-07-01T12:52:23Z</dc:date>
+<dc:subject>blog blogging plugin plugins wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bicycletutor.com/">
+<title>The Bicycle Tutor - How to fix your own bike!</title>
+<link>http://bicycletutor.com/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-29T22:02:49Z</dc:date>
+<dc:subject>lifehacks resource tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html">
+<title>Building a Software Company: How to sell your software for $20,000</title>
+<link>http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-28T22:30:14Z</dc:date>
+<dc:subject>business entrepreneurship marketing software startup tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/26/rocket-stoves-use-tw.html">
+<title>Rocket stoves use twigs to cook food quickly, efficiently - Boing Boing</title>
+<link>http://www.boingboing.net/2008/06/26/rocket-stoves-use-tw.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-27T13:01:53Z</dc:date>
+<dc:subject>blog food lifehacks science video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/">
+<title>Flexible Layouts: Challenge For The Future | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-26T15:06:25Z</dc:date>
+<dc:subject>css design template webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/">
+<title>75 Insane High Res Photoshop Brushes</title>
+<link>http://elitebydesign.com/75-insane-high-res-photoshop-brushes/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-22T18:01:43Z</dc:date>
+<dc:subject>brushes photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.italian-food-recipes.net/2007/10/canederli-with-speck-primo.html">
+<title>Italian Food Recipes: Canederli with Speck - Primo</title>
+<link>http://www.italian-food-recipes.net/2007/10/canederli-with-speck-primo.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-22T17:54:17Z</dc:date>
+<dc:subject>food italian recipe soup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/italian" />
+    <rdf:li resource="http://del.icio.us/tag/soup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.makezine.com/archive/2008/06/how_to_build_a_lucid_drea.html?CMP=OTC-0D6B48984890">
+<title>MAKE: Blog: How To - Build a lucid dream machine</title>
+<link>http://blog.makezine.com/archive/2008/06/how_to_build_a_lucid_drea.html?CMP=OTC-0D6B48984890</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-21T17:10:35Z</dc:date>
+<dc:subject>diy hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sfu.ca/~achanne/projects/bookbinding/">
+<title>Bookbinding: How to Make a Hardcover Book</title>
+<link>http://www.sfu.ca/~achanne/projects/bookbinding/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-21T17:10:25Z</dc:date>
+<dc:subject>DIY book craft paper project tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/craft" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.withouthotair.com/">
+<title>Sustainable Energy - Without the Hot Air (withouthotair.com)</title>
+<link>http://www.withouthotair.com/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-21T12:51:33Z</dc:date>
+<dc:subject>energy environment facts science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/facts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tumbleweedhouses.com/houses/enesti/">
+<title>Enesti | Tumbleweed Tiny House Company</title>
+<link>http://www.tumbleweedhouses.com/houses/enesti/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-21T12:50:56Z</dc:date>
+<dc:subject>architecture house small</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/small" />
+    <rdf:li resource="http://del.icio.us/tag/house" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://37signals.com/papers/introtopatterns/">
+<title>37signals: An Introduction to Using Patterns in Web Design</title>
+<link>http://37signals.com/papers/introtopatterns/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-06-19T13:35:06Z</dc:date>
+<dc:subject>design webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://schillmania.com/projects/soundmanager2/">
+<title>SoundManager 2: Javascript Sound for the Web</title>
+<link>http://schillmania.com/projects/soundmanager2/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-27T18:09:15Z</dc:date>
+<dc:subject>code cool javascript web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/apis/ajaxlibs/">
+<title>AJAX Libraries API - Google Code</title>
+<link>http://code.google.com/apis/ajaxlibs/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-27T18:07:43Z</dc:date>
+<dc:subject>AJAX api code design google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chromaticsites.com/web-design-blog/2008-05-26/the-official-successful-website-checklist-challenge/">
+<title>The Official &#x201C;Successful Website Checklist Challenge&#x201D; | Web Site Design Blog</title>
+<link>http://www.chromaticsites.com/web-design-blog/2008-05-26/the-official-successful-website-checklist-challenge/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-27T18:05:39Z</dc:date>
+<dc:subject>business inspiration webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nettuts.com/javascript-ajax/how-to-load-in-and-animate-content-with-jquery/">
+<title>How to Load In and Animate Content with jQuery _NETTUTS</title>
+<link>http://nettuts.com/javascript-ajax/how-to-load-in-and-animate-content-with-jquery/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-25T23:03:12Z</dc:date>
+<dc:subject>AJAX cool design javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iconlook.com/">
+<title>ICONlook.com - the icon search.</title>
+<link>http://www.iconlook.com/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-23T11:23:23Z</dc:date>
+<dc:subject>graphics icons images inspiration search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.thejit.org/javascript-information-visualization-toolkit-jit/">
+<title>JavaScript Information Visualization Toolkit (JIT) at noumena</title>
+<link>http://blog.thejit.org/javascript-information-visualization-toolkit-jit/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-23T11:10:24Z</dc:date>
+<dc:subject>code cool javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/text-effects-tutorials/create-a-spectacular-grass-text-effect-in-photoshop/">
+<title>Create a Spectacular Grass Text Effect in Photoshop - PSDTUTS</title>
+<link>http://psdtuts.com/text-effects-tutorials/create-a-spectacular-grass-text-effect-in-photoshop/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-22T16:14:53Z</dc:date>
+<dc:subject>design inspiration photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html">
+<title>35 (New) WordPress Plugins for an Effective Blogging Experience</title>
+<link>http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-19T15:26:55Z</dc:date>
+<dc:subject>blog blogging plugin plugins resources tools wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pearsonified.com/2008/05/how-to-use-wordpress-functions.php">
+<title>How You Can Use WordPress Functions to Run a Smarter Blog &#x2014; Pearsonified</title>
+<link>http://www.pearsonified.com/2008/05/how-to-use-wordpress-functions.php</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-16T11:40:34Z</dc:date>
+<dc:subject>code wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.leigeber.com/2008/05/ajax-image-gallery-slideshow/">
+<title>3kb Ajax Image Gallery and Slideshow</title>
+<link>http://www.leigeber.com/2008/05/ajax-image-gallery-slideshow/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-16T11:40:17Z</dc:date>
+<dc:subject>AJAX design gallery images javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/30-exceptional-ajaxjavascript-techniques-recently-created.html">
+<title>Exceptional Ajax/javascript Techniques (Recently Created)</title>
+<link>http://www.noupe.com/css/30-exceptional-ajaxjavascript-techniques-recently-created.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-12T19:45:29Z</dc:date>
+<dc:subject>AJAX code design javascript webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jankoatwarpspeed.com/post/2008/04/30/make-fancy-buttons-using-css-sliding-doors-technique.aspx">
+<title>Make fancy buttons using CSS sliding doors technique</title>
+<link>http://www.jankoatwarpspeed.com/post/2008/04/30/make-fancy-buttons-using-css-sliding-doors-technique.aspx</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-12T18:02:27Z</dc:date>
+<dc:subject>css design webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designspongeonline.com/2008/05/welcome-julia-and-how-to-make-a-repeat-pattern.html">
+<title>Design*Sponge &#xBB; Blog Archive &#xBB; welcome julia and how to make a repeat pattern</title>
+<link>http://www.designspongeonline.com/2008/05/welcome-julia-and-how-to-make-a-repeat-pattern.html</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-12T18:01:53Z</dc:date>
+<dc:subject>craft design drawing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/craft" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/best-social-media-advice-from-this-site/">
+<title>Best Social Media Advice From This Site | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/best-social-media-advice-from-this-site/</link>
+<description></description>
+<dc:creator>JasonPrini</dc:creator>
+<dc:date>2008-05-12T14:31:50Z</dc:date>
+<dc:subject>blogging marketing social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tiojoca">
+<title>del.icio.us/tiojoca</title>
+<link>http://del.icio.us/tiojoca</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ted.nu/" />
+  <rdf:li rdf:resource="http://www.thefilter.com/" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://audiotuts.com/" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.machinecollective.org/" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://worryaboutyou.com/" />
+  <rdf:li rdf:resource="http://imslp.org/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://www.cinemadoporto.com/" />
+  <rdf:li rdf:resource="http://www.lalalalalalalalalalalalalalalalalala.com/" />
+  <rdf:li rdf:resource="http://wiki.mozilla.org/FUEL" />
+  <rdf:li rdf:resource="https://www.dexrex.com/" />
+  <rdf:li rdf:resource="http://merendeiro.no.sapo.pt/" />
+  <rdf:li rdf:resource="http://www.techcult.com/high-tech-pranks/" />
+  <rdf:li rdf:resource="http://groups.csail.mit.edu/uid/chickenfoot/index.php" />
+  <rdf:li rdf:resource="http://www.youserials.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying" />
+  <rdf:li rdf:resource="http://www.swellguys.co.za/" />
+  <rdf:li rdf:resource="http://www.torrelay.com/" />
+  <rdf:li rdf:resource="http://www.cs.unc.edu/Research/assist/developer.shtml" />
+  <rdf:li rdf:resource="http://pywinauto.openqa.org/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=806699" />
+  <rdf:li rdf:resource="http://btdig.com/" />
+  <rdf:li rdf:resource="http://psychologytoday.com/articles/pto-20070622-000002.xml" />
+  <rdf:li rdf:resource="http://www.9bis.net/kitty/?page=Welcome&#x26;zone=en" />
+  <rdf:li rdf:resource="http://restofthemovie.com/" />
+  <rdf:li rdf:resource="http://www.theweathernetwork.com/statistics/index" />
+  <rdf:li rdf:resource="http://www.weatherbase.com/" />
+  <rdf:li rdf:resource="http://www.worldclimate.com/" />
+  <rdf:li rdf:resource="http://audiobaba.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ted.nu/">
+<title>ted: torrent episode downloader</title>
+<link>http://www.ted.nu/</link>
+<description>application for finding tv episodes</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-06T10:28:11Z</dc:date>
+<dc:subject>apple database free java linux opensource p2p software torrent tv video windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thefilter.com/">
+<title>The Filter</title>
+<link>http://www.thefilter.com/</link>
+<description>online music player/streaming with recommendations (also for videos and movies)</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-06T10:09:10Z</dc:date>
+<dc:subject>cinema database entertainment free ipod music video web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/cinema" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description>tricks and hacks to recover your password</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-06T09:58:19Z</dc:date>
+<dc:subject>network privacy shell tech util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://audiotuts.com/">
+<title>Music, Sound &#x26; Audio Tutorials - AUDIOTUTS</title>
+<link>http://audiotuts.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-04T10:12:56Z</dc:date>
+<dc:subject>blog music reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-03T14:38:27Z</dc:date>
+<dc:subject>free life music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.machinecollective.org/">
+<title>MACHINECOLLECTIVE.ORG</title>
+<link>http://www.machinecollective.org/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-03T14:20:10Z</dc:date>
+<dc:subject>hardware midi music opensource tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/midi" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description>free and opensource tool for making diagrams and gui prototyping based on firefox</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-03T09:48:18Z</dc:date>
+<dc:subject>design firefox free graphics opensource software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://worryaboutyou.com/">
+<title>Worry About You - M&#xFA;sica para todos</title>
+<link>http://worryaboutyou.com/</link>
+<description>online music search/streaming</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-02T14:55:32Z</dc:date>
+<dc:subject>database free music pt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/pt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imslp.org/wiki/Main_Page">
+<title>Main Page - IMSLP</title>
+<link>http://imslp.org/wiki/Main_Page</link>
+<description>international music score library project</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-01T14:55:56Z</dc:date>
+<dc:subject>database free music piano sheet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/piano" />
+    <rdf:li resource="http://del.icio.us/tag/sheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cinemadoporto.com/">
+<title>http://www.cinemadoporto.com/</title>
+<link>http://www.cinemadoporto.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-01T10:57:01Z</dc:date>
+<dc:subject>cinema entertainment prize</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prize" />
+    <rdf:li resource="http://del.icio.us/tag/cinema" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lalalalalalalalalalalalalalalalalala.com/">
+<title>lalalalalalalalalalalalalalalalalala</title>
+<link>http://www.lalalalalalalalalalalalalalalalalala.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-07-01T10:34:21Z</dc:date>
+<dc:subject>dance humour music video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.mozilla.org/FUEL">
+<title>FUEL - MozillaWiki</title>
+<link>http://wiki.mozilla.org/FUEL</link>
+<description>javascript extension library for firefox</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-25T10:16:51Z</dc:date>
+<dc:subject>dev firefox free opensource tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.dexrex.com/">
+<title>Dexrex - Home</title>
+<link>https://www.dexrex.com/</link>
+<description>save im history from several sources online</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-24T16:58:50Z</dc:date>
+<dc:subject>free im mobile msn software tech util windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/msn" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://merendeiro.no.sapo.pt/">
+<title>Merendeiro do Solar - 234 384 255</title>
+<link>http://merendeiro.no.sapo.pt/</link>
+<description>hugo's parents restaurant</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-19T10:33:21Z</dc:date>
+<dc:subject>aveiro food friend local pt social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/local" />
+    <rdf:li resource="http://del.icio.us/tag/aveiro" />
+    <rdf:li resource="http://del.icio.us/tag/pt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcult.com/high-tech-pranks/">
+<title>The 25 Best High-Tech Pranks</title>
+<link>http://www.techcult.com/high-tech-pranks/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-18T18:31:18Z</dc:date>
+<dc:subject>blog humour tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://groups.csail.mit.edu/uid/chickenfoot/index.php">
+<title>Chickenfoot</title>
+<link>http://groups.csail.mit.edu/uid/chickenfoot/index.php</link>
+<description>greasemonkey-like extension for firefox with some extra functionalities</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-18T14:36:07Z</dc:date>
+<dc:subject>dev firefox network software tech util web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youserials.com/">
+<title>YouSerials.com - The KEY to Serial Numbers!</title>
+<link>http://www.youserials.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-17T13:34:48Z</dc:date>
+<dc:subject>database p2p software tech util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying">
+<title>Windows Vista: How to Make Windows Vista Less Annoying</title>
+<link>http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-17T13:04:28Z</dc:date>
+<dc:subject>shell tech util windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.swellguys.co.za/">
+<title>Home&#xA0;&#x2026;&#xA0;A South African surfing related website&#xA0;by&#xA0;The Swell Guys</title>
+<link>http://www.swellguys.co.za/</link>
+<description>seems it's no longer updated but has some nice tips and info</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-16T14:17:20Z</dc:date>
+<dc:subject>blog reference surf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/surf" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.torrelay.com/">
+<title>Torrent Relay - Download torrents online (web client)</title>
+<link>http://www.torrelay.com/</link>
+<description>download torrents with browser</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-16T13:41:33Z</dc:date>
+<dc:subject>p2p proxy torrent web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.unc.edu/Research/assist/developer.shtml">
+<title>Developer resources: Assistive Technology : UNC-CS</title>
+<link>http://www.cs.unc.edu/Research/assist/developer.shtml</link>
+<description>several python libraries/modules including windows api/shell/hooks and audio/midi libraries</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-16T13:36:01Z</dc:date>
+<dc:subject>dev midi music python shell tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/midi" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pywinauto.openqa.org/">
+<title>pyWinAuto</title>
+<link>http://pywinauto.openqa.org/</link>
+<description>python library for ms windows gui automation</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-16T13:33:41Z</dc:date>
+<dc:subject>dev opensource python shell tech windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=806699">
+<title>HowTo: Easiest way to share files &#x26; printers with Windows - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=806699</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-16T09:32:47Z</dc:date>
+<dc:subject>linux network opensource shell tech util windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://btdig.com/">
+<title>btdig.com &#x2022; Torrent search engine</title>
+<link>http://btdig.com/</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-15T21:38:58Z</dc:date>
+<dc:subject>ajax database music p2p torrent video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/torrent" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psychologytoday.com/articles/pto-20070622-000002.xml">
+<title>Psychology Today: Ten Politically Incorrect Truths About Human Nature</title>
+<link>http://psychologytoday.com/articles/pto-20070622-000002.xml</link>
+<description></description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-14T12:12:55Z</dc:date>
+<dc:subject>health life social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.9bis.net/kitty/?page=Welcome&#x26;zone=en">
+<title>KiTTY - Welcome</title>
+<link>http://www.9bis.net/kitty/?page=Welcome&#x26;zone=en</link>
+<description>improved putty fork with portability and other nice features</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-13T15:02:15Z</dc:date>
+<dc:subject>linux network shell software tech util windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://restofthemovie.com/">
+<title>restofthemovie.com</title>
+<link>http://restofthemovie.com/</link>
+<description>watch movies online</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-13T10:49:26Z</dc:date>
+<dc:subject>database entertainment free p2p tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theweathernetwork.com/statistics/index">
+<title>The Weather Network - Statistics - Weather Statistics</title>
+<link>http://www.theweathernetwork.com/statistics/index</link>
+<description>world climate/weather statistics</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-13T09:49:29Z</dc:date>
+<dc:subject>database life travel util weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.weatherbase.com/">
+<title>Weatherbase</title>
+<link>http://www.weatherbase.com/</link>
+<description>world climate/weather statistics</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-13T09:38:11Z</dc:date>
+<dc:subject>database life travel util weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.worldclimate.com/">
+<title>World Climate: Weather rainfall and temperature data</title>
+<link>http://www.worldclimate.com/</link>
+<description>world weather and climate statistics</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-13T09:31:40Z</dc:date>
+<dc:subject>database life travel util weather</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/weather" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://audiobaba.com/">
+<title>Audiobaba Music Search</title>
+<link>http://audiobaba.com/</link>
+<description>online/streaming music search/player</description>
+<dc:creator>tiojoca</dc:creator>
+<dc:date>2008-06-11T13:51:01Z</dc:date>
+<dc:subject>database free music web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/greg_ske">
+<title>del.icio.us/greg_ske</title>
+<link>http://del.icio.us/greg_ske</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://openproj.org/" />
+  <rdf:li rdf:resource="http://www.afaprojects.com/resources.asp" />
+  <rdf:li rdf:resource="http://www.comp.glam.ac.uk/pages/staff/dwfarthi/projman.htm" />
+  <rdf:li rdf:resource="http://pm411.org/" />
+  <rdf:li rdf:resource="http://www.ruleworks.co.uk/prince2/index.htm" />
+  <rdf:li rdf:resource="http://www.projectinabox.org.uk/community.asp" />
+  <rdf:li rdf:resource="http://www.pugnl.nl/" />
+  <rdf:li rdf:resource="http://www.projectinabox.org.uk/default.asp" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.nintendowiifanboy.com/" />
+  <rdf:li rdf:resource="http://www.linux-tutorial.info/index.php" />
+  <rdf:li rdf:resource="http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=UkTQwP2gFxU&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.gnome-look.org/index.php?xsortmode=high&#x26;page=0&#x26;xcontentmode=100" />
+  <rdf:li rdf:resource="http://tuxenclave.wordpress.com/2007/11/23/ubuntu-customization-guide-v2/" />
+  <rdf:li rdf:resource="http://linuxowns.wordpress.com/2008/06/16/guide-to-customizing-ubuntus-look-and-feel/" />
+  <rdf:li rdf:resource="http://www.totlol.com/index.php" />
+  <rdf:li rdf:resource="http://people.mozilla.com/~beltzner/overview-of-firefox3.swf" />
+  <rdf:li rdf:resource="http://www.jxplorer.org/" />
+  <rdf:li rdf:resource="http://mylinuxexploits.blogspot.com/2008/01/gnome-do-launchy-for-linux.html" />
+  <rdf:li rdf:resource="http://www.slashfood.com/" />
+  <rdf:li rdf:resource="http://www.freewarezoom.com/" />
+  <rdf:li rdf:resource="http://bookmarks.insuggest.com/" />
+  <rdf:li rdf:resource="http://www.alignability.com/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/28/dining/28flavor.html?_r=1&#x26;no_interstitial&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://tobu.lightbird.net/" />
+  <rdf:li rdf:resource="http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:59:34Z</dc:date>
+<dc:subject>freeware xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://openproj.org/">
+<title>Home | Projity Open Source and Hosted Project Management Software</title>
+<link>http://openproj.org/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:55:56Z</dc:date>
+<dc:subject>freeware projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.afaprojects.com/resources.asp">
+<title>AFA - Free PRINCE2 Resources &#x26; Downloads</title>
+<link>http://www.afaprojects.com/resources.asp</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:55:02Z</dc:date>
+<dc:subject>prince2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prince2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.glam.ac.uk/pages/staff/dwfarthi/projman.htm">
+<title>Software Project Management</title>
+<link>http://www.comp.glam.ac.uk/pages/staff/dwfarthi/projman.htm</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:53:03Z</dc:date>
+<dc:subject>projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pm411.org/">
+<title>The pm411.org Project Management Podcast</title>
+<link>http://pm411.org/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:51:48Z</dc:date>
+<dc:subject>podcast projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ruleworks.co.uk/prince2/index.htm">
+<title>The PRINCE2 Guide - FAQ, A-Z Knowledge base, 1000+ Exam Questions</title>
+<link>http://www.ruleworks.co.uk/prince2/index.htm</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:48:18Z</dc:date>
+<dc:subject>prince2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prince2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.projectinabox.org.uk/community.asp">
+<title>Free PRINCE2 Software from PROJECT in a Box</title>
+<link>http://www.projectinabox.org.uk/community.asp</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:47:29Z</dc:date>
+<dc:subject>freeware prince2 tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prince2" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pugnl.nl/">
+<title>prince user group Nederland (pug nl)</title>
+<link>http://www.pugnl.nl/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:46:05Z</dc:date>
+<dc:subject>prince2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prince2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.projectinabox.org.uk/default.asp">
+<title>PRINCE2 software from PROJECT in a box</title>
+<link>http://www.projectinabox.org.uk/default.asp</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-06T11:43:21Z</dc:date>
+<dc:subject>prince2 tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prince2" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-05T15:25:33Z</dc:date>
+<dc:subject>howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-05T15:24:07Z</dc:date>
+<dc:subject>2read blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2read" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-07-05T15:21:33Z</dc:date>
+<dc:subject>lifehacks list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-23T21:17:29Z</dc:date>
+<dc:subject>computer education free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nintendowiifanboy.com/">
+<title>Nintendo Wii Fanboy</title>
+<link>http://www.nintendowiifanboy.com/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-21T21:40:35Z</dc:date>
+<dc:subject>blog wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux-tutorial.info/index.php">
+<title>Linux Knowledge Base and Tutorial</title>
+<link>http://www.linux-tutorial.info/index.php</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-21T21:40:35Z</dc:date>
+<dc:subject>linux tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/">
+<title>10 Tips for After You Install or Upgrade Ubuntu | Tombuntu</title>
+<link>http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-21T09:38:48Z</dc:date>
+<dc:subject>customization ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=UkTQwP2gFxU&#x26;feature=related">
+<title>YouTube - Dance Off with the Star Wars Stars 2008</title>
+<link>http://youtube.com/watch?v=UkTQwP2gFxU&#x26;feature=related</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T22:03:48Z</dc:date>
+<dc:subject>fun video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gnome-look.org/index.php?xsortmode=high&#x26;page=0&#x26;xcontentmode=100">
+<title>Eyecandy for your GNOME-Desktop - GNOME-Look.org</title>
+<link>http://www.gnome-look.org/index.php?xsortmode=high&#x26;page=0&#x26;xcontentmode=100</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T21:52:02Z</dc:date>
+<dc:subject>customization ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tuxenclave.wordpress.com/2007/11/23/ubuntu-customization-guide-v2/">
+<title>Ubuntu Customization Guide v2 &#xAB; Tux Enclave.</title>
+<link>http://tuxenclave.wordpress.com/2007/11/23/ubuntu-customization-guide-v2/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T21:51:29Z</dc:date>
+<dc:subject>Ubuntu customization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxowns.wordpress.com/2008/06/16/guide-to-customizing-ubuntus-look-and-feel/">
+<title>Guide to customizing Ubuntu&#x2019;s look and feel &#xAB; Linux Owns</title>
+<link>http://linuxowns.wordpress.com/2008/06/16/guide-to-customizing-ubuntus-look-and-feel/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T21:49:29Z</dc:date>
+<dc:subject>customization ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.totlol.com/index.php">
+<title>Totlol - Video for Toddlers, Infants, Preschoolers and Parents</title>
+<link>http://www.totlol.com/index.php</link>
+<description>Pour Louis et Alexandre</description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T21:02:42Z</dc:date>
+<dc:subject>funny video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.mozilla.com/~beltzner/overview-of-firefox3.swf">
+<title>overview-of-firefox3.swf (application/x-shockwave-flash Object)</title>
+<link>http://people.mozilla.com/~beltzner/overview-of-firefox3.swf</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T21:01:14Z</dc:date>
+<dc:subject>firefox tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jxplorer.org/">
+<title>JXplorer - an open source ldap browser</title>
+<link>http://www.jxplorer.org/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-19T08:16:57Z</dc:date>
+<dc:subject>ldap tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ldap" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mylinuxexploits.blogspot.com/2008/01/gnome-do-launchy-for-linux.html">
+<title>My Linux Exploits: Gnome Do - Launchy for Linux!!!</title>
+<link>http://mylinuxexploits.blogspot.com/2008/01/gnome-do-launchy-for-linux.html</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-15T10:22:43Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slashfood.com/">
+<title>Slashfood</title>
+<link>http://www.slashfood.com/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-15T10:22:17Z</dc:date>
+<dc:subject>Recipes blog cooking food</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/Recipes" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freewarezoom.com/">
+<title>Freeware Download List</title>
+<link>http://www.freewarezoom.com/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-15T10:02:14Z</dc:date>
+<dc:subject>blog freeware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bookmarks.insuggest.com/">
+<title>Bookmark suggestions from inSuggest</title>
+<link>http://bookmarks.insuggest.com/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-09T20:54:42Z</dc:date>
+<dc:subject>del.icio.us</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alignability.com/">
+<title>Alignability&#xAE; Process Model</title>
+<link>http://www.alignability.com/</link>
+<description>Simplified model that goes into detail</description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-06-05T16:32:58Z</dc:date>
+<dc:subject>ITIL</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ITIL" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/28/dining/28flavor.html?_r=1&#x26;no_interstitial&#x26;oref=slogin">
+<title>The Miracle Fruit, a Tease for the Taste Buds - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/05/28/dining/28flavor.html?_r=1&#x26;no_interstitial&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-05-29T20:31:41Z</dc:date>
+<dc:subject>food</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tobu.lightbird.net/">
+<title>Tobu Tutorial</title>
+<link>http://tobu.lightbird.net/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-05-10T09:04:51Z</dc:date>
+<dc:subject>freeware infomania productivity software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/infomania" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/">
+<title>Inter-Sections &#xBB; Blog Archive &#xBB; 13 Tips for creating a successful new online product</title>
+<link>http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/</link>
+<description></description>
+<dc:creator>greg_ske</dc:creator>
+<dc:date>2008-05-08T20:54:20Z</dc:date>
+<dc:subject>blog development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

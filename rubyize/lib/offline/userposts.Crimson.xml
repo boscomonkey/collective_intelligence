@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/crimson">
+<title>del.icio.us/crimson</title>
+<link>http://del.icio.us/crimson</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_Django" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://ebayinkblog.com/" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://worryaboutyou.com/" />
+  <rdf:li rdf:resource="http://www.glennsguides.com/2007/07/classic-video-games-on-xp-under-killing.html" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/" />
+  <rdf:li rdf:resource="http://wordpress.org/extend/plugins/enhanced-recent-posts/" />
+  <rdf:li rdf:resource="http://wordpress.org/extend/plugins/download-monitor/" />
+  <rdf:li rdf:resource="http://www.noupe.com/tools/handy-designers-tools-on-the-fly.html" />
+  <rdf:li rdf:resource="http://twitturly.com/" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/five-tools-i-use-for-listening/" />
+  <rdf:li rdf:resource="http://www.cookoo.co.il/" />
+  <rdf:li rdf:resource="http://torrelay.com/fresh/web.pl" />
+  <rdf:li rdf:resource="http://yoast.com/articles/wordpress-seo/" />
+  <rdf:li rdf:resource="http://www.leigeber.com/2008/06/javascript-tooltip/" />
+  <rdf:li rdf:resource="http://www.picapp.com/PUBLICSITE/BetaHomepage5.aspx" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/home-decor-for-absolute-geeks" />
+  <rdf:li rdf:resource="http://googleajaxsearchapi.blogspot.com/2008/05/speed-up-access-to-your-favorite.html" />
+  <rdf:li rdf:resource="http://www.wpzoom.com/wordpress-themes-sets/45-free-premium-wordpress-themes-with-magazine-or-grid-layouts/" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/socialhistoryjs/" />
+  <rdf:li rdf:resource="http://www.text2mindmap.com/" />
+  <rdf:li rdf:resource="http://money.cnn.com/2006/02/28/news/companies/pluggedin_fortune/index.htm" />
+  <rdf:li rdf:resource="http://www.inc.com/magazine/20080601/the-customer-is-the-company.html" />
+  <rdf:li rdf:resource="http://wadler.blogspot.com/2007/03/three-ways-to-improve-your-writing.html" />
+  <rdf:li rdf:resource="http://discussionleader.hbsp.com/taylor/2008/05/wy_zappos_pays_new_employees_t.html" />
+  <rdf:li rdf:resource="http://www.israelforum.com/blog_home.php" />
+  <rdf:li rdf:resource="http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html" />
+  <rdf:li rdf:resource="http://www.ideashower.com/our_solutions/comment-to-email-wordpress-plugin/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-07-06T11:16:08Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_Django">
+<title>Get Started With Django - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_Django</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-07-04T17:24:10Z</dc:date>
+<dc:subject>development django programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description>
+&#x5DB;&#x5DC;&#x5D9; &#x5DE;&#x5E2;&#x5D5;&#x5DC;&#x5D4; &#x5DC;&#x5D1;&#x5E0;&#x5D9;&#x5D9;&#x5EA; &#x5DE;&#x5D5;&#x5E7;&#x5D0;&#x5E4;&#x5D9;&#x5DD; &#x5D5;&#x5EA;&#x5D4;&#x5DC;&#x5D9;&#x5DB;&#x5D9;&#x5DD; &#x5E9;&#x5DC; &#x5EA;&#x5D5;&#x5DB;&#x5E0;&#x5D5;&#x5EA; &#x5D5;&#x5D0;&#x5EA;&#x5E8;&#x5D9;&#x5DD;GUI prototyping</description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-07-04T12:28:31Z</dc:date>
+<dc:subject>gui prototyping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ebayinkblog.com/">
+<title>eBay Ink &#xBB; an inside look at the wide world of eBay, Inc.</title>
+<link>http://ebayinkblog.com/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-07-03T10:55:04Z</dc:date>
+<dc:subject>blogs corporate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/corporate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-28T10:06:42Z</dc:date>
+<dc:subject>documentation screencapture software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://worryaboutyou.com/">
+<title>Worry About You - Music for All</title>
+<link>http://worryaboutyou.com/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-26T09:44:18Z</dc:date>
+<dc:subject>audio mp3 music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.glennsguides.com/2007/07/classic-video-games-on-xp-under-killing.html">
+<title>Glenn's Guides: Retro Gaming, Simplified.: Under a Killing Moon PC Game Install Guide: Windows XP (Dosbox Using No CDs) (Updated 1/8/08)</title>
+<link>http://www.glennsguides.com/2007/07/classic-video-games-on-xp-under-killing.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-25T11:17:32Z</dc:date>
+<dc:subject>games uakm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/uakm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/">
+<title>How to Reduce Camera Shake - 6 Techniques</title>
+<link>http://digital-photography-school.com/blog/how-to-avoid-camera-shake/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-23T15:43:00Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.org/extend/plugins/enhanced-recent-posts/">
+<title>WordPress &#x203A; Enhanced Recent Posts &#xAB; WordPress Plugins</title>
+<link>http://wordpress.org/extend/plugins/enhanced-recent-posts/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-21T16:40:02Z</dc:date>
+<dc:subject>plugins recent wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/recent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.org/extend/plugins/download-monitor/">
+<title>WordPress &#x203A; Wordpress Download Monitor &#xAB; WordPress Plugins</title>
+<link>http://wordpress.org/extend/plugins/download-monitor/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-21T16:39:32Z</dc:date>
+<dc:subject>downloads plugins wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/tools/handy-designers-tools-on-the-fly.html">
+<title>Handy Designer&#x2019;s Tools &#x201C;On The Fly&#x201D;</title>
+<link>http://www.noupe.com/tools/handy-designers-tools-on-the-fly.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-19T14:19:24Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitturly.com/">
+<title>Twitturly - Real-time Link Tracking on Twitter</title>
+<link>http://twitturly.com/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-18T17:38:09Z</dc:date>
+<dc:subject>aggregator twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/">
+<title>40+ Most Wanted Wordpress Tricks and Hacks</title>
+<link>http://www.hongkiat.com/blog/40-most-wanted-wordpress-tricks-and-hacks/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-16T19:21:33Z</dc:date>
+<dc:subject>blogging tips wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/five-tools-i-use-for-listening/">
+<title>Five Tools I Use for Listening | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/five-tools-i-use-for-listening/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-16T07:25:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.cookoo.co.il/">
+<title>&#x5E7;&#x5D5;&#x5E7;&#x5D5; &#x5DE;&#x5E9;&#x5D5;&#x5D2;&#x5E2; &#x5E2;&#x5DC; &#x5D1;&#x5D9;&#x5E9;&#x5D5;&#x5DC; - &#x5D7;&#x5D9;&#x5E4;&#x5D5;&#x5E9; &#x5DE;&#x5EA;&#x5DB;&#x5D5;&#x5E0;&#x5D9;&#x5DD;, &#x5D7;&#x5D3;&#x5E9;&#x5D5;&#x5EA; &#x5D0;&#x5D5;&#x5DB;&#x5DC;</title>
+<link>http://www.cookoo.co.il/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-14T18:01:47Z</dc:date>
+<dc:subject>food &#x5D0;&#x5D5;&#x5DB;&#x5DC;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/%D7%90%D7%95%D7%9B%D7%9C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrelay.com/fresh/web.pl">
+<title>online bit torrent client</title>
+<link>http://torrelay.com/fresh/web.pl</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-12T11:39:07Z</dc:date>
+<dc:subject>bittorrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yoast.com/articles/wordpress-seo/">
+<title>WordPress SEO - Yoast - Tweaking Websites</title>
+<link>http://yoast.com/articles/wordpress-seo/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-11T07:29:54Z</dc:date>
+<dc:subject>blogging seo wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.leigeber.com/2008/06/javascript-tooltip/">
+<title>Fading JavaScript Tooltips 2kb - Web Development Blog</title>
+<link>http://www.leigeber.com/2008/06/javascript-tooltip/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-06-05T05:39:20Z</dc:date>
+<dc:subject>javascript tooltips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tooltips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picapp.com/PUBLICSITE/BetaHomepage5.aspx">
+<title>PicApp - the best content for the best publishers</title>
+<link>http://www.picapp.com/PUBLICSITE/BetaHomepage5.aspx</link>
+<description>Free quality stock pictures for use in blogs (+ads)</description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-31T20:24:42Z</dc:date>
+<dc:subject>free images photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/home-decor-for-absolute-geeks">
+<title>Home Decor for Absolute Geeks</title>
+<link>http://www.creativecloseup.com/home-decor-for-absolute-geeks</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-31T18:06:06Z</dc:date>
+<dc:subject>geek</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googleajaxsearchapi.blogspot.com/2008/05/speed-up-access-to-your-favorite.html">
+<title>Google AJAX Search API Blog: Speed up access to your favorite frameworks via the AJAX Libraries API</title>
+<link>http://googleajaxsearchapi.blogspot.com/2008/05/speed-up-access-to-your-favorite.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-29T11:21:57Z</dc:date>
+<dc:subject>javascript library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wpzoom.com/wordpress-themes-sets/45-free-premium-wordpress-themes-with-magazine-or-grid-layouts/">
+<title>WPZOOM &#x203A;&#x203A; 45+ Free Premium WordPress Themes with Magazine or Grid Layouts</title>
+<link>http://www.wpzoom.com/wordpress-themes-sets/45-free-premium-wordpress-themes-with-magazine-or-grid-layouts/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-29T07:21:25Z</dc:date>
+<dc:subject>wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/socialhistoryjs/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; Vote! How to Detect the Social Sites Your Visitors Use</title>
+<link>http://azarask.in/blog/post/socialhistoryjs/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-28T14:46:07Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.text2mindmap.com/">
+<title>Text 2 Mind Map - An online text to mind map converter</title>
+<link>http://www.text2mindmap.com/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-28T14:45:47Z</dc:date>
+<dc:subject>mindmap mindmapping tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/2006/02/28/news/companies/pluggedin_fortune/index.htm">
+<title>Corporate Blogging: Do's and Don'ts - Feb. 28, 2006</title>
+<link>http://money.cnn.com/2006/02/28/news/companies/pluggedin_fortune/index.htm</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-25T07:05:52Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inc.com/magazine/20080601/the-customer-is-the-company.html">
+<title>The Customer is the Company -- Threadless -- User Innovation</title>
+<link>http://www.inc.com/magazine/20080601/the-customer-is-the-company.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-21T09:54:06Z</dc:date>
+<dc:subject>business entrepreneur startup strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wadler.blogspot.com/2007/03/three-ways-to-improve-your-writing.html">
+<title>Wadler's Blog: Three ways to improve your writing</title>
+<link>http://wadler.blogspot.com/2007/03/three-ways-to-improve-your-writing.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-21T07:09:20Z</dc:date>
+<dc:subject>english writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://discussionleader.hbsp.com/taylor/2008/05/wy_zappos_pays_new_employees_t.html">
+<title>Why Zappos Pays New Employees to Quit&#x2014;And You Should Too - Harvard Business Online's Bill Taylor</title>
+<link>http://discussionleader.hbsp.com/taylor/2008/05/wy_zappos_pays_new_employees_t.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-19T21:11:51Z</dc:date>
+<dc:subject>business management zappos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/zappos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.israelforum.com/blog_home.php">
+<title>JBlog Central - The Jewish Blog Network</title>
+<link>http://www.israelforum.com/blog_home.php</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-19T15:01:46Z</dc:date>
+<dc:subject>blogs jewish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/jewish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html">
+<title>35 (New) WordPress Plugins for an Effective Blogging Experience</title>
+<link>http://www.noupe.com/wordpress/35-new-wordpress-plugins-for-an-effective-blogging-experience.html</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-19T10:53:05Z</dc:date>
+<dc:subject>plugins wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideashower.com/our_solutions/comment-to-email-wordpress-plugin/">
+<title>the Idea Shower &#xBB; &#xBB; Comment to Email - Wordpress Plugin</title>
+<link>http://www.ideashower.com/our_solutions/comment-to-email-wordpress-plugin/</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-05-18T13:55:45Z</dc:date>
+<dc:subject>plugins wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

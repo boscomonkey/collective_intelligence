@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93">
+<title>del.icio.us bookmarks for http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#joaomiguel.pereira" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rvcouto" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#olope" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#calvernaz" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#asense" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dconil" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#corriganjc" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#pramodc84" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#danielbargiel" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jorge.ferrer" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mikisan" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#basmachOz" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#Metageist" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dandamian" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mister.3.6" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bacey" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ptrthomas" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kwilliaa" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alon.c" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#stefano.maniero" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alapygin" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#wglass" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mindas69" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#fyun" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bryantsai" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alanacable" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ralvarez" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jchyip" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kan.kangaroo" />
+  <rdf:li rdf:resource="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rgrocha" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#joaomiguel.pereira">
+<title>[from joaomiguel.pereira] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#joaomiguel.pereira</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-06T14:27:11Z</dc:date>
+<dc:subject>architecture development j2ee java performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rvcouto">
+<title>[from rvcouto] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rvcouto</link>
+<description></description>
+<dc:creator>rvcouto</dc:creator>
+<dc:date>2008-07-06T14:09:31Z</dc:date>
+<dc:subject>architecture article concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#olope">
+<title>[from olope] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#olope</link>
+<description></description>
+<dc:creator>olope</dc:creator>
+<dc:date>2008-07-06T13:45:58Z</dc:date>
+<dc:subject>architecture article concurrency design performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#calvernaz">
+<title>[from calvernaz] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#calvernaz</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-07-06T13:39:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#asense">
+<title>[from asense] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#asense</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-07-06T12:53:26Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dconil">
+<title>[from dconil] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dconil</link>
+<description>computer. Such vertical scaling of existing systems also enables them to leverage virtualization technology more effectively, as it provides more resources for the hosted set of operating systems and application modules to share.</description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-07-06T12:27:40Z</dc:date>
+<dc:subject>architecture concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#corriganjc">
+<title>[from corriganjc] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#corriganjc</link>
+<description>,</description>
+<dc:creator>corriganjc</dc:creator>
+<dc:date>2008-07-06T11:37:09Z</dc:date>
+<dc:subject>concurrency j2ee java performance programming scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#pramodc84">
+<title>[from pramodc84] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#pramodc84</link>
+<description></description>
+<dc:creator>pramodc84</dc:creator>
+<dc:date>2008-07-06T11:09:35Z</dc:date>
+<dc:subject>architecture j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#danielbargiel">
+<title>[from danielbargiel] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#danielbargiel</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-07-06T10:55:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jorge.ferrer">
+<title>[from jorge.ferrer] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jorge.ferrer</link>
+<description></description>
+<dc:creator>jorge.ferrer</dc:creator>
+<dc:date>2008-07-06T10:43:39Z</dc:date>
+<dc:subject>article java performance scalability verygood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/verygood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mikisan">
+<title>[from mikisan] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mikisan</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-07-06T10:36:12Z</dc:date>
+<dc:subject>architecture concurrency j2ee scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#basmachOz">
+<title>[from basmachOz] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#basmachOz</link>
+<description></description>
+<dc:creator>basmachOz</dc:creator>
+<dc:date>2008-07-06T10:28:19Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#Metageist">
+<title>[from Metageist] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#Metageist</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-06T09:22:29Z</dc:date>
+<dc:subject>architecture concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dandamian">
+<title>[from dandamian] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#dandamian</link>
+<description></description>
+<dc:creator>dandamian</dc:creator>
+<dc:date>2008-07-06T08:46:45Z</dc:date>
+<dc:subject>performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mister.3.6">
+<title>[from mister.3.6] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mister.3.6</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-07-06T08:42:41Z</dc:date>
+<dc:subject>architecture article j2ee java performance programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bacey">
+<title>[from bacey] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bacey</link>
+<description></description>
+<dc:creator>bacey</dc:creator>
+<dc:date>2008-07-06T07:32:05Z</dc:date>
+<dc:subject>java scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ptrthomas">
+<title>[from ptrthomas] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ptrthomas</link>
+<description></description>
+<dc:creator>ptrthomas</dc:creator>
+<dc:date>2008-07-06T05:53:57Z</dc:date>
+<dc:subject>concurrency performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kwilliaa">
+<title>[from kwilliaa] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kwilliaa</link>
+<description></description>
+<dc:creator>kwilliaa</dc:creator>
+<dc:date>2008-07-06T05:50:29Z</dc:date>
+<dc:subject>architecture blocking concurrency debug design development enterprise horizontalscaling io j2ee nio nonblocking scalability verticalscaling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/verticalscaling" />
+    <rdf:li resource="http://del.icio.us/tag/horizontalscaling" />
+    <rdf:li resource="http://del.icio.us/tag/blocking" />
+    <rdf:li resource="http://del.icio.us/tag/nonblocking" />
+    <rdf:li resource="http://del.icio.us/tag/nio" />
+    <rdf:li resource="http://del.icio.us/tag/io" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alon.c">
+<title>[from alon.c] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alon.c</link>
+<description></description>
+<dc:creator>alon.c</dc:creator>
+<dc:date>2008-07-06T05:38:13Z</dc:date>
+<dc:subject>optimization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#stefano.maniero">
+<title>[from stefano.maniero] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#stefano.maniero</link>
+<description>If an application is useful, then the network of users will grow crazily fast at some point. As more and more mission-critical applications are now running on Java EE, many Java developers are caring about scalability issues.</description>
+<dc:creator>stefano.maniero</dc:creator>
+<dc:date>2008-07-06T05:10:00Z</dc:date>
+<dc:subject>concurrency j2ee java performance scalability vip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/vip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alapygin">
+<title>[from alapygin] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alapygin</link>
+<description>If an application is useful, then the network of users will grow crazily fast at some point. As more and more mission-critical applications are now running on Java EE, many Java developers are caring about scalability issues. However, most of popular Web</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-07-06T04:37:00Z</dc:date>
+<dc:subject>architecture article concurrency design development j2ee java performance scalability toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#wglass">
+<title>[from wglass] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#wglass</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-07-06T03:44:05Z</dc:date>
+<dc:subject>architecture java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mindas69">
+<title>[from mindas69] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#mindas69</link>
+<description>Why Locks kill your scalability.</description>
+<dc:creator>mindas69</dc:creator>
+<dc:date>2008-07-06T02:35:37Z</dc:date>
+<dc:subject>concurrency j2ee java lock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/lock" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#fyun">
+<title>[from fyun] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#fyun</link>
+<description></description>
+<dc:creator>fyun</dc:creator>
+<dc:date>2008-07-06T01:53:29Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bryantsai">
+<title>[from bryantsai] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#bryantsai</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-06T00:47:21Z</dc:date>
+<dc:subject>java performance scalability todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alanacable">
+<title>[from alanacable] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#alanacable</link>
+<description></description>
+<dc:creator>alanacable</dc:creator>
+<dc:date>2008-07-06T00:20:10Z</dc:date>
+<dc:subject>java scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ralvarez">
+<title>[from ralvarez] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#ralvarez</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-05T23:51:07Z</dc:date>
+<dc:subject>documentacion java util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/documentacion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jchyip">
+<title>[from jchyip] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#jchyip</link>
+<description></description>
+<dc:creator>jchyip</dc:creator>
+<dc:date>2008-07-05T23:15:48Z</dc:date>
+<dc:subject>scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kan.kangaroo">
+<title>[from kan.kangaroo] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#kan.kangaroo</link>
+<description></description>
+<dc:creator>kan.kangaroo</dc:creator>
+<dc:date>2008-07-05T22:58:01Z</dc:date>
+<dc:subject>article j2ee java read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rgrocha">
+<title>[from rgrocha] Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://del.icio.us/url/682361a69086aa0ccfad1e5f94e3ab93#rgrocha</link>
+<description></description>
+<dc:creator>rgrocha</dc:creator>
+<dc:date>2008-07-05T22:38:52Z</dc:date>
+<dc:subject>java.perfomance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java.perfomance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

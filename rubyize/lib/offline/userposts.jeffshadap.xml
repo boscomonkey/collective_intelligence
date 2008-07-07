@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jeffshadap">
+<title>del.icio.us/jeffshadap</title>
+<link>http://del.icio.us/jeffshadap</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://code.google.com/p/quipt/" />
+  <rdf:li rdf:resource="http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page" />
+  <rdf:li rdf:resource="http://www.automatedhome.co.uk/Announcements/Top-10-Tech-Podcasts.html" />
+  <rdf:li rdf:resource="http://i-stuff.blogspot.com/2008/06/cool-features-in-firefox-3.html" />
+  <rdf:li rdf:resource="http://www.shlomifish.org/philosophy/computers/software-management/perfect-workplace/perfect-it-workplace.xhtml" />
+  <rdf:li rdf:resource="http://www.10000words.net/2008/06/8-ways-of-visualizing-news.html" />
+  <rdf:li rdf:resource="http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app/" />
+  <rdf:li rdf:resource="http://www.ted.com/talks/top10" />
+  <rdf:li rdf:resource="http://code.google.com/p/google-caja/" />
+  <rdf:li rdf:resource="http://www.philzimmermann.com/EN/letters/index.html" />
+  <rdf:li rdf:resource="http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/" />
+  <rdf:li rdf:resource="http://startupinsights.blogspot.com/2008/06/yagis-yet-another-google-interview.html" />
+  <rdf:li rdf:resource="http://www.todaysengineer.org/" />
+  <rdf:li rdf:resource="http://www.ieeeusa.org/default.asp" />
+  <rdf:li rdf:resource="http://apperceptual.wordpress.com/2008/05/25/the-book-that-changed-my-life/#more-62" />
+  <rdf:li rdf:resource="http://www.verber.com/mark/books/change-deeply.html" />
+  <rdf:li rdf:resource="http://larrywinget.net/blog/?p=14" />
+  <rdf:li rdf:resource="http://www.well.com/~woodman/books/books.html#strunk" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/category/10-books-that-changed-my-life/" />
+  <rdf:li rdf:resource="http://conflate.net/inductio/2008/05/research-changing-books/" />
+  <rdf:li rdf:resource="http://stevenleckart.wordpress.com/books-that-changed-my-life/" />
+  <rdf:li rdf:resource="http://tim.oreilly.com/articles/favebooks_0705.html" />
+  <rdf:li rdf:resource="http://blog.inquirylabs.com/2008/06/15/books-that-changed-my-life/" />
+  <rdf:li rdf:resource="http://southshorens.blogspot.com/2008/06/books-that-changed-my-life.html" />
+  <rdf:li rdf:resource="http://www.ryanholiday.net/archives/entries/ryan_clark_holiday_book_list_1.phtml" />
+  <rdf:li rdf:resource="http://incubator.apache.org/lucene.net/" />
+  <rdf:li rdf:resource="http://codeclimber.blogspot.com/2008/07/revelations-from-rails-source-1.html" />
+  <rdf:li rdf:resource="http://devver.net/blog/2008/06/speed-with-messaging-matters/" />
+  <rdf:li rdf:resource="http://dev.twitter.com/2008/01/announcing-starling.html" />
+  <rdf:li rdf:resource="http://blog.new-bamboo.co.uk/2008/7/4/supersexy-forms-for-merb" />
+  <rdf:li rdf:resource="http://devver.net/blog/2008/06/ruby-messaging-shootout/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://code.google.com/p/quipt/">
+<title>quipt - Google Code</title>
+<link>http://code.google.com/p/quipt/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:20:24Z</dc:date>
+<dc:subject>caching javascript library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page">
+<title>Main Page - Handbook of Collective Intelligence</title>
+<link>http://scripts.mit.edu/~cci/HCI/index.php?title=Main_Page</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:14:42Z</dc:date>
+<dc:subject>collective handbook intelligence</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collective" />
+    <rdf:li resource="http://del.icio.us/tag/intelligence" />
+    <rdf:li resource="http://del.icio.us/tag/handbook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.automatedhome.co.uk/Announcements/Top-10-Tech-Podcasts.html">
+<title>Automated Home - Top 10 Tech Podcasts</title>
+<link>http://www.automatedhome.co.uk/Announcements/Top-10-Tech-Podcasts.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:13:58Z</dc:date>
+<dc:subject>podcasts technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i-stuff.blogspot.com/2008/06/cool-features-in-firefox-3.html">
+<title>i-Stuff... Interesting Stuff that Matters: Cool Features in FireFox 3</title>
+<link>http://i-stuff.blogspot.com/2008/06/cool-features-in-firefox-3.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:11:57Z</dc:date>
+<dc:subject>firefox shortcuts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/shortcuts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shlomifish.org/philosophy/computers/software-management/perfect-workplace/perfect-it-workplace.xhtml">
+<title>The Perfect IT Workplace - Revision 1</title>
+<link>http://www.shlomifish.org/philosophy/computers/software-management/perfect-workplace/perfect-it-workplace.xhtml</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:11:53Z</dc:date>
+<dc:subject>workplace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/workplace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.10000words.net/2008/06/8-ways-of-visualizing-news.html">
+<title>8 Ways of visualizing the news :: 10,000 words :: multimedia, online journalism news and reviews</title>
+<link>http://www.10000words.net/2008/06/8-ways-of-visualizing-news.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:11:51Z</dc:date>
+<dc:subject>news visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app/">
+<title>Make your own IM bot in Ruby, and interface it with your Rails app</title>
+<link>http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:09:40Z</dc:date>
+<dc:subject>im jabber ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/im" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/talks/top10">
+<title>TED | About TED | TEDTalks</title>
+<link>http://www.ted.com/talks/top10</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:09:28Z</dc:date>
+<dc:subject>ted top10</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+    <rdf:li resource="http://del.icio.us/tag/top10" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/google-caja/">
+<title>google-caja - Google Code</title>
+<link>http://code.google.com/p/google-caja/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T13:05:04Z</dc:date>
+<dc:subject>google javascript library security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.philzimmermann.com/EN/letters/index.html">
+<title>Letters from Human Rights Groups</title>
+<link>http://www.philzimmermann.com/EN/letters/index.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:55:49Z</dc:date>
+<dc:subject>human pgp rights</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rights" />
+    <rdf:li resource="http://del.icio.us/tag/human" />
+    <rdf:li resource="http://del.icio.us/tag/pgp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/">
+<title>Svetlin Nakov - Blog &#xBB; Blog Archive &#xBB; Rejected a Program Manager Position at Microsoft Dublin - My Successful Interview at Microsoft</title>
+<link>http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:55:30Z</dc:date>
+<dc:subject>interview microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://startupinsights.blogspot.com/2008/06/yagis-yet-another-google-interview.html">
+<title>Insights from a startup founder: Y.A.G.I.S! Yet another Google Interview story! (With a different twist)</title>
+<link>http://startupinsights.blogspot.com/2008/06/yagis-yet-another-google-interview.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:53:25Z</dc:date>
+<dc:subject>google interview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.todaysengineer.org/">
+<title>07.08 ieee-usa today's engineer online</title>
+<link>http://www.todaysengineer.org/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:48:54Z</dc:date>
+<dc:subject>IEEE</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/IEEE" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ieeeusa.org/default.asp">
+<title>IEEE-USA: Building Careers &#x26; Shaping Public Policy</title>
+<link>http://www.ieeeusa.org/default.asp</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:48:39Z</dc:date>
+<dc:subject>ieee</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ieee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://apperceptual.wordpress.com/2008/05/25/the-book-that-changed-my-life/#more-62">
+<title>The Book That Changed My Life &#xAB; Apperceptual</title>
+<link>http://apperceptual.wordpress.com/2008/05/25/the-book-that-changed-my-life/#more-62</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:43:03Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.verber.com/mark/books/change-deeply.html">
+<title>Books that Really Changed Me</title>
+<link>http://www.verber.com/mark/books/change-deeply.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:59Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://larrywinget.net/blog/?p=14">
+<title>Larry Winget &#x2014; Money - Personal Development - Business | FIVE BOOKS THAT CHANGED MY LIFE</title>
+<link>http://larrywinget.net/blog/?p=14</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:57Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.well.com/~woodman/books/books.html#strunk">
+<title>Books That Changed My Life</title>
+<link>http://www.well.com/~woodman/books/books.html#strunk</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:55Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/category/10-books-that-changed-my-life/">
+<title>The Simple Dollar &#xBB; 10 Books That Changed My Life</title>
+<link>http://www.thesimpledollar.com/category/10-books-that-changed-my-life/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:52Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://conflate.net/inductio/2008/05/research-changing-books/">
+<title>Research-Changing Books &#x3C; Inductio Ex Machina</title>
+<link>http://conflate.net/inductio/2008/05/research-changing-books/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:48Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stevenleckart.wordpress.com/books-that-changed-my-life/">
+<title>Books that changed my life. &#xAB; Steven Leckart</title>
+<link>http://stevenleckart.wordpress.com/books-that-changed-my-life/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:46Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tim.oreilly.com/articles/favebooks_0705.html">
+<title>O'Reilly -- Books That Have Shaped How I Think</title>
+<link>http://tim.oreilly.com/articles/favebooks_0705.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:42Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.inquirylabs.com/2008/06/15/books-that-changed-my-life/">
+<title>Books that Changed My Life</title>
+<link>http://blog.inquirylabs.com/2008/06/15/books-that-changed-my-life/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:37Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://southshorens.blogspot.com/2008/06/books-that-changed-my-life.html">
+<title>All Good!: Books that changed my life</title>
+<link>http://southshorens.blogspot.com/2008/06/books-that-changed-my-life.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:34Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ryanholiday.net/archives/entries/ryan_clark_holiday_book_list_1.phtml">
+<title>RyanHoliday.net:</title>
+<link>http://www.ryanholiday.net/archives/entries/ryan_clark_holiday_book_list_1.phtml</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T12:42:30Z</dc:date>
+<dc:subject>tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://incubator.apache.org/lucene.net/">
+<title>Lucene.Net</title>
+<link>http://incubator.apache.org/lucene.net/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:34:04Z</dc:date>
+<dc:subject>.NET lucene search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.NET" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/lucene" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codeclimber.blogspot.com/2008/07/revelations-from-rails-source-1.html">
+<title>CodeClimber: Revelations from Rails Source 1</title>
+<link>http://codeclimber.blogspot.com/2008/07/revelations-from-rails-source-1.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:15:32Z</dc:date>
+<dc:subject>rails source</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/source" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devver.net/blog/2008/06/speed-with-messaging-matters/">
+<title>The Devver Blog &#xBB; Speed with Messaging Matters</title>
+<link>http://devver.net/blog/2008/06/speed-with-messaging-matters/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:14:53Z</dc:date>
+<dc:subject>messaging ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.twitter.com/2008/01/announcing-starling.html">
+<title>Twitter Technology Blog: Announcing Starling</title>
+<link>http://dev.twitter.com/2008/01/announcing-starling.html</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:14:30Z</dc:date>
+<dc:subject>messaging ruby twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.new-bamboo.co.uk/2008/7/4/supersexy-forms-for-merb">
+<title>Bamboo Blog - Sexy Forms for Merb</title>
+<link>http://blog.new-bamboo.co.uk/2008/7/4/supersexy-forms-for-merb</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:13:46Z</dc:date>
+<dc:subject>forms merb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/merb" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devver.net/blog/2008/06/ruby-messaging-shootout/">
+<title>The Devver Blog &#xBB; Ruby Messaging Shootout</title>
+<link>http://devver.net/blog/2008/06/ruby-messaging-shootout/</link>
+<description></description>
+<dc:creator>jeffshadap</dc:creator>
+<dc:date>2008-07-06T11:11:09Z</dc:date>
+<dc:subject>messaging ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

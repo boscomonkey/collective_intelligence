@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/peters_f">
+<title>del.icio.us/peters_f</title>
+<link>http://del.icio.us/peters_f</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.silpion.de/" />
+  <rdf:li rdf:resource="http://wordle.net/" />
+  <rdf:li rdf:resource="http://www-users.cs.york.ac.uk/~mfn/reduceron2/" />
+  <rdf:li rdf:resource="http://vortrieb.com/" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/938809/Design-of-a-LISPBased-Microprocessor" />
+  <rdf:li rdf:resource="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/" />
+  <rdf:li rdf:resource="http://mikael.jansson.be/hacking/limp" />
+  <rdf:li rdf:resource="http://blog.grayproductions.net/categories/higherorder_ruby" />
+  <rdf:li rdf:resource="http://csunplugged.com/index.php/activities.html" />
+  <rdf:li rdf:resource="http://osxbook.com/book/bonus/chapter10/iremoted/" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml" />
+  <rdf:li rdf:resource="http://www.sparkfun.com/commerce/categories.php" />
+  <rdf:li rdf:resource="http://pdos.csail.mit.edu/scigen/#examples" />
+  <rdf:li rdf:resource="http://evhead.com/2005/11/ten-rules-for-web-startups.asp" />
+  <rdf:li rdf:resource="http://www.geni.com/" />
+  <rdf:li rdf:resource="http://www.pchristensen.com/blog/articles/how-to-learn-lisp/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html" />
+  <rdf:li rdf:resource="http://www.awesomehighlighter.com/" />
+  <rdf:li rdf:resource="http://www.webdesignfromscratch.com/web-2.0-design-style-guide.cfm" />
+  <rdf:li rdf:resource="http://www.oliotalo.fi/products.html" />
+  <rdf:li rdf:resource="http://hedgehog.oliotalo.fi/" />
+  <rdf:li rdf:resource="http://www.campussqueeze.com/post/The-Worst-Shots-Ever-Created.aspx" />
+  <rdf:li rdf:resource="http://gearloose.wikidot.com/" />
+  <rdf:li rdf:resource="http://theseus-programm.de/talente/1" />
+  <rdf:li rdf:resource="http://www.phy.duke.edu/~rgb/Beowulf/c++_interview/c++_interview.html" />
+  <rdf:li rdf:resource="http://gettingreal.37signals.com/" />
+  <rdf:li rdf:resource="http://blog.interlinked.org/tutorials/vim_tutorial.html" />
+  <rdf:li rdf:resource="http://www.acc.umu.se/~emilk/" />
+  <rdf:li rdf:resource="http://creatr.cc/creatr/" />
+  <rdf:li rdf:resource="http://frozenplague.net/2008/01/06/restful-routing-an-overview/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-07-06T09:48:48Z</dc:date>
+<dc:subject>advice career howto mit research science thesis tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.silpion.de/">
+<title>.::Silpion IT-Solutions GmbH::. Home</title>
+<link>http://www.silpion.de/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-07-05T16:05:44Z</dc:date>
+<dc:subject>absolventen consulting firma haw silpion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/silpion" />
+    <rdf:li resource="http://del.icio.us/tag/haw" />
+    <rdf:li resource="http://del.icio.us/tag/firma" />
+    <rdf:li resource="http://del.icio.us/tag/absolventen" />
+    <rdf:li resource="http://del.icio.us/tag/consulting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-06-27T17:26:54Z</dc:date>
+<dc:subject>art cloud design generator tools typography visualization words</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/words" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-users.cs.york.ac.uk/~mfn/reduceron2/">
+<title>The Reduceron</title>
+<link>http://www-users.cs.york.ac.uk/~mfn/reduceron2/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-06-27T09:08:51Z</dc:date>
+<dc:subject>architecture design electronics fpga functional hardware haskell programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/fpga" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vortrieb.com/">
+<title>vortrieb - the expert loves the details - Mountainbike Rennrad Trekking R&#xE4;der</title>
+<link>http://vortrieb.com/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-06-13T11:31:25Z</dc:date>
+<dc:subject>bike custom fahrrad made vortrieb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vortrieb" />
+    <rdf:li resource="http://del.icio.us/tag/bike" />
+    <rdf:li resource="http://del.icio.us/tag/fahrrad" />
+    <rdf:li resource="http://del.icio.us/tag/custom" />
+    <rdf:li resource="http://del.icio.us/tag/made" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/938809/Design-of-a-LISPBased-Microprocessor">
+<title>Design of a LISP-Based Microprocessor</title>
+<link>http://www.scribd.com/doc/938809/Design-of-a-LISPBased-Microprocessor</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-06-06T10:44:52Z</dc:date>
+<dc:subject>computer hardware lisp programming scheme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/">
+<title>100 Must-Read Books: The Essential Man&#x2019;s Library | The Art of Manliness</title>
+<link>http://artofmanliness.com/2008/05/14/100-must-read-books-the-essential-mans-library/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-05-16T08:33:35Z</dc:date>
+<dc:subject>book books culture library list literature reading toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mikael.jansson.be/hacking/limp">
+<title>Limp: When You Need More Than Just a Lisp | Mikael Jansson</title>
+<link>http://mikael.jansson.be/hacking/limp</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-05-10T09:56:24Z</dc:date>
+<dc:subject>Editor development limp lisp programming tools vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/Editor" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/limp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.grayproductions.net/categories/higherorder_ruby">
+<title>Shades of Gray: Articles in Higher-Order Ruby</title>
+<link>http://blog.grayproductions.net/categories/higherorder_ruby</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-04-20T18:12:57Z</dc:date>
+<dc:subject>functional metaprogramming programming ruby tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/metaprogramming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csunplugged.com/index.php/activities.html">
+<title>Computer Science Unplugged - Activities</title>
+<link>http://csunplugged.com/index.php/activities.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-04-20T18:12:23Z</dc:date>
+<dc:subject>computer cs education learning programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osxbook.com/book/bonus/chapter10/iremoted/">
+<title>Apple Infrared Remote Daemon</title>
+<link>http://osxbook.com/book/bonus/chapter10/iremoted/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-04-09T09:19:13Z</dc:date>
+<dc:subject>OSX apple mac macosx programming remote technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/remote" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/OSX" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml">
+<title>110 best books: The perfect library - Telegraph</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/04/06/nosplit/sv_classics06.xml</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-04-07T19:46:03Z</dc:date>
+<dc:subject>book books list literature toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sparkfun.com/commerce/categories.php">
+<title>SparkFun Electronics</title>
+<link>http://www.sparkfun.com/commerce/categories.php</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-30T09:41:39Z</dc:date>
+<dc:subject>diy electronics embedded hacking hacks hardware programming shopping tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdos.csail.mit.edu/scigen/#examples">
+<title>SCIgen - An Automatic CS Paper Generator</title>
+<link>http://pdos.csail.mit.edu/scigen/#examples</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-29T11:23:08Z</dc:date>
+<dc:subject>computer-science fake fun generator humor paper science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/fake" />
+    <rdf:li resource="http://del.icio.us/tag/computer-science" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://evhead.com/2005/11/ten-rules-for-web-startups.asp">
+<title>evhead: Ten Rules for Web Startups</title>
+<link>http://evhead.com/2005/11/ten-rules-for-web-startups.asp</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-26T19:38:02Z</dc:date>
+<dc:subject>advice business career entrepreneur software startup startups tips web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geni.com/">
+<title>Geni - Genealogy - Free Family Tree</title>
+<link>http://www.geni.com/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-25T18:15:07Z</dc:date>
+<dc:subject>family familytree genealogy social tree web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/genealogy" />
+    <rdf:li resource="http://del.icio.us/tag/family" />
+    <rdf:li resource="http://del.icio.us/tag/familytree" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/tree" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pchristensen.com/blog/articles/how-to-learn-lisp/">
+<title>How To Learn Lisp &#xBB; What&#x2019;s In Peter&#x2019;s Head</title>
+<link>http://www.pchristensen.com/blog/articles/how-to-learn-lisp/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-14T17:25:41Z</dc:date>
+<dc:subject>advice functional howto language learning lisp programming scheme tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/scheme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html">
+<title>Stevey's Blog Rants: Get that job at Google</title>
+<link>http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-13T10:50:06Z</dc:date>
+<dc:subject>career google howto interview interviewing jobs programming tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/interviewing" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.awesomehighlighter.com/">
+<title>the Awesome Highlighter - be nice, highlight</title>
+<link>http://www.awesomehighlighter.com/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-12T14:46:57Z</dc:date>
+<dc:subject>highlight highlighter sharing tools useful web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/highlighter" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/highlight" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesignfromscratch.com/web-2.0-design-style-guide.cfm">
+<title>Web 2.0 how-to design style guide</title>
+<link>http://www.webdesignfromscratch.com/web-2.0-design-style-guide.cfm</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-10T16:51:04Z</dc:date>
+<dc:subject>Design computer css howto tips web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oliotalo.fi/products.html">
+<title>Oliotalo</title>
+<link>http://www.oliotalo.fi/products.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-07T19:20:19Z</dc:date>
+<dc:subject>company embedded programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/company" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hedgehog.oliotalo.fi/">
+<title>Hedgehog</title>
+<link>http://hedgehog.oliotalo.fi/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-07T19:09:35Z</dc:date>
+<dc:subject>development embedded language lisp minimal opensource programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/embedded" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/minimal" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.campussqueeze.com/post/The-Worst-Shots-Ever-Created.aspx">
+<title>The Worst Shots Ever Created - 17 Horrible Shots | Campus Squeeze</title>
+<link>http://www.campussqueeze.com/post/The-Worst-Shots-Ever-Created.aspx</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-07T18:41:15Z</dc:date>
+<dc:subject>alcohol drinks funny humor recipes wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/alcohol" />
+    <rdf:li resource="http://del.icio.us/tag/drinks" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gearloose.wikidot.com/">
+<title>Gearloose&#xB4;s: Welcome to Gearloose&#xB4;s!</title>
+<link>http://gearloose.wikidot.com/</link>
+<description>My Wiki</description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-03T21:15:40Z</dc:date>
+<dc:subject>wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theseus-programm.de/talente/1">
+<title>THESEUS TALENTE 2008 | Das Theseus Programm</title>
+<link>http://theseus-programm.de/talente/1</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-01T18:52:23Z</dc:date>
+<dc:subject>2008 internet theseus wettbewerb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wettbewerb" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/theseus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phy.duke.edu/~rgb/Beowulf/c++_interview/c++_interview.html">
+<title>Interview with Bjarne Stroustrup</title>
+<link>http://www.phy.duke.edu/~rgb/Beowulf/c++_interview/c++_interview.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-03-01T09:40:34Z</dc:date>
+<dc:subject>Humor c++ programming stroustrup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/Humor" />
+    <rdf:li resource="http://del.icio.us/tag/stroustrup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gettingreal.37signals.com/">
+<title>Getting Real: The Book by 37signals</title>
+<link>http://gettingreal.37signals.com/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-02-29T14:18:13Z</dc:date>
+<dc:subject>37signals book design programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/37signals" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.interlinked.org/tutorials/vim_tutorial.html">
+<title>Vim Introduction and Tutorial - IMHO</title>
+<link>http://blog.interlinked.org/tutorials/vim_tutorial.html</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-02-28T15:28:43Z</dc:date>
+<dc:subject>Editor Tutorial computer geek howto programming unix vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/Editor" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acc.umu.se/~emilk/">
+<title>Phun - 2D physics sandbox</title>
+<link>http://www.acc.umu.se/~emilk/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-02-20T22:03:50Z</dc:date>
+<dc:subject>computer fun physics simulation software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creatr.cc/creatr/">
+<title>Web2.0 - Logo Creatr</title>
+<link>http://creatr.cc/creatr/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-02-19T15:15:00Z</dc:date>
+<dc:subject>WebDesign color design generator logo web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/logo" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/WebDesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://frozenplague.net/2008/01/06/restful-routing-an-overview/">
+<title>The Life Of A Radar  &#xBB; Blog Archive   &#xBB; Restful Routing: An Overview</title>
+<link>http://frozenplague.net/2008/01/06/restful-routing-an-overview/</link>
+<description></description>
+<dc:creator>peters_f</dc:creator>
+<dc:date>2008-02-18T19:14:05Z</dc:date>
+<dc:subject>path rails restful routing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/routing" />
+    <rdf:li resource="http://del.icio.us/tag/path" />
+    <rdf:li resource="http://del.icio.us/tag/restful" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

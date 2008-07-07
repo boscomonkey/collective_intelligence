@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dannynic">
+<title>del.icio.us/dannynic</title>
+<link>http://del.icio.us/dannynic</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://movies.atomiclearning.com/k12/activstudio3" />
+  <rdf:li rdf:resource="http://www.iste.org/" />
+  <rdf:li rdf:resource="http://comiqs.com/" />
+  <rdf:li rdf:resource="http://www.ispringsolutions.com/products/ispring_free.html" />
+  <rdf:li rdf:resource="http://www.lulu.com/uk" />
+  <rdf:li rdf:resource="http://ninehub.com/" />
+  <rdf:li rdf:resource="http://www.mindomo.com/" />
+  <rdf:li rdf:resource="http://www.coveritlive.com/index.php" />
+  <rdf:li rdf:resource="http://www.thenag.net/" />
+  <rdf:li rdf:resource="http://down2earth.eu/impact_calculator" />
+  <rdf:li rdf:resource="http://drhorrible.com/" />
+  <rdf:li rdf:resource="http://forvo.com/" />
+  <rdf:li rdf:resource="http://www.twibble.de/" />
+  <rdf:li rdf:resource="http://www.polleverywhere.com/" />
+  <rdf:li rdf:resource="http://primary.naace.co.uk/activities/BigBookMaker" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/25/the-ultimate-guide-to-special-needs-teaching-100-resources-and-links/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net" />
+  <rdf:li rdf:resource="http://www.toodledo.com/" />
+  <rdf:li rdf:resource="http://www.gcast.com/?nr=1" />
+  <rdf:li rdf:resource="http://seesmic.com/" />
+  <rdf:li rdf:resource="http://www.ncict-delivered.org/ncit_demo/index.html" />
+  <rdf:li rdf:resource="http://www.zoo-m.com/flickr-storm" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites" />
+  <rdf:li rdf:resource="https://freshbrain.org/explore" />
+  <rdf:li rdf:resource="http://summize.com/" />
+  <rdf:li rdf:resource="http://www.dropsend.com/" />
+  <rdf:li rdf:resource="http://education.smarttech.com/ste/en-US/Ed%20Resource/Lesson%20activities/Senteo" />
+  <rdf:li rdf:resource="http://soungle.com/" />
+  <rdf:li rdf:resource="http://www.quikmaps.com/" />
+  <rdf:li rdf:resource="http://www.dipity.com/mashups/timetube" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description>flickr for educators</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-06T09:05:56Z</dc:date>
+<dc:subject>education educationalsoftware flickr ict images iwb photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/educationalsoftware" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://movies.atomiclearning.com/k12/activstudio3">
+<title>activstudio3 tutorials</title>
+<link>http://movies.atomiclearning.com/k12/activstudio3</link>
+<description>free tutorials for AS3</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-05T16:01:25Z</dc:date>
+<dc:subject>activboard active activstudio activstudio3 as3 education ict ideas interactive interactive_whiteboards iwb links movies promethean resources tools training tutorials whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/promethean" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/activstudio" />
+    <rdf:li resource="http://del.icio.us/tag/activstudio3" />
+    <rdf:li resource="http://del.icio.us/tag/active" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/interactive_whiteboards" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+    <rdf:li resource="http://del.icio.us/tag/activboard" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iste.org/">
+<title>ISTE</title>
+<link>http://www.iste.org/</link>
+<description>International Society for Technology in Education</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-05T08:48:51Z</dc:date>
+<dc:subject>edtech education iste organization professional research standards technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/edtech" />
+    <rdf:li resource="http://del.icio.us/tag/iste" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/professional" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://comiqs.com/">
+<title>Comiqs | Create</title>
+<link>http://comiqs.com/</link>
+<description>a free online comic maker</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-04T10:53:48Z</dc:date>
+<dc:subject>cartoon comic comics digitalstorytelling education generator ict iwb literacy photos tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cartoon" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ispringsolutions.com/products/ispring_free.html">
+<title>iSpring Free - free PowerPoint to Flash converter!</title>
+<link>http://www.ispringsolutions.com/products/ispring_free.html</link>
+<description>Free PowerPoint to Flash converter creates web friendly Flash movies from your PowerPoint content keeping its visual parameters and animation effects. Generated Flash presentation will look as if it has always been a Flash movie.</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-04T07:52:12Z</dc:date>
+<dc:subject>Ppt Web2.0 converter flash ispring iwb powerpoint presentation software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/ispring" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Ppt" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lulu.com/uk">
+<title>Lulu.com - Self Publishing</title>
+<link>http://www.lulu.com/uk</link>
+<description>Free Self Publishing</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-04T07:48:52Z</dc:date>
+<dc:subject>book books lulu.com printing publish publishing writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/printing" />
+    <rdf:li resource="http://del.icio.us/tag/lulu.com" />
+    <rdf:li resource="http://del.icio.us/tag/publish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ninehub.com/">
+<title>NineHub</title>
+<link>http://ninehub.com/</link>
+<description>Free, Easy, Reliable and Secure Moodle Hosting - use it for real, or as a moodle sandbox</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-04T07:41:00Z</dc:date>
+<dc:subject>Moodle education elearning ict learning ninehub ole platform vle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Moodle" />
+    <rdf:li resource="http://del.icio.us/tag/ninehub" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/platform" />
+    <rdf:li resource="http://del.icio.us/tag/vle" />
+    <rdf:li resource="http://del.icio.us/tag/ole" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mindomo.com/">
+<title>Mindomo - Web-Based mind mapping software</title>
+<link>http://www.mindomo.com/</link>
+<description>Mindomo is a versatile Web-based mind mapping tool, delivering the capabilities of desktop mind mapping software in a Web browser - with no complex software to install or maintain.</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-04T07:14:11Z</dc:date>
+<dc:subject>collaboration ict iwb mindmap mindmapping pgce productivity software tool tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/pgce" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coveritlive.com/index.php">
+<title>COVERITLIVE.COM</title>
+<link>http://www.coveritlive.com/index.php</link>
+<description>Our &#x2018;one-click&#x2019; publishing lets you drop polls, videos, pictures, ads and audio clips as soon as they come to mind. Comments and questions from your readers instantly appear but you control what gets published.</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-03T16:34:54Z</dc:date>
+<dc:subject>applications blog blogging coveritlive interactive liveblogging poll polling survey tools vote voting web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/polling" />
+    <rdf:li resource="http://del.icio.us/tag/voting" />
+    <rdf:li resource="http://del.icio.us/tag/vote" />
+    <rdf:li resource="http://del.icio.us/tag/poll" />
+    <rdf:li resource="http://del.icio.us/tag/survey" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/coveritlive" />
+    <rdf:li resource="http://del.icio.us/tag/liveblogging" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thenag.net/">
+<title>The Nag</title>
+<link>http://www.thenag.net/</link>
+<description>this is a place for anyone who'd like to do something about climate change, or sweatshops, or eating better food, but, well, you know... busy, things come up...</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-03T16:03:46Z</dc:date>
+<dc:subject>change nag web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nag" />
+    <rdf:li resource="http://del.icio.us/tag/change" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://down2earth.eu/impact_calculator">
+<title>Down 2 Earth | Impact Calculator</title>
+<link>http://down2earth.eu/impact_calculator</link>
+<description>data handling - smashing asteroids into wales. interesting!</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-03T14:27:57Z</dc:date>
+<dc:subject>asteroid at4 calculator crater earth forces ict iwb physics sc4 science smash space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calculator" />
+    <rdf:li resource="http://del.icio.us/tag/asteroid" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/earth" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/forces" />
+    <rdf:li resource="http://del.icio.us/tag/crater" />
+    <rdf:li resource="http://del.icio.us/tag/smash" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/at4" />
+    <rdf:li resource="http://del.icio.us/tag/sc4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drhorrible.com/">
+<title>Dr. Horrible</title>
+<link>http://drhorrible.com/</link>
+<description>Joss whedons new online adventure :)</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-03T13:18:36Z</dc:date>
+<dc:subject>Humor blog buffy entertainment horrible joss media movies tv whedon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/horrible" />
+    <rdf:li resource="http://del.icio.us/tag/whedon" />
+    <rdf:li resource="http://del.icio.us/tag/buffy" />
+    <rdf:li resource="http://del.icio.us/tag/joss" />
+    <rdf:li resource="http://del.icio.us/tag/Humor" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forvo.com/">
+<title>Forvo</title>
+<link>http://forvo.com/</link>
+<description>the pronunciation guide. All the words in the world pronounced by native speakers</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-03T11:10:43Z</dc:date>
+<dc:subject>audio community dictionary language learning mfl pronunciation reference speaker web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/mfl" />
+    <rdf:li resource="http://del.icio.us/tag/speaker" />
+    <rdf:li resource="http://del.icio.us/tag/pronunciation" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.twibble.de/">
+<title>twibble</title>
+<link>http://www.twibble.de/</link>
+<description>a location aware twitter client for Mac OS, Windows, Mobile</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T21:43:39Z</dc:date>
+<dc:subject>client mobile n95 twibble twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/twibble" />
+    <rdf:li resource="http://del.icio.us/tag/n95" />
+    <rdf:li resource="http://del.icio.us/tag/client" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.polleverywhere.com/">
+<title>Poll Everywhere</title>
+<link>http://www.polleverywhere.com/</link>
+<description>the easiest way to gather live responses in any venue: conferences, presentations, classrooms, radio, tv, print</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T19:03:52Z</dc:date>
+<dc:subject>cellphone mobile poll polling sms survey technology web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poll" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/survey" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/cellphone" />
+    <rdf:li resource="http://del.icio.us/tag/polling" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://primary.naace.co.uk/activities/BigBookMaker">
+<title>Naace Big Book Maker</title>
+<link>http://primary.naace.co.uk/activities/BigBookMaker</link>
+<description></description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T19:02:48Z</dc:date>
+<dc:subject>big book ict iwb naace tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/naace" />
+    <rdf:li resource="http://del.icio.us/tag/big" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/25/the-ultimate-guide-to-special-needs-teaching-100-resources-and-links/">
+<title>The Ultimate Guide to Special Needs Teaching: 100+ Resources and Links | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/25/the-ultimate-guide-to-special-needs-teaching-100-resources-and-links/</link>
+<description></description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T18:49:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net">
+<title>4 Quick Ways To Download YouTube Videos Off The Net | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/4-quick-ways-to-download-youtube-videos-off-the-net</link>
+<description></description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T18:41:48Z</dc:date>
+<dc:subject>blog ict iwb video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.toodledo.com/">
+<title>Toodledo :: A to-do list to organize your tasks</title>
+<link>http://www.toodledo.com/</link>
+<description> An easy to use, web-based to-do list. Get organized, stay motivated, and be more productive.</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-02T18:39:04Z</dc:date>
+<dc:subject>collaboration gtd list organization productivity todo tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gcast.com/?nr=1">
+<title>Gcast</title>
+<link>http://www.gcast.com/?nr=1</link>
+<description>free podcast hosting service</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-01T21:28:47Z</dc:date>
+<dc:subject>audio gcast hosting ict podcast podcasting tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gcast" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/podcasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seesmic.com/">
+<title>seesmic</title>
+<link>http://seesmic.com/</link>
+<description></description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-01T21:12:40Z</dc:date>
+<dc:subject>Seesmic blog communication media podcast social twitter video web2.0 webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Seesmic" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ncict-delivered.org/ncit_demo/index.html">
+<title>NCIT</title>
+<link>http://www.ncict-delivered.org/ncit_demo/index.html</link>
+<description>materials for the ocr nationals in ict</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-01T11:16:47Z</dc:date>
+<dc:subject>ict nationals nc ocr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ocr" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/nc" />
+    <rdf:li resource="http://del.icio.us/tag/nationals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zoo-m.com/flickr-storm">
+<title>FlickrStorm</title>
+<link>http://www.zoo-m.com/flickr-storm</link>
+<description>Search on Flickr with some Magic</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-07-01T10:17:18Z</dc:date>
+<dc:subject>creativecommons flickr ict image iwb photo photography photos presentation search tool tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/creativecommons" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites">
+<title>10 Essential Sites for Tips and How-To&#x2019;s</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites</link>
+<description>a list of 10 essential sites where you can find or in some cases contribute tips and how-to&#x2019;s on a wide range of topics.</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-30T15:44:13Z</dc:date>
+<dc:subject>guides help how howto iwb tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/how" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/guides" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://freshbrain.org/explore">
+<title>FreshBrain</title>
+<link>https://freshbrain.org/explore</link>
+<description>FreshBrain - Explore, Engage and Create. Build your skills, bolster your resume, make friends and have some fun!!</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-29T08:55:53Z</dc:date>
+<dc:subject>freshbrain music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freshbrain" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://summize.com/">
+<title>Summize Conversational Search</title>
+<link>http://summize.com/</link>
+<description>Conversational Search - twitter search engine</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-28T21:06:25Z</dc:date>
+<dc:subject>Search Tool aggregator conversations summize tools twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/Search" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/summize" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/Tool" />
+    <rdf:li resource="http://del.icio.us/tag/conversations" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dropsend.com/">
+<title>DropSend</title>
+<link>http://www.dropsend.com/</link>
+<description> Send large files and email large files easily and securely</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-28T15:12:48Z</dc:date>
+<dc:subject>files filesharing sharing storage tool tools web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://education.smarttech.com/ste/en-US/Ed%20Resource/Lesson%20activities/Senteo">
+<title>Senteo question sets</title>
+<link>http://education.smarttech.com/ste/en-US/Ed%20Resource/Lesson%20activities/Senteo</link>
+<description>question sets for Senteo</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-27T14:31:59Z</dc:date>
+<dc:subject>ict iwb senteo smart smartboards voting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/voting" />
+    <rdf:li resource="http://del.icio.us/tag/senteo" />
+    <rdf:li resource="http://del.icio.us/tag/smart" />
+    <rdf:li resource="http://del.icio.us/tag/smartboards" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://soungle.com/">
+<title>Soungle.com</title>
+<link>http://soungle.com/</link>
+<description>a search engine for sounds</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-27T12:20:12Z</dc:date>
+<dc:subject>effects ict iwb search sfx sound</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/sfx" />
+    <rdf:li resource="http://del.icio.us/tag/effects" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quikmaps.com/">
+<title>quikmaps.com :: maps for the masses</title>
+<link>http://www.quikmaps.com/</link>
+<description>Doodle on Google!</description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-27T11:47:26Z</dc:date>
+<dc:subject>geography google googlemaps map maps mashup tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dipity.com/mashups/timetube">
+<title>TimeTube by Dipity</title>
+<link>http://www.dipity.com/mashups/timetube</link>
+<description></description>
+<dc:creator>dannynic</dc:creator>
+<dc:date>2008-06-27T11:26:27Z</dc:date>
+<dc:subject>history ict iwb mashup pgce science timeline timetube tools topical video videotimeline web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/pgce" />
+    <rdf:li resource="http://del.icio.us/tag/topical" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+    <rdf:li resource="http://del.icio.us/tag/timetube" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/videotimeline" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

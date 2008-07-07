@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/laemo">
+<title>del.icio.us/laemo</title>
+<link>http://del.icio.us/laemo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://audiko.net/" />
+  <rdf:li rdf:resource="http://www.healthassist.net/food/obesity.shtml" />
+  <rdf:li rdf:resource="http://www.askapache.com/htaccess/apache-htaccess.html" />
+  <rdf:li rdf:resource="http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html" />
+  <rdf:li rdf:resource="http://www.radarsync.com/" />
+  <rdf:li rdf:resource="http://www.mobaganda.com/" />
+  <rdf:li rdf:resource="http://jquery.bassistance.de/accordion/demo/?p=1.1.3.2#navigation" />
+  <rdf:li rdf:resource="http://www.hotajax.org/demo/otherjs/accordion/accordion/index.html" />
+  <rdf:li rdf:resource="http://www.blogperfume.com/" />
+  <rdf:li rdf:resource="http://www.esquire.com/features/essential-skills-0508?src=rss" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/04/improve-form-usability-with-auto.html" />
+  <rdf:li rdf:resource="http://www.wpwp.org/" />
+  <rdf:li rdf:resource="http://www.ploomy.com/2008/01/30/table-manner-tips-every-guy-should-know/" />
+  <rdf:li rdf:resource="http://www.papercdcase.com/" />
+  <rdf:li rdf:resource="http://www.mailfreezr.com/" />
+  <rdf:li rdf:resource="http://www.ponyfish.com/index.html" />
+  <rdf:li rdf:resource="http://feeds.feedburner.com/freewaregeniuscom" />
+  <rdf:li rdf:resource="http://www.phpform.org/" />
+  <rdf:li rdf:resource="http://www.h2limousine.com/women-vs-men.php" />
+  <rdf:li rdf:resource="http://www.usnews.com/features/business/best-careers/best-careers-2008.html" />
+  <rdf:li rdf:resource="http://www.stuff.yellowswordfish.com/simple-forum/" />
+  <rdf:li rdf:resource="http://www.dougknox.com/xp/file_assoc.htm" />
+  <rdf:li rdf:resource="http://vexxhost.com/blog/2007/03/01/only-css-hack-you%E2%80%99ll-ever-need-seriously/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/feature/host-your-domain-with-free-apps-331865.php" />
+  <rdf:li rdf:resource="http://www.youthedesigner.com/2007/12/10/30-delightful-graphic-design-books/" />
+  <rdf:li rdf:resource="http://www.time.com/time/specials/2007/top10/0,30576,1686204,00.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/12/free-css-layouts-and-templates/" />
+  <rdf:li rdf:resource="http://briarpress.org/" />
+  <rdf:li rdf:resource="http://www.stylegala.com/resources/css_hacks.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description>Drivers, Software and More</description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-07-06T12:20:19Z</dc:date>
+<dc:subject>guide howto installation xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/installation" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-07-01T17:55:27Z</dc:date>
+<dc:subject>conversion dvd howto lifehacker media rip tips video vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/rip" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://audiko.net/">
+<title>Audiko</title>
+<link>http://audiko.net/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-06-22T18:17:32Z</dc:date>
+<dc:subject>mobile ringtone ringtones</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ringtone" />
+    <rdf:li resource="http://del.icio.us/tag/ringtones" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.healthassist.net/food/obesity.shtml">
+<title>14 Habits That Make You Fat</title>
+<link>http://www.healthassist.net/food/obesity.shtml</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-31T17:46:49Z</dc:date>
+<dc:subject>diet fitness food health lifehacks list lists</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.askapache.com/htaccess/apache-htaccess.html">
+<title>Apache htaccess Ultimate Guide</title>
+<link>http://www.askapache.com/htaccess/apache-htaccess.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-29T04:26:13Z</dc:date>
+<dc:subject>apache cheatsheet htaccess</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/htaccess" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html">
+<title>Built-in Windows commands to determine if a system has been hacked</title>
+<link>http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-29T04:24:34Z</dc:date>
+<dc:subject>guide hack hacked windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/hacked" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.radarsync.com/">
+<title>Drivers Update Services, Software Driver Updates - RadarSync</title>
+<link>http://www.radarsync.com/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-28T04:53:46Z</dc:date>
+<dc:subject>driver drivers software tools update</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drivers" />
+    <rdf:li resource="http://del.icio.us/tag/driver" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/update" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mobaganda.com/">
+<title>mobaganda* - A Dead-Simple Invite Site Built On Google&#x2019;s App Engine</title>
+<link>http://www.mobaganda.com/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-28T04:52:17Z</dc:date>
+<dc:subject>event invitation invite rsvp webapp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/invitation" />
+    <rdf:li resource="http://del.icio.us/tag/invite" />
+    <rdf:li resource="http://del.icio.us/tag/rsvp" />
+    <rdf:li resource="http://del.icio.us/tag/event" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jquery.bassistance.de/accordion/demo/?p=1.1.3.2#navigation">
+<title>jQuery UI Accordion</title>
+<link>http://jquery.bassistance.de/accordion/demo/?p=1.1.3.2#navigation</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-25T05:28:20Z</dc:date>
+<dc:subject>accordion jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/accordion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hotajax.org/demo/otherjs/accordion/accordion/index.html">
+<title>Accordion v2.0 Demo</title>
+<link>http://www.hotajax.org/demo/otherjs/accordion/accordion/index.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-25T05:28:00Z</dc:date>
+<dc:subject>accordion javascript scriptaculous</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/accordion" />
+    <rdf:li resource="http://del.icio.us/tag/scriptaculous" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogperfume.com/">
+<title>Blog Perfume - WordPress Blogs with Themes, Plugins and Blogging Resources</title>
+<link>http://www.blogperfume.com/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-20T16:27:56Z</dc:date>
+<dc:subject>wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.esquire.com/features/essential-skills-0508?src=rss">
+<title>Skills for Men - Things Men Should Be Able to Do - Esquire</title>
+<link>http://www.esquire.com/features/essential-skills-0508?src=rss</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-09T08:46:17Z</dc:date>
+<dc:subject>advice life lifehacks men skills</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/skills" />
+    <rdf:li resource="http://del.icio.us/tag/men" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/04/improve-form-usability-with-auto.html">
+<title>woork: Improve form usability with auto messages</title>
+<link>http://woork.blogspot.com/2008/04/improve-form-usability-with-auto.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-01T09:38:46Z</dc:date>
+<dc:subject>css form javascript usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wpwp.org/">
+<title>WordPress Wassup Plugin : The Real Time Visitors Tracking &#x26; Statistics Tool</title>
+<link>http://www.wpwp.org/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-05-01T09:38:13Z</dc:date>
+<dc:subject>plugin plugins statistics wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ploomy.com/2008/01/30/table-manner-tips-every-guy-should-know/">
+<title>Table Manner Tips Every Guy Should Know</title>
+<link>http://www.ploomy.com/2008/01/30/table-manner-tips-every-guy-should-know/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-02-21T18:07:07Z</dc:date>
+<dc:subject>FOOD etiquette lifehacks manners tip tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/etiquette" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tip" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/manners" />
+    <rdf:li resource="http://del.icio.us/tag/FOOD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.papercdcase.com/">
+<title>paper cd case</title>
+<link>http://www.papercdcase.com/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-31T19:01:36Z</dc:date>
+<dc:subject>case cd paper tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cd" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/case" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailfreezr.com/">
+<title>MailFreezr.com - freeze email messages for up to 100 years [beta :)]</title>
+<link>http://www.mailfreezr.com/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-31T18:41:47Z</dc:date>
+<dc:subject>apps capsule email future time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/capsule" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ponyfish.com/index.html">
+<title>Ponyfish</title>
+<link>http://www.ponyfish.com/index.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-31T18:27:26Z</dc:date>
+<dc:subject>converter creator feed rss tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/creator" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://feeds.feedburner.com/freewaregeniuscom">
+<title>freewaregenius.com</title>
+<link>http://feeds.feedburner.com/freewaregeniuscom</link>
+<description>Reviews and Downloads of the Coolest and Best Windows Freeware</description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-31T18:11:31Z</dc:date>
+<dc:subject>blogs firefox:rss freeware software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:rss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phpform.org/">
+<title>pForm - Free HTML Form Builder - Create Web Form Template Online</title>
+<link>http://www.phpform.org/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-24T19:37:12Z</dc:date>
+<dc:subject>create forms webforms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/create" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/webforms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.h2limousine.com/women-vs-men.php">
+<title>Best Man Vs. Woman Explanation I've Ever Read</title>
+<link>http://www.h2limousine.com/women-vs-men.php</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-04T22:53:12Z</dc:date>
+<dc:subject>communication interesting language men psychology relationships women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/men" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usnews.com/features/business/best-careers/best-careers-2008.html">
+<title>Best Careers 2008 - US News and World Report (usnews.com)</title>
+<link>http://www.usnews.com/features/business/best-careers/best-careers-2008.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2008-01-04T22:20:13Z</dc:date>
+<dc:subject>2008 career careers jobs list work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/careers" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stuff.yellowswordfish.com/simple-forum/">
+<title>Stuff at Yellow Swordfish &#xBB; Simple Forum</title>
+<link>http://www.stuff.yellowswordfish.com/simple-forum/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-29T19:53:26Z</dc:date>
+<dc:subject>forum wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dougknox.com/xp/file_assoc.htm">
+<title>Windows XP File Assocation Fixes</title>
+<link>http://www.dougknox.com/xp/file_assoc.htm</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-24T14:08:07Z</dc:date>
+<dc:subject>file fix registry windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/registry" />
+    <rdf:li resource="http://del.icio.us/tag/fix" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vexxhost.com/blog/2007/03/01/only-css-hack-you%E2%80%99ll-ever-need-seriously/">
+<title>vexxblog &#xBB; Blog Archive &#xBB; Only CSS hack you&#x2019;ll ever need, seriously.</title>
+<link>http://vexxhost.com/blog/2007/03/01/only-css-hack-you%E2%80%99ll-ever-need-seriously/</link>
+<description>_margin-left: 6px; /* Only IE6 reads this and changes the value to 6px */</description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-12T15:57:07Z</dc:date>
+<dc:subject>CSS hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/feature/host-your-domain-with-free-apps-331865.php">
+<title>Feature: Host Your Domain with Free Apps</title>
+<link>http://lifehacker.com/software/feature/host-your-domain-with-free-apps-331865.php</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-11T18:30:33Z</dc:date>
+<dc:subject>domain free hosting howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youthedesigner.com/2007/12/10/30-delightful-graphic-design-books/">
+<title>30 Delightful Graphic Design Books at You the Designer - Graphic Design Blog</title>
+<link>http://www.youthedesigner.com/2007/12/10/30-delightful-graphic-design-books/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-11T18:28:20Z</dc:date>
+<dc:subject>books design graphic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.time.com/time/specials/2007/top10/0,30576,1686204,00.html">
+<title>50 Top 10 Lists of 2007 - TIME</title>
+<link>http://www.time.com/time/specials/2007/top10/0,30576,1686204,00.html</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-11T18:26:26Z</dc:date>
+<dc:subject>2007 lists time top10</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/top10" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/2007" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/12/free-css-layouts-and-templates/">
+<title>Free CSS Layouts And Templates | CSS | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/01/12/free-css-layouts-and-templates/</link>
+<description>As a web-developer you don't have to re-invent the wheel all time. If it just has work, and be valid, nice, visually appealing design hierarchy,</description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-11T17:35:16Z</dc:date>
+<dc:subject>css free templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://briarpress.org/">
+<title>Briar Press</title>
+<link>http://briarpress.org/</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-09T14:29:38Z</dc:date>
+<dc:subject>art community design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stylegala.com/resources/css_hacks.htm">
+<title>CSS hacks | Stylegala</title>
+<link>http://www.stylegala.com/resources/css_hacks.htm</link>
+<description></description>
+<dc:creator>laemo</dc:creator>
+<dc:date>2007-12-09T12:20:30Z</dc:date>
+<dc:subject>css hack hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

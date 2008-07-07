@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/andyfarrell">
+<title>del.icio.us/andyfarrell</title>
+<link>http://del.icio.us/andyfarrell</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ew.com/ew/gallery/0,,20210005,00.html" />
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://doomlaser.com/stdbits/" />
+  <rdf:li rdf:resource="http://www.kongregate.com/games/soapaintnice/open-doors" />
+  <rdf:li rdf:resource="http://www.casualcollective.com/games/Desktop_Armada_Missions" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Penis_panic" />
+  <rdf:li rdf:resource="http://www.nitrome.com/games/thinice/index.html" />
+  <rdf:li rdf:resource="http://games.yahoo.com/free-games/marble-lines" />
+  <rdf:li rdf:resource="http://www.candystand.com/uk/play.do?id=18267" />
+  <rdf:li rdf:resource="http://thebasementgroup.com/component/option,com_puarcade/Itemid,61/gid,492/" />
+  <rdf:li rdf:resource="http://www.blobprod.com/mixers/beatbox/beatboxmain.asp" />
+  <rdf:li rdf:resource="http://www.digyourowngrave.com/bunny-bounty/" />
+  <rdf:li rdf:resource="http://www.gamesradar.com/f/50-skills-that-every-gamer-should-master/a-2008062417104774060" />
+  <rdf:li rdf:resource="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/" />
+  <rdf:li rdf:resource="http://www.scienceray.com/Biology/Botany/Spectacular-Trees-From-Around-the-World.134768" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=_9KleCswrGk&#x26;eurl=http://gizmodo.com/5020573/working-lego-gun-will-make-you-shoot-bricks" />
+  <rdf:li rdf:resource="http://community.livejournal.com/euro_photos/194356.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/03/05/blog-headers-for-free-download/" />
+  <rdf:li rdf:resource="http://gizmodo.com/5020072/nike-finally-releasing-back-to-the-future-part-ii-mcfly-sneakers-sort-of" />
+  <rdf:li rdf:resource="http://www.mameworld.net/" />
+  <rdf:li rdf:resource="http://www.shockwave.com/gamelanding/redlinerumble3.jsp" />
+  <rdf:li rdf:resource="http://www.skop.com/brucelee/" />
+  <rdf:li rdf:resource="http://www.mobclub.com/free/mobile/Webgames/Puzzle/1315/PuzzPinball" />
+  <rdf:li rdf:resource="http://www.miniclip.com/games/canyon-shooter/en/" />
+  <rdf:li rdf:resource="http://www.goodexperience.com/games/" />
+  <rdf:li rdf:resource="http://www.kongregate.com/games/SeanCooper/boxhead-the-zombie-wars" />
+  <rdf:li rdf:resource="http://www.poparcade.net/game/676/Rocket-Man.html" />
+  <rdf:li rdf:resource="http://www.avangate.com/articles/blog-directories-95.htm" />
+  <rdf:li rdf:resource="http://www.addictinggames.com/towerbloxx.html" />
+  <rdf:li rdf:resource="http://minyos.its.rmit.edu.au/aim/a_notes/walk_reference_01.html" />
+  <rdf:li rdf:resource="http://how2dostuff.blogspot.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ew.com/ew/gallery/0,,20210005,00.html">
+<title>Photo 1 | 50 New Videogame Classics: The Top 25 | Photos | EW.com</title>
+<link>http://www.ew.com/ew/gallery/0,,20210005,00.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-06T13:12:06Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-06T12:56:54Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doomlaser.com/stdbits/">
+<title>Standard Bits :: [ StdBits ]</title>
+<link>http://doomlaser.com/stdbits/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-06T11:34:29Z</dc:date>
+<dc:subject>interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kongregate.com/games/soapaintnice/open-doors">
+<title>Play Open Doors, a free online game on Kongregate</title>
+<link>http://www.kongregate.com/games/soapaintnice/open-doors</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T16:13:58Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.casualcollective.com/games/Desktop_Armada_Missions">
+<title>The Casual Collective</title>
+<link>http://www.casualcollective.com/games/Desktop_Armada_Missions</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T14:18:08Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Penis_panic">
+<title>Genital retraction syndrome - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Penis_panic</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T14:14:19Z</dc:date>
+<dc:subject>funny interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nitrome.com/games/thinice/index.html">
+<title>Thin Ice - Nitrome - Play Free Games</title>
+<link>http://www.nitrome.com/games/thinice/index.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T14:09:00Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://games.yahoo.com/free-games/marble-lines">
+<title>Marble Lines | Play Free Online Puzzle Games - Yahoo! Games</title>
+<link>http://games.yahoo.com/free-games/marble-lines</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T13:33:40Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.candystand.com/uk/play.do?id=18267">
+<title>Racing Games to Play - Candystand Ultimate Raceway Car Game</title>
+<link>http://www.candystand.com/uk/play.do?id=18267</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T13:28:19Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thebasementgroup.com/component/option,com_puarcade/Itemid,61/gid,492/">
+<title>Skywire 2 - Free Online Game from Shockwave</title>
+<link>http://thebasementgroup.com/component/option,com_puarcade/Itemid,61/gid,492/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T13:27:10Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blobprod.com/mixers/beatbox/beatboxmain.asp">
+<title>BLOB | Beatbox dj mixer</title>
+<link>http://www.blobprod.com/mixers/beatbox/beatboxmain.asp</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T13:15:54Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digyourowngrave.com/bunny-bounty/">
+<title>DigYourOwnGrave Online Games: Bunny Bounty</title>
+<link>http://www.digyourowngrave.com/bunny-bounty/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-04T12:35:13Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesradar.com/f/50-skills-that-every-gamer-should-master/a-2008062417104774060">
+<title>50 skills that every gamer should master | GamesRadar</title>
+<link>http://www.gamesradar.com/f/50-skills-that-every-gamer-should-master/a-2008062417104774060</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-07-02T14:50:00Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/">
+<title>Top 10 3D Graffiti Artists in the World | WebUrbanist</title>
+<link>http://weburbanist.com/2008/06/29/top-10-3d-graffiti-artists-in-the-world/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-30T14:42:17Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scienceray.com/Biology/Botany/Spectacular-Trees-From-Around-the-World.134768">
+<title>Spectacular Trees From Around the World</title>
+<link>http://www.scienceray.com/Biology/Botany/Spectacular-Trees-From-Around-the-World.134768</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-30T11:39:54Z</dc:date>
+<dc:subject>interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=_9KleCswrGk&#x26;eurl=http://gizmodo.com/5020573/working-lego-gun-will-make-you-shoot-bricks">
+<title>YouTube - SLIDE ACTION LEGO CROSSBOW PISTOL</title>
+<link>http://www.youtube.com/watch?v=_9KleCswrGk&#x26;eurl=http://gizmodo.com/5020573/working-lego-gun-will-make-you-shoot-bricks</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-30T09:31:23Z</dc:date>
+<dc:subject>lego</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lego" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.livejournal.com/euro_photos/194356.html">
+<title>euro_photos: paris. ww II.</title>
+<link>http://community.livejournal.com/euro_photos/194356.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-30T07:51:31Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/03/05/blog-headers-for-free-download/">
+<title>Blog Headers For Free Download | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/03/05/blog-headers-for-free-download/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-29T16:02:54Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/5020072/nike-finally-releasing-back-to-the-future-part-ii-mcfly-sneakers-sort-of">
+<title>Shoes: Nike Finally Releasing Back to the Future Part II McFly Sneakers, Sort Of</title>
+<link>http://gizmodo.com/5020072/nike-finally-releasing-back-to-the-future-part-ii-mcfly-sneakers-sort-of</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-28T15:09:35Z</dc:date>
+<dc:subject>fashion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mameworld.net/">
+<title>MAMEWorld.net - The Largest MAME Resource on the Net</title>
+<link>http://www.mameworld.net/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T14:08:13Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shockwave.com/gamelanding/redlinerumble3.jsp">
+<title>Redline Rumble 3 - Free Online Game from Shockwave</title>
+<link>http://www.shockwave.com/gamelanding/redlinerumble3.jsp</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T14:03:47Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skop.com/brucelee/">
+<title>skop.com I Know Where Bruce Lee Lives [KeyJay, ultrainteractive KungFu Remixer]</title>
+<link>http://www.skop.com/brucelee/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T13:53:48Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mobclub.com/free/mobile/Webgames/Puzzle/1315/PuzzPinball">
+<title>Mobclub - PuzzPinball &#x2013; play this game free on-line, loads more flash and viral games to play and share with friends</title>
+<link>http://www.mobclub.com/free/mobile/Webgames/Puzzle/1315/PuzzPinball</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T13:37:23Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.miniclip.com/games/canyon-shooter/en/">
+<title>Canyon Shooter - Miniclip Games - Play Free Games</title>
+<link>http://www.miniclip.com/games/canyon-shooter/en/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T12:34:19Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.goodexperience.com/games/">
+<title>Good Experience Games - good games, fun games</title>
+<link>http://www.goodexperience.com/games/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T12:28:51Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kongregate.com/games/SeanCooper/boxhead-the-zombie-wars">
+<title>Play Boxhead: The Zombie Wars, a free online game on Kongregate</title>
+<link>http://www.kongregate.com/games/SeanCooper/boxhead-the-zombie-wars</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T12:26:03Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.poparcade.net/game/676/Rocket-Man.html">
+<title>PopArcade - The Better Arcade \\ Rocket Man</title>
+<link>http://www.poparcade.net/game/676/Rocket-Man.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T12:20:49Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.avangate.com/articles/blog-directories-95.htm">
+<title>Top 50 Free Blog Directories</title>
+<link>http://www.avangate.com/articles/blog-directories-95.htm</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T12:12:24Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.addictinggames.com/towerbloxx.html">
+<title>Tower Bloxx - Free Puzzle and Board Game from AddictingGames</title>
+<link>http://www.addictinggames.com/towerbloxx.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T11:53:17Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://minyos.its.rmit.edu.au/aim/a_notes/walk_reference_01.html">
+<title>Preston Blair Walks #1</title>
+<link>http://minyos.its.rmit.edu.au/aim/a_notes/walk_reference_01.html</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T11:48:53Z</dc:date>
+<dc:subject>animation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://how2dostuff.blogspot.com/">
+<title>How To Do Stuff</title>
+<link>http://how2dostuff.blogspot.com/</link>
+<description></description>
+<dc:creator>AndyFarrell</dc:creator>
+<dc:date>2008-06-27T10:41:36Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

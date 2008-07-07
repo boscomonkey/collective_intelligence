@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/asense">
+<title>del.icio.us/asense</title>
+<link>http://del.icio.us/asense</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/hill-microtesting" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=49927" />
+  <rdf:li rdf:resource="http://nwebb.co.uk/blog/?m=200806" />
+  <rdf:li rdf:resource="http://weblogs.macromedia.com/paulw/" />
+  <rdf:li rdf:resource="http://weblogs.macromedia.com/pmartin/" />
+  <rdf:li rdf:resource="http://www.davidtucker.net/2008/06/05/great-cairngorm-slides-from-360flex-europe/" />
+  <rdf:li rdf:resource="http://www.thomasburleson.biz/2007/06/cairngorm_view_notifications.html" />
+  <rdf:li rdf:resource="http://www.firemoss.com/blog/index.cfm?mode=entry&#x26;entry=A6A76F5E-3048-55C9-4301E81D24A361B6" />
+  <rdf:li rdf:resource="http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-2/" />
+  <rdf:li rdf:resource="http://jwopitz.wordpress.com/2008/04/24/tutorial-handling-service-validation-errors-cairngorm/" />
+  <rdf:li rdf:resource="http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-3/" />
+  <rdf:li rdf:resource="http://www-128.ibm.com/developerworks/library/j-memusage/" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=WhiteboardForOSGi" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/johnsmart/archive/2008/03/using_hudson_en.html" />
+  <rdf:li rdf:resource="http://blogs.atlassian.com/developer/2008/05/confluence_has_a_selenium_buil.html" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=OSGiforBeginners" />
+  <rdf:li rdf:resource="http://blog.springsource.com/main/2008/05/06/springsource-application-platform-deployment-options/" />
+  <rdf:li rdf:resource="http://eclipse.dzone.com/articles/plug-development-101-fundament" />
+  <rdf:li rdf:resource="http://www.productionscale.com/home/2008/4/24/cloud-computing-get-your-head-in-the-clouds.html" />
+  <rdf:li rdf:resource="http://pubs.caes.uga.edu/caespubs/pubcd/L174.htm" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-04-2008/jw-04-osgi2.html?page=1" />
+  <rdf:li rdf:resource="http://jroller.com/SunilPatil/" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-03-2008/jw-03-osgi1.html" />
+  <rdf:li rdf:resource="http://techdistrict.kirkk.com/2008/04/17/simple-osgi-service/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-ap04088/index.html?ca=drs-" />
+  <rdf:li rdf:resource="http://java.sun.com/j2se/1.5.0/docs/tooldocs/index.html" />
+  <rdf:li rdf:resource="http://gleichmann.wordpress.com/2008/03/24/setting-up-spring-dynamic-modules-osgi-with-eclipse-a-step-by-step-tutorial/" />
+  <rdf:li rdf:resource="http://jlorenzen.blogspot.com/2008/03/automated-performance-tests-using.html" />
+  <rdf:li rdf:resource="http://googletesting.blogspot.com/2008/03/cost-benefit-analysis-of-test.html" />
+  <rdf:li rdf:resource="http://www.satisfice.com/blog/archives/27" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/hill-microtesting">
+<title>InfoQ: My &#x22;Unit Test&#x22; Aint Your &#x22;Unit Test&#x22;</title>
+<link>http://www.infoq.com/news/2008/06/hill-microtesting</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-07-06T13:01:49Z</dc:date>
+<dc:subject>testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-07-06T12:53:26Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=49927">
+<title>OSGi management tool mToolkit free edition released</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=49927</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-07-06T12:50:09Z</dc:date>
+<dc:subject>osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nwebb.co.uk/blog/?m=200806">
+<title>nwebb &#xBB; 2008&#xBB; June</title>
+<link>http://nwebb.co.uk/blog/?m=200806</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-24T17:19:57Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.macromedia.com/paulw/">
+<title>Paul Williams</title>
+<link>http://weblogs.macromedia.com/paulw/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-23T22:26:49Z</dc:date>
+<dc:subject>flex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.macromedia.com/pmartin/">
+<title>Peter Martin</title>
+<link>http://weblogs.macromedia.com/pmartin/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-23T22:22:48Z</dc:date>
+<dc:subject>flex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.davidtucker.net/2008/06/05/great-cairngorm-slides-from-360flex-europe/">
+<title>David Tucker - Web Development Goodness &#xBB; Blog Archive &#xBB; Great Cairngorm Slides from 360Flex Europe</title>
+<link>http://www.davidtucker.net/2008/06/05/great-cairngorm-slides-from-360flex-europe/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-23T22:16:40Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thomasburleson.biz/2007/06/cairngorm_view_notifications.html">
+<title>Technical Notes: Cairngorm View Notifications</title>
+<link>http://www.thomasburleson.biz/2007/06/cairngorm_view_notifications.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-20T22:38:00Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.firemoss.com/blog/index.cfm?mode=entry&#x26;entry=A6A76F5E-3048-55C9-4301E81D24A361B6">
+<title>Firemoss: Flex and ColdFusion Consulting from Joe Rinehart: Adding a &#x22;ViewController&#x22; into your Cairngorm app</title>
+<link>http://www.firemoss.com/blog/index.cfm?mode=entry&#x26;entry=A6A76F5E-3048-55C9-4301E81D24A361B6</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-20T22:19:50Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-2/">
+<title>Tutorial: handling service validation errors &#x26; cairngorm - part 2 &#xAB; explorers&#x2019; club</title>
+<link>http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-2/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-20T13:03:37Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jwopitz.wordpress.com/2008/04/24/tutorial-handling-service-validation-errors-cairngorm/">
+<title>Tutorial: handling service validation errors &#x26; cairngorm &#xAB; explorers&#x2019; club</title>
+<link>http://jwopitz.wordpress.com/2008/04/24/tutorial-handling-service-validation-errors-cairngorm/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-20T13:03:25Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-3/">
+<title>Tutorial: handling service validation errors &#x26; cairngorm - part 3 &#xAB; explorers&#x2019; club</title>
+<link>http://jwopitz.wordpress.com/2008/04/25/tutorial-handling-service-validation-errors-cairngorm-part-3/</link>
+<description>e encountered</description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-06-20T11:09:48Z</dc:date>
+<dc:subject>cairngorm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cairngorm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-128.ibm.com/developerworks/library/j-memusage/">
+<title>Don't forget about memory</title>
+<link>http://www-128.ibm.com/developerworks/library/j-memusage/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-23T16:50:26Z</dc:date>
+<dc:subject>java memory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=WhiteboardForOSGi">
+<title>Enterprise Java Community: The Whiteboard Pattern for OSGi</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=WhiteboardForOSGi</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-20T20:46:35Z</dc:date>
+<dc:subject>OSGi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/OSGi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/johnsmart/archive/2008/03/using_hudson_en.html">
+<title>John Ferguson Smart's Blog: Using Hudson environment variables to identify your buildsUsing Hudson environment variables to identify your builds</title>
+<link>http://weblogs.java.net/blog/johnsmart/archive/2008/03/using_hudson_en.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-20T04:10:01Z</dc:date>
+<dc:subject>hudson</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hudson" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.atlassian.com/developer/2008/05/confluence_has_a_selenium_buil.html">
+<title>Atlassian Developer Blog - Confluence has a Selenium Build!</title>
+<link>http://blogs.atlassian.com/developer/2008/05/confluence_has_a_selenium_buil.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-12T03:35:59Z</dc:date>
+<dc:subject>selenium testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/selenium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=OSGiforBeginners">
+<title>Enterprise Java Community: OSGi for Beginners</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=OSGiforBeginners</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-10T15:04:53Z</dc:date>
+<dc:subject>OSGI</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/OSGI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.springsource.com/main/2008/05/06/springsource-application-platform-deployment-options/">
+<title>SpringSource Team Blog &#xBB; SpringSource Application Platform Deployment Options</title>
+<link>http://blog.springsource.com/main/2008/05/06/springsource-application-platform-deployment-options/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-07T01:53:58Z</dc:date>
+<dc:subject>platform spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/platform" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eclipse.dzone.com/articles/plug-development-101-fundament">
+<title>Plug-in Development 101: The Fundamentals | Eclipse Zone</title>
+<link>http://eclipse.dzone.com/articles/plug-development-101-fundament</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-05-06T01:12:46Z</dc:date>
+<dc:subject>eclipse plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.productionscale.com/home/2008/4/24/cloud-computing-get-your-head-in-the-clouds.html">
+<title>Scalable Web Infrastructure and Technology Operations - Home - Cloud Computing: Get Your Head in the Clouds</title>
+<link>http://www.productionscale.com/home/2008/4/24/cloud-computing-get-your-head-in-the-clouds.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-28T00:18:29Z</dc:date>
+<dc:subject>Cloud</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cloud" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pubs.caes.uga.edu/caespubs/pubcd/L174.htm">
+<title>Vegetable Garden Calendar</title>
+<link>http://pubs.caes.uga.edu/caespubs/pubcd/L174.htm</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-26T14:52:26Z</dc:date>
+<dc:subject>garden</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/garden" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-04-2008/jw-04-osgi2.html?page=1">
+<title>Hello, OSGi, Part 2: Introduction to Spring Dynamic Modules - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-04-2008/jw-04-osgi2.html?page=1</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-23T01:03:12Z</dc:date>
+<dc:subject>osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jroller.com/SunilPatil/">
+<title>Pluto Live ~ Weblog</title>
+<link>http://jroller.com/SunilPatil/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-18T01:45:16Z</dc:date>
+<dc:subject>ant</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-03-2008/jw-03-osgi1.html">
+<title>Hello, OSGi, Part 1: Bundles for beginners - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-03-2008/jw-03-osgi1.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-18T01:39:01Z</dc:date>
+<dc:subject>osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techdistrict.kirkk.com/2008/04/17/simple-osgi-service/">
+<title>Simple OSGi Service : Software &#x26; Technology @kirkk.com</title>
+<link>http://techdistrict.kirkk.com/2008/04/17/simple-osgi-service/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-17T21:29:01Z</dc:date>
+<dc:subject>osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-ap04088/index.html?ca=drs-">
+<title>Automation for the people: Hands-off load testing</title>
+<link>http://www.ibm.com/developerworks/java/library/j-ap04088/index.html?ca=drs-</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-09T00:35:13Z</dc:date>
+<dc:subject>jmeter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jmeter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/j2se/1.5.0/docs/tooldocs/index.html">
+<title>JDK Development Tools</title>
+<link>http://java.sun.com/j2se/1.5.0/docs/tooldocs/index.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-04-04T04:35:35Z</dc:date>
+<dc:subject>jdk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jdk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gleichmann.wordpress.com/2008/03/24/setting-up-spring-dynamic-modules-osgi-with-eclipse-a-step-by-step-tutorial/">
+<title>Setting up Spring Dynamic Modules (OSGi) with Eclipse - A step-by-step tutorial &#xAB; brain driven development</title>
+<link>http://gleichmann.wordpress.com/2008/03/24/setting-up-spring-dynamic-modules-osgi-with-eclipse-a-step-by-step-tutorial/</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-03-27T19:16:12Z</dc:date>
+<dc:subject>osgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jlorenzen.blogspot.com/2008/03/automated-performance-tests-using.html">
+<title>James Lorenzen's Blog: Automated Performance Tests using JMeter and Maven</title>
+<link>http://jlorenzen.blogspot.com/2008/03/automated-performance-tests-using.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-03-26T01:43:59Z</dc:date>
+<dc:subject>performance testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googletesting.blogspot.com/2008/03/cost-benefit-analysis-of-test.html">
+<title>Google Testing Blog: Cost-Benefit Analysis of a Test</title>
+<link>http://googletesting.blogspot.com/2008/03/cost-benefit-analysis-of-test.html</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-03-25T11:32:32Z</dc:date>
+<dc:subject>testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.satisfice.com/blog/archives/27">
+<title>James Bach&#x2019;s Blog &#xBB; Blog Archive &#xBB; No Best Practices</title>
+<link>http://www.satisfice.com/blog/archives/27</link>
+<description></description>
+<dc:creator>asense</dc:creator>
+<dc:date>2008-03-25T11:31:41Z</dc:date>
+<dc:subject>testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

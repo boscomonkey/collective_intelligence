@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/engmark">
+<title>del.icio.us/engmark</title>
+<link>http://del.icio.us/engmark</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-nc/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://youtube.com/watch?v=TPp5UjqCLM8" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html" />
+  <rdf:li rdf:resource="http://www.wiw.org/~jess/hintlist.html" />
+  <rdf:li rdf:resource="http://failblog.org/2008/07/05/understanding-english-fail/" />
+  <rdf:li rdf:resource="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706" />
+  <rdf:li rdf:resource="http://section508.info/" />
+  <rdf:li rdf:resource="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=985" />
+  <rdf:li rdf:resource="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=5032" />
+  <rdf:li rdf:resource="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=987" />
+  <rdf:li rdf:resource="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=960" />
+  <rdf:li rdf:resource="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=997" />
+  <rdf:li rdf:resource="http://www.jscode.com/generators/mailto_generator.shtml" />
+  <rdf:li rdf:resource="http://dev.opera.com/articles/view/a-browser-sniffing-warning-the-trouble/" />
+  <rdf:li rdf:resource="http://www.useit.com/alertbox/20000319.html" />
+  <rdf:li rdf:resource="http://www.ericsink.com/scm/source_control.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001144.html" />
+  <rdf:li rdf:resource="http://creativetypes.blogspot.com/2008/01/exterminator-wanted-apparently-my-house.html" />
+  <rdf:li rdf:resource="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python" />
+  <rdf:li rdf:resource="http://www.useit.com/alertbox/bounce-rates.html" />
+  <rdf:li rdf:resource="http://blog.stackoverflow.com/2008/07/podcast-12/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001016.html" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://www.qdrum.co.za/about.htm" />
+  <rdf:li rdf:resource="http://linuxgazette.net/152/srinivasan.html" />
+  <rdf:li rdf:resource="http://www.eurogamer.net/article.php?article_id=160866" />
+  <rdf:li rdf:resource="http://whydoeseverythingsuck.com/2008/06/dreaming-of-better-user-interface.html" />
+  <rdf:li rdf:resource="http://listverse.com/science/9-extraordinary-human-abilities/" />
+  <rdf:li rdf:resource="http://www.neatorama.com/2008/06/27/how-to-torment-telemarketers-with-one-word/" />
+  <rdf:li rdf:resource="http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755" />
+  <rdf:li rdf:resource="http://filmonic.com/coolness-batman-vs-batman-vs-batman" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://youtube.com/watch?v=TPp5UjqCLM8">
+<title>Jarle Snertingdalen - Funcom</title>
+<link>http://youtube.com/watch?v=TPp5UjqCLM8</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-06T10:12:13Z</dc:date>
+<dc:subject>2008 Funcom JarleSnertingdalen education seen tosee video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JarleSnertingdalen" />
+    <rdf:li resource="http://del.icio.us/tag/Funcom" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-06T10:07:45Z</dc:date>
+<dc:subject>2008 JeffAtwood chair ergonomics furniture health office programming shopping toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/JeffAtwood" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html">
+<title>If Your Last Girlfriend Had an IMDb Page</title>
+<link>http://www.cracked.com/article_16474_if-your-last-girlfriend-had-imdb-page.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-05T22:16:45Z</dc:date>
+<dc:subject>2008 funny humor read spoof toread women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/spoof" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wiw.org/~jess/hintlist.html">
+<title>Space Quest Hints and Walk-Throughs</title>
+<link>http://www.wiw.org/~jess/hintlist.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-05T20:02:34Z</dc:date>
+<dc:subject>SpaceQuest game games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/SpaceQuest" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://failblog.org/2008/07/05/understanding-english-fail/">
+<title>Understanding English Fail</title>
+<link>http://failblog.org/2008/07/05/understanding-english-fail/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-05T20:01:17Z</dc:date>
+<dc:subject>English fail funny photo seen tosee</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fail" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/English" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706">
+<title>Smoke Plume</title>
+<link>http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-05T07:53:11Z</dc:date>
+<dc:subject>cool effects light nature photo science seen tosee</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/effects" />
+    <rdf:li resource="http://del.icio.us/tag/light" />
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://section508.info/">
+<title>Section 508 web accessibility checkers</title>
+<link>http://section508.info/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T16:15:23Z</dc:date>
+<dc:subject>accessibility section508 tool validator webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/section508" />
+    <rdf:li resource="http://del.icio.us/tag/validator" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=985">
+<title>Team Fortress 2: Meet the Soldier</title>
+<link>http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=985</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T15:15:57Z</dc:date>
+<dc:subject>TeamFortress2 funny humor seen soldier tosee video &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/TeamFortress2" />
+    <rdf:li resource="http://del.icio.us/tag/soldier" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=5032">
+<title>Team Fortress 2: Meet the Scout</title>
+<link>http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=5032</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T15:15:50Z</dc:date>
+<dc:subject>TeamFortress2 funny humor scout seen tosee video &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/TeamFortress2" />
+    <rdf:li resource="http://del.icio.us/tag/scout" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=987">
+<title>Team Fortress 2: Meet the Engineer</title>
+<link>http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=987</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T15:15:43Z</dc:date>
+<dc:subject>TeamFortress2 engineer humor seen tosee video &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/TeamFortress2" />
+    <rdf:li resource="http://del.icio.us/tag/engineer" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=960">
+<title>Team Fortress 2: Meet the Heavy</title>
+<link>http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=960</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T15:15:37Z</dc:date>
+<dc:subject>TeamFortress2 funny heavy humor seen tosee video &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/TeamFortress2" />
+    <rdf:li resource="http://del.icio.us/tag/heavy" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=997">
+<title>Team Fortress 2: Meet the Demoman</title>
+<link>http://storefront.steampowered.com/v/index.php?area=app&#x26;AppId=997</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T15:15:27Z</dc:date>
+<dc:subject>TeamFortress2 demoman funny humor seen tosee video &#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/TeamFortress2" />
+    <rdf:li resource="http://del.icio.us/tag/demoman" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jscode.com/generators/mailto_generator.shtml">
+<title>JavaScript MailTo Link Generator</title>
+<link>http://www.jscode.com/generators/mailto_generator.shtml</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T11:36:24Z</dc:date>
+<dc:subject>generator mailto tool webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mailto" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.opera.com/articles/view/a-browser-sniffing-warning-the-trouble/">
+<title>A browser sniffing warning: The trouble with Acid3 and TinyMCE</title>
+<link>http://dev.opera.com/articles/view/a-browser-sniffing-warning-the-trouble/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T11:10:06Z</dc:date>
+<dc:subject>2008 JavaScript browsers bugs interesting maintenance programming todo:website toread webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/browsers" />
+    <rdf:li resource="http://del.icio.us/tag/bugs" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/maintenance" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/todo:website" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.useit.com/alertbox/20000319.html">
+<title>Usability Testing With 5 Users</title>
+<link>http://www.useit.com/alertbox/20000319.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T10:13:48Z</dc:date>
+<dc:subject>2000 JakobNielsen testing toread usability webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2000" />
+    <rdf:li resource="http://del.icio.us/tag/JakobNielsen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ericsink.com/scm/source_control.html">
+<title>Source Control HOWTO</title>
+<link>http://www.ericsink.com/scm/source_control.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T09:52:30Z</dc:date>
+<dc:subject>2004 EricSink SCM howto sourcecontrol toread tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sourcecontrol" />
+    <rdf:li resource="http://del.icio.us/tag/SCM" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2004" />
+    <rdf:li resource="http://del.icio.us/tag/EricSink" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001144.html">
+<title>Why Can't Microsoft Ship Open Source Software?</title>
+<link>http://www.codinghorror.com/blog/archives/001144.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-04T09:46:51Z</dc:date>
+<dc:subject>2008 JeffAtwood Microsoft business opensource read software strategy toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/JeffAtwood" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativetypes.blogspot.com/2008/01/exterminator-wanted-apparently-my-house.html">
+<title>Exterminator Wanted! Apparently My House Is Infested With Monsters</title>
+<link>http://creativetypes.blogspot.com/2008/01/exterminator-wanted-apparently-my-house.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-03T18:25:05Z</dc:date>
+<dc:subject>2008 funny humor kids read story toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/read" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python">
+<title>The Truth About Unicode In Python</title>
+<link>http://www.cmlenz.net/archives/2008/07/the-truth-about-unicode-in-python</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-03T18:22:43Z</dc:date>
+<dc:subject>ChristopherLenz Python Unicode development i18n programming software toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/Unicode" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/ChristopherLenz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.useit.com/alertbox/bounce-rates.html">
+<title>Reduce Bounce Rates: Fight for the Second Click</title>
+<link>http://www.useit.com/alertbox/bounce-rates.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-03T10:55:01Z</dc:date>
+<dc:subject>2008 JakobNielsen UX toread usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/JakobNielsen" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/UX" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.stackoverflow.com/2008/07/podcast-12/">
+<title>Podcast #12</title>
+<link>http://blog.stackoverflow.com/2008/07/podcast-12/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-03T07:40:13Z</dc:date>
+<dc:subject>2008 JeffAtwood JoelSpolsky programming tolisten</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/tolisten" />
+    <rdf:li resource="http://del.icio.us/tag/JeffAtwood" />
+    <rdf:li resource="http://del.icio.us/tag/JoelSpolsky" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001016.html">
+<title>Regular Expressions: Now You Have Two Problems</title>
+<link>http://www.codinghorror.com/blog/archives/001016.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-03T07:35:36Z</dc:date>
+<dc:subject>2008 JeffAtwood programming regex tips toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/JeffAtwood" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:29:45Z</dc:date>
+<dc:subject>2008 Linux bash commands shell tips toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.qdrum.co.za/about.htm">
+<title>Q-Drum - About</title>
+<link>http://www.qdrum.co.za/about.htm</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:28:26Z</dc:date>
+<dc:subject>Africa cool design innovation invention simple technology water wheel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/invention" />
+    <rdf:li resource="http://del.icio.us/tag/water" />
+    <rdf:li resource="http://del.icio.us/tag/Africa" />
+    <rdf:li resource="http://del.icio.us/tag/wheel" />
+    <rdf:li resource="http://del.icio.us/tag/simple" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/152/srinivasan.html">
+<title>A slightly advanced Introduction to Vim</title>
+<link>http://linuxgazette.net/152/srinivasan.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:22:02Z</dc:date>
+<dc:subject>editor tutorial vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eurogamer.net/article.php?article_id=160866">
+<title>Valve: Why the PC is the future</title>
+<link>http://www.eurogamer.net/article.php?article_id=160866</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:19:18Z</dc:date>
+<dc:subject>2008 Valve games gaming marketing toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/Valve" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whydoeseverythingsuck.com/2008/06/dreaming-of-better-user-interface.html">
+<title>Dreaming Of Better User Interface</title>
+<link>http://whydoeseverythingsuck.com/2008/06/dreaming-of-better-user-interface.html</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:08:34Z</dc:date>
+<dc:subject>2008 GUI HankWilliams design toread usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/HankWilliams" />
+    <rdf:li resource="http://del.icio.us/tag/GUI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/science/9-extraordinary-human-abilities/">
+<title>9 Extraordinary Human Abilities</title>
+<link>http://listverse.com/science/9-extraordinary-human-abilities/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:07:49Z</dc:date>
+<dc:subject>bestof biology evolution science sight sound taste toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/sight" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/taste" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neatorama.com/2008/06/27/how-to-torment-telemarketers-with-one-word/">
+<title>How to Torment Telemarketers with One Word</title>
+<link>http://www.neatorama.com/2008/06/27/how-to-torment-telemarketers-with-one-word/</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:06:36Z</dc:date>
+<dc:subject>2008 funny humor seen telemarketers tosee video yes &#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/telemarketers" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/yes" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755">
+<title>How to Get Into Any Club</title>
+<link>http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:06:07Z</dc:date>
+<dc:subject>DJ funny humor seen tosee video &#x2605;&#x2605;&#x2605;&#x2605;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/DJ" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/%E2%98%85%E2%98%85%E2%98%85%E2%98%85" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/seen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://filmonic.com/coolness-batman-vs-batman-vs-batman">
+<title>Batman vs. Batman vs. Batman</title>
+<link>http://filmonic.com/coolness-batman-vs-batman-vs-batman</link>
+<description></description>
+<dc:creator>engmark</dc:creator>
+<dc:date>2008-07-02T20:01:52Z</dc:date>
+<dc:subject>Batman humor tosee video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/Batman" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

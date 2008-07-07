@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/synaplex">
+<title>del.icio.us/synaplex</title>
+<link>http://del.icio.us/synaplex</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.google.com/patents?vid=USPAT6630507" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php" />
+  <rdf:li rdf:resource="http://barista.media2.org/?p=3481" />
+  <rdf:li rdf:resource="http://www.nybooks.com/articles/21616" />
+  <rdf:li rdf:resource="http://www.nybooks.com/nyrb/browse?subcategory_id=73" />
+  <rdf:li rdf:resource="http://www.hammock-company.com/detail.asp?id=4550&#x26;sku=ENO-DOUBLE-NEST&#x26;mode=ADD&#x26;prc=B000" />
+  <rdf:li rdf:resource="http://www.hammock-company.com/camping-hammocks.asp?s=ggl&#x26;c=camping&#x26;gclid=CLDx577RqpQCFQNfFQodkHdttA" />
+  <rdf:li rdf:resource="http://store.nexternal.com/shared/StoreFront/default.asp?CS=armynavy&#x26;StoreType=BtoC&#x26;Count1=483898341&#x26;Count2=401038765&#x26;ProductID=35&#x26;Target=products.asp" />
+  <rdf:li rdf:resource="http://www.amazon.com/Byer-Maine-Model-A4035-Hammock/dp/B00092M27I/ref=sr_1_13?ie=UTF8&#x26;s=garden&#x26;qid=1215324381&#x26;sr=1-13" />
+  <rdf:li rdf:resource="http://www.brookstone.com/store/product.asp?product_code=446468&#x26;wid=18&#x26;cid=1810&#x26;sid=181002&#x26;search_type=subcategory&#x26;prodtemp=t2&#x26;cm_re=MN*1810*446468" />
+  <rdf:li rdf:resource="http://www.gospelwire.com/" />
+  <rdf:li rdf:resource="http://www.thelatinlibrary.com/101/" />
+  <rdf:li rdf:resource="http://www.pioneerthinking.com/kw_teenbedroom.html" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2193363/" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.priory.com/psycont.htm" />
+  <rdf:li rdf:resource="http://www.priory.com/psychiatry/Psychiatric_rehabilitation.htm" />
+  <rdf:li rdf:resource="http://golly.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.realnudeart.com/" />
+  <rdf:li rdf:resource="http://www.liveink.com/LiveInkToGoReadingOnline.htm" />
+  <rdf:li rdf:resource="http://www.jetabroad.com/" />
+  <rdf:li rdf:resource="http://www.princetonol.com/groups/iad/lessons/middle/art-text.htm" />
+  <rdf:li rdf:resource="http://www.cybrary.org/medieval.htm" />
+  <rdf:li rdf:resource="http://bandb.about.com/cs/findnewyork/a/brooklyn.htm" />
+  <rdf:li rdf:resource="http://www.earthguild.com/products/cords/netsup.htm" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://spurious.typepad.com/spurious/2008/07/in-portugal-i-took-pictures-in-the-bookshop---of-the-covers-of-lispector-volumes-for-a-start-with-her-made-up-aqualine-fac.html" />
+  <rdf:li rdf:resource="http://www.theonion.com/content/node/52713" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://arts.guardian.co.uk/features/story/0,,1442784,00.html" />
+  <rdf:li rdf:resource="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.google.com/patents?vid=USPAT6630507">
+<title>Cannabinoids as antioxidants and ... - Google Patents</title>
+<link>http://www.google.com/patents?vid=USPAT6630507</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T07:11:23Z</dc:date>
+<dc:subject>herbs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/herbs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php">
+<title>Kevin Kelly -- The Technium</title>
+<link>http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T07:07:46Z</dc:date>
+<dc:subject>essay future ideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://barista.media2.org/?p=3481">
+<title>Barista &#xBB; Blog Archive &#xBB; for all the tea in india</title>
+<link>http://barista.media2.org/?p=3481</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:53:39Z</dc:date>
+<dc:subject>history tea</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tea" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nybooks.com/articles/21616">
+<title>Isn't It Funny? - The New York Review of Books</title>
+<link>http://www.nybooks.com/articles/21616</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:47:58Z</dc:date>
+<dc:subject>essay history humor philosophy psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nybooks.com/nyrb/browse?subcategory_id=73">
+<title>NYR Children's Collection - NYRB</title>
+<link>http://www.nybooks.com/nyrb/browse?subcategory_id=73</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:47:19Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hammock-company.com/detail.asp?id=4550&#x26;sku=ENO-DOUBLE-NEST&#x26;mode=ADD&#x26;prc=B000">
+<title>Eagles Nest Outffiters Double One Link Hammock System</title>
+<link>http://www.hammock-company.com/detail.asp?id=4550&#x26;sku=ENO-DOUBLE-NEST&#x26;mode=ADD&#x26;prc=B000</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:32:59Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hammock-company.com/camping-hammocks.asp?s=ggl&#x26;c=camping&#x26;gclid=CLDx577RqpQCFQNfFQodkHdttA">
+<title>Portable Camping Hammocks and Travel Hammock</title>
+<link>http://www.hammock-company.com/camping-hammocks.asp?s=ggl&#x26;c=camping&#x26;gclid=CLDx577RqpQCFQNfFQodkHdttA</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:31:20Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://store.nexternal.com/shared/StoreFront/default.asp?CS=armynavy&#x26;StoreType=BtoC&#x26;Count1=483898341&#x26;Count2=401038765&#x26;ProductID=35&#x26;Target=products.asp">
+<title>Vario Hammock Stand -- Barre Army/Navy Store Online Store</title>
+<link>http://store.nexternal.com/shared/StoreFront/default.asp?CS=armynavy&#x26;StoreType=BtoC&#x26;Count1=483898341&#x26;Count2=401038765&#x26;ProductID=35&#x26;Target=products.asp</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:24:43Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/Byer-Maine-Model-A4035-Hammock/dp/B00092M27I/ref=sr_1_13?ie=UTF8&#x26;s=garden&#x26;qid=1215324381&#x26;sr=1-13">
+<title>Byer of Maine Vario Hammock Stand:</title>
+<link>http://www.amazon.com/Byer-Maine-Model-A4035-Hammock/dp/B00092M27I/ref=sr_1_13?ie=UTF8&#x26;s=garden&#x26;qid=1215324381&#x26;sr=1-13</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:11:28Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brookstone.com/store/product.asp?product_code=446468&#x26;wid=18&#x26;cid=1810&#x26;sid=181002&#x26;search_type=subcategory&#x26;prodtemp=t2&#x26;cm_re=MN*1810*446468">
+<title>Brookstone: Hammock with stand package is perfect for lazy days. Order now!</title>
+<link>http://www.brookstone.com/store/product.asp?product_code=446468&#x26;wid=18&#x26;cid=1810&#x26;sid=181002&#x26;search_type=subcategory&#x26;prodtemp=t2&#x26;cm_re=MN*1810*446468</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:05:44Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gospelwire.com/">
+<title>Black Gospel Music GospelWire.com - Home</title>
+<link>http://www.gospelwire.com/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:04:25Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thelatinlibrary.com/101/">
+<title>Latin Handouts</title>
+<link>http://www.thelatinlibrary.com/101/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:03:48Z</dc:date>
+<dc:subject>history language texts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/texts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pioneerthinking.com/kw_teenbedroom.html">
+<title>Feng Shui Bedroom Basics for Teens</title>
+<link>http://www.pioneerthinking.com/kw_teenbedroom.html</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:02:46Z</dc:date>
+<dc:subject>china home living</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/living" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2193363/">
+<title>David Sedaris and his defenders. - By Jack Shafer - Slate Magazine</title>
+<link>http://www.slate.com/id/2193363/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T06:00:18Z</dc:date>
+<dc:subject>writers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T05:59:22Z</dc:date>
+<dc:subject>articles science time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.priory.com/psycont.htm">
+<title>Psychiatry On-Line - Contents - Psychiatry Papers</title>
+<link>http://www.priory.com/psycont.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:28:11Z</dc:date>
+<dc:subject>articles online psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.priory.com/psychiatry/Psychiatric_rehabilitation.htm">
+<title>Psychiatric_rehabilitation</title>
+<link>http://www.priory.com/psychiatry/Psychiatric_rehabilitation.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:27:35Z</dc:date>
+<dc:subject>health psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://golly.sourceforge.net/">
+<title>Golly Game of Life Home Page</title>
+<link>http://golly.sourceforge.net/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:26:25Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.realnudeart.com/">
+<title>Real Nude Art</title>
+<link>http://www.realnudeart.com/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:26:03Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.liveink.com/LiveInkToGoReadingOnline.htm">
+<title>Live Ink</title>
+<link>http://www.liveink.com/LiveInkToGoReadingOnline.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:24:49Z</dc:date>
+<dc:subject>online tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jetabroad.com/">
+<title>Cheap Flights, International Flights - Jetabroad</title>
+<link>http://www.jetabroad.com/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:23:46Z</dc:date>
+<dc:subject>airfare budget travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/budget" />
+    <rdf:li resource="http://del.icio.us/tag/airfare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.princetonol.com/groups/iad/lessons/middle/art-text.htm">
+<title>Art with Text</title>
+<link>http://www.princetonol.com/groups/iad/lessons/middle/art-text.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:23:15Z</dc:date>
+<dc:subject>art artist text words</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/words" />
+    <rdf:li resource="http://del.icio.us/tag/artist" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cybrary.org/medieval.htm">
+<title>Medieval Life [Middle Ages]</title>
+<link>http://www.cybrary.org/medieval.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:22:44Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bandb.about.com/cs/findnewyork/a/brooklyn.htm">
+<title>Brooklyn Bed and Breakfasts - New York City</title>
+<link>http://bandb.about.com/cs/findnewyork/a/brooklyn.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:22:04Z</dc:date>
+<dc:subject>nyc travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/nyc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.earthguild.com/products/cords/netsup.htm">
+<title>Materials for Hammock and Net Making</title>
+<link>http://www.earthguild.com/products/cords/netsup.htm</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:18:38Z</dc:date>
+<dc:subject>hammock</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hammock" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T02:14:00Z</dc:date>
+<dc:subject>diagram poster science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spurious.typepad.com/spurious/2008/07/in-portugal-i-took-pictures-in-the-bookshop---of-the-covers-of-lispector-volumes-for-a-start-with-her-made-up-aqualine-fac.html">
+<title>the hammock</title>
+<link>http://spurious.typepad.com/spurious/2008/07/in-portugal-i-took-pictures-in-the-bookshop---of-the-covers-of-lispector-volumes-for-a-start-with-her-made-up-aqualine-fac.html</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T01:58:28Z</dc:date>
+<dc:subject>essay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theonion.com/content/node/52713">
+<title>Picture Of Lemur Printed For No Goddamned Reason</title>
+<link>http://www.theonion.com/content/node/52713</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-06T01:56:37Z</dc:date>
+<dc:subject>images photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-05T18:06:20Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arts.guardian.co.uk/features/story/0,,1442784,00.html">
+<title>Tom Waits on his cherished albums of all time | | guardian.co.uk Arts</title>
+<link>http://arts.guardian.co.uk/features/story/0,,1442784,00.html</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-05T18:06:11Z</dc:date>
+<dc:subject>cool music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html">
+<title>PC World - How to Build a Blog With WordPress</title>
+<link>http://www.pcworld.com/article/147459/how_to_build_a_blog_with_wordpress.html</link>
+<description></description>
+<dc:creator>synaplex</dc:creator>
+<dc:date>2008-07-05T18:05:52Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

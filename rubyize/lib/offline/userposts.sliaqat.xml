@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sliaqat">
+<title>del.icio.us/sliaqat</title>
+<link>http://del.icio.us/sliaqat</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/" />
+  <rdf:li rdf:resource="http://www.ifxplus.com/post/More-than-100-Web-20-Online-Generators.aspx" />
+  <rdf:li rdf:resource="http://www.solutionwatch.com/512/back-to-school-with-the-class-of-web-20-part-1/" />
+  <rdf:li rdf:resource="http://www.ikiw.org/" />
+  <rdf:li rdf:resource="http://www.submitarchive.com/upload/pictures_from_the_sky.php" />
+  <rdf:li rdf:resource="http://www.google.com/educators/6_12.html" />
+  <rdf:li rdf:resource="http://www.wirewize.com/" />
+  <rdf:li rdf:resource="http://wordle.net/" />
+  <rdf:li rdf:resource="http://kindo.com/" />
+  <rdf:li rdf:resource="http://www.freedback.com/index.php" />
+  <rdf:li rdf:resource="http://www.4shared.com/" />
+  <rdf:li rdf:resource="http://www.eufeeds.eu/" />
+  <rdf:li rdf:resource="http://www.bucksict.org.uk/Index.htm" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php" />
+  <rdf:li rdf:resource="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/06/google-spreadsheets-tips-gantt-chart.html" />
+  <rdf:li rdf:resource="http://www.editgrid.com/home" />
+  <rdf:li rdf:resource="http://google-d-s.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.webware.com/8301-1_109-9732473-2.html?part=rss&#x26;tag=feed&#x26;subj=Webware" />
+  <rdf:li rdf:resource="http://documents.google.com/support/spreadsheets/bin/answer.py?answer=54199" />
+  <rdf:li rdf:resource="http://gmaps-samples.googlecode.com/svn/trunk/spreadsheetsmapwizard/makecustommap.htm" />
+  <rdf:li rdf:resource="http://www.google.com/googlespreadsheets/tour1.html" />
+  <rdf:li rdf:resource="http://docs.google.com/?pli=1" />
+  <rdf:li rdf:resource="http://spreadsheets.google.com/" />
+  <rdf:li rdf:resource="http://googledocs.blogspot.com/2008/02/stop-sharing-spreadsheets-start.html" />
+  <rdf:li rdf:resource="http://www.westberks.org/GroupHomepage.asp?GroupId=37124" />
+  <rdf:li rdf:resource="http://www.mrpearce.co.uk/ocr_nationals.html" />
+  <rdf:li rdf:resource="http://www.boltontlc.org.uk/index.php?option=com_docman&#x26;task=cat_view&#x26;Itemid=99999999&#x26;gid=67" />
+  <rdf:li rdf:resource="http://www.hulltrinity.net/curriculum/ICT/OCRNationalsinICT.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-07-06T11:16:50Z</dc:date>
+<dc:subject>xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-07-06T11:14:09Z</dc:date>
+<dc:subject>conversion web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/">
+<title>50 Must-Read Up and Coming Blogs by Teachers | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-07-02T18:42:09Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifxplus.com/post/More-than-100-Web-20-Online-Generators.aspx">
+<title>More than 100 Web 2.0 Online Generators</title>
+<link>http://www.ifxplus.com/post/More-than-100-Web-20-Online-Generators.aspx</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-07-01T22:25:54Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solutionwatch.com/512/back-to-school-with-the-class-of-web-20-part-1/">
+<title>Back to School with the Class of Web 2.0: Part 1</title>
+<link>http://www.solutionwatch.com/512/back-to-school-with-the-class-of-web-20-part-1/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-07-01T22:20:15Z</dc:date>
+<dc:subject>education web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ikiw.org/">
+<title>grow your own wiki</title>
+<link>http://www.ikiw.org/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:44:09Z</dc:date>
+<dc:subject>education web2.0 wikis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikis" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.submitarchive.com/upload/pictures_from_the_sky.php">
+<title>Pictures From the Sky</title>
+<link>http://www.submitarchive.com/upload/pictures_from_the_sky.php</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:42:53Z</dc:date>
+<dc:subject>pictures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/educators/6_12.html">
+<title>cross curricular elearning</title>
+<link>http://www.google.com/educators/6_12.html</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:27:27Z</dc:date>
+<dc:subject>education elearning web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wirewize.com/">
+<title>Wirewize - Welcome!</title>
+<link>http://www.wirewize.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:21:24Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:12:41Z</dc:date>
+<dc:subject>LPICT cloud education english starter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/starter" />
+    <rdf:li resource="http://del.icio.us/tag/LPICT" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kindo.com/">
+<title>Free family tree - Genealogy - Welcome to the family - Kindo</title>
+<link>http://kindo.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:04:25Z</dc:date>
+<dc:subject>family familytree web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/familytree" />
+    <rdf:li resource="http://del.icio.us/tag/family" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freedback.com/index.php">
+<title>HTML forms can be as simple as &#x22;Copy and Paste&#x22;</title>
+<link>http://www.freedback.com/index.php</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-28T21:03:43Z</dc:date>
+<dc:subject>Survey WEBDESIGN web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Survey" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/WEBDESIGN" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.4shared.com/">
+<title>4shared.com - free file sharing and storage</title>
+<link>http://www.4shared.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T17:10:29Z</dc:date>
+<dc:subject>storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eufeeds.eu/">
+<title>eufeeds - over 300 newspapers, updated every 20 minutes</title>
+<link>http://www.eufeeds.eu/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T10:59:39Z</dc:date>
+<dc:subject>newspapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newspapers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bucksict.org.uk/Index.htm">
+<title>KS2 / 3 ICT Bucks</title>
+<link>http://www.bucksict.org.uk/Index.htm</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T10:59:02Z</dc:date>
+<dc:subject>ICT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php">
+<title>4+ Ways to Quickly Create Excellent Presentations Online - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/4_ways_to_quickly_create_excellenct_presentations_online.php</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T10:58:29Z</dc:date>
+<dc:subject>powerpoint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/">
+<title>25 Beautiful Fantasy Photoshop Tutorials | PhotoshopTalent Blog</title>
+<link>http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T10:57:54Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/06/google-spreadsheets-tips-gantt-chart.html">
+<title>woork: Google Spreadsheets Tips: Gantt Chart (Microsoft Project-like) using Widget</title>
+<link>http://woork.blogspot.com/2008/06/google-spreadsheets-tips-gantt-chart.html</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:53:14Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.editgrid.com/home">
+<title>Online Spreadsheets - EditGrid</title>
+<link>http://www.editgrid.com/home</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:52:44Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-d-s.blogspot.com/">
+<title>Official Google Docs &#x26; Spreadsheets Blog</title>
+<link>http://google-d-s.blogspot.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:47Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webware.com/8301-1_109-9732473-2.html?part=rss&#x26;tag=feed&#x26;subj=Webware">
+<title>5 things you probably didn't know you could do in Google Docs &#x26; Spreadsheets | Webware : Cool Web apps for everyone</title>
+<link>http://www.webware.com/8301-1_109-9732473-2.html?part=rss&#x26;tag=feed&#x26;subj=Webware</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:41Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://documents.google.com/support/spreadsheets/bin/answer.py?answer=54199">
+<title>Google Docs Help Center - How can I use spreadsheets to answer some of my many questions about the world?</title>
+<link>http://documents.google.com/support/spreadsheets/bin/answer.py?answer=54199</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:36Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmaps-samples.googlecode.com/svn/trunk/spreadsheetsmapwizard/makecustommap.htm">
+<title>http://gmaps-samples.googlecode.com/svn/trunk/spreadsheetsmapwizard/makecustommap.htm</title>
+<link>http://gmaps-samples.googlecode.com/svn/trunk/spreadsheetsmapwizard/makecustommap.htm</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:31Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/googlespreadsheets/tour1.html">
+<title>Google Spreadsheets - Sneak Peek</title>
+<link>http://www.google.com/googlespreadsheets/tour1.html</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:26Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/?pli=1">
+<title>Google Docs &#x26; Spreadsheets</title>
+<link>http://docs.google.com/?pli=1</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:51:18Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spreadsheets.google.com/">
+<title>Google Spreadsheets</title>
+<link>http://spreadsheets.google.com/</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:49:49Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googledocs.blogspot.com/2008/02/stop-sharing-spreadsheets-start.html">
+<title>Official Google Docs Blog: Stop sharing spreadsheets, start collecting information</title>
+<link>http://googledocs.blogspot.com/2008/02/stop-sharing-spreadsheets-start.html</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:49:40Z</dc:date>
+<dc:subject>Google_Docs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google_Docs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.westberks.org/GroupHomepage.asp?GroupId=37124">
+<title>mostly OCR scenarios</title>
+<link>http://www.westberks.org/GroupHomepage.asp?GroupId=37124</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:45:45Z</dc:date>
+<dc:subject>OCR</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/OCR" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mrpearce.co.uk/ocr_nationals.html">
+<title>some really great resources</title>
+<link>http://www.mrpearce.co.uk/ocr_nationals.html</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:44:31Z</dc:date>
+<dc:subject>ocr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ocr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boltontlc.org.uk/index.php?option=com_docman&#x26;task=cat_view&#x26;Itemid=99999999&#x26;gid=67">
+<title>Various resources from Bolton</title>
+<link>http://www.boltontlc.org.uk/index.php?option=com_docman&#x26;task=cat_view&#x26;Itemid=99999999&#x26;gid=67</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:43:50Z</dc:date>
+<dc:subject>ocr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ocr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hulltrinity.net/curriculum/ICT/OCRNationalsinICT.htm">
+<title>Unit 20 animation</title>
+<link>http://www.hulltrinity.net/curriculum/ICT/OCRNationalsinICT.htm</link>
+<description></description>
+<dc:creator>sliaqat</dc:creator>
+<dc:date>2008-06-24T06:42:21Z</dc:date>
+<dc:subject>ocr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ocr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

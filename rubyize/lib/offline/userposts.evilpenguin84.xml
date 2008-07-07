@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/evilpenguin84">
+<title>del.icio.us/evilpenguin84</title>
+<link>http://del.icio.us/evilpenguin84</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.audiosonica.com/it/" />
+  <rdf:li rdf:resource="http://www.mameworld.net/maws/" />
+  <rdf:li rdf:resource="http://www.retrogames.com/" />
+  <rdf:li rdf:resource="http://www.emunews.eu/files.htm" />
+  <rdf:li rdf:resource="http://www.emulation64.com/" />
+  <rdf:li rdf:resource="http://www.maximumpc.com/article/How-To--Slipstream-your-XP-installation" />
+  <rdf:li rdf:resource="http://cdcovers.to/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/edu/x-dw-x-introxpath1.html" />
+  <rdf:li rdf:resource="http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/" />
+  <rdf:li rdf:resource="http://www.kwippy.com/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://textbooktorrents.com/index.php" />
+  <rdf:li rdf:resource="http://edutechwiki.unige.ch/en/Main_Page" />
+  <rdf:li rdf:resource="http://www.blifaloo.com/info/lies.php" />
+  <rdf:li rdf:resource="http://www.themathpage.com/" />
+  <rdf:li rdf:resource="http://ocw.mit.edu/OcwWeb/web/courses/courses/index.htm" />
+  <rdf:li rdf:resource="http://ask.metafilter.com/71101/What-single-book-is-the-best-introduction-to-your-field-or-specialization-within-your-field-for-laypeople" />
+  <rdf:li rdf:resource="http://www.vconversion.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/geek-to-live/geek-to-live-my-favorite-greasemonkey-user-scripts-143499.php" />
+  <rdf:li rdf:resource="http://www.freesoftwaremagazine.com/articles/home_automation_in_linux" />
+  <rdf:li rdf:resource="http://www.muzic.com/" />
+  <rdf:li rdf:resource="http://www.gooifier.com/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1" />
+  <rdf:li rdf:resource="http://www.dlib.org/dlib/january06/guy/01guy.html" />
+  <rdf:li rdf:resource="http://www.mobygratis.com/film-music.html" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/blogging-related-logos-in-high-resolution/" />
+  <rdf:li rdf:resource="http://liftmagic.com/" />
+  <rdf:li rdf:resource="http://planetozh.com/blog/2008/07/what-plugin-coders-must-know-about-wordpress-26/" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.audiosonica.com/it/">
+<title>Audiosonica - Ingegneria del suono -</title>
+<link>http://www.audiosonica.com/it/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T11:33:27Z</dc:date>
+<dc:subject>audio course italian music sound tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+    <rdf:li resource="http://del.icio.us/tag/italian" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mameworld.net/maws/">
+<title>MAWS - searchable information about resources in MAME&#x2122; .125u9</title>
+<link>http://www.mameworld.net/maws/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T11:28:11Z</dc:date>
+<dc:subject>arcade database emulation games library list mame nostalgia reference retrogames roms search videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mame" />
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/arcade" />
+    <rdf:li resource="http://del.icio.us/tag/roms" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/retrogames" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/nostalgia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.retrogames.com/">
+<title>&#xA0;[ Retrogames ] - Your ONE STOP emulation site!</title>
+<link>http://www.retrogames.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T11:25:19Z</dc:date>
+<dc:subject>arcade consoles emulation emulators games mame news nostalgia retro retrogames retrogaming videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/retro" />
+    <rdf:li resource="http://del.icio.us/tag/mame" />
+    <rdf:li resource="http://del.icio.us/tag/arcade" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/emulators" />
+    <rdf:li resource="http://del.icio.us/tag/consoles" />
+    <rdf:li resource="http://del.icio.us/tag/nostalgia" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+    <rdf:li resource="http://del.icio.us/tag/retrogaming" />
+    <rdf:li resource="http://del.icio.us/tag/retrogames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emunews.eu/files.htm">
+<title>BraiNKilleR's Arcade Emunews - MAME BIOS</title>
+<link>http://www.emunews.eu/files.htm</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T11:21:56Z</dc:date>
+<dc:subject>BIOS arcade download emulation games mame roms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mame" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/BIOS" />
+    <rdf:li resource="http://del.icio.us/tag/roms" />
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/arcade" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emulation64.com/">
+<title>The Emulation64 Network - NextGen and Retro Emulation News and Support</title>
+<link>http://www.emulation64.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T11:17:37Z</dc:date>
+<dc:subject>N64 download emulation emulator emulators games gaming news nintendo_64 retro</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emulation" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/emulator" />
+    <rdf:li resource="http://del.icio.us/tag/emulators" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/N64" />
+    <rdf:li resource="http://del.icio.us/tag/retro" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/nintendo_64" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maximumpc.com/article/How-To--Slipstream-your-XP-installation">
+<title>How To: Slipstream your XP installation | Maximum PC</title>
+<link>http://www.maximumpc.com/article/How-To--Slipstream-your-XP-installation</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:32:47Z</dc:date>
+<dc:subject>XP hack howto install installation slipstream windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/XP" />
+    <rdf:li resource="http://del.icio.us/tag/slipstream" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/installation" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cdcovers.to/">
+<title>CDcovers.to - cd and dvd covers search</title>
+<link>http://cdcovers.to/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:31:33Z</dc:date>
+<dc:subject>CD Covers albumart cdcovers cover download dvd free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Covers" />
+    <rdf:li resource="http://del.icio.us/tag/CD" />
+    <rdf:li resource="http://del.icio.us/tag/cdcovers" />
+    <rdf:li resource="http://del.icio.us/tag/cover" />
+    <rdf:li resource="http://del.icio.us/tag/albumart" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/edu/x-dw-x-introxpath1.html">
+<title>Locate specific sections of your XML documents with XPath, Part 1</title>
+<link>http://www.ibm.com/developerworks/edu/x-dw-x-introxpath1.html</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:18:09Z</dc:date>
+<dc:subject>tutorial xml xpath xsl xslt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/xpath" />
+    <rdf:li resource="http://del.icio.us/tag/xslt" />
+    <rdf:li resource="http://del.icio.us/tag/xsl" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/">
+<title>Developing web application with PHP-MySql-Apache in Ubuntu Linux | ajaXray</title>
+<link>http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:06:32Z</dc:date>
+<dc:subject>development linux mysql php programming tools ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kwippy.com/">
+<title>kwippy - home</title>
+<link>http://www.kwippy.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:06:24Z</dc:date>
+<dc:subject>blogging cool im microblogging microblogs project python twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/microblogs" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/im" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:06:01Z</dc:date>
+<dc:subject>ebooks education free java oop programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-06T10:05:47Z</dc:date>
+<dc:subject>freeware installation opensource software tips tweaks windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/installation" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://textbooktorrents.com/index.php">
+<title>Textbook Torrents : Download Textbooks For Free</title>
+<link>http://textbooktorrents.com/index.php</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:24:48Z</dc:date>
+<dc:subject>bittorrent ebooks education p2p torrents</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/torrents" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edutechwiki.unige.ch/en/Main_Page">
+<title>Main Page - EduTech Wiki</title>
+<link>http://edutechwiki.unige.ch/en/Main_Page</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:23:02Z</dc:date>
+<dc:subject>Web2.0 education learning online resources technology wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blifaloo.com/info/lies.php">
+<title>How to detect lies - body language, reactions, speech patterns</title>
+<link>http://www.blifaloo.com/info/lies.php</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:20:52Z</dc:date>
+<dc:subject>body communication detection emotion expressions face howto interesting language lies lifehacks psychology reference social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/lies" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/body" />
+    <rdf:li resource="http://del.icio.us/tag/detection" />
+    <rdf:li resource="http://del.icio.us/tag/emotion" />
+    <rdf:li resource="http://del.icio.us/tag/expressions" />
+    <rdf:li resource="http://del.icio.us/tag/face" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.themathpage.com/">
+<title>TheMathPage: Arithmetic. Algebra. Trigonometry. Precalculus.</title>
+<link>http://www.themathpage.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:19:24Z</dc:date>
+<dc:subject>algebra education learning math mathematics reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/algebra" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ocw.mit.edu/OcwWeb/web/courses/courses/index.htm">
+<title>Free Online Course Materials | Courses | MIT OpenCourseWare</title>
+<link>http://ocw.mit.edu/OcwWeb/web/courses/courses/index.htm</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:19:11Z</dc:date>
+<dc:subject>courses courseware education free learning lessons mit online resources teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/courseware" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/lessons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ask.metafilter.com/71101/What-single-book-is-the-best-introduction-to-your-field-or-specialization-within-your-field-for-laypeople">
+<title>What single book is the best introduction to your field (or specialization within your field) for laypeople? | Ask Metafilter</title>
+<link>http://ask.metafilter.com/71101/What-single-book-is-the-best-introduction-to-your-field-or-specialization-within-your-field-for-laypeople</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T21:17:31Z</dc:date>
+<dc:subject>books education learning metafilter reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/metafilter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vconversion.com/">
+<title>YouTube Converter - Convert Online YouTube Videos - Download YouTube video - Online YouTube converter</title>
+<link>http://www.vconversion.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T20:57:29Z</dc:date>
+<dc:subject>conversion download online tools video webtools youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webtools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/geek-to-live/geek-to-live-my-favorite-greasemonkey-user-scripts-143499.php">
+<title>Geek to Live: My favorite Greasemonkey user scripts</title>
+<link>http://lifehacker.com/software/geek-to-live/geek-to-live-my-favorite-greasemonkey-user-scripts-143499.php</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T20:46:10Z</dc:date>
+<dc:subject>del.icio.us firefox greasemonkey hacks lifehacker lifehacks scripts tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/greasemonkey" />
+    <rdf:li resource="http://del.icio.us/tag/scripts" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freesoftwaremagazine.com/articles/home_automation_in_linux">
+<title>Home automation in GNU/Linux</title>
+<link>http://www.freesoftwaremagazine.com/articles/home_automation_in_linux</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T19:26:22Z</dc:date>
+<dc:subject>automation home home_automation htpc linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/automation" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/htpc" />
+    <rdf:li resource="http://del.icio.us/tag/home_automation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.muzic.com/">
+<title>muzic - Free music now!</title>
+<link>http://www.muzic.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T19:17:43Z</dc:date>
+<dc:subject>Multimedia audio download free mp3 music sounds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/sounds" />
+    <rdf:li resource="http://del.icio.us/tag/Multimedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gooifier.com/">
+<title>Public Gallery | gooifier.com</title>
+<link>http://www.gooifier.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T19:16:46Z</dc:date>
+<dc:subject>flash fun image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T19:16:41Z</dc:date>
+<dc:subject>conversion converters media software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/converters" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1">
+<title>Dashboards, Reports and Business Intelligence Applications by SiSense</title>
+<link>http://www.sisense.com/default.aspx?AspxAutoDetectCookieSupport=1</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T19:16:35Z</dc:date>
+<dc:subject>S3 amazon analysis analytics aws statistics visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/S3" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dlib.org/dlib/january06/guy/01guy.html">
+<title>Folksonomies: Tidying up Tags?</title>
+<link>http://www.dlib.org/dlib/january06/guy/01guy.html</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T18:33:29Z</dc:date>
+<dc:subject>analysis articles del.icio.us folksonomies metadata research semantic_web tagging tags</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/folksonomies" />
+    <rdf:li resource="http://del.icio.us/tag/tags" />
+    <rdf:li resource="http://del.icio.us/tag/tagging" />
+    <rdf:li resource="http://del.icio.us/tag/metadata" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/semantic_web" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mobygratis.com/film-music.html">
+<title>film music | mobygratis.com</title>
+<link>http://www.mobygratis.com/film-music.html</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T15:55:14Z</dc:date>
+<dc:subject>film filmmaking free moby music sound video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/moby" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/filmmaking" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/blogging-related-logos-in-high-resolution/">
+<title>Blogging Related Logos In High Resolution</title>
+<link>http://www.hongkiat.com/blog/blogging-related-logos-in-high-resolution/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T14:14:59Z</dc:date>
+<dc:subject>design inspiration logo logos web2.0 wordpress wp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/logo" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/logos" />
+    <rdf:li resource="http://del.icio.us/tag/wp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://liftmagic.com/">
+<title>Liftmagic</title>
+<link>http://liftmagic.com/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T14:14:54Z</dc:date>
+<dc:subject>fun online photo photography photos surgery tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/surgery" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://planetozh.com/blog/2008/07/what-plugin-coders-must-know-about-wordpress-26/">
+<title>What Plugin Coders Must Know About WordPress 2.6 &#xAB; planetOzh</title>
+<link>http://planetozh.com/blog/2008/07/what-plugin-coders-must-know-about-wordpress-26/</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T14:14:35Z</dc:date>
+<dc:subject>code php plugin plugins programming wordpress wordpress_2.6</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress_2.6" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>evilpenguin84</dc:creator>
+<dc:date>2008-07-05T09:45:28Z</dc:date>
+<dc:subject>howto linux optimization performance speed tips ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/speed" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

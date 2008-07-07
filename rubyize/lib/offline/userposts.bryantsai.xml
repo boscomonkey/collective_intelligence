@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/bryantsai">
+<title>del.icio.us/bryantsai</title>
+<link>http://del.icio.us/bryantsai</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://fringe.tap.ibm.com/fringe4/" />
+  <rdf:li rdf:resource="http://homepage.mac.com/cjgibbons/Downloads.htm" />
+  <rdf:li rdf:resource="http://www-03.ibm.com/systems/p/os/aix/linux/toolbox/download.html" />
+  <rdf:li rdf:resource="http://homepage.mac.com/cjgibbons/rubyonaixhowto/t1.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/websphere/library/techarticles/0807_lang/0807_lang.html?ca=drs-" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-aixoracle/index.html?ca=drs-tp2608" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/" />
+  <rdf:li rdf:resource="http://regexpal.com/" />
+  <rdf:li rdf:resource="http://w3-03.ibm.com/transform/project/education/basic_education_list.html#methods_tools" />
+  <rdf:li rdf:resource="http://utsl.gen.nz/talks/git-svn/intro.html" />
+  <rdf:li rdf:resource="http://www.malhar.net/sriram/kilim/" />
+  <rdf:li rdf:resource="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html" />
+  <rdf:li rdf:resource="http://www.ruby-doc.org/core/" />
+  <rdf:li rdf:resource="http://help.sap.com/content/documentation/erp/docu_sbs_erp.htm" />
+  <rdf:li rdf:resource="http://help.sap.com/saphelp_erp60_sp/helpdata/en/e1/8e51341a06084de10000009b38f83b/frameset.htm" />
+  <rdf:li rdf:resource="http://help.sap.com/content/documentation/r3/docu_sbs_r3_470.htm" />
+  <rdf:li rdf:resource="http://help.sap.com/" />
+  <rdf:li rdf:resource="https://w3.tap.ibm.com/w3ki/display/widWiki/WBI%20Performance%20Analysis" />
+  <rdf:li rdf:resource="http://www-306.ibm.com/software/integration/wbiadapters/" />
+  <rdf:li rdf:resource="http://www-306.ibm.com/software/integration/wbiadapters/bysvr/" />
+  <rdf:li rdf:resource="http://www.kernel.org/pub/software/scm/git/docs/user-manual.html" />
+  <rdf:li rdf:resource="http://wiki.dreamhost.com/Git" />
+  <rdf:li rdf:resource="http://www.tpis.nat.gov.tw/Internet/PARKI01/index.jsp" />
+  <rdf:li rdf:resource="http://www.dodohome.com.tw/dodohome.asp" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/linux/library/l-htl/" />
+  <rdf:li rdf:resource="http://cqislweb.in.ibm.com/cqweb/login" />
+  <rdf:li rdf:resource="http://www.redbooks.ibm.com/redpieces/abstracts/redp4431.html?Open" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2007/11/ibm-sap" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-06T00:47:21Z</dc:date>
+<dc:subject>java performance scalability todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fringe.tap.ibm.com/fringe4/">
+<title>Fringe4</title>
+<link>http://fringe.tap.ibm.com/fringe4/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-04T02:24:06Z</dc:date>
+<dc:subject>ibmw3 socialsoftware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibmw3" />
+    <rdf:li resource="http://del.icio.us/tag/socialsoftware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage.mac.com/cjgibbons/Downloads.htm">
+<title>Downloads</title>
+<link>http://homepage.mac.com/cjgibbons/Downloads.htm</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-03T05:34:55Z</dc:date>
+<dc:subject>aix ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aix" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-03.ibm.com/systems/p/os/aix/linux/toolbox/download.html">
+<title>IBM AIX Toolbox Download Page - Alphabetical Listing</title>
+<link>http://www-03.ibm.com/systems/p/os/aix/linux/toolbox/download.html</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-03T00:13:12Z</dc:date>
+<dc:subject>aix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage.mac.com/cjgibbons/rubyonaixhowto/t1.html">
+<title>Ruby on AIX HOWTO</title>
+<link>http://homepage.mac.com/cjgibbons/rubyonaixhowto/t1.html</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T23:29:14Z</dc:date>
+<dc:subject>aix ruby todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/aix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/websphere/library/techarticles/0807_lang/0807_lang.html?ca=drs-">
+<title>IBM WebSphere Portal: Performance testing and analysis</title>
+<link>http://www.ibm.com/developerworks/websphere/library/techarticles/0807_lang/0807_lang.html?ca=drs-</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T14:36:36Z</dc:date>
+<dc:subject>capacity performance todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/capacity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-aixoracle/index.html?ca=drs-tp2608">
+<title>Running Oracle on AIX</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-aixoracle/index.html?ca=drs-tp2608</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T14:33:02Z</dc:date>
+<dc:subject>aix orcale todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/orcale" />
+    <rdf:li resource="http://del.icio.us/tag/aix" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608">
+<title>Robust Java benchmarking, Part 1: Issues</title>
+<link>http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T14:32:55Z</dc:date>
+<dc:subject>java performance todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/">
+<title>Extreme regex foo: what you need to know to become a regular expression pro - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T07:52:26Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/">
+<title>5 Regular Expressions Every Web Programmer Should Know - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/04/06/5-regular-expressions-every-web-programmer-should-know/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T07:52:26Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://regexpal.com/">
+<title>Regex Tester &#x2013; RegexPal</title>
+<link>http://regexpal.com/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T07:46:09Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://w3-03.ibm.com/transform/project/education/basic_education_list.html#methods_tools">
+<title>PM Basic Education Courses</title>
+<link>http://w3-03.ibm.com/transform/project/education/basic_education_list.html#methods_tools</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-07-02T01:56:45Z</dc:date>
+<dc:subject>ibmw3 learning project_management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibmw3" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/project_management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://utsl.gen.nz/talks/git-svn/intro.html">
+<title>An introduction to git-svn for Subversion/SVK users and deserters</title>
+<link>http://utsl.gen.nz/talks/git-svn/intro.html</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-29T04:04:02Z</dc:date>
+<dc:subject>git svn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.malhar.net/sriram/kilim/">
+<title>Kilim</title>
+<link>http://www.malhar.net/sriram/kilim/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-29T02:39:33Z</dc:date>
+<dc:subject>concurrency java messaging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html">
+<title>BASH Programming - Introduction HOW-TO</title>
+<link>http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-29T00:23:17Z</dc:date>
+<dc:subject>bash shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ruby-doc.org/core/">
+<title>RDoc Documentation</title>
+<link>http://www.ruby-doc.org/core/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-29T00:10:53Z</dc:date>
+<dc:subject>rubydoc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rubydoc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.sap.com/content/documentation/erp/docu_sbs_erp.htm">
+<title>SAP ERP - SAP ERP Central Component</title>
+<link>http://help.sap.com/content/documentation/erp/docu_sbs_erp.htm</link>
+<description>ecc</description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-26T09:14:59Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.sap.com/saphelp_erp60_sp/helpdata/en/e1/8e51341a06084de10000009b38f83b/frameset.htm">
+<title>SAP Library - SAP ERP Central Component</title>
+<link>http://help.sap.com/saphelp_erp60_sp/helpdata/en/e1/8e51341a06084de10000009b38f83b/frameset.htm</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-26T09:14:22Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.sap.com/content/documentation/r3/docu_sbs_r3_470.htm">
+<title>SAP Business Suite - SAP R/3 Release 4.70</title>
+<link>http://help.sap.com/content/documentation/r3/docu_sbs_r3_470.htm</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-26T08:37:34Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.sap.com/">
+<title>SAP Help Portal</title>
+<link>http://help.sap.com/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-26T08:37:31Z</dc:date>
+<dc:subject>sap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://w3.tap.ibm.com/w3ki/display/widWiki/WBI%20Performance%20Analysis">
+<title>WBI Performance Analysis - WID Wiki - w3ki</title>
+<link>https://w3.tap.ibm.com/w3ki/display/widWiki/WBI%20Performance%20Analysis</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-24T13:28:14Z</dc:date>
+<dc:subject>ibmw3 performance todo wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/ibmw3" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-306.ibm.com/software/integration/wbiadapters/">
+<title>IBM - WebSphere Adapters - Family Overview</title>
+<link>http://www-306.ibm.com/software/integration/wbiadapters/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-23T22:27:45Z</dc:date>
+<dc:subject>websphere_adapters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/websphere_adapters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-306.ibm.com/software/integration/wbiadapters/bysvr/">
+<title>IBM - WebSphere Adapters - Adapters by Server</title>
+<link>http://www-306.ibm.com/software/integration/wbiadapters/bysvr/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-23T22:25:56Z</dc:date>
+<dc:subject>websphere_adapters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/websphere_adapters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kernel.org/pub/software/scm/git/docs/user-manual.html">
+<title>Git User's Manual (for version 1.5.3 or newer)</title>
+<link>http://www.kernel.org/pub/software/scm/git/docs/user-manual.html</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-22T22:21:56Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.dreamhost.com/Git">
+<title>Git - DreamHost</title>
+<link>http://wiki.dreamhost.com/Git</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-22T06:14:33Z</dc:date>
+<dc:subject>dreamhost git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dreamhost" />
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tpis.nat.gov.tw/Internet/PARKI01/index.jsp">
+<title>&#x53F0;&#x5317;&#x5E02;&#x505C;&#x8ECA;&#x8CC7;&#x8A0A;&#x5C0E;&#x5F15;&#x7CFB;&#x7D71;</title>
+<link>http://www.tpis.nat.gov.tw/Internet/PARKI01/index.jsp</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-21T03:26:18Z</dc:date>
+<dc:subject>parking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/parking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dodohome.com.tw/dodohome.asp">
+<title>&#x4E2D;&#x8208;&#x561F;&#x561F;&#x623F;&#x505C;&#x8ECA;&#x7DB2;</title>
+<link>http://www.dodohome.com.tw/dodohome.asp</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-21T03:17:47Z</dc:date>
+<dc:subject>parking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/parking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/linux/library/l-htl/">
+<title>Hyper-Threading speeds Linux</title>
+<link>http://www.ibm.com/developerworks/linux/library/l-htl/</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-20T10:21:59Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cqislweb.in.ibm.com/cqweb/login">
+<title>WA ClearQuest</title>
+<link>http://cqislweb.in.ibm.com/cqweb/login</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-20T00:25:01Z</dc:date>
+<dc:subject>wa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.redbooks.ibm.com/redpieces/abstracts/redp4431.html?Open">
+<title>IBM Redbooks | WebSphere Business Process Management V6.1 Performance Tuning</title>
+<link>http://www.redbooks.ibm.com/redpieces/abstracts/redp4431.html?Open</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-16T02:45:11Z</dc:date>
+<dc:subject>performance websphere_adapters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/websphere_adapters" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2007/11/ibm-sap">
+<title>InfoQ: IBM and SAP Open Source their JVM Diagnostics Tools</title>
+<link>http://www.infoq.com/news/2007/11/ibm-sap</link>
+<description></description>
+<dc:creator>bryantsai</dc:creator>
+<dc:date>2008-06-14T05:01:32Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

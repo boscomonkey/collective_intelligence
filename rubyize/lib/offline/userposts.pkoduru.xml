@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/pkoduru">
+<title>del.icio.us/pkoduru</title>
+<link>http://del.icio.us/pkoduru</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.maangchi.com/" />
+  <rdf:li rdf:resource="http://cookingupsomethingnice.blogspot.com/2008/07/chicken-my-favorite-event-round-up.html" />
+  <rdf:li rdf:resource="http://www.biganimepile.com/" />
+  <rdf:li rdf:resource="http://www.zomganime.com/anime/ayatsuri-sakon/" />
+  <rdf:li rdf:resource="http://www.tik.ee.ethz.ch/pisa/selectors/nsga2/nsga2.html" />
+  <rdf:li rdf:resource="http://www.tik.ee.ethz.ch/pisa/selectors/spea2/spea2.html" />
+  <rdf:li rdf:resource="http://www.tik.ee.ethz.ch/pisa/variators/dtlz/dtlz.html" />
+  <rdf:li rdf:resource="http://mallba10.lcc.uma.es/wiki/index.php/Problems" />
+  <rdf:li rdf:resource="http://chowtimes.com/2008/06/15/napa-cabbage-and-pork-steamed-bun-choy-yoke-pau/" />
+  <rdf:li rdf:resource="http://www.hookedonheat.com/" />
+  <rdf:li rdf:resource="http://indianhomefood.blogspot.com/2008/02/chicken-kabob.html" />
+  <rdf:li rdf:resource="http://indianhomefood.blogspot.com/2008/03/egg-paratha.html" />
+  <rdf:li rdf:resource="http://indianhomefood.blogspot.com/2008/05/hara-sheek-kabab.html" />
+  <rdf:li rdf:resource="http://priya-kitchen.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.amazon.com/First-Course-Optimization-Theory/dp/0521497701/102-9036339-2808132?SubscriptionId=0QVRT99G598B3PX4XJR2" />
+  <rdf:li rdf:resource="http://www.ferryhalim.com/orisinal/?r" />
+  <rdf:li rdf:resource="http://lunchinabox.net/2008/02/03/freeze-green-onions-in-plastic-drink-bottles/" />
+  <rdf:li rdf:resource="http://web.canon.jp/imaging/enjoydslr/" />
+  <rdf:li rdf:resource="http://blog.360.yahoo.com/blog-H_5T2YkwabKeCpsD8dd5mT0-?cq=1" />
+  <rdf:li rdf:resource="http://s3users.com/forum/showpost.php?p=54302&#x26;postcount=218" />
+  <rdf:li rdf:resource="http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera" />
+  <rdf:li rdf:resource="http://forums.maxconsole.net/showthread.php?t=88057" />
+  <rdf:li rdf:resource="http://www.kdnuggets.com/jobs/index.html" />
+  <rdf:li rdf:resource="http://www.yolinux.com/TUTORIALS/LinuxTutorialC++CodingStyle.html" />
+  <rdf:li rdf:resource="http://video.freelivemedia.com/" />
+  <rdf:li rdf:resource="http://www.watch-movies.net/" />
+  <rdf:li rdf:resource="http://www.cplusplus.com/forum/beginner/879/" />
+  <rdf:li rdf:resource="http://www.tenouk.com/abouttenouk.html" />
+  <rdf:li rdf:resource="http://imovies4you.com/" />
+  <rdf:li rdf:resource="http://www.rsfox.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-07-06T08:17:17Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maangchi.com/">
+<title>Maangchi's Korean Cooking Recipes, Videos, Podcast, Cookbook, DVD, and Blog</title>
+<link>http://www.maangchi.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-07-05T15:16:15Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cookingupsomethingnice.blogspot.com/2008/07/chicken-my-favorite-event-round-up.html">
+<title>cooking up something nice: Chicken - my favorite : event round up</title>
+<link>http://cookingupsomethingnice.blogspot.com/2008/07/chicken-my-favorite-event-round-up.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-07-04T07:57:25Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biganimepile.com/">
+<title>Watch anime episodes free @ Big Anime Pile &#xBB; Big Anime Pile</title>
+<link>http://www.biganimepile.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-07-01T14:41:46Z</dc:date>
+<dc:subject>anime</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zomganime.com/anime/ayatsuri-sakon/">
+<title>Watch Ayatsuri Sakon Anime Episodes Online</title>
+<link>http://www.zomganime.com/anime/ayatsuri-sakon/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-07-01T14:40:20Z</dc:date>
+<dc:subject>anime</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tik.ee.ethz.ch/pisa/selectors/nsga2/nsga2.html">
+<title>PISA - NSGAII Source Code</title>
+<link>http://www.tik.ee.ethz.ch/pisa/selectors/nsga2/nsga2.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-27T01:59:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.tik.ee.ethz.ch/pisa/selectors/spea2/spea2.html">
+<title>PISA - SPEA2 Source code</title>
+<link>http://www.tik.ee.ethz.ch/pisa/selectors/spea2/spea2.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-27T01:59:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.tik.ee.ethz.ch/pisa/variators/dtlz/dtlz.html">
+<title>PISA - DTLZ ZDT Problems Source code page</title>
+<link>http://www.tik.ee.ethz.ch/pisa/variators/dtlz/dtlz.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-27T01:58:38Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://mallba10.lcc.uma.es/wiki/index.php/Problems">
+<title>Problems - NEO</title>
+<link>http://mallba10.lcc.uma.es/wiki/index.php/Problems</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-25T02:16:20Z</dc:date>
+<dc:subject>research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chowtimes.com/2008/06/15/napa-cabbage-and-pork-steamed-bun-choy-yoke-pau/">
+<title>Chow Times &#xBB; Napa Cabbage and Pork Steamed Bun (Choy Yoke Pau)</title>
+<link>http://chowtimes.com/2008/06/15/napa-cabbage-and-pork-steamed-bun-choy-yoke-pau/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-17T13:18:05Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hookedonheat.com/">
+<title>Hooked on Heat &#xBB; a modern approach to everyday Indian cooking&#x2026;</title>
+<link>http://www.hookedonheat.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-16T12:38:54Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://indianhomefood.blogspot.com/2008/02/chicken-kabob.html">
+<title>Indian cooking: Chicken Kabob</title>
+<link>http://indianhomefood.blogspot.com/2008/02/chicken-kabob.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-13T08:29:35Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://indianhomefood.blogspot.com/2008/03/egg-paratha.html">
+<title>Indian cooking: Egg Paratha</title>
+<link>http://indianhomefood.blogspot.com/2008/03/egg-paratha.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-13T08:08:47Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://indianhomefood.blogspot.com/2008/05/hara-sheek-kabab.html">
+<title>Indian cooking: Hara sheek Kabab</title>
+<link>http://indianhomefood.blogspot.com/2008/05/hara-sheek-kabab.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-13T08:01:58Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://priya-kitchen.blogspot.com/">
+<title>Food for Bliss</title>
+<link>http://priya-kitchen.blogspot.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-13T07:18:29Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/First-Course-Optimization-Theory/dp/0521497701/102-9036339-2808132?SubscriptionId=0QVRT99G598B3PX4XJR2">
+<title>Amazon.com: A First Course in Optimization Theory: Rangarajan K. Sundaram: Books</title>
+<link>http://www.amazon.com/First-Course-Optimization-Theory/dp/0521497701/102-9036339-2808132?SubscriptionId=0QVRT99G598B3PX4XJR2</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-12T03:10:43Z</dc:date>
+<dc:subject>reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ferryhalim.com/orisinal/?r">
+<title>Orisinal : Morning Sunshine</title>
+<link>http://www.ferryhalim.com/orisinal/?r</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-06-10T14:48:40Z</dc:date>
+<dc:subject>flash games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lunchinabox.net/2008/02/03/freeze-green-onions-in-plastic-drink-bottles/">
+<title>Speed tip: Freeze chopped green onions in plastic drink bottles | Lunch in a Box: Building a Better Bento</title>
+<link>http://lunchinabox.net/2008/02/03/freeze-green-onions-in-plastic-drink-bottles/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-30T22:30:17Z</dc:date>
+<dc:subject>recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.canon.jp/imaging/enjoydslr/">
+<title>Enjoy! Digital SLR camera</title>
+<link>http://web.canon.jp/imaging/enjoydslr/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-30T20:13:45Z</dc:date>
+<dc:subject>camera</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.360.yahoo.com/blog-H_5T2YkwabKeCpsD8dd5mT0-?cq=1">
+<title>Yahoo! 360&#xB0; - artic's Blog - HDR Canon S2is</title>
+<link>http://blog.360.yahoo.com/blog-H_5T2YkwabKeCpsD8dd5mT0-?cq=1</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-30T18:57:22Z</dc:date>
+<dc:subject>camera</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://s3users.com/forum/showpost.php?p=54302&#x26;postcount=218">
+<title>Canon s5IS Users - View Single Post - S3IS HDK Firmware hack</title>
+<link>http://s3users.com/forum/showpost.php?p=54302&#x26;postcount=218</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-30T17:53:36Z</dc:date>
+<dc:subject>camera</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera">
+<title>Camera Hacks: Turn Your Point-and-Shoot canon camera into a Super-Camera</title>
+<link>http://lifehacker.com/387380/turn-your-pointandshoot-into-a-supercamera</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-30T17:29:03Z</dc:date>
+<dc:subject>camera</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.maxconsole.net/showthread.php?t=88057">
+<title>Custom Firmware Extender 1.9 - MaxConsole Forums - USB WiFi ISO</title>
+<link>http://forums.maxconsole.net/showthread.php?t=88057</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-05-13T22:15:49Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kdnuggets.com/jobs/index.html">
+<title>Jobs in Data Mining, Web Mining, and Knowledge Discovery</title>
+<link>http://www.kdnuggets.com/jobs/index.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-26T01:26:29Z</dc:date>
+<dc:subject>jobsear</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobsear" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yolinux.com/TUTORIALS/LinuxTutorialC++CodingStyle.html">
+<title>Linux Tutorial: C++ Coding Style, Standards, Practices and dOxygen</title>
+<link>http://www.yolinux.com/TUTORIALS/LinuxTutorialC++CodingStyle.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-22T04:25:07Z</dc:date>
+<dc:subject>coding</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.freelivemedia.com/">
+<title>Free Live Media Videos</title>
+<link>http://video.freelivemedia.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-21T06:09:19Z</dc:date>
+<dc:subject>media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.watch-movies.net/">
+<title>Watch Movies Online For Free Full Movie Downloads</title>
+<link>http://www.watch-movies.net/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-21T06:09:10Z</dc:date>
+<dc:subject>media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cplusplus.com/forum/beginner/879/">
+<title>Parsing a text file - C++ Forums</title>
+<link>http://www.cplusplus.com/forum/beginner/879/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-21T00:46:44Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tenouk.com/abouttenouk.html">
+<title>The about page of the tenouk.com C, C++, STL, MFC, Win32, Winsock, Windows GUI and Linux socket programming tutorial hands-on approach</title>
+<link>http://www.tenouk.com/abouttenouk.html</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-19T23:53:04Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imovies4you.com/">
+<title>iMovies4You~ An Entertainement World -</title>
+<link>http://imovies4you.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-16T22:58:24Z</dc:date>
+<dc:subject>onlinetv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/onlinetv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rsfox.com/">
+<title>Rsfox:RapidShare Premium Link Generator | RapidShare Premium Link Generator</title>
+<link>http://www.rsfox.com/</link>
+<description></description>
+<dc:creator>pkoduru</dc:creator>
+<dc:date>2008-04-15T05:34:04Z</dc:date>
+<dc:subject>browsing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browsing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

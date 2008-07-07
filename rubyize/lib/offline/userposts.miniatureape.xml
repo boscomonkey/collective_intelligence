@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/miniatureape">
+<title>del.icio.us/miniatureape</title>
+<link>http://del.icio.us/miniatureape</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.amandasharpclients.com/gallery.php?skookslocation=Stephanie%20and%20Jon/1%20Engagement%20Portraits&#x26;SkooksKartUserSession=2ef6e6436bb93b9014dd941bcc9543a9" />
+  <rdf:li rdf:resource="http://www.b-list.org/weblog/2006/jun/13/how-django-processes-request/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/000976.html" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://www.dickbaldwin.com/KjellTutorial/vch00/vch00_1.html" />
+  <rdf:li rdf:resource="http://microformats.org/wiki/xoxo" />
+  <rdf:li rdf:resource="http://www.nydailynews.com/lifestyle/food/2008/06/29/2008-06-29_10_things_you_must_eat_this_summer.html" />
+  <rdf:li rdf:resource="http://3quarksdaily.blogs.com/3quarksdaily/2008/06/peter-singer-on.html" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://discussionleader.hbsp.com/hbreditors/2008/06/whats_so_bad_about_information_1.html" />
+  <rdf:li rdf:resource="http://web.psung.name/emacstips/topten.html" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/ypatterns/" />
+  <rdf:li rdf:resource="http://uxmag.com/" />
+  <rdf:li rdf:resource="http://home.netcom.com/~tjensen/ptr/pointers.htm" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/23/080623fa_fact_seabrook" />
+  <rdf:li rdf:resource="http://wideeyecinema.com/?p=105" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?printable=true" />
+  <rdf:li rdf:resource="http://www.anecdote.com.au/archives/narrative/" />
+  <rdf:li rdf:resource="http://www.greenteapress.com/thinkpython/html/" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/" />
+  <rdf:li rdf:resource="http://www.rescuetime.com/" />
+  <rdf:li rdf:resource="http://www.welie.com/patterns/index.php" />
+  <rdf:li rdf:resource="http://37signals.com/papers/introtopatterns/" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/02/080602fa_fact_wright?currentPage=all" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/17/science/17mund.html?8dpc" />
+  <rdf:li rdf:resource="http://pythonbook.coffeeghost.net/book1/index.html" />
+  <rdf:li rdf:resource="http://www.hks.harvard.edu/presspol/research_publications/papers/discussion_papers/D39.pdf" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2193552/" />
+  <rdf:li rdf:resource="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/" />
+  <rdf:li rdf:resource="http://www.theatlantic.com/doc/200807/google" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-06T06:43:28Z</dc:date>
+<dc:subject>book free java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amandasharpclients.com/gallery.php?skookslocation=Stephanie%20and%20Jon/1%20Engagement%20Portraits&#x26;SkooksKartUserSession=2ef6e6436bb93b9014dd941bcc9543a9">
+<title>Stephanie &#x26; Jon's Wedding</title>
+<link>http://www.amandasharpclients.com/gallery.php?skookslocation=Stephanie%20and%20Jon/1%20Engagement%20Portraits&#x26;SkooksKartUserSession=2ef6e6436bb93b9014dd941bcc9543a9</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-05T23:14:50Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.b-list.org/weblog/2006/jun/13/how-django-processes-request/">
+<title>How Django processes a request</title>
+<link>http://www.b-list.org/weblog/2006/jun/13/how-django-processes-request/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-05T16:17:38Z</dc:date>
+<dc:subject>django middleware python request</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/request" />
+    <rdf:li resource="http://del.icio.us/tag/middleware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/000976.html">
+<title>Coding Horror: A Visual Explanation of SQL Joins</title>
+<link>http://www.codinghorror.com/blog/archives/000976.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-03T12:16:39Z</dc:date>
+<dc:subject>database joins sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/joins" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-03T12:10:48Z</dc:date>
+<dc:subject>method programming python reference underscore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/underscore" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dickbaldwin.com/KjellTutorial/vch00/vch00_1.html">
+<title>CHAPTER 0 Points and Lines</title>
+<link>http://www.dickbaldwin.com/KjellTutorial/vch00/vch00_1.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-02T18:21:52Z</dc:date>
+<dc:subject>geometry math vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/geometry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://microformats.org/wiki/xoxo">
+<title>xoxo - Microformats</title>
+<link>http://microformats.org/wiki/xoxo</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-02T18:20:56Z</dc:date>
+<dc:subject>microformat microformats web xhtml xoxo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/microformats" />
+    <rdf:li resource="http://del.icio.us/tag/microformat" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+    <rdf:li resource="http://del.icio.us/tag/xoxo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nydailynews.com/lifestyle/food/2008/06/29/2008-06-29_10_things_you_must_eat_this_summer.html">
+<title>10 things you must eat this summer</title>
+<link>http://www.nydailynews.com/lifestyle/food/2008/06/29/2008-06-29_10_things_you_must_eat_this_summer.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-01T18:21:04Z</dc:date>
+<dc:subject>food list nyc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/nyc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://3quarksdaily.blogs.com/3quarksdaily/2008/06/peter-singer-on.html">
+<title>3quarksdaily</title>
+<link>http://3quarksdaily.blogs.com/3quarksdaily/2008/06/peter-singer-on.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-01T13:58:27Z</dc:date>
+<dc:subject>hegel marx philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marx" />
+    <rdf:li resource="http://del.icio.us/tag/hegel" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-07-01T02:58:51Z</dc:date>
+<dc:subject>css float reference webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/float" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://discussionleader.hbsp.com/hbreditors/2008/06/whats_so_bad_about_information_1.html">
+<title>What&#x2019;s So Bad About Information Overload? - Harvard Business Online's HBR Editors' Blog</title>
+<link>http://discussionleader.hbsp.com/hbreditors/2008/06/whats_so_bad_about_information_1.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-28T13:35:15Z</dc:date>
+<dc:subject>information inteff overload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inteff" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/overload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.psung.name/emacstips/topten.html">
+<title>Top ten essential Emacs tips</title>
+<link>http://web.psung.name/emacstips/topten.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-28T13:14:31Z</dc:date>
+<dc:subject>emacs programming tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/ypatterns/">
+<title>Yahoo! Design Pattern Library</title>
+<link>http://developer.yahoo.com/ypatterns/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-26T19:40:27Z</dc:date>
+<dc:subject>Usability development patterns web web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/Usability" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uxmag.com/">
+<title>UX Magazine - The User Experience Magazine</title>
+<link>http://uxmag.com/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-26T19:39:49Z</dc:date>
+<dc:subject>Magazine UI design usability ux web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/Magazine" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/UI" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.netcom.com/~tjensen/ptr/pointers.htm">
+<title>A Tutorial on Pointers and Arrays in C</title>
+<link>http://home.netcom.com/~tjensen/ptr/pointers.htm</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-26T05:01:27Z</dc:date>
+<dc:subject>c pointers programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/pointers" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/23/080623fa_fact_seabrook">
+<title>Annals of Technology: Hello, Hal: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/23/080623fa_fact_seabrook</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-25T11:59:43Z</dc:date>
+<dc:subject>ai npl toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/npl" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wideeyecinema.com/?p=105">
+<title>The World According to Monsanto | WIDE EYE CINEMA - Free Truth Videos</title>
+<link>http://wideeyecinema.com/?p=105</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-25T11:59:22Z</dc:date>
+<dc:subject>agriculture documentary monsanto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+    <rdf:li resource="http://del.icio.us/tag/monsanto" />
+    <rdf:li resource="http://del.icio.us/tag/agriculture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?printable=true">
+<title>Annals of Medicine: The Itch: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?printable=true</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-24T18:35:59Z</dc:date>
+<dc:subject>brain toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anecdote.com.au/archives/narrative/">
+<title>Anecdote: Narrative Archives</title>
+<link>http://www.anecdote.com.au/archives/narrative/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-23T14:01:03Z</dc:date>
+<dc:subject>narrative story</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/narrative" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greenteapress.com/thinkpython/html/">
+<title>book</title>
+<link>http://www.greenteapress.com/thinkpython/html/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-19T23:26:33Z</dc:date>
+<dc:subject>book programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/">
+<title>How to get Cross Browser Compatibility Every Time | Anthony Short | Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/</link>
+<description>Please don&#x2019;t! It disables pretty font smoothing in Safari and makes them look blurry. I absolutely hate that.
+And Opera 9.5 makes such fo</description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-19T22:58:17Z</dc:date>
+<dc:subject>browser compatibility css webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/compatibility" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rescuetime.com/">
+<title>Free Time Management Software | RescueTime</title>
+<link>http://www.rescuetime.com/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-19T20:25:51Z</dc:date>
+<dc:subject>lifehacks management productivity web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.welie.com/patterns/index.php">
+<title>Interaction Design Pattern Library - Welie.com</title>
+<link>http://www.welie.com/patterns/index.php</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-19T14:10:06Z</dc:date>
+<dc:subject>design development interaction interface patterns usability web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interaction" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://37signals.com/papers/introtopatterns/">
+<title>37signals: An Introduction to Using Patterns in Web Design</title>
+<link>http://37signals.com/papers/introtopatterns/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-19T11:47:21Z</dc:date>
+<dc:subject>design patterns webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/02/080602fa_fact_wright?currentPage=all">
+<title>A Reporter at Large: The Rebellion Within: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/02/080602fa_fact_wright?currentPage=all</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-18T15:43:52Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/17/science/17mund.html?8dpc">
+<title>The Mundaneum Museum Honors the First Concept of the World Wide Web - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/17/science/17mund.html?8dpc</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-17T14:12:39Z</dc:date>
+<dc:subject>inteff internet library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/inteff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pythonbook.coffeeghost.net/book1/index.html">
+<title>Invent Your Own Computer Games with Python</title>
+<link>http://pythonbook.coffeeghost.net/book1/index.html</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-17T11:07:28Z</dc:date>
+<dc:subject>games programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hks.harvard.edu/presspol/research_publications/papers/discussion_papers/D39.pdf">
+<title>D39.pdf (application/pdf Object)</title>
+<link>http://www.hks.harvard.edu/presspol/research_publications/papers/discussion_papers/D39.pdf</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-15T22:15:03Z</dc:date>
+<dc:subject>ebooks inteff journalism publishing writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/publishing" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/inteff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2193552/">
+<title>How we read online. - By Michael Agger - Slate Magazine</title>
+<link>http://www.slate.com/id/2193552/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-15T22:12:15Z</dc:date>
+<dc:subject>inteff internet journalism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/journalism" />
+    <rdf:li resource="http://del.icio.us/tag/inteff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/">
+<title>Cocoa for Windows + Flash Killer = SproutCore &#x2014; RoughlyDrafted Magazine</title>
+<link>http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-15T22:04:50Z</dc:date>
+<dc:subject>apple javascript sproutcore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/sproutcore" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theatlantic.com/doc/200807/google">
+<title>Is Google Making Us Stupid?</title>
+<link>http://www.theatlantic.com/doc/200807/google</link>
+<description></description>
+<dc:creator>miniatureape</dc:creator>
+<dc:date>2008-06-10T12:45:18Z</dc:date>
+<dc:subject>brain culture google inteff research technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/inteff" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

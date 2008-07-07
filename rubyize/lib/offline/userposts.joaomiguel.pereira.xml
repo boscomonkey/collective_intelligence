@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/joaomiguel.pereira">
+<title>del.icio.us/joaomiguel.pereira</title>
+<link>http://del.icio.us/joaomiguel.pereira</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.portugalacep.org/" />
+  <rdf:li rdf:resource="http://www.spi.pt/negocio_electronico/manual2.htm" />
+  <rdf:li rdf:resource="http://www.spi.pt/negocio_electronico/documentos/manuais_PDF/Manual_II.pdf" />
+  <rdf:li rdf:resource="http://code.google.com/appengine/docs/whatisgoogleappengine.html" />
+  <rdf:li rdf:resource="http://www.macrosolutions.com.br/pt_br/inicial/" />
+  <rdf:li rdf:resource="http://onstartups.com/home/tabid/3339/bid/5659/Startup-Business-Strategy-For-The-Simple-Minded.aspx" />
+  <rdf:li rdf:resource="http://onstartups.com/home/tabid/3339/bid/5751/20-Wrenches-In-The-Software-Startup-Machinery.aspx" />
+  <rdf:li rdf:resource="http://www.amazon.com/gp/browse.html/ref=pe_8050_9727600?node=643949011" />
+  <rdf:li rdf:resource="http://www.bnet.com/2403-13059_23-185153.html" />
+  <rdf:li rdf:resource="http://www.bnet.com/2403-13068_23-88251.html" />
+  <rdf:li rdf:resource="http://www.theleadershiphub.com/blogs/my-favourite-jack-welch-story-when-jack-blew-plant" />
+  <rdf:li rdf:resource="http://www.gantthead.com/article.cfm?ID=243172&#x26;authenticated=1" />
+  <rdf:li rdf:resource="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1073861197&#x26;r.l3=1076146961&#x26;topicId=1076146961&#x26;r.t=RESOURCES&#x26;r.i=1076147035&#x26;r.l2=1075423475&#x26;r.s=sc" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Create-a-Business-Continuity-Plan" />
+  <rdf:li rdf:resource="http://www.ehomeupgrade.com/2008/05/28/gartner-identifies-top-ten-disruptive-technologies-for-2008-to-2012/" />
+  <rdf:li rdf:resource="http://ec.europa.eu/enterprise/ict/index_en.htm" />
+  <rdf:li rdf:resource="http://ec.europa.eu/enterprise/ict/policy/doc/2006-11-20-flossimpact.pdf" />
+  <rdf:li rdf:resource="http://webdesignfromscratch.com/basics.cfm" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=RrpajcAgR1E" />
+  <rdf:li rdf:resource="http://www.computerworld.com.pt/site/content/view/405/36/" />
+  <rdf:li rdf:resource="http://www.openphoto.net/" />
+  <rdf:li rdf:resource="http://pro.corbis.com/" />
+  <rdf:li rdf:resource="http://www.freestockimages.net/" />
+  <rdf:li rdf:resource="http://www.stockxpert.com/browse.phtml?f=view&#x26;id=169751" />
+  <rdf:li rdf:resource="http://domino.automation.rockwell.com/applications/gs/emea/GSGB.nsf/pages/at060303" />
+  <rdf:li rdf:resource="http://www.gantthead.com/content/articles/242543.cfm" />
+  <rdf:li rdf:resource="http://paginas.fe.up.pt/~mac/ensino/docs/IO20062007/ExerciciosPERT-CPM.pdf" />
+  <rdf:li rdf:resource="http://tynerblain.com/blog/2006/07/25/incremental-project-mgmt/" />
+  <rdf:li rdf:resource="http://www.gantthead.com/content/articles/220688.cfm" />
+  <rdf:li rdf:resource="http://www.tutorialspoint.com/earn_value_management/index.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-06T14:27:11Z</dc:date>
+<dc:subject>architecture development j2ee java performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.portugalacep.org/">
+<title>ACEP</title>
+<link>http://www.portugalacep.org/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-05T12:50:41Z</dc:date>
+<dc:subject>com&#xE9;rcioelectr&#xF3;nico neg&#xF3;cioelectr&#xF3;nico portugal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/neg%C3%B3cioelectr%C3%B3nico" />
+    <rdf:li resource="http://del.icio.us/tag/com%C3%A9rcioelectr%C3%B3nico" />
+    <rdf:li resource="http://del.icio.us/tag/portugal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spi.pt/negocio_electronico/manual2.htm">
+<title>.: Neg&#xF3;cio Electr&#xF3;nico :.</title>
+<link>http://www.spi.pt/negocio_electronico/manual2.htm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-05T12:48:07Z</dc:date>
+<dc:subject>Neg&#xF3;cioElectr&#xF3;nico com&#xE9;rcioelectr&#xF3;nico portugal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/com%C3%A9rcioelectr%C3%B3nico" />
+    <rdf:li resource="http://del.icio.us/tag/Neg%C3%B3cioElectr%C3%B3nico" />
+    <rdf:li resource="http://del.icio.us/tag/portugal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spi.pt/negocio_electronico/documentos/manuais_PDF/Manual_II.pdf">
+<title>Manual_II.pdf (application/pdf Object)</title>
+<link>http://www.spi.pt/negocio_electronico/documentos/manuais_PDF/Manual_II.pdf</link>
+<description>As Oportunidades, os Riscos e os Benef&#xED;cios do Neg&#xF3;cio Electr&#xF3;nico</description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-05T12:47:16Z</dc:date>
+<dc:subject>Com&#xE9;rcioElectr&#xF3;nico Portugal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Com%C3%A9rcioElectr%C3%B3nico" />
+    <rdf:li resource="http://del.icio.us/tag/Portugal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/appengine/docs/whatisgoogleappengine.html">
+<title>What Is Google App Engine? - Google App Engine - Google Code</title>
+<link>http://code.google.com/appengine/docs/whatisgoogleappengine.html</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-03T22:18:40Z</dc:date>
+<dc:subject>2008 development framework google programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macrosolutions.com.br/pt_br/inicial/">
+<title>In&#xED;cio || Macrosolutions SA &#x2013; Gerenciamento de Projetos, Riscos e Portf&#xF3;lio, PMO, Consultoria e Treinamento ::</title>
+<link>http://www.macrosolutions.com.br/pt_br/inicial/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-03T21:49:40Z</dc:date>
+<dc:subject>projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onstartups.com/home/tabid/3339/bid/5659/Startup-Business-Strategy-For-The-Simple-Minded.aspx">
+<title>Startup Business Strategy For The Simple-Minded</title>
+<link>http://onstartups.com/home/tabid/3339/bid/5659/Startup-Business-Strategy-For-The-Simple-Minded.aspx</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-03T20:35:14Z</dc:date>
+<dc:subject>2008 June entrepreneurship startups</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/June" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onstartups.com/home/tabid/3339/bid/5751/20-Wrenches-In-The-Software-Startup-Machinery.aspx">
+<title>20 Wrenches In The Software Startup Machinery</title>
+<link>http://onstartups.com/home/tabid/3339/bid/5751/20-Wrenches-In-The-Software-Startup-Machinery.aspx</link>
+<description>yet it dishe</description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-03T20:28:47Z</dc:date>
+<dc:subject>2008 June business entrepreneurship marketing startups</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/June" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/gp/browse.html/ref=pe_8050_9727600?node=643949011">
+<title>Amazon Web Services @ Amazon.com</title>
+<link>http://www.amazon.com/gp/browse.html/ref=pe_8050_9727600?node=643949011</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-07-01T15:18:00Z</dc:date>
+<dc:subject>AmazonEC2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AmazonEC2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bnet.com/2403-13059_23-185153.html">
+<title>How to Build and Manage Great Teams | BNET</title>
+<link>http://www.bnet.com/2403-13059_23-185153.html</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-23T21:49:37Z</dc:date>
+<dc:subject>business leadership management teambuilding</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/leadership" />
+    <rdf:li resource="http://del.icio.us/tag/teambuilding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bnet.com/2403-13068_23-88251.html">
+<title>How to Beat a Lower-Priced Competitor | BNET</title>
+<link>http://www.bnet.com/2403-13068_23-88251.html</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-23T20:18:45Z</dc:date>
+<dc:subject>Business Competition marketing sales strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Competition" />
+    <rdf:li resource="http://del.icio.us/tag/Business" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theleadershiphub.com/blogs/my-favourite-jack-welch-story-when-jack-blew-plant">
+<title>My favourite Jack Welch story: When Jack Blew Up The Plant | The Leadership Hub</title>
+<link>http://www.theleadershiphub.com/blogs/my-favourite-jack-welch-story-when-jack-blew-plant</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-19T11:58:08Z</dc:date>
+<dc:subject>jackwelch leadership</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/leadership" />
+    <rdf:li resource="http://del.icio.us/tag/jackwelch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gantthead.com/article.cfm?ID=243172&#x26;authenticated=1">
+<title>Assessing Your IT Governance Maturity Level</title>
+<link>http://www.gantthead.com/article.cfm?ID=243172&#x26;authenticated=1</link>
+<description>Assessing Your IT Governance Maturity Level</description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-11T12:01:49Z</dc:date>
+<dc:subject>Governance IT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/Governance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1073861197&#x26;r.l3=1076146961&#x26;topicId=1076146961&#x26;r.t=RESOURCES&#x26;r.i=1076147035&#x26;r.l2=1075423475&#x26;r.s=sc">
+<title>Business continuity planning in IT | Business Link</title>
+<link>http://www.businesslink.gov.uk/bdotg/action/layer?r.l1=1073861197&#x26;r.l3=1076146961&#x26;topicId=1076146961&#x26;r.t=RESOURCES&#x26;r.i=1076147035&#x26;r.l2=1075423475&#x26;r.s=sc</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-03T16:17:57Z</dc:date>
+<dc:subject>businesscontinuityplanning disaster recover</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/businesscontinuityplanning" />
+    <rdf:li resource="http://del.icio.us/tag/disaster" />
+    <rdf:li resource="http://del.icio.us/tag/recover" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Create-a-Business-Continuity-Plan">
+<title>How to Create a Business Continuity Plan - wikiHow</title>
+<link>http://www.wikihow.com/Create-a-Business-Continuity-Plan</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-03T15:53:41Z</dc:date>
+<dc:subject>BusinessContinuityPlanning business disaster howto management wikiHow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BusinessContinuityPlanning" />
+    <rdf:li resource="http://del.icio.us/tag/wikiHow" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/disaster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ehomeupgrade.com/2008/05/28/gartner-identifies-top-ten-disruptive-technologies-for-2008-to-2012/">
+<title>Gartner Identifies Top Ten Disruptive Technologies for 2008 to 2012 | eHomeUpgrade</title>
+<link>http://www.ehomeupgrade.com/2008/05/28/gartner-identifies-top-ten-disruptive-technologies-for-2008-to-2012/</link>
+<description>Cloud computing and cloud/Web platforms</description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-02T13:20:17Z</dc:date>
+<dc:subject>2008 Gartner TechTrends disruptive future technology trends</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/TechTrends" />
+    <rdf:li resource="http://del.icio.us/tag/Gartner" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/trends" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/disruptive" />
+    <rdf:li resource="http://del.icio.us/tag/future" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ec.europa.eu/enterprise/ict/index_en.htm">
+<title>EUROPA - European Commission - Enterprise and Industry - Innovation Policy</title>
+<link>http://ec.europa.eu/enterprise/ict/index_en.htm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-02T11:18:59Z</dc:date>
+<dc:subject>IT business economics innovation opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ec.europa.eu/enterprise/ict/policy/doc/2006-11-20-flossimpact.pdf">
+<title>2006-11-20-flossimpact.pdf (application/pdf Object)</title>
+<link>http://ec.europa.eu/enterprise/ict/policy/doc/2006-11-20-flossimpact.pdf</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-02T11:16:37Z</dc:date>
+<dc:subject>Floss economics opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/Floss" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webdesignfromscratch.com/basics.cfm">
+<title>Basics of Web Design, introduction to web site design and web page design skills</title>
+<link>http://webdesignfromscratch.com/basics.cfm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-01T23:28:46Z</dc:date>
+<dc:subject>webdesigm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesigm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=RrpajcAgR1E">
+<title>YouTube - Identity 2.0 Keynote</title>
+<link>http://www.youtube.com/watch?v=RrpajcAgR1E</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-06-01T23:08:41Z</dc:date>
+<dc:subject>Identity20 presentations</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Identity20" />
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com.pt/site/content/view/405/36/">
+<title>Computerworld Portugal - CRM apenas satisfaz 15% das empresas</title>
+<link>http://www.computerworld.com.pt/site/content/view/405/36/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-29T21:41:17Z</dc:date>
+<dc:subject>CRMandSOA</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CRMandSOA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openphoto.net/">
+<title>openphoto.net . home</title>
+<link>http://www.openphoto.net/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-21T10:52:25Z</dc:date>
+<dc:subject>art free graphics images marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pro.corbis.com/">
+<title>Corbis: photography, rights, motion.</title>
+<link>http://pro.corbis.com/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-20T22:10:06Z</dc:date>
+<dc:subject>art design graphics images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freestockimages.net/">
+<title>FREE STOCK IMAGES - Royalty Free Photos - Stock Photographs</title>
+<link>http://www.freestockimages.net/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-20T21:53:37Z</dc:date>
+<dc:subject>art design free graphics images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stockxpert.com/browse.phtml?f=view&#x26;id=169751">
+<title>STOCKXPERT - Watersplash by xlucas</title>
+<link>http://www.stockxpert.com/browse.phtml?f=view&#x26;id=169751</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-20T21:51:22Z</dc:date>
+<dc:subject>images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://domino.automation.rockwell.com/applications/gs/emea/GSGB.nsf/pages/at060303">
+<title>Calculating total value of ownership for OEMs from Rockwell Automation United Kingdom</title>
+<link>http://domino.automation.rockwell.com/applications/gs/emea/GSGB.nsf/pages/at060303</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-17T14:45:26Z</dc:date>
+<dc:subject>TVO TotalValueOfOwnershio ValueModels</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/TVO" />
+    <rdf:li resource="http://del.icio.us/tag/TotalValueOfOwnershio" />
+    <rdf:li resource="http://del.icio.us/tag/ValueModels" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gantthead.com/content/articles/242543.cfm">
+<title>Inspecting Distributed Team Practices</title>
+<link>http://www.gantthead.com/content/articles/242543.cfm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-14T19:28:44Z</dc:date>
+<dc:subject>agile projectmanagement scrum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/scrum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paginas.fe.up.pt/~mac/ensino/docs/IO20062007/ExerciciosPERT-CPM.pdf">
+<title>ExerciciosPERT-CPM.pdf (application/pdf Object)</title>
+<link>http://paginas.fe.up.pt/~mac/ensino/docs/IO20062007/ExerciciosPERT-CPM.pdf</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-04T15:09:54Z</dc:date>
+<dc:subject>CPM PERT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CPM" />
+    <rdf:li resource="http://del.icio.us/tag/PERT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tynerblain.com/blog/2006/07/25/incremental-project-mgmt/">
+<title>Quick Thoughts on Incremental Project Management | Tyner Blain</title>
+<link>http://tynerblain.com/blog/2006/07/25/incremental-project-mgmt/</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-05-03T08:07:12Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gantthead.com/content/articles/220688.cfm">
+<title>How to Update the Project Schedule Objectively in MS-Project</title>
+<link>http://www.gantthead.com/content/articles/220688.cfm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-04-30T16:58:55Z</dc:date>
+<dc:subject>MicrosoftProject</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MicrosoftProject" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tutorialspoint.com/earn_value_management/index.htm">
+<title>Earned Value Management Tutorial</title>
+<link>http://www.tutorialspoint.com/earn_value_management/index.htm</link>
+<description></description>
+<dc:creator>joaomiguel.pereira</dc:creator>
+<dc:date>2008-04-28T23:29:22Z</dc:date>
+<dc:subject>evm tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evm" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

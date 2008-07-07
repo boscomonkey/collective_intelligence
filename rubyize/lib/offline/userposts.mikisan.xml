@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mikisan">
+<title>del.icio.us/mikisan</title>
+<link>http://del.icio.us/mikisan</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.woodwing.com/index.php" />
+  <rdf:li rdf:resource="http://www.malhar.net/sriram/kilim/" />
+  <rdf:li rdf:resource="http://mochaui.com/" />
+  <rdf:li rdf:resource="http://www.richard-wilkinson.co.uk/2008/06/22/more-on-terracotta-and-wicket/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder" />
+  <rdf:li rdf:resource="http://code.google.com/p/welo/" />
+  <rdf:li rdf:resource="http://www.alvinsingh.org/blog/2008/06/hibernate-query-performance-logging/" />
+  <rdf:li rdf:resource="http://justcreativedesign.com/2008/04/08/creative-photographs/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2008/06/rhinos-and-tigers.html" />
+  <rdf:li rdf:resource="http://tech.puredanger.com/2008/06/17/distributed-ehcache-with-terracotta/" />
+  <rdf:li rdf:resource="http://www.easywayserver.com/implementation-tomcat-clustering.htm" />
+  <rdf:li rdf:resource="http://www.haiphucnguyen.net/blog/?p=68" />
+  <rdf:li rdf:resource="http://soa.dzone.com/announcements/apache-rampart-14-released-ram" />
+  <rdf:li rdf:resource="http://javabyexample.wisdomplug.com/java-concepts/34-core-java/63-make-an-installer-for-your-java-applications.html" />
+  <rdf:li rdf:resource="http://jirox.net/AsButtonGen/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/" />
+  <rdf:li rdf:resource="http://sureshkrishna.wordpress.com/2008/06/13/java-xml-libraries-quick-reference/" />
+  <rdf:li rdf:resource="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/" />
+  <rdf:li rdf:resource="http://java.sun.com/reference/blueprints/index.html" />
+  <rdf:li rdf:resource="http://www.developer.com/java/other/article.php/3345631" />
+  <rdf:li rdf:resource="http://www.wisconsinmedicalsociety.org/savant_syndrome/savant_profiles" />
+  <rdf:li rdf:resource="http://teethgrinder.co.uk/open-flash-chart/" />
+  <rdf:li rdf:resource="http://quaere.codehaus.org/" />
+  <rdf:li rdf:resource="http://appfuse.org/display/APF/Home" />
+  <rdf:li rdf:resource="https://loopt.com/loopt/sess/index.aspx" />
+  <rdf:li rdf:resource="http://blogs.smugmug.com/don/2008/06/03/skynet-lives-aka-ec2-smugmug/" />
+  <rdf:li rdf:resource="http://www.tilestack.com/" />
+  <rdf:li rdf:resource="http://www.nabble.com/Re%3A-ajax-progress-indicator-p17020185.html" />
+  <rdf:li rdf:resource="http://www.jroller.com/eyallupu/entry/tuning_queries_using_paging_batch" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-07-06T10:36:12Z</dc:date>
+<dc:subject>architecture concurrency j2ee scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.woodwing.com/index.php">
+<title>WoodWing.com</title>
+<link>http://www.woodwing.com/index.php</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-07-05T08:19:12Z</dc:date>
+<dc:subject>indesign, printing publishing, workflow,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/publishing%2C" />
+    <rdf:li resource="http://del.icio.us/tag/indesign%2C" />
+    <rdf:li resource="http://del.icio.us/tag/workflow%2C" />
+    <rdf:li resource="http://del.icio.us/tag/printing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.malhar.net/sriram/kilim/">
+<title>Kilim</title>
+<link>http://www.malhar.net/sriram/kilim/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-07-01T17:43:16Z</dc:date>
+<dc:subject>concurrency java scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mochaui.com/">
+<title>Mocha UI - A Canvas User Interface Framework</title>
+<link>http://mochaui.com/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-07-01T09:47:18Z</dc:date>
+<dc:subject>ajax api framework js mootools ui web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/js" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.richard-wilkinson.co.uk/2008/06/22/more-on-terracotta-and-wicket/">
+<title>More on terracotta and wicket | Richards Blog</title>
+<link>http://www.richard-wilkinson.co.uk/2008/06/22/more-on-terracotta-and-wicket/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-30T07:24:13Z</dc:date>
+<dc:subject>terracotta wicket</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wicket" />
+    <rdf:li resource="http://del.icio.us/tag/terracotta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder">
+<title>Ajaxian &#xBB; iWidgets Public Beta: Impressive Widget Builder</title>
+<link>http://ajaxian.com/archives/iwidgets-public-beta-impressive-widget-builder</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-26T20:46:55Z</dc:date>
+<dc:subject>ajax javascript social widget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/widget" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/welo/">
+<title>welo - Google Code</title>
+<link>http://code.google.com/p/welo/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-24T17:03:28Z</dc:date>
+<dc:subject>cms wicket</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wicket" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alvinsingh.org/blog/2008/06/hibernate-query-performance-logging/">
+<title>Development Art &#xBB; Hibernate Query Performance Logging</title>
+<link>http://www.alvinsingh.org/blog/2008/06/hibernate-query-performance-logging/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-24T11:58:42Z</dc:date>
+<dc:subject>aop hibernate java performance spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/aop" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://justcreativedesign.com/2008/04/08/creative-photographs/">
+<title>92 More Must See Creative Photographs</title>
+<link>http://justcreativedesign.com/2008/04/08/creative-photographs/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-23T06:22:09Z</dc:date>
+<dc:subject>art fun photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2008/06/rhinos-and-tigers.html">
+<title>Stevey's Blog Rants: Rhinos and Tigers</title>
+<link>http://steve-yegge.blogspot.com/2008/06/rhinos-and-tigers.html</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-21T14:27:11Z</dc:date>
+<dc:subject>Rhino js jvm language scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/Rhino" />
+    <rdf:li resource="http://del.icio.us/tag/jvm" />
+    <rdf:li resource="http://del.icio.us/tag/js" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.puredanger.com/2008/06/17/distributed-ehcache-with-terracotta/">
+<title>Alex Miller - Distributed ehcache with Terracotta</title>
+<link>http://tech.puredanger.com/2008/06/17/distributed-ehcache-with-terracotta/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-19T08:18:04Z</dc:date>
+<dc:subject>cache java terracotta</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/terracotta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.easywayserver.com/implementation-tomcat-clustering.htm">
+<title>Implement steps of tomcat clustering</title>
+<link>http://www.easywayserver.com/implementation-tomcat-clustering.htm</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-19T08:16:26Z</dc:date>
+<dc:subject>cluster scaling tomcat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tomcat" />
+    <rdf:li resource="http://del.icio.us/tag/cluster" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.haiphucnguyen.net/blog/?p=68">
+<title>Jackbrabbit OCM and Spring at My thoughts</title>
+<link>http://www.haiphucnguyen.net/blog/?p=68</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-19T08:15:43Z</dc:date>
+<dc:subject>cms java jcr spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jcr" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://soa.dzone.com/announcements/apache-rampart-14-released-ram">
+<title>Apache Rampart 1.4 released, Rampart is the security module of Axis2 | SOA Zone</title>
+<link>http://soa.dzone.com/announcements/apache-rampart-14-released-ram</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-17T15:44:03Z</dc:date>
+<dc:subject>axis2 security ws</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ws" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/axis2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javabyexample.wisdomplug.com/java-concepts/34-core-java/63-make-an-installer-for-your-java-applications.html">
+<title>Make an Installer for your Java Applications</title>
+<link>http://javabyexample.wisdomplug.com/java-concepts/34-core-java/63-make-an-installer-for-your-java-applications.html</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-17T14:48:18Z</dc:date>
+<dc:subject>installer java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/installer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jirox.net/AsButtonGen/">
+<title>As Button Generator</title>
+<link>http://jirox.net/AsButtonGen/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-17T14:26:45Z</dc:date>
+<dc:subject>css design tools web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/">
+<title>SproutCore &#xBB; home</title>
+<link>http://www.sproutcore.com/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-16T09:07:09Z</dc:date>
+<dc:subject>ajax apple js opensource web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/js" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sureshkrishna.wordpress.com/2008/06/13/java-xml-libraries-quick-reference/">
+<title>Java XML Libraries - Quick Reference &#xAB; Sciology = Science + Technology</title>
+<link>http://sureshkrishna.wordpress.com/2008/06/13/java-xml-libraries-quick-reference/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-16T08:44:10Z</dc:date>
+<dc:subject>java reference xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/">
+<title>Cocoa for Windows + Flash Killer = SproutCore &#x2014; RoughlyDrafted Magazine</title>
+<link>http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-16T08:04:55Z</dc:date>
+<dc:subject>ajax apple flash framework java js mobile opensource sproutcore web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/js" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/sproutcore" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/reference/blueprints/index.html">
+<title>Java BluePrints: Guidelines, patterns, and code for end-to-end applications</title>
+<link>http://java.sun.com/reference/blueprints/index.html</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-15T09:16:06Z</dc:date>
+<dc:subject>Patterns java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/Patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.developer.com/java/other/article.php/3345631">
+<title>Fun with Java: Biomorphs and Artificial Life</title>
+<link>http://www.developer.com/java/other/article.php/3345631</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-14T16:48:09Z</dc:date>
+<dc:subject>Java Tutorials fun science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wisconsinmedicalsociety.org/savant_syndrome/savant_profiles">
+<title>| Wisconsin Medical Society</title>
+<link>http://www.wisconsinmedicalsociety.org/savant_syndrome/savant_profiles</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-14T08:46:05Z</dc:date>
+<dc:subject>culture savant science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/savant" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://teethgrinder.co.uk/open-flash-chart/">
+<title>Open Flash Chart - Home</title>
+<link>http://teethgrinder.co.uk/open-flash-chart/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-13T19:49:59Z</dc:date>
+<dc:subject>charts flash oss visualization web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/oss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://quaere.codehaus.org/">
+<title>Quaere - Home</title>
+<link>http://quaere.codehaus.org/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-12T09:16:08Z</dc:date>
+<dc:subject>java jpa orm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/orm" />
+    <rdf:li resource="http://del.icio.us/tag/jpa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://appfuse.org/display/APF/Home">
+<title>Home - AppFuse 2 - Confluence</title>
+<link>http://appfuse.org/display/APF/Home</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-10T09:53:25Z</dc:date>
+<dc:subject>Spring development java maven opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/Spring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://loopt.com/loopt/sess/index.aspx">
+<title>Loopt - Your Social Compass</title>
+<link>https://loopt.com/loopt/sess/index.aspx</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-10T09:20:23Z</dc:date>
+<dc:subject>Tagging location mashup mobile social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Tagging" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/location" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.smugmug.com/don/2008/06/03/skynet-lives-aka-ec2-smugmug/">
+<title>SmugBlog: Don MacAskill &#xBB; Blog Archive &#xBB; SkyNet Lives! (aka EC2 @ SmugMug)</title>
+<link>http://blogs.smugmug.com/don/2008/06/03/skynet-lives-aka-ec2-smugmug/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-08T20:08:53Z</dc:date>
+<dc:subject>aws ec2 photography s3 smugmug</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/s3" />
+    <rdf:li resource="http://del.icio.us/tag/smugmug" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tilestack.com/">
+<title>TileStack - Your Creative Playground</title>
+<link>http://www.tilestack.com/</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-08T07:22:35Z</dc:date>
+<dc:subject>hypercard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hypercard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nabble.com/Re%3A-ajax-progress-indicator-p17020185.html">
+<title>Nabble - Re: ajax progress indicator</title>
+<link>http://www.nabble.com/Re%3A-ajax-progress-indicator-p17020185.html</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-08T07:21:16Z</dc:date>
+<dc:subject>ajax wicket</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wicket" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/eyallupu/entry/tuning_queries_using_paging_batch">
+<title>Eyal Lupu Java Blog</title>
+<link>http://www.jroller.com/eyallupu/entry/tuning_queries_using_paging_batch</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-07T17:36:09Z</dc:date>
+<dc:subject>hibernate jpa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jpa" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert">
+<title>Annals of Innovation: Dymaxion Man: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/09/080609fa_fact_kolbert</link>
+<description></description>
+<dc:creator>mikisan</dc:creator>
+<dc:date>2008-06-07T17:10:46Z</dc:date>
+<dc:subject>BuckminsterFuller architecture design science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/BuckminsterFuller" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

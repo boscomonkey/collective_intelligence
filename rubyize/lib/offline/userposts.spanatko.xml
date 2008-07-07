@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/spanatko">
+<title>del.icio.us/spanatko</title>
+<link>http://del.icio.us/spanatko</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.bbc.co.uk/sn/tvradio/programmes/horizon/broadband/tx/moonsale/" />
+  <rdf:li rdf:resource="http://www.nasa.gov/missions/current/index.html" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://linuxcommand.org/lts0010.php" />
+  <rdf:li rdf:resource="http://myjobspace.co.nz/search?EJS_INDU=6&#x26;EJS_LOCA=84" />
+  <rdf:li rdf:resource="http://www.seek.co.nz/jobsearch/index.ascx?DateRange=31&#x26;catlocation=1017&#x26;stateselected=true&#x26;catindustry=1204&#x26;searchfrom=quick" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://thepiratebay.org/search/accounting/0/99/600" />
+  <rdf:li rdf:resource="http://www.accountingcoach.com/accounting-terms/accounting-dictionary/accounting-terms-G.html#generally%20accepted%20accounting%20principles%20(GAAP)" />
+  <rdf:li rdf:resource="http://www.accountingcrosswords.com/accounting-principles.php" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/US_GAAP" />
+  <rdf:li rdf:resource="http://www.accountingcoach.com/online-accounting-course/09Xpg01.html" />
+  <rdf:li rdf:resource="http://www.bizcovering.com/Accounting/Basic-Principles-of-Accounting-and-Finance.30992" />
+  <rdf:li rdf:resource="http://www.wanakajobs.co.nz/category.pasp?emGUID=707EB0F145A846ECA603F8305578C8B5&#x26;categoryid=54" />
+  <rdf:li rdf:resource="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html" />
+  <rdf:li rdf:resource="http://www.nzhistory.net.nz/category/tid/216" />
+  <rdf:li rdf:resource="http://www.nzfpm.co.nz/" />
+  <rdf:li rdf:resource="http://www.nzetc.org/tm/scholarly/tei-corpus-WH2.html" />
+  <rdf:li rdf:resource="http://shop.crisras.dk/group.asp?group=498&#x26;sub=498&#x26;gclid=CLeftqiNnJQCFR0ZagodMUsvtg" />
+  <rdf:li rdf:resource="http://www.hybridmedicalanimation.com/anim_bloodflow.html" />
+  <rdf:li rdf:resource="http://www.vodafone.co.nz/iphone/" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.toxel.com/inspiration/2008/05/27/14-creative-advertisements/" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2008/06/the_google_way.php" />
+  <rdf:li rdf:resource="http://www.nursingdegree.net/blog/17/its-all-in-the-mind-75-ways-to-think-your-way-into-good-health/" />
+  <rdf:li rdf:resource="http://v3.planningwiz.com/" />
+  <rdf:li rdf:resource="http://www.menshealth.com/eatthis/food-fixes/index.php?cm_mmc=Yahoo_Blog-_-ETNT-_-The_6_Worst_Swimsuit_Foods-_-Fix_Anything_With_Food" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.bbc.co.uk/sn/tvradio/programmes/horizon/broadband/tx/moonsale/">
+<title>BBC - Horizon - Moon for Sale</title>
+<link>http://www.bbc.co.uk/sn/tvradio/programmes/horizon/broadband/tx/moonsale/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-06T10:52:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nasa.gov/missions/current/index.html">
+<title>NASA - Current Missions</title>
+<link>http://www.nasa.gov/missions/current/index.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-06T10:47:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-06T10:45:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000&#xD7;2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-06T09:55:24Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-06T09:55:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://linuxcommand.org/lts0010.php">
+<title>Learning the shell - Lesson 1: What is the shell?</title>
+<link>http://linuxcommand.org/lts0010.php</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-04T06:00:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://myjobspace.co.nz/search?EJS_INDU=6&#x26;EJS_LOCA=84">
+<title>All Customer Service/Call Centre Jobs in South Island on MYJOBSPACE.CO.NZ</title>
+<link>http://myjobspace.co.nz/search?EJS_INDU=6&#x26;EJS_LOCA=84</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-03T05:18:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.seek.co.nz/jobsearch/index.ascx?DateRange=31&#x26;catlocation=1017&#x26;stateselected=true&#x26;catindustry=1204&#x26;searchfrom=quick">
+<title>SEEK Job Search - Find jobs using multiple job search options</title>
+<link>http://www.seek.co.nz/jobsearch/index.ascx?DateRange=31&#x26;catlocation=1017&#x26;stateselected=true&#x26;catindustry=1204&#x26;searchfrom=quick</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-03T04:32:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-03T04:29:58Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://thepiratebay.org/search/accounting/0/99/600">
+<title>The Pirate Bay - The world's largest BitTorrent tracker</title>
+<link>http://thepiratebay.org/search/accounting/0/99/600</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:13:22Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.accountingcoach.com/accounting-terms/accounting-dictionary/accounting-terms-G.html#generally%20accepted%20accounting%20principles%20(GAAP)">
+<title>Accounting Dictionary | Accounting Terms (G)</title>
+<link>http://www.accountingcoach.com/accounting-terms/accounting-dictionary/accounting-terms-G.html#generally%20accepted%20accounting%20principles%20(GAAP)</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:09:23Z</dc:date>
+<dc:subject>accounting principles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.accountingcrosswords.com/accounting-principles.php">
+<title>Accounting Principles - AccountingCrosswords.com</title>
+<link>http://www.accountingcrosswords.com/accounting-principles.php</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:09:06Z</dc:date>
+<dc:subject>accounting principles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/US_GAAP">
+<title>Generally Accepted Accounting Principles (United States) - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/US_GAAP</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:08:55Z</dc:date>
+<dc:subject>accounting principles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.accountingcoach.com/online-accounting-course/09Xpg01.html">
+<title>Accounting Principles | AccountingCoach.com</title>
+<link>http://www.accountingcoach.com/online-accounting-course/09Xpg01.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:08:40Z</dc:date>
+<dc:subject>accounting principles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bizcovering.com/Accounting/Basic-Principles-of-Accounting-and-Finance.30992">
+<title>Basic Principles of Accounting and Finance</title>
+<link>http://www.bizcovering.com/Accounting/Basic-Principles-of-Accounting-and-Finance.30992</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T07:08:23Z</dc:date>
+<dc:subject>accounting principles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wanakajobs.co.nz/category.pasp?emGUID=707EB0F145A846ECA603F8305578C8B5&#x26;categoryid=54">
+<title>Wanaka Jobs - Live in Wanaka New Zealand -&#xA0;&#xA0;JOBS&#xA0;&#xA0;WANAKAJOBS.CO.NZWanaka Employment - Wanaka Work - Accommodation Wanaka</title>
+<link>http://www.wanakajobs.co.nz/category.pasp?emGUID=707EB0F145A846ECA603F8305578C8B5&#x26;categoryid=54</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T06:24:07Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/">
+<title>Top 20 Motivation Hacks - An Overview | Zen Habits</title>
+<link>http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T06:18:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/">
+<title>Lessons in Productivity from Ralph Waldo Emerson | Zen Habits</title>
+<link>http://zenhabits.net/2008/06/lessons-in-productivity-from-ralph-waldo-emerson/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-07-01T06:10:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html">
+<title>Top 10 TED Talks - Boing Boing</title>
+<link>http://www.boingboing.net/2008/06/26/top-10-ted-talks.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T12:04:21Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nzhistory.net.nz/category/tid/216">
+<title>Second World War | NZHistory</title>
+<link>http://www.nzhistory.net.nz/category/tid/216</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T11:55:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nzfpm.co.nz/">
+<title>NZFPM |Home</title>
+<link>http://www.nzfpm.co.nz/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T11:54:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nzetc.org/tm/scholarly/tei-corpus-WH2.html">
+<title>The Official History of New Zealand in the Second World War 1939&#x2013;1945 | NZETC</title>
+<link>http://www.nzetc.org/tm/scholarly/tei-corpus-WH2.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T11:50:38Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://shop.crisras.dk/group.asp?group=498&#x26;sub=498&#x26;gclid=CLeftqiNnJQCFR0ZagodMUsvtg">
+<title>Design Delicatessen ApS</title>
+<link>http://shop.crisras.dk/group.asp?group=498&#x26;sub=498&#x26;gclid=CLeftqiNnJQCFR0ZagodMUsvtg</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T11:48:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.hybridmedicalanimation.com/anim_bloodflow.html">
+<title>Hybrid Medical Animation | Animation | Beating Heart Bloodflow</title>
+<link>http://www.hybridmedicalanimation.com/anim_bloodflow.html</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-30T11:36:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.vodafone.co.nz/iphone/">
+<title>iPhone 3G - The iPhone you've been waiting for - Vodafone NZ</title>
+<link>http://www.vodafone.co.nz/iphone/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-29T09:05:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>posterous - The place to post everything. Just email us.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-29T08:59:54Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.toxel.com/inspiration/2008/05/27/14-creative-advertisements/">
+<title>Toxel.com &#xBB; 14 Creative Advertisements</title>
+<link>http://www.toxel.com/inspiration/2008/05/27/14-creative-advertisements/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-29T08:01:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2008/06/the_google_way.php">
+<title>Kevin Kelly -- The Technium</title>
+<link>http://www.kk.org/thetechnium/archives/2008/06/the_google_way.php</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-29T07:58:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nursingdegree.net/blog/17/its-all-in-the-mind-75-ways-to-think-your-way-into-good-health/">
+<title>NursingDegree.net &#xBB; It&#x2019;s All in the Mind: 75 Ways to Think Your Way Into Good Health</title>
+<link>http://www.nursingdegree.net/blog/17/its-all-in-the-mind-75-ways-to-think-your-way-into-good-health/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-26T16:23:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://v3.planningwiz.com/">
+<title>PlanningWiz Online Room Planner Software for Furniture Retailers and Manufacturers, Building Contractors, Realtors and more</title>
+<link>http://v3.planningwiz.com/</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-25T21:38:47Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.menshealth.com/eatthis/food-fixes/index.php?cm_mmc=Yahoo_Blog-_-ETNT-_-The_6_Worst_Swimsuit_Foods-_-Fix_Anything_With_Food">
+<title>Men's Health - Eat This, Not That! - Best &#x26; Worst - What's are the best food fixes?</title>
+<link>http://www.menshealth.com/eatthis/food-fixes/index.php?cm_mmc=Yahoo_Blog-_-ETNT-_-The_6_Worst_Swimsuit_Foods-_-Fix_Anything_With_Food</link>
+<description></description>
+<dc:creator>spanatko</dc:creator>
+<dc:date>2008-06-25T21:35:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

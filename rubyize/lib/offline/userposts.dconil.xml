@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dconil">
+<title>del.icio.us/dconil</title>
+<link>http://del.icio.us/dconil</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="https://www.sdn.sap.com/irj/sdn/wiki?path=/display/BPX/Process+Modeling+With+BPMN" />
+  <rdf:li rdf:resource="https://hudson.dev.java.net/" />
+  <rdf:li rdf:resource="http://www.defmacro.org/ramblings/fp.html" />
+  <rdf:li rdf:resource="http://www.lesenfantsdedonquichotte.com/v4/index.html" />
+  <rdf:li rdf:resource="http://grinder.sourceforge.net/g3/whats-new.html" />
+  <rdf:li rdf:resource="http://www.floola.com/modules/wiwimod/" />
+  <rdf:li rdf:resource="http://tasktop.com/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/process-component-models" />
+  <rdf:li rdf:resource="http://www.marcclifton.com/tabid/87/Default.aspx" />
+  <rdf:li rdf:resource="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.test.performance/doc/Performance%20Tests%20HowTo.html?view=co" />
+  <rdf:li rdf:resource="http://testng.org/doc/" />
+  <rdf:li rdf:resource="http://human-interaction-management.info/" />
+  <rdf:li rdf:resource="http://jackrabbit.apache.org/" />
+  <rdf:li rdf:resource="http://www.eclipse.org/rap/" />
+  <rdf:li rdf:resource="http://www.parleys.com/display/PARLEYS/Closures%20for%20Java?showComments=true" />
+  <rdf:li rdf:resource="https://jazz.net/pub/index.jsp" />
+  <rdf:li rdf:resource="http://www.scala-lang.org/" />
+  <rdf:li rdf:resource="http://farm1.static.flickr.com/130/411998657_6cbea4d676.jpg" />
+  <rdf:li rdf:resource="http://www.artima.com/weblogs/viewpost.jsp?thread=215899" />
+  <rdf:li rdf:resource="http://www.junitfactory.com/crap4j/update/" />
+  <rdf:li rdf:resource="http://www.intalio.com/" />
+  <rdf:li rdf:resource="http://www.precisejava.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>computer. Such vertical scaling of existing systems also enables them to leverage virtualization technology more effectively, as it provides more resources for the hosted set of operating systems and application modules to share.</description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-07-06T12:27:40Z</dc:date>
+<dc:subject>architecture concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.sdn.sap.com/irj/sdn/wiki?path=/display/BPX/Process+Modeling+With+BPMN">
+<title>Process Modeling with BPMN</title>
+<link>https://www.sdn.sap.com/irj/sdn/wiki?path=/display/BPX/Process+Modeling+With+BPMN</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-06-14T06:48:54Z</dc:date>
+<dc:subject>BPM BPMN</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BPM" />
+    <rdf:li resource="http://del.icio.us/tag/BPMN" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://hudson.dev.java.net/">
+<title>hudson: an extensible continuous integration engine</title>
+<link>https://hudson.dev.java.net/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-04-27T16:35:26Z</dc:date>
+<dc:subject>continuousintegration development java tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/continuousintegration" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.defmacro.org/ramblings/fp.html">
+<title>defmacro - Functional Programming For The Rest of Us</title>
+<link>http://www.defmacro.org/ramblings/fp.html</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-16T15:10:28Z</dc:date>
+<dc:subject>fp functional programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/fp" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lesenfantsdedonquichotte.com/v4/index.html">
+<title>Les enfants de Don Quichotte</title>
+<link>http://www.lesenfantsdedonquichotte.com/v4/index.html</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-16T15:03:29Z</dc:date>
+<dc:subject>activism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://grinder.sourceforge.net/g3/whats-new.html">
+<title>What's new in The Grinder 3?</title>
+<link>http://grinder.sourceforge.net/g3/whats-new.html</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-16T10:05:56Z</dc:date>
+<dc:subject>java performance testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.floola.com/modules/wiwimod/">
+<title>floola.com - Wiwi - Home</title>
+<link>http://www.floola.com/modules/wiwimod/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-10T12:21:06Z</dc:date>
+<dc:subject>ipod itunes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/itunes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tasktop.com/">
+<title>Tasktop Technologies</title>
+<link>http://tasktop.com/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-10T10:02:55Z</dc:date>
+<dc:subject>management productivity task</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/task" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/process-component-models">
+<title>InfoQ: Process Component Models: The Next Generation In Workflow ?</title>
+<link>http://www.infoq.com/articles/process-component-models</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-05T09:01:15Z</dc:date>
+<dc:subject>BPM SOA workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BPM" />
+    <rdf:li resource="http://del.icio.us/tag/SOA" />
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcclifton.com/tabid/87/Default.aspx">
+<title>Unit Test Patterns</title>
+<link>http://www.marcclifton.com/tabid/87/Default.aspx</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-03T08:42:11Z</dc:date>
+<dc:subject>patterns programming tdd testing unittest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/unittest" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tdd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.test.performance/doc/Performance%20Tests%20HowTo.html?view=co">
+<title>Performance Tests HowTo</title>
+<link>http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.test.performance/doc/Performance%20Tests%20HowTo.html?view=co</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-03T08:41:05Z</dc:date>
+<dc:subject>eclipse performance testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://testng.org/doc/">
+<title>TestNG - Welcome</title>
+<link>http://testng.org/doc/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-03T08:39:26Z</dc:date>
+<dc:subject>junit testing testng</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/junit" />
+    <rdf:li resource="http://del.icio.us/tag/testng" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://human-interaction-management.info/">
+<title>Human Interaction Management</title>
+<link>http://human-interaction-management.info/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-02-03T08:30:31Z</dc:date>
+<dc:subject>BPM HIM collaboration management workflow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BPM" />
+    <rdf:li resource="http://del.icio.us/tag/HIM" />
+    <rdf:li resource="http://del.icio.us/tag/workflow" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jackrabbit.apache.org/">
+<title>Apache Jackrabbit - Welcome to Apache Jackrabbit</title>
+<link>http://jackrabbit.apache.org/</link>
+<description>uary 15, 2008: Apache Jackrabbit 1.4 released Apache Jackrabbit 1.4 is an incremental feature release. While remaining compatible with previous releases, Jackrabbit 1.4 introduces a number of new features, improvements and fixes to known issues. The most</description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-01-31T10:47:09Z</dc:date>
+<dc:subject>content java repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/content" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/rap/">
+<title>Rich Ajax Platform (RAP)</title>
+<link>http://www.eclipse.org/rap/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-01-31T10:45:01Z</dc:date>
+<dc:subject>ajax eclipse java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.parleys.com/display/PARLEYS/Closures%20for%20Java?showComments=true">
+<title>Closures for Java - Parleys - Parleys.com - a Belgian Java User Group initiative</title>
+<link>http://www.parleys.com/display/PARLEYS/Closures%20for%20Java?showComments=true</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-01-31T10:43:45Z</dc:date>
+<dc:subject>closure java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/closure" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://jazz.net/pub/index.jsp">
+<title>Jazz</title>
+<link>https://jazz.net/pub/index.jsp</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2008-01-31T10:42:52Z</dc:date>
+<dc:subject>developer efficiency java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/developer" />
+    <rdf:li resource="http://del.icio.us/tag/efficiency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scala-lang.org/">
+<title>The Scala Programming Language</title>
+<link>http://www.scala-lang.org/</link>
+<description>mming language designed to express common programming patterns in a concise, elegant, and type-safe way. It smoothly integrates features of object-oriented and functional languages. It is also fully interoperable with Java.</description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-12-08T16:27:11Z</dc:date>
+<dc:subject>language programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://farm1.static.flickr.com/130/411998657_6cbea4d676.jpg">
+<title>Software Design</title>
+<link>http://farm1.static.flickr.com/130/411998657_6cbea4d676.jpg</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-10-09T20:13:04Z</dc:date>
+<dc:subject>design software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/weblogs/viewpost.jsp?thread=215899">
+<title>written an article for Artima</title>
+<link>http://www.artima.com/weblogs/viewpost.jsp?thread=215899</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-10-07T14:01:35Z</dc:date>
+<dc:subject>java metrics testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/metrics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.junitfactory.com/crap4j/update/">
+<title>crap4j</title>
+<link>http://www.junitfactory.com/crap4j/update/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-10-07T13:57:19Z</dc:date>
+<dc:subject>java testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.intalio.com/">
+<title>Intalio, Leader in Open Source BPMS</title>
+<link>http://www.intalio.com/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-10-07T13:55:55Z</dc:date>
+<dc:subject>BPM Java SOA</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BPM" />
+    <rdf:li resource="http://del.icio.us/tag/SOA" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.precisejava.com/">
+<title>PreciseJava.com - The path to improvement</title>
+<link>http://www.precisejava.com/</link>
+<description></description>
+<dc:creator>dconil</dc:creator>
+<dc:date>2007-09-09T09:45:03Z</dc:date>
+<dc:subject>bestpractices java performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/bestpractices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

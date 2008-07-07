@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/medardo56">
+<title>del.icio.us/medardo56</title>
+<link>http://del.icio.us/medardo56</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://java.sun.com/docs/books/tutorial/index.html" />
+  <rdf:li rdf:resource="http://www.cwwsoft.com/extranotes.html" />
+  <rdf:li rdf:resource="http://www.jogli.com/#home" />
+  <rdf:li rdf:resource="http://www.fibromialgia-cat.org/cat/frames.htm" />
+  <rdf:li rdf:resource="http://www.nl.fatwire.com/ide/" />
+  <rdf:li rdf:resource="http://www.sloshspot.com/blog/06-24-2008/Ten-Cool-and-Free-Magic-Bar-Tricks-23" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/" />
+  <rdf:li rdf:resource="http://www.attic08.com/" />
+  <rdf:li rdf:resource="http://validator.w3.org/" />
+  <rdf:li rdf:resource="http://gtdinbox.com/index.htm" />
+  <rdf:li rdf:resource="http://www.lcc.uma.es/~galvez/inicio.html" />
+  <rdf:li rdf:resource="http://www.buscaexamen.com/" />
+  <rdf:li rdf:resource="http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://www.anieto2k.com/2008/06/19/como-conseguir-compatibilidad-entre-navegadores-siempre/" />
+  <rdf:li rdf:resource="http://www.lifeoptimizer.org/2008/06/20/ways-to-defeat-the-procrastination-habit/" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-3-column.htm" />
+  <rdf:li rdf:resource="http://lifehacker.com/396312/power-users-guide-to-firefox-3" />
+  <rdf:li rdf:resource="http://www.mailxmail.com/curso/vida/lainteligenciaemocional" />
+  <rdf:li rdf:resource="http://www.viksoe.dk/code/gmail.htm" />
+  <rdf:li rdf:resource="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html" />
+  <rdf:li rdf:resource="http://manual-java.com/" />
+  <rdf:li rdf:resource="http://www.makezine.com/" />
+  <rdf:li rdf:resource="http://www.livrona.com/blog/programming/10-object-oriented-design-principles" />
+  <rdf:li rdf:resource="http://sourceforge.net/projects/keepasssync" />
+  <rdf:li rdf:resource="http://www.exploratree.org.uk/" />
+  <rdf:li rdf:resource="http://www.exploratree.org.uk/movie.php" />
+  <rdf:li rdf:resource="http://www.palabea.net/" />
+  <rdf:li rdf:resource="http://contineo.wikispaces.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-07-06T09:01:31Z</dc:date>
+<dc:subject>ebook programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/docs/books/tutorial/index.html">
+<title>The Java&#x2122; Tutorials</title>
+<link>http://java.sun.com/docs/books/tutorial/index.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-07-04T13:54:44Z</dc:date>
+<dc:subject>Java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cwwsoft.com/extranotes.html">
+<title>ExtraNotes - create and manage text notes</title>
+<link>http://www.cwwsoft.com/extranotes.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-27T20:54:47Z</dc:date>
+<dc:subject>notes utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jogli.com/#home">
+<title>Jogli</title>
+<link>http://www.jogli.com/#home</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-27T20:48:53Z</dc:date>
+<dc:subject>MP3 music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MP3" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fibromialgia-cat.org/cat/frames.htm">
+<title>Associaci&#xF3; Catalana d'Afectats de Fibromi&#xE0;lgia</title>
+<link>http://www.fibromialgia-cat.org/cat/frames.htm</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-27T11:27:38Z</dc:date>
+<dc:subject>Fibromiagia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fibromiagia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nl.fatwire.com/ide/">
+<title>CS IDE Integration - CS IDE integration site</title>
+<link>http://www.nl.fatwire.com/ide/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-27T06:19:16Z</dc:date>
+<dc:subject>Fatwire</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fatwire" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sloshspot.com/blog/06-24-2008/Ten-Cool-and-Free-Magic-Bar-Tricks-23">
+<title>Ten Cool (and Free) Magic Bar Tricks | Sloshspot Blog</title>
+<link>http://www.sloshspot.com/blog/06-24-2008/Ten-Cool-and-Free-Magic-Bar-Tricks-23</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-27T03:57:53Z</dc:date>
+<dc:subject>Curiosidades</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Curiosidades" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/">
+<title>Flexible Layouts: Challenge For The Future | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-26T16:05:54Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.attic08.com/">
+<title>Attic 08</title>
+<link>http://www.attic08.com/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-26T02:58:59Z</dc:date>
+<dc:subject>innovation inventos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/inventos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://validator.w3.org/">
+<title>The W3C Markup Validation Service</title>
+<link>http://validator.w3.org/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-25T06:49:58Z</dc:date>
+<dc:subject>testing webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gtdinbox.com/index.htm">
+<title>GTDInbox - GTD, Task Management and a Better Inbox for Gmail</title>
+<link>http://gtdinbox.com/index.htm</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-24T20:50:12Z</dc:date>
+<dc:subject>Firefox GTD gmail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lcc.uma.es/~galvez/inicio.html">
+<title>UMA. Dr. D. Sergio G&#xE1;lvez Rojas.</title>
+<link>http://www.lcc.uma.es/~galvez/inicio.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-24T10:36:08Z</dc:date>
+<dc:subject>Marc programaci&#xF3;n</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Marc" />
+    <rdf:li resource="http://del.icio.us/tag/programaci%C3%B3n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.buscaexamen.com/">
+<title>Buscaexamen | examenes, practicas, textos, bibliografias</title>
+<link>http://www.buscaexamen.com/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-24T09:52:28Z</dc:date>
+<dc:subject>Marc examenes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Marc" />
+    <rdf:li resource="http://del.icio.us/tag/examenes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678">
+<title>14 vital Internet tools</title>
+<link>http://www.computerworld.com/action/article.do?command=printArticleBasic&#x26;articleId=9101678</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-23T16:38:23Z</dc:date>
+<dc:subject>software utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-22T08:01:33Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anieto2k.com/2008/06/19/como-conseguir-compatibilidad-entre-navegadores-siempre/">
+<title>Como conseguir compatibilidad entre navegadores siempre | aNieto2K</title>
+<link>http://www.anieto2k.com/2008/06/19/como-conseguir-compatibilidad-entre-navegadores-siempre/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-20T19:18:56Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifeoptimizer.org/2008/06/20/ways-to-defeat-the-procrastination-habit/">
+<title>7 Can&#x2019;t-Miss Ways to Defeat the Procrastination Habit | Life Optimizer</title>
+<link>http://www.lifeoptimizer.org/2008/06/20/ways-to-defeat-the-procrastination-habit/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-20T18:58:19Z</dc:date>
+<dc:subject>GTD lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-18T21:32:14Z</dc:date>
+<dc:subject>CSS webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-3-column.htm">
+<title>The Perfect 3 Column Liquid Layout: No CSS hacks. SEO friendly. iPhone compatible.</title>
+<link>http://matthewjamestaylor.com/blog/perfect-3-column.htm</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-18T21:30:13Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396312/power-users-guide-to-firefox-3">
+<title>Firefox 3: Power User's Guide to Firefox 3</title>
+<link>http://lifehacker.com/396312/power-users-guide-to-firefox-3</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-18T21:29:38Z</dc:date>
+<dc:subject>Firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailxmail.com/curso/vida/lainteligenciaemocional">
+<title>Curso gratis: La inteligencia emocional</title>
+<link>http://www.mailxmail.com/curso/vida/lainteligenciaemocional</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-06-05T13:19:55Z</dc:date>
+<dc:subject>e-learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.viksoe.dk/code/gmail.htm">
+<title>viksoe.dk - GMail Drive shell extension</title>
+<link>http://www.viksoe.dk/code/gmail.htm</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T21:54:41Z</dc:date>
+<dc:subject>backup gmail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html">
+<title>Remember The Milk - Blog</title>
+<link>http://blog.rememberthemilk.com/2008/05/guest-post-advanced-gtd-with-remember.html</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T21:19:47Z</dc:date>
+<dc:subject>GTD rtm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+    <rdf:li resource="http://del.icio.us/tag/rtm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://manual-java.com/">
+<title>Manual de Java</title>
+<link>http://manual-java.com/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T16:01:09Z</dc:date>
+<dc:subject>manual programacion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programacion" />
+    <rdf:li resource="http://del.icio.us/tag/manual" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makezine.com/">
+<title>makezine.com: MAKE: Technology on Your Time</title>
+<link>http://www.makezine.com/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T15:19:54Z</dc:date>
+<dc:subject>Curiosidades</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Curiosidades" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livrona.com/blog/programming/10-object-oriented-design-principles">
+<title>10 Object Oriented Design Principles | Livrona</title>
+<link>http://www.livrona.com/blog/programming/10-object-oriented-design-principles</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T13:24:49Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/projects/keepasssync">
+<title>SourceForge.net: KeePassSync</title>
+<link>http://sourceforge.net/projects/keepasssync</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-30T13:09:19Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.exploratree.org.uk/">
+<title>Exploratree - Exploratree by FutureLab</title>
+<link>http://www.exploratree.org.uk/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-28T21:40:33Z</dc:date>
+<dc:subject>brainstorming mindmapping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brainstorming" />
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.exploratree.org.uk/movie.php">
+<title>Exploratree in action - Exploratree by FutureLab</title>
+<link>http://www.exploratree.org.uk/movie.php</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-28T21:27:19Z</dc:date>
+<dc:subject>mindmapping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmapping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.palabea.net/">
+<title>palabea.net:: el mundo parlante::</title>
+<link>http://www.palabea.net/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-28T09:14:23Z</dc:date>
+<dc:subject>e-learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://contineo.wikispaces.com/">
+<title>Contineo &#xBB; home</title>
+<link>http://contineo.wikispaces.com/</link>
+<description></description>
+<dc:creator>medardo56</dc:creator>
+<dc:date>2008-05-28T09:01:59Z</dc:date>
+<dc:subject>dms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

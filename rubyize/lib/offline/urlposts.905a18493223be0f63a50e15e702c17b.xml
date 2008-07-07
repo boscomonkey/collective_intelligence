@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b">
+<title>del.icio.us bookmarks for http://www.chrisbrogan.com/a-sample-blogging-workflow/</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#katesands" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#emmilylampert" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#koskim23" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jayang" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#MorganKane" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#rzklkng" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#EtienneCharlier" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#steven.hill1" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ryanthirtyman" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Florence_Malek" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ninadb" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#azazell0" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#trucker21" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#sschraml" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#drkrahn" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dreedenator" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#markcahill" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dickson007" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Crimson" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dsanchezbote" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#thomasrstegelmann" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vojko" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lghuffman" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jeeva.sathurayar" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Hervey" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vollkornbrot" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jamesbra" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#glenngillen" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#qud" />
+  <rdf:li rdf:resource="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lynnyap" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#katesands">
+<title>[from katesands] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#katesands</link>
+<description></description>
+<dc:creator>katesands</dc:creator>
+<dc:date>2008-07-06T13:08:10Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#emmilylampert">
+<title>[from emmilylampert] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#emmilylampert</link>
+<description></description>
+<dc:creator>emmilylampert</dc:creator>
+<dc:date>2008-07-06T13:03:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#koskim23">
+<title>[from koskim23] A Sample Blogging Workflow</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#koskim23</link>
+<description>Here are some ideas on how to build and maintain a steady blogging rhythm, be it for your personal blog or your business blog. We&#x2019;ll cover goals, tasks, tools, and some bonus secrets.</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-07-06T13:02:18Z</dc:date>
+<dc:subject>blogging chris-brogan clientapplications resources tips web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/chris-brogan" />
+    <rdf:li resource="http://del.icio.us/tag/clientapplications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jayang">
+<title>[from jayang] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jayang</link>
+<description></description>
+<dc:creator>jayang</dc:creator>
+<dc:date>2008-07-06T12:54:34Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#MorganKane">
+<title>[from MorganKane] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#MorganKane</link>
+<description></description>
+<dc:creator>MorganKane</dc:creator>
+<dc:date>2008-07-06T12:53:34Z</dc:date>
+<dc:subject>blogtools howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogtools" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#rzklkng">
+<title>[from rzklkng] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#rzklkng</link>
+<description></description>
+<dc:creator>rzklkng</dc:creator>
+<dc:date>2008-07-06T12:52:53Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#EtienneCharlier">
+<title>[from EtienneCharlier] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#EtienneCharlier</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:49:20Z</dc:date>
+<dc:subject>blogs pa reference tips webdesign writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/pa" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#steven.hill1">
+<title>[from steven.hill1] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#steven.hill1</link>
+<description></description>
+<dc:creator>steven.hill1</dc:creator>
+<dc:date>2008-07-06T12:47:56Z</dc:date>
+<dc:subject>blog blogs productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ryanthirtyman">
+<title>[from ryanthirtyman] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ryanthirtyman</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-06T12:47:53Z</dc:date>
+<dc:subject>blog process</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/process" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Florence_Malek">
+<title>[from Florence_Malek] http://www.chrisbrogan.com/a-sample-blogging-workflow/</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Florence_Malek</link>
+<description></description>
+<dc:creator>Florence_Malek</dc:creator>
+<dc:date>2008-07-06T12:23:27Z</dc:date>
+<dc:subject>blogging howto tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ninadb">
+<title>[from ninadb] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#ninadb</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T12:21:19Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#azazell0">
+<title>[from azazell0] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#azazell0</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-06T12:20:53Z</dc:date>
+<dc:subject>advice blog blogging productivity tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#trucker21">
+<title>[from trucker21] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#trucker21</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-06T12:15:27Z</dc:date>
+<dc:subject>advice blog blogging howto tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#sschraml">
+<title>[from sschraml] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#sschraml</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T11:57:00Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#drkrahn">
+<title>[from drkrahn] A Sample Blogging Workflow</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#drkrahn</link>
+<description>hints for a blog within a company</description>
+<dc:creator>drkrahn</dc:creator>
+<dc:date>2008-07-06T11:54:00Z</dc:date>
+<dc:subject>at blog work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/at" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dreedenator">
+<title>[from dreedenator] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dreedenator</link>
+<description></description>
+<dc:creator>dreedenator</dc:creator>
+<dc:date>2008-07-06T11:34:37Z</dc:date>
+<dc:subject>blogging myniche writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myniche" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#markcahill">
+<title>[from markcahill] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#markcahill</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-06T11:26:02Z</dc:date>
+<dc:subject>blog blogging socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dickson007">
+<title>[from dickson007] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dickson007</link>
+<description></description>
+<dc:creator>dickson007</dc:creator>
+<dc:date>2008-07-06T11:19:16Z</dc:date>
+<dc:subject>blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Crimson">
+<title>[from Crimson] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Crimson</link>
+<description></description>
+<dc:creator>Crimson</dc:creator>
+<dc:date>2008-07-06T11:16:08Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dsanchezbote">
+<title>[from dsanchezbote] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#dsanchezbote</link>
+<description></description>
+<dc:creator>dsanchezbote</dc:creator>
+<dc:date>2008-07-06T10:36:48Z</dc:date>
+<dc:subject>blogs corporate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/corporate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#thomasrstegelmann">
+<title>[from thomasrstegelmann] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#thomasrstegelmann</link>
+<description></description>
+<dc:creator>thomasrstegelmann</dc:creator>
+<dc:date>2008-07-06T10:29:12Z</dc:date>
+<dc:subject>blogging productivity writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vojko">
+<title>[from vojko] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vojko</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-06T09:59:12Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lghuffman">
+<title>[from lghuffman] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lghuffman</link>
+<description></description>
+<dc:creator>lghuffman</dc:creator>
+<dc:date>2008-07-06T09:33:34Z</dc:date>
+<dc:subject>blogging chrisbrogan howto writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/chrisbrogan" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jeeva.sathurayar">
+<title>[from jeeva.sathurayar] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jeeva.sathurayar</link>
+<description></description>
+<dc:creator>jeeva.sathurayar</dc:creator>
+<dc:date>2008-07-06T09:32:17Z</dc:date>
+<dc:subject>*** blog blogging communication process productivity socialcomputing socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/process" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/socialcomputing" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/***" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Hervey">
+<title>[from Hervey] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#Hervey</link>
+<description></description>
+<dc:creator>Hervey</dc:creator>
+<dc:date>2008-07-06T09:30:55Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vollkornbrot">
+<title>[from vollkornbrot] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#vollkornbrot</link>
+<description></description>
+<dc:creator>vollkornbrot</dc:creator>
+<dc:date>2008-07-06T09:22:49Z</dc:date>
+<dc:subject>blogging tipps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/tipps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jamesbra">
+<title>[from jamesbra] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#jamesbra</link>
+<description></description>
+<dc:creator>jamesbra</dc:creator>
+<dc:date>2008-07-06T09:19:16Z</dc:date>
+<dc:subject>blogadvice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogadvice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#glenngillen">
+<title>[from glenngillen] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#glenngillen</link>
+<description></description>
+<dc:creator>glenngillen</dc:creator>
+<dc:date>2008-07-06T09:18:12Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#qud">
+<title>[from qud] A Sample Blogging Workflow</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#qud</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:16:48Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lynnyap">
+<title>[from lynnyap] A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://del.icio.us/url/905a18493223be0f63a50e15e702c17b#lynnyap</link>
+<description>blogging notes</description>
+<dc:creator>lynnyap</dc:creator>
+<dc:date>2008-07-06T08:49:54Z</dc:date>
+<dc:subject>blog notes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/notes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

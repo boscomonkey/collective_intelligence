@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lavie">
+<title>del.icio.us/lavie</title>
+<link>http://del.icio.us/lavie</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article4272421.ece" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/07/05/europeans-you-have-u.html" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/article.pl?sid=08/07/05/2222241" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.couchsurfing.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Pecha_Kucha" />
+  <rdf:li rdf:resource="http://www.powells.com/review/2008_04_16.html" />
+  <rdf:li rdf:resource="http://www.hipsterrunoff.com/" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/asia-pacific/7486814.stm" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/americas/7487026.stm" />
+  <rdf:li rdf:resource="http://www.lemonde.fr/ameriques/article/2008/07/02/ingrid-betancourt-a-ete-liberee_1065659_3222.html?xtor=RSS-3208" />
+  <rdf:li rdf:resource="http://www.electronista.com/articles/08/07/01/eee.monitor.official.shots/" />
+  <rdf:li rdf:resource="http://prophipsi.blogspot.com/2008/07/goodbye-java-generics.html" />
+  <rdf:li rdf:resource="http://booksaga.blogspot.com/2008/06/unusual-book-find.html" />
+  <rdf:li rdf:resource="http://onehundredb.com/" />
+  <rdf:li rdf:resource="http://onehundredb.com/2008/06/24/100bookshelf-rob-sheffield-mark-oliver-everett/" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/30/olympus-ws110-digita.html" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/world/2008/apr/21/3" />
+  <rdf:li rdf:resource="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.iht.com/articles/2008/06/29/opinion/edwang.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/397394/the-books-that-changed-your-lives" />
+  <rdf:li rdf:resource="http://www.ddj.com/hpc-high-performance-computing/208801371" />
+  <rdf:li rdf:resource="http://blog.macromates.com/2008/working-with-history-in-bash/" />
+  <rdf:li rdf:resource="http://www.splitbrain.org/blog/2008-06/25-google_public_relations" />
+  <rdf:li rdf:resource="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/" />
+  <rdf:li rdf:resource="http://nymag.com/arts/books/reviews/47197/" />
+  <rdf:li rdf:resource="http://www.lemonde.fr/societe/article/2008/06/24/dans-le-19e-arrondissement-de-paris-la-rue-petit-son-ennui-et-ses-bandes_1062031_3224.html?xtor=RSS-3208" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article4272421.ece">
+<title>The Sharia debate: we can't all be equal under different laws | Matthew Parris - Times Online</title>
+<link>http://www.timesonline.co.uk/tol/comment/columnists/matthew_parris/article4272421.ece</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T09:59:08Z</dc:date>
+<dc:subject>2008 england islam law religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/england" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/islam" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/07/05/europeans-you-have-u.html">
+<title>EUROPEANS! You have until MONDAY to contact your MEP and save the EU from a three-strikes copyright rule! - Boing Boing</title>
+<link>http://www.boingboing.net/2008/07/05/europeans-you-have-u.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T09:58:54Z</dc:date>
+<dc:subject>2008 boingboing copyright democracy europe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/copyright" />
+    <rdf:li resource="http://del.icio.us/tag/democracy" />
+    <rdf:li resource="http://del.icio.us/tag/boingboing" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/europe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x203D;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description>Password recovery</description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T09:50:49Z</dc:date>
+<dc:subject>2008 hacking privacy research security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ask.slashdot.org/article.pl?sid=08/07/05/2222241">
+<title>Slashdot | Digitizing Old Magazines?</title>
+<link>http://ask.slashdot.org/article.pl?sid=08/07/05/2222241</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T07:23:46Z</dc:date>
+<dc:subject>2008 archiving digital scanning slashdot</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archiving" />
+    <rdf:li resource="http://del.icio.us/tag/digital" />
+    <rdf:li resource="http://del.icio.us/tag/scanning" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/slashdot" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description>free PDF textbook</description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T05:42:17Z</dc:date>
+<dc:subject>2008 books ebook education free java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.couchsurfing.com/">
+<title>CouchSurfing</title>
+<link>http://www.couchsurfing.com/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-06T05:34:06Z</dc:date>
+<dc:subject>2008 travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Pecha_Kucha">
+<title>Pecha Kucha - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Pecha_Kucha</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-05T13:01:58Z</dc:date>
+<dc:subject>2008 powerpoint presentations slideshow speaking technique</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/speaking" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powells.com/review/2008_04_16.html">
+<title>Review-a-Day - The Craftsman by Richard Sennett, reviewed by Bookforum</title>
+<link>http://www.powells.com/review/2008_04_16.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-05T12:56:57Z</dc:date>
+<dc:subject>2008 books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hipsterrunoff.com/">
+<title>HIPSTER RUNOFF</title>
+<link>http://www.hipsterrunoff.com/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-05T06:37:01Z</dc:date>
+<dc:subject>2008 alternative electronic fashion indie mp3 style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/electronic" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/alternative" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/">
+<title>The 11 Best Foods You Arent Eating - Well - Tara Parker-Pope - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-03T13:34:58Z</dc:date>
+<dc:subject>2008 diet food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html">
+<title>Personal Best - Fitting Heat and Humidity Into Your Workouts - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/03/health/nutrition/03Best.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-03T13:34:51Z</dc:date>
+<dc:subject>2008 exercise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/asia-pacific/7486814.stm">
+<title>BBC NEWS | Asia-Pacific | Tackling Qingdao's invading algae</title>
+<link>http://news.bbc.co.uk/2/hi/asia-pacific/7486814.stm</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-03T11:44:07Z</dc:date>
+<dc:subject>2008 china ecology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/ecology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/americas/7487026.stm">
+<title>BBC NEWS | Americas | Betancourt hails 'perfect' rescue</title>
+<link>http://news.bbc.co.uk/2/hi/americas/7487026.stm</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-03T11:43:51Z</dc:date>
+<dc:subject>2008 france terrorism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/france" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/terrorism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lemonde.fr/ameriques/article/2008/07/02/ingrid-betancourt-a-ete-liberee_1065659_3222.html?xtor=RSS-3208">
+<title>Ingrid B&#xE9;tancourt a &#xE9;t&#xE9; lib&#xE9;r&#xE9;e - Am&#xE9;riques - Le Monde.fr</title>
+<link>http://www.lemonde.fr/ameriques/article/2008/07/02/ingrid-betancourt-a-ete-liberee_1065659_3222.html?xtor=RSS-3208</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-02T21:33:46Z</dc:date>
+<dc:subject>2008 french terrorism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/french" />
+    <rdf:li resource="http://del.icio.us/tag/terrorism" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electronista.com/articles/08/07/01/eee.monitor.official.shots/">
+<title>Electronista | Eee Monitor shots reveal Linux's iMac rival</title>
+<link>http://www.electronista.com/articles/08/07/01/eee.monitor.official.shots/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-02T14:12:02Z</dc:date>
+<dc:subject>2008 hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prophipsi.blogspot.com/2008/07/goodbye-java-generics.html">
+<title>Pro-Phi-Psi: Goodbye Java Generics</title>
+<link>http://prophipsi.blogspot.com/2008/07/goodbye-java-generics.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-02T12:19:40Z</dc:date>
+<dc:subject>2008 generics groovy java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+    <rdf:li resource="http://del.icio.us/tag/groovy" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://booksaga.blogspot.com/2008/06/unusual-book-find.html">
+<title>BOOKSAGA: Adventures in the Book Trade: Unusual Book Find</title>
+<link>http://booksaga.blogspot.com/2008/06/unusual-book-find.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-01T22:18:48Z</dc:date>
+<dc:subject>2008 books funny photos sex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/sex" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onehundredb.com/">
+<title>onehundredb mp3blog</title>
+<link>http://onehundredb.com/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-01T14:33:16Z</dc:date>
+<dc:subject>2008 mp3 mp3blog music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3blog" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://onehundredb.com/2008/06/24/100bookshelf-rob-sheffield-mark-oliver-everett/">
+<title>100bookshelf: Rob Sheffield</title>
+<link>http://onehundredb.com/2008/06/24/100bookshelf-rob-sheffield-mark-oliver-everett/</link>
+<description>Love is a mix tape</description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-01T14:29:46Z</dc:date>
+<dc:subject>2008 books cecile love relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/love" />
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/cecile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/30/olympus-ws110-digita.html">
+<title>Olympus WS-110 digital voice recorder - Boing Boing</title>
+<link>http://www.boingboing.net/2008/06/30/olympus-ws110-digita.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-07-01T14:01:09Z</dc:date>
+<dc:subject>2008 audio hardware music recording</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/recording" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/world/2008/apr/21/3">
+<title>Obituary: Aim&#xE9; C&#xE9;saire | World news | The Guardian</title>
+<link>http://www.guardian.co.uk/world/2008/apr/21/3</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-30T14:12:26Z</dc:date>
+<dc:subject>2008 france history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/france" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html">
+<title>Gumption: Do YouJustGetMe? Do I Even Get Myself?</title>
+<link>http://gumption.typepad.com/blog/2008/04/do-youjustgetme.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-30T14:11:40Z</dc:date>
+<dc:subject>2008 facebook socialnetworking web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-30T14:11:30Z</dc:date>
+<dc:subject>2008 compiler compsci programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/compsci" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iht.com/articles/2008/06/29/opinion/edwang.php">
+<title>Your brain lies to you - International Herald Tribune</title>
+<link>http://www.iht.com/articles/2008/06/29/opinion/edwang.php</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-30T14:11:21Z</dc:date>
+<dc:subject>2008 brain neuroscience sociology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/neuroscience" />
+    <rdf:li resource="http://del.icio.us/tag/sociology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397394/the-books-that-changed-your-lives">
+<title>Book Recommendations: The Books That Changed Your Lives</title>
+<link>http://lifehacker.com/397394/the-books-that-changed-your-lives</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-30T14:11:07Z</dc:date>
+<dc:subject>2008 book books ebooks lifehacker reading recommendations</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/recommendations" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ddj.com/hpc-high-performance-computing/208801371">
+<title>Dr. Dobb's | Choose Concurrency-Friendly Data Structures | juin 27, 2008</title>
+<link>http://www.ddj.com/hpc-high-performance-computing/208801371</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-29T16:04:21Z</dc:date>
+<dc:subject>2008 concurrency programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.macromates.com/2008/working-with-history-in-bash/">
+<title>TextMate Blog &#x203D; Working With History in Bash</title>
+<link>http://blog.macromates.com/2008/working-with-history-in-bash/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-29T16:04:09Z</dc:date>
+<dc:subject>2008 bash unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.splitbrain.org/blog/2008-06/25-google_public_relations">
+<title>Google Public Relations [splitbrain.org]</title>
+<link>http://www.splitbrain.org/blog/2008-06/25-google_public_relations</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-27T14:47:50Z</dc:date>
+<dc:subject>2008 firefox google scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/">
+<title>Building a Python Web Application, Part 1</title>
+<link>http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-27T14:47:14Z</dc:date>
+<dc:subject>2008 python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nymag.com/arts/books/reviews/47197/">
+<title>'Intercourse: Stories,' by Robert Olen Butler -- New York Magazine Book Review</title>
+<link>http://nymag.com/arts/books/reviews/47197/</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-26T14:31:20Z</dc:date>
+<dc:subject>2008 books literature sexuality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/sexuality" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lemonde.fr/societe/article/2008/06/24/dans-le-19e-arrondissement-de-paris-la-rue-petit-son-ennui-et-ses-bandes_1062031_3224.html?xtor=RSS-3208">
+<title>La rue Petit, son ennui et ses bandes</title>
+<link>http://www.lemonde.fr/societe/article/2008/06/24/dans-le-19e-arrondissement-de-paris-la-rue-petit-son-ennui-et-ses-bandes_1062031_3224.html?xtor=RSS-3208</link>
+<description></description>
+<dc:creator>lavie</dc:creator>
+<dc:date>2008-06-24T22:28:31Z</dc:date>
+<dc:subject>2008 france paris</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/paris" />
+    <rdf:li resource="http://del.icio.us/tag/france" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/justwes">
+<title>del.icio.us/justwes</title>
+<link>http://del.icio.us/justwes</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.foreworks.com/hacker.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://imagechan.com/img/5732/Orangutans/#" />
+  <rdf:li rdf:resource="http://jdeuel.fatkitties.net/wanted.jpg" />
+  <rdf:li rdf:resource="http://www.ew.com/ew/article/0,,20210538,00.html?iid=top25-20080705-Stephen+King:+Why+Hollywood+can't+do+horror" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/06/magazine/06suicide-t.html?ex=1372824000&#x26;en=113519d34cac0300&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg" />
+  <rdf:li rdf:resource="http://www.louisvillephoto.org/forum/topic/show?id=2028691%3ATopic%3A32159" />
+  <rdf:li rdf:resource="http://www.break.com/index/how-not-to-fake-a-heart-attack.html" />
+  <rdf:li rdf:resource="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://www.crunchboard.com/opening/detailjob.php?jid=4838" />
+  <rdf:li rdf:resource="http://www.networkworld.com/news/2008/070108-mcafee-spam-experiment.html?hpg1=bn" />
+  <rdf:li rdf:resource="http://www.simplicity-ingenueous.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.graybear.org/events.html" />
+  <rdf:li rdf:resource="http://jchutchins.net/site/category/book-i/" />
+  <rdf:li rdf:resource="http://vice.typepad.com/vice_magazine/2008/06/scotland---the.html" />
+  <rdf:li rdf:resource="http://polyweekly.com/" />
+  <rdf:li rdf:resource="http://thutranthutran.wordpress.com/" />
+  <rdf:li rdf:resource="http://www.phdcomics.com/comics.php?f=1015" />
+  <rdf:li rdf:resource="http://www.marriedtothesea.com/" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=FrejJHPnVfk&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox" />
+  <rdf:li rdf:resource="http://incredimazing.com/page/Homemade_Electric_Toothbrush" />
+  <rdf:li rdf:resource="http://filespump.com/social/rediculousjeansub7.html" />
+  <rdf:li rdf:resource="http://www.eyje.com/pictures/amazing/Craigslist_Will_Never_Cease_To_Amaze_Me_PIC_" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/30/desktop-wallpaper-calendar-july-2008/" />
+  <rdf:li rdf:resource="http://my.break.com/content/view.aspx?ContentID=529558" />
+  <rdf:li rdf:resource="http://www.entertainmentearth.com/prodinfo.asp?number=DH12527" />
+  <rdf:li rdf:resource="http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg" />
+  <rdf:li rdf:resource="http://dragonforged.com/blog/2007/09/tethering-the-iphone-for-os-x.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=sCJTR3XeiAc" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.foreworks.com/hacker.html">
+<title>The Real Hackers</title>
+<link>http://www.foreworks.com/hacker.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T12:22:26Z</dc:date>
+<dc:subject>computer hackers hacking history security technology toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/hackers" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T12:20:22Z</dc:date>
+<dc:subject>business chair computers design ergonomics furniture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imagechan.com/img/5732/Orangutans/#">
+<title>Orangutans - ImageChan</title>
+<link>http://imagechan.com/img/5732/Orangutans/#</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T12:15:41Z</dc:date>
+<dc:subject>advice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jdeuel.fatkitties.net/wanted.jpg">
+<title>wanted.jpg (JPEG Image, 979x552 pixels)</title>
+<link>http://jdeuel.fatkitties.net/wanted.jpg</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T11:37:25Z</dc:date>
+<dc:subject>band music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/band" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ew.com/ew/article/0,,20210538,00.html?iid=top25-20080705-Stephen+King:+Why+Hollywood+can't+do+horror">
+<title>Stephen King: Why Hollywood can't do horror | The Strangers | The Pop of King | Movies | Entertainment Weekly | 1</title>
+<link>http://www.ew.com/ew/article/0,,20210538,00.html?iid=top25-20080705-Stephen+King:+Why+Hollywood+can't+do+horror</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T06:46:56Z</dc:date>
+<dc:subject>ew stephenking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stephenking" />
+    <rdf:li resource="http://del.icio.us/tag/ew" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/06/magazine/06suicide-t.html?ex=1372824000&#x26;en=113519d34cac0300&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg">
+<title>The Urge to End It - Understanding Suicide - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/06/magazine/06suicide-t.html?ex=1372824000&#x26;en=113519d34cac0300&#x26;ei=5124&#x26;partner=digg&#x26;exprod=digg</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T03:28:17Z</dc:date>
+<dc:subject>depression education health philosophy psychology suicide toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/depression" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/suicide" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.louisvillephoto.org/forum/topic/show?id=2028691%3ATopic%3A32159">
+<title>Free Summer Seminars - Louisville Photography Collective</title>
+<link>http://www.louisvillephoto.org/forum/topic/show?id=2028691%3ATopic%3A32159</link>
+<description>i think that i might go</description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-06T02:30:03Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.break.com/index/how-not-to-fake-a-heart-attack.html">
+<title>How Not To Fake A Heart Attack&#xA0;Video</title>
+<link>http://www.break.com/index/how-not-to-fake-a-heart-attack.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-04T22:48:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706">
+<title>EO Newsroom: New Images - Smoke Plume</title>
+<link>http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-04T14:31:27Z</dc:date>
+<dc:subject>nasa photo science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nasa" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-04T05:19:28Z</dc:date>
+<dc:subject>apps computer computers software tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crunchboard.com/opening/detailjob.php?jid=4838">
+<title>CrunchBoard Job Board</title>
+<link>http://www.crunchboard.com/opening/detailjob.php?jid=4838</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-04T01:51:02Z</dc:date>
+<dc:subject>employment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.networkworld.com/news/2008/070108-mcafee-spam-experiment.html?hpg1=bn">
+<title>Diary of a deliberately spammed housewife - Network World</title>
+<link>http://www.networkworld.com/news/2008/070108-mcafee-spam-experiment.html?hpg1=bn</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T23:36:26Z</dc:date>
+<dc:subject>computers email internet security spam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spam" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplicity-ingenueous.blogspot.com/">
+<title>SHE.HER. Clothing</title>
+<link>http://www.simplicity-ingenueous.blogspot.com/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T17:42:50Z</dc:date>
+<dc:subject>clothes clothing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clothing" />
+    <rdf:li resource="http://del.icio.us/tag/clothes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.graybear.org/events.html">
+<title>Gray Bear Events Calendar</title>
+<link>http://www.graybear.org/events.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T17:35:53Z</dc:date>
+<dc:subject>r&#x26;amp;r relaxation vacation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/r%26r" />
+    <rdf:li resource="http://del.icio.us/tag/relaxation" />
+    <rdf:li resource="http://del.icio.us/tag/vacation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jchutchins.net/site/category/book-i/">
+<title>Book I | J.C. Hutchins' 7th Son: OBSIDIAN (Current Shows)</title>
+<link>http://jchutchins.net/site/category/book-i/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T16:32:39Z</dc:date>
+<dc:subject>novel podcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/novel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vice.typepad.com/vice_magazine/2008/06/scotland---the.html">
+<title>Vice magazine: SCOTLAND - THE MUNCHY BOX</title>
+<link>http://vice.typepad.com/vice_magazine/2008/06/scotland---the.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T16:25:16Z</dc:date>
+<dc:subject>food scotland</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/scotland" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://polyweekly.com/">
+<title>Polyamory Weekly</title>
+<link>http://polyweekly.com/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T16:22:04Z</dc:date>
+<dc:subject>adult blog blogs podcast polyamory polyweekly relationships sex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/polyamory" />
+    <rdf:li resource="http://del.icio.us/tag/sex" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/polyweekly" />
+    <rdf:li resource="http://del.icio.us/tag/adult" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thutranthutran.wordpress.com/">
+<title>http://thutranthutran.wordpress.com/</title>
+<link>http://thutranthutran.wordpress.com/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T12:04:05Z</dc:date>
+<dc:subject>awesome food video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phdcomics.com/comics.php?f=1015">
+<title>PHD Comics: Vicious Cycle</title>
+<link>http://www.phdcomics.com/comics.php?f=1015</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T10:59:17Z</dc:date>
+<dc:subject>cartoon comic comics geek humour productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cartoon" />
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marriedtothesea.com/">
+<title>Married To The Sea: &#x22;The Champagne of Comics&#x22;</title>
+<link>http://www.marriedtothesea.com/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T02:23:40Z</dc:date>
+<dc:subject>art comic comics daily funny humor webcomic webcomics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comics" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/webcomic" />
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+    <rdf:li resource="http://del.icio.us/tag/daily" />
+    <rdf:li resource="http://del.icio.us/tag/webcomics" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=FrejJHPnVfk&#x26;feature=related">
+<title>YouTube - Rush Tom Sawyer South Park Intro</title>
+<link>http://youtube.com/watch?v=FrejJHPnVfk&#x26;feature=related</link>
+<description>!!!!!!!!!!!!!!!!</description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T01:43:02Z</dc:date>
+<dc:subject>southpark video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/southpark" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox">
+<title>50 songs to make you dance - Telegraph 50 songs to make you dance - Telegraph</title>
+<link>http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/06/28/nosplit/bm50songs128.xml&#x26;CMP=ILC-mostviewedbox</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T01:38:40Z</dc:date>
+<dc:subject>dance music song songs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/song" />
+    <rdf:li resource="http://del.icio.us/tag/songs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://incredimazing.com/page/Homemade_Electric_Toothbrush">
+<title>Homemade Electric Toothbrush | Incredimazing</title>
+<link>http://incredimazing.com/page/Homemade_Electric_Toothbrush</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T00:16:03Z</dc:date>
+<dc:subject>toothbrush</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toothbrush" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://filespump.com/social/rediculousjeansub7.html">
+<title>Painted selvedge jean</title>
+<link>http://filespump.com/social/rediculousjeansub7.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T00:14:53Z</dc:date>
+<dc:subject>jeans</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jeans" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eyje.com/pictures/amazing/Craigslist_Will_Never_Cease_To_Amaze_Me_PIC_">
+<title>Craigslist Will Never Cease To Amaze Me [PIC] - amazing - pictures - eyje.com</title>
+<link>http://www.eyje.com/pictures/amazing/Craigslist_Will_Never_Cease_To_Amaze_Me_PIC_</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-03T00:13:38Z</dc:date>
+<dc:subject>craigslist xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/craigslist" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/30/desktop-wallpaper-calendar-july-2008/">
+<title>Desktop Wallpaper Calendar: July 2008 | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/30/desktop-wallpaper-calendar-july-2008/</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T23:47:02Z</dc:date>
+<dc:subject>calendar smashing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/smashing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://my.break.com/content/view.aspx?ContentID=529558">
+<title>Old Dudes Fight video</title>
+<link>http://my.break.com/content/view.aspx?ContentID=529558</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T23:42:17Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.entertainmentearth.com/prodinfo.asp?number=DH12527">
+<title>Tim Burton Toxic Boy PVC Set - Dark Horse - Tim Burton - Tim Burton - Action Figures at Entertainment Earth</title>
+<link>http://www.entertainmentearth.com/prodinfo.asp?number=DH12527</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T16:24:56Z</dc:date>
+<dc:subject>burton</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/burton" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg">
+<title>hammerbalancecj6.jpg (JPEG Image, 1000x907 pixels)</title>
+<link>http://img236.imageshack.us/img236/5334/hammerbalancecj6.jpg</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T15:46:02Z</dc:date>
+<dc:subject>humor science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dragonforged.com/blog/2007/09/tethering-the-iphone-for-os-x.html">
+<title>Tethering the iPhone for OS X - Dragon Blog</title>
+<link>http://dragonforged.com/blog/2007/09/tethering-the-iphone-for-os-x.html</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T15:44:17Z</dc:date>
+<dc:subject>hacking hacks howto iphone mac macosx network networking osx proxy tether</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/tether" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=sCJTR3XeiAc">
+<title>YouTube - Hitler Sings &#x22;The Jeffersons&#x22; Theme</title>
+<link>http://www.youtube.com/watch?v=sCJTR3XeiAc</link>
+<description></description>
+<dc:creator>justwes</dc:creator>
+<dc:date>2008-07-02T14:40:33Z</dc:date>
+<dc:subject>hitler</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hitler" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/arnout109">
+<title>del.icio.us/arnout109</title>
+<link>http://del.icio.us/arnout109</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.zend.com/en/forums/index.php?t=msg&#x26;goto=12811&#x26;S=89dd8f0f80a3b4b06e57441edfa6b7b3" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://www.hexus.net/content/item.php?item=13972&#x26;page=21" />
+  <rdf:li rdf:resource="http://www.techpowerup.com/reviews/Powercolor/HD_4850/17.html" />
+  <rdf:li rdf:resource="http://gathering.tweakers.net/forum/list_messages/1252673/last" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://gathering.tweakers.net/forum/list_messages/712423///php%2Cstream" />
+  <rdf:li rdf:resource="http://www.w3schools.com/PHP/php_file_upload.asp" />
+  <rdf:li rdf:resource="http://screensteps.com/downloads/" />
+  <rdf:li rdf:resource="http://www.w3schools.com/sql/default.asp" />
+  <rdf:li rdf:resource="http://www.surfanoniem.nl/" />
+  <rdf:li rdf:resource="http://www.mediacollege.com/internet/javascript/form/limit-characters.html" />
+  <rdf:li rdf:resource="http://www.lucidipedia.com/misc/index.php" />
+  <rdf:li rdf:resource="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/" />
+  <rdf:li rdf:resource="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore" />
+  <rdf:li rdf:resource="http://www.convertworld.com/en" />
+  <rdf:li rdf:resource="http://www.tmf.nl/video/15351/video/0/jayz_roc_boys.html#/video/15351/" />
+  <rdf:li rdf:resource="http://www.tizag.com/phpT/fileupload.php" />
+  <rdf:li rdf:resource="http://www.designbyhumans.com/" />
+  <rdf:li rdf:resource="http://www.youserials.com/" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/demos/" />
+  <rdf:li rdf:resource="http://maps.google.nl/maps?f=d&#x26;hl=nl&#x26;geocode=921211750930606687,52.033227,5.103620%3B13462837218223768029,52.045210,5.117026%3B12396631112791936909,52.066330,5.119530%3B2487444688444567615,52.090970,5.110526&#x26;saddr=klaverkamp+27+4133TD+Vianen&#x26;daddr=N408%2FPlettenburgerbaan+%4052.033227,+5.103620+to:Laagravenseweg%2FN408+%4052.045210,+5.117026+to:Het+Goylaan+%4052.066330,+5.119530+to:52.077699,5.120959+to:Stationsplateau+%4052.090970,+5.110526&#x26;mra=dpe&#x26;mrcr=0&#x26;mrsp=4&#x26;sz=16&#x26;via=1,2,3,4&#x26;sll=52.077198,5.117311&#x26;sspn=0.010405,0.02738&#x26;ie=UTF8&#x26;ll=52.039003,5.107141&#x26;spn=0.020828,0.05476&#x26;t=h&#x26;z=15" />
+  <rdf:li rdf:resource="http://www.sebastiansulinski.co.uk/web_design_tutorials/php/php_url_parameter.php" />
+  <rdf:li rdf:resource="http://www.cgtextures.com/" />
+  <rdf:li rdf:resource="http://www.w3schools.com/SQL/sql_update.asp" />
+  <rdf:li rdf:resource="http://www.harrymaugans.com/2007/03/06/how-to-create-an-animated-sliding-collapsible-div-with-javascript-and-css/" />
+  <rdf:li rdf:resource="http://www.iconarchive.com/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/motivation/how-to-make-profound-and-lasting-change/" />
+  <rdf:li rdf:resource="http://www.extremetech.com/article2/0,2845,2302500,00.asp" />
+  <rdf:li rdf:resource="http://blitzortung.org/index.php?station=2&#x26;mode=0&#x26;map=1&#x26;lang=e" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-06T12:59:14Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zend.com/en/forums/index.php?t=msg&#x26;goto=12811&#x26;S=89dd8f0f80a3b4b06e57441edfa6b7b3">
+<title>hi need help in cron job - PHP - PHP support &#x26; tips - Zend.com</title>
+<link>http://www.zend.com/en/forums/index.php?t=msg&#x26;goto=12811&#x26;S=89dd8f0f80a3b4b06e57441edfa6b7b3</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-05T16:04:49Z</dc:date>
+<dc:subject>cronjob</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cronjob" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-04T21:32:55Z</dc:date>
+<dc:subject>forms login</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/login" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hexus.net/content/item.php?item=13972&#x26;page=21">
+<title>HEXUS.net - Review :: AMD (ATI) Radeon HD 4850 and 4870: bloodying NVIDIA's profits : Page - 21/22</title>
+<link>http://www.hexus.net/content/item.php?item=13972&#x26;page=21</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-04T15:37:56Z</dc:date>
+<dc:subject>4850</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/4850" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techpowerup.com/reviews/Powercolor/HD_4850/17.html">
+<title>techPowerUp :: PowerColor Radeon HD 4850 512 MB Review :: Page 17 / 25</title>
+<link>http://www.techpowerup.com/reviews/Powercolor/HD_4850/17.html</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-04T14:51:40Z</dc:date>
+<dc:subject>4850</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/4850" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gathering.tweakers.net/forum/list_messages/1252673/last">
+<title>DDRII Ram Geheugen Vraagje, PC5300 Zelfde als 533MHz? - Processors, Mobo's &#x26; Geheugen - GoT</title>
+<link>http://gathering.tweakers.net/forum/list_messages/1252673/last</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-03T23:29:24Z</dc:date>
+<dc:subject>geheugen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geheugen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-07-01T10:57:03Z</dc:date>
+<dc:subject>brushes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gathering.tweakers.net/forum/list_messages/712423///php%2Cstream">
+<title>[php] bitrate bij het streamen naar shoutcast - Programming - GoT</title>
+<link>http://gathering.tweakers.net/forum/list_messages/712423///php%2Cstream</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-30T21:14:52Z</dc:date>
+<dc:subject>php shoutcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shoutcast" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3schools.com/PHP/php_file_upload.asp">
+<title>PHP File Upload</title>
+<link>http://www.w3schools.com/PHP/php_file_upload.asp</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-30T12:45:24Z</dc:date>
+<dc:subject>php upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/downloads/">
+<title>ScreenSteps: Download ScreenSteps</title>
+<link>http://screensteps.com/downloads/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-28T10:38:53Z</dc:date>
+<dc:subject>manuals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/manuals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3schools.com/sql/default.asp">
+<title>SQL Tutorial</title>
+<link>http://www.w3schools.com/sql/default.asp</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-27T08:48:07Z</dc:date>
+<dc:subject>SQL</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SQL" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.surfanoniem.nl/">
+<title>Surf Anoniem - Anoniem surfen, bezoek geblokkeerde websites op school of op het werk!</title>
+<link>http://www.surfanoniem.nl/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-25T12:15:21Z</dc:date>
+<dc:subject>anoniem surfen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anoniem" />
+    <rdf:li resource="http://del.icio.us/tag/surfen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediacollege.com/internet/javascript/form/limit-characters.html">
+<title>How to Limit the Number of Characters in a Textarea or Text Field</title>
+<link>http://www.mediacollege.com/internet/javascript/form/limit-characters.html</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-24T10:52:23Z</dc:date>
+<dc:subject>maxchars textarea</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maxchars" />
+    <rdf:li resource="http://del.icio.us/tag/textarea" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lucidipedia.com/misc/index.php">
+<title>Lucidipedia - Learn lucid dreaming</title>
+<link>http://www.lucidipedia.com/misc/index.php</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-23T07:01:55Z</dc:date>
+<dc:subject>dromen lucide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lucide" />
+    <rdf:li resource="http://del.icio.us/tag/dromen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/">
+<title>75 Insane High Res Photoshop Brushes</title>
+<link>http://elitebydesign.com/75-insane-high-res-photoshop-brushes/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-22T19:04:03Z</dc:date>
+<dc:subject>brushes photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore">
+<title>Make a Presentation Like Al Gore - Wired How-To Wiki</title>
+<link>http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-21T12:15:13Z</dc:date>
+<dc:subject>presentaties</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentaties" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.convertworld.com/en">
+<title>Unit Conversion Online - Use Our Unique Conversion Tools Free</title>
+<link>http://www.convertworld.com/en</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-20T22:16:27Z</dc:date>
+<dc:subject>omrekenen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/omrekenen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tmf.nl/video/15351/video/0/jayz_roc_boys.html#/video/15351/">
+<title>Jay-Z - Roc Boys | TMF</title>
+<link>http://www.tmf.nl/video/15351/video/0/jayz_roc_boys.html#/video/15351/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-20T15:00:30Z</dc:date>
+<dc:subject>jayz</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jayz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tizag.com/phpT/fileupload.php">
+<title>PHP Tutorial - File Upload</title>
+<link>http://www.tizag.com/phpT/fileupload.php</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-19T21:53:06Z</dc:date>
+<dc:subject>php upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designbyhumans.com/">
+<title>Design By Humans T-shirts - New T-shirt designs everyday - Cool Tees Designer Shirts - T shirt Art Contest</title>
+<link>http://www.designbyhumans.com/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-19T15:41:02Z</dc:date>
+<dc:subject>tshirts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tshirts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youserials.com/">
+<title>YouSerials.com - The KEY to Serial Numbers!</title>
+<link>http://www.youserials.com/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-17T10:26:13Z</dc:date>
+<dc:subject>serials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/serials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/demos/">
+<title>SproutCore &#xBB; demos</title>
+<link>http://www.sproutcore.com/demos/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-15T21:58:37Z</dc:date>
+<dc:subject>ajax framework webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maps.google.nl/maps?f=d&#x26;hl=nl&#x26;geocode=921211750930606687,52.033227,5.103620%3B13462837218223768029,52.045210,5.117026%3B12396631112791936909,52.066330,5.119530%3B2487444688444567615,52.090970,5.110526&#x26;saddr=klaverkamp+27+4133TD+Vianen&#x26;daddr=N408%2FPlettenburgerbaan+%4052.033227,+5.103620+to:Laagravenseweg%2FN408+%4052.045210,+5.117026+to:Het+Goylaan+%4052.066330,+5.119530+to:52.077699,5.120959+to:Stationsplateau+%4052.090970,+5.110526&#x26;mra=dpe&#x26;mrcr=0&#x26;mrsp=4&#x26;sz=16&#x26;via=1,2,3,4&#x26;sll=52.077198,5.117311&#x26;sspn=0.010405,0.02738&#x26;ie=UTF8&#x26;ll=52.039003,5.107141&#x26;spn=0.020828,0.05476&#x26;t=h&#x26;z=15">
+<title>Klaverkamp 27, 4133 Vianen naar Stationsplateau  - Google Maps</title>
+<link>http://maps.google.nl/maps?f=d&#x26;hl=nl&#x26;geocode=921211750930606687,52.033227,5.103620%3B13462837218223768029,52.045210,5.117026%3B12396631112791936909,52.066330,5.119530%3B2487444688444567615,52.090970,5.110526&#x26;saddr=klaverkamp+27+4133TD+Vianen&#x26;daddr=N408%2FPlettenburgerbaan+%4052.033227,+5.103620+to:Laagravenseweg%2FN408+%4052.045210,+5.117026+to:Het+Goylaan+%4052.066330,+5.119530+to:52.077699,5.120959+to:Stationsplateau+%4052.090970,+5.110526&#x26;mra=dpe&#x26;mrcr=0&#x26;mrsp=4&#x26;sz=16&#x26;via=1,2,3,4&#x26;sll=52.077198,5.117311&#x26;sspn=0.010405,0.02738&#x26;ie=UTF8&#x26;ll=52.039003,5.107141&#x26;spn=0.020828,0.05476&#x26;t=h&#x26;z=15</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-15T21:57:03Z</dc:date>
+<dc:subject>juliette kaart</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kaart" />
+    <rdf:li resource="http://del.icio.us/tag/juliette" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sebastiansulinski.co.uk/web_design_tutorials/php/php_url_parameter.php">
+<title>PHP url parameter page content using include function</title>
+<link>http://www.sebastiansulinski.co.uk/web_design_tutorials/php/php_url_parameter.php</link>
+<description>?pg=home</description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-15T17:12:42Z</dc:date>
+<dc:subject>index parameters php webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/index" />
+    <rdf:li resource="http://del.icio.us/tag/parameters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cgtextures.com/">
+<title>[CG Textures] - The worlds largest free texture site</title>
+<link>http://www.cgtextures.com/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-15T12:15:12Z</dc:date>
+<dc:subject>cg textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cg" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3schools.com/SQL/sql_update.asp">
+<title>SQL UPDATE</title>
+<link>http://www.w3schools.com/SQL/sql_update.asp</link>
+<description>UPDATE table_name SET column_name = new_value WHERE column_name = some_value</description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-14T14:12:53Z</dc:date>
+<dc:subject>mysql update</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/update" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.harrymaugans.com/2007/03/06/how-to-create-an-animated-sliding-collapsible-div-with-javascript-and-css/">
+<title>Harry Maugans &#xBB; How to Create an Animated, Sliding, Collapsible DIV with Javascript and CSS</title>
+<link>http://www.harrymaugans.com/2007/03/06/how-to-create-an-animated-sliding-collapsible-div-with-javascript-and-css/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-13T23:37:21Z</dc:date>
+<dc:subject>ajax slide webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/slide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iconarchive.com/">
+<title>Leo's Icon Archive - 10,000+ free icons, desktop icons, clip art, cartoons, buttons</title>
+<link>http://www.iconarchive.com/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-12T20:47:19Z</dc:date>
+<dc:subject>icon webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/motivation/how-to-make-profound-and-lasting-change/">
+<title>How to Make Profound and Lasting Change | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/motivation/how-to-make-profound-and-lasting-change/</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-12T11:23:50Z</dc:date>
+<dc:subject>dicipline</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dicipline" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.extremetech.com/article2/0,2845,2302500,00.asp">
+<title>Gaming Performance: Windows Vista SP1 vs. XP SP3 - OS, Software &#x26; Networking by ExtremeTech</title>
+<link>http://www.extremetech.com/article2/0,2845,2302500,00.asp</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-05T09:50:31Z</dc:date>
+<dc:subject>benchmark vista</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blitzortung.org/index.php?station=2&#x26;mode=0&#x26;map=1&#x26;lang=e">
+<title>Blitzortung.org - Strikes</title>
+<link>http://blitzortung.org/index.php?station=2&#x26;mode=0&#x26;map=1&#x26;lang=e</link>
+<description></description>
+<dc:creator>arnout109</dc:creator>
+<dc:date>2008-06-02T20:17:02Z</dc:date>
+<dc:subject>bliksem weer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weer" />
+    <rdf:li resource="http://del.icio.us/tag/bliksem" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

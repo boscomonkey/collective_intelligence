@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sat_c">
+<title>del.icio.us/sat_c</title>
+<link>http://del.icio.us/sat_c</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/top-five-free-online-shooter-games/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/02/baseball-boss-if-you-dont-love-baseball-yet-you-will-now/" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://www.myopenrouter.com/" />
+  <rdf:li rdf:resource="http://www.ss64.com/nt/" />
+  <rdf:li rdf:resource="http://tlrobinson.net/projects/js/jsondiff/" />
+  <rdf:li rdf:resource="http://www.clipperz.com/users/marco/blog/2008/05/30/freedom_and_privacy_cloud_call_action" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/07/07/080707fa_fact_hersh" />
+  <rdf:li rdf:resource="http://redflavor.com/reddit.cf.algorithm.png" />
+  <rdf:li rdf:resource="http://whenisgood.net/" />
+  <rdf:li rdf:resource="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/26/firefox-3-extensions/" />
+  <rdf:li rdf:resource="http://wirewize.com/" />
+  <rdf:li rdf:resource="http://developer.myspace.com/community/" />
+  <rdf:li rdf:resource="http://home.netcom.com/~tjensen/ptr/pointers.htm" />
+  <rdf:li rdf:resource="http://www.tuaw.com/2008/06/25/tuaw-tip-what-to-do-when-a-disk-goes-bad/" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Get_Started_With_REST" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/138511" />
+  <rdf:li rdf:resource="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/" />
+  <rdf:li rdf:resource="http://www.break.com/index/ball-girl-makes-incredible-catch.html" />
+  <rdf:li rdf:resource="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=EX_is9LzFSY" />
+  <rdf:li rdf:resource="http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/" />
+  <rdf:li rdf:resource="http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA" />
+  <rdf:li rdf:resource="http://sixrevisions.com/javascript/mootools_tutorials_and_example/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description>computationally feasible, which is the major source of constraint AI contributes to cognitive science.</description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-06T07:19:12Z</dc:date>
+<dc:subject>ai</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/top-five-free-online-shooter-games/">
+<title>Top Five Free Online Shooter Games - Must Read For Gamers | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/top-five-free-online-shooter-games/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-06T07:17:36Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-06T07:12:05Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-03T15:13:04Z</dc:date>
+<dc:subject>api schema xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/02/baseball-boss-if-you-dont-love-baseball-yet-you-will-now/">
+<title>Baseball Boss: If You Don&#x2019;t Love Baseball Yet, You Will Now</title>
+<link>http://www.techcrunch.com/2008/07/02/baseball-boss-if-you-dont-love-baseball-yet-you-will-now/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-02T23:45:50Z</dc:date>
+<dc:subject>baseball</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/baseball" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles">
+<title>LinkMingle.com &#xBB; 13+ List of Free Great Perl Books available Online</title>
+<link>http://linkmingle.com/list/13-plus-List-of-Free-Great-Perl-Books-available-Online-freebooksandarticles</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-02T16:57:22Z</dc:date>
+<dc:subject>perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-02T16:52:50Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-01T21:42:50Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myopenrouter.com/">
+<title>MyOpenRouter : The Open Source Wireless Initiatives Community</title>
+<link>http://www.myopenrouter.com/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-01T15:44:12Z</dc:date>
+<dc:subject>opensource router wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ss64.com/nt/">
+<title>Windows XP Commands</title>
+<link>http://www.ss64.com/nt/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-07-01T06:50:42Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tlrobinson.net/projects/js/jsondiff/">
+<title>JSON Diff</title>
+<link>http://tlrobinson.net/projects/js/jsondiff/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-30T17:24:46Z</dc:date>
+<dc:subject>json</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clipperz.com/users/marco/blog/2008/05/30/freedom_and_privacy_cloud_call_action">
+<title>Clipperz online password manager - Freedom and privacy in the cloud: a call for action</title>
+<link>http://www.clipperz.com/users/marco/blog/2008/05/30/freedom_and_privacy_cloud_call_action</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-30T17:23:33Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-30T17:21:17Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/07/07/080707fa_fact_hersh">
+<title>Annals of National Security: Preparing the Battlefield: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/07/07/080707fa_fact_hersh</link>
+<description>The Bush Administration steps up its secret moves against Iran. by Seymour M. Hersh</description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-29T18:44:59Z</dc:date>
+<dc:subject>iran</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iran" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://redflavor.com/reddit.cf.algorithm.png">
+<title>reddit.cf.algorithm.png (PNG Image, 643x616 pixels)</title>
+<link>http://redflavor.com/reddit.cf.algorithm.png</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-29T18:43:26Z</dc:date>
+<dc:subject>algorithm ranking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/ranking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whenisgood.net/">
+<title>When is Good</title>
+<link>http://whenisgood.net/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-27T22:45:14Z</dc:date>
+<dc:subject>calendar scheduling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/scheduling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/">
+<title>PIBlog &#xBB; Blog Archive &#xBB; Building a Python Web Application, Part 1</title>
+<link>http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-27T16:45:54Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/26/firefox-3-extensions/">
+<title>30+ Must-Have Updated Firefox 3 Extensions</title>
+<link>http://mashable.com/2008/06/26/firefox-3-extensions/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-27T00:34:09Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wirewize.com/">
+<title>Wirewize - Welcome!</title>
+<link>http://wirewize.com/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-26T17:08:31Z</dc:date>
+<dc:subject>electronics howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.myspace.com/community/">
+<title>MySpace Developer Platform</title>
+<link>http://developer.myspace.com/community/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-26T16:42:43Z</dc:date>
+<dc:subject>api myspace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/myspace" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.netcom.com/~tjensen/ptr/pointers.htm">
+<title>A Tutorial on Pointers and Arrays in C</title>
+<link>http://home.netcom.com/~tjensen/ptr/pointers.htm</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-26T07:30:28Z</dc:date>
+<dc:subject>c pointers programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/pointers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tuaw.com/2008/06/25/tuaw-tip-what-to-do-when-a-disk-goes-bad/">
+<title>TUAW Tip: What to do when a disk goes bad - The Unofficial Apple Weblog (TUAW)</title>
+<link>http://www.tuaw.com/2008/06/25/tuaw-tip-what-to-do-when-a-disk-goes-bad/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-26T00:12:38Z</dc:date>
+<dc:subject>backup harddrive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/harddrive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Get_Started_With_REST">
+<title>Get Started With REST - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Get_Started_With_REST</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-25T07:00:17Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/138511">
+<title>Linux.com :: How to scan and OCR like a pro with open source tools</title>
+<link>http://www.linux.com/feature/138511</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-25T06:58:02Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/">
+<title>35 Ways To Watch Television Without Cable Or Satellite.</title>
+<link>http://www.mytwodollars.com/2008/06/23/35-ways-to-watch-television-without-paying-for-cable-or-satellite/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-24T04:58:03Z</dc:date>
+<dc:subject>TV</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/TV" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.break.com/index/ball-girl-makes-incredible-catch.html">
+<title>Ball Girl Makes Incredible Catch Video</title>
+<link>http://www.break.com/index/ball-girl-makes-incredible-catch.html</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-23T17:17:53Z</dc:date>
+<dc:subject>funny sports</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sports" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm">
+<title>Sin &#x26; Cos: The Programmer's Pals!</title>
+<link>http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-23T17:14:30Z</dc:date>
+<dc:subject>games math programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=EX_is9LzFSY">
+<title>YouTube - Calculus in 20 Minutes Part 1</title>
+<link>http://www.youtube.com/watch?v=EX_is9LzFSY</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-23T09:06:27Z</dc:date>
+<dc:subject>calculus math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/calculus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/">
+<title>Python Cookbook, 2nd Edition - Python Cookbook, 2nd Edition</title>
+<link>http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-23T09:06:13Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA">
+<title>PaycheckCity.com | Form W-4 Assistant</title>
+<link>http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-20T17:01:07Z</dc:date>
+<dc:subject>finance taxes w4</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/w4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/javascript/mootools_tutorials_and_example/">
+<title>Learning MooTools: MooTools Tutorials and Examples - Six Revisions</title>
+<link>http://sixrevisions.com/javascript/mootools_tutorials_and_example/</link>
+<description></description>
+<dc:creator>sat_c</dc:creator>
+<dc:date>2008-06-20T16:58:32Z</dc:date>
+<dc:subject>javascript mootools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

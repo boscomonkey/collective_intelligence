@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rebreb49">
+<title>del.icio.us/rebreb49</title>
+<link>http://del.icio.us/rebreb49</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://reading.ecb.org/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.awesomeclipartforeducators.com/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.clipperz.com/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites/" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/26/100-resources-for-teaching-without-textbooks/" />
+  <rdf:li rdf:resource="http://www.rhymezone.com/" />
+  <rdf:li rdf:resource="http://webtools4u2use.wikispaces.com/--Audio+&#x26;+Podcasting+Ideas+to+Share" />
+  <rdf:li rdf:resource="http://nces.ed.gov/nceskids/createagraph/" />
+  <rdf:li rdf:resource="http://www.bighugelabs.com/flickr/" />
+  <rdf:li rdf:resource="https://www.ocps.net/cs/services/Curriculum/Pages/default.aspx" />
+  <rdf:li rdf:resource="http://www.mshogue.com/wsra_08.htm" />
+  <rdf:li rdf:resource="http://chatt.hdsb.ca/~magps/boylit/Podcasting%20in%20Education" />
+  <rdf:li rdf:resource="http://www.sfu.ca/~achanne/projects/bookbinding/" />
+  <rdf:li rdf:resource="http://www.fno.org/sum04/fivekinds.html" />
+  <rdf:li rdf:resource="http://psdtuts.com/articles/my-favourite-photoshop-tutorial-sites/" />
+  <rdf:li rdf:resource="http://www.tutzor.com/" />
+  <rdf:li rdf:resource="http://safemanuals.com/" />
+  <rdf:li rdf:resource="http://speckyboy.com/2008/05/03/want-to-be-an-icon-designer-15-amazing-photoshop-icon-tutorials/" />
+  <rdf:li rdf:resource="http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/" />
+  <rdf:li rdf:resource="http://www.cracked.com/" />
+  <rdf:li rdf:resource="http://www.rottentomatoes.com/" />
+  <rdf:li rdf:resource="http://print-bingo.com/index.php" />
+  <rdf:li rdf:resource="http://www.10paperairplanes.com/how-to-make-paper-airplanes/01-the-moth.html" />
+  <rdf:li rdf:resource="http://www.angelfire.com/wi2/GamesForLearning/" />
+  <rdf:li rdf:resource="http://www.educationworld.com/a_lesson/lesson/lesson278b.shtml" />
+  <rdf:li rdf:resource="http://thestorystarter.com/" />
+  <rdf:li rdf:resource="http://www.ii.uib.no/~arntzen/kalender/" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Make-a-Color-Image-Look-Like-a-Sketch-in-Photoshop" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-07-06T12:50:58Z</dc:date>
+<dc:subject>education photos teacherresource technology tutorials web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reading.ecb.org/">
+<title>Into the Book: Teaching Reading Comprehension Strategies</title>
+<link>http://reading.ecb.org/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-07-05T23:56:59Z</dc:date>
+<dc:subject>Reading comprehension readingstrategies teacherresource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comprehension" />
+    <rdf:li resource="http://del.icio.us/tag/Reading" />
+    <rdf:li resource="http://del.icio.us/tag/readingstrategies" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-07-05T23:43:05Z</dc:date>
+<dc:subject>Tools audio howto technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.awesomeclipartforeducators.com/">
+<title>Awesome Clipart for Educators!</title>
+<link>http://www.awesomeclipartforeducators.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-07-03T15:59:46Z</dc:date>
+<dc:subject>clipart crafts teacherresource website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/crafts" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A">
+<title>The Minimalist - 101 Picnic Dishes to Make in 20 Minutes - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-07-02T21:17:11Z</dc:date>
+<dc:subject>food recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clipperz.com/">
+<title>Clipperz - online password manager</title>
+<link>http://www.clipperz.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-30T22:15:15Z</dc:date>
+<dc:subject>computer technology website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites/">
+<title>10 Essential Sites for Tips and How-To&#x2019;s</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-30T21:59:39Z</dc:date>
+<dc:subject>howto online tutorials website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/26/100-resources-for-teaching-without-textbooks/">
+<title>100+ Resources for Teaching Without Textbooks | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/26/100-resources-for-teaching-without-textbooks/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-28T13:07:16Z</dc:date>
+<dc:subject>online teacherresource web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rhymezone.com/">
+<title>RhymeZone rhyming dictionary and thesaurus</title>
+<link>http://www.rhymezone.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-28T12:20:09Z</dc:date>
+<dc:subject>languagearts online poetry reference vocabulary writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vocabulary" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/poetry" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/languagearts" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webtools4u2use.wikispaces.com/--Audio+&#x26;+Podcasting+Ideas+to+Share">
+<title>WebTools4u2use &#xBB; --Audio &#x26; Podcasting Ideas to Share</title>
+<link>http://webtools4u2use.wikispaces.com/--Audio+&#x26;+Podcasting+Ideas+to+Share</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-27T23:36:47Z</dc:date>
+<dc:subject>blogging media web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nces.ed.gov/nceskids/createagraph/">
+<title>Create A Graph</title>
+<link>http://nces.ed.gov/nceskids/createagraph/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-24T14:12:37Z</dc:date>
+<dc:subject>Graphicorganizers Tools media teacherresource technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Graphicorganizers" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bighugelabs.com/flickr/">
+<title>fd's Flickr Toys: Do fun stuff with your photos</title>
+<link>http://www.bighugelabs.com/flickr/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-24T14:09:20Z</dc:date>
+<dc:subject>Tools photography photoshop technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.ocps.net/cs/services/Curriculum/Pages/default.aspx">
+<title>Orange County Public Schools -</title>
+<link>https://www.ocps.net/cs/services/Curriculum/Pages/default.aspx</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-24T11:48:01Z</dc:date>
+<dc:subject>lessonplans ocps teacherresource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ocps" />
+    <rdf:li resource="http://del.icio.us/tag/lessonplans" />
+    <rdf:li resource="http://del.icio.us/tag/teacherresource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mshogue.com/wsra_08.htm">
+<title>Blogs, Wikis &#x26; Web 2.0 in the Classroom</title>
+<link>http://www.mshogue.com/wsra_08.htm</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-22T01:45:38Z</dc:date>
+<dc:subject>blogging education medja podcasting technology web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/medja" />
+    <rdf:li resource="http://del.icio.us/tag/podcasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chatt.hdsb.ca/~magps/boylit/Podcasting%20in%20Education">
+<title>Podcasting in Education</title>
+<link>http://chatt.hdsb.ca/~magps/boylit/Podcasting%20in%20Education</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-22T01:36:08Z</dc:date>
+<dc:subject>Technology media podcasting web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcasting" />
+    <rdf:li resource="http://del.icio.us/tag/Technology" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sfu.ca/~achanne/projects/bookbinding/">
+<title>Bookbinding: How to Make a Hardcover Book</title>
+<link>http://www.sfu.ca/~achanne/projects/bookbinding/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-22T00:40:17Z</dc:date>
+<dc:subject>DIY books crafts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/crafts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fno.org/sum04/fivekinds.html">
+<title>Describes 5tpes of lessons that effectively integrate technology</title>
+<link>http://www.fno.org/sum04/fivekinds.html</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-18T22:08:35Z</dc:date>
+<dc:subject>lessonplans media technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/lessonplans" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/articles/my-favourite-photoshop-tutorial-sites/">
+<title>My Favourite Photoshop Tutorial Sites (Besides PSDTUTS!) - PSDTUTS</title>
+<link>http://psdtuts.com/articles/my-favourite-photoshop-tutorial-sites/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-14T00:12:51Z</dc:date>
+<dc:subject>photography photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tutzor.com/">
+<title>Tutzor.com - Best Photoshop Tutorials and No Junk</title>
+<link>http://www.tutzor.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-14T00:08:04Z</dc:date>
+<dc:subject>photography photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safemanuals.com/">
+<title>Find your user guide, user guide, instruction manual or owner manual instantly !</title>
+<link>http://safemanuals.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-06T21:51:34Z</dc:date>
+<dc:subject>manuals reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/manuals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://speckyboy.com/2008/05/03/want-to-be-an-icon-designer-15-amazing-photoshop-icon-tutorials/">
+<title>Want to be an Icon Designer? 15 Amazing Photoshop Icon Tutorials.</title>
+<link>http://speckyboy.com/2008/05/03/want-to-be-an-icon-designer-15-amazing-photoshop-icon-tutorials/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-02T23:47:11Z</dc:date>
+<dc:subject>howto photoshop tutorial web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/">
+<title>Dramatic Text on Fire Effect in Photoshop - PSDTUTS</title>
+<link>http://psdtuts.com/text-effects-tutorials/dramatic-text-on-fire-effect-in-photoshop/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-06-01T00:38:39Z</dc:date>
+<dc:subject>photography photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/">
+<title>Funny Website - Cracked.com - American's Only Humor &#x26; Video Site Since 1958</title>
+<link>http://www.cracked.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-27T21:27:08Z</dc:date>
+<dc:subject>humor video website writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rottentomatoes.com/">
+<title>ROTTEN TOMATOES: Movies - New Movie Reviews and Previews!</title>
+<link>http://www.rottentomatoes.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-25T01:56:00Z</dc:date>
+<dc:subject>books internet news videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://print-bingo.com/index.php">
+<title>Perceptus' Free Bingo Card Generator</title>
+<link>http://print-bingo.com/index.php</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-24T18:04:03Z</dc:date>
+<dc:subject>bingo games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bingo" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.10paperairplanes.com/how-to-make-paper-airplanes/01-the-moth.html">
+<title>Paper Airplane Designs: The Moth</title>
+<link>http://www.10paperairplanes.com/how-to-make-paper-airplanes/01-the-moth.html</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-24T16:32:59Z</dc:date>
+<dc:subject>crafts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crafts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.angelfire.com/wi2/GamesForLearning/">
+<title>Game For Learning. Educational games to make.</title>
+<link>http://www.angelfire.com/wi2/GamesForLearning/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-24T15:30:34Z</dc:date>
+<dc:subject>games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.educationworld.com/a_lesson/lesson/lesson278b.shtml">
+<title>Education World &#xAE; Lesson Planning: Mystery State Game Tests Students' Knowledge of 50 States</title>
+<link>http://www.educationworld.com/a_lesson/lesson/lesson278b.shtml</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-23T23:16:35Z</dc:date>
+<dc:subject>geography standards</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+    <rdf:li resource="http://del.icio.us/tag/standards" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thestorystarter.com/">
+<title>The Story Starter provides writing prompts for more than 345 million stories.</title>
+<link>http://thestorystarter.com/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-23T19:39:33Z</dc:date>
+<dc:subject>languagearts website writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/languagearts" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ii.uib.no/~arntzen/kalender/">
+<title>12 sided calendar</title>
+<link>http://www.ii.uib.no/~arntzen/kalender/</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-23T01:48:18Z</dc:date>
+<dc:subject>calendar math paper puzzle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/puzzle" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Make-a-Color-Image-Look-Like-a-Sketch-in-Photoshop">
+<title>How to Make a Color Image Look Like a Sketch in Photoshop</title>
+<link>http://www.wikihow.com/Make-a-Color-Image-Look-Like-a-Sketch-in-Photoshop</link>
+<description></description>
+<dc:creator>rebreb49</dc:creator>
+<dc:date>2008-05-23T01:40:29Z</dc:date>
+<dc:subject>photography photoshop training tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

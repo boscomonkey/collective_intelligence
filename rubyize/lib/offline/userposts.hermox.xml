@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hermox">
+<title>del.icio.us/hermox</title>
+<link>http://del.icio.us/hermox</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.socialsignal.com/tags/omniplan" />
+  <rdf:li rdf:resource="http://www.mediatemple.net/webhosting/gs/" />
+  <rdf:li rdf:resource="http://flexiscale.com/" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/" />
+  <rdf:li rdf:resource="http://www.mosso.com/" />
+  <rdf:li rdf:resource="http://www.gskinner.com/blog/archives/2008/07/source_code_lic_1.html" />
+  <rdf:li rdf:resource="http://digitarald.de/project/fancyupload/" />
+  <rdf:li rdf:resource="http://gskinner.com/talks/as3workshop/" />
+  <rdf:li rdf:resource="http://www.swiftmailer.org/" />
+  <rdf:li rdf:resource="http://protempore.net/~calvins/howto/ssh-connection-sharing/" />
+  <rdf:li rdf:resource="http://www.phppatterns.com/docs/design/the_front_controller_and_php" />
+  <rdf:li rdf:resource="http://www.projectsprouts.org/" />
+  <rdf:li rdf:resource="http://buytaert.net/tag/drupal-sites" />
+  <rdf:li rdf:resource="http://methodart.blogspot.com/" />
+  <rdf:li rdf:resource="http://drawlogic.com/" />
+  <rdf:li rdf:resource="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/" />
+  <rdf:li rdf:resource="http://www.dipity.com/" />
+  <rdf:li rdf:resource="http://www.periodiklabs.com/elektron" />
+  <rdf:li rdf:resource="http://www.bluestatic.org/pr/" />
+  <rdf:li rdf:resource="http://code.google.com/p/wtop/" />
+  <rdf:li rdf:resource="http://www.briansolis.com/index.htm" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://www.tilannehuone.fi/halytys.php" />
+  <rdf:li rdf:resource="http://www.squirrelapp.com/" />
+  <rdf:li rdf:resource="http://alternativaplatform.com/en/" />
+  <rdf:li rdf:resource="http://architects.dzone.com/news/common-rest-design-pattern" />
+  <rdf:li rdf:resource="http://www.cs.helsinki.fi/u/kkuloves/dvorak.shtml" />
+  <rdf:li rdf:resource="http://www.phpbench.com/" />
+  <rdf:li rdf:resource="http://simplepie.org/" />
+  <rdf:li rdf:resource="http://www.ossim.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-06T07:53:48Z</dc:date>
+<dc:subject>book ebook education free java oop programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socialsignal.com/tags/omniplan">
+<title>omniplan | Social Signal</title>
+<link>http://www.socialsignal.com/tags/omniplan</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-06T07:23:25Z</dc:date>
+<dc:subject>blog gtd management omniplan project</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/omniplan" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediatemple.net/webhosting/gs/">
+<title>(mt) Media Temple - (gs) Grid-Service</title>
+<link>http://www.mediatemple.net/webhosting/gs/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-04T07:31:41Z</dc:date>
+<dc:subject>cloud grid hosting server webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flexiscale.com/">
+<title>FlexiScale - Utility Computing On-Demand</title>
+<link>http://flexiscale.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-04T07:31:32Z</dc:date>
+<dc:subject>cloud grid hosting server webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/">
+<title>How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)</title>
+<link>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-04T07:30:50Z</dc:date>
+<dc:subject>application business development programming startup techcrunch web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/techcrunch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mosso.com/">
+<title>MOSSO :: The Hosting Cloud - Home</title>
+<link>http://www.mosso.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-04T07:30:16Z</dc:date>
+<dc:subject>cloud hosting server webhosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/webhosting" />
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gskinner.com/blog/archives/2008/07/source_code_lic_1.html">
+<title>gskinner.com: gBlog: Source Code Licenses and Flash/Flex</title>
+<link>http://www.gskinner.com/blog/archives/2008/07/source_code_lic_1.html</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-07-02T18:31:34Z</dc:date>
+<dc:subject>copyright license opensource reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/copyright" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/license" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digitarald.de/project/fancyupload/">
+<title>FancyUpload - Swiff meets Ajax &#xBB; digitarald:Harald K</title>
+<link>http://digitarald.de/project/fancyupload/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-26T14:43:39Z</dc:date>
+<dc:subject>ajax flash javascript progress upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/progress" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gskinner.com/talks/as3workshop/">
+<title>ActionScript 3 Workshop Slides</title>
+<link>http://gskinner.com/talks/as3workshop/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-26T08:51:59Z</dc:date>
+<dc:subject>as3 flash guide presentations tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.swiftmailer.org/">
+<title>Swift Mailer - A free feature-rich PHP Mailer</title>
+<link>http://www.swiftmailer.org/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-25T13:32:19Z</dc:date>
+<dc:subject>email library mail opensource php programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://protempore.net/~calvins/howto/ssh-connection-sharing/">
+<title>How To: Improving SSH (OpenSSH) connection speed with shared connections</title>
+<link>http://protempore.net/~calvins/howto/ssh-connection-sharing/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-25T11:17:07Z</dc:date>
+<dc:subject>connection openssh optimization sharing ssh tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+    <rdf:li resource="http://del.icio.us/tag/openssh" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/connection" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phppatterns.com/docs/design/the_front_controller_and_php">
+<title>design:the_front_controller_and_php [phpPatterns]</title>
+<link>http://www.phppatterns.com/docs/design/the_front_controller_and_php</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-24T21:24:46Z</dc:date>
+<dc:subject>designpatterns front_controller frontcontroller mvc php programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/mvc" />
+    <rdf:li resource="http://del.icio.us/tag/frontcontroller" />
+    <rdf:li resource="http://del.icio.us/tag/designpatterns" />
+    <rdf:li resource="http://del.icio.us/tag/front_controller" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.projectsprouts.org/">
+<title>Sprouts Home</title>
+<link>http://www.projectsprouts.org/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-24T15:23:34Z</dc:date>
+<dc:subject>as3 development flash flex programming ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buytaert.net/tag/drupal-sites">
+<title>Drupal sites | Dries Buytaert</title>
+<link>http://buytaert.net/tag/drupal-sites</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-23T16:40:11Z</dc:date>
+<dc:subject>cms drupal reference sites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/sites" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://methodart.blogspot.com/">
+<title>Method Art</title>
+<link>http://methodart.blogspot.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-23T13:07:22Z</dc:date>
+<dc:subject>art computervision interactive physics processing video visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/processing" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/computervision" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drawlogic.com/">
+<title>[ draw.logic ]</title>
+<link>http://drawlogic.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-23T12:03:43Z</dc:date>
+<dc:subject>actionscript as3 blog flash programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elitebydesign.com/75-insane-high-res-photoshop-brushes/">
+<title>75 Insane High Res Photoshop Brushes</title>
+<link>http://elitebydesign.com/75-insane-high-res-photoshop-brushes/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-23T06:09:20Z</dc:date>
+<dc:subject>brushes design graphics photoshop resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dipity.com/">
+<title>Dipity</title>
+<link>http://www.dipity.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-22T17:45:38Z</dc:date>
+<dc:subject>collaboration history social timeline tools visualization web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.periodiklabs.com/elektron">
+<title>Periodik Labs: Elektron RADIUS Server for Wireless Security</title>
+<link>http://www.periodiklabs.com/elektron</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-17T12:48:06Z</dc:date>
+<dc:subject>enterprise radius server wifi wpa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/radius" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/wpa" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bluestatic.org/pr/">
+<title>Blue Static - Press Release - MacGDBp 1.0</title>
+<link>http://www.bluestatic.org/pr/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-17T09:54:29Z</dc:date>
+<dc:subject>debugging mac osx php software webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/wtop/">
+<title>wtop - Google Code</title>
+<link>http://code.google.com/p/wtop/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-17T04:15:23Z</dc:date>
+<dc:subject>admin apache http monitoring performance python server software statistics sysadmin top web webdev wtop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/top" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/wtop" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.briansolis.com/index.htm">
+<title>PR 2.0</title>
+<link>http://www.briansolis.com/index.htm</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-16T07:38:26Z</dc:date>
+<dc:subject>advertising blog marketing media pr socialmedia web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pr" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-16T03:45:14Z</dc:date>
+<dc:subject>css design fixes hacks reference webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/fixes" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tilannehuone.fi/halytys.php">
+<title>Tilannehuone.fi - H&#xE4;lytyslista - Ajantasaiset tiedot pelastustoimen teht&#xE4;vist&#xE4;</title>
+<link>http://www.tilannehuone.fi/halytys.php</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-13T10:56:15Z</dc:date>
+<dc:subject>alert events fire police</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/police" />
+    <rdf:li resource="http://del.icio.us/tag/fire" />
+    <rdf:li resource="http://del.icio.us/tag/alert" />
+    <rdf:li resource="http://del.icio.us/tag/events" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.squirrelapp.com/">
+<title>Squirrel - Simple finance management for Mac</title>
+<link>http://www.squirrelapp.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-12T10:32:56Z</dc:date>
+<dc:subject>accounting finance mac money osx software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alternativaplatform.com/en/">
+<title>AlternativaPlatform</title>
+<link>http://alternativaplatform.com/en/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-11T15:56:32Z</dc:date>
+<dc:subject>3d as3 development flash framework</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://architects.dzone.com/news/common-rest-design-pattern">
+<title>Common REST Design Pattern | Architects Zone</title>
+<link>http://architects.dzone.com/news/common-rest-design-pattern</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-05T10:15:03Z</dc:date>
+<dc:subject>architecture patterns programming reference rest webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.helsinki.fi/u/kkuloves/dvorak.shtml">
+<title>My Dvorak keyboard layout</title>
+<link>http://www.cs.helsinki.fi/u/kkuloves/dvorak.shtml</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-03T21:20:46Z</dc:date>
+<dc:subject>dvorak keyboard layout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/keyboard" />
+    <rdf:li resource="http://del.icio.us/tag/dvorak" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phpbench.com/">
+<title>The PHP Benchmark</title>
+<link>http://www.phpbench.com/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-06-02T21:03:20Z</dc:date>
+<dc:subject>PHP benchmark code optimization programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplepie.org/">
+<title>SimplePie: Super-fast, easy-to-use, RSS and Atom feed parsing in PHP.</title>
+<link>http://simplepie.org/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-05-30T19:30:31Z</dc:date>
+<dc:subject>atom feed php programming rss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/feed" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ossim.net/">
+<title>OSSIM (Open Source Security Information Management)</title>
+<link>http://www.ossim.net/</link>
+<description></description>
+<dc:creator>hermox</dc:creator>
+<dc:date>2008-05-30T19:26:14Z</dc:date>
+<dc:subject>admin linux monitoring network opensource security software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/markcahill">
+<title>del.icio.us/markcahill</title>
+<link>http://del.icio.us/markcahill</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://summize.com/" />
+  <rdf:li rdf:resource="http://www.crn.com/networking/208802663" />
+  <rdf:li rdf:resource="http://pwoodford.blogspot.com/2008/07/wheres-roi-in-social-networks.html" />
+  <rdf:li rdf:resource="http://www.hrzone.co.uk/cgi-bin/item.cgi?id=185597" />
+  <rdf:li rdf:resource="http://www.networkworld.com/newsletters/frame/2008/063008wan1.html" />
+  <rdf:li rdf:resource="http://www.fastcompany.com/articles/2008/06/interview-charlene-li.html?page=0%2C1" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/" />
+  <rdf:li rdf:resource="http://www.chrisheuer.com/" />
+  <rdf:li rdf:resource="http://www.krishnade.com/blog/2008/cipd-web-20-and-human-resources/" />
+  <rdf:li rdf:resource="http://www.rossdawsonblog.com/" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/23/modeling-the-real-market-value-of-social-networks/" />
+  <rdf:li rdf:resource="http://www.webware.com/8301-1_109-9970053-2.html?tag=nefd.top" />
+  <rdf:li rdf:resource="http://www.web-strategist.com/blog/2008/01/01/a-complete-list-of-the-many-forms-of-web-marketing-for-2008/" />
+  <rdf:li rdf:resource="http://www.emarketer.com/Article.aspx?id=1006354&#x26;src=article1_newsltr" />
+  <rdf:li rdf:resource="http://i.i.com.com/cnwk.1d/i/bto/20080418/webtimeline.jpg" />
+  <rdf:li rdf:resource="http://www.informit.com/articles/article.aspx?p=1083189" />
+  <rdf:li rdf:resource="http://www.socialmediatoday.com/SMC/27779" />
+  <rdf:li rdf:resource="http://www.visinsights.com/dell-and-disney-on-social-marketing/208/" />
+  <rdf:li rdf:resource="http://datamining.typepad.com/data_mining/" />
+  <rdf:li rdf:resource="http://www.virtualhosting.com/blog/2007/top-100-social-media-and-social-networking-blogs/" />
+  <rdf:li rdf:resource="http://www.squareoak.com/blog/how-to-seo-your-site-in-less-than-120-minutes/" />
+  <rdf:li rdf:resource="http://www.squareoak.com/blog/search-engine-optimization-services/" />
+  <rdf:li rdf:resource="http://www.paulhyland.com/2008/02/social-media-measurement.html" />
+  <rdf:li rdf:resource="http://www.aimclearblog.com/2008/02/08/evaporating-yellow-line-between-seo-social-media/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/12/02/weekinreview/02wright.html?ex=1354251600&#x26;en=c2473774ee03ea2a&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink" />
+  <rdf:li rdf:resource="http://www.socialmediadaily.com/theblueprint.php" />
+  <rdf:li rdf:resource="http://www.emarketer.com/Article.aspx?id=1005817&#x26;src=article1_newsltr" />
+  <rdf:li rdf:resource="http://www.news.com/8301-13577_3-9833723-36.html?part=rss&#x26;tag=feed&#x26;subj=TheSocial" />
+  <rdf:li rdf:resource="http://searchengineland.com/080108-134105.php" />
+  <rdf:li rdf:resource="http://www.clickz.com/showPage.html?page=3626386" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-06T11:26:02Z</dc:date>
+<dc:subject>SocialMedia blog blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SocialMedia" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://summize.com/">
+<title>Summize Conversational Search</title>
+<link>http://summize.com/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-05T15:23:55Z</dc:date>
+<dc:subject>aggregator socialnetworking twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crn.com/networking/208802663">
+<title>8 Cool Location-Based Social Networks</title>
+<link>http://www.crn.com/networking/208802663</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-04T21:15:14Z</dc:date>
+<dc:subject>location network social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/location" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pwoodford.blogspot.com/2008/07/wheres-roi-in-social-networks.html">
+<title>peter woodford: Where's the ROI in social networks!</title>
+<link>http://pwoodford.blogspot.com/2008/07/wheres-roi-in-social-networks.html</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-04T20:59:28Z</dc:date>
+<dc:subject>network roi social socialnetworks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/roi" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hrzone.co.uk/cgi-bin/item.cgi?id=185597">
+<title>Corporate social networking: Why should HR embrace it? - 03 Jul 2008</title>
+<link>http://www.hrzone.co.uk/cgi-bin/item.cgi?id=185597</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-04T20:49:05Z</dc:date>
+<dc:subject>business hr socialnetworking web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hr" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.networkworld.com/newsletters/frame/2008/063008wan1.html">
+<title>http://www.networkworld.com/newsletters/frame/2008/063008wan1.html</title>
+<link>http://www.networkworld.com/newsletters/frame/2008/063008wan1.html</link>
+<description>Social</description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-01T16:03:32Z</dc:date>
+<dc:subject>SocialNetworks business tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SocialNetworks" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastcompany.com/articles/2008/06/interview-charlene-li.html?page=0%2C1">
+<title>Charlene Li on Flaming Laptops, Sleeping Technicians, and the Streisand Effect | Fast Company</title>
+<link>http://www.fastcompany.com/articles/2008/06/interview-charlene-li.html?page=0%2C1</link>
+<description>groundswell</description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-01T15:59:09Z</dc:date>
+<dc:subject>SocialNetworks groundswell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/groundswell" />
+    <rdf:li resource="http://del.icio.us/tag/SocialNetworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/">
+<title>chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-07-01T14:31:37Z</dc:date>
+<dc:subject>2.0 Blogs SocialMedia chrisbrogan marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SocialMedia" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/2.0" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/chrisbrogan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisheuer.com/">
+<title>Chris Heuer's Insytes</title>
+<link>http://www.chrisheuer.com/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-29T07:41:33Z</dc:date>
+<dc:subject>chrisheuer converation marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chrisheuer" />
+    <rdf:li resource="http://del.icio.us/tag/converation" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.krishnade.com/blog/2008/cipd-web-20-and-human-resources/">
+<title>CIPD: Web 2.0 And Human Resources - Krishna De: Branding, Personal Branding, Employer Brand, Internal Brand, Social Media Marketing</title>
+<link>http://www.krishnade.com/blog/2008/cipd-web-20-and-human-resources/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-24T11:35:09Z</dc:date>
+<dc:subject>networking social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rossdawsonblog.com/">
+<title>Trends in the Living Networks</title>
+<link>http://www.rossdawsonblog.com/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-24T11:32:20Z</dc:date>
+<dc:subject>SocialNetworks blogs business community socialmedia web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/SocialNetworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/23/modeling-the-real-market-value-of-social-networks/">
+<title>Modeling The Real Market Value Of Social Networks</title>
+<link>http://www.techcrunch.com/2008/06/23/modeling-the-real-market-value-of-social-networks/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-24T11:26:46Z</dc:date>
+<dc:subject>SocialNetworks facebook value</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SocialNetworks" />
+    <rdf:li resource="http://del.icio.us/tag/value" />
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webware.com/8301-1_109-9970053-2.html?tag=nefd.top">
+<title>Google's view: Three trends in social networking | Webware : Cool Web apps for everyone</title>
+<link>http://www.webware.com/8301-1_109-9970053-2.html?tag=nefd.top</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-17T10:32:00Z</dc:date>
+<dc:subject>google networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.web-strategist.com/blog/2008/01/01/a-complete-list-of-the-many-forms-of-web-marketing-for-2008/">
+<title>A Complete List of the Many Forms of Web Marketing for 2008</title>
+<link>http://www.web-strategist.com/blog/2008/01/01/a-complete-list-of-the-many-forms-of-web-marketing-for-2008/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-14T20:24:19Z</dc:date>
+<dc:subject>interactive marketing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emarketer.com/Article.aspx?id=1006354&#x26;src=article1_newsltr">
+<title>Gen Y Comes into Focus - eMarketer</title>
+<link>http://www.emarketer.com/Article.aspx?id=1006354&#x26;src=article1_newsltr</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-06-06T13:47:32Z</dc:date>
+<dc:subject>Generation Marketing Thesis Y</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Generation" />
+    <rdf:li resource="http://del.icio.us/tag/Y" />
+    <rdf:li resource="http://del.icio.us/tag/Marketing" />
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i.i.com.com/cnwk.1d/i/bto/20080418/webtimeline.jpg">
+<title>http://i.i.com.com/cnwk.1d/i/bto/20080418/webtimeline.jpg</title>
+<link>http://i.i.com.com/cnwk.1d/i/bto/20080418/webtimeline.jpg</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-04-21T12:06:07Z</dc:date>
+<dc:subject>2.0 history web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/2.0" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informit.com/articles/article.aspx?p=1083189">
+<title>InformIT: Including Social Media in Your Online Marketing Strategy &#x3E; Social News Sites</title>
+<link>http://www.informit.com/articles/article.aspx?p=1083189</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-03-11T19:39:50Z</dc:date>
+<dc:subject>media social thesis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socialmediatoday.com/SMC/27779">
+<title>How Do You Determine Trust?</title>
+<link>http://www.socialmediatoday.com/SMC/27779</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-03-10T10:54:23Z</dc:date>
+<dc:subject>Thesis social socialmedia trust</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trust" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.visinsights.com/dell-and-disney-on-social-marketing/208/">
+<title>Dell and Disney on Social Marketing | VisInsights</title>
+<link>http://www.visinsights.com/dell-and-disney-on-social-marketing/208/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-03-09T21:16:12Z</dc:date>
+<dc:subject>Blog Dell social socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Dell" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://datamining.typepad.com/data_mining/">
+<title>Data Mining: Text Mining, Visualization and Social Media</title>
+<link>http://datamining.typepad.com/data_mining/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-22T16:09:48Z</dc:date>
+<dc:subject>datamining networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/datamining" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virtualhosting.com/blog/2007/top-100-social-media-and-social-networking-blogs/">
+<title>Virtual Hosting Blog &#xBB; Top 100 Social Media and Social Networking Blogs</title>
+<link>http://www.virtualhosting.com/blog/2007/top-100-social-media-and-social-networking-blogs/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-22T15:53:07Z</dc:date>
+<dc:subject>blog socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.squareoak.com/blog/how-to-seo-your-site-in-less-than-120-minutes/">
+<title>How to SEO Your Site in Less Than 120 Minutes | Search Engine Marketing, Optimization, Social Media &#x26; Web Solutions | Squareoak Blog - New York City, NY</title>
+<link>http://www.squareoak.com/blog/how-to-seo-your-site-in-less-than-120-minutes/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-22T10:33:02Z</dc:date>
+<dc:subject>seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.squareoak.com/blog/search-engine-optimization-services/">
+<title>Define: Search Engine Optimization Services | Search Engine Marketing, Optimization, Social Media &#x26; Web Solutions | Squareoak Blog - New York City, NY</title>
+<link>http://www.squareoak.com/blog/search-engine-optimization-services/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-22T10:26:22Z</dc:date>
+<dc:subject>marketing seo socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paulhyland.com/2008/02/social-media-measurement.html">
+<title>Paul's Web Space 2.0 - Politics, Culture, Technology: Social Media Measurement</title>
+<link>http://www.paulhyland.com/2008/02/social-media-measurement.html</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-11T17:45:53Z</dc:date>
+<dc:subject>Thesis measurement socialmedia strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aimclearblog.com/2008/02/08/evaporating-yellow-line-between-seo-social-media/">
+<title>aimClear Search Marketing Blog RSS Feed</title>
+<link>http://www.aimclearblog.com/2008/02/08/evaporating-yellow-line-between-seo-social-media/</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-11T17:39:57Z</dc:date>
+<dc:subject>seo socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/12/02/weekinreview/02wright.html?ex=1354251600&#x26;en=c2473774ee03ea2a&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink">
+<title>Friending, Ancient or Otherwise - New York Times</title>
+<link>http://www.nytimes.com/2007/12/02/weekinreview/02wright.html?ex=1354251600&#x26;en=c2473774ee03ea2a&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-11T17:35:35Z</dc:date>
+<dc:subject>Thesis networking social tribe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/tribe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socialmediadaily.com/theblueprint.php">
+<title>Social Media Daily</title>
+<link>http://www.socialmediadaily.com/theblueprint.php</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-02-09T16:38:04Z</dc:date>
+<dc:subject>blog daily marketing media social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/daily" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emarketer.com/Article.aspx?id=1005817&#x26;src=article1_newsltr">
+<title>3 Hidden Trends in 2008 - eMarketer</title>
+<link>http://www.emarketer.com/Article.aspx?id=1005817&#x26;src=article1_newsltr</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-01-14T20:22:01Z</dc:date>
+<dc:subject>media online social spend us</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/us" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/spend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news.com/8301-13577_3-9833723-36.html?part=rss&#x26;tag=feed&#x26;subj=TheSocial">
+<title>Google: Don't give up on OpenSocial | The Social - CNET News.com</title>
+<link>http://www.news.com/8301-13577_3-9833723-36.html?part=rss&#x26;tag=feed&#x26;subj=TheSocial</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-01-12T10:32:59Z</dc:date>
+<dc:subject>Thesis google networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchengineland.com/080108-134105.php">
+<title>10 Simple Steps To Social Media Success In 2008</title>
+<link>http://searchengineland.com/080108-134105.php</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2008-01-10T20:12:02Z</dc:date>
+<dc:subject>media social socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clickz.com/showPage.html?page=3626386">
+<title>Social Networking ROI: Measuring the Impact of C2C - ClickZ</title>
+<link>http://www.clickz.com/showPage.html?page=3626386</link>
+<description></description>
+<dc:creator>markcahill</dc:creator>
+<dc:date>2007-12-28T21:12:03Z</dc:date>
+<dc:subject>C2C Thesis networking online social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/Thesis" />
+    <rdf:li resource="http://del.icio.us/tag/C2C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sk8destroy">
+<title>del.icio.us/sk8destroy</title>
+<link>http://del.icio.us/sk8destroy</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.mdn.co.jp/content/view/6275/" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://blog.creamu.com/mt/2008/07/3030_great_free_paper_backgrou.html" />
+  <rdf:li rdf:resource="http://www.100shiki.com/archives/2008/07/javascriptsuggiere.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/java/library/j-genericdao/" />
+  <rdf:li rdf:resource="http://loafer.jp/mixi/diary/class.xsp?2007-04-20-23-05" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/" />
+  <rdf:li rdf:resource="http://dann.g.hatena.ne.jp/dann/20080703/p2" />
+  <rdf:li rdf:resource="http://psdtuts.com/designing-tutorials/create-a-realistic-blackberry-style-mobile-phone-from-scratch/" />
+  <rdf:li rdf:resource="http://commonsmarker.com/" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1266.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/column/ide/034/index.html" />
+  <rdf:li rdf:resource="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html" />
+  <rdf:li rdf:resource="http://mozilla-remix.seesaa.net/article/101952442.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/bookmark_previews/" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1252.html" />
+  <rdf:li rdf:resource="http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/" />
+  <rdf:li rdf:resource="http://gihyo.jp/dev/feature/01/memcached/0001" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/clipperz_community_edition/" />
+  <rdf:li rdf:resource="http://zerobase.jp/blog/2008/07/post_14.html" />
+  <rdf:li rdf:resource="http://www.designwalker.com/2008/06/photoshop-dropshadow.html" />
+  <rdf:li rdf:resource="http://blog.miraclelinux.com/yume/2008/07/post-b58f.html" />
+  <rdf:li rdf:resource="http://ceo.sourcelab.jp/archives/97" />
+  <rdf:li rdf:resource="http://www.be-interactive.org/index.php?itemid=385" />
+  <rdf:li rdf:resource="http://psdtuts.com/designing-tutorials/creating-an-xp-style-monitor-icon/" />
+  <rdf:li rdf:resource="http://ke-tai.org/blog/2008/06/30/imgnoforward/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons" />
+  <rdf:li rdf:resource="http://cakephp.jp/modules/newbb/viewtopic.php?topic_id=1267&#x26;forum=8&#x26;post_id=2616#forumpost2616" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/yandod/20080627/1214589875" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-498.html" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1233.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.mdn.co.jp/content/view/6275/">
+<title>Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3068;&#x30B0;&#x30E9;&#x30D5;&#x30A3;&#x30C3;&#x30AF;&#x306E;&#x7DCF;&#x5408;&#x60C5;&#x5831;&#x30B5;&#x30A4;&#x30C8; - MdN Interactive - WEB&#x306E;&#x5B8C;&#x6210;&#x5EA6;&#x3092;&#x9AD8;&#x3081;&#x308B;76&#x306E;&#x6B63;&#x653B;&#x6CD5;</title>
+<link>http://www.mdn.co.jp/content/view/6275/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T14:03:48Z</dc:date>
+<dc:subject>webdesign &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T14:02:56Z</dc:date>
+<dc:subject>business &#x4F1A;&#x8A08; &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E4%BC%9A%E8%A8%88" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.creamu.com/mt/2008/07/3030_great_free_paper_backgrou.html">
+<title>&#x7121;&#x6599;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x7D20;&#x6674;&#x3089;&#x3057;&#x3044;&#x7D19;&#x306E;&#x80CC;&#x666F;&#x26;&#x30C6;&#x30AF;&#x30B9;&#x30C1;&#x30E3;30&#x9078;&#x300E;30 Great Free Paper Backgrounds and Textures&#x300F; | CREAMU</title>
+<link>http://blog.creamu.com/mt/2008/07/3030_great_free_paper_backgrou.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T13:30:17Z</dc:date>
+<dc:subject>material photoshop texture webdesign &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/texture" />
+    <rdf:li resource="http://del.icio.us/tag/material" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.100shiki.com/archives/2008/07/javascriptsuggiere.html">
+<title>&#x5165;&#x529B;&#x88DC;&#x5B8C;&#x306E;&#x305F;&#x3081;&#x306E;JavaScript&#x30E9;&#x30A4;&#x30D6;&#x30E9;&#x30EA;&#x3092;&#x6295;&#x7A3F;&#x30FB;&#x5171;&#x6709;&#x3067;&#x304D;&#x308B;&#x300E;Suggiere&#x300F; | 100SHIKI.COM</title>
+<link>http://www.100shiki.com/archives/2008/07/javascriptsuggiere.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T13:15:29Z</dc:date>
+<dc:subject>javascript &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/java/library/j-genericdao/">
+<title>DAO&#x3092;&#x7E70;&#x308A;&#x8FD4;&#x3059;&#x306A;&#xFF01;</title>
+<link>http://www.ibm.com/developerworks/jp/java/library/j-genericdao/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T13:00:26Z</dc:date>
+<dc:subject>java &#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x30D1;&#x30BF;&#x30FC;&#x30F3; &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://loafer.jp/mixi/diary/class.xsp?2007-04-20-23-05">
+<title>&#x4E00;&#x89A7;&#x753B;&#x9762;&#x306B;&#x30E1;&#x30C3;&#x30BB;&#x30FC;&#x30B8;&#x30EA;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x4F7F;&#x3046; (mixi &#x65E5;&#x8A18;&#x30A2;&#x30FC;&#x30AB;&#x30A4;&#x30D6;)</title>
+<link>http://loafer.jp/mixi/diary/class.xsp?2007-04-20-23-05</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-06T12:05:30Z</dc:date>
+<dc:subject>i18n java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/">
+<title>Ruby on Rails &#x3068; Eclipse &#x306B;&#x3088;&#x308B; iPhone &#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x958B;&#x767A;: &#x7B2C; 1 &#x56DE; iPhone &#x5411;&#x3051;&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x3092;&#x63D0;&#x4F9B;&#x3059;&#x308B;</title>
+<link>http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-05T07:03:00Z</dc:date>
+<dc:subject>iPhone rails &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iPhone" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dann.g.hatena.ne.jp/dann/20080703/p2">
+<title>Perl&#x300C;&#x8A00;&#x8A9E;&#x300D;&#x521D;&#x5FC3;&#x8005;&#x304C;&#x30E2;&#x30C0;&#x30F3;&#x306A;Perl&#x3092;&#x9AD8;&#x901F;&#x306B;&#x5B66;&#x3076;&#x65B9;&#x6CD5; - dann@webdev - dann&#x30B0;&#x30EB;&#x30FC;&#x30D7;</title>
+<link>http://dann.g.hatena.ne.jp/dann/20080703/p2</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-05T07:02:38Z</dc:date>
+<dc:subject>perl &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/designing-tutorials/create-a-realistic-blackberry-style-mobile-phone-from-scratch/">
+<title>Create a Realistic Blackberry Style Mobile Phone From Scratch - PSDTUTS</title>
+<link>http://psdtuts.com/designing-tutorials/create-a-realistic-blackberry-style-mobile-phone-from-scratch/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-05T07:02:20Z</dc:date>
+<dc:subject>photoshop tutorial &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://commonsmarker.com/">
+<title>&#x30B3;&#x30E2;&#x30F3;&#x30BA;&#x30FB;&#x30DE;&#x30FC;&#x30AB;&#x30FC;&#xFF1A; Web&#x306B;&#x30DE;&#x30FC;&#x30AF;&#x3092;&#x4ED8;&#x3051;&#x3001;&#x307F;&#x3093;&#x306A;&#x3067;&#x5171;&#x6709;</title>
+<link>http://commonsmarker.com/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-05T06:41:47Z</dc:date>
+<dc:subject>webservice &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1266.html">
+<title>&#x5199;&#x771F;&#x3092;&#x304B;&#x3063;&#x3053;&#x3088;&#x304F;&#x898B;&#x305B;&#x308B;&#x30D5;&#x30EA;&#x30FC;&#x306E;Flash&#x306E;&#x753B;&#x50CF;&#x30AE;&#x30E3;&#x30E9;&#x30EA;&#x30FC;&#x96C6; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1266.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-04T03:34:23Z</dc:date>
+<dc:subject>Webdesign flash photo &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/Webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/column/ide/034/index.html">
+<title>&#x3010;&#x30B3;&#x30E9;&#x30E0;&#x3011;&#x30A4;&#x30DE;&#x30C9;&#x30AD;&#x306E;IDE&#x4E8B;&#x60C5; (34) Eclipse&#x306E;&#x30B7;&#x30E7;&#x30FC;&#x30C8;&#x30AB;&#x30C3;&#x30C8;&#x3092;&#x4F7F;&#x3044;&#x3053;&#x306A;&#x305D;&#x3046; | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/column/ide/034/index.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-03T11:58:17Z</dc:date>
+<dc:subject>Eclipse java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html">
+<title>XP SP3&#xFF06;nLite&#x306E;&#x30B3;&#x30F3;&#x30DC;&#x6280;&#x3067;XP&#x3092;&#x5E95;&#x306E;&#x5E95;&#x304B;&#x3089;&#x9AD8;&#x901F;&#x5316; :&#x6559;&#x3048;&#x3066;&#x541B;.net</title>
+<link>http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-03T11:38:37Z</dc:date>
+<dc:subject>windows xp &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mozilla-remix.seesaa.net/article/101952442.html">
+<title>Mozilla Re-Mix: Firefox 3&#x3092;&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA;&#x3059;&#x308B;&#xFF11;&#xFF15;&#x306E;about:config&#x8A2D;&#x5B9A;&#x3002;</title>
+<link>http://mozilla-remix.seesaa.net/article/101952442.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-03T02:50:16Z</dc:date>
+<dc:subject>firefox &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/bookmark_previews/">
+<title>MOONGIFT: &#xBB; Firefox&#x306E;&#x30D6;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30AF;&#x3092;Mac OSX&#x306E;Cover Flow&#x98A8;&#x306B;&#x8868;&#x793A;&#x300C;Bookmark Previews&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/bookmark_previews/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-03T02:46:01Z</dc:date>
+<dc:subject>extension firefox &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1252.html">
+<title>&#x5199;&#x771F;&#x753B;&#x50CF;&#x3092;&#x898B;&#x6804;&#x3048;&#x3088;&#x304F;&#x3059;&#x308B;Photoshop&#x306E;&#x30C1;&#x30E5;&#x30FC;&#x30C8;&#x30EA;&#x30A2;&#x30EB;&#x96C6;: Part 3 | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1252.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-02T12:55:12Z</dc:date>
+<dc:subject>photoshop tutorial &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/">
+<title>iPhone&#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x958B;&#x767A;&#x3068;&#x611F;&#x60F3; &#xAB; ku</title>
+<link>http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-02T12:44:22Z</dc:date>
+<dc:subject>development iphone &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gihyo.jp/dev/feature/01/memcached/0001">
+<title>memcached&#x3092;&#x77E5;&#x308A;&#x5C3D;&#x304F;&#x3059;&#xFF1A;&#x7B2C;1&#x56DE;&#x3000;memcached&#x306E;&#x57FA;&#x672C;&#xFF5C;gihyo.jp &#x2026; &#x6280;&#x8853;&#x8A55;&#x8AD6;&#x793E;</title>
+<link>http://gihyo.jp/dev/feature/01/memcached/0001</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-02T12:37:53Z</dc:date>
+<dc:subject>memcached &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memcached" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/clipperz_community_edition/">
+<title>MOONGIFT: &#xBB; &#x51C4;&#x3059;&#x304E;&#x308B;&#x3002;&#x4FBF;&#x5229;&#x306A;&#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;&#x30D1;&#x30B9;&#x30EF;&#x30FC;&#x30C9;&#x30DE;&#x30CD;&#x30FC;&#x30B8;&#x30E3;&#x300C;Clipperz Community Edition&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/clipperz_community_edition/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-02T04:14:18Z</dc:date>
+<dc:subject>software webservice &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zerobase.jp/blog/2008/07/post_14.html">
+<title>&#x300C;&#x30D9;&#x30F3;&#x30C1;&#x30E3;&#x30FC;&#x8D77;&#x696D;&#x3054;&#x3063;&#x3053;&#x300D;&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30F3;&#xFF08;&#x793E;&#x4F1A;&#x4EBA;&#x3082;&#x53EF;&#xFF09; (ZEROBASE BLOG)</title>
+<link>http://zerobase.jp/blog/2008/07/post_14.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-02T03:29:22Z</dc:date>
+<dc:subject>business</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designwalker.com/2008/06/photoshop-dropshadow.html">
+<title>Photoshop &#x30C9;&#x30ED;&#x30C3;&#x30D7;&#x30B7;&#x30E3;&#x30C9;&#x30A6;&#x3044;&#x308D;&#x3044;&#x308D; - DesignWalker</title>
+<link>http://www.designwalker.com/2008/06/photoshop-dropshadow.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T11:26:14Z</dc:date>
+<dc:subject>photoshop tutorial &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.miraclelinux.com/yume/2008/07/post-b58f.html">
+<title>&#x53D6;&#x7DE0;&#x5F79;&#x9000;&#x4EFB;&#x3002;&#x751F;&#x6DAF;&#x4E00;&#x30D7;&#x30ED;&#x30B0;&#x30E9;&#x30DE;&#x5BA3;&#x8A00;&#x3002;</title>
+<link>http://blog.miraclelinux.com/yume/2008/07/post-b58f.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T11:23:14Z</dc:date>
+<dc:subject>business engineer life programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/engineer" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ceo.sourcelab.jp/archives/97">
+<title>&#x30D5;&#x30A9;&#x30FC;&#x30E0;&#x306E;&#x30D5;&#x30EA;&#x30AC;&#x30CA;&#x3092;&#x81EA;&#x52D5;&#x5165;&#x529B;&#x3055;&#x305B;&#x308B;AutoRuby.js | &#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x5236;&#x4F5C;&#x30FB;&#x904B;&#x55B6;&#x306E;&#x30D2;&#x30F3;&#x30C8;</title>
+<link>http://ceo.sourcelab.jp/archives/97</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T11:21:02Z</dc:date>
+<dc:subject>JavaScript usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JavaScript" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.be-interactive.org/index.php?itemid=385">
+<title>BeInteractive! [ActionScript Thread Library 1.0 (&#x305D;&#x3046;&#x3081;&#x3093;) &#x30EA;&#x30EA;&#x30FC;&#x30B9;!!]</title>
+<link>http://www.be-interactive.org/index.php?itemid=385</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T04:16:29Z</dc:date>
+<dc:subject>actionscript &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/designing-tutorials/creating-an-xp-style-monitor-icon/">
+<title>Creating an XP Style Monitor Icon - PSDTUTS</title>
+<link>http://psdtuts.com/designing-tutorials/creating-an-xp-style-monitor-icon/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T04:12:17Z</dc:date>
+<dc:subject>photoshop tutorial &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ke-tai.org/blog/2008/06/30/imgnoforward/">
+<title>&#x5404;&#x30AD;&#x30E3;&#x30EA;&#x30A2;&#x306E;&#x753B;&#x50CF;&#x4FDD;&#x5B58;&#x30FB;&#x8EE2;&#x9001;&#x5236;&#x9650;&#x306E;&#x8A2D;&#x5B9A;&#x65B9;&#x6CD5;&#x3092;&#x307E;&#x3068;&#x3081;&#x3066;&#x307F;&#x307E;&#x3057;&#x305F;</title>
+<link>http://ke-tai.org/blog/2008/06/30/imgnoforward/</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-07-01T03:32:07Z</dc:date>
+<dc:subject>mobile &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons">
+<title>Firefox 3&#x306B;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x3057;&#x3066;&#x3044;&#x308B;&#x30A2;&#x30C9;&#x30AA;&#x30F3; - soundscape out</title>
+<link>http://d.hatena.ne.jp/tanemori/20080629/FirefoxAddons</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-06-29T11:03:21Z</dc:date>
+<dc:subject>firefox &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cakephp.jp/modules/newbb/viewtopic.php?topic_id=1267&#x26;forum=8&#x26;post_id=2616#forumpost2616">
+<title>&#x22;PayPal IPN Controller&#x22; &#x30D5;&#x30A9;&#x30FC;&#x30E9;&#x30E0; - CakePHP Users in Japan</title>
+<link>http://cakephp.jp/modules/newbb/viewtopic.php?topic_id=1267&#x26;forum=8&#x26;post_id=2616#forumpost2616</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-06-28T11:39:00Z</dc:date>
+<dc:subject>cakephp paypal &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cakephp" />
+    <rdf:li resource="http://del.icio.us/tag/paypal" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/yandod/20080627/1214589875">
+<title>&#x7B2C;3&#x56DE;CakePHP&#x52C9;&#x5F37;&#x4F1A;&#x7D42;&#x4E86;&#xFF06;&#x767A;&#x8868;&#x8CC7;&#x6599; - yandod&#x306E;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/yandod/20080627/1214589875</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-06-28T11:25:27Z</dc:date>
+<dc:subject>cakephp &#x5F8C;&#x3067;&#x8AAD;&#x3080;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cakephp" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%AA%AD%E3%82%80" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-498.html">
+<title>&#x6709;&#x76CA;&#x306A;web&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x306E;&#x751F;&#x307F;&#x51FA;&#x3059;&#x305F;&#x3081;&#x306E;5&#x3064;&#x306E;&#x30CE;&#x30A6;&#x30CF;&#x30A6;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-498.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-06-27T10:08:49Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1233.html">
+<title>http://coliss.com/articles/build-websites/operation/design/1233.html</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1233.html</link>
+<description></description>
+<dc:creator>sk8destroy</dc:creator>
+<dc:date>2008-06-27T10:00:17Z</dc:date>
+<dc:subject>photoshop tutorial &#x5F8C;&#x3067;&#x8A66;&#x3059;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%BE%8C%E3%81%A7%E8%A9%A6%E3%81%99" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

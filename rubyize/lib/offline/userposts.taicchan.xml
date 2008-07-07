@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/taicchan">
+<title>del.icio.us/taicchan</title>
+<link>http://del.icio.us/taicchan</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/gamella/20080705/1215185010" />
+  <rdf:li rdf:resource="http://dann.g.hatena.ne.jp/dann/20080703/p2" />
+  <rdf:li rdf:resource="http://news23vip.blog109.fc2.com/blog-entry-1241.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/06/gmail_2.html" />
+  <rdf:li rdf:resource="http://ruri.crara.cc/archives/2230/" />
+  <rdf:li rdf:resource="http://www.oshiete-kun.net/archives/2008/06/dvd_1.html" />
+  <rdf:li rdf:resource="http://zen.seesaa.net/article/101427288.html" />
+  <rdf:li rdf:resource="http://diary.lylyco.com/2008/06/post_101.html" />
+  <rdf:li rdf:resource="http://cyblog.jp/modules/weblog/details.php?blog_id=712" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/sergejO/20080624/1214234591" />
+  <rdf:li rdf:resource="http://www.kaiketsudan.net/article/601/1/show.html" />
+  <rdf:li rdf:resource="http://alfalfa.livedoor.biz/archives/51317063.html" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1215.html" />
+  <rdf:li rdf:resource="http://blackshadow.seesaa.net/article/101156674.html" />
+  <rdf:li rdf:resource="http://homepage2.nifty.com/yss/eac/eac3.htm" />
+  <rdf:li rdf:resource="http://suzuna.jp/flacencode/outline.html" />
+  <rdf:li rdf:resource="http://neta.ywcafe.net/000860.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/Hamachiya2/20080616/warez" />
+  <rdf:li rdf:resource="http://cruel.org/other/matsuo/matsuo.html" />
+  <rdf:li rdf:resource="http://blog.mf-davinci.com/mori_log/archives/2008/06/post_1935.php" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/wadap/20080616/1213580741" />
+  <rdf:li rdf:resource="http://ougon.konjiki.jp/" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0806/06/news124.html" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20080602/305754/" />
+  <rdf:li rdf:resource="http://labaq.com/archives/51032297.html" />
+  <rdf:li rdf:resource="http://www.yukawanet.com/sunday/2008/06/webajax.html" />
+  <rdf:li rdf:resource="http://zen.seesaa.net/article/98648789.html" />
+  <rdf:li rdf:resource="http://www.sugoren.com/2008/06/18.php" />
+  <rdf:li rdf:resource="http://kosstyle.blog16.fc2.com/blog-entry-729.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/Hash/20080529/1212077847" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-07-06T08:43:10Z</dc:date>
+<dc:subject>accounting business study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/gamella/20080705/1215185010">
+<title>&#x30C9;&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3068;&#x4EFB;&#x5929;&#x5802; &#x5CA9;&#x7530;&#x793E;&#x9577;&#x304B;&#x3089;&#x307F;&#x308B;&#x4EBA;&#x4E8B;&#x306E;&#x672C;&#x8CEA; - Future Insight</title>
+<link>http://d.hatena.ne.jp/gamella/20080705/1215185010</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-07-06T03:28:02Z</dc:date>
+<dc:subject>business management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dann.g.hatena.ne.jp/dann/20080703/p2">
+<title>Perl&#x300C;&#x8A00;&#x8A9E;&#x300D;&#x521D;&#x5FC3;&#x8005;&#x304C;&#x30E2;&#x30C0;&#x30F3;&#x306A;Perl&#x3092;&#x9AD8;&#x901F;&#x306B;&#x5B66;&#x3076;&#x65B9;&#x6CD5; - dann@webdev - dann&#x30B0;&#x30EB;&#x30FC;&#x30D7;</title>
+<link>http://dann.g.hatena.ne.jp/dann/20080703/p2</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-07-04T12:20:24Z</dc:date>
+<dc:subject>perl programming study tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news23vip.blog109.fc2.com/blog-entry-1241.html">
+<title>&#x5B66;&#x751F;&#x306E;&#x3046;&#x3061;&#x306B;&#x8AAD;&#x3080;&#x3079;&#x304D;&#x672C;:VIPPER&#x306A;&#x4FFA;</title>
+<link>http://news23vip.blog109.fc2.com/blog-entry-1241.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-29T19:50:38Z</dc:date>
+<dc:subject>book</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/06/gmail_2.html">
+<title>Gmail&#x3067;&#x300C;&#x30C6;&#x30F3;&#x30D7;&#x30EC;&#x30FC;&#x30C8;&#x300D;&#x30E9;&#x30D9;&#x30EB;&#x3092;&#x4F5C;&#x3063;&#x3066;&#x304A;&#x304F;&#x3068;&#x4FBF;&#x5229;&#x3063;&#x3059; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/06/gmail_2.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-29T03:39:57Z</dc:date>
+<dc:subject>gmail tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ruri.crara.cc/archives/2230/">
+<title>&#x548C;&#x98A8;&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3067;&#x30AB;&#x30C3;&#x30B3;&#x3044;&#x3044;&#x30B5;&#x30A4;&#x30C8;&#x306E;&#x307E;&#x3068;&#x3081;&#xFF1A;&#x305D;&#x306E;&#xFF12; at &#x548C;&#x306E;&#x66AE;&#x3089;&#x3057;&#x3092;&#x697D;&#x3057;&#x3080;&#x30D6;&#x30ED;&#x30B0; -&#x7460;&#x7483;&#x8272;Tradition-</title>
+<link>http://ruri.crara.cc/archives/2230/</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-29T03:38:47Z</dc:date>
+<dc:subject>gallery inspiration japanese webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/japanese" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oshiete-kun.net/archives/2008/06/dvd_1.html">
+<title>&#x307E;&#x3068;&#x3081;&#xFF1A;DVD&#x3092;&#x3044;&#x3058;&#x308A;&#x307E;&#x308F;&#x3057;&#x3066;&#x582A;&#x80FD;&#x3059;&#x308B;&#x5FC5;&#x643A;&#x30C6;&#x30AF;&#x96C6; :&#x6559;&#x3048;&#x3066;&#x541B;.net</title>
+<link>http://www.oshiete-kun.net/archives/2008/06/dvd_1.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-28T13:34:40Z</dc:date>
+<dc:subject>dvd software tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zen.seesaa.net/article/101427288.html">
+<title>&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x30FB;&#x30D1;&#x30D6;: &#x5947;&#x8DE1;&#x306E;&#x5973;&#x6027;&#x30B5;&#x30A4;&#x30C8;&#x201C;Glam&#x201D;(1)&#xFF0C;Facebook&#x3092;&#x3057;&#x306E;&#x3050;&#x52E2;&#x3044;&#x3067;&#x65E5;&#x672C;&#x4E0A;&#x9678;&#x3078;</title>
+<link>http://zen.seesaa.net/article/101427288.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-25T20:40:49Z</dc:date>
+<dc:subject>community fashion sns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sns" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diary.lylyco.com/2008/06/post_101.html">
+<title>&#x4ED6;&#x4EBA;&#x306E;&#x5F31;&#x3055;&#x3092;&#x4E0D;&#x5FEB;&#x306B;&#x611F;&#x3058;&#x308B;&#x4EBA;&#x306E;&#x5F31;&#x3055;&#xFF5C;Weep for me - &#x30DC;&#x30AF;&#x30CE;&#x30BF;&#x30E1;&#x30CB;&#x6CE3;&#x30A4;&#x30C6;&#x30AF;&#x30EC; &#x3E; &#x96D1;&#x8A18;</title>
+<link>http://diary.lylyco.com/2008/06/post_101.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-24T10:57:15Z</dc:date>
+<dc:subject>communication life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cyblog.jp/modules/weblog/details.php?blog_id=712">
+<title>&#x30B7;&#x30B4;&#x30BF;&#x30CE;&#xFF01; - &#x4EA4;&#x6E09;&#x3067;&#x76F8;&#x624B;&#x306B;YES&#x3068;&#x8A00;&#x308F;&#x305B;&#x308B;&#x305F;&#x3081;&#x306E;&#xFF19;&#x3064;&#x306E;&#x30DD;&#x30A4;&#x30F3;&#x30C8;</title>
+<link>http://cyblog.jp/modules/weblog/details.php?blog_id=712</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-24T10:56:35Z</dc:date>
+<dc:subject>business communication</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/sergejO/20080624/1214234591">
+<title>&#x82F1;&#x8A9E;&#x843D;&#x3061;&#x3053;&#x307C;&#x308C;&#x2192;&#x53D6;&#x308A;&#x3042;&#x3048;&#x305A;TOEIC935&#x70B9;&#x306E;sergejO&#x304C;&#x8D08;&#x308B; &#x5927;&#x4EBA;&#x304B;&#x3089;&#x59CB;&#x3081;&#x308B;&#x82F1;&#x8A9E;&#x8B1B;&#x5EA7; index&#xFF06;&#x307E;&#x3068;&#x3081; - &#x306F;&#x3066;&#x306A;&#x306B;&#x65BC;&#x3051;&#x308B;sergejo</title>
+<link>http://d.hatena.ne.jp/sergejO/20080624/1214234591</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-24T10:55:19Z</dc:date>
+<dc:subject>english study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kaiketsudan.net/article/601/1/show.html">
+<title>&#x82F1;&#x4F1A;&#x8A71;&#x529B;&#x3092;&#x8EAB;&#x306B;&#x3064;&#x3051;&#x308B;Apple&#x516C;&#x8A8D;&#x306E;&#x300C;&#x3059;&#x3051;&#x3079;&#x300D;&#x30DD;&#x30C3;&#x30C9;&#x30AD;&#x30E3;&#x30B9;&#x30C6;&#x30A3;&#x30F3;&#x30B0;10&#x9078;&#x3000;&#x771F;&#x9762;&#x76EE;&#x306B;&#x82F1;&#x4F1A;&#x8A71;&#x5B66;&#x3076;&#x306A;&#x3089;&#x3084;&#x3063;&#x3071;&#x308A;&#x305D;&#x3063;&#x3061;&#x65B9;&#x9762;&#x304B;&#x3089; - &#x89E3;&#x6C7A;&#x56E3;</title>
+<link>http://www.kaiketsudan.net/article/601/1/show.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-23T14:21:49Z</dc:date>
+<dc:subject>english podcast study</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alfalfa.livedoor.biz/archives/51317063.html">
+<title>&#x308F;&#x305F;&#x3057;&#x306E;&#x7BC0;&#x7D04;&#x98DF;&#x751F;&#x6D3B;&#xFF5E;&#x5B89;&#x7C21;&#x65E8;&#xFF5E;:&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30EB;&#x30D5;&#x30A1;&#x30E2;&#x30B6;&#x30A4;&#x30AF;</title>
+<link>http://alfalfa.livedoor.biz/archives/51317063.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-22T11:47:20Z</dc:date>
+<dc:subject>cooking life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1215.html">
+<title>&#x30A6;&#x30A7;&#x30D6;&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x306B;&#x5F79;&#x7ACB;&#x3064;&#x3001;15&#x306E;&#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;&#x30C4;&#x30FC;&#x30EB; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1215.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-21T07:00:51Z</dc:date>
+<dc:subject>tool webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blackshadow.seesaa.net/article/101156674.html">
+<title>&#x5E7B;&#x5F71;&#x968F;&#x60F3;: &#x82F1;&#x8A9E;&#x8033;&#x3092;&#x935B;&#x3048;&#x308B;&#x305F;&#x3081;&#x306E;&#x79D1;&#x5B66;&#x306A;&#x30DD;&#x30C3;&#x30C9;&#x30AD;&#x30E3;&#x30B9;&#x30C8;&#xFF11;&#xFF10;&#x9078;</title>
+<link>http://blackshadow.seesaa.net/article/101156674.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-21T06:53:11Z</dc:date>
+<dc:subject>english podcast science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage2.nifty.com/yss/eac/eac3.htm">
+<title>Exact Audio Copy&#x3092;&#x4F7F;&#x3063;&#x305F;&#x97F3;&#x697D;CD&#x5B8C;&#x5168;&#x30D0;&#x30C3;&#x30AF;&#x30A2;&#x30C3;&#x30D7;&#xFF08;&#x6539;&#x8A02;&#x7248;&#xFF09;</title>
+<link>http://homepage2.nifty.com/yss/eac/eac3.htm</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-20T22:26:54Z</dc:date>
+<dc:subject>backup eac music software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eac" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://suzuna.jp/flacencode/outline.html">
+<title>flacencode - &#x6982;&#x8981;&#x3068;&#x30C4;&#x30FC;&#x30EB;&#x306E;&#x7D39;&#x4ECB;.</title>
+<link>http://suzuna.jp/flacencode/outline.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-20T22:26:37Z</dc:date>
+<dc:subject>encode music software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/encode" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://neta.ywcafe.net/000860.html">
+<title>&#x697D;&#x5929;&#x30A2;&#x30D5;&#x30A3;&#x30EA;&#x30A8;&#x30A4;&#x30C8;&#x3068;&#x697D;&#x5929;&#x30DD;&#x30A4;&#x30F3;&#x30C8;&#x306B;&#x95A2;&#x3059;&#x308B;&#x9ED2;&#x6B74;&#x53F2;</title>
+<link>http://neta.ywcafe.net/000860.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-17T21:37:51Z</dc:date>
+<dc:subject>affiliate rakuten</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/affiliate" />
+    <rdf:li resource="http://del.icio.us/tag/rakuten" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/Hamachiya2/20080616/warez">
+<title>&#x4ECA;&#x3069;&#x304D;Warez&#x3068;&#x304B;&#x6D41;&#x884C;&#x3093;&#x306A;&#x3044;&#x3068;&#x601D;&#x3046;&#x3051;&#x3069; - &#x307C;&#x304F;&#x306F;&#x307E;&#x3061;&#x3061;&#x3083;&#x3093;&#xFF01;(Hatena)</title>
+<link>http://d.hatena.ne.jp/Hamachiya2/20080616/warez</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-17T21:29:42Z</dc:date>
+<dc:subject>search web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cruel.org/other/matsuo/matsuo.html">
+<title>&#x300E;&#x306F;&#x3060;&#x304B;&#x306E;&#x738B;&#x69D8;&#x306E;&#x7D4C;&#x6E08;&#x5B66;&#x300F;&#x306F;&#x6226;&#x6144;&#x3059;&#x3079;&#x304D;&#x672C;&#x3067;&#x3042;&#x308B;</title>
+<link>http://cruel.org/other/matsuo/matsuo.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-17T21:26:15Z</dc:date>
+<dc:subject>book economy review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.mf-davinci.com/mori_log/archives/2008/06/post_1935.php">
+<title>MORI LOG ACADEMY: &#x7A7A;&#x6C17;&#x306A;&#x3093;&#x304B;&#x8AAD;&#x3081;&#x306A;&#x304F;&#x3066;&#x826F;&#x3044;</title>
+<link>http://blog.mf-davinci.com/mori_log/archives/2008/06/post_1935.php</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-17T20:51:50Z</dc:date>
+<dc:subject>life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/wadap/20080616/1213580741">
+<title>&#x30B5;&#x30FC;&#x30D0;&#x30FC;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x304C;&#x5165;&#x308C;&#x3066;&#x304A;&#x304F;&#x3068;&#x4FBF;&#x5229;&#x306A;Firefox&#x30A2;&#x30C9;&#x30AA;&#x30F3;&#xFF17;&#x9078; - Unix&#x7684;&#x306A;&#x30A2;&#x30EC;</title>
+<link>http://d.hatena.ne.jp/wadap/20080616/1213580741</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-16T20:05:44Z</dc:date>
+<dc:subject>addons development firefox network programming server</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/addons" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ougon.konjiki.jp/">
+<title>&#x5408;&#x30B3;&#x30F3;&#x306E;&#x9EC4;&#x91D1;&#x5F8B;</title>
+<link>http://ougon.konjiki.jp/</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-16T19:51:33Z</dc:date>
+<dc:subject>communication</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0806/06/news124.html">
+<title>&#x201C;PC&#x3067;&#x4ED5;&#x4E8B;&#x201D;&#x3092;&#x901F;&#x304F;&#x3059;&#x308B;&#xFF1A;&#x7B2C;20&#x56DE; Dropbox&#x3067;&#x3059;&#x3079;&#x3066;&#x306F;&#x89E3;&#x6C7A;&#x3057;&#x3066;&#x3057;&#x307E;&#x3063;&#x305F; (1/3) - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0806/06/news124.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-08T12:20:10Z</dc:date>
+<dc:subject>pc software storage webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20080602/305754/">
+<title>&#x307E;&#x308B;&#x3054;&#x3068;&#x5927;&#x7279;&#x96C6;OS&#x5B8C;&#x5168;&#x7406;&#x89E3;&#xFF01;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20080602/305754/</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-05T21:27:14Z</dc:date>
+<dc:subject>os</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/os" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labaq.com/archives/51032297.html">
+<title>&#x3089;&#x3070;Q:&#x30D3;&#x30EB;&#x30FB;&#x30B2;&#x30A4;&#x30C4;&#x306E;&#x30B9;&#x30D4;&#x30FC;&#x30C1;&#x300C;&#x5B66;&#x6821;&#x3067;&#x306F;&#x6559;&#x3048;&#x3066;&#x304F;&#x308C;&#x306A;&#x3044;&#x4EBA;&#x751F;&#x306B;&#x5F79;&#x7ACB;&#x3064;11&#x306E;&#x30EB;&#x30FC;&#x30EB;&#x300D;</title>
+<link>http://labaq.com/archives/51032297.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-05T11:06:52Z</dc:date>
+<dc:subject>life microsoft social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yukawanet.com/sunday/2008/06/webajax.html">
+<title>| &#xFF3E;&#xFF3E; |&#x79D2;&#x520A;SUNDAY | &#x305A;&#x3070;&#x308A;&#xFF01;&#x30B3;&#x30EC;&#x3055;&#x3048;&#x3042;&#x308C;&#x3070;Web&#x30B7;&#x30B9;&#x30C6;&#x30E0;&#x306F;&#x5B8C;&#x74A7;&#x306A;Ajax&#x30B5;&#x30F3;&#x30D7;&#x30EB;&#x96C6;</title>
+<link>http://www.yukawanet.com/sunday/2008/06/webajax.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-05T11:00:13Z</dc:date>
+<dc:subject>ajax javascript library webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zen.seesaa.net/article/98648789.html">
+<title>&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x30FB;&#x30D1;&#x30D6;: &#x65B0;&#x6280;&#x8853;&#x3068;&#x82F1;&#x8A9E;&#x3092;&#x4E00;&#x7DD2;&#x306B;&#x5B66;&#x3079;&#x308B;&#x79C0;&#x4F5C;&#x30D3;&#x30C7;&#x30AA;</title>
+<link>http://zen.seesaa.net/article/98648789.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-02T11:08:50Z</dc:date>
+<dc:subject>english video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sugoren.com/2008/06/18.php">
+<title>&#x4E0B;&#x30CD;&#x30BF;&#x3092;&#x8A71;&#x3059;&#x3068;&#x304D;&#x306E;18&#x30B3;&#x306E;&#x6CE8;&#x610F;&#x70B9;&#xFF5C;&#x30B9;&#x30B4;&#x30EC;&#x30F3;</title>
+<link>http://www.sugoren.com/2008/06/18.php</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-02T10:49:18Z</dc:date>
+<dc:subject>neta</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/neta" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kosstyle.blog16.fc2.com/blog-entry-729.html">
+<title>&#x5199;&#x771F;&#x304C;&#x3046;&#x307E;&#x304F;&#x306A;&#x308B;&#xFF13;&#xFF16;&#x306E;&#x6CD5;&#x5247; - Ko's Style</title>
+<link>http://kosstyle.blog16.fc2.com/blog-entry-729.html</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-06-02T10:45:36Z</dc:date>
+<dc:subject>camera photo tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/Hash/20080529/1212077847">
+<title>&#x30E1;&#x30E2;&#x3092;&#x6368;&#x3066;&#x308D;&#x3001;&#x672C;&#x3092;&#x6368;&#x3066;&#x308D;&#x3001;&#x305D;&#x306E;&#x3067;&#x304B;&#x3044;&#x9784;&#x3092;&#x6368;&#x3066;&#x308D;&#x3002;&#x305D;&#x3093;&#x306A;&#x3082;&#x306E;&#x306B;&#x983C;&#x308B;&#x3093;&#x306F;&#x81EA;&#x5206;&#x306B;&#x81EA;&#x4FE1;&#x304C;&#x306A;&#x3044;&#x304B;&#x3089;&#x3084; - &#x30D0;&#x30A4;&#x30AA;&#x7814;&#x7A76;&#x8005;&#x898B;&#x7FD2;&#x3044;&#x751F;&#x6D3B; with IT</title>
+<link>http://d.hatena.ne.jp/Hash/20080529/1212077847</link>
+<description></description>
+<dc:creator>taicchan</dc:creator>
+<dc:date>2008-05-30T16:21:32Z</dc:date>
+<dc:subject>communication education life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

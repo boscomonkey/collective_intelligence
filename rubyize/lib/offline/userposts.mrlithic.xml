@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mrlithic">
+<title>del.icio.us/mrlithic</title>
+<link>http://del.icio.us/mrlithic</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.edfringe.com/shows/detail.php?action=shows&#x26;id=274" />
+  <rdf:li rdf:resource="http://dmca.cs.washington.edu/" />
+  <rdf:li rdf:resource="http://www.pixchannel.com/flash/index.html" />
+  <rdf:li rdf:resource="http://www.wherethehellismatt.com/?fbid=ysMUn" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=zlfKdbWwruY&#x26;eurl=http://www.crooksandliars.com/" />
+  <rdf:li rdf:resource="http://www.splunk.com/index.php/landing?ac=ostg-lb" />
+  <rdf:li rdf:resource="http://gizmodo.com/5018990/lego-secret-vault-contains-all-sets-in-history" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/shmoocon-hacking-videos/" />
+  <rdf:li rdf:resource="http://www.badgerbadgerbadger.com/footy.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/1/hi/in_pictures/7463544.stm" />
+  <rdf:li rdf:resource="http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/17/tools-for-cheap-air-travel/" />
+  <rdf:li rdf:resource="http://hundredpushups.com/index.html" />
+  <rdf:li rdf:resource="http://www.trendsecure.com/portal/en-US/tools/security_tools/hijackthis/download" />
+  <rdf:li rdf:resource="http://cobitcampus3.isaca.org/isaca/index.aspx" />
+  <rdf:li rdf:resource="https://wam.bcs.org/wam/MembApp.exe?TYPE=PROFNEIT&#x26;CJSRC=N" />
+  <rdf:li rdf:resource="http://www.itsecurity.com/" />
+  <rdf:li rdf:resource="http://www.javvin.com/links.html" />
+  <rdf:li rdf:resource="http://forums.contractoruk.com/business-contracts/29430-contracting-glasgow.html" />
+  <rdf:li rdf:resource="http://www.everythingicafe.com/forum/iphone-modifications/latest-ziphone-2-6b-good-but-25583.html" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2008/04/15/scc_15_usdin//" />
+  <rdf:li rdf:resource="http://www.businesspundit.com/10-investing-books-recommended-by-warren-buffett/" />
+  <rdf:li rdf:resource="http://www.sjdaccountancy.com/" />
+  <rdf:li rdf:resource="http://searchsecurity.techtarget.com/general/0,295582,sid14_gci1199394,00.html?track=DPland" />
+  <rdf:li rdf:resource="http://www.ipodtouchfans.com/forums/showthread.php?p=450803&#x26;#post450803" />
+  <rdf:li rdf:resource="http://home.swipnet.se/ridax/touchmic.htm" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2008/05/08/downfall_of_botnet_master_sobe_owns/print.html" />
+  <rdf:li rdf:resource="http://www.hmrc.gov.uk/guidance/480.pdf" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description>Elements of Style</description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-07-06T11:54:35Z</dc:date>
+<dc:subject>advice ai gtd guide howto mit phd readlater research thesis tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-07-06T11:27:25Z</dc:date>
+<dc:subject>desktop freeware install lifehacks opensource rebuild software tweaks windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/rebuild" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000&#xD7;2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-07-06T10:49:12Z</dc:date>
+<dc:subject>atom chart particle physics poster quantum reference science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edfringe.com/shows/detail.php?action=shows&#x26;id=274">
+<title>edfringe.com : official site of the edinburgh festival fringe</title>
+<link>http://www.edfringe.com/shows/detail.php?action=shows&#x26;id=274</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-07-03T07:00:35Z</dc:date>
+<dc:subject>CK Louis comedy entertainment tobook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Louis" />
+    <rdf:li resource="http://del.icio.us/tag/CK" />
+    <rdf:li resource="http://del.icio.us/tag/comedy" />
+    <rdf:li resource="http://del.icio.us/tag/tobook" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dmca.cs.washington.edu/">
+<title>Tracking the Trackers</title>
+<link>http://dmca.cs.washington.edu/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-30T02:33:58Z</dc:date>
+<dc:subject>bittorrent copyright dmca filesharing legal p2p research security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/copyright" />
+    <rdf:li resource="http://del.icio.us/tag/dmca" />
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/filesharing" />
+    <rdf:li resource="http://del.icio.us/tag/legal" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixchannel.com/flash/index.html">
+<title>Pix Channel :: What Makes Photographers Click</title>
+<link>http://www.pixchannel.com/flash/index.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-28T11:51:37Z</dc:date>
+<dc:subject>documentary inspiration interview magazine photo photographer photography photos video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photographer" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wherethehellismatt.com/?fbid=ysMUn">
+<title>Where The Hell Is Matt?</title>
+<link>http://www.wherethehellismatt.com/?fbid=ysMUn</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-25T17:54:38Z</dc:date>
+<dc:subject>film traveller video world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/world" />
+    <rdf:li resource="http://del.icio.us/tag/traveller" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=zlfKdbWwruY&#x26;eurl=http://www.crooksandliars.com/">
+<title>YouTube - Where the Hell is Matt? (2008)</title>
+<link>http://www.youtube.com/watch?v=zlfKdbWwruY&#x26;eurl=http://www.crooksandliars.com/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-25T17:54:19Z</dc:date>
+<dc:subject>film traveller video world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/world" />
+    <rdf:li resource="http://del.icio.us/tag/traveller" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.splunk.com/index.php/landing?ac=ostg-lb">
+<title>Splunk &#x3E; Download Splunk 3.2</title>
+<link>http://www.splunk.com/index.php/landing?ac=ostg-lb</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-25T11:52:59Z</dc:date>
+<dc:subject>log networking search sysadmin tools utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/log" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/5018990/lego-secret-vault-contains-all-sets-in-history">
+<title>Lego Sets: Lego Secret Vault Contains All Sets In History</title>
+<link>http://gizmodo.com/5018990/lego-secret-vault-contains-all-sets-in-history</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-24T13:58:41Z</dc:date>
+<dc:subject>archive cool geek history lego toys video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lego" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/toys" />
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/shmoocon-hacking-videos/">
+<title>Hacking Videos from Shmoocon - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/shmoocon-hacking-videos/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-24T13:40:43Z</dc:date>
+<dc:subject>hacker hacking security tutorial video videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/hacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badgerbadgerbadger.com/footy.html">
+<title>Footy and the Football Badgers England England England</title>
+<link>http://www.badgerbadgerbadger.com/footy.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-23T04:41:58Z</dc:date>
+<dc:subject>humor video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/1/hi/in_pictures/7463544.stm">
+<title>BBC NEWS | In Pictures | Day in pictures</title>
+<link>http://news.bbc.co.uk/1/hi/in_pictures/7463544.stm</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-20T10:16:37Z</dc:date>
+<dc:subject>for liz pictures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/for" />
+    <rdf:li resource="http://del.icio.us/tag/liz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo">
+<title>Exits: Stewart Butterfield's bizarre resignation letter to Yahoo</title>
+<link>http://valleywag.com/5017424/stewart-butterfields-bizarre-resignation-letter-to-yahoo</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-19T04:20:27Z</dc:date>
+<dc:subject>cool flickr humor writing yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/17/tools-for-cheap-air-travel/">
+<title>30+ Tools For Cheap and Convenient Air Travel | Mashable! - The Social Networking Blog</title>
+<link>http://mashable.com/2008/06/17/tools-for-cheap-air-travel/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-19T04:16:46Z</dc:date>
+<dc:subject>airfare cheap flights list reference tools travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/airfare" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/flights" />
+    <rdf:li resource="http://del.icio.us/tag/cheap" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hundredpushups.com/index.html">
+<title>one hundred push ups</title>
+<link>http://hundredpushups.com/index.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-19T04:12:19Z</dc:date>
+<dc:subject>Fitness exercise health pushups training workout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Fitness" />
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/workout" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/pushups" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.trendsecure.com/portal/en-US/tools/security_tools/hijackthis/download">
+<title>TrendSecure | Download TrendMicro&#x2122; HijackThis&#x2122;</title>
+<link>http://www.trendsecure.com/portal/en-US/tools/security_tools/hijackthis/download</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-18T10:22:16Z</dc:date>
+<dc:subject>app freeware security software spyware tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/spyware" />
+    <rdf:li resource="http://del.icio.us/tag/app" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cobitcampus3.isaca.org/isaca/index.aspx">
+<title>CobiT Foundation Course, CobiT Exam, ISACA Training, CobiT For Sarbanes-Oxley, ISO 20000 Trainings, ITIL Foundation Course</title>
+<link>http://cobitcampus3.isaca.org/isaca/index.aspx</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-17T13:44:59Z</dc:date>
+<dc:subject>IT audit certification cobit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cobit" />
+    <rdf:li resource="http://del.icio.us/tag/audit" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/certification" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://wam.bcs.org/wam/MembApp.exe?TYPE=PROFNEIT&#x26;CJSRC=N">
+<title>BCS Membership Application: Before you begin: Prof 2</title>
+<link>https://wam.bcs.org/wam/MembApp.exe?TYPE=PROFNEIT&#x26;CJSRC=N</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-11T10:14:09Z</dc:date>
+<dc:subject>BCS Join Membership</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BCS" />
+    <rdf:li resource="http://del.icio.us/tag/Membership" />
+    <rdf:li resource="http://del.icio.us/tag/Join" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itsecurity.com/">
+<title>home: access key 1</title>
+<link>http://www.itsecurity.com/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-09T19:41:24Z</dc:date>
+<dc:subject>IT Security computers infosec network news reference tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Security" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/infosec" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javvin.com/links.html">
+<title>IT, Networking, Telecom Books and Tools</title>
+<link>http://www.javvin.com/links.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-06T09:30:52Z</dc:date>
+<dc:subject>internet network networking poster posters reference security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.contractoruk.com/business-contracts/29430-contracting-glasgow.html">
+<title>Contracting in Glasgow - Contractor UK Bulletin Board</title>
+<link>http://forums.contractoruk.com/business-contracts/29430-contracting-glasgow.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-06T07:22:42Z</dc:date>
+<dc:subject>Glasgow contracting contracts jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/contracting" />
+    <rdf:li resource="http://del.icio.us/tag/Glasgow" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/contracts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.everythingicafe.com/forum/iphone-modifications/latest-ziphone-2-6b-good-but-25583.html">
+<title>latest Ziphone 2.6b.....Good But - iPhone | iPod Touch forums</title>
+<link>http://www.everythingicafe.com/forum/iphone-modifications/latest-ziphone-2-6b-good-but-25583.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-05T12:38:34Z</dc:date>
+<dc:subject>hack ipod touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/touch" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2008/04/15/scc_15_usdin//">
+<title>How a pair of American spies created the Soviet Silicon Valley | The Register</title>
+<link>http://www.theregister.co.uk/2008/04/15/scc_15_usdin//</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-04T07:49:00Z</dc:date>
+<dc:subject>TheRegister technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/TheRegister" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businesspundit.com/10-investing-books-recommended-by-warren-buffett/">
+<title>Ten Books on Investing Recommended by Warren Buffett | Business Pundit</title>
+<link>http://www.businesspundit.com/10-investing-books-recommended-by-warren-buffett/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-03T12:29:14Z</dc:date>
+<dc:subject>Finance books business economics investing money toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/Finance" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sjdaccountancy.com/">
+<title>SJD Accountancy - Accountants for Contractors, Freelancers, Consultants and Small Businesses</title>
+<link>http://www.sjdaccountancy.com/</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-06-03T09:21:57Z</dc:date>
+<dc:subject>accountants contracting freelancing jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/contracting" />
+    <rdf:li resource="http://del.icio.us/tag/freelancing" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/accountants" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchsecurity.techtarget.com/general/0,295582,sid14_gci1199394,00.html?track=DPland">
+<title>Earn CPE credits from SearchSecurity.com Security Schools</title>
+<link>http://searchsecurity.techtarget.com/general/0,295582,sid14_gci1199394,00.html?track=DPland</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-05-30T10:28:52Z</dc:date>
+<dc:subject>CISSP CPE ISC2 certifications</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ISC2" />
+    <rdf:li resource="http://del.icio.us/tag/CISSP" />
+    <rdf:li resource="http://del.icio.us/tag/CPE" />
+    <rdf:li resource="http://del.icio.us/tag/certifications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ipodtouchfans.com/forums/showthread.php?p=450803&#x26;#post450803">
+<title>[HOW TO] Jailbreak 1.1.4 And Perfect Your iPhone/iPod Touch!!!! - iPod touch Fans forum#post450803</title>
+<link>http://www.ipodtouchfans.com/forums/showthread.php?p=450803&#x26;#post450803</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-05-30T10:21:43Z</dc:date>
+<dc:subject>hacks iPod touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iPod" />
+    <rdf:li resource="http://del.icio.us/tag/touch" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.swipnet.se/ridax/touchmic.htm">
+<title>touchmods.net microphone ordering</title>
+<link>http://home.swipnet.se/ridax/touchmic.htm</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-05-30T10:20:42Z</dc:date>
+<dc:subject>hack hardware iphone ipod ipodtouch mic touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/mic" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/ipodtouch" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/touch" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2008/05/08/downfall_of_botnet_master_sobe_owns/print.html">
+<title>I Was A Teenage Bot Master [printer-friendly] | The Register</title>
+<link>http://www.theregister.co.uk/2008/05/08/downfall_of_botnet_master_sobe_owns/print.html</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-05-27T09:13:33Z</dc:date>
+<dc:subject>Article botnet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Article" />
+    <rdf:li resource="http://del.icio.us/tag/botnet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hmrc.gov.uk/guidance/480.pdf">
+<title>http://www.hmrc.gov.uk/guidance/480.pdf</title>
+<link>http://www.hmrc.gov.uk/guidance/480.pdf</link>
+<description></description>
+<dc:creator>mrlithic</dc:creator>
+<dc:date>2008-05-27T06:41:40Z</dc:date>
+<dc:subject>Tax business expenses vat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tax" />
+    <rdf:li resource="http://del.icio.us/tag/expenses" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/vat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

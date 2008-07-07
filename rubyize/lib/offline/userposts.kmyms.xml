@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kmyms">
+<title>del.icio.us/kmyms</title>
+<link>http://del.icio.us/kmyms</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/ear_os_free_edition/" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://lifehacker.com/397802/two+faced-mac+like-windows-desktop" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html" />
+  <rdf:li rdf:resource="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html" />
+  <rdf:li rdf:resource="http://codezine.jp/a/article/aid/2755.aspx" />
+  <rdf:li rdf:resource="http://sophieproject.org/" />
+  <rdf:li rdf:resource="http://scratch.mit.edu/" />
+  <rdf:li rdf:resource="http://homepage3.nifty.com/kaprico/" />
+  <rdf:li rdf:resource="http://pipa.jp/tegaki/" />
+  <rdf:li rdf:resource="http://www.tategaki.jp/" />
+  <rdf:li rdf:resource="http://wiki.osdev.info/?MacOSX" />
+  <rdf:li rdf:resource="http://www.google.com/search?ie=UTF-8&#x26;q=psoc" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/seijotcp/20080315/p1" />
+  <rdf:li rdf:resource="http://dictionary.goo.ne.jp/game/index.html" />
+  <rdf:li rdf:resource="http://rush.heroku.com/" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/02/macuim/" />
+  <rdf:li rdf:resource="http://www.iseokagenosato.jp/kotonohagusa/" />
+  <rdf:li rdf:resource="http://gigazine.net/index.php?/news/comments/20080628_nacreous_clouds/" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html" />
+  <rdf:li rdf:resource="http://archive.timesonline.co.uk/tol/archive/" />
+  <rdf:li rdf:resource="http://www.nicovideo.jp/mylist/7223285" />
+  <rdf:li rdf:resource="http://jp.techcrunch.com/archives/20080622awesome-highlighter-isawesome/" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/06/23/025/index.html" />
+  <rdf:li rdf:resource="http://www.vector.co.jp/soft/dl/winnt/net/se365058.html" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/fwin2k/win2ktips/630ctfmon/ctfmon.html" />
+  <rdf:li rdf:resource="http://freesoftdownload.1-yo.com/writing/dvdstyler.html" />
+  <rdf:li rdf:resource="http://www.altech-ads.com/product/10003401.htm" />
+  <rdf:li rdf:resource="http://www.asahi.com/shopping/news/OSK200806200078.html" />
+  <rdf:li rdf:resource="http://jp.youtube.com/watch?v=ZDt76yae0rM&#x26;amp;feature=related" />
+  <rdf:li rdf:resource="http://jp.youtube.com/watch?v=vsO5kOTMFO0&#x26;amp;feature=related" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.moongift.jp/2008/07/ear_os_free_edition/">
+<title>MOONGIFT: &#xBB; Linux&#x3092;&#x4F7F;&#x3063;&#x3066;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x30B5;&#x30FC;&#x30D0;&#x3092;&#x7ACB;&#x3066;&#x3088;&#x3046;&#x300C;eAR OS Free Edition&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/ear_os_free_edition/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-07-06T08:17:57Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-07-06T08:13:42Z</dc:date>
+<dc:subject>economic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397802/two+faced-mac+like-windows-desktop">
+<title>Featured Desktop: Two-Faced Mac-like Windows Desktop</title>
+<link>http://lifehacker.com/397802/two+faced-mac+like-windows-desktop</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-07-04T14:19:16Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html">
+<title>3&#x5206;LifeHacking&#xFF1A;&#x305F;&#x3060;&#x306E;SD&#x30AB;&#x30FC;&#x30C9;&#x30B9;&#x30ED;&#x30C3;&#x30C8;&#x3067;SDHC&#x30AB;&#x30FC;&#x30C9;&#x3092;&#x4F7F;&#x3048;&#x308B;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;&#x65B9;&#x6CD5; - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-07-04T12:40:31Z</dc:date>
+<dc:subject>sdhc windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sdhc" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html">
+<title>XP SP3&#xFF06;nLite&#x306E;&#x30B3;&#x30F3;&#x30DC;&#x6280;&#x3067;XP&#x3092;&#x5E95;&#x306E;&#x5E95;&#x304B;&#x3089;&#x9AD8;&#x901F;&#x5316; :&#x6559;&#x3048;&#x3066;&#x541B;.net</title>
+<link>http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-07-03T10:02:20Z</dc:date>
+<dc:subject>xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codezine.jp/a/article/aid/2755.aspx">
+<title>&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;&#x3092;&#x30DD;&#x30C3;&#x30C9;&#x30AD;&#x30E3;&#x30B9;&#x30C8;&#x306B;&#x5909;&#x63DB;&#x3001;&#x300C;Nico Tunes&#x300D;&#x767B;&#x5834;&#xFF1A;CodeZine</title>
+<link>http://codezine.jp/a/article/aid/2755.aspx</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-30T15:00:27Z</dc:date>
+<dc:subject>nikoniko</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nikoniko" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sophieproject.org/">
+<title>Sophie 1.0 Available Now | Sophie</title>
+<link>http://sophieproject.org/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-29T03:14:51Z</dc:date>
+<dc:subject>book design macosx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scratch.mit.edu/">
+<title>Scratch | Home | imagine, program, share</title>
+<link>http://scratch.mit.edu/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:45:04Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://homepage3.nifty.com/kaprico/">
+<title>http://homepage3.nifty.com/kaprico/</title>
+<link>http://homepage3.nifty.com/kaprico/</link>
+<description>&#x7956;&#x7236; &#x5144;</description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:43:51Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pipa.jp/tegaki/">
+<title>&#x624B;&#x66F8;&#x304D;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://pipa.jp/tegaki/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:42:38Z</dc:date>
+<dc:subject>blog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tategaki.jp/">
+<title>&#x7E26;&#x66F8;&#x304D;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.tategaki.jp/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:40:54Z</dc:date>
+<dc:subject>blog japan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.osdev.info/?MacOSX">
+<title>MacOSX - osdev-j (MMA)</title>
+<link>http://wiki.osdev.info/?MacOSX</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:35:28Z</dc:date>
+<dc:subject>macosx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/search?ie=UTF-8&#x26;q=psoc">
+<title>psoc - Google &#x691C;&#x7D22;</title>
+<link>http://www.google.com/search?ie=UTF-8&#x26;q=psoc</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:34:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/seijotcp/20080315/p1">
+<title>&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;&#x306B;&#x3042;&#x304C;&#x3063;&#x3066;&#x3044;&#x308B;&#x54F2;&#x5B66;&#x7CFB;&#x52D5;&#x753B;&#x305F;&#x3061; - &#x837B;&#x4E0A;&#x5F0F;BLOG</title>
+<link>http://d.hatena.ne.jp/seijotcp/20080315/p1</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:31:30Z</dc:date>
+<dc:subject>philosophy video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dictionary.goo.ne.jp/game/index.html">
+<title>&#x56DB;&#x5B57;&#x719F;&#x8A9E;&#x30B2;&#x30FC;&#x30E0;-&#x30B8;&#x30E3;&#x30C3;&#x30AF;&#x3068;&#x56DB;&#x5B57;&#x719F;&#x8A9E;&#x306E;&#x6728; - goo &#x8F9E;&#x66F8;</title>
+<link>http://dictionary.goo.ne.jp/game/index.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:29:50Z</dc:date>
+<dc:subject>flash game</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rush.heroku.com/">
+<title>rush</title>
+<link>http://rush.heroku.com/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:27:26Z</dc:date>
+<dc:subject>ruby shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/02/macuim/">
+<title>MOONGIFT: &#xBB; &#x3053;&#x3068;&#x3048;&#x308A;&#x304B;&#x3089;&#x306E;&#x8131;&#x5374;&#x300C;MacUIM&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/02/macuim/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T16:25:33Z</dc:date>
+<dc:subject>ime macosx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/ime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iseokagenosato.jp/kotonohagusa/">
+<title>&#x65E5;&#x672C;&#x306E;&#x66AE;&#x3089;&#x3057;&#x4E8C;&#x5341;&#x56DB;&#x7BC0;&#x6C17;&#x3081;&#x3050;&#x308A; &#x8A00;&#x306E;&#x8449;&#x8349; | &#x4F0A;&#x52E2;&#x5FD7;&#x6469;&#x306E;&#x65C5; &#x3088;&#x3044;&#x3068;&#x3053;&#x305B;</title>
+<link>http://www.iseokagenosato.jp/kotonohagusa/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T14:49:23Z</dc:date>
+<dc:subject>art cool japan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gigazine.net/index.php?/news/comments/20080628_nacreous_clouds/">
+<title>&#x771F;&#x73E0;&#x8C9D;&#x306E;&#x3088;&#x3046;&#x306A;&#x4E03;&#x8272;&#x306E;&#x5149;&#x3092;&#x653E;&#x3064;&#x5E7B;&#x60F3;&#x7684;&#x306A;&#x96F2;&#x306E;&#x5199;&#x771F; - GIGAZINE</title>
+<link>http://gigazine.net/index.php?/news/comments/20080628_nacreous_clouds/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-28T04:19:18Z</dc:date>
+<dc:subject>photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html">
+<title>Firefox 3&#x306E;&#x300C;&#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D6;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30AF;&#x300D;&#x3092;&#x4F7F;&#x3044;&#x3053;&#x306A;&#x305D;&#x3046;&#xFF01; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-26T13:34:32Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://archive.timesonline.co.uk/tol/archive/">
+<title>Times Archive</title>
+<link>http://archive.timesonline.co.uk/tol/archive/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-25T10:46:13Z</dc:date>
+<dc:subject>archive times</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/times" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nicovideo.jp/mylist/7223285">
+<title>&#x30DE;&#x30A4;&#x30EA;&#x30B9;&#x30C8; RubyKaigi 2008 Sub-Sessions&#x2010;&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;(SP1)</title>
+<link>http://www.nicovideo.jp/mylist/7223285</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-23T14:38:53Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jp.techcrunch.com/archives/20080622awesome-highlighter-isawesome/">
+<title>TechCrunch Japanese &#x30A2;&#x30FC;&#x30AB;&#x30A4;&#x30D6; &#xBB; Awesome Highlighter&#x3067;&#x30A6;&#x30A7;&#x30D6;&#x306B;&#x7C21;&#x5358;&#x306B;&#x30DE;&#x30FC;&#x30AB;&#x30FC;&#x3092;&#x5857;&#x308B;</title>
+<link>http://jp.techcrunch.com/archives/20080622awesome-highlighter-isawesome/</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-23T13:59:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/06/23/025/index.html">
+<title>&#x30CB;&#x30C3;&#x30C1;! 100&#x306E;&#x691C;&#x7D22;&#x30B5;&#x30FC;&#x30D3;&#x30B9; - College@Home | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/06/23/025/index.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-23T13:59:13Z</dc:date>
+<dc:subject>search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vector.co.jp/soft/dl/winnt/net/se365058.html">
+<title>SpaceTag Server(WindowsNT/2000/XP/Vista / &#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30CD;&#x30C3;&#x30C8;&#xFF06;&#x901A;&#x4FE1;)</title>
+<link>http://www.vector.co.jp/soft/dl/winnt/net/se365058.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-23T12:57:37Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/fwin2k/win2ktips/630ctfmon/ctfmon.html">
+<title>Tips&#xFF1A;ctfmon&#xFF08;&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x30FB;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#xFF09;&#x3092;&#x81EA;&#x52D5;&#x8D77;&#x52D5;&#x3057;&#x306A;&#x3044;&#x3088;&#x3046;&#x306B;&#x3059;&#x308B; &#xFF0D; &#xFF20;IT</title>
+<link>http://www.atmarkit.co.jp/fwin2k/win2ktips/630ctfmon/ctfmon.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-21T01:53:42Z</dc:date>
+<dc:subject>windowsxp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windowsxp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freesoftdownload.1-yo.com/writing/dvdstyler.html">
+<title>DVDStyler : MPEG&#x52D5;&#x753B;&#x304B;&#x3089;&#x30E1;&#x30CB;&#x30E5;&#x30FC;&#x3084;&#x30C1;&#x30E3;&#x30D7;&#x30BF;&#x30FC;&#x4ED8;&#x304D;DVD&#x30D3;&#x30C7;&#x30AA;&#x3092;&#x4F5C;&#x6210;&#x3059;&#x308B;&#x30D5;&#x30EA;&#x30FC;&#x30BD;&#x30D5;&#x30C8; &#xBB; &#x7A93;&#x306E;&#x675C;&#x3068;&#x30D9;&#x30AF;&#x30BF;&#x30FC;&#x30D5;&#x30EA;&#x30FC;&#x30BD;&#x30D5;&#x30C8;&#x306E;&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9;</title>
+<link>http://freesoftdownload.1-yo.com/writing/dvdstyler.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-20T15:14:35Z</dc:date>
+<dc:subject>dvd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.altech-ads.com/product/10003401.htm">
+<title>BurnAware Free Edition</title>
+<link>http://www.altech-ads.com/product/10003401.htm</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-20T14:21:32Z</dc:date>
+<dc:subject>dvd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.asahi.com/shopping/news/OSK200806200078.html">
+<title>asahi.com&#xFF08;&#x671D;&#x65E5;&#x65B0;&#x805E;&#x793E;&#xFF09;&#xFF1A;&#x4E09;&#x6D0B;&#x3001;&#x30AA;&#x30FC;&#x30D6;&#x30F3;&#x30EC;&#x30F3;&#x30B8;&#xFF18;&#xFF18;&#x4E07;&#x53F0;&#x30EA;&#x30B3;&#x30FC;&#x30EB;&#x3000;&#x767A;&#x706B;&#x306E;&#x304A;&#x305D;&#x308C; - &#x30B7;&#x30E7;&#x30C3;&#x30D4;&#x30F3;&#x30B0;</title>
+<link>http://www.asahi.com/shopping/news/OSK200806200078.html</link>
+<description></description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-20T12:39:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://jp.youtube.com/watch?v=ZDt76yae0rM&#x26;amp;feature=related">
+<title>YouTube - Bellydance fusion indian(EDUCATION PURPOSE)</title>
+<link>http://jp.youtube.com/watch?v=ZDt76yae0rM&#x26;amp;feature=related</link>
+<description>THIS IS STRICTLY FOR EDUCATION PURPOSE ON MY BLOG FOR STUDENTS)Just doing some moves, nothing really serious was just practising, so forgive me</description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-20T05:51:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://jp.youtube.com/watch?v=vsO5kOTMFO0&#x26;amp;feature=related">
+<title>YouTube - Bellydance lesson 3 and short performance</title>
+<link>http://jp.youtube.com/watch?v=vsO5kOTMFO0&#x26;amp;feature=related</link>
+<description>a SHORT NOTEI am posting this on youtube as its the only player that is embeddable in my blog. Once ive found another way i would notify you people. Okay gal...</description>
+<dc:creator>kmyms</dc:creator>
+<dc:date>2008-06-20T05:49:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

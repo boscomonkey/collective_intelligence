@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/danielbargiel">
+<title>del.icio.us/danielbargiel</title>
+<link>http://del.icio.us/danielbargiel</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/English_grammar" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/emulating-a-long-running-proce" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx" />
+  <rdf:li rdf:resource="http://www.winehq.org/site/about" />
+  <rdf:li rdf:resource="http://typicalprogrammer.com/?p=23" />
+  <rdf:li rdf:resource="http://www.fsw.com/Jt/Jt.htm#_Toc192325318" />
+  <rdf:li rdf:resource="http://wiadomosci.onet.pl/1492186,2679,kioskart.html" />
+  <rdf:li rdf:resource="http://code.google.com/android/" />
+  <rdf:li rdf:resource="http://refcardz.dzone.com/user/register" />
+  <rdf:li rdf:resource="http://www.bankier.pl/wiadomosc/Haczyki-w-umowach-o-kredyt-hipoteczny-1780940.html" />
+  <rdf:li rdf:resource="http://www.infopraca.pl/pl/praca/Programista-PHP/Bielsko-Biala/578633?referer=agent&#x26;utm_source=push&#x26;utm_medium=email&#x26;utm_campaign=ofertas_push" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page/" />
+  <rdf:li rdf:resource="http://synapse.apache.org/" />
+  <rdf:li rdf:resource="http://phpimpact.wordpress.com/2008/05/31/php-compiler-for-the-net-framework/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-tipffoxmicroapi/?ca=dgr-jw22x-tipffoxmicroapi&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitejw22" />
+  <rdf:li rdf:resource="http://www.froglogic.com/pg?id=Products&#x26;category=squish&#x26;sub=overview&#x26;subsub=overview" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/google-android-tutorial" />
+  <rdf:li rdf:resource="http://shttpd.sourceforge.net/" />
+  <rdf:li rdf:resource="http://appengine.google.com/start" />
+  <rdf:li rdf:resource="http://wiadomosci.onet.pl/1758943,16,item.html" />
+  <rdf:li rdf:resource="http://ubuntulinuxhelp.com/top-100-of-the-best-useful-opensource-applications/" />
+  <rdf:li rdf:resource="http://www.crymod.com/thread.php?threadid=26385" />
+  <rdf:li rdf:resource="http://java.dzone.com/articles/best-java-tools-you-never-knew" />
+  <rdf:li rdf:resource="http://www.tweakguides.com/Crysis_8.html" />
+  <rdf:li rdf:resource="http://nbtxathcx.net/crysis/crysis-cvars.php" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=jXhjM2B5eYA" />
+  <rdf:li rdf:resource="http://www.crymod.com/portal.php" />
+  <rdf:li rdf:resource="http://gprime.net/flash.php/soundimmersion" />
+  <rdf:li rdf:resource="http://www.actiontrip.com/link.phtml?http://www.crysis-online.com/forum/index.php?topic=11837.0#msg203789" />
+  <rdf:li rdf:resource="http://www.mariuszlipinski.pl/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-07-06T10:55:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/English_grammar">
+<title>English grammar - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/English_grammar</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-22T19:37:15Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/emulating-a-long-running-proce">
+<title>Emulating a long-running process (and a scheduler) in Google App Engine | Web Builder Zone</title>
+<link>http://css.dzone.com/news/emulating-a-long-running-proce</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-21T11:13:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx">
+<title>We Don't Need No Architects</title>
+<link>http://msdn.microsoft.com/en-us/arcjournal/cc505974.aspx</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-19T12:38:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.winehq.org/site/about">
+<title>Wine HQ - About Wine</title>
+<link>http://www.winehq.org/site/about</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-18T18:08:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://typicalprogrammer.com/?p=23">
+<title>Typical Programmer - Doing it wrong: getters and setters</title>
+<link>http://typicalprogrammer.com/?p=23</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-17T13:15:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.fsw.com/Jt/Jt.htm#_Toc192325318">
+<title>Java Pattern Oriented Framework (Jt)</title>
+<link>http://www.fsw.com/Jt/Jt.htm#_Toc192325318</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-17T10:59:29Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://wiadomosci.onet.pl/1492186,2679,kioskart.html">
+<title>Tani kredyt nie zawsze najta&#x144;szy - Kiosk - Onet.pl Wiadomo&#x15B;ci - 11.06.2008</title>
+<link>http://wiadomosci.onet.pl/1492186,2679,kioskart.html</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-16T11:09:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://code.google.com/android/">
+<title>Android</title>
+<link>http://code.google.com/android/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-16T07:13:03Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://refcardz.dzone.com/user/register">
+<title>DZone Registration Required - It's Free | Refcardz</title>
+<link>http://refcardz.dzone.com/user/register</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-16T06:24:23Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.bankier.pl/wiadomosc/Haczyki-w-umowach-o-kredyt-hipoteczny-1780940.html">
+<title>Haczyki w umowach o kredyt hipoteczny - Bankier.pl</title>
+<link>http://www.bankier.pl/wiadomosc/Haczyki-w-umowach-o-kredyt-hipoteczny-1780940.html</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-15T15:06:16Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.infopraca.pl/pl/praca/Programista-PHP/Bielsko-Biala/578633?referer=agent&#x26;utm_source=push&#x26;utm_medium=email&#x26;utm_campaign=ofertas_push">
+<title>infoPraca oferta pracy Programista PHP w Bielsko Bia&#x142;a</title>
+<link>http://www.infopraca.pl/pl/praca/Programista-PHP/Bielsko-Biala/578633?referer=agent&#x26;utm_source=push&#x26;utm_medium=email&#x26;utm_campaign=ofertas_push</link>
+<description>http://www.plugstudio.pl</description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-14T08:58:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page/">
+<title>15 Tools to Help You Develop Faster Web Pages - Six Revisions</title>
+<link>http://sixrevisions.com/tools/faster_web_page/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-13T14:19:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://synapse.apache.org/">
+<title>Apache Synapse - The lightweight ESB</title>
+<link>http://synapse.apache.org/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-11T19:35:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://phpimpact.wordpress.com/2008/05/31/php-compiler-for-the-net-framework/">
+<title>PHP Compiler for the .NET Framework &#xAB; PHP::Impact ( [str blog] )</title>
+<link>http://phpimpact.wordpress.com/2008/05/31/php-compiler-for-the-net-framework/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-11T19:30:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-tipffoxmicroapi/?ca=dgr-jw22x-tipffoxmicroapi&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitejw22">
+<title>Tip: Use the new microformats API in your Firefox 3.0 Extensions</title>
+<link>http://www.ibm.com/developerworks/library/x-tipffoxmicroapi/?ca=dgr-jw22x-tipffoxmicroapi&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitejw22</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-11T19:30:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.froglogic.com/pg?id=Products&#x26;category=squish&#x26;sub=overview&#x26;subsub=overview">
+<title>froglogic - Squish</title>
+<link>http://www.froglogic.com/pg?id=Products&#x26;category=squish&#x26;sub=overview&#x26;subsub=overview</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-11T19:29:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/google-android-tutorial">
+<title>Google Android Tutorial | Javalobby</title>
+<link>http://java.dzone.com/articles/google-android-tutorial</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-11T19:28:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://shttpd.sourceforge.net/">
+<title>SHTTPD - an embeddable Web server</title>
+<link>http://shttpd.sourceforge.net/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-08T14:03:03Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://appengine.google.com/start">
+<title>Start</title>
+<link>http://appengine.google.com/start</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-06-03T05:32:45Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://wiadomosci.onet.pl/1758943,16,item.html">
+<title>Naukowcy odkryli przyczyn&#x119; &#x15B;mierci niemowl&#x105;t? - Onet.pl Wiadomo&#x15B;ci - 30.05.2008</title>
+<link>http://wiadomosci.onet.pl/1758943,16,item.html</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-30T22:55:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://ubuntulinuxhelp.com/top-100-of-the-best-useful-opensource-applications/">
+<title>100 of the Best (Useful) OpenSource Applications | Ubuntu Linux Help</title>
+<link>http://ubuntulinuxhelp.com/top-100-of-the-best-useful-opensource-applications/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-25T16:55:17Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.crymod.com/thread.php?threadid=26385">
+<title>Crymod Modding Portal | Multiplayer | bad aim in Crysis</title>
+<link>http://www.crymod.com/thread.php?threadid=26385</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-13T16:35:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://java.dzone.com/articles/best-java-tools-you-never-knew">
+<title>The Best Java Tools You Never Knew Existed | Javalobby</title>
+<link>http://java.dzone.com/articles/best-java-tools-you-never-knew</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-12T15:52:43Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.tweakguides.com/Crysis_8.html">
+<title>TweakGuides.com - Crysis Tweak Guide</title>
+<link>http://www.tweakguides.com/Crysis_8.html</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-09T15:43:11Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://nbtxathcx.net/crysis/crysis-cvars.php">
+<title>http://nbtxathcx.net/crysis/crysis-cvars.php</title>
+<link>http://nbtxathcx.net/crysis/crysis-cvars.php</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-09T15:35:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=jXhjM2B5eYA">
+<title>YouTube - Kane &#x26; Lynch: dead Men - Trailer 2</title>
+<link>http://youtube.com/watch?v=jXhjM2B5eYA</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-09T13:29:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.crymod.com/portal.php">
+<title>Crymod Modding Portal | Portal</title>
+<link>http://www.crymod.com/portal.php</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-09T09:57:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://gprime.net/flash.php/soundimmersion">
+<title>sound immersion (hear sounds above, and behind you using regular headphones. who says you need to buy surround sound?) - flash</title>
+<link>http://gprime.net/flash.php/soundimmersion</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-08T17:53:50Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.actiontrip.com/link.phtml?http://www.crysis-online.com/forum/index.php?topic=11837.0#msg203789">
+<title>ActionTrip - External Link</title>
+<link>http://www.actiontrip.com/link.phtml?http://www.crysis-online.com/forum/index.php?topic=11837.0#msg203789</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-08T15:17:48Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.mariuszlipinski.pl/">
+<title>O technologiach dla j&#x119;zyka Java</title>
+<link>http://www.mariuszlipinski.pl/</link>
+<description></description>
+<dc:creator>danielbargiel</dc:creator>
+<dc:date>2008-05-08T14:56:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

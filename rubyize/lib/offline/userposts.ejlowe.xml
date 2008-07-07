@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ejlowe">
+<title>del.icio.us/ejlowe</title>
+<link>http://del.icio.us/ejlowe</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://technology.usd259.org/resources/whiteboards/interactive.htm" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://wedderburn-college.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.byki.com/fls/free-finnish-software-download.html?l=finnish" />
+  <rdf:li rdf:resource="http://www.101languages.net/finnish/" />
+  <rdf:li rdf:resource="http://www.101languages.net/links/finnish_language_links.html" />
+  <rdf:li rdf:resource="http://www.wikieducator.org/Facilitating_online_communities#Facilitating_Online_Communities_blog" />
+  <rdf:li rdf:resource="http://scratch.wik.is/Support" />
+  <rdf:li rdf:resource="http://www.google.com/ig" />
+  <rdf:li rdf:resource="http://www.technospudprojects.com/Projects/eggroll2008/eggroll2008.htm" />
+  <rdf:li rdf:resource="http://krice57.edublogs.org/" />
+  <rdf:li rdf:resource="http://www.classblogmeister.com/blog.php?blogger_id=134820" />
+  <rdf:li rdf:resource="http://flickr.com/creativecommons" />
+  <rdf:li rdf:resource="https://citiesaroundtheworld.wikispaces.com/" />
+  <rdf:li rdf:resource="http://classblogmeister.com/blog.php?blogger_id=98041" />
+  <rdf:li rdf:resource="http://votw.wikispaces.com/" />
+  <rdf:li rdf:resource="https://www.google.com/accounts/ServiceLogin?service=mail&#x26;passive=true&#x26;rm=false&#x26;continue=http%3A%2F%2Fmail.google.com%2Fmail%3Fui%3Dhtml%26zy%3Dl&#x26;ltmpl=default&#x26;ltmplcache=2&#x26;hl=en-GB" />
+  <rdf:li rdf:resource="http://wikiplaces.wetpaint.com/page/Welcome%20Teachers%20and%20Students" />
+  <rdf:li rdf:resource="http://www.onetruemedia.com/otm_site/start" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://technology.usd259.org/resources/whiteboards/interactive.htm">
+<title>Instructional Technology Department - Resources</title>
+<link>http://technology.usd259.org/resources/whiteboards/interactive.htm</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-06T07:04:34Z</dc:date>
+<dc:subject>interactive iwb websites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/websites" />
+    <rdf:li resource="http://del.icio.us/tag/iwb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-06T06:57:32Z</dc:date>
+<dc:subject>flickr photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wedderburn-college.blogspot.com/">
+<title>Think, Wonder and Learn with the Web</title>
+<link>http://wedderburn-college.blogspot.com/</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-06T06:40:50Z</dc:date>
+<dc:subject>blog elearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.byki.com/fls/free-finnish-software-download.html?l=finnish">
+<title>Free Finnish Software Download - Learn Finnish with free BYKI software downloads</title>
+<link>http://www.byki.com/fls/free-finnish-software-download.html?l=finnish</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-05T15:55:37Z</dc:date>
+<dc:subject>finnish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/finnish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.101languages.net/finnish/">
+<title>Learn Finnish online for free!</title>
+<link>http://www.101languages.net/finnish/</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-05T15:55:08Z</dc:date>
+<dc:subject>finnish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/finnish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.101languages.net/links/finnish_language_links.html">
+<title>Finnish Language Links</title>
+<link>http://www.101languages.net/links/finnish_language_links.html</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-05T15:54:51Z</dc:date>
+<dc:subject>finnish</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/finnish" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikieducator.org/Facilitating_online_communities#Facilitating_Online_Communities_blog">
+<title>Facilitating online communities - WikiEducator</title>
+<link>http://www.wikieducator.org/Facilitating_online_communities#Facilitating_Online_Communities_blog</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-05T03:03:10Z</dc:date>
+<dc:subject>onlineprojects</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/onlineprojects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scratch.wik.is/Support">
+<title>Support - Scratch Wiki</title>
+<link>http://scratch.wik.is/Support</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-07-02T13:42:38Z</dc:date>
+<dc:subject>animation howto scratch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/scratch" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/ig">
+<title>igoogle</title>
+<link>http://www.google.com/ig</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-06-28T02:40:55Z</dc:date>
+<dc:subject>ecawalibsig homepage igoogle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/igoogle" />
+    <rdf:li resource="http://del.icio.us/tag/homepage" />
+    <rdf:li resource="http://del.icio.us/tag/ecawalibsig" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technospudprojects.com/Projects/eggroll2008/eggroll2008.htm">
+<title>The Great Egg Roll 2008</title>
+<link>http://www.technospudprojects.com/Projects/eggroll2008/eggroll2008.htm</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2008-03-25T13:11:25Z</dc:date>
+<dc:subject>online project</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://krice57.edublogs.org/">
+<title>The Teaching and Learning of Mrs. Rice</title>
+<link>http://krice57.edublogs.org/</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-12-04T01:02:36Z</dc:date>
+<dc:subject>blogs teacher</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/teacher" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.classblogmeister.com/blog.php?blogger_id=134820">
+<title>Mrs Mead's  Blogmeister</title>
+<link>http://www.classblogmeister.com/blog.php?blogger_id=134820</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-12-03T00:43:29Z</dc:date>
+<dc:subject>blogmeister blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogmeister" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickr.com/creativecommons">
+<title>Flickr: Creative Commons</title>
+<link>http://flickr.com/creativecommons</link>
+<description>Flickr is almost certainly the best online photo management and sharing application in the world. Show off your favorite photos to the world, securely and privately show photos to your friends and family, or blog the photos you take with a cameraphone.</description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-12-03T00:40:59Z</dc:date>
+<dc:subject>clipart copyright images photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/clipart" />
+    <rdf:li resource="http://del.icio.us/tag/copyright" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://citiesaroundtheworld.wikispaces.com/">
+<title>citiesaroundtheworld &#xBB; home</title>
+<link>https://citiesaroundtheworld.wikispaces.com/</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-11T05:39:29Z</dc:date>
+<dc:subject>collaboration global projects</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/global" />
+    <rdf:li resource="http://del.icio.us/tag/projects" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://classblogmeister.com/blog.php?blogger_id=98041">
+<title>Mrs Lowes Area 11 Bloggers</title>
+<link>http://classblogmeister.com/blog.php?blogger_id=98041</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-10T10:18:12Z</dc:date>
+<dc:subject>blog class</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://votw.wikispaces.com/">
+<title>votw &#xBB; home</title>
+<link>http://votw.wikispaces.com/</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-10T01:36:23Z</dc:date>
+<dc:subject>VOTW collaboration global project</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/VOTW" />
+    <rdf:li resource="http://del.icio.us/tag/global" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.google.com/accounts/ServiceLogin?service=mail&#x26;passive=true&#x26;rm=false&#x26;continue=http%3A%2F%2Fmail.google.com%2Fmail%3Fui%3Dhtml%26zy%3Dl&#x26;ltmpl=default&#x26;ltmplcache=2&#x26;hl=en-GB">
+<title>Google Mail</title>
+<link>https://www.google.com/accounts/ServiceLogin?service=mail&#x26;passive=true&#x26;rm=false&#x26;continue=http%3A%2F%2Fmail.google.com%2Fmail%3Fui%3Dhtml%26zy%3Dl&#x26;ltmpl=default&#x26;ltmplcache=2&#x26;hl=en-GB</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-09T03:59:51Z</dc:date>
+<dc:subject>class email</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikiplaces.wetpaint.com/page/Welcome%20Teachers%20and%20Students">
+<title>Welcome Teachers and Students - wiki Places</title>
+<link>http://wikiplaces.wetpaint.com/page/Welcome%20Teachers%20and%20Students</link>
+<description>Make a page to show Perth to the world</description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-05T00:08:26Z</dc:date>
+<dc:subject>online_project school</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online_project" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onetruemedia.com/otm_site/start">
+<title>One True Media</title>
+<link>http://www.onetruemedia.com/otm_site/start</link>
+<description></description>
+<dc:creator>ejlowe</dc:creator>
+<dc:date>2007-11-04T06:19:12Z</dc:date>
+<dc:subject>VOTW photos slideshow</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/VOTW" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

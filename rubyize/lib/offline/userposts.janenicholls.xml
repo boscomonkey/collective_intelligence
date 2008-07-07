@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/janenicholls">
+<title>del.icio.us/janenicholls</title>
+<link>http://del.icio.us/janenicholls</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://www.gamequarium.com/" />
+  <rdf:li rdf:resource="http://www.thumbalizr.com/" />
+  <rdf:li rdf:resource="http://kwout.com/" />
+  <rdf:li rdf:resource="http://www.zacbrowser.com/" />
+  <rdf:li rdf:resource="http://www.synthtopia.com/content/2008/06/22/more-free-audio-loop-packages/" />
+  <rdf:li rdf:resource="https://www.yugma.com/share_skype.php" />
+  <rdf:li rdf:resource="http://www.yuuguu.com/home" />
+  <rdf:li rdf:resource="http://www.macupdate.com/info.php/id/21940#descContainer_link" />
+  <rdf:li rdf:resource="http://www.imageafter.com/" />
+  <rdf:li rdf:resource="http://www.textureking.com/" />
+  <rdf:li rdf:resource="http://www.cgtextures.com/" />
+  <rdf:li rdf:resource="http://larryferlazzo.edublogs.org/2008/06/22/the-best-sites-for-creating-online-polls-surveys/" />
+  <rdf:li rdf:resource="http://www.clutterme.com/" />
+  <rdf:li rdf:resource="http://pagesperso-orange.fr/prof.danglais/animations/games/preterits/gotoschool.htm" />
+  <rdf:li rdf:resource="http://tagcrowd.com/" />
+  <rdf:li rdf:resource="http://wordle.net/" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/ConvertFiles.aspx" />
+  <rdf:li rdf:resource="http://www.africapic.com/" />
+  <rdf:li rdf:resource="http://trainingvideos.hscs.wmin.ac.uk/kidsVocab/index.html" />
+  <rdf:li rdf:resource="http://langwitches.org/blog/2008/06/19/digital-storytelling-part-vi-voicethread/" />
+  <rdf:li rdf:resource="http://docs.google.com/Present?docid=dhn2vcv5_106c9fm8j&#x26;pli=1" />
+  <rdf:li rdf:resource="http://tbarrett.edublogs.org/2008/06/02/creating-an-emotion-graph-using-google-forms/" />
+  <rdf:li rdf:resource="http://edgeoftheseat.blogspot.com/2008/06/how-to-tweak-your-blog.html" />
+  <rdf:li rdf:resource="http://animoto.com/learn_more" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/03/virtual-learning-25-best-sims-and-games-for-the-classroom/" />
+  <rdf:li rdf:resource="http://www.rockfordsrockopera.com/downloads/" />
+  <rdf:li rdf:resource="http://sketchcast.com/" />
+  <rdf:li rdf:resource="http://www.soundflavor.com/" />
+  <rdf:li rdf:resource="http://tutpup.com/" />
+  <rdf:li rdf:resource="https://buzzword.acrobat.com/#d=M*Cy0BuX-U6VrV-0SIbccA" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>educationalsoftware &#xBB; Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-07-06T10:17:45Z</dc:date>
+<dc:subject>flickr p photos web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/p" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamequarium.com/">
+<title>Gamequarium: A portal to thousands of free, online learning games and activities for Pre-School through Grade 6 students compiled by Diana Dell.</title>
+<link>http://www.gamequarium.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-27T05:09:23Z</dc:date>
+<dc:subject>games literacy maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thumbalizr.com/">
+<title>thumbalizr - thumb your webpages</title>
+<link>http://www.thumbalizr.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-25T10:08:26Z</dc:date>
+<dc:subject>screenshot</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kwout.com/">
+<title>kwout | A brilliant way to quote</title>
+<link>http://kwout.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-25T10:07:35Z</dc:date>
+<dc:subject>apps screenshot web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zacbrowser.com/">
+<title>ZAC Browser - Zone for Autistic Children</title>
+<link>http://www.zacbrowser.com/</link>
+<description>browser designed for an autistic child by his grandfather.</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-25T10:05:56Z</dc:date>
+<dc:subject>autism browser</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/autism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.synthtopia.com/content/2008/06/22/more-free-audio-loop-packages/">
+<title>More Free Audio Loop Packages &#xBB; Synthtopia</title>
+<link>http://www.synthtopia.com/content/2008/06/22/more-free-audio-loop-packages/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-25T04:17:00Z</dc:date>
+<dc:subject>podcasting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/podcasting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.yugma.com/share_skype.php">
+<title>FREE Web conferencing, Online Meetings and Web collaboration</title>
+<link>https://www.yugma.com/share_skype.php</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-24T10:57:47Z</dc:date>
+<dc:subject>collaboration mac screensharing skype</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screensharing" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/skype" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yuuguu.com/home">
+<title>Yuuguu</title>
+<link>http://www.yuuguu.com/home</link>
+<description>Screen sharing software for Mac</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T22:54:07Z</dc:date>
+<dc:subject>apps collaboration conference screensharing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/conference" />
+    <rdf:li resource="http://del.icio.us/tag/screensharing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macupdate.com/info.php/id/21940#descContainer_link">
+<title>TiffanyScreens 2.6.3 - MacUpdate</title>
+<link>http://www.macupdate.com/info.php/id/21940#descContainer_link</link>
+<description>Share your screen with other macs across an internal network</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T22:42:24Z</dc:date>
+<dc:subject>collaboration mac software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imageafter.com/">
+<title>Image * After - currently 19419 free textures and images available</title>
+<link>http://www.imageafter.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T22:37:26Z</dc:date>
+<dc:subject>graphics textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.textureking.com/">
+<title>Free Textures from TextureKing</title>
+<link>http://www.textureking.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T22:36:59Z</dc:date>
+<dc:subject>graphics textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cgtextures.com/">
+<title>[CG Textures] - The worlds largest free texture site</title>
+<link>http://www.cgtextures.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T22:36:38Z</dc:date>
+<dc:subject>graphics textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://larryferlazzo.edublogs.org/2008/06/22/the-best-sites-for-creating-online-polls-surveys/">
+<title>The Best Sites For Creating Online Polls &#x26; Surveys | Larry Ferlazzo's Websites of the Day...</title>
+<link>http://larryferlazzo.edublogs.org/2008/06/22/the-best-sites-for-creating-online-polls-surveys/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-23T07:58:35Z</dc:date>
+<dc:subject>online_survey</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online_survey" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clutterme.com/">
+<title>ClutterMe.com: The Best Custom Homepage Creator</title>
+<link>http://www.clutterme.com/</link>
+<description>Your own personal page on the web, just click to start typing.</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:07:28Z</dc:date>
+<dc:subject>homepage web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+    <rdf:li resource="http://del.icio.us/tag/homepage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pagesperso-orange.fr/prof.danglais/animations/games/preterits/gotoschool.htm">
+<title>Preterit exercises</title>
+<link>http://pagesperso-orange.fr/prof.danglais/animations/games/preterits/gotoschool.htm</link>
+<description>game to practice past tense words</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:06:38Z</dc:date>
+<dc:subject>games literacy vocabulary</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/vocabulary" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tagcrowd.com/">
+<title>TagCrowd - make your own tag cloud from any text</title>
+<link>http://tagcrowd.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:04:44Z</dc:date>
+<dc:subject>tagclouds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tagclouds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/">
+<title>Wordle - Beautiful Word Clouds</title>
+<link>http://wordle.net/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:02:22Z</dc:date>
+<dc:subject>blog tagclouds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tagclouds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/ConvertFiles.aspx">
+<title>Free online media file conversion (Document, Images, Audio, Video &#x26; Archives)</title>
+<link>http://www.youconvertit.com/ConvertFiles.aspx</link>
+<description>file conversion</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:01:59Z</dc:date>
+<dc:subject>conversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.africapic.com/">
+<title>Africa Pictures | Animal Pictures | Business Stock Photography</title>
+<link>http://www.africapic.com/</link>
+<description>Photos available for use on blogs etc</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:00:57Z</dc:date>
+<dc:subject>photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trainingvideos.hscs.wmin.ac.uk/kidsVocab/index.html">
+<title>Created by Camtasia Studio</title>
+<link>http://trainingvideos.hscs.wmin.ac.uk/kidsVocab/index.html</link>
+<description>sites for vocabulary learning</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:00:30Z</dc:date>
+<dc:subject>literacy vocabulary</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/vocabulary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://langwitches.org/blog/2008/06/19/digital-storytelling-part-vi-voicethread/">
+<title>Langwitches &#xBB; Digital Storytelling- Part VI VoiceThread</title>
+<link>http://langwitches.org/blog/2008/06/19/digital-storytelling-part-vi-voicethread/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T10:00:05Z</dc:date>
+<dc:subject>digitalstorytelling tutorials voicethread web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voicethread" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/Present?docid=dhn2vcv5_106c9fm8j&#x26;pli=1">
+<title>Thirty-Three Interesting Ways (and tips) to use your Interactive Whiteboard - Google Docs</title>
+<link>http://docs.google.com/Present?docid=dhn2vcv5_106c9fm8j&#x26;pli=1</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T09:40:34Z</dc:date>
+<dc:subject>interactive whiteboards</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboards" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tbarrett.edublogs.org/2008/06/02/creating-an-emotion-graph-using-google-forms/">
+<title>Creating an emotion graph using Google forms | ICT in my Classroom</title>
+<link>http://tbarrett.edublogs.org/2008/06/02/creating-an-emotion-graph-using-google-forms/</link>
+<description>Using google apps, google forms</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-22T09:33:55Z</dc:date>
+<dc:subject>google web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edgeoftheseat.blogspot.com/2008/06/how-to-tweak-your-blog.html">
+<title>EdgeoftheSeat: How to tweak your blog</title>
+<link>http://edgeoftheseat.blogspot.com/2008/06/how-to-tweak-your-blog.html</link>
+<description>Explanation of how to put a background in a blogger blog</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-20T01:15:22Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://animoto.com/learn_more">
+<title>A N I M O T O</title>
+<link>http://animoto.com/learn_more</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-15T20:46:06Z</dc:date>
+<dc:subject>Web2 blog digitalstorytelling photos video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/digitalstorytelling" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/Web2" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/03/virtual-learning-25-best-sims-and-games-for-the-classroom/">
+<title>Virtual Learning: 25 Best Sims and Games For the Classroom | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/03/virtual-learning-25-best-sims-and-games-for-the-classroom/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-15T20:45:32Z</dc:date>
+<dc:subject>education games virtual_world</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/virtual_world" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rockfordsrockopera.com/downloads/">
+<title>Rockfords Rock Opera - Downloads</title>
+<link>http://www.rockfordsrockopera.com/downloads/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-04T10:32:24Z</dc:date>
+<dc:subject>audiobooks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audiobooks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sketchcast.com/">
+<title>Sketchcast.com</title>
+<link>http://sketchcast.com/</link>
+<description>record drawing and voice</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-01T02:33:29Z</dc:date>
+<dc:subject>animation art web2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.soundflavor.com/">
+<title>Soundflavor | Music Videos | Online Music | Video Playlist | Friendster Playlist | Myspace, Facebook Playlists</title>
+<link>http://www.soundflavor.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-01T02:24:56Z</dc:date>
+<dc:subject>audio music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutpup.com/">
+<title>tutpup - play, compete, learn</title>
+<link>http://tutpup.com/</link>
+<description></description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-01T02:24:29Z</dc:date>
+<dc:subject>games maths spelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/spelling" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://buzzword.acrobat.com/#d=M*Cy0BuX-U6VrV-0SIbccA">
+<title>Untitled &#xB7; Buzzword</title>
+<link>https://buzzword.acrobat.com/#d=M*Cy0BuX-U6VrV-0SIbccA</link>
+<description>Adobe Buzzword - The First Real Word Processor for the Web</description>
+<dc:creator>janenicholls</dc:creator>
+<dc:date>2008-06-01T02:23:32Z</dc:date>
+<dc:subject>web2 wordprocessor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordprocessor" />
+    <rdf:li resource="http://del.icio.us/tag/web2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

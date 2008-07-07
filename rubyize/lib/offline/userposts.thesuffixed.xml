@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/thesuffixed">
+<title>del.icio.us/thesuffixed</title>
+<link>http://del.icio.us/thesuffixed</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/" />
+  <rdf:li rdf:resource="http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks" />
+  <rdf:li rdf:resource="http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/" />
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.tummy.com/journals/entries/jafo_20080705_130814" />
+  <rdf:li rdf:resource="http://www.noblecollection.com/catalog/catalog.cfm?catid=21" />
+  <rdf:li rdf:resource="http://www.replicadungeon.com/movie-swords-harry-potter.html?gclid=CInCoqzyqpQCFScuagodAl5KuA" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.brownphp.com/2008/07/zend_cache-is-saving-me-money/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.gamesradar.com/f/spore-spawns-marios-worst-nightmare/a-20080703114137521078" />
+  <rdf:li rdf:resource="http://www.design-logix.co.uk/blog/2008/07/designing-for-mobile-interfaces/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://weburbanist.com/abandoned-buildings-towns-and-cities/" />
+  <rdf:li rdf:resource="http://www.socyberty.com/Education/11-Problems-with-Public-Education.155909" />
+  <rdf:li rdf:resource="http://furleydelphia.com/2008/06/using-google-charts-api/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://cultofmac.com/hello-macs-are-about-to-get-interesting-again/2221" />
+  <rdf:li rdf:resource="http://www.mapstraction.com/" />
+  <rdf:li rdf:resource="http://www.traceygrady.com/http:/www.traceygrady.com/10-seamless-website-designs" />
+  <rdf:li rdf:resource="http://www.rborn.info/moozoom.php" />
+  <rdf:li rdf:resource="http://www.guinea-pig-info.com/vapid2323.JPG" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288127,00.html" />
+  <rdf:li rdf:resource="http://www.docstoc.com/docs/860905/How-Creationists-Explain-Evolution---SCARY" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html" />
+  <rdf:li rdf:resource="http://www.ubiqwindow.jp/ENG/english.htm" />
+  <rdf:li rdf:resource="http://www.gearthblog.com/blog/archives/2008/07/hologram_google_earth.html" />
+  <rdf:li rdf:resource="http://gizmodo.com/5021679/ti-builds-pico-projector-into-blackberry-curve" />
+  <rdf:li rdf:resource="http://blog.nitropdf.com/index.php/2008/07/01/pdf-download-beta-firefox/" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/">
+<title>50+ Nice Clean CSS Tab-Based Navigation Scripts</title>
+<link>http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T11:08:44Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks">
+<title>Basics to advanced: CSS Tips and Tricks | Code It Red</title>
+<link>http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T11:08:20Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/">
+<title>Developing web application with PHP-MySql-Apache in Ubuntu Linux | ajaXray</title>
+<link>http://www.ajaxray.com/blog/2008/07/05/developing-web-application-with-php-mysql-apache-in-ubuntu-linux/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T11:07:05Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T11:06:29Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tummy.com/journals/entries/jafo_20080705_130814">
+<title>ZFS Under Linux: A User Report (tummy.com, ltd. Journal Entry)</title>
+<link>http://www.tummy.com/journals/entries/jafo_20080705_130814</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T10:16:13Z</dc:date>
+<dc:subject>zfs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zfs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noblecollection.com/catalog/catalog.cfm?catid=21">
+<title>The Noble Collection Catalog</title>
+<link>http://www.noblecollection.com/catalog/catalog.cfm?catid=21</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T09:00:14Z</dc:date>
+<dc:subject>shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.replicadungeon.com/movie-swords-harry-potter.html?gclid=CInCoqzyqpQCFScuagodAl5KuA">
+<title>Harry Potter Wands - Potter Wands - Harry Potter Movie Prop Replicas - Movie Prop Replicas</title>
+<link>http://www.replicadungeon.com/movie-swords-harry-potter.html?gclid=CInCoqzyqpQCFScuagodAl5KuA</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-06T08:59:15Z</dc:date>
+<dc:subject>shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T21:00:52Z</dc:date>
+<dc:subject>development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brownphp.com/2008/07/zend_cache-is-saving-me-money/">
+<title>Zend_Cache is Saving me Money!-Brown PHP</title>
+<link>http://www.brownphp.com/2008/07/zend_cache-is-saving-me-money/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T20:54:36Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T20:46:15Z</dc:date>
+<dc:subject>blogs lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesradar.com/f/spore-spawns-marios-worst-nightmare/a-20080703114137521078">
+<title>Spore spawns Mario&#x2019;s worst nightmare | GamesRadar</title>
+<link>http://www.gamesradar.com/f/spore-spawns-marios-worst-nightmare/a-20080703114137521078</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T10:34:42Z</dc:date>
+<dc:subject>videogame</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videogame" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.design-logix.co.uk/blog/2008/07/designing-for-mobile-interfaces/">
+<title>Web Designing for Mobile Interfaces | Design Logix Web Studios | Design Logix Web Studios Blog</title>
+<link>http://www.design-logix.co.uk/blog/2008/07/designing-for-mobile-interfaces/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T09:19:19Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T09:15:18Z</dc:date>
+<dc:subject>form html</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weburbanist.com/abandoned-buildings-towns-and-cities/">
+<title>Abandoned Buildings, Towns and Cities | WebUrbanist</title>
+<link>http://weburbanist.com/abandoned-buildings-towns-and-cities/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T06:34:34Z</dc:date>
+<dc:subject>architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socyberty.com/Education/11-Problems-with-Public-Education.155909">
+<title>11 Problems with Public Education</title>
+<link>http://www.socyberty.com/Education/11-Problems-with-Public-Education.155909</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T06:19:50Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://furleydelphia.com/2008/06/using-google-charts-api/">
+<title>Using Google Charts API | Furleydelphia</title>
+<link>http://furleydelphia.com/2008/06/using-google-charts-api/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T04:29:17Z</dc:date>
+<dc:subject>api google graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T04:21:47Z</dc:date>
+<dc:subject>graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cultofmac.com/hello-macs-are-about-to-get-interesting-again/2221">
+<title>Cult of Mac - News and opinion about the Mac and iPod communities &#xBB; Blog Archive &#xBB; Hello: Macs Are About to Get Interesting Again</title>
+<link>http://cultofmac.com/hello-macs-are-about-to-get-interesting-again/2221</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-05T02:43:57Z</dc:date>
+<dc:subject>apple</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mapstraction.com/">
+<title>Mapstraction - a javascript library to hide differences between mapping APIs.</title>
+<link>http://www.mapstraction.com/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-04T05:31:38Z</dc:date>
+<dc:subject>cartography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cartography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.traceygrady.com/http:/www.traceygrady.com/10-seamless-website-designs">
+<title>10 seamless website&#xA0;designs : Tracey Grady Design | Hobart, Tasmania, Australia</title>
+<link>http://www.traceygrady.com/http:/www.traceygrady.com/10-seamless-website-designs</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-04T04:38:00Z</dc:date>
+<dc:subject>design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rborn.info/moozoom.php">
+<title>mooZoom - demo page</title>
+<link>http://www.rborn.info/moozoom.php</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-04T00:18:47Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guinea-pig-info.com/vapid2323.JPG">
+<title>vapid2323.JPG (JPEG Image, 2592x1944 pixels) - Scaled (31%)</title>
+<link>http://www.guinea-pig-info.com/vapid2323.JPG</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T19:41:47Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288127,00.html">
+<title>How to write a movie | News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288127,00.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T09:33:39Z</dc:date>
+<dc:subject>film writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.docstoc.com/docs/860905/How-Creationists-Explain-Evolution---SCARY">
+<title>How Creationists Explain Evolution - SCARY</title>
+<link>http://www.docstoc.com/docs/860905/How-Creationists-Explain-Evolution---SCARY</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T09:24:55Z</dc:date>
+<dc:subject>religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A">
+<title>The Minimalist - 101 Picnic Dishes to Make in 20 Minutes - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mini.html?em&#x26;ex=1215144000&#x26;en=71169d616f62f9c5&#x26;ei=5087%0A</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T09:22:11Z</dc:date>
+<dc:subject>cooking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html">
+<title>How To Lose Belly Fat - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T09:21:49Z</dc:date>
+<dc:subject>diet lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubiqwindow.jp/ENG/english.htm">
+<title>LM3LABS - Ubiq'window | The Future Is Transparent</title>
+<link>http://www.ubiqwindow.jp/ENG/english.htm</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T08:35:37Z</dc:date>
+<dc:subject>technology touchscreen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/touchscreen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gearthblog.com/blog/archives/2008/07/hologram_google_earth.html">
+<title>Google Earth Blog: Hologram Google Earth</title>
+<link>http://www.gearthblog.com/blog/archives/2008/07/hologram_google_earth.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T08:34:45Z</dc:date>
+<dc:subject>future multitouch technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/future" />
+    <rdf:li resource="http://del.icio.us/tag/multitouch" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/5021679/ti-builds-pico-projector-into-blackberry-curve">
+<title>Pico Projectors: TI Builds Pico Projector Into BlackBerry Curve</title>
+<link>http://gizmodo.com/5021679/ti-builds-pico-projector-into-blackberry-curve</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T08:23:40Z</dc:date>
+<dc:subject>gadgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.nitropdf.com/index.php/2008/07/01/pdf-download-beta-firefox/">
+<title>PDF Download 2.0 beta for Firefox now available - The PDF Blog</title>
+<link>http://blog.nitropdf.com/index.php/2008/07/01/pdf-download-beta-firefox/</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T08:21:42Z</dc:date>
+<dc:subject>pdf plugin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>thesuffixed</dc:creator>
+<dc:date>2008-07-03T04:12:20Z</dc:date>
+<dc:subject>development tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

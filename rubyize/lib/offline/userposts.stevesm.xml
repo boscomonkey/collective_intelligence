@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/stevesm">
+<title>del.icio.us/stevesm</title>
+<link>http://del.icio.us/stevesm</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://delicious.e-accent.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying" />
+  <rdf:li rdf:resource="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/" />
+  <rdf:li rdf:resource="http://www.softpedia.com/get/Multimedia/Video/Codec-Packs-Video-Codecs/Advanced-Vista-Codec-Package.shtml" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-unixtips/?ca=dgr-jw64goodunixhabits&#x26;S_TACT=105AGX59&#x26;S_CMP=GR" />
+  <rdf:li rdf:resource="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-may-2008.html" />
+  <rdf:li rdf:resource="http://forum.aumha.org/viewtopic.php?f=30&#x26;t=32687&#x26;p=184187" />
+  <rdf:li rdf:resource="http://live.sysinternals.com/" />
+  <rdf:li rdf:resource="http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/" />
+  <rdf:li rdf:resource="http://www.leigeber.com/2008/05/horizontal-javascript-accordion-menu/" />
+  <rdf:li rdf:resource="http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/" />
+  <rdf:li rdf:resource="http://vectips.com/tutorials/create-abstract-backgrounds/" />
+  <rdf:li rdf:resource="http://drop.io/fax" />
+  <rdf:li rdf:resource="http://arstechnica.com/guides/tweaks/wireless-security.ars" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/design/photo-editing-tutorials/" />
+  <rdf:li rdf:resource="http://www.mythbuntu.org/downloads" />
+  <rdf:li rdf:resource="http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/" />
+  <rdf:li rdf:resource="http://www.gotransit.com/publicroot/en/tripstatus/default.aspx" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/981-the-secret-to-making-money-online" />
+  <rdf:li rdf:resource="http://lifehacker.com/380702/five-best-dvd-ripping-tools" />
+  <rdf:li rdf:resource="http://www.splashup.com/splashup/Splashup.swf" />
+  <rdf:li rdf:resource="http://www.evilmadscientist.com/article.php/usbkey" />
+  <rdf:li rdf:resource="http://rangit.com/software/top-8-linux-games-of-2007/" />
+  <rdf:li rdf:resource="http://drupalcodesearch.com/" />
+  <rdf:li rdf:resource="http://userstyles.org/styles/5867" />
+  <rdf:li rdf:resource="http://digg.com/software/Turn_Your_PC_into_a_DVD_Ripping_Monster" />
+  <rdf:li rdf:resource="http://rainlinks.com/alltext.htm" />
+  <rdf:li rdf:resource="http://cb.vu/unixtoolbox.xhtml" />
+  <rdf:li rdf:resource="http://www.labnol.org/software/tutorials/useful-keyboard-shortcuts-for-the-dos-command-prompt-in-windows/2629/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-07-06T11:03:47Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-07-06T11:01:53Z</dc:date>
+<dc:subject>reference tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://delicious.e-accent.com/">
+<title>Import your del.icio.us bookmarks into Firefox 3 and retain the tags</title>
+<link>http://delicious.e-accent.com/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-28T11:41:19Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying">
+<title>Windows Vista: How to Make Windows Vista Less Annoying</title>
+<link>http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying</link>
+<description>er of items being indexed by th</description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-17T12:00:46Z</dc:date>
+<dc:subject>vista</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/">
+<title>Readers&#x2019; Pick: 16 Sites for Web Design Inspiration - Six Revisions</title>
+<link>http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-10T12:32:35Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.softpedia.com/get/Multimedia/Video/Codec-Packs-Video-Codecs/Advanced-Vista-Codec-Package.shtml">
+<title>Download Vista Codec Package 4.6.8 - With this package installed, you shouldn't need to install any other codec or filter - Softpedia</title>
+<link>http://www.softpedia.com/get/Multimedia/Video/Codec-Packs-Video-Codecs/Advanced-Vista-Codec-Package.shtml</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-03T18:47:17Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-unixtips/?ca=dgr-jw64goodunixhabits&#x26;S_TACT=105AGX59&#x26;S_CMP=GR">
+<title>UNIX tips: Learn 10 more good UNIX usage habits</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-unixtips/?ca=dgr-jw64goodunixhabits&#x26;S_TACT=105AGX59&#x26;S_CMP=GR</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-02T11:53:53Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-may-2008.html">
+<title>Websites you shouldn&#x2019;t have missed in May 2008</title>
+<link>http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-may-2008.html</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-06-02T11:53:40Z</dc:date>
+<dc:subject>photoshop web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.aumha.org/viewtopic.php?f=30&#x26;t=32687&#x26;p=184187">
+<title>AumHa Forums &#x2022; View topic - [Done] Please Help</title>
+<link>http://forum.aumha.org/viewtopic.php?f=30&#x26;t=32687&#x26;p=184187</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-30T12:37:29Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://live.sysinternals.com/">
+<title>live.sysinternals.com - /</title>
+<link>http://live.sysinternals.com/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-29T12:00:25Z</dc:date>
+<dc:subject>download microsoft software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/">
+<title>49 Amazing Wallpapers | Paintbits</title>
+<link>http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-28T11:57:22Z</dc:date>
+<dc:subject>wallpaper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.leigeber.com/2008/05/horizontal-javascript-accordion-menu/">
+<title>Horizontal JavaScript Accordion 1kb - Web Development Blog</title>
+<link>http://www.leigeber.com/2008/05/horizontal-javascript-accordion-menu/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-26T11:03:11Z</dc:date>
+<dc:subject>web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/">
+<title>13 Tips for creating a successful new online product</title>
+<link>http://www.inter-sections.net/2008/05/07/13-tips-for-creating-a-successful-new-online-product/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-08T12:02:29Z</dc:date>
+<dc:subject>business entrepreneurship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectips.com/tutorials/create-abstract-backgrounds/">
+<title>Create Abstract Backgrounds</title>
+<link>http://vectips.com/tutorials/create-abstract-backgrounds/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-03T08:44:29Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drop.io/fax">
+<title>Drop.io fax</title>
+<link>http://drop.io/fax</link>
+<description>If you find bugs please email us at support@dropio.com with details&#x2026; Yet</description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-05-03T08:43:46Z</dc:date>
+<dc:subject>business computers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/guides/tweaks/wireless-security.ars">
+<title>The ABCs of securing your wireless network: Page 1</title>
+<link>http://arstechnica.com/guides/tweaks/wireless-security.ars</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-30T12:04:37Z</dc:date>
+<dc:subject>network security wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/design/photo-editing-tutorials/">
+<title>45 Photo Editing Tutorials for Photoshop | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/design/photo-editing-tutorials/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-30T12:02:05Z</dc:date>
+<dc:subject>photography photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mythbuntu.org/downloads">
+<title>Download ISO | Mythbuntu</title>
+<link>http://www.mythbuntu.org/downloads</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-27T01:10:00Z</dc:date>
+<dc:subject>linux tv ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/">
+<title>10 Tips for After You Install or Upgrade Ubuntu | Tombuntu</title>
+<link>http://tombuntu.com/index.php/2008/04/25/10-tips-for-after-you-install-or-upgrade-ubuntu/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-26T12:31:35Z</dc:date>
+<dc:subject>linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gotransit.com/publicroot/en/tripstatus/default.aspx">
+<title>GO TRANSIT Union Station Train/Bus Departure Status</title>
+<link>http://www.gotransit.com/publicroot/en/tripstatus/default.aspx</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-25T17:07:20Z</dc:date>
+<dc:subject>Go</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Go" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/981-the-secret-to-making-money-online">
+<title>The secret to making money online - (37signals)</title>
+<link>http://www.37signals.com/svn/posts/981-the-secret-to-making-money-online</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-21T11:53:00Z</dc:date>
+<dc:subject>business entrepreneurship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/380702/five-best-dvd-ripping-tools">
+<title>Hive Five: Five Best DVD Ripping Tools</title>
+<link>http://lifehacker.com/380702/five-best-dvd-ripping-tools</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-20T11:51:59Z</dc:date>
+<dc:subject>DVD download</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DVD" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.splashup.com/splashup/Splashup.swf">
+<title>Splashup Photoshop Tool</title>
+<link>http://www.splashup.com/splashup/Splashup.swf</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-20T11:15:22Z</dc:date>
+<dc:subject>free photo photography tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evilmadscientist.com/article.php/usbkey">
+<title>Evil Mad Scientist Laboratories - How to make a Sawed-off USB Key</title>
+<link>http://www.evilmadscientist.com/article.php/usbkey</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-17T22:03:33Z</dc:date>
+<dc:subject>computers storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rangit.com/software/top-8-linux-games-of-2007/">
+<title>Top 25 Linux Games | because you value your mind</title>
+<link>http://rangit.com/software/top-8-linux-games-of-2007/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-13T11:42:17Z</dc:date>
+<dc:subject>games linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drupalcodesearch.com/">
+<title>Drupal Code Search</title>
+<link>http://drupalcodesearch.com/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-03T12:48:09Z</dc:date>
+<dc:subject>PHP web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userstyles.org/styles/5867">
+<title>Gmail Redesigned</title>
+<link>http://userstyles.org/styles/5867</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-04-02T12:14:38Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digg.com/software/Turn_Your_PC_into_a_DVD_Ripping_Monster">
+<title>Digg - Turn Your PC into a DVD Ripping Monster</title>
+<link>http://digg.com/software/Turn_Your_PC_into_a_DVD_Ripping_Monster</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-03-26T12:00:24Z</dc:date>
+<dc:subject>DVD</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DVD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rainlinks.com/alltext.htm">
+<title>Rain Links-We find the movies, you bring the popcorn.</title>
+<link>http://rainlinks.com/alltext.htm</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-03-24T10:16:15Z</dc:date>
+<dc:subject>free movies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cb.vu/unixtoolbox.xhtml">
+<title>Unix Toolbox</title>
+<link>http://cb.vu/unixtoolbox.xhtml</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-03-23T12:47:55Z</dc:date>
+<dc:subject>linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.labnol.org/software/tutorials/useful-keyboard-shortcuts-for-the-dos-command-prompt-in-windows/2629/">
+<title>Useful Keyboard Shortcuts for the DOS Command Prompt in Windows</title>
+<link>http://www.labnol.org/software/tutorials/useful-keyboard-shortcuts-for-the-dos-command-prompt-in-windows/2629/</link>
+<description></description>
+<dc:creator>stevesm</dc:creator>
+<dc:date>2008-03-20T12:16:15Z</dc:date>
+<dc:subject>dos technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/dos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

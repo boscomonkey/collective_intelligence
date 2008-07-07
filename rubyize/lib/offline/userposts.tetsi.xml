@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tetsi">
+<title>del.icio.us/tetsi</title>
+<link>http://del.icio.us/tetsi</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://svnbook.red-bean.com/" />
+  <rdf:li rdf:resource="http://famfamfam.com/lab/icons/silk/" />
+  <rdf:li rdf:resource="http://www.yoxos.com/en/home.html" />
+  <rdf:li rdf:resource="http://listen.grooveshark.com/" />
+  <rdf:li rdf:resource="http://www.mvmsoft.de/content/plugins/rcpforms/rcpforms.htm" />
+  <rdf:li rdf:resource="http://sourceforge.net/projects/rcpforms" />
+  <rdf:li rdf:resource="http://swtswing.sourceforge.net/main/index.html" />
+  <rdf:li rdf:resource="http://www.appleinsider.com/topics/Road_to_Mac_Office_2008.html" />
+  <rdf:li rdf:resource="http://flickr.com/photos/library_of_congress/sets/72157603671370361/" />
+  <rdf:li rdf:resource="http://www.eclipse.org/nebula/" />
+  <rdf:li rdf:resource="http://www.eclipse.org/articles/Article-Writing%20Your%20Own%20Widget/Writing%20Your%20Own%20Widget.htm" />
+  <rdf:li rdf:resource="http://www.benjowskitea.de/" />
+  <rdf:li rdf:resource="http://de.reuters.com/" />
+  <rdf:li rdf:resource="http://www.dernewsticker.de/" />
+  <rdf:li rdf:resource="http://www.eclipse.org/gmt/oaw/doc/4.2/html/contents/index.html" />
+  <rdf:li rdf:resource="http://www.eclipse.org/gmt/oaw/doc/4.3beta/xtext-4.3.pdf" />
+  <rdf:li rdf:resource="http://howto.wired.com/wiki/Miniaturize_a_Scene" />
+  <rdf:li rdf:resource="http://www.typogenerator.net/index.php" />
+  <rdf:li rdf:resource="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/" />
+  <rdf:li rdf:resource="http://www.storyofstuff.com/" />
+  <rdf:li rdf:resource="http://www.kuebelpflanzeninfo.de/index.htm" />
+  <rdf:li rdf:resource="http://www.nslu2-linux.org/wiki/HowTo/EnableExtraUSBPorts" />
+  <rdf:li rdf:resource="http://www.zimmerpflanzenlexikon.info/lexikon.php?c=0&#x26;modus=2&#x26;letter=A" />
+  <rdf:li rdf:resource="http://www.bonsai-art.com/" />
+  <rdf:li rdf:resource="http://www.bonsaiforum.de/viewtopic.php?t=1400" />
+  <rdf:li rdf:resource="http://www.presentationzen.com/presentationzen/2008/03/typography-goin.html" />
+  <rdf:li rdf:resource="http://www.posterlounge.de/" />
+  <rdf:li rdf:resource="http://www.dr-moosburger.at/publikationen.php" />
+  <rdf:li rdf:resource="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/index.html" />
+  <rdf:li rdf:resource="http://www.luftpiraten.de/sonderschrauben.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-07-06T08:46:02Z</dc:date>
+<dc:subject>chair design ergonomics furniture health office shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://svnbook.red-bean.com/">
+<title>Versionskontrolle mit Subversion</title>
+<link>http://svnbook.red-bean.com/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-07-02T11:48:47Z</dc:date>
+<dc:subject>book development documentation reference subversion svn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://famfamfam.com/lab/icons/silk/">
+<title>famfamfam.com: Silk Icons</title>
+<link>http://famfamfam.com/lab/icons/silk/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-30T10:25:26Z</dc:date>
+<dc:subject>cc free graphics icons images library webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/cc" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yoxos.com/en/home.html">
+<title>INNOOPRACT &#xA0; - &#xA0;Yoxos Eclipse Management</title>
+<link>http://www.yoxos.com/en/home.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-26T08:25:29Z</dc:date>
+<dc:subject>distribution eclipse ide java software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ide" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/distribution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listen.grooveshark.com/">
+<title>Grooveshark Lite - Listen to Music Online</title>
+<link>http://listen.grooveshark.com/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-25T18:50:39Z</dc:date>
+<dc:subject>audio flash free mp3 music online streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mvmsoft.de/content/plugins/rcpforms/rcpforms.htm">
+<title>RCPForms - Plugin</title>
+<link>http://www.mvmsoft.de/content/plugins/rcpforms/rcpforms.htm</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-23T09:14:27Z</dc:date>
+<dc:subject>RCP SWT documentation eclipse forms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SWT" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/RCP" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sourceforge.net/projects/rcpforms">
+<title>SourceForge.net: RCP Forms</title>
+<link>http://sourceforge.net/projects/rcpforms</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-23T09:09:25Z</dc:date>
+<dc:subject>SWT eclipse forms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SWT" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swtswing.sourceforge.net/main/index.html">
+<title>The SWTSwing project</title>
+<link>http://swtswing.sourceforge.net/main/index.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-20T10:35:58Z</dc:date>
+<dc:subject>development eclipse gui integration java library opensource programming swing swt widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/swt" />
+    <rdf:li resource="http://del.icio.us/tag/swing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/integration" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.appleinsider.com/topics/Road_to_Mac_Office_2008.html">
+<title>AppleInsider | Articles tagged Road to Mac Office 2008</title>
+<link>http://www.appleinsider.com/topics/Road_to_Mac_Office_2008.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-17T13:26:04Z</dc:date>
+<dc:subject>comparison keynote microsoft numbers office pages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/pages" />
+    <rdf:li resource="http://del.icio.us/tag/keynote" />
+    <rdf:li resource="http://del.icio.us/tag/numbers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickr.com/photos/library_of_congress/sets/72157603671370361/">
+<title>1930s-40s in Color: ein Album in Flickr</title>
+<link>http://flickr.com/photos/library_of_congress/sets/72157603671370361/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-17T07:29:17Z</dc:date>
+<dc:subject>art flickr fotos history libraryofcongress photography photos vintage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/libraryofcongress" />
+    <rdf:li resource="http://del.icio.us/tag/vintage" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/fotos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/nebula/">
+<title>Nebula Project</title>
+<link>http://www.eclipse.org/nebula/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-13T15:17:02Z</dc:date>
+<dc:subject>development eclipse gui java library opensource swt ui widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/swt" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/articles/Article-Writing%20Your%20Own%20Widget/Writing%20Your%20Own%20Widget.htm">
+<title>Writing Your Own Widget</title>
+<link>http://www.eclipse.org/articles/Article-Writing%20Your%20Own%20Widget/Writing%20Your%20Own%20Widget.htm</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-13T14:45:18Z</dc:date>
+<dc:subject>article development eclipse gui howto java programming swt tutorial widget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/swt" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/widget" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.benjowskitea.de/">
+<title>Benjowski Tea</title>
+<link>http://www.benjowskitea.de/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-06-09T22:00:09Z</dc:date>
+<dc:subject>berlin kannen laden online schalen schokolade shop tassen tee</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tee" />
+    <rdf:li resource="http://del.icio.us/tag/laden" />
+    <rdf:li resource="http://del.icio.us/tag/schokolade" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/shop" />
+    <rdf:li resource="http://del.icio.us/tag/berlin" />
+    <rdf:li resource="http://del.icio.us/tag/kannen" />
+    <rdf:li resource="http://del.icio.us/tag/schalen" />
+    <rdf:li resource="http://del.icio.us/tag/tassen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.reuters.com/">
+<title>Reuters.com</title>
+<link>http://de.reuters.com/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-05-29T08:23:23Z</dc:date>
+<dc:subject>news reuters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/reuters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dernewsticker.de/">
+<title>+++ derNewsticker.de - Newsticker mit Material von dpa, AFP, DDP, u.a. +++</title>
+<link>http://www.dernewsticker.de/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-05-29T08:22:33Z</dc:date>
+<dc:subject>afp ddp dpa news ticker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/dpa" />
+    <rdf:li resource="http://del.icio.us/tag/afp" />
+    <rdf:li resource="http://del.icio.us/tag/ddp" />
+    <rdf:li resource="http://del.icio.us/tag/ticker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/gmt/oaw/doc/4.2/html/contents/index.html">
+<title>openArchitectureWare User Guide</title>
+<link>http://www.eclipse.org/gmt/oaw/doc/4.2/html/contents/index.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-05-09T19:52:34Z</dc:date>
+<dc:subject>documentation eclipse howto java mda mdsd oaw openarchitectureware tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oaw" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/mdsd" />
+    <rdf:li resource="http://del.icio.us/tag/mda" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/openarchitectureware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipse.org/gmt/oaw/doc/4.3beta/xtext-4.3.pdf">
+<title>Short introduction in XText</title>
+<link>http://www.eclipse.org/gmt/oaw/doc/4.3beta/xtext-4.3.pdf</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-05-09T18:36:01Z</dc:date>
+<dc:subject>documentation dsl eclipse howto introduction java oaw openarchitectureware slide xtext</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oaw" />
+    <rdf:li resource="http://del.icio.us/tag/openarchitectureware" />
+    <rdf:li resource="http://del.icio.us/tag/slide" />
+    <rdf:li resource="http://del.icio.us/tag/introduction" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/xtext" />
+    <rdf:li resource="http://del.icio.us/tag/dsl" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howto.wired.com/wiki/Miniaturize_a_Scene">
+<title>Miniaturize a Scene - Wired How-To Wiki</title>
+<link>http://howto.wired.com/wiki/Miniaturize_a_Scene</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-29T11:30:04Z</dc:date>
+<dc:subject>howto miniaturize photography photos photoshop tiltshift tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tiltshift" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/miniaturize" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.typogenerator.net/index.php">
+<title>typoGenerator</title>
+<link>http://www.typogenerator.net/index.php</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-29T11:25:05Z</dc:date>
+<dc:subject>art design font fun generator graphics tools typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/">
+<title>21 Ways to Shoot Better Photographs | 10e20 Blog</title>
+<link>http://www.10e20.com/blog/2007/07/27/21-ways-to-shoot-better-photographs/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-29T11:22:14Z</dc:date>
+<dc:subject>art gimp howtos photo photography photos photoshop pictures tips tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/howtos" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/gimp" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.storyofstuff.com/">
+<title>The Story of Stuff with Annie Leonard</title>
+<link>http://www.storyofstuff.com/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-21T19:45:07Z</dc:date>
+<dc:subject>activism animation article consumerism consumption culture design environment sustainability video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/sustainability" />
+    <rdf:li resource="http://del.icio.us/tag/consumerism" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/consumption" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kuebelpflanzeninfo.de/index.htm">
+<title>Pflanzen: Anzucht und Pflege von Citruspflanzen, Palmen, Kakteen, Exoten, Balkon- und K&#xFC;belpflanzen etc.</title>
+<link>http://www.kuebelpflanzeninfo.de/index.htm</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-19T18:01:39Z</dc:date>
+<dc:subject>balkonpflanzen k&#xFC;belpflanzen palmen pflanzen zitrusfr&#xFC;chte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pflanzen" />
+    <rdf:li resource="http://del.icio.us/tag/palmen" />
+    <rdf:li resource="http://del.icio.us/tag/zitrusfr%C3%BCchte" />
+    <rdf:li resource="http://del.icio.us/tag/balkonpflanzen" />
+    <rdf:li resource="http://del.icio.us/tag/k%C3%BCbelpflanzen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nslu2-linux.org/wiki/HowTo/EnableExtraUSBPorts">
+<title>NSLU2-Linux - HowTo / EnableExtraUSBPorts browse</title>
+<link>http://www.nslu2-linux.org/wiki/HowTo/EnableExtraUSBPorts</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-10T07:55:53Z</dc:date>
+<dc:subject>modification nslu2 ports usb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nslu2" />
+    <rdf:li resource="http://del.icio.us/tag/usb" />
+    <rdf:li resource="http://del.icio.us/tag/ports" />
+    <rdf:li resource="http://del.icio.us/tag/modification" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zimmerpflanzenlexikon.info/lexikon.php?c=0&#x26;modus=2&#x26;letter=A">
+<title>Zimmerpflanzenlexikon.info - Das gro&#xDF;e Lexikon der Zimmerpflanzen</title>
+<link>http://www.zimmerpflanzenlexikon.info/lexikon.php?c=0&#x26;modus=2&#x26;letter=A</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-09T09:15:11Z</dc:date>
+<dc:subject>fotos german lexikon pflanzen pictures zimmerpflanzen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zimmerpflanzen" />
+    <rdf:li resource="http://del.icio.us/tag/lexikon" />
+    <rdf:li resource="http://del.icio.us/tag/pflanzen" />
+    <rdf:li resource="http://del.icio.us/tag/fotos" />
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/german" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bonsai-art.com/">
+<title>BONSAI ART - Die Fachzeitschrift.</title>
+<link>http://www.bonsai-art.com/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-08T14:38:47Z</dc:date>
+<dc:subject>bonsai fotografieren german howtos tips tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bonsai" />
+    <rdf:li resource="http://del.icio.us/tag/fotografieren" />
+    <rdf:li resource="http://del.icio.us/tag/howtos" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/german" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bonsaiforum.de/viewtopic.php?t=1400">
+<title>BONSAI-FORUM.DE :: Thema anzeigen - Erstbehandlung von Baumschulpflanzen</title>
+<link>http://www.bonsaiforum.de/viewtopic.php?t=1400</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-08T14:25:29Z</dc:date>
+<dc:subject>bonsai erstbehandlung gestaltung pflanzen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bonsai" />
+    <rdf:li resource="http://del.icio.us/tag/gestaltung" />
+    <rdf:li resource="http://del.icio.us/tag/erstbehandlung" />
+    <rdf:li resource="http://del.icio.us/tag/pflanzen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.presentationzen.com/presentationzen/2008/03/typography-goin.html">
+<title>Presentation Zen: Typography: Going back to the future</title>
+<link>http://www.presentationzen.com/presentationzen/2008/03/typography-goin.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-07T10:55:55Z</dc:date>
+<dc:subject>art design font history presentations typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.posterlounge.de/">
+<title>Poster Kunstdrucke Tapete Grafiken und Illustrationen auf posterlounge.de</title>
+<link>http://www.posterlounge.de/</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-04-06T21:40:10Z</dc:date>
+<dc:subject>art design german graphics lounge posters shop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/german" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/shop" />
+    <rdf:li resource="http://del.icio.us/tag/lounge" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dr-moosburger.at/publikationen.php">
+<title>Dr. Kurt A. Moosburger</title>
+<link>http://www.dr-moosburger.at/publikationen.php</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-03-22T22:33:45Z</dc:date>
+<dc:subject>abnehmen article ern&#xE4;hrung gesundheit medizin sport training</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/sport" />
+    <rdf:li resource="http://del.icio.us/tag/ern%C3%A4hrung" />
+    <rdf:li resource="http://del.icio.us/tag/gesundheit" />
+    <rdf:li resource="http://del.icio.us/tag/abnehmen" />
+    <rdf:li resource="http://del.icio.us/tag/medizin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/index.html">
+<title>Eclipse Platform API Specification</title>
+<link>http://help.eclipse.org/stable/nftopic/org.eclipse.platform.doc.isv/reference/api/index.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-03-13T07:56:36Z</dc:date>
+<dc:subject>api documentation eclipse java javadocs jface programming swt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/swt" />
+    <rdf:li resource="http://del.icio.us/tag/jface" />
+    <rdf:li resource="http://del.icio.us/tag/javadocs" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.luftpiraten.de/sonderschrauben.html">
+<title>Sonderschrauben</title>
+<link>http://www.luftpiraten.de/sonderschrauben.html</link>
+<description></description>
+<dc:creator>tetsi</dc:creator>
+<dc:date>2008-03-05T08:59:23Z</dc:date>
+<dc:subject>din fake fun schrauben</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/din" />
+    <rdf:li resource="http://del.icio.us/tag/schrauben" />
+    <rdf:li resource="http://del.icio.us/tag/fake" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

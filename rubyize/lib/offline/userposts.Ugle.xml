@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ugle">
+<title>del.icio.us/ugle</title>
+<link>http://del.icio.us/ugle</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.techradar.com/blogs/article/10-ps3-tricks-sony-doesnt-tell-you-129626" />
+  <rdf:li rdf:resource="http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html" />
+  <rdf:li rdf:resource="http://sixrevisions.com/resources/favicon_generators_resources/" />
+  <rdf:li rdf:resource="http://lifehacker.com/386020/wildrename-does-the-grunt-work-of-file-name-fixing" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/24/favicon-episode-7/" />
+  <rdf:li rdf:resource="http://lifehacker.com/396742/tweak-firefox-to-display-richer-colors" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/" />
+  <rdf:li rdf:resource="http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/1048-padded-link-targets-for-better-mousing" />
+  <rdf:li rdf:resource="http://globalrichlist.com/" />
+  <rdf:li rdf:resource="http://www.google.com/support/webmasters/bin/answer.py?answer=40318" />
+  <rdf:li rdf:resource="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/" />
+  <rdf:li rdf:resource="http://jirox.net/AsButtonGen/" />
+  <rdf:li rdf:resource="http://justcreativedesign.com/2008/06/09/10-seo-rules-for-designers/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/200-textures-brushes-and-fonts-ultimate-grunge-roundup" />
+  <rdf:li rdf:resource="http://sixrevisions.com/ajax/ajax_techniques" />
+  <rdf:li rdf:resource="http://www.bestsiteslist.net/Best-Photoshop-Tutorials-and-Tips-Sites.html" />
+  <rdf:li rdf:resource="http://antispam.typepad.com/" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/with_iceberg_everyone_can_program.php" />
+  <rdf:li rdf:resource="http://www.popularmechanics.com/technology/how_to/4263321.html" />
+  <rdf:li rdf:resource="http://psdtuts.com/tutorials-effects/create-cool-watercolor-effects-in-photoshop/" />
+  <rdf:li rdf:resource="https://www.lumosity.com/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/" />
+  <rdf:li rdf:resource="http://www.vg.no/teknologi/artikkel.php?artid=195742" />
+  <rdf:li rdf:resource="http://www.missing-auctions.com/" />
+  <rdf:li rdf:resource="http://www.rd.com/living-healthy/50-habits-of-naturally-thin-people/article19268.html" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/socialhistoryjs_see_which_site.php" />
+  <rdf:li rdf:resource="http://i31.tinypic.com/2e4xoyc.jpg" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html" />
+  <rdf:li rdf:resource="http://matadorstudy.com/10-japanese-customs-you-must-know-before-a-trip-to-japan/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-07-06T12:49:31Z</dc:date>
+<dc:subject>install programs software tips windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/programs" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techradar.com/blogs/article/10-ps3-tricks-sony-doesnt-tell-you-129626">
+<title>10 PS3 tricks Sony doesn't tell you | Digital Home | TechRadar UK</title>
+<link>http://www.techradar.com/blogs/article/10-ps3-tricks-sony-doesnt-tell-you-129626</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-07-04T17:10:15Z</dc:date>
+<dc:subject>playstation3 ps3 sony tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/playstation3" />
+    <rdf:li resource="http://del.icio.us/tag/sony" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html">
+<title>Official Gmail Blog: Tip: Set Gmail as your default email client in Firefox 3</title>
+<link>http://gmailblog.blogspot.com/2008/07/power-tip-set-gmail-as-your-default.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-07-03T13:26:00Z</dc:date>
+<dc:subject>email firefox gmail google mail tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/resources/favicon_generators_resources/">
+<title>Favicon Generators</title>
+<link>http://sixrevisions.com/resources/favicon_generators_resources/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-29T21:18:13Z</dc:date>
+<dc:subject>favicon graphics tool webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/386020/wildrename-does-the-grunt-work-of-file-name-fixing">
+<title>File Management: WildRename Does the Grunt Work of File Name Fixing</title>
+<link>http://lifehacker.com/386020/wildrename-does-the-grunt-work-of-file-name-fixing</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-29T19:47:59Z</dc:date>
+<dc:subject>application rename tool windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/rename" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/24/favicon-episode-7/">
+<title>Favicon Episode 7 | Design Showcase | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/24/favicon-episode-7/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-26T21:22:36Z</dc:date>
+<dc:subject>favicon graphics inspiration webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396742/tweak-firefox-to-display-richer-colors">
+<title>Firefox 3: Tweak Firefox to Display Richer Colors</title>
+<link>http://lifehacker.com/396742/tweak-firefox-to-display-richer-colors</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-22T15:50:12Z</dc:date>
+<dc:subject>color firefox3 tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox3" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/">
+<title>20 Photoshop Secrets Revealed&#x2026; - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/photoshop_secrets_revealed/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-17T20:43:57Z</dc:date>
+<dc:subject>graphics photoshop tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html">
+<title>60 ridiculously useful tools and generators for your blog or website</title>
+<link>http://www.marcofolio.net/tips/60_ridiculously_useful_tools_for_your_blog_or_website.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-16T13:57:10Z</dc:date>
+<dc:subject>blog blogging tools web website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/1048-padded-link-targets-for-better-mousing">
+<title>Padded link targets for better mousing - (37signals)</title>
+<link>http://www.37signals.com/svn/posts/1048-padded-link-targets-for-better-mousing</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-15T20:09:32Z</dc:date>
+<dc:subject>WebDesign css html padding tips usability web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/WebDesign" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/padding" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://globalrichlist.com/">
+<title>Global Rich List</title>
+<link>http://globalrichlist.com/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-11T18:23:50Z</dc:date>
+<dc:subject>economics money poor rich</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/rich" />
+    <rdf:li resource="http://del.icio.us/tag/poor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/support/webmasters/bin/answer.py?answer=40318">
+<title>What is a Sitemap file and why should I have one?</title>
+<link>http://www.google.com/support/webmasters/bin/answer.py?answer=40318</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-11T15:18:59Z</dc:date>
+<dc:subject>seo sitemap sitemaps web webdesign xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/sitemap" />
+    <rdf:li resource="http://del.icio.us/tag/sitemaps" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/">
+<title>Readers&#x2019; Pick: 16 Sites for Web Design Inspiration - Six Revisions</title>
+<link>http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-11T15:18:25Z</dc:date>
+<dc:subject>blog css design web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jirox.net/AsButtonGen/">
+<title>As Button Generator</title>
+<link>http://jirox.net/AsButtonGen/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-11T11:05:31Z</dc:date>
+<dc:subject>button generator graphics icon tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/button" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://justcreativedesign.com/2008/06/09/10-seo-rules-for-designers/">
+<title>10 SEO Rules for Designers</title>
+<link>http://justcreativedesign.com/2008/06/09/10-seo-rules-for-designers/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-10T17:04:10Z</dc:date>
+<dc:subject>blog seo web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/200-textures-brushes-and-fonts-ultimate-grunge-roundup">
+<title>Design Reviver &#xBB; 200+ Textures, Brushes, and Fonts: Ultimate Grunge Roundup</title>
+<link>http://designreviver.com/freebies/200-textures-brushes-and-fonts-ultimate-grunge-roundup</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-08T20:58:04Z</dc:date>
+<dc:subject>brushes fonts graphics photoshop resource textures web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/resource" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/ajax/ajax_techniques">
+<title>25 Excellent Ajax Techniques and Examples - Six Revisions</title>
+<link>http://sixrevisions.com/ajax/ajax_techniques</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-07T20:06:06Z</dc:date>
+<dc:subject>ajax programming web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bestsiteslist.net/Best-Photoshop-Tutorials-and-Tips-Sites.html">
+<title>Best Photoshop Tutorials and Tips Sites :: Best Sites List</title>
+<link>http://www.bestsiteslist.net/Best-Photoshop-Tutorials-and-Tips-Sites.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-07T19:46:58Z</dc:date>
+<dc:subject>graphics photography photoshop tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://antispam.typepad.com/">
+<title>TypePad AntiSpam</title>
+<link>http://antispam.typepad.com/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-07T19:36:18Z</dc:date>
+<dc:subject>antispam blog blogging free web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/antispam" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/with_iceberg_everyone_can_program.php">
+<title>Iceberg Launches, Now Everyone Can Program - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/with_iceberg_everyone_can_program.php</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-06T16:58:56Z</dc:date>
+<dc:subject>blog development iceberg programming tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/iceberg" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popularmechanics.com/technology/how_to/4263321.html">
+<title>Turn a PlayStation 3 Into a PC - Sony PS3 Computer Mod Hacks - Popular Mechanics</title>
+<link>http://www.popularmechanics.com/technology/how_to/4263321.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-06T15:15:08Z</dc:date>
+<dc:subject>computer hack linux mod ps3 ubuntu upgrade</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/mod" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/upgrade" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/tutorials-effects/create-cool-watercolor-effects-in-photoshop/">
+<title>Create Cool Watercolor Effects in Photoshop - PSDTUTS</title>
+<link>http://psdtuts.com/tutorials-effects/create-cool-watercolor-effects-in-photoshop/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-06T00:47:50Z</dc:date>
+<dc:subject>color design graphics photoshop tutorial watercolor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/watercolor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.lumosity.com/">
+<title>Brain Games - Lumosity</title>
+<link>https://www.lumosity.com/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-03T20:37:31Z</dc:date>
+<dc:subject>brain exercise games learning memory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/">
+<title>40 Excellent Photoshop Tutorials for Textures and Backgrounds | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/design/photoshop-tutorials-textures/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-03T14:31:21Z</dc:date>
+<dc:subject>photoshop textures tips tutorial tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vg.no/teknologi/artikkel.php?artid=195742">
+<title>Slik sikrer du pc-en din gratis - VG Nett</title>
+<link>http://www.vg.no/teknologi/artikkel.php?artid=195742</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-02T02:29:42Z</dc:date>
+<dc:subject>antivirus beskyttelse pc sikkerhet spyware vg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vg" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/sikkerhet" />
+    <rdf:li resource="http://del.icio.us/tag/antivirus" />
+    <rdf:li resource="http://del.icio.us/tag/spyware" />
+    <rdf:li resource="http://del.icio.us/tag/beskyttelse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.missing-auctions.com/">
+<title>Search for misspelled auction items and eBay typos</title>
+<link>http://www.missing-auctions.com/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-06-01T21:57:52Z</dc:date>
+<dc:subject>auction auctions ebay qxl search shopping tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebay" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/auctions" />
+    <rdf:li resource="http://del.icio.us/tag/auction" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/qxl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rd.com/living-healthy/50-habits-of-naturally-thin-people/article19268.html">
+<title>50 Weight Loss Secrets: Small Changes, Big Weight Loss | Living Healthy | Reader's Digest</title>
+<link>http://www.rd.com/living-healthy/50-habits-of-naturally-thin-people/article19268.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-05-31T22:22:35Z</dc:date>
+<dc:subject>exercise fitness habits health tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exercise" />
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/habits" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/socialhistoryjs_see_which_site.php">
+<title>SocialHistory.js: See Which Sites Your Users Visit - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/socialhistoryjs_see_which_site.php</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-05-31T14:16:50Z</dc:date>
+<dc:subject>analytics blog javascript programming statistics web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i31.tinypic.com/2e4xoyc.jpg">
+<title>2e4xoyc.jpg (JPEG Image, 800x1035 pixels)</title>
+<link>http://i31.tinypic.com/2e4xoyc.jpg</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-05-31T14:09:02Z</dc:date>
+<dc:subject>chemistry exam funny humor image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/exam" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html">
+<title>You're not getting the job -- 25 reasons why - CNN.com</title>
+<link>http://www.cnn.com/2008/LIVING/worklife/05/28/cb.sabotage.job.search/index.html</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-05-29T20:52:17Z</dc:date>
+<dc:subject>business career employment interview job reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matadorstudy.com/10-japanese-customs-you-must-know-before-a-trip-to-japan/">
+<title>10 Japanese Customs You Must Know Before a Trip to Japan</title>
+<link>http://matadorstudy.com/10-japanese-customs-you-must-know-before-a-trip-to-japan/</link>
+<description></description>
+<dc:creator>Ugle</dc:creator>
+<dc:date>2008-05-28T14:49:56Z</dc:date>
+<dc:subject>culture customs interesting japan japaneese language travel useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/japaneese" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/customs" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

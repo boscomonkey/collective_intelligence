@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/steverock">
+<title>del.icio.us/steverock</title>
+<link>http://del.icio.us/steverock</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.tug2.net/" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="https://www.google.com/calendar/render?tab=mc&#x26;pli=1&#x26;gsessionid=2VWWMSS42oS0Bk7nXZrzxg" />
+  <rdf:li rdf:resource="https://mail.google.com/mail/?zx=jd15areskxfq#inbox" />
+  <rdf:li rdf:resource="http://www.flightmemory.com/" />
+  <rdf:li rdf:resource="http://us.mg2.mail.yahoo.com/dc/launch?.rand=f92ci7ljjbik5" />
+  <rdf:li rdf:resource="http://rumplo.com/" />
+  <rdf:li rdf:resource="http://redbullsreader.blogspot.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Estate_tax_(United_States)" />
+  <rdf:li rdf:resource="http://houston.mlsnet.com/MLS/scoreboard/game.jsp?match=06102006_HOUNY" />
+  <rdf:li rdf:resource="http://www.petco.com/petco_Page_PC_home_nav_1.aspx?cm_sp=hdr-_-logo-_-050208" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.cnet.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.tug2.net/">
+<title>Timeshare Users Group - The first and largest online community of timeshare owners providing timeshare resort reviews, timeshare ratings and timeshare advice</title>
+<link>http://www.tug2.net/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T12:54:10Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T12:52:33Z</dc:date>
+<dc:subject>research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.google.com/calendar/render?tab=mc&#x26;pli=1&#x26;gsessionid=2VWWMSS42oS0Bk7nXZrzxg">
+<title>Google Calendar</title>
+<link>https://www.google.com/calendar/render?tab=mc&#x26;pli=1&#x26;gsessionid=2VWWMSS42oS0Bk7nXZrzxg</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T12:02:06Z</dc:date>
+<dc:subject>briefing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/briefing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://mail.google.com/mail/?zx=jd15areskxfq#inbox">
+<title>Gmail</title>
+<link>https://mail.google.com/mail/?zx=jd15areskxfq#inbox</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T11:52:06Z</dc:date>
+<dc:subject>briefing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/briefing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flightmemory.com/">
+<title>FlightMemory</title>
+<link>http://www.flightmemory.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T11:47:08Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://us.mg2.mail.yahoo.com/dc/launch?.rand=f92ci7ljjbik5">
+<title>yMail</title>
+<link>http://us.mg2.mail.yahoo.com/dc/launch?.rand=f92ci7ljjbik5</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T03:57:41Z</dc:date>
+<dc:subject>briefing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/briefing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rumplo.com/">
+<title>Rumplo - Awesome T-Shirts, from around the world.</title>
+<link>http://rumplo.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T03:46:58Z</dc:date>
+<dc:subject>shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://redbullsreader.blogspot.com/">
+<title>RED BULLS READER</title>
+<link>http://redbullsreader.blogspot.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T03:29:56Z</dc:date>
+<dc:subject>rbny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rbny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Estate_tax_(United_States)">
+<title>Estate tax in the United States</title>
+<link>http://en.wikipedia.org/wiki/Estate_tax_(United_States)</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T03:24:34Z</dc:date>
+<dc:subject>finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://houston.mlsnet.com/MLS/scoreboard/game.jsp?match=06102006_HOUNY">
+<title>Match Tracker</title>
+<link>http://houston.mlsnet.com/MLS/scoreboard/game.jsp?match=06102006_HOUNY</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-06T03:13:00Z</dc:date>
+<dc:subject>rbny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rbny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.petco.com/petco_Page_PC_home_nav_1.aspx?cm_sp=hdr-_-logo-_-050208">
+<title>PETCO</title>
+<link>http://www.petco.com/petco_Page_PC_home_nav_1.aspx?cm_sp=hdr-_-logo-_-050208</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-05T16:03:26Z</dc:date>
+<dc:subject>shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-05T15:19:30Z</dc:date>
+<dc:subject>entertainment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnet.com/">
+<title>CNET</title>
+<link>http://www.cnet.com/</link>
+<description></description>
+<dc:creator>Steverock</dc:creator>
+<dc:date>2008-07-05T13:51:04Z</dc:date>
+<dc:subject>technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/etiennecharlier">
+<title>del.icio.us/etiennecharlier</title>
+<link>http://del.icio.us/etiennecharlier</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ptgui.com/" />
+  <rdf:li rdf:resource="http://flickr.com/creativecommons/by-2.0/" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://formatoz.com/index.html" />
+  <rdf:li rdf:resource="http://www.diplomatie.be/shanghai/" />
+  <rdf:li rdf:resource="http://www.jagol.com/" />
+  <rdf:li rdf:resource="http://www.europcar.com/" />
+  <rdf:li rdf:resource="http://www.ecademy.com/" />
+  <rdf:li rdf:resource="http://www.fastpitchnetworking.com/portal.cfm" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Photovoltaics" />
+  <rdf:li rdf:resource="http://www.netprospex.com/" />
+  <rdf:li rdf:resource="http://www.virusalert.nl/?show=virus&#x26;id=2165" />
+  <rdf:li rdf:resource="http://www.tongjimba.com/antivirus/howtoremove/howtoremove_147.html" />
+  <rdf:li rdf:resource="http://www.nakedretreats.cn/" />
+  <rdf:li rdf:resource="http://www.openweb.asia/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Greatest_Hits_(Queen_album)" />
+  <rdf:li rdf:resource="http://vocalyse.polytech.unice.fr/" />
+  <rdf:li rdf:resource="http://www.bonjourchine.com/" />
+  <rdf:li rdf:resource="http://www.chine-informations.com/" />
+  <rdf:li rdf:resource="https://councils.glgroup.com/Login.aspx" />
+  <rdf:li rdf:resource="http://www.chineseposters.net/" />
+  <rdf:li rdf:resource="http://www.iisg.nl/~landsberger/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Operation_Gladio" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Belgian_stay-behind_network" />
+  <rdf:li rdf:resource="http://www.easyjet.com/en/book/index.asp" />
+  <rdf:li rdf:resource="http://energie.wallonie.be/xml/doc-IDC-5022-.html" />
+  <rdf:li rdf:resource="http://energie.wallonie.be/energieplus/entree.htm" />
+  <rdf:li rdf:resource="http://energie.wallonie.be/energieplus/CDRom/enveloppe/calcul/TIcalMethodeCoeffK.htm" />
+  <rdf:li rdf:resource="http://www.lamalcontentahotel.com/" />
+  <rdf:li rdf:resource="http://www.priceline.com/" />
+  <rdf:li rdf:resource="http://www.pricelineeurope.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ptgui.com/">
+<title>Photo stitching software 360 degree Panorama image software - PTGui</title>
+<link>http://www.ptgui.com/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:56:52Z</dc:date>
+<dc:subject>download freeware photos software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickr.com/creativecommons/by-2.0/">
+<title>Flickr-Creative Commons Attribution License</title>
+<link>http://flickr.com/creativecommons/by-2.0/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:52:07Z</dc:date>
+<dc:subject>download graphicart photos repository</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/repository" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/graphicart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:49:20Z</dc:date>
+<dc:subject>blogs pa reference tips webdesign writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/pa" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/index.html">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/index.html</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:46:31Z</dc:date>
+<dc:subject>audio download freeware software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diplomatie.be/shanghai/">
+<title>Consulate General of Belgium in Shanghai</title>
+<link>http://www.diplomatie.be/shanghai/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T12:28:18Z</dc:date>
+<dc:subject>belgium china government</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jagol.com/">
+<title>Jagol.Com, Inter.</title>
+<link>http://www.jagol.com/</link>
+<description>Price Info Net_Global Advanced Price Info Market</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T11:50:57Z</dc:date>
+<dc:subject>china portal price shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/price" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/portal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.europcar.com/">
+<title>Europcar</title>
+<link>http://www.europcar.com/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-06T07:54:49Z</dc:date>
+<dc:subject>booking car rent travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/booking" />
+    <rdf:li resource="http://del.icio.us/tag/rent" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ecademy.com/">
+<title>Ecademy -</title>
+<link>http://www.ecademy.com/</link>
+<description> Business Networking - Connecting Business People</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-02T09:44:31Z</dc:date>
+<dc:subject>marketing pa web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pa" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastpitchnetworking.com/portal.cfm">
+<title>Fast Pitch</title>
+<link>http://www.fastpitchnetworking.com/portal.cfm</link>
+<description>A Professional Social Network for Business</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-02T09:44:03Z</dc:date>
+<dc:subject>marketing pa web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pa" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Photovoltaics">
+<title>Photovoltaics - Wikipedia</title>
+<link>http://en.wikipedia.org/wiki/Photovoltaics</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-01T06:24:12Z</dc:date>
+<dc:subject>photovoltaic reference solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/photovoltaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netprospex.com/">
+<title>NetProspex</title>
+<link>http://www.netprospex.com/</link>
+<description>Executive Directory and Accurate Business Contacts Database</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-07-01T02:05:19Z</dc:date>
+<dc:subject>database marketing tools vortal web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vortal" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.virusalert.nl/?show=virus&#x26;id=2165">
+<title>Verwijder virus</title>
+<link>http://www.virusalert.nl/?show=virus&#x26;id=2165</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-27T03:24:53Z</dc:date>
+<dc:subject>temp todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/temp" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tongjimba.com/antivirus/howtoremove/howtoremove_147.html">
+<title>How to get rid of Backdoor.Ripgof.C</title>
+<link>http://www.tongjimba.com/antivirus/howtoremove/howtoremove_147.html</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-27T03:22:53Z</dc:date>
+<dc:subject>temp todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/temp" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nakedretreats.cn/">
+<title>Naked Retreats - Moganshan</title>
+<link>http://www.nakedretreats.cn/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-25T23:48:07Z</dc:date>
+<dc:subject>china hotel leisure resort shanghai travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/hotel" />
+    <rdf:li resource="http://del.icio.us/tag/resort" />
+    <rdf:li resource="http://del.icio.us/tag/shanghai" />
+    <rdf:li resource="http://del.icio.us/tag/leisure" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openweb.asia/">
+<title>OpenWeb.Asia -</title>
+<link>http://www.openweb.asia/</link>
+<description>OpenWeb Asia Workgroup</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-24T05:12:48Z</dc:date>
+<dc:subject>blogs vortal web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/vortal" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Greatest_Hits_(Queen_album)">
+<title>Greatest Hits (Queen album) - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Greatest_Hits_(Queen_album)</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-21T09:07:13Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vocalyse.polytech.unice.fr/">
+<title>S.I. VOX - Vocalyse</title>
+<link>http://vocalyse.polytech.unice.fr/</link>
+<description>Text2Speech</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-19T14:42:02Z</dc:date>
+<dc:subject>freeware health tbi tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/tbi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bonjourchine.com/">
+<title>Bonjour Chine</title>
+<link>http://www.bonjourchine.com/</link>
+<description>Forum chine</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-18T12:33:48Z</dc:date>
+<dc:subject>china forum france portal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/portal" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/france" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chine-informations.com/">
+<title>Chine Informations</title>
+<link>http://www.chine-informations.com/</link>
+<description>Portal Chine en francais</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-18T12:32:02Z</dc:date>
+<dc:subject>china france news portal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/portal" />
+    <rdf:li resource="http://del.icio.us/tag/france" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://councils.glgroup.com/Login.aspx">
+<title>Gerson Lehrman GRoup</title>
+<link>https://councils.glgroup.com/Login.aspx</link>
+<description>Consulting Management Platform</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-18T10:09:39Z</dc:date>
+<dc:subject>consulting pa tools vortal web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pa" />
+    <rdf:li resource="http://del.icio.us/tag/consulting" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/vortal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chineseposters.net/">
+<title>Chinese Posters</title>
+<link>http://www.chineseposters.net/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-17T16:49:07Z</dc:date>
+<dc:subject>art china gallery history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iisg.nl/~landsberger/">
+<title>Chinese Propaganda Poster Pages</title>
+<link>http://www.iisg.nl/~landsberger/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-17T16:33:49Z</dc:date>
+<dc:subject>art china drawing gallery history painting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/painting" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Operation_Gladio">
+<title>Operation Gladio - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Operation_Gladio</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-15T23:53:35Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Belgian_stay-behind_network">
+<title>Gladio - Belgian stay-behind network</title>
+<link>http://en.wikipedia.org/wiki/Belgian_stay-behind_network</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-15T23:53:10Z</dc:date>
+<dc:subject>belgium history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.easyjet.com/en/book/index.asp">
+<title>easyJet.comair</title>
+<link>http://www.easyjet.com/en/book/index.asp</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-15T09:38:32Z</dc:date>
+<dc:subject>airlines booking hotel travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/airlines" />
+    <rdf:li resource="http://del.icio.us/tag/booking" />
+    <rdf:li resource="http://del.icio.us/tag/hotel" />
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://energie.wallonie.be/xml/doc-IDC-5022-.html">
+<title>CD-Rom ENERGIE +</title>
+<link>http://energie.wallonie.be/xml/doc-IDC-5022-.html</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T11:09:31Z</dc:date>
+<dc:subject>belgium solar tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://energie.wallonie.be/energieplus/entree.htm">
+<title>Energie + CDROM</title>
+<link>http://energie.wallonie.be/energieplus/entree.htm</link>
+<description>Region Wallone</description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T11:07:20Z</dc:date>
+<dc:subject>belgium solar tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://energie.wallonie.be/energieplus/CDRom/enveloppe/calcul/TIcalMethodeCoeffK.htm">
+<title>&#x22;K55&#x22; (enveloppe-calculs)</title>
+<link>http://energie.wallonie.be/energieplus/CDRom/enveloppe/calcul/TIcalMethodeCoeffK.htm</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T11:04:11Z</dc:date>
+<dc:subject>belgium solar tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/belgium" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lamalcontentahotel.com/">
+<title>La Malcontenta Hotel</title>
+<link>http://www.lamalcontentahotel.com/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T01:36:03Z</dc:date>
+<dc:subject>hotel spain</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hotel" />
+    <rdf:li resource="http://del.icio.us/tag/spain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.priceline.com/">
+<title>Priceline.com</title>
+<link>http://www.priceline.com/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T01:31:38Z</dc:date>
+<dc:subject>airlines booking hotel travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/booking" />
+    <rdf:li resource="http://del.icio.us/tag/airlines" />
+    <rdf:li resource="http://del.icio.us/tag/hotel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pricelineeurope.com/">
+<title>Priceline-europe.com</title>
+<link>http://www.pricelineeurope.com/</link>
+<description></description>
+<dc:creator>EtienneCharlier</dc:creator>
+<dc:date>2008-06-13T01:31:07Z</dc:date>
+<dc:subject>booking hotel travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/booking" />
+    <rdf:li resource="http://del.icio.us/tag/hotel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

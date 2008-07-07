@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/audiojack">
+<title>del.icio.us/audiojack</title>
+<link>http://del.icio.us/audiojack</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://cg-pixel.com/3d-landscape.html" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/TECH/science/07/01/solar.textiles/index.html" />
+  <rdf:li rdf:resource="http://picasaweb.google.com/jomo13" />
+  <rdf:li rdf:resource="http://www.arch.hku.hk/teaching/cases/herne/herne.html" />
+  <rdf:li rdf:resource="http://www.scheutensolar.com/" />
+  <rdf:li rdf:resource="http://www.helios-pv.com/index.php" />
+  <rdf:li rdf:resource="http://www.inhabitat.com/2008/07/03/oberlin-college-setting-a-sustainable-example-in-ohio/" />
+  <rdf:li rdf:resource="http://www.factcheck.org/askfactcheck/can_a_freight_train_really_move_a.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/gadgets/2008/01/coffee-cult-200.html" />
+  <rdf:li rdf:resource="http://www.mechoshade.com/site/shadecloth/ecoveil.cfm" />
+  <rdf:li rdf:resource="http://www.eikongraphia.com/?p=2490" />
+  <rdf:li rdf:resource="http://thematicmapping.org/engine/" />
+  <rdf:li rdf:resource="http://ablbim.wordpress.com/downloads/" />
+  <rdf:li rdf:resource="http://buildingdashboard.com/" />
+  <rdf:li rdf:resource="http://www.bioregional.com/programme_projects/ecohous_prog/bedzed/bz_monitoring.htm" />
+  <rdf:li rdf:resource="http://www.inhabitat.com/2008/06/27/prefab-friday-la-reserva-by-sebastian-irarrazaval/" />
+  <rdf:li rdf:resource="http://www.cmm.uchile.cl/?lang=en" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/de_gregorio/sets/72157602235957120/detail/" />
+  <rdf:li rdf:resource="http://paraclouding.com/WP/?p=1377" />
+  <rdf:li rdf:resource="http://www.aecbytes.com/feature/2007/Ecotect.html" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/27/easolar127.xml" />
+  <rdf:li rdf:resource="http://linerider.com/" />
+  <rdf:li rdf:resource="http://aec.cadalyst.com/aec/article/articleDetail.jsp?id=399820" />
+  <rdf:li rdf:resource="http://sketchup.google.com/3dwarehouse/details?mid=1224d42d3ab3ecc2206a3e554f2e4fff&#x26;prevstart=0" />
+  <rdf:li rdf:resource="http://abduzeedo.com/20-beautiful-hdr-pictures-part-3" />
+  <rdf:li rdf:resource="http://greenbuildingelements.com/2008/06/27/community-solar-power/" />
+  <rdf:li rdf:resource="http://bustler.net/index.php/article/snhetta_wins_king_abdulaziz_center_for_knowledge_and_culture_competition_in/" />
+  <rdf:li rdf:resource="http://bldgblog.blogspot.com/2008/06/martian-garden.html" />
+  <rdf:li rdf:resource="http://www.3dconnexion.com/3dmouse/spacenavigator.php" />
+  <rdf:li rdf:resource="http://www.snoarc.no/" />
+  <rdf:li rdf:resource="http://www.0lll.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://cg-pixel.com/3d-landscape.html">
+<title>CG Pixel - Amazing 3D Landscape</title>
+<link>http://cg-pixel.com/3d-landscape.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-06T12:20:22Z</dc:date>
+<dc:subject>rendering steampunk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rendering" />
+    <rdf:li resource="http://del.icio.us/tag/steampunk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/TECH/science/07/01/solar.textiles/index.html">
+<title>Capture power with your curtains - CNN.com</title>
+<link>http://www.cnn.com/2008/TECH/science/07/01/solar.textiles/index.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-05T21:30:47Z</dc:date>
+<dc:subject>curtain solar-power solar-textiles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar-power" />
+    <rdf:li resource="http://del.icio.us/tag/curtain" />
+    <rdf:li resource="http://del.icio.us/tag/solar-textiles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://picasaweb.google.com/jomo13">
+<title>Picasa Web Albums - Joe</title>
+<link>http://picasaweb.google.com/jomo13</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-05T02:10:08Z</dc:date>
+<dc:subject>photovoltaic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photovoltaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arch.hku.hk/teaching/cases/herne/herne.html">
+<title>Academy Mont-Cenis</title>
+<link>http://www.arch.hku.hk/teaching/cases/herne/herne.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-04T23:46:08Z</dc:date>
+<dc:subject>glazing-systems photovoltaic solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/glazing-systems" />
+    <rdf:li resource="http://del.icio.us/tag/photovoltaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scheutensolar.com/">
+<title>http://www.scheutensolar.com/</title>
+<link>http://www.scheutensolar.com/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-04T23:40:47Z</dc:date>
+<dc:subject>photovoltaic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photovoltaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.helios-pv.com/index.php">
+<title>Helios Photovoltaic Co.,Ltd.</title>
+<link>http://www.helios-pv.com/index.php</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-04T21:53:21Z</dc:date>
+<dc:subject>photovoltaic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photovoltaic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inhabitat.com/2008/07/03/oberlin-college-setting-a-sustainable-example-in-ohio/">
+<title>Inhabitat &#xBB; OBERLIN COLLEGE: Setting a Sustainable Example in Ohio</title>
+<link>http://www.inhabitat.com/2008/07/03/oberlin-college-setting-a-sustainable-example-in-ohio/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-04T12:18:44Z</dc:date>
+<dc:subject>oberlin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oberlin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.factcheck.org/askfactcheck/can_a_freight_train_really_move_a.html">
+<title>FactCheck.org: Can a freight train really move a ton of freight 436 miles on a gallon of fuel?</title>
+<link>http://www.factcheck.org/askfactcheck/can_a_freight_train_really_move_a.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-04T12:15:02Z</dc:date>
+<dc:subject>environment transportation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/transportation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/gadgets/2008/01/coffee-cult-200.html">
+<title>Coffee Cult: $20,000 Steampunk Brewing Machine | Gadget Lab from Wired.com</title>
+<link>http://blog.wired.com/gadgets/2008/01/coffee-cult-200.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-02T16:14:51Z</dc:date>
+<dc:subject>steampunk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/steampunk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mechoshade.com/site/shadecloth/ecoveil.cfm">
+<title>Mechoshade - EcoVeil</title>
+<link>http://www.mechoshade.com/site/shadecloth/ecoveil.cfm</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-02T14:48:31Z</dc:date>
+<dc:subject>c2c</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c2c" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eikongraphia.com/?p=2490">
+<title>Eikongraphia &#xBB; Blog Archive &#xBB; Lilypads, by Vincent Callebaut</title>
+<link>http://www.eikongraphia.com/?p=2490</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-02T03:58:20Z</dc:date>
+<dc:subject>Urban dutch sea-architecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dutch" />
+    <rdf:li resource="http://del.icio.us/tag/Urban" />
+    <rdf:li resource="http://del.icio.us/tag/sea-architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thematicmapping.org/engine/">
+<title>Thematic Mapping Engine - thematicmapping.org</title>
+<link>http://thematicmapping.org/engine/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-02T03:40:52Z</dc:date>
+<dc:subject>climate data google-earth kml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/kml" />
+    <rdf:li resource="http://del.icio.us/tag/google-earth" />
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ablbim.wordpress.com/downloads/">
+<title>Downloads &#xAB; ABL BIM Blog</title>
+<link>http://ablbim.wordpress.com/downloads/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-02T03:38:07Z</dc:date>
+<dc:subject>revit-families</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/revit-families" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buildingdashboard.com/">
+<title>Building Dashboard&#xAE; &#x2014; Lucid Design Group | Making energy &#x26; water use visible in real time</title>
+<link>http://buildingdashboard.com/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-01T18:23:08Z</dc:date>
+<dc:subject>building-monitoring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/building-monitoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bioregional.com/programme_projects/ecohous_prog/bedzed/bz_monitoring.htm">
+<title>BioRegional: BedZED monitoring data</title>
+<link>http://www.bioregional.com/programme_projects/ecohous_prog/bedzed/bz_monitoring.htm</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-01T18:21:01Z</dc:date>
+<dc:subject>building-monitoring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/building-monitoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inhabitat.com/2008/06/27/prefab-friday-la-reserva-by-sebastian-irarrazaval/">
+<title>Inhabitat &#xBB; PREFAB FRIDAY: La Reserva by Sebasti&#xE1;n Irarr&#xE1;zaval</title>
+<link>http://www.inhabitat.com/2008/06/27/prefab-friday-la-reserva-by-sebastian-irarrazaval/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-07-01T17:59:09Z</dc:date>
+<dc:subject>house prefab</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/house" />
+    <rdf:li resource="http://del.icio.us/tag/prefab" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmm.uchile.cl/?lang=en">
+<title>CMM - Center For Mathematical Modeling - Universidad de Chile</title>
+<link>http://www.cmm.uchile.cl/?lang=en</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-30T18:14:43Z</dc:date>
+<dc:subject>mathmatical-modelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathmatical-modelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/de_gregorio/sets/72157602235957120/detail/">
+<title>CMM - a set on Flickr</title>
+<link>http://www.flickr.com/photos/de_gregorio/sets/72157602235957120/detail/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-30T18:13:59Z</dc:date>
+<dc:subject>graphic mathmatical-modelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/mathmatical-modelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paraclouding.com/WP/?p=1377">
+<title>Coming Up: ParaCloud Modeler interactions with Google&#x2019;s SketchUP PRO - starting July 1st | ParaClouding</title>
+<link>http://paraclouding.com/WP/?p=1377</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-30T15:50:31Z</dc:date>
+<dc:subject>generative-geometry paracloud</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/paracloud" />
+    <rdf:li resource="http://del.icio.us/tag/generative-geometry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aecbytes.com/feature/2007/Ecotect.html">
+<title>An Introduction to Ecotect: AECBytes Feature</title>
+<link>http://www.aecbytes.com/feature/2007/Ecotect.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-29T14:03:04Z</dc:date>
+<dc:subject>ecotect</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecotect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/27/easolar127.xml">
+<title>US halts solar energy projects over environment fears - Telegraph</title>
+<link>http://www.telegraph.co.uk/earth/main.jhtml?xml=/earth/2008/06/27/easolar127.xml</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-29T01:32:40Z</dc:date>
+<dc:subject>energy solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linerider.com/">
+<title>Welcome to Line Rider&#x2122; | Line Rider</title>
+<link>http://linerider.com/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T16:15:24Z</dc:date>
+<dc:subject>animation flashgame</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/flashgame" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aec.cadalyst.com/aec/article/articleDetail.jsp?id=399820">
+<title>It's All About the Connection - Cadalyst AEC</title>
+<link>http://aec.cadalyst.com/aec/article/articleDetail.jsp?id=399820</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T02:26:42Z</dc:date>
+<dc:subject>structure</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/structure" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sketchup.google.com/3dwarehouse/details?mid=1224d42d3ab3ecc2206a3e554f2e4fff&#x26;prevstart=0">
+<title>ConXtech - Outlet Mall Parking Structure by Dielon - Google 3D Warehouse</title>
+<link>http://sketchup.google.com/3dwarehouse/details?mid=1224d42d3ab3ecc2206a3e554f2e4fff&#x26;prevstart=0</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T02:25:19Z</dc:date>
+<dc:subject>google sketchup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/sketchup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/20-beautiful-hdr-pictures-part-3">
+<title>20 Beautiful HDR Pictures - Part 3 | Abduzeedo - graphic design | design inspiration | design tutorials</title>
+<link>http://abduzeedo.com/20-beautiful-hdr-pictures-part-3</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T02:14:02Z</dc:date>
+<dc:subject>hdr</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hdr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenbuildingelements.com/2008/06/27/community-solar-power/">
+<title>Community Solar Power : Green Building Elements</title>
+<link>http://greenbuildingelements.com/2008/06/27/community-solar-power/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T02:07:47Z</dc:date>
+<dc:subject>solar-thermal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/solar-thermal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bustler.net/index.php/article/snhetta_wins_king_abdulaziz_center_for_knowledge_and_culture_competition_in/">
+<title>Bustler: Sn&#xF8;hetta Wins &#x2018;King Abdulaziz Center for Knowledge and Culture&#x2019; Competition in Saudi Arabia</title>
+<link>http://bustler.net/index.php/article/snhetta_wins_king_abdulaziz_center_for_knowledge_and_culture_competition_in/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T01:49:12Z</dc:date>
+<dc:subject>competition</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/competition" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bldgblog.blogspot.com/2008/06/martian-garden.html">
+<title>BLDGBLOG: Martian Garden</title>
+<link>http://bldgblog.blogspot.com/2008/06/martian-garden.html</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T00:09:02Z</dc:date>
+<dc:subject>agriculture mars</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agriculture" />
+    <rdf:li resource="http://del.icio.us/tag/mars" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.3dconnexion.com/3dmouse/spacenavigator.php">
+<title>3Dconnexion SpaceNavigator 3D mouse</title>
+<link>http://www.3dconnexion.com/3dmouse/spacenavigator.php</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-28T00:04:52Z</dc:date>
+<dc:subject>3d hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.snoarc.no/">
+<title>Snohetta</title>
+<link>http://www.snoarc.no/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-27T17:30:25Z</dc:date>
+<dc:subject>firm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.0lll.com/">
+<title>0lll.com ::::: v2.0</title>
+<link>http://www.0lll.com/</link>
+<description></description>
+<dc:creator>audiojack</dc:creator>
+<dc:date>2008-06-26T02:15:51Z</dc:date>
+<dc:subject>architecture images photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/calvernaz">
+<title>del.icio.us/calvernaz</title>
+<link>http://del.icio.us/calvernaz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://amarok.kde.org/blog/archives/680-guid.html" />
+  <rdf:li rdf:resource="http://svnbook.red-bean.com/en/1.4/svn.tour.cycle.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608" />
+  <rdf:li rdf:resource="http://martinfowler.com/articles/continuousIntegration.html" />
+  <rdf:li rdf:resource="http://www.h2database.com/" />
+  <rdf:li rdf:resource="http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=dd2fhx4z_5df5hw8" />
+  <rdf:li rdf:resource="http://lwn.net/SubscriberLink/MakeLink" />
+  <rdf:li rdf:resource="http://udrepper.livejournal.com/" />
+  <rdf:li rdf:resource="http://www.cacr.math.uwaterloo.ca/hac/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-07-06T13:39:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://amarok.kde.org/blog/archives/680-guid.html">
+<title>Introducing the Popup Dropper - Amarok Blog</title>
+<link>http://amarok.kde.org/blog/archives/680-guid.html</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-07-05T22:05:57Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://svnbook.red-bean.com/en/1.4/svn.tour.cycle.html">
+<title>Basic Work Cycle</title>
+<link>http://svnbook.red-bean.com/en/1.4/svn.tour.cycle.html</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-07-04T00:15:36Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608">
+<title>Robust Java benchmarking, Part 1: Issues</title>
+<link>http://www.ibm.com/developerworks/library/j-benchmark1.html?ca=drs-tp2608</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-07-01T21:27:13Z</dc:date>
+<dc:subject>java performance tuning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://martinfowler.com/articles/continuousIntegration.html">
+<title>Continuous Integration</title>
+<link>http://martinfowler.com/articles/continuousIntegration.html</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-27T14:58:04Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.h2database.com/">
+<title>H2 Database Engine</title>
+<link>http://www.h2database.com/</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-27T13:56:56Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html">
+<title>Core J2EE Patterns - Transfer Object</title>
+<link>http://java.sun.com/blueprints/corej2eepatterns/Patterns/TransferObject.html</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-27T13:56:44Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=dd2fhx4z_5df5hw8">
+<title>Guice User's Guide</title>
+<link>http://docs.google.com/View?docid=dd2fhx4z_5df5hw8</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-23T16:54:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lwn.net/SubscriberLink/MakeLink">
+<title>Subscriber link made [LWN.net]</title>
+<link>http://lwn.net/SubscriberLink/MakeLink</link>
+<description># http://lwn.net/SubscriberLink/286233/ec9dde64e1199781/</description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-19T10:11:53Z</dc:date>
+<dc:subject>computation limits</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computation" />
+    <rdf:li resource="http://del.icio.us/tag/limits" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://udrepper.livejournal.com/">
+<title>Ulrich Drepper</title>
+<link>http://udrepper.livejournal.com/</link>
+<description></description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2008-06-19T10:06:44Z</dc:date>
+<dc:subject>glibc library linux programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/glibc" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cacr.math.uwaterloo.ca/hac/index.html">
+<title>Handbook of Applied Cryptography</title>
+<link>http://www.cacr.math.uwaterloo.ca/hac/index.html</link>
+<description>This site provides order information, updates, errata, supplementary information, chapter bibliographies, and other information for the Handbook of Applied Cryptography by Menezes, van Oorschot and Vanstone.</description>
+<dc:creator>calvernaz</dc:creator>
+<dc:date>2007-12-21T16:02:19Z</dc:date>
+<dc:subject>cryptography firefox:bookmarks imported</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

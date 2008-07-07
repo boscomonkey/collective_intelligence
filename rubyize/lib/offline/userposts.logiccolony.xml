@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/logiccolony">
+<title>del.icio.us/logiccolony</title>
+<link>http://del.icio.us/logiccolony</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x" />
+  <rdf:li rdf:resource="http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/" />
+  <rdf:li rdf:resource="http://blog.rayapps.com/" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2008/03/25/redhat_ceo_end_users/" />
+  <rdf:li rdf:resource="http://lists.debian.org/debian-devel-announce/2008/06/msg00009.html" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2008/04/08/open_source_user_participation/" />
+  <rdf:li rdf:resource="http://ideamill.synaptrixgroup.com/?page_id=16" />
+  <rdf:li rdf:resource="http://www.kk.org/cooltools/archives/001087.php" />
+  <rdf:li rdf:resource="http://www.amazon.com/gp/blog/post/PLNKVUNBWIDAS9YQ" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/tableruler/" />
+  <rdf:li rdf:resource="http://www.matts411.com/main/super_tables" />
+  <rdf:li rdf:resource="http://www.berr.gov.uk/employment/bank-public-holidays/index.html" />
+  <rdf:li rdf:resource="http://blog.seattlepi.nwsource.com/microsoft/library/2003Jangatesmoviemaker.pdf" />
+  <rdf:li rdf:resource="http://herbsutter.wordpress.com/2008/06/27/effective-concurrency-choose-concurrency-friendly-data-structures/" />
+  <rdf:li rdf:resource="http://www.danvk.org/wp/dragtable/" />
+  <rdf:li rdf:resource="http://www.tomtaylor.co.uk/blog/2008/06/28/delighting-with-data/" />
+  <rdf:li rdf:resource="http://muxtape.com/" />
+  <rdf:li rdf:resource="http://aurgasm.us/" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/naps/" />
+  <rdf:li rdf:resource="http://www.mediamolecule.com/blog/" />
+  <rdf:li rdf:resource="http://trac.webkit.org/wiki/Web%20Inspector" />
+  <rdf:li rdf:resource="http://www.customlasercutting.com/" />
+  <rdf:li rdf:resource="http://miamicoder.com/post/2008/01/Defining-ExtJS-GridPanel-columns-at-run-time.aspx" />
+  <rdf:li rdf:resource="http://www.cssplay.co.uk/layouts/basics2.html" />
+  <rdf:li rdf:resource="http://www.cssplay.co.uk/layouts/body4.html" />
+  <rdf:li rdf:resource="http://joyent.vo.llnwd.net/o25/videos/LinkedIn-Bumpersticker-LED-Scaling-Rails.m4v" />
+  <rdf:li rdf:resource="http://blogs.zdnet.com/enterprisealley/?p=188" />
+  <rdf:li rdf:resource="http://www.ft.com/cms/s/0/fc42fb12-412e-11dd-9661-0000779fd2ac.html?nclick_check=1" />
+  <rdf:li rdf:resource="http://www.imaputz.com/uportal/index.php?p=18" />
+  <rdf:li rdf:resource="http://web.tampabay.rr.com/bmerkey/examples/nonscroll-table-header.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-06T09:41:17Z</dc:date>
+<dc:subject>ergonomics furniture office shopping tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x">
+<title>Screenshoot blurry in OS X? | creativebits</title>
+<link>http://creativebits.org/mac_os_x/screenshoot_blurry_os_x</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-05T20:11:29Z</dc:date>
+<dc:subject>apple howto leopard osx screenshot screenshots tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/leopard" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+    <rdf:li resource="http://del.icio.us/tag/screenshots" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/">
+<title>posting to wordpress via ruby and atompub &#xAB; processi</title>
+<link>http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-04T17:08:47Z</dc:date>
+<dc:subject>api atom ruby toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.rayapps.com/">
+<title>ray_apps_blog</title>
+<link>http://blog.rayapps.com/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-04T17:01:34Z</dc:date>
+<dc:subject>blog jruby oracle rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oracle" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/jruby" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2008/03/25/redhat_ceo_end_users/">
+<title>Red Hat criticizes 'lousy' open source participation | The Register</title>
+<link>http://www.theregister.co.uk/2008/03/25/redhat_ceo_end_users/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-03T20:54:20Z</dc:date>
+<dc:subject>opensource toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lists.debian.org/debian-devel-announce/2008/06/msg00009.html">
+<title>DPL teams survey summary summary</title>
+<link>http://lists.debian.org/debian-devel-announce/2008/06/msg00009.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-03T20:53:19Z</dc:date>
+<dc:subject>debian opensource toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/debian" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2008/04/08/open_source_user_participation/">
+<title>Fresh blood - the new fight for open source | The Register</title>
+<link>http://www.theregister.co.uk/2008/04/08/open_source_user_participation/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-03T20:51:28Z</dc:date>
+<dc:subject>article opensource toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ideamill.synaptrixgroup.com/?page_id=16">
+<title>The Idea Mill   &#xBB; tableFilter</title>
+<link>http://ideamill.synaptrixgroup.com/?page_id=16</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-03T17:13:48Z</dc:date>
+<dc:subject>ajax data javascript jquery plugin sort table tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+    <rdf:li resource="http://del.icio.us/tag/sort" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/cooltools/archives/001087.php">
+<title>Cool Tool: Smart Power Strip</title>
+<link>http://www.kk.org/cooltools/archives/001087.php</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-01T21:03:24Z</dc:date>
+<dc:subject>computer energy gadgets power tobuy tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/power" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/gp/blog/post/PLNKVUNBWIDAS9YQ">
+<title>Mark Guzdial's Amazon Blog: Prediction and Invention: Object-oriented vs. functional Permalink</title>
+<link>http://www.amazon.com/gp/blog/post/PLNKVUNBWIDAS9YQ</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-01T13:03:42Z</dc:date>
+<dc:subject>education programming toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/tableruler/">
+<title>A List Apart: Articles: The Table Ruler</title>
+<link>http://www.alistapart.com/articles/tableruler/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-01T08:33:19Z</dc:date>
+<dc:subject>css javascript tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.matts411.com/main/super_tables">
+<title>Super Tables - HTML Tables with Fixed Headers and More</title>
+<link>http://www.matts411.com/main/super_tables</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-07-01T08:24:10Z</dc:date>
+<dc:subject>css datagrid html javascript library tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/datagrid" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.berr.gov.uk/employment/bank-public-holidays/index.html">
+<title>Bank and public holidays in England, Wales and Northern Ireland for the years 2008-2011 - BERR</title>
+<link>http://www.berr.gov.uk/employment/bank-public-holidays/index.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-29T19:06:06Z</dc:date>
+<dc:subject>UK bank calendar government holiday holidays reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/UK" />
+    <rdf:li resource="http://del.icio.us/tag/holiday" />
+    <rdf:li resource="http://del.icio.us/tag/bank" />
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/holidays" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.seattlepi.nwsource.com/microsoft/library/2003Jangatesmoviemaker.pdf">
+<title>Bill Gate's on Movie Maker + Windows usability</title>
+<link>http://blog.seattlepi.nwsource.com/microsoft/library/2003Jangatesmoviemaker.pdf</link>
+<description>&#x26;quot;Someone decided to trash the one part of Windows that was usable? The file system is no longer usable. The</description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-29T17:03:27Z</dc:date>
+<dc:subject>email microsoft pdf usability windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://herbsutter.wordpress.com/2008/06/27/effective-concurrency-choose-concurrency-friendly-data-structures/">
+<title>Effective Concurrency: Choose Concurrency-Friendly Data Structures &#xAB; Sutter&#x2019;s Mill</title>
+<link>http://herbsutter.wordpress.com/2008/06/27/effective-concurrency-choose-concurrency-friendly-data-structures/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-29T17:02:14Z</dc:date>
+<dc:subject>concurrency parallel programming toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/parallel" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.danvk.org/wp/dragtable/">
+<title>danvk.org &#xBB; dragtable: Visually reorder all your table columns</title>
+<link>http://www.danvk.org/wp/dragtable/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-29T16:47:18Z</dc:date>
+<dc:subject>CSS ajax drag html javascript table webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/drag" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tomtaylor.co.uk/blog/2008/06/28/delighting-with-data/">
+<title>Delighting with Data &#xBB; Blog &#xBB; tomtaylor.co.uk</title>
+<link>http://www.tomtaylor.co.uk/blog/2008/06/28/delighting-with-data/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-29T00:30:30Z</dc:date>
+<dc:subject>toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://muxtape.com/">
+<title>Muxtape</title>
+<link>http://muxtape.com/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-28T14:27:16Z</dc:date>
+<dc:subject>audio free mixtape mp3 music streaming web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/mixtape" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aurgasm.us/">
+<title>Aurgasm   | your favorite music you've never heard</title>
+<link>http://aurgasm.us/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-28T14:24:52Z</dc:date>
+<dc:subject>audio blogs free mp3 mp3blog music streaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3blog" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/naps/">
+<title>How to nap - Boston.com</title>
+<link>http://www.boston.com/bostonglobe/ideas/naps/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-25T22:05:18Z</dc:date>
+<dc:subject>diet sleep toread visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mediamolecule.com/blog/">
+<title>Media Molecule blog</title>
+<link>http://www.mediamolecule.com/blog/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-25T11:34:54Z</dc:date>
+<dc:subject>blog developer games toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/developer" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trac.webkit.org/wiki/Web%20Inspector">
+<title>Web Inspector - WebKit - Trac</title>
+<link>http://trac.webkit.org/wiki/Web%20Inspector</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T22:09:33Z</dc:date>
+<dc:subject>debugger tool webkit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webkit" />
+    <rdf:li resource="http://del.icio.us/tag/debugger" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.customlasercutting.com/">
+<title>Custom Laser Cutting Service</title>
+<link>http://www.customlasercutting.com/</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T22:05:50Z</dc:date>
+<dc:subject>design enterprise hardware resources service shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://miamicoder.com/post/2008/01/Defining-ExtJS-GridPanel-columns-at-run-time.aspx">
+<title>Learn ExtJS AJAX: Defining data grid properties at run time</title>
+<link>http://miamicoder.com/post/2008/01/Defining-ExtJS-GridPanel-columns-at-run-time.aspx</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T10:13:23Z</dc:date>
+<dc:subject>extjs grid</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extjs" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cssplay.co.uk/layouts/basics2.html">
+<title>stu nicholls | CSS PLaY | cross browser fixed header/footer layout basic method</title>
+<link>http://www.cssplay.co.uk/layouts/basics2.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T09:40:50Z</dc:date>
+<dc:subject>crossbrowser css design fixed layout web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/fixed" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/crossbrowser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cssplay.co.uk/layouts/body4.html">
+<title>stu nicholls | CSS PLaY | cross browser fixed header/footer/left column layout scrolling middle area</title>
+<link>http://www.cssplay.co.uk/layouts/body4.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T09:40:36Z</dc:date>
+<dc:subject>css design example layout webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/example" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://joyent.vo.llnwd.net/o25/videos/LinkedIn-Bumpersticker-LED-Scaling-Rails.m4v">
+<title>Scaling Rails to 1 billion page views (video Joyent/Linked In)</title>
+<link>http://joyent.vo.llnwd.net/o25/videos/LinkedIn-Bumpersticker-LED-Scaling-Rails.m4v</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T07:45:57Z</dc:date>
+<dc:subject>rails scaling towatch video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/towatch" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.zdnet.com/enterprisealley/?p=188">
+<title>Ruby on Rails: scaling to 1 billion page views per month | Enterprise Alley</title>
+<link>http://blogs.zdnet.com/enterprisealley/?p=188</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T07:45:04Z</dc:date>
+<dc:subject>coding enterprise rails ruby scalability scaling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ft.com/cms/s/0/fc42fb12-412e-11dd-9661-0000779fd2ac.html?nclick_check=1">
+<title>FT.com / Markets / Insight - Insight: Learning lessons from the 1930s</title>
+<link>http://www.ft.com/cms/s/0/fc42fb12-412e-11dd-9661-0000779fd2ac.html?nclick_check=1</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-24T07:36:03Z</dc:date>
+<dc:subject>article economy history toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imaputz.com/uportal/index.php?p=18">
+<title>uPortal Themes &#xBB; Pure CSS Scrollable Table with Fixed Header</title>
+<link>http://www.imaputz.com/uportal/index.php?p=18</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-23T16:12:17Z</dc:date>
+<dc:subject>css html tables web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.tampabay.rr.com/bmerkey/examples/nonscroll-table-header.html">
+<title>Scrollable Table with Fixed Header, repeat print header and footer</title>
+<link>http://web.tampabay.rr.com/bmerkey/examples/nonscroll-table-header.html</link>
+<description></description>
+<dc:creator>logiccolony</dc:creator>
+<dc:date>2008-06-23T16:08:54Z</dc:date>
+<dc:subject>css design html table</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

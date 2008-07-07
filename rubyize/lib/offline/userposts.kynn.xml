@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/kynn">
+<title>del.icio.us/kynn</title>
+<link>http://del.icio.us/kynn</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/technology/7488009.stm" />
+  <rdf:li rdf:resource="http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html" />
+  <rdf:li rdf:resource="http://bits.blogs.nytimes.com/2008/07/02/our-paradoxical-attitudes-towards-privacy/index.html" />
+  <rdf:li rdf:resource="http://www.technologyreview.com/read_article.aspx?ch=specialsections&#x26;sc=futurebiz&#x26;id=20943&#x26;a=f" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=AgqEIp2YmtE" />
+  <rdf:li rdf:resource="http://www.jacksonpollock.org/" />
+  <rdf:li rdf:resource="http://www.wakerupper.com/" />
+  <rdf:li rdf:resource="http://bomomo.com/" />
+  <rdf:li rdf:resource="http://linuxgazette.net/152/srinivasan.html" />
+  <rdf:li rdf:resource="http://www.noitulove.ch/2008/07/03/learning-r-part-i/" />
+  <rdf:li rdf:resource="http://www.openbookproject.net/thinkcs/python/english2e/index.xhtml" />
+  <rdf:li rdf:resource="http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2008/CourseHome/index.htm" />
+  <rdf:li rdf:resource="http://directory.google.com/Top/Science/Math/Statistics/Bayesian_Analysis/" />
+  <rdf:li rdf:resource="http://bayes.wustl.edu/etj/science.pdf.html" />
+  <rdf:li rdf:resource="http://www.sl4.org/wiki/TheSimpleTruth" />
+  <rdf:li rdf:resource="http://yudkowsky.net/virtues/" />
+  <rdf:li rdf:resource="http://yudkowsky.net/bayes/technical.html" />
+  <rdf:li rdf:resource="http://singinst.org/Biases.pdf" />
+  <rdf:li rdf:resource="http://www.liu.se/en/news-and-events/startpage?newsitem=19689" />
+  <rdf:li rdf:resource="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php" />
+  <rdf:li rdf:resource="http://blog.wired.com/wiredscience/2008/07/caloric-restric.html" />
+  <rdf:li rdf:resource="http://www.darkroastedblend.com/2008/07/they-bite-ugly-bug-faces.html" />
+  <rdf:li rdf:resource="http://lifeboat.com/ex/10.futuristic.materials" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/technology/2008/jul/03/copy.machine.reprap" />
+  <rdf:li rdf:resource="http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS" />
+  <rdf:li rdf:resource="http://www.physorg.com/news134058290.html" />
+  <rdf:li rdf:resource="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/technology/7488009.stm">
+<title>Google must divulge YouTube log</title>
+<link>http://news.bbc.co.uk/2/hi/technology/7488009.stm</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:17:01Z</dc:date>
+<dc:subject>google law news toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html">
+<title>11 Websites To Save You Cash During The Recession - 7/3/2008</title>
+<link>http://www.doubleviking.com/11-websites-to-save-you-cash-during-the-recession-9723-p.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:16:27Z</dc:date>
+<dc:subject>economics finance link money shopping toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/link" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bits.blogs.nytimes.com/2008/07/02/our-paradoxical-attitudes-towards-privacy/index.html">
+<title>Our Paradoxical Attitudes Toward Privacy</title>
+<link>http://bits.blogs.nytimes.com/2008/07/02/our-paradoxical-attitudes-towards-privacy/index.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:15:11Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technologyreview.com/read_article.aspx?ch=specialsections&#x26;sc=futurebiz&#x26;id=20943&#x26;a=f">
+<title>The Future of the Web</title>
+<link>http://www.technologyreview.com/read_article.aspx?ch=specialsections&#x26;sc=futurebiz&#x26;id=20943&#x26;a=f</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:13:57Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=AgqEIp2YmtE">
+<title>The internet is expanding!</title>
+<link>http://www.youtube.com/watch?v=AgqEIp2YmtE</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:12:37Z</dc:date>
+<dc:subject>funny humor video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jacksonpollock.org/">
+<title>Jackson Pollock</title>
+<link>http://www.jacksonpollock.org/</link>
+<description>-o-matic</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:06:49Z</dc:date>
+<dc:subject>art fun funny game generator graphics hilarious interactive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/hilarious" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wakerupper.com/">
+<title>Wakerupper</title>
+<link>http://www.wakerupper.com/</link>
+<description>&#x26;quot;Wakerupper is the web's easiest telephone reminder tool.  Schedule reminder calls on the web.&#x26;quot;</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T13:02:25Z</dc:date>
+<dc:subject>alarm calendar free phone reminder schedule service time tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/schedule" />
+    <rdf:li resource="http://del.icio.us/tag/alarm" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/reminder" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bomomo.com/">
+<title>bomomo</title>
+<link>http://bomomo.com/</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T12:57:02Z</dc:date>
+<dc:subject>art cool design drawing fun game graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/152/srinivasan.html">
+<title>A slightly advanced Introduction to Vim</title>
+<link>http://linuxgazette.net/152/srinivasan.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T12:52:04Z</dc:date>
+<dc:subject>editor guide howto learning programming tocheckout todo toprint toread tutorial vi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+    <rdf:li resource="http://del.icio.us/tag/tocheckout" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noitulove.ch/2008/07/03/learning-r-part-i/">
+<title>Learning R - Part I</title>
+<link>http://www.noitulove.ch/2008/07/03/learning-r-part-i/</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T12:49:44Z</dc:date>
+<dc:subject>guide howto math probability r statistics tocheckout todo tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/r" />
+    <rdf:li resource="http://del.icio.us/tag/probability" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/tocheckout" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openbookproject.net/thinkcs/python/english2e/index.xhtml">
+<title>How to Think Like a Computer Scientist: Learning with Python</title>
+<link>http://www.openbookproject.net/thinkcs/python/english2e/index.xhtml</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:27:41Z</dc:date>
+<dc:subject>academics book free programming python tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/academics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2008/CourseHome/index.htm">
+<title>6.189 A Gentle Introduction to Programming Using Python, January (IAP) 2008</title>
+<link>http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-189January--IAP--2008/CourseHome/index.htm</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:26:23Z</dc:date>
+<dc:subject>academics course learning ocw programming python tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ocw" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/course" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/academics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://directory.google.com/Top/Science/Math/Statistics/Bayesian_Analysis/">
+<title>Google Directory for&#xA0;Bayesian&#xA0;Analysis</title>
+<link>http://directory.google.com/Top/Science/Math/Statistics/Bayesian_Analysis/</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:18:43Z</dc:date>
+<dc:subject>bayes directory google link probability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/probability" />
+    <rdf:li resource="http://del.icio.us/tag/bayes" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/link" />
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bayes.wustl.edu/etj/science.pdf.html">
+<title>Probability Theory With Applications in Science and Engineering</title>
+<link>http://bayes.wustl.edu/etj/science.pdf.html</link>
+<description>Free book online by Edwin T. Jaynes</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:16:07Z</dc:date>
+<dc:subject>bayes book jaynes math probability science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/probability" />
+    <rdf:li resource="http://del.icio.us/tag/bayes" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/jaynes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sl4.org/wiki/TheSimpleTruth">
+<title>The Simple Truth</title>
+<link>http://www.sl4.org/wiki/TheSimpleTruth</link>
+<description>&#x26;quot;This essay is meant to restore a naive view of truth.&#x26;quot;</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:13:29Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yudkowsky.net/virtues/">
+<title>Twelve Virtues of Rationality</title>
+<link>http://yudkowsky.net/virtues/</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:13:02Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yudkowsky.net/bayes/technical.html">
+<title>A Technical Explanation of Technical Explanation</title>
+<link>http://yudkowsky.net/bayes/technical.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:12:34Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://singinst.org/Biases.pdf">
+<title>Cognitive biases potentially affecting judgment of global risks</title>
+<link>http://singinst.org/Biases.pdf</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:10:52Z</dc:date>
+<dc:subject>bayes cognition decision toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/bayes" />
+    <rdf:li resource="http://del.icio.us/tag/decision" />
+    <rdf:li resource="http://del.icio.us/tag/cognition" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.liu.se/en/news-and-events/startpage?newsitem=19689">
+<title>Intuition can be explained</title>
+<link>http://www.liu.se/en/news-and-events/startpage?newsitem=19689</link>
+<description>bottom line: there's no substitute for experience</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T11:02:51Z</dc:date>
+<dc:subject>brain intelligence learning psychology research science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/intelligence" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php">
+<title>Where the linear crosses the exponential</title>
+<link>http://www.kk.org/thetechnium/archives/2008/07/where_the_linea.php</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:57:41Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/wiredscience/2008/07/caloric-restric.html">
+<title>Caloric Restriction Comes in a Pill</title>
+<link>http://blog.wired.com/wiredscience/2008/07/caloric-restric.html</link>
+<description>on resveratrol</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:57:11Z</dc:date>
+<dc:subject>aging diet health longevity medicine research science toprint toread wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/diet" />
+    <rdf:li resource="http://del.icio.us/tag/aging" />
+    <rdf:li resource="http://del.icio.us/tag/medicine" />
+    <rdf:li resource="http://del.icio.us/tag/longevity" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.darkroastedblend.com/2008/07/they-bite-ugly-bug-faces.html">
+<title>They Bite! - Ugly Bug Faces</title>
+<link>http://www.darkroastedblend.com/2008/07/they-bite-ugly-bug-faces.html</link>
+<description>Incredible collection of micro-monsters.  Hollywood can't come even close to what Evolution has already made...</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:55:24Z</dc:date>
+<dc:subject>amazing biology gallery image photography science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifeboat.com/ex/10.futuristic.materials">
+<title>10 Futuristic Materials</title>
+<link>http://lifeboat.com/ex/10.futuristic.materials</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:53:16Z</dc:date>
+<dc:subject>amazing toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/technology/2008/jul/03/copy.machine.reprap">
+<title>The machine that copies itself</title>
+<link>http://www.guardian.co.uk/technology/2008/jul/03/copy.machine.reprap</link>
+<description>&#x26;quot;The inventor of the 'RepRap' machine believes that it will enable developing countries to get a foothold on the manufacturing ladder.&#x26;quot;</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:52:08Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS">
+<title>Of sommeliers and stomachs</title>
+<link>http://www.economist.com/science/displaystory.cfm?story_id=11662560&#x26;fsrc=RSS</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:51:32Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.physorg.com/news134058290.html">
+<title>More Evidence for a Revolutionary Theory of Water</title>
+<link>http://www.physorg.com/news134058290.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:50:59Z</dc:date>
+<dc:subject>biochemistry chemistry physics research science toprint toread water</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/biochemistry" />
+    <rdf:li resource="http://del.icio.us/tag/water" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706">
+<title>Smoke Plume</title>
+<link>http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4706</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:46:42Z</dc:date>
+<dc:subject>amazing astronomy image photography science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:35:05Z</dc:date>
+<dc:subject>physics toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:34:28Z</dc:date>
+<dc:subject>toprint toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:33:24Z</dc:date>
+<dc:subject>audio conversion free media movie mp3 mp4 software sound video windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/mp4" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>The Standard Model of Fundamental Particles and Interactions</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description>(poster)</description>
+<dc:creator>kynn</dc:creator>
+<dc:date>2008-07-06T10:30:13Z</dc:date>
+<dc:subject>chart diagram image mnemonic model particle physics quantum quickref science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/quickref" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/model" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/mnemonic" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

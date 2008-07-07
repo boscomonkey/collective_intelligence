@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/evilrobotsoftware">
+<title>del.icio.us/evilrobotsoftware</title>
+<link>http://del.icio.us/evilrobotsoftware</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.christophniemann.com/" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://unirec.blogspot.com/2007/12/live-fuzzy-search-using-n-grams-in.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://www.distancedegrees.com/2008/lose-your-wikipedia-crutch-100-places-to-go-for-good-answers-online/" />
+  <rdf:li rdf:resource="http://www.uie.com/" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/article/fancy-form-design-css" />
+  <rdf:li rdf:resource="http://www.lukew.com/resources/articles/web_forms.html" />
+  <rdf:li rdf:resource="http://aspnet.4guysfromrolla.com/articles/070208-1.aspx" />
+  <rdf:li rdf:resource="http://www.campaignmonitor.com/blog/archives/2008/07/our_html_email_research_roundu.html" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html" />
+  <rdf:li rdf:resource="http://www.w3.org/TR/html401/interact/forms.html" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://www.ajaxload.info/" />
+  <rdf:li rdf:resource="http://gojko.net/2008/06/23/clean-your-html-inputs-or-the-dog-eaters-will-get-to-you/" />
+  <rdf:li rdf:resource="http://pbfcomics.com/?cid=PBF207-Gingerbread_Man.jpg" />
+  <rdf:li rdf:resource="http://www.codekata.com/" />
+  <rdf:li rdf:resource="http://steve.yegge.googlepages.com/five-essential-phone-screen-questions" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001138.html" />
+  <rdf:li rdf:resource="http://www.wherethehellismatt.com/videos.shtml" />
+  <rdf:li rdf:resource="http://randomwebsite.net/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/fauxabsolutepositioning" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html" />
+  <rdf:li rdf:resource="http://kuler.adobe.com/#" />
+  <rdf:li rdf:resource="http://www.campaignmonitor.com/blog/archives/2008/06/a_guide_to_css_support_in_emai_1.html" />
+  <rdf:li rdf:resource="http://www.hanselman.com/blog/BackToBasicsLifeAfterIfForAndSwitchLikeADataStructuresReminder.aspx" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page/" />
+  <rdf:li rdf:resource="http://search.barnesandnoble.com/The-Year-1000/Robert-Lacey/e/9780316511575/" />
+  <rdf:li rdf:resource="http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx" />
+  <rdf:li rdf:resource="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.christophniemann.com/">
+<title>CHRISTOPH NIEMANN * ILLUSTRATION</title>
+<link>http://www.christophniemann.com/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-06T10:21:27Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-06T10:02:23Z</dc:date>
+<dc:subject>to_read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/to_read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://unirec.blogspot.com/2007/12/live-fuzzy-search-using-n-grams-in.html">
+<title>Universal Recommendations: Live fuzzy search using n-grams in Rails</title>
+<link>http://unirec.blogspot.com/2007/12/live-fuzzy-search-using-n-grams-in.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-06T09:53:35Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-06T09:52:02Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.distancedegrees.com/2008/lose-your-wikipedia-crutch-100-places-to-go-for-good-answers-online/">
+<title>Lose Your Wikipedia Crutch: 100 Places to Go for Good Answers Online - Distance Degrees.com</title>
+<link>http://www.distancedegrees.com/2008/lose-your-wikipedia-crutch-100-places-to-go-for-good-answers-online/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-06T09:51:27Z</dc:date>
+<dc:subject>search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uie.com/">
+<title>User Interface Engineering - Usability Research, Training, and Events - UIE</title>
+<link>http://www.uie.com/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-05T13:51:11Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/article/fancy-form-design-css">
+<title>Fancy Form Design Using CSS [CSS Tutorials]</title>
+<link>http://www.sitepoint.com/article/fancy-form-design-css</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-05T13:45:02Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lukew.com/resources/articles/web_forms.html">
+<title>LukeW: Web Application Form Design</title>
+<link>http://www.lukew.com/resources/articles/web_forms.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-05T13:44:32Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aspnet.4guysfromrolla.com/articles/070208-1.aspx">
+<title>ASP.NET.4GuysFromRolla.com: Techniques for Randomly Reordering an Array</title>
+<link>http://aspnet.4guysfromrolla.com/articles/070208-1.aspx</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-04T08:44:24Z</dc:date>
+<dc:subject>Code to_read</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+    <rdf:li resource="http://del.icio.us/tag/to_read" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.campaignmonitor.com/blog/archives/2008/07/our_html_email_research_roundu.html">
+<title>Our HTML email research roundup - Campaign Monitor Blog</title>
+<link>http://www.campaignmonitor.com/blog/archives/2008/07/our_html_email_research_roundu.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-04T06:55:27Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html">
+<title>woork: Clean and pure CSS FORM design</title>
+<link>http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-03T06:54:12Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html">
+<title>woork: FORM elements design using CSS and list (ul and dl)</title>
+<link>http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-03T06:53:50Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3.org/TR/html401/interact/forms.html">
+<title>Forms in HTML documents</title>
+<link>http://www.w3.org/TR/html401/interact/forms.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-01T19:32:17Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-01T15:11:16Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ajaxload.info/">
+<title>Ajaxload - Ajax loading gif generator</title>
+<link>http://www.ajaxload.info/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-07-01T10:31:34Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gojko.net/2008/06/23/clean-your-html-inputs-or-the-dog-eaters-will-get-to-you/">
+<title>Gojko Adzic &#xBB; Clean your HTML inputs or the dog-eaters will get to you</title>
+<link>http://gojko.net/2008/06/23/clean-your-html-inputs-or-the-dog-eaters-will-get-to-you/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-30T07:33:59Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pbfcomics.com/?cid=PBF207-Gingerbread_Man.jpg">
+<title>The Perry Bible Fellowship</title>
+<link>http://pbfcomics.com/?cid=PBF207-Gingerbread_Man.jpg</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-26T05:41:22Z</dc:date>
+<dc:subject>Misc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Misc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codekata.com/">
+<title>CodeKata</title>
+<link>http://www.codekata.com/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-24T07:27:41Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve.yegge.googlepages.com/five-essential-phone-screen-questions">
+<title>Stevey's Home Page - The Five Essential Phone-Screen Questions</title>
+<link>http://steve.yegge.googlepages.com/five-essential-phone-screen-questions</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-24T07:26:33Z</dc:date>
+<dc:subject>Learn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001138.html">
+<title>Coding Horror: The Ultimate Code Kata</title>
+<link>http://www.codinghorror.com/blog/archives/001138.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-24T07:17:00Z</dc:date>
+<dc:subject>Learn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wherethehellismatt.com/videos.shtml">
+<title>Where The Hell Is Matt? - Videos</title>
+<link>http://www.wherethehellismatt.com/videos.shtml</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-23T10:49:39Z</dc:date>
+<dc:subject>Misc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Misc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://randomwebsite.net/">
+<title>RandomWebsite.net</title>
+<link>http://randomwebsite.net/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-17T16:09:30Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/fauxabsolutepositioning">
+<title>A List Apart: Articles: Faux Absolute Positioning</title>
+<link>http://www.alistapart.com/articles/fauxabsolutepositioning</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-17T13:01:50Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html">
+<title>Using CSS to Fix Anything: 20  Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-16T19:20:07Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kuler.adobe.com/#">
+<title>kuler</title>
+<link>http://kuler.adobe.com/#</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-16T16:14:17Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.campaignmonitor.com/blog/archives/2008/06/a_guide_to_css_support_in_emai_1.html">
+<title>A guide to CSS support in email: 2008 Edition - Campaign Monitor Blog</title>
+<link>http://www.campaignmonitor.com/blog/archives/2008/06/a_guide_to_css_support_in_emai_1.html</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-15T08:20:36Z</dc:date>
+<dc:subject>Design Work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/Work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hanselman.com/blog/BackToBasicsLifeAfterIfForAndSwitchLikeADataStructuresReminder.aspx">
+<title>Scott Hanselman's Computer Zen - Back to Basics - Life After If, For and Switch - Like, a Data Structures Reminder</title>
+<link>http://www.hanselman.com/blog/BackToBasicsLifeAfterIfForAndSwitchLikeADataStructuresReminder.aspx</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-15T08:20:07Z</dc:date>
+<dc:subject>Code Learn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+    <rdf:li resource="http://del.icio.us/tag/Learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page/">
+<title>15 Tools to Help You Develop Faster Web Pages - Six Revisions</title>
+<link>http://sixrevisions.com/tools/faster_web_page/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-12T14:11:54Z</dc:date>
+<dc:subject>Code</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://search.barnesandnoble.com/The-Year-1000/Robert-Lacey/e/9780316511575/">
+<title>Barnes &#x26; Noble.com - Books: The Year 1000, by Robert Lacey, Paperback</title>
+<link>http://search.barnesandnoble.com/The-Year-1000/Robert-Lacey/e/9780316511575/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-11T17:40:56Z</dc:date>
+<dc:subject>Books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx">
+<title>Some Consulting Wisdom I Picked Up - Chad Myers' Blog</title>
+<link>http://www.lostechies.com/blogs/chad_myers/archive/2008/06/08/some-consulting-wisdom-i-picked-up.aspx</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-10T07:04:42Z</dc:date>
+<dc:subject>Learn Work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Learn" />
+    <rdf:li resource="http://del.icio.us/tag/Work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/">
+<title>Readers&#x2019; Pick: 16 Sites for Web Design Inspiration - Six Revisions</title>
+<link>http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/</link>
+<description></description>
+<dc:creator>EvilRobotSoftware</dc:creator>
+<dc:date>2008-06-10T06:15:44Z</dc:date>
+<dc:subject>Design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

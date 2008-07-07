@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/skuda">
+<title>del.icio.us/skuda</title>
+<link>http://del.icio.us/skuda</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/" />
+  <rdf:li rdf:resource="http://code.google.com/p/googletest/" />
+  <rdf:li rdf:resource="http://darkavngr.blogspot.com/2007/06/pasos-seguir-para-modificar-el-charset.html" />
+  <rdf:li rdf:resource="http://www.postgresonline.com/journal/index.php?/archives/16-Trojan-SQL-Function-Hack---A-PL-Lemma-in-Disguise.html" />
+  <rdf:li rdf:resource="http://www.depesz.com/index.php/2007/08/01/set-returning-functions-in-83/" />
+  <rdf:li rdf:resource="http://apgdiff.sourceforge.net/" />
+  <rdf:li rdf:resource="http://pgfoundry.org/projects/tablelog/" />
+  <rdf:li rdf:resource="http://pgfoundry.org/projects/pg-comparator/" />
+  <rdf:li rdf:resource="http://nhlab.blogspot.com/2008/07/extending-asterisk-with-happs.html" />
+  <rdf:li rdf:resource="http://pgfouine.projects.postgresql.org/" />
+  <rdf:li rdf:resource="http://pqa.projects.postgresql.org/" />
+  <rdf:li rdf:resource="http://linuxfinances.info/info/postgresqlperformance.html" />
+  <rdf:li rdf:resource="http://www.westnet.com/~gsmith/content/postgresql/pg-5minute.htm" />
+  <rdf:li rdf:resource="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes" />
+  <rdf:li rdf:resource="http://code.google.com/p/django-evolution/" />
+  <rdf:li rdf:resource="http://www.google.com/support/webmasters/bin/answer.py?hl=es&#x26;answer=35291" />
+  <rdf:li rdf:resource="http://www.excelsior-usa.com/jet.html" />
+  <rdf:li rdf:resource="http://www.kennygorman.com/wordpress/?p=250" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://home.online.no/~reopsahl/files/assem.htm" />
+  <rdf:li rdf:resource="http://howtoselectguides.com/guides/dotnet/obfuscators/1st" />
+  <rdf:li rdf:resource="http://www.softlookup.com/tutorial/Unix/unx39.asp" />
+  <rdf:li rdf:resource="http://www.goftp.com/" />
+  <rdf:li rdf:resource="http://www.drazzib.com/docs:admin:dnsmasq" />
+  <rdf:li rdf:resource="http://sipx-wiki.calivia.com/index.php/HowTo_Configure_DHCP_and_DNS_Servers" />
+  <rdf:li rdf:resource="http://searchsqlserver.techtarget.com/tip/0,289483,sid87_gci1262965,00.html" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/pub/a/databases/2006/02/02/postgresq_regexes.html?page=1" />
+  <rdf:li rdf:resource="http://news.hiperia3d.com/2008/07/50-ways-to-improve-your-software.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-06T08:43:49Z</dc:date>
+<dc:subject>chair ergonomics health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-06T08:40:11Z</dc:date>
+<dc:subject>google proxy security testing tools xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/">
+<title>50+ Nice Clean CSS Tab-Based Navigation Scripts</title>
+<link>http://www.hongkiat.com/blog/50-nice-clean-css-tab-based-navigation-scripts/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-06T08:32:20Z</dc:date>
+<dc:subject>css javascript webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/googletest/">
+<title>googletest - Google Code</title>
+<link>http://code.google.com/p/googletest/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T18:41:10Z</dc:date>
+<dc:subject>c++ framework google programming testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://darkavngr.blogspot.com/2007/06/pasos-seguir-para-modificar-el-charset.html">
+<title>Through me the way among the people lost.: Pasos a seguir para modificar el charset interno (UTF8 a ISO-88591) del cluster de postgresql en ubuntu.</title>
+<link>http://darkavngr.blogspot.com/2007/06/pasos-seguir-para-modificar-el-charset.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T18:36:45Z</dc:date>
+<dc:subject>postgresql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.postgresonline.com/journal/index.php?/archives/16-Trojan-SQL-Function-Hack---A-PL-Lemma-in-Disguise.html">
+<title>Trojan SQL Function Hack - A PL Lemma in Disguise - Postgres OnLine Journal</title>
+<link>http://www.postgresonline.com/journal/index.php?/archives/16-Trojan-SQL-Function-Hack---A-PL-Lemma-in-Disguise.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T13:50:41Z</dc:date>
+<dc:subject>postgresql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.depesz.com/index.php/2007/08/01/set-returning-functions-in-83/">
+<title>select * from depesz;&#xBB; Blog Archive &#xBB; set returning functions in 8.3</title>
+<link>http://www.depesz.com/index.php/2007/08/01/set-returning-functions-in-83/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T13:14:28Z</dc:date>
+<dc:subject>postgresql programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://apgdiff.sourceforge.net/">
+<title>Another PostgreSQL Diff Tool - Welcome to Another PostgreSQL Diff Tool</title>
+<link>http://apgdiff.sourceforge.net/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T13:05:19Z</dc:date>
+<dc:subject>postgresql tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pgfoundry.org/projects/tablelog/">
+<title>PgFoundry: Table Audit: Project Info</title>
+<link>http://pgfoundry.org/projects/tablelog/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T12:56:26Z</dc:date>
+<dc:subject>postgresql tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pgfoundry.org/projects/pg-comparator/">
+<title>PgFoundry: PostgreSQL table comparator: Project Info</title>
+<link>http://pgfoundry.org/projects/pg-comparator/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-05T12:51:29Z</dc:date>
+<dc:subject>postgresql replication tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nhlab.blogspot.com/2008/07/extending-asterisk-with-happs.html">
+<title>n-heptane lab: Extending Asterisk with HAppS</title>
+<link>http://nhlab.blogspot.com/2008/07/extending-asterisk-with-happs.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T23:43:53Z</dc:date>
+<dc:subject>asterisk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pgfouine.projects.postgresql.org/">
+<title>pgFouine - a PostgreSQL log analyzer</title>
+<link>http://pgfouine.projects.postgresql.org/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T23:04:41Z</dc:date>
+<dc:subject>performance postgresql tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pqa.projects.postgresql.org/">
+<title>Practical Query Analysis</title>
+<link>http://pqa.projects.postgresql.org/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T23:04:14Z</dc:date>
+<dc:subject>database performance postgresql tuning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxfinances.info/info/postgresqlperformance.html">
+<title>PostgreSQL Performance Tuning</title>
+<link>http://linuxfinances.info/info/postgresqlperformance.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T21:38:41Z</dc:date>
+<dc:subject>performance postgresql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.westnet.com/~gsmith/content/postgresql/pg-5minute.htm">
+<title>5-Minute Introduction to PostgreSQL Performance</title>
+<link>http://www.westnet.com/~gsmith/content/postgresql/pg-5minute.htm</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T21:26:57Z</dc:date>
+<dc:subject>performance postgresql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes">
+<title>SEO 2.0 | Top 10 Fatal URL Design Mistakes</title>
+<link>http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-04T08:30:59Z</dc:date>
+<dc:subject>seo tips usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/django-evolution/">
+<title>django-evolution - Google Code</title>
+<link>http://code.google.com/p/django-evolution/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-03T21:36:48Z</dc:date>
+<dc:subject>database django python schema sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/django" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/support/webmasters/bin/answer.py?hl=es&#x26;answer=35291">
+<title>&#xBF;Qu&#xE9; es un SEO?; &#xBF;me recomienda Google que trabaje con compa&#xF1;&#xED;as que ofrecen ajustar mi sitio a los requisitos de Google?</title>
+<link>http://www.google.com/support/webmasters/bin/answer.py?hl=es&#x26;answer=35291</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-03T18:22:29Z</dc:date>
+<dc:subject>google seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.excelsior-usa.com/jet.html">
+<title>Excelsior JET - Java Virtual Machine (JVM) and Native Code Compiler</title>
+<link>http://www.excelsior-usa.com/jet.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-03T08:11:13Z</dc:date>
+<dc:subject>compiler java jvm performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jvm" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kennygorman.com/wordpress/?p=250">
+<title>Python script showing PostgreSQL objects in linux memory: pg_osmem.py | kennygorman.com</title>
+<link>http://www.kennygorman.com/wordpress/?p=250</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-03T08:04:14Z</dc:date>
+<dc:subject>postgresql python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-03T08:00:27Z</dc:date>
+<dc:subject>api method python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.online.no/~reopsahl/files/assem.htm">
+<title>Greythorne's Assembly and Cracking Tutorial for Newer Users</title>
+<link>http://home.online.no/~reopsahl/files/assem.htm</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T21:50:37Z</dc:date>
+<dc:subject>assembly cracking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/assembly" />
+    <rdf:li resource="http://del.icio.us/tag/cracking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtoselectguides.com/guides/dotnet/obfuscators/1st">
+<title>How-To-Select an Obfuscation Tool for .NET, 1st Edition | How-to-Select Guides</title>
+<link>http://howtoselectguides.com/guides/dotnet/obfuscators/1st</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T21:46:58Z</dc:date>
+<dc:subject>.net security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.softlookup.com/tutorial/Unix/unx39.asp">
+<title>UNIX Tutorial - softlookup.com</title>
+<link>http://www.softlookup.com/tutorial/Unix/unx39.asp</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T19:07:05Z</dc:date>
+<dc:subject>linux optimization performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.goftp.com/">
+<title>GoFTP :: Home :: Fast, Free FTP Client</title>
+<link>http://www.goftp.com/</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T14:24:36Z</dc:date>
+<dc:subject>ftp windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ftp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drazzib.com/docs:admin:dnsmasq">
+<title>Configuration de Dnsmasq [DrazziB Website]</title>
+<link>http://www.drazzib.com/docs:admin:dnsmasq</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T13:28:44Z</dc:date>
+<dc:subject>dns dnsmasq</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/dnsmasq" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sipx-wiki.calivia.com/index.php/HowTo_Configure_DHCP_and_DNS_Servers">
+<title>HowTo Configure DHCP and DNS Servers - SIPfoundry sipx, The Open Source SIP PBX for Linux - Calivia</title>
+<link>http://sipx-wiki.calivia.com/index.php/HowTo_Configure_DHCP_and_DNS_Servers</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T12:40:31Z</dc:date>
+<dc:subject>dhcp dns linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dhcp" />
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchsqlserver.techtarget.com/tip/0,289483,sid87_gci1262965,00.html">
+<title>Compatibility of SQL Server 2005 and 2000 coexisting</title>
+<link>http://searchsqlserver.techtarget.com/tip/0,289483,sid87_gci1262965,00.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T09:58:28Z</dc:date>
+<dc:subject>sqlserver</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sqlserver" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/pub/a/databases/2006/02/02/postgresq_regexes.html?page=1">
+<title>O'Reilly Network -- Using Regular Expressions in PostgreSQL</title>
+<link>http://www.oreillynet.com/pub/a/databases/2006/02/02/postgresq_regexes.html?page=1</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T09:32:40Z</dc:date>
+<dc:subject>postgresql regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/postgresql" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.hiperia3d.com/2008/07/50-ways-to-improve-your-software.html">
+<title>Hiperia3D News: 50 Ways To Improve Your Software Project</title>
+<link>http://news.hiperia3d.com/2008/07/50-ways-to-improve-your-software.html</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T07:28:41Z</dc:date>
+<dc:subject>development programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>skuda</dc:creator>
+<dc:date>2008-07-02T07:21:48Z</dc:date>
+<dc:subject>antipatterns patterns rest webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/antipatterns" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

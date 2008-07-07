@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/oblonski">
+<title>del.icio.us/oblonski</title>
+<link>http://del.icio.us/oblonski</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://lirent.net/wordpress/100-most-popular-wordpress-plugins.html" />
+  <rdf:li rdf:resource="http://my.opera.com/oblonski/blog/2008/07/03/update-for-july-3-2008" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/3765265/MarioOlckersPortfolio" />
+  <rdf:li rdf:resource="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/" />
+  <rdf:li rdf:resource="http://arstechnica.com/journals/science.ars/2008/07/01/happy-evolution-the-theorys-150th-anniversary" />
+  <rdf:li rdf:resource="http://news.cnet.com/8301-13953_3-9980569-80.html" />
+  <rdf:li rdf:resource="http://webworkerdaily.com/2008/06/25/broadcasting-to-your-social-networks/" />
+  <rdf:li rdf:resource="http://www.fastfwdinnovation.com/2008/06/24/community-strategies/community-management-strategy-how-to-engage-customers-with-your-brand/" />
+  <rdf:li rdf:resource="http://www.howtoforge.com/centos-5.1-server-lamp-email-dns-ftp-ispconfig#" />
+  <rdf:li rdf:resource="http://www.technologyreview.com/Biztech/20979/page4/" />
+  <rdf:li rdf:resource="http://www.earfl.com/" />
+  <rdf:li rdf:resource="http://wordpress.jdwebdev.com/blog/wordpress-26-features/" />
+  <rdf:li rdf:resource="http://www.micropersuasion.com/2008/06/measure-traffic.html" />
+  <rdf:li rdf:resource="http://www.socialmediatoday.com/SMC/37911" />
+  <rdf:li rdf:resource="http://www.creatingcustomerevangelists.com/resources/evangelists/simone_paddock.asp" />
+  <rdf:li rdf:resource="http://sixrevisions.com/css/30_css_techniques_examples" />
+  <rdf:li rdf:resource="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html#" />
+  <rdf:li rdf:resource="http://justcreativedesign.com/2007/11/21/wordpress-plugins-you-must-have/" />
+  <rdf:li rdf:resource="https://www.metmuseum.org/toah/hd/afrg/hd_afrg.htm#" />
+  <rdf:li rdf:resource="http://www.popularmechanics.com/technology/how_to/4263321.htm" />
+  <rdf:li rdf:resource="http://www.hp.com/sbso/productivity/office/" />
+  <rdf:li rdf:resource="http://mytweets.com/graphs/marioOlckers" />
+  <rdf:li rdf:resource="http://www.networkworld.com/community/node/27945?page=0%2C1&#x26;ts=" />
+  <rdf:li rdf:resource="http://davefleet.com/2008/06/hubspots-press-release-grader-rate-your-press-release/" />
+  <rdf:li rdf:resource="http://www.reuters.com/article/topNews/idUSSIN28085020080601?rpc=28" />
+  <rdf:li rdf:resource="http://www.layouts4free.com/articles/article_view.php" />
+  <rdf:li rdf:resource="http://www.pressreleasegrader.com/view.php?id=3372&#x26;t=huTSh49LeB.aE" />
+  <rdf:li rdf:resource="http://news.cnet.com/8301-10784_3-9955184-7.html" />
+  <rdf:li rdf:resource="http://www.businesswire.com/news/google/20080528005160/en" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (29%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description>Standard model of Fundamental Particles and Interactions</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-06T10:14:45Z</dc:date>
+<dc:subject>learn mathematics model physics quantum reference research science study tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/model" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/study" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lirent.net/wordpress/100-most-popular-wordpress-plugins.html">
+<title>100 Most Popular Wordpress plugins</title>
+<link>http://lirent.net/wordpress/100-most-popular-wordpress-plugins.html</link>
+<description>These are the 100 most popular plugins and from this list you must selct the ones for right after any WordPress install. Very comprehensive list and excellent resource</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-03T04:51:07Z</dc:date>
+<dc:subject>CMS bestpractices blogging platform plugin wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/CMS" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/platform" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/bestpractices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://my.opera.com/oblonski/blog/2008/07/03/update-for-july-3-2008">
+<title>Update for July 3, 2008</title>
+<link>http://my.opera.com/oblonski/blog/2008/07/03/update-for-july-3-2008</link>
+<description>After many months I have stumbled on my very first blog I started after I came back from Asia in 2004. I have been updating on and off a couple of times, but it's nice to be back here after a long absence</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-03T03:04:43Z</dc:date>
+<dc:subject>blog blogging community mini opera personal webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+    <rdf:li resource="http://del.icio.us/tag/opera" />
+    <rdf:li resource="http://del.icio.us/tag/mini" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done | Zen Habits</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done
+
+And now, for the list to surpass all lists. The productivity guide you&#x2019;ve been waiting for your entire life. The only resource you&#x2019;ll ever need.
+
+Well, it might n</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-02T20:51:33Z</dc:date>
+<dc:subject>GTD Zen howto inspiration lifehacks productivity resources tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/Zen" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/3765265/MarioOlckersPortfolio">
+<title>MarioOlckersPortfolio</title>
+<link>http://www.scribd.com/doc/3765265/MarioOlckersPortfolio</link>
+<description>Mario Olckers - Portfolio
+Scribd is an awesome service that lets you upload documents in most popular formats
+like PDF, Word, PPT, Excel spreadsheet, odt etc etc and then hosts it in iPaper format
+These can then be easily shared and embedded on your we</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-01T22:59:16Z</dc:date>
+<dc:subject>Photoshop Portfolio graphicDesign marioOlckers onlineDocumentShare scribd webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scribd" />
+    <rdf:li resource="http://del.icio.us/tag/onlineDocumentShare" />
+    <rdf:li resource="http://del.icio.us/tag/Portfolio" />
+    <rdf:li resource="http://del.icio.us/tag/marioOlckers" />
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/graphicDesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/">
+<title>Top 20 Motivation Hacks - An Overview</title>
+<link>http://zenhabits.net/2007/02/top-20-motivation-hacks-overview/</link>
+<description>Top 20 Motivation Hacks - An Overview</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-01T21:54:43Z</dc:date>
+<dc:subject>advice business discipline howto inspiration motivational productivity psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/motivational" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/discipline" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/journals/science.ars/2008/07/01/happy-evolution-the-theorys-150th-anniversary">
+<title>Happy evolution! The theory's 150th anniversary</title>
+<link>http://arstechnica.com/journals/science.ars/2008/07/01/happy-evolution-the-theorys-150th-anniversary</link>
+<description>Today marks the 150th anniversary of the first publication of the Theory of Evolution, an event that's the proximal cause of so much social and scientific upheaval. Next year will see anniversary celebrations of Darwin's 200th birthday and the 150th year</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-01T19:15:31Z</dc:date>
+<dc:subject>evolution science theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.cnet.com/8301-13953_3-9980569-80.html">
+<title>How Facebook stays afloat adding 250,000 users per day</title>
+<link>http://news.cnet.com/8301-13953_3-9980569-80.html</link>
+<description>How Facebook stays afloat adding 250,000 users per day</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-07-01T19:13:05Z</dc:date>
+<dc:subject>Facebook IT Socialmedia infrastructure php scalability socialnetworking technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Facebook" />
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webworkerdaily.com/2008/06/25/broadcasting-to-your-social-networks/">
+<title>Web Worker Daily &#xBB; Archive Broadcasting to Your Social Networks &#xAB;</title>
+<link>http://webworkerdaily.com/2008/06/25/broadcasting-to-your-social-networks/</link>
+<description>I&#x2019;ve been working with clients to set up social media &#x201C;satellite sites&#x201D; as I call them to extend their brand and take advantage of the exponential power of social networking for reaching out to consumers. The question I hear time and time again is</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-27T09:39:22Z</dc:date>
+<dc:subject>business communication community marketing networking socialnetworking strategy tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastfwdinnovation.com/2008/06/24/community-strategies/community-management-strategy-how-to-engage-customers-with-your-brand/">
+<title>Community Management + Strategy = What to do, How, for what purpose? - Fast.Fwd.Innov@tion</title>
+<link>http://www.fastfwdinnovation.com/2008/06/24/community-strategies/community-management-strategy-how-to-engage-customers-with-your-brand/</link>
+<description>Community Management + Strategy = What to do, How, for what purpose?</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-27T06:42:48Z</dc:date>
+<dc:subject>Socialmedia business community marketing networking strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtoforge.com/centos-5.1-server-lamp-email-dns-ftp-ispconfig#">
+<title>CentOS 5.1 Server Setup: LAMP, Email, DNS, FTP, ISPConfig (a.k.a. The Perfect Server) | HowtoForge - Linux Howtos and Tutorials</title>
+<link>http://www.howtoforge.com/centos-5.1-server-lamp-email-dns-ftp-ispconfig#</link>
+<description>CentOS 5.1 Server Setup: LAMP, Email, DNS, FTP, ISPConfig (a.k.a. The Perfect Server)
+
+Version 1.0
+Author: Falko Timme &#x26;lt;ft [at] falkotimme [dot] com&#x26;gt;
+Last edited 12/04/2007
+
+This tutorial shows how to set up a CentOS 5.1 based server that offers all</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-25T15:45:57Z</dc:date>
+<dc:subject>CentOS ISP gnu/linux server setup tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ISP" />
+    <rdf:li resource="http://del.icio.us/tag/CentOS" />
+    <rdf:li resource="http://del.icio.us/tag/gnu/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/setup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technologyreview.com/Biztech/20979/page4/">
+<title>Part II: The Business of Social Networks</title>
+<link>http://www.technologyreview.com/Biztech/20979/page4/</link>
+<description>Part II: The Business of Social Networks</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-24T15:25:51Z</dc:date>
+<dc:subject>MIT Socialmedia TechnologyReview business communication socialnetworking strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/MIT" />
+    <rdf:li resource="http://del.icio.us/tag/TechnologyReview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.earfl.com/">
+<title>Recording by Brooke Beatty on earfl.com</title>
+<link>http://www.earfl.com/</link>
+<description>Audio blog posts embeddable and shareable anywhere, phone in a voicemail to a number, and share with the world</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-23T22:09:04Z</dc:date>
+<dc:subject>audio blog web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.jdwebdev.com/blog/wordpress-26-features/">
+<title>WordPress 2.6 Features</title>
+<link>http://wordpress.jdwebdev.com/blog/wordpress-26-features/</link>
+<description>WordPress 2.6 Features</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-21T21:26:49Z</dc:date>
+<dc:subject>CMS WordPress blog blogging features version2.6 webdevelopment wordpress2.6</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/WordPress" />
+    <rdf:li resource="http://del.icio.us/tag/CMS" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+    <rdf:li resource="http://del.icio.us/tag/features" />
+    <rdf:li resource="http://del.icio.us/tag/version2.6" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress2.6" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.micropersuasion.com/2008/06/measure-traffic.html">
+<title>Measure Traffic with the Google Web Site Trends Bookmarklet</title>
+<link>http://www.micropersuasion.com/2008/06/measure-traffic.html</link>
+<description>Measure Traffic with the Google Web Site Trends Bookmarklet</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-21T12:36:54Z</dc:date>
+<dc:subject>Google ROI analytics measurement metrics socialmedia trafiic trends webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/trends" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/metrics" />
+    <rdf:li resource="http://del.icio.us/tag/ROI" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+    <rdf:li resource="http://del.icio.us/tag/trafiic" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.socialmediatoday.com/SMC/37911">
+<title>Twitter that Pitch: Introducing Pitch140</title>
+<link>http://www.socialmediatoday.com/SMC/37911</link>
+<description>Twitter that Pitch: Introducing Pitch140</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-21T12:05:05Z</dc:date>
+<dc:subject>PR SMPR Socialmedia business communication s strategy twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/PR" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/s" />
+    <rdf:li resource="http://del.icio.us/tag/SMPR" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creatingcustomerevangelists.com/resources/evangelists/simone_paddock.asp">
+<title>Secret agent evangelist</title>
+<link>http://www.creatingcustomerevangelists.com/resources/evangelists/simone_paddock.asp</link>
+<description>Social Media Strategist -</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-21T00:56:01Z</dc:date>
+<dc:subject>PR PR2.0 Socialmedia business communication socialnetworking strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/PR" />
+    <rdf:li resource="http://del.icio.us/tag/PR2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/css/30_css_techniques_examples">
+<title>30 Exceptional CSS Techniques and Examples - Six Revisions</title>
+<link>http://sixrevisions.com/css/30_css_techniques_examples</link>
+<description>30 Exceptional CSS Techniques and Examples - Six Revisions</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-16T22:53:33Z</dc:date>
+<dc:subject>css howto reference resources techniques tips tutorials webdesign webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+    <rdf:li resource="http://del.icio.us/tag/techniques" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html#">
+<title>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</title>
+<link>http://www.noupe.com/css/using-css-to-fix-anything-20-common-bugs-and-fixes.html#</link>
+<description>Using CSS to Fix Anything: 20+ Common Bugs and Fixes</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-16T21:19:01Z</dc:date>
+<dc:subject>CSS techniques tips tutorials webdesign webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/techniques" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://justcreativedesign.com/2007/11/21/wordpress-plugins-you-must-have/">
+<title>20 Must Have WordPress Plugins</title>
+<link>http://justcreativedesign.com/2007/11/21/wordpress-plugins-you-must-have/</link>
+<description>20 Must Have WordPress Plugins</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-09T13:46:35Z</dc:date>
+<dc:subject>blogging howto reference wordpress wp-plugins</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/wp-plugins" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.metmuseum.org/toah/hd/afrg/hd_afrg.htm#">
+<title>Africans in Ancient Greek Art | Thematic Essay | Timeline of Art History | The Metropolitan Museum of Art</title>
+<link>https://www.metmuseum.org/toah/hd/afrg/hd_afrg.htm#</link>
+<description>Tales of Ethiopia as a mythical land at the farthest edges of the earth are recorded in some of the earliest Greek literature of the eighth century B.C., including the epic poems of Homer. Greek gods and heroes, like Menelaos, were believed to have visite</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-07T13:39:53Z</dc:date>
+<dc:subject>africa african ancient art culture greece greek history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/ancient" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/africa" />
+    <rdf:li resource="http://del.icio.us/tag/african" />
+    <rdf:li resource="http://del.icio.us/tag/greek" />
+    <rdf:li resource="http://del.icio.us/tag/greece" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popularmechanics.com/technology/how_to/4263321.htm">
+<title>PopularMechanics.com: Turn a PlayStation 3 Into a PC - Sony PS3 Computer Mod Hacks</title>
+<link>http://www.popularmechanics.com/technology/how_to/4263321.htm</link>
+<description></description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-06T18:17:15Z</dc:date>
+<dc:subject>Linux OS PS3 Sony hack instructions popularMechanics tech ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/OS" />
+    <rdf:li resource="http://del.icio.us/tag/instructions" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/Sony" />
+    <rdf:li resource="http://del.icio.us/tag/PS3" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/popularMechanics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hp.com/sbso/productivity/office/">
+<title>Business templates and images - HP Small and Medium Business</title>
+<link>http://www.hp.com/sbso/productivity/office/</link>
+<description>Business Templates &#x26;amp; Images
+Create your own marketing materials</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-06T13:15:37Z</dc:date>
+<dc:subject>business communication marketing resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mytweets.com/graphs/marioOlckers">
+<title>TweetStats :: for marioOlckers</title>
+<link>http://mytweets.com/graphs/marioOlckers</link>
+<description>TweetStats :: for marioOlckers</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-05T00:02:46Z</dc:date>
+<dc:subject>Twitter micro tweetstats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Twitter" />
+    <rdf:li resource="http://del.icio.us/tag/tweetstats" />
+    <rdf:li resource="http://del.icio.us/tag/micro" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.networkworld.com/community/node/27945?page=0%2C1&#x26;ts=">
+<title>Six free security tools you shouldn't live without | NetworkWorld.com Community</title>
+<link>http://www.networkworld.com/community/node/27945?page=0%2C1&#x26;ts=</link>
+<description>Six free security tools you shouldn't live without</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-04T02:58:35Z</dc:date>
+<dc:subject>IT security software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://davefleet.com/2008/06/hubspots-press-release-grader-rate-your-press-release/">
+<title>HubSpot&#x2019;s Press Release Grader - Rate Your Press Release</title>
+<link>http://davefleet.com/2008/06/hubspots-press-release-grader-rate-your-press-release/</link>
+<description></description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-03T19:03:50Z</dc:date>
+<dc:subject>SMPR business communication hubspot pressReleaseGrader pressrelease strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pressrelease" />
+    <rdf:li resource="http://del.icio.us/tag/SMPR" />
+    <rdf:li resource="http://del.icio.us/tag/hubspot" />
+    <rdf:li resource="http://del.icio.us/tag/pressReleaseGrader" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reuters.com/article/topNews/idUSSIN28085020080601?rpc=28">
+<title>China says Beijing Olympics faces security challenge</title>
+<link>http://www.reuters.com/article/topNews/idUSSIN28085020080601?rpc=28</link>
+<description>By Melanie Lee  SINGAPORE (Reuters) - The Beijing Olympic Games will face bigger security challenges compared with previous games because of the threat of a terrorist attack, a top Chinese military official said on Sunday.  Ma Xiaotian, deputy chief...</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-06-01T13:46:14Z</dc:date>
+<dc:subject>China Olympics Tibet beijing2008 freetibet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/China" />
+    <rdf:li resource="http://del.icio.us/tag/Tibet" />
+    <rdf:li resource="http://del.icio.us/tag/Olympics" />
+    <rdf:li resource="http://del.icio.us/tag/beijing2008" />
+    <rdf:li resource="http://del.icio.us/tag/freetibet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.layouts4free.com/articles/article_view.php">
+<title>Photoshop - 101 Hidden Tips</title>
+<link>http://www.layouts4free.com/articles/article_view.php</link>
+<description>Photoshop - 101 Hidden Tips</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-05-30T23:46:16Z</dc:date>
+<dc:subject>graphic photoshop tips tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pressreleasegrader.com/view.php?id=3372&#x26;t=huTSh49LeB.aE">
+<title>Press Release Grader by HubSpot - View Report</title>
+<link>http://www.pressreleasegrader.com/view.php?id=3372&#x26;t=huTSh49LeB.aE</link>
+<description>Press Release Grader by HubSpot - View Report</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-05-30T20:37:02Z</dc:date>
+<dc:subject>PR Socialmedia business communication marketing strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PR" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.cnet.com/8301-10784_3-9955184-7.html">
+<title>Google spotlights data center inner workings</title>
+<link>http://news.cnet.com/8301-10784_3-9955184-7.html</link>
+<description>Google spotlights data center inner workings</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-05-30T20:06:54Z</dc:date>
+<dc:subject>Google computing distributed hardware information infrastructure network scalability server storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businesswire.com/news/google/20080528005160/en">
+<title>Q1 Labs Continues Worldwide Growth with Expansion into Europe, Middle East and Africa (EMEA)</title>
+<link>http://www.businesswire.com/news/google/20080528005160/en</link>
+<description>Q1 Labs, client of @PerkettPR on Twitter, media release of their global expansion into Europe, Africa and Middle East</description>
+<dc:creator>oblonski</dc:creator>
+<dc:date>2008-05-28T14:51:41Z</dc:date>
+<dc:subject>PR Socialmedia business communication marketing media strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/PR" />
+    <rdf:li resource="http://del.icio.us/tag/Socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

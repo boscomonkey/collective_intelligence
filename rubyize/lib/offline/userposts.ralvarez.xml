@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ralvarez">
+<title>del.icio.us/ralvarez</title>
+<link>http://del.icio.us/ralvarez</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=WO2005083605" />
+  <rdf:li rdf:resource="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=JP2002259708" />
+  <rdf:li rdf:resource="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=US5797134" />
+  <rdf:li rdf:resource="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=EP0700009" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.motorpasion.com/2007/10/15-sistema-para-evitar-persecuciones-de-la-policia" />
+  <rdf:li rdf:resource="http://www.motorpasion.com/2008/07/04-un-seguro-en-el-que-pagamos-en-funcion-de-los-kilometros-recorridos" />
+  <rdf:li rdf:resource="http://tikitak.blogspot.com/2008/07/imbatible-xls.html" />
+  <rdf:li rdf:resource="http://www.emprendedores.es/crear_una_empresa/informacion/presupuestos_eficaces/presupuestos_eficaces" />
+  <rdf:li rdf:resource="http://www.humyo.com/" />
+  <rdf:li rdf:resource="http://www.cierzo-development.com/lineas/Telemetria-m2m.php" />
+  <rdf:li rdf:resource="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore" />
+  <rdf:li rdf:resource="http://www.popphoto.com/howto/3038/how-to-create-high-dynamic-range-images.html" />
+  <rdf:li rdf:resource="http://www.microsiervos.com/archivo/mundoreal/luna-llena-baja.html" />
+  <rdf:li rdf:resource="http://newsvote.bbc.co.uk/mpapps/pagetools/print/news.bbc.co.uk/2/hi/uk_news/magazine/7457287.stm" />
+  <rdf:li rdf:resource="http://travenjoy.com/" />
+  <rdf:li rdf:resource="http://www.felizentutrabajo.com/lahorafelizesde9a5/librohtml/lahorafelizesde9a5overview.html" />
+  <rdf:li rdf:resource="http://andrewbush.net/vectors%202-10-08/index.htm#1" />
+  <rdf:li rdf:resource="http://research.microsoft.com/scg/" />
+  <rdf:li rdf:resource="http://torrelay.com/fresh/web.pl" />
+  <rdf:li rdf:resource="http://www.microsiervos.com/archivo/ordenadores/the-machine-that-changed-the-world.html" />
+  <rdf:li rdf:resource="http://www.killerstartups.com/" />
+  <rdf:li rdf:resource="http://www.mendeley.com/" />
+  <rdf:li rdf:resource="http://tagoo.ru/en/" />
+  <rdf:li rdf:resource="http://doc.ubuntu-es.org/Alfresco" />
+  <rdf:li rdf:resource="http://wiki.alfresco.com/wiki/Installing_Alfresco_on_Ubuntu_7.10#Create_directories_for_variable_data" />
+  <rdf:li rdf:resource="http://www.castillayleoneconomica.es/n%BC%2098/mutuas.html" />
+  <rdf:li rdf:resource="http://www.marketocracy.com/" />
+  <rdf:li rdf:resource="http://extensionesfirefox.blogspot.com/2008/06/pronunce-aprende-pronunciar-las.html" />
+  <rdf:li rdf:resource="http://www.genbeta.com/2008/06/02-especial-ubuntu-instalacion-y-gestion-de-software" />
+  <rdf:li rdf:resource="http://hbc.hackmii.com/about/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=WO2005083605">
+<title>Patente WO2005083605</title>
+<link>http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=WO2005083605</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-06T00:08:01Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=JP2002259708">
+<title>Patente JP2002259708</title>
+<link>http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=JP2002259708</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-06T00:07:35Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=US5797134">
+<title>Patente US5797134</title>
+<link>http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=US5797134</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-06T00:07:06Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=EP0700009">
+<title>Patente EP0700009</title>
+<link>http://v3.espacenet.com/textdoc?DB=EPODOC&#x26;IDX=EP0700009</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-06T00:04:58Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-05T23:51:07Z</dc:date>
+<dc:subject>documentacion java util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/documentacion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.motorpasion.com/2007/10/15-sistema-para-evitar-persecuciones-de-la-policia">
+<title>Sistema para evitar persecuciones de la polic&#xED;a</title>
+<link>http://www.motorpasion.com/2007/10/15-sistema-para-evitar-persecuciones-de-la-policia</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-04T21:16:18Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.motorpasion.com/2008/07/04-un-seguro-en-el-que-pagamos-en-funcion-de-los-kilometros-recorridos">
+<title>Un seguro en el que pagamos en funci&#xF3;n de los kil&#xF3;metros recorridos</title>
+<link>http://www.motorpasion.com/2008/07/04-un-seguro-en-el-que-pagamos-en-funcion-de-los-kilometros-recorridos</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-04T21:15:31Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tikitak.blogspot.com/2008/07/imbatible-xls.html">
+<title>Tic&#x26;Tac: Imbatible xls C&#xE1;lculo de la letra del NIF</title>
+<link>http://tikitak.blogspot.com/2008/07/imbatible-xls.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-02T09:11:56Z</dc:date>
+<dc:subject>programacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/programacion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emprendedores.es/crear_una_empresa/informacion/presupuestos_eficaces/presupuestos_eficaces">
+<title>C&#xF3;mo redactar Propuestas eficaces</title>
+<link>http://www.emprendedores.es/crear_una_empresa/informacion/presupuestos_eficaces/presupuestos_eficaces</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-07-01T21:07:00Z</dc:date>
+<dc:subject>documentacion empresa util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/documentacion" />
+    <rdf:li resource="http://del.icio.us/tag/empresa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.humyo.com/">
+<title>humyo.com - Free Online File Storage &#x26; Backup Space: almacenamiento gratuito</title>
+<link>http://www.humyo.com/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-25T20:56:03Z</dc:date>
+<dc:subject>aplicacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aplicacion" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cierzo-development.com/lineas/Telemetria-m2m.php">
+<title>Telemetr&#xED;a y M2M</title>
+<link>http://www.cierzo-development.com/lineas/Telemetria-m2m.php</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-24T15:42:36Z</dc:date>
+<dc:subject>payd trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/payd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore">
+<title>Make a Presentation Like Al Gore - Wired How-To Wiki</title>
+<link>http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-20T23:46:32Z</dc:date>
+<dc:subject>dise&#xF1;o presentacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentacion" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/dise%C3%B1o" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.popphoto.com/howto/3038/how-to-create-high-dynamic-range-images.html">
+<title>How to Create High Dynamic Range Images - - PopPhotoSeptember 2006</title>
+<link>http://www.popphoto.com/howto/3038/how-to-create-high-dynamic-range-images.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-20T23:43:00Z</dc:date>
+<dc:subject>foto util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/foto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsiervos.com/archivo/mundoreal/luna-llena-baja.html">
+<title>Luna llena este fin de semana: cuanto m&#xE1;s baja, m&#xE1;s grande parece (pero no) | Microsiervos (MundoReal&#x2122;)</title>
+<link>http://www.microsiervos.com/archivo/mundoreal/luna-llena-baja.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-18T21:24:31Z</dc:date>
+<dc:subject>curioso</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/curioso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newsvote.bbc.co.uk/mpapps/pagetools/print/news.bbc.co.uk/2/hi/uk_news/magazine/7457287.stm">
+<title>BBC NEWS | UK | Magazine | 50 office-speak phrases you love to hate</title>
+<link>http://newsvote.bbc.co.uk/mpapps/pagetools/print/news.bbc.co.uk/2/hi/uk_news/magazine/7457287.stm</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-18T13:42:22Z</dc:date>
+<dc:subject>curioso</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/curioso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://travenjoy.com/">
+<title>Vuelos baratos, viajes, billetes de avi&#xF3;n, ofertas... | TravEnjoy.com</title>
+<link>http://travenjoy.com/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-17T19:55:18Z</dc:date>
+<dc:subject>aplicacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aplicacion" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.felizentutrabajo.com/lahorafelizesde9a5/librohtml/lahorafelizesde9a5overview.html">
+<title>La hora feliz es de 9 a 5 por Alexander Kjerulf: felicidad en el trabajo</title>
+<link>http://www.felizentutrabajo.com/lahorafelizesde9a5/librohtml/lahorafelizesde9a5overview.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-16T23:13:04Z</dc:date>
+<dc:subject>curioso libro trabajo util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/libro" />
+    <rdf:li resource="http://del.icio.us/tag/curioso" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://andrewbush.net/vectors%202-10-08/index.htm#1">
+<title>Andrew Bush: conductores</title>
+<link>http://andrewbush.net/vectors%202-10-08/index.htm#1</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-15T02:37:14Z</dc:date>
+<dc:subject>curioso foto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/foto" />
+    <rdf:li resource="http://del.icio.us/tag/curioso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://research.microsoft.com/scg/">
+<title>Microsoft Social Computing Group Home: red social empresa</title>
+<link>http://research.microsoft.com/scg/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-13T23:49:00Z</dc:date>
+<dc:subject>aplicacion empresa investigacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/empresa" />
+    <rdf:li resource="http://del.icio.us/tag/investigacion" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/aplicacion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrelay.com/fresh/web.pl">
+<title>Torrent Relay - Download torrents without a client</title>
+<link>http://torrelay.com/fresh/web.pl</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-13T06:09:48Z</dc:date>
+<dc:subject>aplicacion util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aplicacion" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsiervos.com/archivo/ordenadores/the-machine-that-changed-the-world.html">
+<title>The machine that changed the world | Microsiervos (Ordenadores)</title>
+<link>http://www.microsiervos.com/archivo/ordenadores/the-machine-that-changed-the-world.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-12T20:09:47Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.killerstartups.com/">
+<title>Today | KillerStartups.com&#x2122;</title>
+<link>http://www.killerstartups.com/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-12T13:45:43Z</dc:date>
+<dc:subject>empresa util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/empresa" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mendeley.com/">
+<title>Mendeley: buscador de investigaci&#xF3;n</title>
+<link>http://www.mendeley.com/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-12T10:23:33Z</dc:date>
+<dc:subject>investigacion trabajo util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/investigacion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tagoo.ru/en/">
+<title>Tagoo :: your mp3 navigator</title>
+<link>http://tagoo.ru/en/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-06T20:00:13Z</dc:date>
+<dc:subject>audio util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://doc.ubuntu-es.org/Alfresco">
+<title>Alfresco - doc.ubuntu-es</title>
+<link>http://doc.ubuntu-es.org/Alfresco</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-05T22:21:32Z</dc:date>
+<dc:subject>util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.alfresco.com/wiki/Installing_Alfresco_on_Ubuntu_7.10#Create_directories_for_variable_data">
+<title>Installing Alfresco on Ubuntu 7.10 - AlfrescoWiki</title>
+<link>http://wiki.alfresco.com/wiki/Installing_Alfresco_on_Ubuntu_7.10#Create_directories_for_variable_data</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-05T21:43:22Z</dc:date>
+<dc:subject>util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.castillayleoneconomica.es/n%BC%2098/mutuas.html">
+<title>mutuas</title>
+<link>http://www.castillayleoneconomica.es/n%BC%2098/mutuas.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-04T17:01:04Z</dc:date>
+<dc:subject>trabajo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marketocracy.com/">
+<title>Marketocracy :: Finding the Best Investors in the World :: McDuff</title>
+<link>http://www.marketocracy.com/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-04T13:31:26Z</dc:date>
+<dc:subject>negocios util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/negocios" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://extensionesfirefox.blogspot.com/2008/06/pronunce-aprende-pronunciar-las.html">
+<title>Extensiones Firefox: Pronunce, aprende a pronunciar las palabras en ingl&#xE9;s</title>
+<link>http://extensionesfirefox.blogspot.com/2008/06/pronunce-aprende-pronunciar-las.html</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-04T13:18:23Z</dc:date>
+<dc:subject>curioso util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/curioso" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.genbeta.com/2008/06/02-especial-ubuntu-instalacion-y-gestion-de-software">
+<title>Especial Ubuntu: instalaci&#xF3;n y gesti&#xF3;n de software</title>
+<link>http://www.genbeta.com/2008/06/02-especial-ubuntu-instalacion-y-gestion-de-software</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-06-02T13:55:10Z</dc:date>
+<dc:subject>linux trabajo util</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/trabajo" />
+    <rdf:li resource="http://del.icio.us/tag/util" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hbc.hackmii.com/about/">
+<title>Wii: The Homebrew Channel</title>
+<link>http://hbc.hackmii.com/about/</link>
+<description></description>
+<dc:creator>ralvarez</dc:creator>
+<dc:date>2008-05-26T00:36:44Z</dc:date>
+<dc:subject>hack juego wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/juego" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

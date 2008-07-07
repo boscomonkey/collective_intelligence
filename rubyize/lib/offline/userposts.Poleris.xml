@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/poleris">
+<title>del.icio.us/poleris</title>
+<link>http://del.icio.us/poleris</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.sec.gov/Archives/edgar/data/1011006/000095013408012084/f41347a7defa14a.htm" />
+  <rdf:li rdf:resource="http://www.theatlantic.com/doc/200807/google" />
+  <rdf:li rdf:resource="http://www.macosxhints.com/article.php?story=2008021122525348" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/634740/" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/753794/" />
+  <rdf:li rdf:resource="http://beta.fatwallet.com/wiki/index.php?a=a_view&#x26;title=Treasury_Bill_FAQ" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/564358" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/100210" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/711457/" />
+  <rdf:li rdf:resource="http://myy.helia.fi/~karte/mount_sshfs.html" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/557133" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/436351" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/508254" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/money-market-accounts.htm" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/341601" />
+  <rdf:li rdf:resource="http://www.fatwallet.com/forums/finance/519997" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/03/21/which-online-high-yield-savings-account-is-best/" />
+  <rdf:li rdf:resource="http://news.ycombinator.com/item?id=224520" />
+  <rdf:li rdf:resource="http://isites.harvard.edu/icb/icb.do?keyword=k14790&#x26;pageid=icb.page69129" />
+  <rdf:li rdf:resource="http://www.ted.com/talks/view/id/97" />
+  <rdf:li rdf:resource="http://www.ted.com/talks/view/id/16" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/hegenderfer/archive/2008/06/20/my-10-mobile-developer-tips.aspx" />
+  <rdf:li rdf:resource="http://www.theamericanscholar.org/su08/elite-deresiewicz.html" />
+  <rdf:li rdf:resource="http://www.topendsports.com/medicine/cramping.htm" />
+  <rdf:li rdf:resource="http://hundredpushups.com/" />
+  <rdf:li rdf:resource="http://bicycletutor.com/" />
+  <rdf:li rdf:resource="http://i-eclectica.org/2007/08/01/little-infinite-poem-by-federico-garcia-lorca/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard" />
+  <rdf:li rdf:resource="http://feedvalidator.org/" />
+  <rdf:li rdf:resource="http://girliemac.com/blog/2008/05/21/opera-lanches-widget-sdk/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-07-06T05:33:20Z</dc:date>
+<dc:subject>research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sec.gov/Archives/edgar/data/1011006/000095013408012084/f41347a7defa14a.htm">
+<title>defa14a</title>
+<link>http://www.sec.gov/Archives/edgar/data/1011006/000095013408012084/f41347a7defa14a.htm</link>
+<description># Yahoo! securities filings on keeping the current board.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-07-02T17:30:54Z</dc:date>
+<dc:subject>yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theatlantic.com/doc/200807/google">
+<title>Is Google Making Us Stupid?</title>
+<link>http://www.theatlantic.com/doc/200807/google</link>
+<description>Our tools affect what we do:
+* VIM, 80 char highlighting
+* Typewriter, terseness.
+* Language, thought?
+* Writing in general?
+We become our tools. Infinite malleability.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-26T00:42:23Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macosxhints.com/article.php?story=2008021122525348">
+<title>macosxhints.com - 10.5: Disable Space switching on Command-Tab in 10.5.2</title>
+<link>http://www.macosxhints.com/article.php?story=2008021122525348</link>
+<description>
+</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-25T18:48:45Z</dc:date>
+<dc:subject>osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/634740/">
+<title>FAQ + discussion: GETTING, KEEPING high credit / FICO scores. Glossary, data points, utilization, etc. Updated 7/23/06</title>
+<link>http://www.fatwallet.com/forums/finance/634740/</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-25T07:02:18Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/753794/">
+<title>18 year old looking to invest in mutual funds has a couple of questions..</title>
+<link>http://www.fatwallet.com/forums/finance/753794/</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-25T07:02:02Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beta.fatwallet.com/wiki/index.php?a=a_view&#x26;title=Treasury_Bill_FAQ">
+<title>Treasury Bill FAQ</title>
+<link>http://beta.fatwallet.com/wiki/index.php?a=a_view&#x26;title=Treasury_Bill_FAQ</link>
+<description># Canonical T-Bill.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-24T10:08:08Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/564358">
+<title>5% Reward Cards.... A comprehensive list!</title>
+<link>http://www.fatwallet.com/forums/finance/564358</link>
+<description># With smileys.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-24T09:35:28Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/100210">
+<title>An Amex Cash Rebate Card &#x26; Amex Blue Cash FAQ and Strategy Thread (updated 8/31/06)</title>
+<link>http://www.fatwallet.com/forums/finance/100210</link>
+<description># Canonical AmEx Blue.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-24T09:31:02Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/711457/">
+<title>What Credit Card Should I Get ? FAQ</title>
+<link>http://www.fatwallet.com/forums/finance/711457/</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-24T08:56:35Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://myy.helia.fi/~karte/mount_sshfs.html">
+<title>mount_sshfs</title>
+<link>http://myy.helia.fi/~karte/mount_sshfs.html</link>
+<description># sshfs tutorial.
+</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-24T00:47:20Z</dc:date>
+<dc:subject>osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/557133">
+<title>Sharebuilder FAQ and Promotion thread</title>
+<link>http://www.fatwallet.com/forums/finance/557133</link>
+<description># Canonical Sharebuilder.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T23:15:57Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/436351">
+<title>GMAC Bank - an internet bank with good rates on money market and CDs</title>
+<link>http://www.fatwallet.com/forums/finance/436351</link>
+<description># Canonical GMAC.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T20:51:39Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/508254">
+<title>The Ultimate USAA Bank Thread</title>
+<link>http://www.fatwallet.com/forums/finance/508254</link>
+<description># Canonical USAA.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T20:40:28Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/money-market-accounts.htm">
+<title>HowStuffWorks &#x22;How do money market accounts work?&#x22;</title>
+<link>http://money.howstuffworks.com/money-market-accounts.htm</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T19:52:02Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/341601">
+<title>&#x3E; $10,000 bank sign-up bonuses updated on 6/21/08</title>
+<link>http://www.fatwallet.com/forums/finance/341601</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T18:04:54Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fatwallet.com/forums/finance/519997">
+<title>The Ultimate HSBC Bank Thread</title>
+<link>http://www.fatwallet.com/forums/finance/519997</link>
+<description># Canonical HSBC.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T18:02:03Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/03/21/which-online-high-yield-savings-account-is-best/">
+<title>Which Online High-Yield Savings Account is Best? &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/03/21/which-online-high-yield-savings-account-is-best/</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T06:56:34Z</dc:date>
+<dc:subject>personal.finance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/personal.finance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.ycombinator.com/item?id=224520">
+<title>Hacker News | Ask HN: What should I try to do while still in college?</title>
+<link>http://news.ycombinator.com/item?id=224520</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T03:10:55Z</dc:date>
+<dc:subject>sys:mentors</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sys:mentors" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://isites.harvard.edu/icb/icb.do?keyword=k14790&#x26;pageid=icb.page69129">
+<title>PSY 1504 Home &#xA7; Psychology 1504 (Spring 2005-2006)</title>
+<link>http://isites.harvard.edu/icb/icb.do?keyword=k14790&#x26;pageid=icb.page69129</link>
+<description># Referred by &#x26;lt;http://www.slideshare.net/missrogue/happiness-as-your-business-model-414463&#x26;gt;.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-23T00:41:01Z</dc:date>
+<dc:subject>videos:cc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos:cc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/talks/view/id/97">
+<title>Dan Gilbert asks, Why are we happy? | Video on TED.com</title>
+<link>http://www.ted.com/talks/view/id/97</link>
+<description># We consistently underestimate the effects of cognitive dissonance in our lives and its power to make us happy. Related: &#x26;lt;http://www.ted.com/talks/view/id/93&#x26;gt;, &#x26;lt;http://video.google.com/videoplay?docid=6127548813950043200&#x26;gt;</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-22T20:38:29Z</dc:date>
+<dc:subject>videos:ted</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos:ted" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/talks/view/id/16">
+<title>Helen Fisher tells us why we love, cheat | Video on TED.com</title>
+<link>http://www.ted.com/talks/view/id/16</link>
+<description># Biochemical foundations of three types of love; antidepressant abuse.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-22T20:36:41Z</dc:date>
+<dc:subject>videos:ted</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos:ted" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/hegenderfer/archive/2008/06/20/my-10-mobile-developer-tips.aspx">
+<title>The Windows Mobile RSS (Reed and Steve Stuff) Feed : My 10 Mobile Developer Tips</title>
+<link>http://blogs.msdn.com/hegenderfer/archive/2008/06/20/my-10-mobile-developer-tips.aspx</link>
+<description></description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-21T09:19:53Z</dc:date>
+<dc:subject>mobile sys:todo2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/sys:todo2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theamericanscholar.org/su08/elite-deresiewicz.html">
+<title>The American Scholar - The Disadvantages of an Elite Education - By William Deresiewicz</title>
+<link>http://www.theamericanscholar.org/su08/elite-deresiewicz.html</link>
+<description>#</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-20T04:58:45Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.topendsports.com/medicine/cramping.htm">
+<title>Muscle Cramps -- gastrocnemius muscle</title>
+<link>http://www.topendsports.com/medicine/cramping.htm</link>
+<description># On jumping.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-19T18:48:34Z</dc:date>
+<dc:subject>fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hundredpushups.com/">
+<title>one hundred push ups</title>
+<link>http://hundredpushups.com/</link>
+<description># Summer workout.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-19T18:25:51Z</dc:date>
+<dc:subject>fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bicycletutor.com/">
+<title>The Bicycle Tutor - Bike Repair Video Tutorials</title>
+<link>http://bicycletutor.com/</link>
+<description># For future reference.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-19T04:21:20Z</dc:date>
+<dc:subject>skills</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/skills" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://i-eclectica.org/2007/08/01/little-infinite-poem-by-federico-garcia-lorca/">
+<title>Little Infinite Poem (by Federico Garcia Lorca)</title>
+<link>http://i-eclectica.org/2007/08/01/little-infinite-poem-by-federico-garcia-lorca/</link>
+<description># To take the wrong road is to arrive at the snow, and to arrive at the snow is to get down on all fours for twenty centuries and eat the grasses of the cemeteries.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-18T23:18:37Z</dc:date>
+<dc:subject>read:poetry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/read:poetry" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard">
+<title>Filesystem Hierarchy Standard - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard</link>
+<description># Formalization and extension of common UNIX practices regarding base directory naming practices.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-18T21:15:57Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://feedvalidator.org/">
+<title>Feed Validator for Atom and RSS</title>
+<link>http://feedvalidator.org/</link>
+<description># Canonical XML validator.</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-17T21:18:17Z</dc:date>
+<dc:subject>xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://girliemac.com/blog/2008/05/21/opera-lanches-widget-sdk/">
+<title>GirlieMac! Blog | Opera Lanches Widget SDK</title>
+<link>http://girliemac.com/blog/2008/05/21/opera-lanches-widget-sdk/</link>
+<description>#    * Apple: iPhone SDK     * Google: Android SDK     * Yahoo!: Blueprint SDK (this is what I am working for)     * Nokia: Widset     * Openwave: Mobile Widget     * Plasmo: Widget</description>
+<dc:creator>Poleris</dc:creator>
+<dc:date>2008-06-17T00:38:56Z</dc:date>
+<dc:subject>mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

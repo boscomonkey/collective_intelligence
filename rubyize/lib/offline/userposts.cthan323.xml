@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cthan323">
+<title>del.icio.us/cthan323</title>
+<link>http://del.icio.us/cthan323</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yudkowsky.net/bayes/bayes.html" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://blog.phpguy.org/2008/04/26/apple-filevault-and-apache-http-server/" />
+  <rdf:li rdf:resource="http://particletree.com/features/how-to-add-an-api-to-your-web-service/" />
+  <rdf:li rdf:resource="http://nubyonrails.com/articles/ask-your-doctor-about-mod_rails" />
+  <rdf:li rdf:resource="http://twoorl.com/" />
+  <rdf:li rdf:resource="http://identi.ca/" />
+  <rdf:li rdf:resource="http://diymacserver.com/installing-apache/configuring-apache-on-leopard/" />
+  <rdf:li rdf:resource="http://httpd.apache.org/docs/2.0/mod/mod_env.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=vk1HvP7NO5w&#x26;eurl=http://www.webmonkey.com/blog/Android_Comes_to_Life%3A_Video_and_Pics_Sneak_Peek" />
+  <rdf:li rdf:resource="http://ssandler.wordpress.com/MTmini/" />
+  <rdf:li rdf:resource="http://www.scribd.com/full/2933314?access_key=key-2lwqsfr2e5s00wi1ztjf" />
+  <rdf:li rdf:resource="http://www.codingthewheel.com/archives/how-i-built-a-working-poker-bot" />
+  <rdf:li rdf:resource="http://www.informit.com/articles/article.aspx?p=673259" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/archives2/the_cost_of_bootstrapping_your_app_the_figures_behind_dropsend_part_one_.php" />
+  <rdf:li rdf:resource="http://www.infosun.fim.uni-passau.de/GTL/" />
+  <rdf:li rdf:resource="http://condor.depaul.edu/~rjohnson/source/graph_ge.c" />
+  <rdf:li rdf:resource="http://psdtuts.com/interface-tutorials/create-a-sleek-high-end-web-design-from-scratch/" />
+  <rdf:li rdf:resource="http://www.fuelyourcreativity.com/2008/04/21/my-top-20-free-fonts-typography-roundup-resources/" />
+  <rdf:li rdf:resource="http://www.serviceisgood.com/" />
+  <rdf:li rdf:resource="http://cdn-www.i-am-bored.com/media/FreePaper.jpg" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=mDx3ruLg1OQ" />
+  <rdf:li rdf:resource="http://www.greenash.net.au/posts/thoughts/hierarchical-url-aliasing" />
+  <rdf:li rdf:resource="http://www.b-list.org/weblog/2006/jun/06/django-tips-extending-user-model/" />
+  <rdf:li rdf:resource="http://www.diveintopython.org/" />
+  <rdf:li rdf:resource="http://cdn1.libsyn.com/linuxreality/linuxreality069.mp3" />
+  <rdf:li rdf:resource="http://tips.webdesign10.com/how-to-make-a-drupal-theme" />
+  <rdf:li rdf:resource="http://learn.awakenedvoice.com/2007/04/14/blocks-in-drupal-5/" />
+  <rdf:li rdf:resource="http://www.blockposters.com/" />
+  <rdf:li rdf:resource="http://www.sellsbrothers.com/fun/msiview/default.aspx?content=question.htm" />
+  <rdf:li rdf:resource="http://okaydave.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://yudkowsky.net/bayes/bayes.html">
+<title>Intuitive Explanation of Bayes Theorem</title>
+<link>http://yudkowsky.net/bayes/bayes.html</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-06T05:03:18Z</dc:date>
+<dc:subject>math tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description>how to do research</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-06T04:53:33Z</dc:date>
+<dc:subject>advice research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.phpguy.org/2008/04/26/apple-filevault-and-apache-http-server/">
+<title>vortex&#x2019;s blog &#xBB; Apple FileVault and Apache HTTP Server</title>
+<link>http://blog.phpguy.org/2008/04/26/apple-filevault-and-apache-http-server/</link>
+<description>check which user your Apache server runs as by opening /etc/apache2/httpd.conf in a text editor and looking for the &#x2018;User&#x2019; directive. The linked article above suggests that on Leopard that the Apache process runs as the user &#x2018;_www&#x2019;, but this wasnt</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-04T18:21:27Z</dc:date>
+<dc:subject>_www apache</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/_www" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://particletree.com/features/how-to-add-an-api-to-your-web-service/">
+<title>How to add an API for your app</title>
+<link>http://particletree.com/features/how-to-add-an-api-to-your-web-service/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-03T20:01:28Z</dc:date>
+<dc:subject>PHP api code programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nubyonrails.com/articles/ask-your-doctor-about-mod_rails">
+<title>Adding _www to OS X groups</title>
+<link>http://nubyonrails.com/articles/ask-your-doctor-about-mod_rails</link>
+<description>Do a search for _www. Should take you to a comment by tells you to add _www to a group.  The comment includes a link to http://www.macosxhints.com/article.php?story=20071101100044328 that shows you how to add the _www to a group</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-03T18:00:55Z</dc:date>
+<dc:subject>_www</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/_www" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twoorl.com/">
+<title>Twoorl</title>
+<link>http://twoorl.com/</link>
+<description>open source twitter</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-03T04:19:01Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://identi.ca/">
+<title>Public timeline - Identi.ca</title>
+<link>http://identi.ca/</link>
+<description>open-source twitter</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-07-03T04:11:03Z</dc:date>
+<dc:subject>opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diymacserver.com/installing-apache/configuring-apache-on-leopard/">
+<title>DIYMacServer &#xBB; Configuring Apache on Leopard</title>
+<link>http://diymacserver.com/installing-apache/configuring-apache-on-leopard/</link>
+<description>:</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-06-30T23:29:12Z</dc:date>
+<dc:subject>_www apache</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/_www" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://httpd.apache.org/docs/2.0/mod/mod_env.html">
+<title>mod_env - Apache HTTP Server</title>
+<link>http://httpd.apache.org/docs/2.0/mod/mod_env.html</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-06-29T18:47:28Z</dc:date>
+<dc:subject>_www apache exec()</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/_www" />
+    <rdf:li resource="http://del.icio.us/tag/exec()" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=vk1HvP7NO5w&#x26;eurl=http://www.webmonkey.com/blog/Android_Comes_to_Life%3A_Video_and_Pics_Sneak_Peek">
+<title>YouTube - Google I/O '08 Keynote: Client, Connectivity, and the Cloud</title>
+<link>http://www.youtube.com/watch?v=vk1HvP7NO5w&#x26;eurl=http://www.webmonkey.com/blog/Android_Comes_to_Life%3A_Video_and_Pics_Sneak_Peek</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-05-30T03:29:23Z</dc:date>
+<dc:subject>android</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/android" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ssandler.wordpress.com/MTmini/">
+<title>MTmini - How To &#xAB; AudioTouch and more</title>
+<link>http://ssandler.wordpress.com/MTmini/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-05-23T22:33:54Z</dc:date>
+<dc:subject>multitouch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/multitouch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/full/2933314?access_key=key-2lwqsfr2e5s00wi1ztjf">
+<title>UnixCommandLineKungFu - Fullscreen</title>
+<link>http://www.scribd.com/full/2933314?access_key=key-2lwqsfr2e5s00wi1ztjf</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-05-10T21:12:02Z</dc:date>
+<dc:subject>commandline unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/commandline" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codingthewheel.com/archives/how-i-built-a-working-poker-bot">
+<title>How I Built a Working Poker Bot, Part 1 - Coding the Wheel</title>
+<link>http://www.codingthewheel.com/archives/how-i-built-a-working-poker-bot</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-05-10T14:21:07Z</dc:date>
+<dc:subject>c++ code hack</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informit.com/articles/article.aspx?p=673259">
+<title>Manipulating C++ Graph Data Structures with the Boost Graph Library &#x3E; Grasping Graph Theory</title>
+<link>http://www.informit.com/articles/article.aspx?p=673259</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-29T01:47:01Z</dc:date>
+<dc:subject>c++</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/archives2/the_cost_of_bootstrapping_your_app_the_figures_behind_dropsend_part_one_.php">
+<title>The Cost of Bootstrapping Your App: The Figures Behind DropSend (part one) - Signal vs. Noise (by 37signals)</title>
+<link>http://www.37signals.com/svn/archives2/the_cost_of_bootstrapping_your_app_the_figures_behind_dropsend_part_one_.php</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-28T19:58:17Z</dc:date>
+<dc:subject>entrepreneur startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infosun.fim.uni-passau.de/GTL/">
+<title>[ GTL ] The Graph Template Library</title>
+<link>http://www.infosun.fim.uni-passau.de/GTL/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-27T20:27:24Z</dc:date>
+<dc:subject>cs357</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cs357" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://condor.depaul.edu/~rjohnson/source/graph_ge.c">
+<title>http://condor.depaul.edu/~rjohnson/source/graph_ge.c</title>
+<link>http://condor.depaul.edu/~rjohnson/source/graph_ge.c</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-27T19:50:51Z</dc:date>
+<dc:subject>cs357</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cs357" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/interface-tutorials/create-a-sleek-high-end-web-design-from-scratch/">
+<title>PSDTUTS - Photoshop Tutorials and Links - Create a Sleek, High-End Web Design from Scratch</title>
+<link>http://psdtuts.com/interface-tutorials/create-a-sleek-high-end-web-design-from-scratch/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-27T01:22:59Z</dc:date>
+<dc:subject>design photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fuelyourcreativity.com/2008/04/21/my-top-20-free-fonts-typography-roundup-resources/">
+<title>My Top 20 Free Fonts + Typography Roundup + Resources | + fuel your creativity // find your spark +</title>
+<link>http://www.fuelyourcreativity.com/2008/04/21/my-top-20-free-fonts-typography-roundup-resources/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-25T03:30:07Z</dc:date>
+<dc:subject>design typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.serviceisgood.com/">
+<title>Ser-vice is good for you him her them us and all our friends too.</title>
+<link>http://www.serviceisgood.com/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-23T06:34:27Z</dc:date>
+<dc:subject>creative design t-shirts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/t-shirts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cdn-www.i-am-bored.com/media/FreePaper.jpg">
+<title>FreePaper.jpg (JPEG Image, 480x599 pixels)</title>
+<link>http://cdn-www.i-am-bored.com/media/FreePaper.jpg</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-14T03:34:55Z</dc:date>
+<dc:subject>creative design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=mDx3ruLg1OQ">
+<title>YouTube - Drupal Pathauto Module</title>
+<link>http://www.youtube.com/watch?v=mDx3ruLg1OQ</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-08T01:51:22Z</dc:date>
+<dc:subject>drupal screencast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greenash.net.au/posts/thoughts/hierarchical-url-aliasing">
+<title>Hierarchical URL aliasing | GreenAsh</title>
+<link>http://www.greenash.net.au/posts/thoughts/hierarchical-url-aliasing</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-08T01:43:54Z</dc:date>
+<dc:subject>drupal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.b-list.org/weblog/2006/jun/06/django-tips-extending-user-model/">
+<title>The B-List: Django tips: extending the User model</title>
+<link>http://www.b-list.org/weblog/2006/jun/06/django-tips-extending-user-model/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-05T04:20:37Z</dc:date>
+<dc:subject>django python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.diveintopython.org/">
+<title>Dive Into Python</title>
+<link>http://www.diveintopython.org/</link>
+<description>free eBook: Dive Into Python</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-05T04:03:15Z</dc:date>
+<dc:subject>free python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cdn1.libsyn.com/linuxreality/linuxreality069.mp3">
+<title>linuxreality069.mp3 (audio/mpeg Object)</title>
+<link>http://cdn1.libsyn.com/linuxreality/linuxreality069.mp3</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-03T13:49:46Z</dc:date>
+<dc:subject>podcasts vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tips.webdesign10.com/how-to-make-a-drupal-theme">
+<title>How to Make a Drupal Theme</title>
+<link>http://tips.webdesign10.com/how-to-make-a-drupal-theme</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-02T23:16:03Z</dc:date>
+<dc:subject>drupal templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://learn.awakenedvoice.com/2007/04/14/blocks-in-drupal-5/">
+<title>Drupal Block Screencast</title>
+<link>http://learn.awakenedvoice.com/2007/04/14/blocks-in-drupal-5/</link>
+<description>For CBA Site</description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-04-02T19:36:27Z</dc:date>
+<dc:subject>drupal screencast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drupal" />
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blockposters.com/">
+<title>Block Posters - Create large wall posters from any image for free!</title>
+<link>http://www.blockposters.com/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-03-31T01:14:54Z</dc:date>
+<dc:subject>design orangecartel poster</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/orangecartel" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sellsbrothers.com/fun/msiview/default.aspx?content=question.htm">
+<title>Microsoft Interview Questions</title>
+<link>http://www.sellsbrothers.com/fun/msiview/default.aspx?content=question.htm</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-03-31T01:12:01Z</dc:date>
+<dc:subject>career interview</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://okaydave.com/">
+<title>Dave Werner's Portfolio 2006</title>
+<link>http://okaydave.com/</link>
+<description></description>
+<dc:creator>cthan323</dc:creator>
+<dc:date>2008-03-31T00:51:01Z</dc:date>
+<dc:subject>creative design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

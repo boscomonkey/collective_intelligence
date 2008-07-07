@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/bmacauley">
+<title>del.icio.us/bmacauley</title>
+<link>http://del.icio.us/bmacauley</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.conversionrater.com/2006/11/29/swopper-chair-review-and-recommendation/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.tummy.com/journals/entries/jafo_20080705_130814" />
+  <rdf:li rdf:resource="http://www.lshift.net/blog/2008/07/01/rabbitmq-xmpp-gateway-released" />
+  <rdf:li rdf:resource="http://www.lshift.net/blog/2008/02/02/how-to-run-rabbitmqs-experimental-stomp-adapter" />
+  <rdf:li rdf:resource="http://kweiner.blogspot.com/2008/05/ejabberd-on-amazon-ec2-ubuntu-ami.html" />
+  <rdf:li rdf:resource="http://www.urbanpuddle.com/articles/2008/05/28/setup-ejabberd-on-ubuntu-hardy-heron" />
+  <rdf:li rdf:resource="http://www.vibramfivefingers.com/" />
+  <rdf:li rdf:resource="http://www.keith-in-training.com/2008/03/vibram-fivefingers-ksos-part-i.html" />
+  <rdf:li rdf:resource="http://www.keith-in-training.com/2007/03/running-in-vibram-five-fingers-sprint.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.process-one.net/en/blogs/article/the_aol_xmpp_scalability_challenge/" />
+  <rdf:li rdf:resource="http://www.infoworld.com/article/03/05/23/21FExmpp_1.html" />
+  <rdf:li rdf:resource="http://www.igniterealtime.org/community/message/162384" />
+  <rdf:li rdf:resource="http://www.igniterealtime.org/community/blogs/ignite/2007/10/31/openfire-unleashed" />
+  <rdf:li rdf:resource="http://www.igniterealtime.org/community/thread/28467" />
+  <rdf:li rdf:resource="http://www.ghacks.net/2008/06/04/disable-automatic-virus-scanning-in-firefox-3/" />
+  <rdf:li rdf:resource="http://performancing.com/blogging-tools/48-unique-ways-use-wordpress" />
+  <rdf:li rdf:resource="http://www.devilsworkshop.org/2008/07/04/how-to-leave-feedburner-without-loosing-your-subscribers/" />
+  <rdf:li rdf:resource="http://www.startupnorth.ca/2008/07/04/stop-waiting-for-your-big-idea-learn-to-get-shit-done/" />
+  <rdf:li rdf:resource="http://www.jasonnazar.com/2008/07/03/raising-money-for-a-startup-company/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://www.ft.com/cms/s/0/25c2c8e0-491e-11dd-9a5f-000077b07658.html?nclick_check=1" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://www.sangrea.net/ohs_dbase/colour-color.htm" />
+  <rdf:li rdf:resource="http://blogs.zdnet.com/service-oriented/?p=1072&#x26;tag=rbxccnbzd1" />
+  <rdf:li rdf:resource="http://blogs.zdnet.com/service-oriented/?p=1075" />
+  <rdf:li rdf:resource="http://www.sfbags.com/products/sleevecases/sleevecases.htm" />
+  <rdf:li rdf:resource="http://www.parislemon.com/2007/10/case-for-bitchmeme.html" />
+  <rdf:li rdf:resource="http://www.drumsnwhistles.com/2007/10/20/are-pr-firms-buying-the-a-list/" />
+  <rdf:li rdf:resource="http://www.calacanis.com/2008/07/03/the-evil-genius-of-nick-denton/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.conversionrater.com/2006/11/29/swopper-chair-review-and-recommendation/">
+<title>Swopper Chair Review and Recommendation &#xBB; Conversion Rater</title>
+<link>http://www.conversionrater.com/2006/11/29/swopper-chair-review-and-recommendation/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-06T11:37:48Z</dc:date>
+<dc:subject>furniture office</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-06T11:31:52Z</dc:date>
+<dc:subject>furniture software_development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/software_development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tummy.com/journals/entries/jafo_20080705_130814">
+<title>ZFS Under Linux: A User Report (tummy.com, ltd. Journal Entry)</title>
+<link>http://www.tummy.com/journals/entries/jafo_20080705_130814</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-06T11:24:30Z</dc:date>
+<dc:subject>backup linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lshift.net/blog/2008/07/01/rabbitmq-xmpp-gateway-released">
+<title>LShift Ltd. &#xBB; RabbitMQ XMPP gateway released</title>
+<link>http://www.lshift.net/blog/2008/07/01/rabbitmq-xmpp-gateway-released</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T14:15:22Z</dc:date>
+<dc:subject>erlang jabber xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lshift.net/blog/2008/02/02/how-to-run-rabbitmqs-experimental-stomp-adapter">
+<title>LShift Ltd. &#xBB; How to run RabbitMQ&#x2019;s experimental STOMP adapter</title>
+<link>http://www.lshift.net/blog/2008/02/02/how-to-run-rabbitmqs-experimental-stomp-adapter</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T14:14:12Z</dc:date>
+<dc:subject>erlang flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kweiner.blogspot.com/2008/05/ejabberd-on-amazon-ec2-ubuntu-ami.html">
+<title>Ken's Blog: ejabberd on Amazon EC2 Ubuntu AMI</title>
+<link>http://kweiner.blogspot.com/2008/05/ejabberd-on-amazon-ec2-ubuntu-ami.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T14:08:21Z</dc:date>
+<dc:subject>amazon erlang jabber</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.urbanpuddle.com/articles/2008/05/28/setup-ejabberd-on-ubuntu-hardy-heron">
+<title>Urban Puddle : Setup ejabberd on Ubuntu Hardy Heron</title>
+<link>http://www.urbanpuddle.com/articles/2008/05/28/setup-ejabberd-on-ubuntu-hardy-heron</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T14:06:04Z</dc:date>
+<dc:subject>erlang ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vibramfivefingers.com/">
+<title>Vibram Five Fingers: Discover the Barefooting Alternative</title>
+<link>http://www.vibramfivefingers.com/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T13:55:15Z</dc:date>
+<dc:subject>clothes fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clothes" />
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.keith-in-training.com/2008/03/vibram-fivefingers-ksos-part-i.html">
+<title>Keith-In-Training: The Vibram FiveFingers KSO's - Part I</title>
+<link>http://www.keith-in-training.com/2008/03/vibram-fivefingers-ksos-part-i.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T13:54:29Z</dc:date>
+<dc:subject>fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.keith-in-training.com/2007/03/running-in-vibram-five-fingers-sprint.html">
+<title>Keith-In-Training: Running in the Vibram Five Fingers Sprint</title>
+<link>http://www.keith-in-training.com/2007/03/running-in-vibram-five-fingers-sprint.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T13:52:51Z</dc:date>
+<dc:subject>fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T13:41:39Z</dc:date>
+<dc:subject>software_development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software_development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.process-one.net/en/blogs/article/the_aol_xmpp_scalability_challenge/">
+<title>The AOL XMPP scalability challenge - ProcessOne</title>
+<link>http://www.process-one.net/en/blogs/article/the_aol_xmpp_scalability_challenge/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T11:21:26Z</dc:date>
+<dc:subject>erlang jabber openfire scalability xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/openfire" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoworld.com/article/03/05/23/21FExmpp_1.html">
+<title>XMPP vs SIMPLE: The race for messaging standards | InfoWorld | Analysis | 2003-05-23 | By Cathleen Moore</title>
+<link>http://www.infoworld.com/article/03/05/23/21FExmpp_1.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T11:21:00Z</dc:date>
+<dc:subject>jabber messaging xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.igniterealtime.org/community/message/162384">
+<title>Ignite Realtime: openfire scaling s2s vs CM vs clustering ...</title>
+<link>http://www.igniterealtime.org/community/message/162384</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T11:08:22Z</dc:date>
+<dc:subject>jabber openfire xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openfire" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.igniterealtime.org/community/blogs/ignite/2007/10/31/openfire-unleashed">
+<title>Ignite Realtime: Ignite Realtime Blog: Openfire Unleashed</title>
+<link>http://www.igniterealtime.org/community/blogs/ignite/2007/10/31/openfire-unleashed</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T10:55:30Z</dc:date>
+<dc:subject>jabber openfire xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/openfire" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.igniterealtime.org/community/thread/28467">
+<title>Ignite Realtime: Openfire scalability architecture ...</title>
+<link>http://www.igniterealtime.org/community/thread/28467</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T10:52:27Z</dc:date>
+<dc:subject>jabber openfire xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/openfire" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ghacks.net/2008/06/04/disable-automatic-virus-scanning-in-firefox-3/">
+<title>Disable Automatic Virus Scanning in Firefox 3</title>
+<link>http://www.ghacks.net/2008/06/04/disable-automatic-virus-scanning-in-firefox-3/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T09:39:11Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://performancing.com/blogging-tools/48-unique-ways-use-wordpress">
+<title>48 Unique Ways To Use WordPress | Performancing.com</title>
+<link>http://performancing.com/blogging-tools/48-unique-ways-use-wordpress</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T07:34:33Z</dc:date>
+<dc:subject>wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.devilsworkshop.org/2008/07/04/how-to-leave-feedburner-without-loosing-your-subscribers/">
+<title>How-To Leave FeedBurner Without Loosing Your Subscribers! | Welcome To Devils Workshop</title>
+<link>http://www.devilsworkshop.org/2008/07/04/how-to-leave-feedburner-without-loosing-your-subscribers/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-05T07:28:40Z</dc:date>
+<dc:subject>feedburner google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/feedburner" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.startupnorth.ca/2008/07/04/stop-waiting-for-your-big-idea-learn-to-get-shit-done/">
+<title>StartupNorth &#xBB; Blog Archive &#xBB; Stop waiting for your big idea, learn to get shit done</title>
+<link>http://www.startupnorth.ca/2008/07/04/stop-waiting-for-your-big-idea-learn-to-get-shit-done/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T20:18:37Z</dc:date>
+<dc:subject>startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jasonnazar.com/2008/07/03/raising-money-for-a-startup-company/">
+<title> Raising Money for a StartUp Company</title>
+<link>http://www.jasonnazar.com/2008/07/03/raising-money-for-a-startup-company/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T20:14:05Z</dc:date>
+<dc:subject>startup vc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/vc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T16:47:52Z</dc:date>
+<dc:subject>lifehacks windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ft.com/cms/s/0/25c2c8e0-491e-11dd-9a5f-000077b07658.html?nclick_check=1">
+<title>FT.com / World - IT graduates struggle to find work</title>
+<link>http://www.ft.com/cms/s/0/25c2c8e0-491e-11dd-9a5f-000077b07658.html?nclick_check=1</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T13:02:30Z</dc:date>
+<dc:subject>career</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T11:27:13Z</dc:date>
+<dc:subject>analytics del.icio.us socialnetworks webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sangrea.net/ohs_dbase/colour-color.htm">
+<title>OHS Database: Colour / color &#x26; eye strain</title>
+<link>http://www.sangrea.net/ohs_dbase/colour-color.htm</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T10:57:40Z</dc:date>
+<dc:subject>hardware health pc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.zdnet.com/service-oriented/?p=1072&#x26;tag=rbxccnbzd1">
+<title>How to tap into the largest SOA in the world | Service-Oriented Architecture | ZDNet.com</title>
+<link>http://blogs.zdnet.com/service-oriented/?p=1072&#x26;tag=rbxccnbzd1</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T10:07:45Z</dc:date>
+<dc:subject>soa webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.zdnet.com/service-oriented/?p=1075">
+<title>Analyst: why even the best SOAs are &#x2019;stalling&#x2019; | Service-Oriented Architecture | ZDNet.com</title>
+<link>http://blogs.zdnet.com/service-oriented/?p=1075</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T09:46:47Z</dc:date>
+<dc:subject>soa webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soa" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sfbags.com/products/sleevecases/sleevecases.htm">
+<title>SFBags - WaterField Designs - MacBook Air Sleeve - Macbook Air Case - Laptop Sleeve - Computer Sleeve - Notebook Sleeve - Laptop Case - MacBook Sleeve - PC Sleeve - DVD Player Case</title>
+<link>http://www.sfbags.com/products/sleevecases/sleevecases.htm</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T09:07:22Z</dc:date>
+<dc:subject>dell hardware pc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dell" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.parislemon.com/2007/10/case-for-bitchmeme.html">
+<title>ParisLemon: The Case for a &#x22;Bitchmeme&#x22;</title>
+<link>http://www.parislemon.com/2007/10/case-for-bitchmeme.html</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T07:56:04Z</dc:date>
+<dc:subject>weblogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weblogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drumsnwhistles.com/2007/10/20/are-pr-firms-buying-the-a-list/">
+<title>odd time signatures &#xBB; Blog Archive &#xBB; Are PR Firms Buying the A-List?</title>
+<link>http://www.drumsnwhistles.com/2007/10/20/are-pr-firms-buying-the-a-list/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T07:54:26Z</dc:date>
+<dc:subject>marketing weblogs writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/weblogs" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.calacanis.com/2008/07/03/the-evil-genius-of-nick-denton/">
+<title>The (evil?) genius of Nick Denton</title>
+<link>http://www.calacanis.com/2008/07/03/the-evil-genius-of-nick-denton/</link>
+<description></description>
+<dc:creator>bmacauley</dc:creator>
+<dc:date>2008-07-04T07:25:46Z</dc:date>
+<dc:subject>startup weblogs writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weblogs" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

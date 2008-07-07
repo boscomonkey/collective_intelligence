@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/nullbit">
+<title>del.icio.us/nullbit</title>
+<link>http://del.icio.us/nullbit</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www7.plala.or.jp/keny01/index.htm" />
+  <rdf:li rdf:resource="http://www.nicovideo.jp/watch/sm2853340" />
+  <rdf:li rdf:resource="http://gihyo.jp/dev/feature/01/memcached" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/tikani_nemuru_M/20080703/1215073074" />
+  <rdf:li rdf:resource="http://kengo.preston-net.com/archives/003429.shtml" />
+  <rdf:li rdf:resource="http://wiki.mozilla.org/Prism" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/ja/firefox/addon/6665" />
+  <rdf:li rdf:resource="http://www.infoq.com/jp/news/2008/04/mozilla-prism-0.9-released" />
+  <rdf:li rdf:resource="http://www.ksknet.net/linuxjq/lastcomm.html" />
+  <rdf:li rdf:resource="http://alfalfa.livedoor.biz/archives/51303891.html" />
+  <rdf:li rdf:resource="http://cocelo.s201.xrea.com/wiki/index.php?BSD%2FFreeBSD" />
+  <rdf:li rdf:resource="http://www.apachefriends.org/jp/xampp-windows.html" />
+  <rdf:li rdf:resource="http://portableapps.com/apps" />
+  <rdf:li rdf:resource="http://cyberam.dip.jp/linux_command/command/text_proc.html" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51074877.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/07/03/001/index.html" />
+  <rdf:li rdf:resource="http://www.zoome.jp/" />
+  <rdf:li rdf:resource="http://circle.zoome.jp/nousagi/media/3/" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0807/02/news046.html" />
+  <rdf:li rdf:resource="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/EijiYoshida/20080625/1214342918" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/ja/firefox/addon/722" />
+  <rdf:li rdf:resource="http://anond.hatelabo.jp/20080408063403" />
+  <rdf:li rdf:resource="http://dic.nicovideo.jp/a/%E3%83%AC%E3%83%B3%E3%81%AE%E5%B0%86%E6%9D%A5%E3%81%8C%E4%B8%8D%E5%AE%89%E3%81%AB%E3%81%AA%E3%82%8B%E5%8B%95%E7%94%BB" />
+  <rdf:li rdf:resource="http://www.prweb.com/releases/2008/6/prweb1042664.htm" />
+  <rdf:li rdf:resource="http://anond.hatelabo.jp/20080626222606" />
+  <rdf:li rdf:resource="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" />
+  <rdf:li rdf:resource="http://japanese.engadget.com/2008/06/27/iriver-lplayer-7-4-8gb-1-8800/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/himesuke/20080629/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-06T02:10:29Z</dc:date>
+<dc:subject>blog business learning money wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www7.plala.or.jp/keny01/index.htm">
+<title>&#x30D7;&#x30ED;&#x30B0;&#x30E9;&#x30DE;&#x306E;&#x96A0;&#x308C;&#x91CC;</title>
+<link>http://www7.plala.or.jp/keny01/index.htm</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-05T20:12:57Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nicovideo.jp/watch/sm2853340">
+<title>&#xFF2E;&#xFF28;&#xFF2B;&#x3067;&#x306E;&#x653E;&#x9001;&#x4E8B;&#x6545;&#x2010;&#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x52D5;&#x753B;(&#x590F;)</title>
+<link>http://www.nicovideo.jp/watch/sm2853340</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-05T12:43:39Z</dc:date>
+<dc:subject>niconico</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/niconico" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gihyo.jp/dev/feature/01/memcached">
+<title>&#x7279;&#x96C6;&#xFF1A;memcached&#x3092;&#x77E5;&#x308A;&#x5C3D;&#x304F;&#x3059;&#xFF5C;gihyo.jp &#x2026; &#x6280;&#x8853;&#x8A55;&#x8AD6;&#x793E;</title>
+<link>http://gihyo.jp/dev/feature/01/memcached</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-05T12:39:17Z</dc:date>
+<dc:subject>memcached</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memcached" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/tikani_nemuru_M/20080703/1215073074">
+<title>&#x6570;&#x5B66;&#x306E;&#x5B9A;&#x671F;&#x8A66;&#x9A13;&#x3067;&#x5225;&#x89E3;&#x304C;&#x30D0;&#x30C4;&#x306B;&#x3055;&#x308C;&#x308B;&#x3088;&#x3046;&#x306B;&#x306A;&#x3063;&#x305F;&#x7406;&#x7531; - &#x5730;&#x4E0B;&#x751F;&#x6D3B;&#x8005;&#x306E;&#x624B;&#x904A;&#x3073;</title>
+<link>http://d.hatena.ne.jp/tikani_nemuru_M/20080703/1215073074</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-05T12:25:01Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kengo.preston-net.com/archives/003429.shtml">
+<title>Going My Way: Web &#x30A2;&#x30D7;&#x30EA;&#x3092;&#x624B;&#x8EFD;&#x306B;&#x8D77;&#x52D5;&#x53EF;&#x80FD;&#x306A; Prism &#x7528;&#x30B7;&#x30E7;&#x30FC;&#x30C8;&#x30AB;&#x30C3;&#x30C8;</title>
+<link>http://kengo.preston-net.com/archives/003429.shtml</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T03:38:22Z</dc:date>
+<dc:subject>prism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.mozilla.org/Prism">
+<title>Prism - MozillaWiki</title>
+<link>http://wiki.mozilla.org/Prism</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T02:50:55Z</dc:date>
+<dc:subject>prism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/ja/firefox/addon/6665">
+<title>Prism for Firefox :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/ja/firefox/addon/6665</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T02:48:47Z</dc:date>
+<dc:subject>extension</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/jp/news/2008/04/mozilla-prism-0.9-released">
+<title>InfoQ: Mozilla Prism 0.9 &#x30EA;&#x30EA;&#x30FC;&#x30B9;</title>
+<link>http://www.infoq.com/jp/news/2008/04/mozilla-prism-0.9-released</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T02:39:37Z</dc:date>
+<dc:subject>prism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ksknet.net/linuxjq/lastcomm.html">
+<title>lastcomm - &#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x306E;&#x5B9F;&#x884C;&#x5C65;&#x6B74;&#x3092;&#x53C2;&#x7167;</title>
+<link>http://www.ksknet.net/linuxjq/lastcomm.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T02:19:29Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alfalfa.livedoor.biz/archives/51303891.html">
+<title>&#x9D8F;&#x80F8;&#x8089;&#x30FB;&#x9D8F;&#x3080;&#x306D;&#x8089;&#x30FB;&#x9D8F;&#x30E0;&#x30CD;&#x8089;&#x306E;&#x6599;&#x7406;:&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30EB;&#x30D5;&#x30A1;&#x30E2;&#x30B6;&#x30A4;&#x30AF;</title>
+<link>http://alfalfa.livedoor.biz/archives/51303891.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T01:37:36Z</dc:date>
+<dc:subject>2ch recipe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/2ch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cocelo.s201.xrea.com/wiki/index.php?BSD%2FFreeBSD">
+<title>BSD/FreeBSD - PukiWiki</title>
+<link>http://cocelo.s201.xrea.com/wiki/index.php?BSD%2FFreeBSD</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-04T01:04:14Z</dc:date>
+<dc:subject>FreeBSD tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/FreeBSD" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apachefriends.org/jp/xampp-windows.html">
+<title>apache friends - xampp for windows</title>
+<link>http://www.apachefriends.org/jp/xampp-windows.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-03T14:55:55Z</dc:date>
+<dc:subject>httpd mysql perl php windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/httpd" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://portableapps.com/apps">
+<title>Applications | PortableApps.com - Portable software for USB drives</title>
+<link>http://portableapps.com/apps</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-03T14:52:36Z</dc:date>
+<dc:subject>freeware usb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usb" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cyberam.dip.jp/linux_command/command/text_proc.html">
+<title>&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x51E6;&#x7406;&#x30B3;&#x30DE;&#x30F3;&#x30C9;</title>
+<link>http://cyberam.dip.jp/linux_command/command/text_proc.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-03T01:50:30Z</dc:date>
+<dc:subject>command reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/command" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51074877.html">
+<title>404 Blog Not Found:perl - &#x30C7;&#x30D5;&#x30A9;&#x30EB;&#x30C8;&#x5024;&#x306E;perl&#x3089;&#x3057;&#x3044;&#x6307;&#x5B9A;&#x6CD5;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51074877.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-03T01:39:40Z</dc:date>
+<dc:subject>perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/07/03/001/index.html">
+<title>&#x30CF;&#x30D4;&#x30CD;&#x30C3;&#x30C8;&#x3001;&#x5730;&#x7344;&#x306E;&#x5E95;&#x304B;&#x3089;&#x30AF;&#x30E9;&#x30A6;&#x30B6;&#x30FC;&#x3055;&#x3093;&#x304C;&#x964D;&#x81E8;--&#x306A;&#x308A;&#x304D;&#x308A;&#x30B3;&#x30B9;&#x30C1;&#x30E5;&#x30FC;&#x30E0;&#x767A;&#x58F2; | &#x30DB;&#x30D3;&#x30FC; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/07/03/001/index.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-03T01:37:52Z</dc:date>
+<dc:subject>costume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/costume" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zoome.jp/">
+<title>&#x52D5;&#x753B; - &#x7121;&#x6599;&#x306E;&#x30E0;&#x30FC;&#x30D3;&#x30FC;&#x30B3;&#x30DF;&#x30E5;&#x30CB;&#x30C6;&#x30A3; &#x22;zoome&#x22;</title>
+<link>http://www.zoome.jp/</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T15:00:56Z</dc:date>
+<dc:subject>zoome</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zoome" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://circle.zoome.jp/nousagi/media/3/">
+<title>&#x52D5;&#x753B;&#x5171;&#x6709;SNS&#x22;zoome&#x22; &#xFF5E; &#x3010;MAD&#x3011;&#x5F97;&#x4F53;&#x304C;&#x77E5;&#x308C;&#x306A;&#x3044;&#xFF08;&#x3072;&#x3060;&#x307E;&#x308A;&#x30B9;&#x30B1;&#x30C3;&#x30C1;&#xD7;365&#xFF09; - &#x4E09;&#x6708;&#x306E;&#x30CE;&#x30A6;&#x30B5;&#x30AE;</title>
+<link>http://circle.zoome.jp/nousagi/media/3/</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T14:34:40Z</dc:date>
+<dc:subject>zoome</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/zoome" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0807/02/news046.html">
+<title>&#x4ED5;&#x4E8B;&#x8015;&#x5177;&#xFF1A;&#x30A8;&#x30A4;&#x30B5;&#x30FC;&#x3001;A4&#x306E;&#x534A;&#x5206;&#x30B5;&#x30A4;&#x30BA;&#x3067;&#x91CD;&#x3055;1.2&#x30AD;&#x30ED;&#x306E;&#x30E2;&#x30D0;&#x30A4;&#x30EB;&#x30D7;&#x30ED;&#x30B8;&#x30A7;&#x30AF;&#x30BF; - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0807/02/news046.html</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T07:14:12Z</dc:date>
+<dc:subject>AV</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AV" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide">
+<title>&#x5909;&#x96FB;&#x5DE5; - Google C++&#x30B9;&#x30BF;&#x30A4;&#x30EB;&#x30AC;&#x30A4;&#x30C9;&#x65E5;&#x672C;&#x8A9E;&#x8A33;</title>
+<link>http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T03:54:31Z</dc:date>
+<dc:subject>c++ google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/EijiYoshida/20080625/1214342918">
+<title>tcpdump&#x3084;wireshark&#x3067;TCP&#x5236;&#x5FA1;&#x30D5;&#x30E9;&#x30B0;&#x3092;&#x6307;&#x5B9A;&#x3057;&#x3066;&#x30D1;&#x30B1;&#x30C3;&#x30C8;&#x3092;&#x53CE;&#x96C6;&#x3059;&#x308B;&#x65B9;&#x6CD5; - Eiji James Yoshida&#x306E;&#x8A18;&#x9332;</title>
+<link>http://d.hatena.ne.jp/EijiYoshida/20080625/1214342918</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T03:51:22Z</dc:date>
+<dc:subject>network tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/ja/firefox/addon/722">
+<title>NoScript :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/ja/firefox/addon/722</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-02T03:34:05Z</dc:date>
+<dc:subject>Extension</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anond.hatelabo.jp/20080408063403">
+<title>&#x4ED5;&#x4E8B;&#x306E;&#x6CD5;&#x5247;</title>
+<link>http://anond.hatelabo.jp/20080408063403</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-01T13:17:14Z</dc:date>
+<dc:subject>hatena</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hatena" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dic.nicovideo.jp/a/%E3%83%AC%E3%83%B3%E3%81%AE%E5%B0%86%E6%9D%A5%E3%81%8C%E4%B8%8D%E5%AE%89%E3%81%AB%E3%81%AA%E3%82%8B%E5%8B%95%E7%94%BB">
+<title>&#x30EC;&#x30F3;&#x306E;&#x5C06;&#x6765;&#x304C;&#x4E0D;&#x5B89;&#x306B;&#x306A;&#x308B;&#x52D5;&#x753B;&#x3068;&#x306F; (&#x308C;&#x3093;&#x306E;&#x3057;&#x3087;&#x3046;&#x3089;&#x3044;&#x304C;&#x3075;&#x3042;&#x3093;&#x306B;&#x306A;&#x308B;&#x3069;&#x3046;&#x304C;&#x3068;&#x306F;) - &#x30CB;&#x30B3;&#x30CB;&#x30B3;&#x5927;&#x767E;&#x79D1;</title>
+<link>http://dic.nicovideo.jp/a/%E3%83%AC%E3%83%B3%E3%81%AE%E5%B0%86%E6%9D%A5%E3%81%8C%E4%B8%8D%E5%AE%89%E3%81%AB%E3%81%AA%E3%82%8B%E5%8B%95%E7%94%BB</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-01T11:19:02Z</dc:date>
+<dc:subject>niconico</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/niconico" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prweb.com/releases/2008/6/prweb1042664.htm">
+<title>FreeBSD Technologies in New Firefox 3 Browser</title>
+<link>http://www.prweb.com/releases/2008/6/prweb1042664.htm</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-01T11:15:19Z</dc:date>
+<dc:subject>Firefox FreeBSD</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/FreeBSD" />
+    <rdf:li resource="http://del.icio.us/tag/Firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anond.hatelabo.jp/20080626222606">
+<title>&#x6D3E;&#x9063;SE&#x306E;&#x7D66;&#x4E0E;&#x660E;&#x7D30;</title>
+<link>http://anond.hatelabo.jp/20080626222606</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-07-01T10:13:06Z</dc:date>
+<dc:subject>hatena</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hatena" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
+<title>C++ Style Guide</title>
+<link>http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-06-30T22:35:42Z</dc:date>
+<dc:subject>c++ google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://japanese.engadget.com/2008/06/27/iriver-lplayer-7-4-8gb-1-8800/">
+<title>iriver Lplayer&#x306F;7&#x6708;4&#x65E5;&#x767A;&#x58F2;&#x3001;8GB 1&#x4E07;8800&#x5186; - Engadget Japanese</title>
+<link>http://japanese.engadget.com/2008/06/27/iriver-lplayer-7-4-8gb-1-8800/</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-06-30T14:08:07Z</dc:date>
+<dc:subject>gadget</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gadget" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/himesuke/20080629/p1">
+<title>Vim &#x306B;&#x304A;&#x3051;&#x308B;&#x9AD8;&#x901F;&#x79FB;&#x52D5;&#x3042;&#x308C;&#x3053;&#x308C;&#xFF20;Ruby - himesuke&#x2019;s STEP-log</title>
+<link>http://d.hatena.ne.jp/himesuke/20080629/p1</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-06-30T14:00:16Z</dc:date>
+<dc:subject>ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1">
+<title> &#x7761;&#x7720;&#x306E;&#x8CEA;&#x3092;&#x6700;&#x9AD8;&#x306B;&#x3059;&#x308B;&#x3001;&#x3061;&#x3087;&#x3063;&#x3068;&#x5909;&#x308F;&#x3063;&#x305F;&#x5915;&#x98DF;&#x306E;&#x3068;&#x308A;&#x65B9; - &#x5206;&#x88C2;&#x52D8;&#x9055;&#x3044;&#x541B;&#x5287;&#x5834;</title>
+<link>http://d.hatena.ne.jp/fromdusktildawn/20080629/p1</link>
+<description></description>
+<dc:creator>nullbit</dc:creator>
+<dc:date>2008-06-30T12:23:51Z</dc:date>
+<dc:subject>life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

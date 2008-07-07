@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tubanator">
+<title>del.icio.us/tubanator</title>
+<link>http://del.icio.us/tubanator</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26" />
+  <rdf:li rdf:resource="http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.theonion.com/content/video/today_now_how_to_pretend_you_give?utm_source=embedded_video" />
+  <rdf:li rdf:resource="http://homepage.mac.com/sigfpe/Computing/diff.html" />
+  <rdf:li rdf:resource="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" />
+  <rdf:li rdf:resource="http://web.psung.name/emacstips/topten.html" />
+  <rdf:li rdf:resource="http://book.realworldhaskell.org/beta/" />
+  <rdf:li rdf:resource="http://freshmeat.net/articles/view/667/" />
+  <rdf:li rdf:resource="http://skim-app.sourceforge.net/" />
+  <rdf:li rdf:resource="http://blog.sontek.net/2008/05/11/python-with-a-modular-ide-vim/" />
+  <rdf:li rdf:resource="http://ifacethoughts.net/2008/05/11/task-management-using-vim/" />
+  <rdf:li rdf:resource="http://osiris.urbanna.net/tao.html" />
+  <rdf:li rdf:resource="http://programminggroundup.blogspot.com/2007/01/programming-from-ground-up.html" />
+  <rdf:li rdf:resource="http://masters-of-the-void.com/" />
+  <rdf:li rdf:resource="http://mikael.jansson.be/hacking/lim" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/learning-python-design-patterns-through-video-lectures/" />
+  <rdf:li rdf:resource="http://www.usingmac.com/2007/12/6/leopard-tweaking-another-terminal-commands" />
+  <rdf:li rdf:resource="http://de.wikipedia.org/wiki/Hilfe:TeX" />
+  <rdf:li rdf:resource="http://people.cs.uu.nl/andres/NixOS.html" />
+  <rdf:li rdf:resource="http://www.lightbird.net/py-by-example/" />
+  <rdf:li rdf:resource="http://en.wikiquote.org/wiki/Erik_Naggum" />
+  <rdf:li rdf:resource="http://www.onlinetveasy.com/" />
+  <rdf:li rdf:resource="http://squeakbyexample.org/" />
+  <rdf:li rdf:resource="http://www.fprintf.net/vimCheatSheet.html" />
+  <rdf:li rdf:resource="http://citeseer.ist.psu.edu/karger97consistent.html" />
+  <rdf:li rdf:resource="http://en.wikiquote.org/wiki/David_Ogilvy" />
+  <rdf:li rdf:resource="http://mikael.jansson.be/journal/2008/03/newbie-guide-to-lisp-oo" />
+  <rdf:li rdf:resource="http://www.attractology.com/" />
+  <rdf:li rdf:resource="http://the-programmers-stone.com/about/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-07-06T09:54:53Z</dc:date>
+<dc:subject>book free java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26">
+<title>25 Clever Bar Pick Up Lines | Sloshspot Blog</title>
+<link>http://www.sloshspot.com/blog/07-02-2008/25-Clever-Bar-Pick-Up-Lines-26</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-07-04T07:03:28Z</dc:date>
+<dc:subject>funny humor pickup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/pickup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html">
+<title>Google Testing Blog: Announcing: New Google C++ Testing Framework</title>
+<link>http://googletesting.blogspot.com/2008/07/announcing-new-google-c-testing.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-07-04T06:59:50Z</dc:date>
+<dc:subject>c++ framework google opensource testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-07-01T20:28:43Z</dc:date>
+<dc:subject>programming reference tips vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theonion.com/content/video/today_now_how_to_pretend_you_give?utm_source=embedded_video">
+<title>Today Now!: How To Pretend You Give A Shit About The Election | The Onion - America's Finest News Source</title>
+<link>http://www.theonion.com/content/video/today_now_how_to_pretend_you_give?utm_source=embedded_video</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-06-30T20:30:15Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://homepage.mac.com/sigfpe/Computing/diff.html">
+<title>Differentiation of Datastructures for Non-Functional Programmers</title>
+<link>http://homepage.mac.com/sigfpe/Computing/diff.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-06-29T13:15:54Z</dc:date>
+<dc:subject>calculus functional programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/calculus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
+<title>C++ Style Guide</title>
+<link>http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-06-29T08:46:08Z</dc:date>
+<dc:subject>c++ code google programming style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.psung.name/emacstips/topten.html">
+<title>Top ten essential Emacs tips</title>
+<link>http://web.psung.name/emacstips/topten.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-06-28T16:19:04Z</dc:date>
+<dc:subject>emacs help programming tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/help" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://book.realworldhaskell.org/beta/">
+<title>Real World Haskell</title>
+<link>http://book.realworldhaskell.org/beta/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-06-22T13:56:49Z</dc:date>
+<dc:subject>Haskell book online programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Haskell" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freshmeat.net/articles/view/667/">
+<title>freshmeat.net: Tutorials - Making Presentations with LaTeX and Prosper</title>
+<link>http://freshmeat.net/articles/view/667/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-31T13:29:47Z</dc:date>
+<dc:subject>howto latex presentation prosper tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/prosper" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://skim-app.sourceforge.net/">
+<title>Skim | Home</title>
+<link>http://skim-app.sourceforge.net/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-26T19:37:49Z</dc:date>
+<dc:subject>mac opensource osx pdf software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.sontek.net/2008/05/11/python-with-a-modular-ide-vim/">
+<title>sontek ( John M. Anderson ) &#xBB; Python with a modular IDE (Vim)</title>
+<link>http://blog.sontek.net/2008/05/11/python-with-a-modular-ide-vim/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-12T18:52:09Z</dc:date>
+<dc:subject>programming python tips vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ifacethoughts.net/2008/05/11/task-management-using-vim/">
+<title>iface thoughts | Thoughts on software development and related, by Abhijit Nadgouda</title>
+<link>http://ifacethoughts.net/2008/05/11/task-management-using-vim/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-12T10:12:00Z</dc:date>
+<dc:subject>gtd management productivity task vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/task" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osiris.urbanna.net/tao.html">
+<title>The Tao of Programming, Geoffery James</title>
+<link>http://osiris.urbanna.net/tao.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-09T12:36:55Z</dc:date>
+<dc:subject>books philosophy programming tao</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tao" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://programminggroundup.blogspot.com/2007/01/programming-from-ground-up.html">
+<title>Programming from the Ground Up: Programming from the Ground Up</title>
+<link>http://programminggroundup.blogspot.com/2007/01/programming-from-ground-up.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-06T12:13:13Z</dc:date>
+<dc:subject>book linux programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://masters-of-the-void.com/">
+<title>Masters of the Void: Home</title>
+<link>http://masters-of-the-void.com/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-05-04T12:31:05Z</dc:date>
+<dc:subject>mac osx programming tutorial xcode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/xcode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mikael.jansson.be/hacking/lim">
+<title>Lim: Lisp in Vim | Mikael Jansson</title>
+<link>http://mikael.jansson.be/hacking/lim</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-26T17:05:13Z</dc:date>
+<dc:subject>common-lisp editor lisp programming sbcl tools vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/common-lisp" />
+    <rdf:li resource="http://del.icio.us/tag/sbcl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/learning-python-design-patterns-through-video-lectures/">
+<title>Learning Python Design Patterns Through Video Lectures - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/learning-python-design-patterns-through-video-lectures/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-24T15:55:36Z</dc:date>
+<dc:subject>patterns programming python tutorial video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usingmac.com/2007/12/6/leopard-tweaking-another-terminal-commands">
+<title>UsingMac - Leopard Tweaking - Another Terminal Commands</title>
+<link>http://www.usingmac.com/2007/12/6/leopard-tweaking-another-terminal-commands</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-17T15:25:54Z</dc:date>
+<dc:subject>leopard mac osx terminal tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/leopard" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/terminal" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.wikipedia.org/wiki/Hilfe:TeX">
+<title>Hilfe:TeX &#x2013; Wikipedia</title>
+<link>http://de.wikipedia.org/wiki/Hilfe:TeX</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-12T17:23:18Z</dc:date>
+<dc:subject>latex math reference wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/latex" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.cs.uu.nl/andres/NixOS.html">
+<title>NixOS: A Purely Functional Linux Distribution</title>
+<link>http://people.cs.uu.nl/andres/NixOS.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-12T16:00:54Z</dc:date>
+<dc:subject>functional icfp linux paper programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/functional" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/icfp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lightbird.net/py-by-example/">
+<title>Python-by-example</title>
+<link>http://www.lightbird.net/py-by-example/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-04-02T17:11:22Z</dc:date>
+<dc:subject>programming python reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikiquote.org/wiki/Erik_Naggum">
+<title>Erik Naggum - Wikiquote</title>
+<link>http://en.wikiquote.org/wiki/Erik_Naggum</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-30T13:55:37Z</dc:date>
+<dc:subject>humor lisp programming quotes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quotes" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onlinetveasy.com/">
+<title>Season 1</title>
+<link>http://www.onlinetveasy.com/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-24T13:52:41Z</dc:date>
+<dc:subject>Free simpsons tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/simpsons" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://squeakbyexample.org/">
+<title>Squeak by Example</title>
+<link>http://squeakbyexample.org/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-24T10:23:05Z</dc:date>
+<dc:subject>book programming smalltalk squeak</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/squeak" />
+    <rdf:li resource="http://del.icio.us/tag/smalltalk" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fprintf.net/vimCheatSheet.html">
+<title>Vim Commands Cheat Sheet</title>
+<link>http://www.fprintf.net/vimCheatSheet.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-21T18:04:06Z</dc:date>
+<dc:subject>cheatsheet reference vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://citeseer.ist.psu.edu/karger97consistent.html">
+<title>Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web - Karger, Lehman, Leighton, Levine, Lewin, Panigrahy (ResearchIndex)</title>
+<link>http://citeseer.ist.psu.edu/karger97consistent.html</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-18T09:44:07Z</dc:date>
+<dc:subject>dht distributed hash programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/hash" />
+    <rdf:li resource="http://del.icio.us/tag/dht" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikiquote.org/wiki/David_Ogilvy">
+<title>David Ogilvy - Wikiquote</title>
+<link>http://en.wikiquote.org/wiki/David_Ogilvy</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-18T08:30:01Z</dc:date>
+<dc:subject>advertising ogilvy quotes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quotes" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/ogilvy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mikael.jansson.be/journal/2008/03/newbie-guide-to-lisp-oo">
+<title>Mikael Jansson &#xBB; C++ Coder&#x2019;s Newbie Guide to Lisp-style OO</title>
+<link>http://mikael.jansson.be/journal/2008/03/newbie-guide-to-lisp-oo</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-11T09:46:12Z</dc:date>
+<dc:subject>c++ clos lisp oop programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/clos" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.attractology.com/">
+<title>Attractology Seduction Guide | Create Attraction, Be Attractive</title>
+<link>http://www.attractology.com/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-07T23:17:24Z</dc:date>
+<dc:subject>Dating Women fun pickup seduction</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seduction" />
+    <rdf:li resource="http://del.icio.us/tag/Women" />
+    <rdf:li resource="http://del.icio.us/tag/Dating" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/pickup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://the-programmers-stone.com/about/">
+<title>The Programmers&#x2019; Stone &#xBB; Introduction</title>
+<link>http://the-programmers-stone.com/about/</link>
+<description></description>
+<dc:creator>tubanator</dc:creator>
+<dc:date>2008-03-04T12:57:55Z</dc:date>
+<dc:subject>management productivity programming psychology toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

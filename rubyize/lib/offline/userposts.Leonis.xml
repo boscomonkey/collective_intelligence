@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/leonis">
+<title>del.icio.us/leonis</title>
+<link>http://del.icio.us/leonis</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://y-jesus.com/jesuscomplex_1.php?gclid=CL7y_9q5n5QCFQ2L1QodRS_vtA" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=5AUQHMng4Jo" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=t_kRS4fnP8Y" />
+  <rdf:li rdf:resource="http://news.yahoo.com/nphotos/slideshow/photo//080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac/#photoViewer=/080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/ara84/2614769503/sizes/o/in/photostream/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/victorvonsalza/2071244328/in/pool-stitchlords" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/panorama_paul/626995823/in/set-72157600415760130/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/panorama_paul/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/shadyezz/2623894275/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/mulherpequena/2625625614/in/pool-medalhadeouro" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/94717300@N00/2624656367/in/pool-art-photography/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/scottintheway/2571563255/sizes/o/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/bizzzarro/sets/72157594163445174/show/with/511271455/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/pictobox/1441090171/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/pictobox/1441847282/in/photostream/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/pictobox/1440999433/" />
+  <rdf:li rdf:resource="https://secure.del.icio.us/settings/Leonis/people/subscriptions?noredir" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>In his studies of entropy and the irreversibility of time, Caltech physicist Sean Carroll is exploring the idea that our universe is part of a larger structure.</description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-07-06T10:35:51Z</dc:date>
+<dc:subject>entropy physics science time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://y-jesus.com/jesuscomplex_1.php?gclid=CL7y_9q5n5QCFQ2L1QodRS_vtA">
+<title>JESUS COMPLEX: Is Jesus God?</title>
+<link>http://y-jesus.com/jesuscomplex_1.php?gclid=CL7y_9q5n5QCFQ2L1QodRS_vtA</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-07-01T19:46:42Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=5AUQHMng4Jo">
+<title>YouTube - The Crystal Skulls</title>
+<link>http://www.youtube.com/watch?v=5AUQHMng4Jo</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:48:24Z</dc:date>
+<dc:subject>crystall skulls</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crystall" />
+    <rdf:li resource="http://del.icio.us/tag/skulls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=t_kRS4fnP8Y">
+<title>YouTube - Psychic intuitive explains mystery of crystal skulls</title>
+<link>http://www.youtube.com/watch?v=t_kRS4fnP8Y</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:41:25Z</dc:date>
+<dc:subject>crystall skulls</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/crystall" />
+    <rdf:li resource="http://del.icio.us/tag/skulls" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/nphotos/slideshow/photo//080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac/#photoViewer=/080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac">
+<title>Surfing - Yahoo! News Photos</title>
+<link>http://news.yahoo.com/nphotos/slideshow/photo//080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac/#photoViewer=/080628/photos_us_rank_afp/7e6670231653a2a685648e51eb2692ac</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:35:30Z</dc:date>
+<dc:subject>surfing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/surfing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/ara84/2614769503/sizes/o/in/photostream/">
+<title>Flickr Photo Download: Los Hervideros</title>
+<link>http://www.flickr.com/photos/ara84/2614769503/sizes/o/in/photostream/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:29:41Z</dc:date>
+<dc:subject>nature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/victorvonsalza/2071244328/in/pool-stitchlords">
+<title>sunset November 27, 2007 4:25 PM on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/victorvonsalza/2071244328/in/pool-stitchlords</link>
+<description>magic ! !</description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:28:21Z</dc:date>
+<dc:subject>nature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/panorama_paul/626995823/in/set-72157600415760130/">
+<title>Rock Finger (Panorama) on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/panorama_paul/626995823/in/set-72157600415760130/</link>
+<description>I  lov it</description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:26:46Z</dc:date>
+<dc:subject>Caroo little</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/little" />
+    <rdf:li resource="http://del.icio.us/tag/Caroo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/panorama_paul/">
+<title>Flickr: Panorama Paul's Photostream</title>
+<link>http://www.flickr.com/photos/panorama_paul/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:24:18Z</dc:date>
+<dc:subject>nature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/shadyezz/2623894275/">
+<title>the stairway to heaven on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/shadyezz/2623894275/</link>
+<description>magnificent ! !</description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:23:08Z</dc:date>
+<dc:subject>sky</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sky" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/mulherpequena/2625625614/in/pool-medalhadeouro">
+<title>Saddhu VII on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/mulherpequena/2625625614/in/pool-medalhadeouro</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:13:58Z</dc:date>
+<dc:subject>India</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/India" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/94717300@N00/2624656367/in/pool-art-photography/">
+<title>street art in the Auditorium on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/94717300@N00/2624656367/in/pool-art-photography/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:12:23Z</dc:date>
+<dc:subject>art street</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/street" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/scottintheway/2571563255/sizes/o/">
+<title>Flickr Photo Download:</title>
+<link>http://www.flickr.com/photos/scottintheway/2571563255/sizes/o/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:08:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/bizzzarro/sets/72157594163445174/show/with/511271455/">
+<title>Emuishere Peliculas' slideshow on Flickr</title>
+<link>http://www.flickr.com/photos/bizzzarro/sets/72157594163445174/show/with/511271455/</link>
+<description>women and mystery</description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T19:05:27Z</dc:date>
+<dc:subject>women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/women" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/pictobox/1441090171/">
+<title>abo ruins on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/pictobox/1441090171/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T18:54:54Z</dc:date>
+<dc:subject>mexico new</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/new" />
+    <rdf:li resource="http://del.icio.us/tag/mexico" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/pictobox/1441847282/in/photostream/">
+<title>path forward on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/pictobox/1441847282/in/photostream/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T18:51:37Z</dc:date>
+<dc:subject>Mexico New in national park</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/national" />
+    <rdf:li resource="http://del.icio.us/tag/park" />
+    <rdf:li resource="http://del.icio.us/tag/in" />
+    <rdf:li resource="http://del.icio.us/tag/New" />
+    <rdf:li resource="http://del.icio.us/tag/Mexico" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/pictobox/1440999433/">
+<title>colorful formations on Flickr - Photo Sharing!</title>
+<link>http://www.flickr.com/photos/pictobox/1440999433/</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-30T18:48:48Z</dc:date>
+<dc:subject>colours</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/colours" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://secure.del.icio.us/settings/Leonis/people/subscriptions?noredir">
+<title>del.icio.us/settings/Leonis/people/subscriptions</title>
+<link>https://secure.del.icio.us/settings/Leonis/people/subscriptions?noredir</link>
+<description></description>
+<dc:creator>Leonis</dc:creator>
+<dc:date>2008-06-29T22:12:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ctimis">
+<title>del.icio.us/ctimis</title>
+<link>http://del.icio.us/ctimis</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://algebraicthunk.net/~dburrows/projects/aptitude/doc/en/" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/136602" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/137116" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/138744" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139742" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139750" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/139754" />
+  <rdf:li rdf:resource="http://www.linux-mag.com/id/6270/" />
+  <rdf:li rdf:resource="http://kbase.redhat.com/faq/" />
+  <rdf:li rdf:resource="http://www.acmehowto.com/" />
+  <rdf:li rdf:resource="http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html" />
+  <rdf:li rdf:resource="http://www.moneysavingexpert.com/tipnote/learn-language-free" />
+  <rdf:li rdf:resource="http://www.the-art-of-web.com/system/fail2ban/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://images.globalknowledge.com/wwwimages/seminars/tcpipts/player.html" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/55319" />
+  <rdf:li rdf:resource="http://jmemorize.org/" />
+  <rdf:li rdf:resource="http://python.org/doc/current/tut/tut.html" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001016.html" />
+  <rdf:li rdf:resource="http://pchart.sourceforge.net/" />
+  <rdf:li rdf:resource="http://linuxcommand.org/learning_the_shell.php" />
+  <rdf:li rdf:resource="https://twiki.cern.ch/twiki/bin/view/Atlas/AtlasSoftwareInstallInstructionsAdvanced#Making_your_own_mirror" />
+  <rdf:li rdf:resource="https://hep.pa.msu.edu/twiki/bin/view/AGLT2/UMPacmanNotes" />
+  <rdf:li rdf:resource="http://www.brunolinux.com/" />
+  <rdf:li rdf:resource="http://accessories.euro.dell.com/sna/productdetail.aspx?c=uk&#x26;l=en&#x26;s=dhs&#x26;cs=ukdhs1&#x26;sku=A1511931&#x26;dgc=SS&#x26;cid=5186&#x26;lid=121454" />
+  <rdf:li rdf:resource="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/" />
+  <rdf:li rdf:resource="http://www.vileworks.com/component/content/article/56-photoshop_tutorial_make_an_old_fantasy_map_of_your_area.html" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://www.linuxsecurity.com/content/view/117255/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (26%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-06T10:25:12Z</dc:date>
+<dc:subject>chart particle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://algebraicthunk.net/~dburrows/projects/aptitude/doc/en/">
+<title>aptitude user's manual</title>
+<link>http://algebraicthunk.net/~dburrows/projects/aptitude/doc/en/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T11:17:58Z</dc:date>
+<dc:subject>aptitude reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aptitude" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/136602">
+<title>Linux.com :: An introduction to CGI scripting with Python</title>
+<link>http://www.linux.com/feature/136602</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T10:13:00Z</dc:date>
+<dc:subject>cgi python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/cgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/137116">
+<title>Linux.com :: Translate words with EuroOffice Dictionary extension</title>
+<link>http://www.linux.com/feature/137116</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T10:07:26Z</dc:date>
+<dc:subject>dictionary ooo openoffice toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/openoffice" />
+    <rdf:li resource="http://del.icio.us/tag/ooo" />
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/138744">
+<title>Linux.com :: Monitoring network performance with speedometer</title>
+<link>http://www.linux.com/feature/138744</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T10:03:34Z</dc:date>
+<dc:subject>benchmark monitor network sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/monitor" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139742">
+<title>Linux.com :: Using Bonnie++ for filesystem performance benchmarking</title>
+<link>http://www.linux.com/feature/139742</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T10:01:54Z</dc:date>
+<dc:subject>benchmark filesystem sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139750">
+<title>Linux.com :: Investigating strange dialup activity with Wireshark</title>
+<link>http://www.linux.com/feature/139750</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T10:00:59Z</dc:date>
+<dc:subject>monitor network security tutorial wireshark</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/wireshark" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/monitor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/139754">
+<title>Linux.com :: An introduction to the Kismet packet sniffer</title>
+<link>http://www.linux.com/feature/139754</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T09:58:19Z</dc:date>
+<dc:subject>kismet linux security sniffer sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/kismet" />
+    <rdf:li resource="http://del.icio.us/tag/sniffer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux-mag.com/id/6270/">
+<title>Can You Feel It? | Linux Magazine</title>
+<link>http://www.linux-mag.com/id/6270/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T09:50:53Z</dc:date>
+<dc:subject>cuda hpi nvidia parallel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hpi" />
+    <rdf:li resource="http://del.icio.us/tag/cuda" />
+    <rdf:li resource="http://del.icio.us/tag/nvidia" />
+    <rdf:li resource="http://del.icio.us/tag/parallel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kbase.redhat.com/faq/">
+<title>redhat.com | Red Hat Support</title>
+<link>http://kbase.redhat.com/faq/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-04T09:33:39Z</dc:date>
+<dc:subject>administration redhat reference sysadmin tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/administration" />
+    <rdf:li resource="http://del.icio.us/tag/redhat" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acmehowto.com/">
+<title>DIY Home Repair Guide: Learn How to Make Repairs Around Your Home at ACME HOW TO.com</title>
+<link>http://www.acmehowto.com/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T21:42:59Z</dc:date>
+<dc:subject>diy howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html">
+<title>TECH SOURCE FROM BOHOL: 10 Best Hacking and Security Software Tools for Linux</title>
+<link>http://www.junauza.com/2008/07/10-best-hacking-and-security-software.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T21:41:10Z</dc:date>
+<dc:subject>linux network security sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moneysavingexpert.com/tipnote/learn-language-free">
+<title>Learn a language for free using online tools</title>
+<link>http://www.moneysavingexpert.com/tipnote/learn-language-free</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T21:40:15Z</dc:date>
+<dc:subject>language learn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.the-art-of-web.com/system/fail2ban/">
+<title>The Art of Web ~ System: fail2ban and iptables</title>
+<link>http://www.the-art-of-web.com/system/fail2ban/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T10:01:44Z</dc:date>
+<dc:subject>fail2ban</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fail2ban" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T09:57:36Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://images.globalknowledge.com/wwwimages/seminars/tcpipts/player.html">
+<title>TCP/IP Troubleshooting</title>
+<link>http://images.globalknowledge.com/wwwimages/seminars/tcpipts/player.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-03T09:46:39Z</dc:date>
+<dc:subject>networking tcp toead towatch tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tcp" />
+    <rdf:li resource="http://del.icio.us/tag/toead" />
+    <rdf:li resource="http://del.icio.us/tag/towatch" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/55319">
+<title>Linux.com :: Installing a firewall on Ubuntu</title>
+<link>http://www.linux.com/feature/55319</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-02T12:59:20Z</dc:date>
+<dc:subject>firewall ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firewall" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jmemorize.org/">
+<title>jMemorize - Learning made easy (and fun) - A Leitner flashcards tool</title>
+<link>http://jmemorize.org/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-02T10:28:02Z</dc:date>
+<dc:subject>learn memory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://python.org/doc/current/tut/tut.html">
+<title>Python Tutorial</title>
+<link>http://python.org/doc/current/tut/tut.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-07-02T10:20:05Z</dc:date>
+<dc:subject>python tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-29T17:34:38Z</dc:date>
+<dc:subject>10 bash toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/10" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001016.html">
+<title>Coding Horror: Regular Expressions: Now You Have Two Problems</title>
+<link>http://www.codinghorror.com/blog/archives/001016.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-27T22:01:26Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pchart.sourceforge.net/">
+<title>pChart | a PHP Charting library</title>
+<link>http://pchart.sourceforge.net/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-27T21:59:31Z</dc:date>
+<dc:subject>charts php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxcommand.org/learning_the_shell.php">
+<title>LinuxCommand.org: Learning the shell.</title>
+<link>http://linuxcommand.org/learning_the_shell.php</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-26T16:06:45Z</dc:date>
+<dc:subject>bash shell sterge toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/sterge" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://twiki.cern.ch/twiki/bin/view/Atlas/AtlasSoftwareInstallInstructionsAdvanced#Making_your_own_mirror">
+<title>AtlasSoftwareInstallInstructionsAdvanced &#x3C; Atlas &#x3C; TWiki</title>
+<link>https://twiki.cern.ch/twiki/bin/view/Atlas/AtlasSoftwareInstallInstructionsAdvanced#Making_your_own_mirror</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-26T15:20:54Z</dc:date>
+<dc:subject>pacman</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pacman" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://hep.pa.msu.edu/twiki/bin/view/AGLT2/UMPacmanNotes">
+<title>UMPacmanNotes &#x3C; AGLT2 &#x3C; TWiki</title>
+<link>https://hep.pa.msu.edu/twiki/bin/view/AGLT2/UMPacmanNotes</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-26T15:19:39Z</dc:date>
+<dc:subject>pacman</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pacman" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brunolinux.com/">
+<title>Tips for Linux Explorers</title>
+<link>http://www.brunolinux.com/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-25T09:18:08Z</dc:date>
+<dc:subject>10 linux toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/10" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://accessories.euro.dell.com/sna/productdetail.aspx?c=uk&#x26;l=en&#x26;s=dhs&#x26;cs=ukdhs1&#x26;sku=A1511931&#x26;dgc=SS&#x26;cid=5186&#x26;lid=121454">
+<title>Dell : Logitech Logitech Cordless 1500 Rechargeable Desktop - Keyboard - wireless - RF - mouse - USB / PS/2 wireless receiver - black - English - United Kingdom - OEM : Keyboards/Mouse Bundles : HOME</title>
+<link>http://accessories.euro.dell.com/sna/productdetail.aspx?c=uk&#x26;l=en&#x26;s=dhs&#x26;cs=ukdhs1&#x26;sku=A1511931&#x26;dgc=SS&#x26;cid=5186&#x26;lid=121454</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-24T10:20:58Z</dc:date>
+<dc:subject>qmul tobuy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/qmul" />
+    <rdf:li resource="http://del.icio.us/tag/tobuy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/">
+<title>25 Beautiful Fantasy Photoshop Tutorials | PhotoshopTalent Blog</title>
+<link>http://www.photoshoptalent.com/blog/2008/06/22/25-beautiful-fantasy-photoshop-tutorials/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-24T09:25:06Z</dc:date>
+<dc:subject>photoshop tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vileworks.com/component/content/article/56-photoshop_tutorial_make_an_old_fantasy_map_of_your_area.html">
+<title>Photoshop tutorial: make an old fantasy map of your area</title>
+<link>http://www.vileworks.com/component/content/article/56-photoshop_tutorial_make_an_old_fantasy_map_of_your_area.html</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-24T09:24:42Z</dc:date>
+<dc:subject>map photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-22T14:15:43Z</dc:date>
+<dc:subject>computing interesting learn programming toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+    <rdf:li resource="http://del.icio.us/tag/learn" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxsecurity.com/content/view/117255/">
+<title>Using umask - The Community's Center for Security</title>
+<link>http://www.linuxsecurity.com/content/view/117255/</link>
+<description></description>
+<dc:creator>ctimis</dc:creator>
+<dc:date>2008-06-18T22:25:39Z</dc:date>
+<dc:subject>linux toread umask</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/umask" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

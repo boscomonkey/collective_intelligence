@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/bloushi">
+<title>del.icio.us/bloushi</title>
+<link>http://del.icio.us/bloushi</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://abduzeedo.com/inspiration-calligraphy" />
+  <rdf:li rdf:resource="http://www.noupe.com/" />
+  <rdf:li rdf:resource="http://www.codeproject.com/KB/cs/Lambda_expression_C_3.aspx" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/howard_dierking/archive/2007/01/18/lambda-lambda-lambda.aspx" />
+  <rdf:li rdf:resource="http://mattberseth.com/blog/2008/06/masterdetail_with_the_gridview_1.html" />
+  <rdf:li rdf:resource="http://www.experts-exchange.com/Programming/Languages/Scripting/JavaScript/Q_23282183.html" />
+  <rdf:li rdf:resource="http://dotnetslackers.com/articles/aspnet/Using-JSON-With-ASPNET-35.aspx" />
+  <rdf:li rdf:resource="http://www.webdesignerwall.com/tutorials/jquery-tutorials-for-designers/" />
+  <rdf:li rdf:resource="http://jqueryfordesigners.com/" />
+  <rdf:li rdf:resource="http://www.dotnetcurry.com/ShowArticle.aspx?ID=77&#x26;AspxAutoDetectCookieSupport=1" />
+  <rdf:li rdf:resource="http://weblogs.asp.net/coltk/archive/2005/06/15/412657.aspx" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=orWbB2LybCk" />
+  <rdf:li rdf:resource="http://www.codeplex.com/Json" />
+  <rdf:li rdf:resource="http://www.json.org/" />
+  <rdf:li rdf:resource="http://www.webreference.com/programming/javascript/rg5/index.html" />
+  <rdf:li rdf:resource="http://dotnetslackers.com/articles/aspnet/JavaScript_with_ASP_NET_2_0_Pages_Part1.aspx" />
+  <rdf:li rdf:resource="http://dotnetslackers.com/articles/aspnet/JavaScriptWithASPNETServerControls.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>Passwords</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-07-06T12:46:52Z</dc:date>
+<dc:subject>Miscellinious</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Miscellinious" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/inspiration-calligraphy">
+<title>Inspiration: Calligraphy | Abduzeedo - graphic design | design inspiration | design tutorials</title>
+<link>http://abduzeedo.com/inspiration-calligraphy</link>
+<description>'d put in my two</description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-07-02T10:34:59Z</dc:date>
+<dc:subject>calligraphy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calligraphy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/">
+<title>Noupe</title>
+<link>http://www.noupe.com/</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-07-02T10:15:05Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeproject.com/KB/cs/Lambda_expression_C_3.aspx">
+<title>Introduction</title>
+<link>http://www.codeproject.com/KB/cs/Lambda_expression_C_3.aspx</link>
+<description> Code project</description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-30T12:38:15Z</dc:date>
+<dc:subject>lambda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lambda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/howard_dierking/archive/2007/01/18/lambda-lambda-lambda.aspx">
+<title>Introduction</title>
+<link>http://blogs.msdn.com/howard_dierking/archive/2007/01/18/lambda-lambda-lambda.aspx</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-30T12:37:35Z</dc:date>
+<dc:subject>lambda</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lambda" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mattberseth.com/blog/2008/06/masterdetail_with_the_gridview_1.html">
+<title>thickbox with asp page</title>
+<link>http://mattberseth.com/blog/2008/06/masterdetail_with_the_gridview_1.html</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-23T17:07:38Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.experts-exchange.com/Programming/Languages/Scripting/JavaScript/Q_23282183.html">
+<title>jQuery querystring</title>
+<link>http://www.experts-exchange.com/Programming/Languages/Scripting/JavaScript/Q_23282183.html</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-23T08:24:03Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dotnetslackers.com/articles/aspnet/Using-JSON-With-ASPNET-35.aspx">
+<title>Json sample</title>
+<link>http://dotnetslackers.com/articles/aspnet/Using-JSON-With-ASPNET-35.aspx</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-18T05:26:34Z</dc:date>
+<dc:subject>JSON</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JSON" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesignerwall.com/tutorials/jquery-tutorials-for-designers/">
+<title>jQuery Design</title>
+<link>http://www.webdesignerwall.com/tutorials/jquery-tutorials-for-designers/</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-17T13:00:24Z</dc:date>
+<dc:subject>jquery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jqueryfordesigners.com/">
+<title>JQuery Blog</title>
+<link>http://jqueryfordesigners.com/</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-06-16T05:39:34Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dotnetcurry.com/ShowArticle.aspx?ID=77&#x26;AspxAutoDetectCookieSupport=1">
+<title>Checkbox Select All &#x26; Select None</title>
+<link>http://www.dotnetcurry.com/ShowArticle.aspx?ID=77&#x26;AspxAutoDetectCookieSupport=1</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-29T10:29:42Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.asp.net/coltk/archive/2005/06/15/412657.aspx">
+<title>Javascript ListItems</title>
+<link>http://weblogs.asp.net/coltk/archive/2005/06/15/412657.aspx</link>
+<description>Transferring Between List Items</description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-27T05:30:47Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=orWbB2LybCk">
+<title>baloch</title>
+<link>http://www.youtube.com/watch?v=orWbB2LybCk</link>
+<description>Iranian Regime Hanging Balochs</description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-24T06:05:36Z</dc:date>
+<dc:subject>bloushi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bloushi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeplex.com/Json">
+<title>Json.NET - Home</title>
+<link>http://www.codeplex.com/Json</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-18T09:33:01Z</dc:date>
+<dc:subject>json</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.json.org/">
+<title>JSON dot org</title>
+<link>http://www.json.org/</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-18T09:30:54Z</dc:date>
+<dc:subject>JSON</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JSON" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webreference.com/programming/javascript/rg5/index.html">
+<title>JSON: Introduction</title>
+<link>http://www.webreference.com/programming/javascript/rg5/index.html</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-18T09:26:26Z</dc:date>
+<dc:subject>json</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/json" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dotnetslackers.com/articles/aspnet/JavaScript_with_ASP_NET_2_0_Pages_Part1.aspx">
+<title>Javasript in ASP.Net Pages</title>
+<link>http://dotnetslackers.com/articles/aspnet/JavaScript_with_ASP_NET_2_0_Pages_Part1.aspx</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-11T10:31:31Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dotnetslackers.com/articles/aspnet/JavaScriptWithASPNETServerControls.aspx">
+<title>Adding javascript to server controls</title>
+<link>http://dotnetslackers.com/articles/aspnet/JavaScriptWithASPNETServerControls.aspx</link>
+<description></description>
+<dc:creator>bloushi</dc:creator>
+<dc:date>2008-05-11T08:51:37Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/frobot">
+<title>del.icio.us/frobot</title>
+<link>http://del.icio.us/frobot</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.theoildrum.com/node/4238" />
+  <rdf:li rdf:resource="http://www.russellbeattie.com/blog/let-the-microblogs-bloom" />
+  <rdf:li rdf:resource="http://alistair.cockburn.us/index.php/Are_iterations_hazardous_to_your_project" />
+  <rdf:li rdf:resource="http://eybodyshop.blogspot.com/2008/06/oldest-api.html" />
+  <rdf:li rdf:resource="http://mislav.caboo.se/rails/excercise-in-csrf/" />
+  <rdf:li rdf:resource="http://compilers.iecc.com/crenshaw/" />
+  <rdf:li rdf:resource="http://twitter.com/onstartups/statuses/847319316" />
+  <rdf:li rdf:resource="http://railscasts.com/episodes/116" />
+  <rdf:li rdf:resource="http://www.newsvine.com/_news/2008/07/01/1629694-monster-founder-sets-sights-on-online-obituaries" />
+  <rdf:li rdf:resource="http://www.thewebsiteisdown.com/" />
+  <rdf:li rdf:resource="http://www.agileproductdesign.com/blog/the_shrinking_story.html" />
+  <rdf:li rdf:resource="http://alsop-louie.com/management/customer-service-bar-none/" />
+  <rdf:li rdf:resource="http://news.cnet.com/8301-13953_3-9980569-80.html?part=rss&#x26;tag=feed&#x26;subj=OutsidetheLines" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2008/01/no-disrespect.html" />
+  <rdf:li rdf:resource="http://freerepublic.com/focus/f-news/2036382/posts" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/POLITICS/06/29/evangelical.campaign/index.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080626-study-reveals-web-2-0-gap-between-gen-x-gen-y-moms.html" />
+  <rdf:li rdf:resource="http://beust.com/weblog/archives/000491.html" />
+  <rdf:li rdf:resource="http://www.guardian.co.uk/sport/2008/jun/27/boxing" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/" />
+  <rdf:li rdf:resource="http://couple-rater.rubyforge.org/" />
+  <rdf:li rdf:resource="http://austinentrepreneur.wordpress.com/" />
+  <rdf:li rdf:resource="http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html" />
+  <rdf:li rdf:resource="http://beta.flowgram.com/f/p.html#2qi3k8eicrfgkv" />
+  <rdf:li rdf:resource="http://www.vimeo.com/ddmeyer" />
+  <rdf:li rdf:resource="http://www.epinions.com/content_162085834372" />
+  <rdf:li rdf:resource="http://github.com/tmm1/mailfactory/tree/master" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-06T03:57:43Z</dc:date>
+<dc:subject>astronomy entropy physics science space time universe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/universe" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theoildrum.com/node/4238">
+<title>The Oil Drum | Energy Transitions Past and Future</title>
+<link>http://www.theoildrum.com/node/4238</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-04T18:35:05Z</dc:date>
+<dc:subject>coal energy environment net oil power sustainability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/oil" />
+    <rdf:li resource="http://del.icio.us/tag/net" />
+    <rdf:li resource="http://del.icio.us/tag/power" />
+    <rdf:li resource="http://del.icio.us/tag/coal" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/sustainability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.russellbeattie.com/blog/let-the-microblogs-bloom">
+<title>Let the microblogs bloom - RussellBeattie.com</title>
+<link>http://www.russellbeattie.com/blog/let-the-microblogs-bloom</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-04T18:34:46Z</dc:date>
+<dc:subject>architecture identica microblog microblogging scalability scaling twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/identica" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/microblog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alistair.cockburn.us/index.php/Are_iterations_hazardous_to_your_project">
+<title>Are iterations hazardous to your project? - AC</title>
+<link>http://alistair.cockburn.us/index.php/Are_iterations_hazardous_to_your_project</link>
+<description>i've always been concerned with the pipelining issue</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-04T01:06:20Z</dc:date>
+<dc:subject>agile cockburn iterations</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/iterations" />
+    <rdf:li resource="http://del.icio.us/tag/cockburn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eybodyshop.blogspot.com/2008/06/oldest-api.html">
+<title>Engine Yard Body Shop: The Oldest API</title>
+<link>http://eybodyshop.blogspot.com/2008/06/oldest-api.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-03T01:51:03Z</dc:date>
+<dc:subject>api engineyard unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/engineyard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mislav.caboo.se/rails/excercise-in-csrf/">
+<title>An excercise in cross-site request forgery</title>
+<link>http://mislav.caboo.se/rails/excercise-in-csrf/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-03T01:30:07Z</dc:date>
+<dc:subject>csrf rails ruby rubyonrails security xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/csrf" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://compilers.iecc.com/crenshaw/">
+<title>Let's Build a Compiler</title>
+<link>http://compilers.iecc.com/crenshaw/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-03T01:21:47Z</dc:date>
+<dc:subject>books compiler compilers development parsing programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/parsing" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitter.com/onstartups/statuses/847319316">
+<title>Twitter / Dharmesh Shah: @pkedrosky : Probably regre...</title>
+<link>http://twitter.com/onstartups/statuses/847319316</link>
+<description>funny, but sadly true</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T22:42:02Z</dc:date>
+<dc:subject>funny investors startups tweets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+    <rdf:li resource="http://del.icio.us/tag/investors" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/tweets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://railscasts.com/episodes/116">
+<title>Railscasts - Selenium</title>
+<link>http://railscasts.com/episodes/116</link>
+<description>Nothing terribly new here, but still a nice screencast.</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T21:54:22Z</dc:date>
+<dc:subject>development rails ruby rubyonrails selenium test testing video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/selenium" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newsvine.com/_news/2008/07/01/1629694-monster-founder-sets-sights-on-online-obituaries">
+<title>Newsvine - Monster founder sets sights on online obituaries</title>
+<link>http://www.newsvine.com/_news/2008/07/01/1629694-monster-founder-sets-sights-on-online-obituaries</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T18:49:52Z</dc:date>
+<dc:subject>founder monster obituraries online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/obituraries" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/monster" />
+    <rdf:li resource="http://del.icio.us/tag/founder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsiteisdown.com/">
+<title>The Website Is Down</title>
+<link>http://www.thewebsiteisdown.com/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T18:45:35Z</dc:date>
+<dc:subject>fun funny geek humor technology video web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.agileproductdesign.com/blog/the_shrinking_story.html">
+<title>The mystery of the shrinking story: the decreasing size of a user story and Agile development&#x203D;s drift into big-up-front-design</title>
+<link>http://www.agileproductdesign.com/blog/the_shrinking_story.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T18:33:26Z</dc:date>
+<dc:subject>agile development size story userstories</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/userstories" />
+    <rdf:li resource="http://del.icio.us/tag/size" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alsop-louie.com/management/customer-service-bar-none/">
+<title>Customer Service Bar None! &#xB7; Alsop Louie Partners</title>
+<link>http://alsop-louie.com/management/customer-service-bar-none/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T18:32:31Z</dc:date>
+<dc:subject>amazon bezos customer kindle service</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/bezos" />
+    <rdf:li resource="http://del.icio.us/tag/customer" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/kindle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.cnet.com/8301-13953_3-9980569-80.html?part=rss&#x26;tag=feed&#x26;subj=OutsidetheLines">
+<title>How Facebook stays afloat adding 250,000 users per day | Outside the Lines - CNET News.com</title>
+<link>http://news.cnet.com/8301-13953_3-9980569-80.html?part=rss&#x26;tag=feed&#x26;subj=OutsidetheLines</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T18:27:29Z</dc:date>
+<dc:subject>architecture facebook infrastructure networks scalability social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/infrastructure" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/networks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/">
+<title>Pathfinder Development &#xBB; Pretty blocks in Rails views</title>
+<link>http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-02T17:24:22Z</dc:date>
+<dc:subject>blocks helper rails ruby rubyonrails views</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/blocks" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/views" />
+    <rdf:li resource="http://del.icio.us/tag/helper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2008/01/no-disrespect.html">
+<title>No Disrespect</title>
+<link>http://weblog.raganwald.com/2008/01/no-disrespect.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-07-01T00:28:38Z</dc:date>
+<dc:subject>business career college cs education programming raganwald software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/raganwald" />
+    <rdf:li resource="http://del.icio.us/tag/college" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freerepublic.com/focus/f-news/2036382/posts">
+<title>As Irish Growth Fades, Its Immigrants Depart</title>
+<link>http://freerepublic.com/focus/f-news/2036382/posts</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-30T22:29:38Z</dc:date>
+<dc:subject>eastern economy europe immigrants ireland jobs poland</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ireland" />
+    <rdf:li resource="http://del.icio.us/tag/poland" />
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/eastern" />
+    <rdf:li resource="http://del.icio.us/tag/europe" />
+    <rdf:li resource="http://del.icio.us/tag/immigrants" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/POLITICS/06/29/evangelical.campaign/index.html">
+<title>Evangelical movement touts 'Jesus for president' - CNN.com</title>
+<link>http://www.cnn.com/2008/POLITICS/06/29/evangelical.campaign/index.html</link>
+<description>I can dig this: &#x26;quot;Rather than endorse candidates, we ask them to endorse what is at the heart of Jesus and that is the poor or the peacemakers and when we see that then we'll get behind them.&#x26;quot;</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-30T18:54:32Z</dc:date>
+<dc:subject>christianity politics religion usa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/usa" />
+    <rdf:li resource="http://del.icio.us/tag/christianity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080626-study-reveals-web-2-0-gap-between-gen-x-gen-y-moms.html">
+<title>Study reveals Web 2.0 gap between Gen X, Gen Y moms</title>
+<link>http://arstechnica.com/news.ars/post/20080626-study-reveals-web-2-0-gap-between-gen-x-gen-y-moms.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-30T02:51:49Z</dc:date>
+<dc:subject>GenX GenY culture demographics generation moms mothers web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/demographics" />
+    <rdf:li resource="http://del.icio.us/tag/generation" />
+    <rdf:li resource="http://del.icio.us/tag/GenX" />
+    <rdf:li resource="http://del.icio.us/tag/GenY" />
+    <rdf:li resource="http://del.icio.us/tag/moms" />
+    <rdf:li resource="http://del.icio.us/tag/mothers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beust.com/weblog/archives/000491.html">
+<title>Otaku, Cedric's weblog: Coding challenge</title>
+<link>http://beust.com/weblog/archives/000491.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-29T20:41:59Z</dc:date>
+<dc:subject>programming puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guardian.co.uk/sport/2008/jun/27/boxing">
+<title>Boxing: Kevin Mitchell previews Manny Pacquaio v David Diaz | Sport | guardian.co.uk</title>
+<link>http://www.guardian.co.uk/sport/2008/jun/27/boxing</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-29T04:04:51Z</dc:date>
+<dc:subject>boxing pacquaio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pacquaio" />
+    <rdf:li resource="http://del.icio.us/tag/boxing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:16:37Z</dc:date>
+<dc:subject>capture documentation mac screencapture software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/">
+<title>Pathfinder Development &#xBB; More Named Scope Awesomeness</title>
+<link>http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:12:58Z</dc:date>
+<dc:subject>activerecord named_scope rails ruby rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/activerecord" />
+    <rdf:li resource="http://del.icio.us/tag/named_scope" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://couple-rater.rubyforge.org/">
+<title>Couple Rater is a facebook application developed using the facebooker gem</title>
+<link>http://couple-rater.rubyforge.org/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:12:23Z</dc:date>
+<dc:subject>facebook facebooker rails ruby rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/facebooker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://austinentrepreneur.wordpress.com/">
+<title>Client Side Performance Measurement and Optimization with Rails</title>
+<link>http://austinentrepreneur.wordpress.com/</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:11:47Z</dc:date>
+<dc:subject>browser performance rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git">
+<title>Setting up a new Rails app with Git</title>
+<link>http://toolmantim.com/article/2007/12/5/setting_up_a_new_rails_app_with_git</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:10:52Z</dc:date>
+<dc:subject>git howto rails ruby rubyonrails scm svn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html">
+<title>The unary ampersand in Ruby</title>
+<link>http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T21:10:40Z</dc:date>
+<dc:subject>lambda proc programming raganwald ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/lambda" />
+    <rdf:li resource="http://del.icio.us/tag/raganwald" />
+    <rdf:li resource="http://del.icio.us/tag/proc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beta.flowgram.com/f/p.html#2qi3k8eicrfgkv">
+<title>Flowgram | Facebook - Needle in a Haystack: Efficient Storage of Billions of Photos</title>
+<link>http://beta.flowgram.com/f/p.html#2qi3k8eicrfgkv</link>
+<description></description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T19:22:30Z</dc:date>
+<dc:subject>database facebook performance photo photos presentation storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/ddmeyer">
+<title>Dan Meyer on Vimeo</title>
+<link>http://www.vimeo.com/ddmeyer</link>
+<description>via @bokardo, &#x26;quot;Web site of math teach Dan Meyer, who has a nice approach to teaching, optimizing for his students time by preparing overheads with Keynote. (well-selected visual and strong questions)&#x26;quot;
+</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-28T19:21:28Z</dc:date>
+<dc:subject>dan-meyer inspiration vimeo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/dan-meyer" />
+    <rdf:li resource="http://del.icio.us/tag/vimeo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.epinions.com/content_162085834372">
+<title>Austin from a former resident - Austin - Epinions.com</title>
+<link>http://www.epinions.com/content_162085834372</link>
+<description>as a former austin-resident myself, i wholeheartedly agree</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-27T17:56:21Z</dc:date>
+<dc:subject>austin cities overrated</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/austin" />
+    <rdf:li resource="http://del.icio.us/tag/overrated" />
+    <rdf:li resource="http://del.icio.us/tag/cities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://github.com/tmm1/mailfactory/tree/master">
+<title>tmm1's mailfactory at master &#x2014; GitHub</title>
+<link>http://github.com/tmm1/mailfactory/tree/master</link>
+<description>I need to bypass/drop ActionMailer, simply because ActionMailer sucks.</description>
+<dc:creator>frobot</dc:creator>
+<dc:date>2008-06-27T06:11:15Z</dc:date>
+<dc:subject>email mail mailfactory ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/mailfactory" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

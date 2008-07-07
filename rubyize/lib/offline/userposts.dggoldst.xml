@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dggoldst">
+<title>del.icio.us/dggoldst</title>
+<link>http://del.icio.us/dggoldst</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.lovefilm.com/" />
+  <rdf:li rdf:resource="http://www.netvibes.com/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.google.com/support/calendar/bin/answer.py?answer=89955" />
+  <rdf:li rdf:resource="http://gmailblog.blogspot.com/2008/07/gmail-blog-turns-1-looking-back-at-our.html" />
+  <rdf:li rdf:resource="http://linuxondesktop.blogspot.com/2007/02/13-things-to-do-immediately-after.html" />
+  <rdf:li rdf:resource="http://tinypaste.com/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/dir/" />
+  <rdf:li rdf:resource="http://linuxgazette.net/152/srinivasan.html" />
+  <rdf:li rdf:resource="http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App" />
+  <rdf:li rdf:resource="http://www.pantz.org/database/mysql/mysqlcommands.shtml" />
+  <rdf:li rdf:resource="http://en.wikibooks.org/wiki/MySQL/CheatSheet" />
+  <rdf:li rdf:resource="http://www.artfulsoftware.com/infotree/queries.php" />
+  <rdf:li rdf:resource="http://www-users.york.ac.uk/~pml1/bayes/rprogs/" />
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html" />
+  <rdf:li rdf:resource="http://www.mathpsyc.uni-bonn.de/home.htm" />
+  <rdf:li rdf:resource="http://www.searchenginejournal.com/9-search-related-twitter-service-to-help-you-find-tweets/7223/" />
+  <rdf:li rdf:resource="http://www.pcdoctor-guide.com/wordpress/?p=4149" />
+  <rdf:li rdf:resource="http://www.addonics.com/products/flash_memory_reader/ad44midecf.asp" />
+  <rdf:li rdf:resource="http://www.sensenetworks.com/macrosense.php" />
+  <rdf:li rdf:resource="http://blogs.zdnet.com/emergingtech/?p=965" />
+  <rdf:li rdf:resource="http://www.asktog.com/basics/firstPrinciples.html" />
+  <rdf:li rdf:resource="http://www.useit.com/papers/heuristic/heuristic_list.html" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://research.chicagogsb.edu/marketing/databases/dominicks/index.aspx" />
+  <rdf:li rdf:resource="http://www.santafe.edu/~aaronc/powerlaws/" />
+  <rdf:li rdf:resource="http://itouchmap.com/latlong.html" />
+  <rdf:li rdf:resource="http://www.seeing-stars.com/OC/index.shtml" />
+  <rdf:li rdf:resource="http://www.maxmind.com/app/installation?city=1" />
+  <rdf:li rdf:resource="http://www.maxmind.com/app/geolitecity" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/24/spotjots/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.lovefilm.com/">
+<title>LOVEFiLM | DVDs, Blu-ray and Games rental</title>
+<link>http://www.lovefilm.com/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-06T12:24:30Z</dc:date>
+<dc:subject>... AJAX Blogs Home aggregator blog css design firefox:bookmarks firefox:toolbar game imported mashup news online podcasts reference research school search tips tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:toolbar" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/Home" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/..." />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netvibes.com/">
+<title>Netvibes</title>
+<link>http://www.netvibes.com/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-06T12:20:41Z</dc:date>
+<dc:subject>AJAX Blogs Home aggregator blog css design firefox:bookmarks firefox:toolbar game imported mashup news online podcasts reference research school search tips tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/AJAX" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:toolbar" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/Home" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description>conversion media audio freeware video</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-06T11:36:29Z</dc:date>
+<dc:subject>free howto html movies music software tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/support/calendar/bin/answer.py?answer=89955">
+<title>Google Calendar Sync</title>
+<link>http://www.google.com/support/calendar/bin/answer.py?answer=89955</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-06T00:37:04Z</dc:date>
+<dc:subject>GTD Utilities free google howto imported opensource productivity software tools tutorial web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/Utilities" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmailblog.blogspot.com/2008/07/gmail-blog-turns-1-looking-back-at-our.html">
+<title>Official Gmail Blog: Gmail blog turns 1: Looking back at our 10 most read tips</title>
+<link>http://gmailblog.blogspot.com/2008/07/gmail-blog-turns-1-looking-back-at-our.html</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-06T00:34:08Z</dc:date>
+<dc:subject>Blogs blog google software tips web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxondesktop.blogspot.com/2007/02/13-things-to-do-immediately-after.html">
+<title>LINUX ON DESKTOP: 13 Things to do immediately after installing Ubuntu</title>
+<link>http://linuxondesktop.blogspot.com/2007/02/13-things-to-do-immediately-after.html</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-05T23:21:27Z</dc:date>
+<dc:subject>admin blog dvd free howto imported linux opensource reference software sysadmin tips tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tinypaste.com/">
+<title>TinyPaste</title>
+<link>http://tinypaste.com/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-05T22:27:07Z</dc:date>
+<dc:subject>Facebook Ideas Utilities extensions firefox free mobile online productivity programming python software text tools twitter web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/Facebook" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/Ideas" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/Utilities" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/dir/">
+<title>MakeUseOf Directory: Apps for Web and Mobile | MakeUseOf.com</title>
+<link>http://www.makeuseof.com/dir/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-05T22:21:35Z</dc:date>
+<dc:subject>Blogs GTD Ideas free mobile productivity reference search software tools web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/GTD" />
+    <rdf:li resource="http://del.icio.us/tag/Ideas" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/152/srinivasan.html">
+<title>A slightly advanced Introduction to Vim LG #152</title>
+<link>http://linuxgazette.net/152/srinivasan.html</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-03T00:41:53Z</dc:date>
+<dc:subject>admin cheatsheet howto learning linux programming reference software sysadmin tips tools tutorial tutorials unix vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App">
+<title>Install Django and Build Your First App - Webmonkey</title>
+<link>http://www.webmonkey.com/tutorial/Install_Django_and_Build_Your_First_App</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-03T00:30:57Z</dc:date>
+<dc:subject>blog business howto programming python server tutorial tutorials web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pantz.org/database/mysql/mysqlcommands.shtml">
+<title>MySQL Commands</title>
+<link>http://www.pantz.org/database/mysql/mysqlcommands.shtml</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-07-01T11:09:46Z</dc:date>
+<dc:subject>Language admin cheatsheet commands database development firefox:bookmarks howto html imported linux mysql opensource php programming reference server shell sql sysadmin tips tools tutorial tutorials unix web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/admin" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/Language" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikibooks.org/wiki/MySQL/CheatSheet">
+<title>MySQL/CheatSheet - Wikibooks, collection of open-content textbooks</title>
+<link>http://en.wikibooks.org/wiki/MySQL/CheatSheet</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:57:50Z</dc:date>
+<dc:subject>cheatsheet database howto mysql programming reference sql sysadmin</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artfulsoftware.com/infotree/queries.php">
+<title>Common Queries Tree</title>
+<link>http://www.artfulsoftware.com/infotree/queries.php</link>
+<description>query</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:56:44Z</dc:date>
+<dc:subject>DB cheatsheet database development howto html imported mysql php programming reference software sql tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/DB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-users.york.ac.uk/~pml1/bayes/rprogs/">
+<title>Bayesian Statistics: An Introduction: R programs</title>
+<link>http://www-users.york.ac.uk/~pml1/bayes/rprogs/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:23:17Z</dc:date>
+<dc:subject>R programming statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/R" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boingboing.net/2008/06/26/top-10-ted-talks.html">
+<title>Boing Boing - Top 10 TED Talks</title>
+<link>http://www.boingboing.net/2008/06/26/top-10-ted-talks.html</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:22:52Z</dc:date>
+<dc:subject>blog free marketing podcasts presentation psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathpsyc.uni-bonn.de/home.htm">
+<title>Open Distance Learning - Tutorials on Mathematical Psychology</title>
+<link>http://www.mathpsyc.uni-bonn.de/home.htm</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:22:14Z</dc:date>
+<dc:subject>mathematics methodology psychology statistics tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/methodology" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.searchenginejournal.com/9-search-related-twitter-service-to-help-you-find-tweets/7223/">
+<title>9 Search-Related Twitter Service to Help You Find Tweets</title>
+<link>http://www.searchenginejournal.com/9-search-related-twitter-service-to-help-you-find-tweets/7223/</link>
+<description>lifestreaming</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T12:07:47Z</dc:date>
+<dc:subject>presentation research search teaching twitter web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcdoctor-guide.com/wordpress/?p=4149">
+<title>The PC Doctor&#x2019;s blog &#xBB; Blog Archive &#xBB; &#xBB; Build your own Compact Flash hard drive</title>
+<link>http://www.pcdoctor-guide.com/wordpress/?p=4149</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T02:28:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.addonics.com/products/flash_memory_reader/ad44midecf.asp">
+<title>CF Hard Drive Adapter from Addonics</title>
+<link>http://www.addonics.com/products/flash_memory_reader/ad44midecf.asp</link>
+<description>compactflash laptop harddrive storage computer hardware</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T02:21:21Z</dc:date>
+<dc:subject>flash linux portable shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/portable" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sensenetworks.com/macrosense.php">
+<title>Sense Networks</title>
+<link>http://www.sensenetworks.com/macrosense.php</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T00:17:33Z</dc:date>
+<dc:subject>mobile visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.zdnet.com/emergingtech/?p=965">
+<title>Cell phones tracking nightlife activity | Emerging Technology Trends | ZDNet.com</title>
+<link>http://blogs.zdnet.com/emergingtech/?p=965</link>
+<description>tony jebara zagat experiment cell phone mobile pedestrian traffic nightlife restaurant columbia MIT</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-30T00:10:58Z</dc:date>
+<dc:subject>mobile research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.asktog.com/basics/firstPrinciples.html">
+<title>AskTog: First Principles of Interaction Design</title>
+<link>http://www.asktog.com/basics/firstPrinciples.html</link>
+<description>usability design interaction ui hci webdesign gui</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-29T23:53:04Z</dc:date>
+<dc:subject>blog css design heuristics howto imported learning programming reference research software teaching text tips tutorial visualization web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/heuristics" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.useit.com/papers/heuristic/heuristic_list.html">
+<title>Heuristics for User Interface Design</title>
+<link>http://www.useit.com/papers/heuristic/heuristic_list.html</link>
+<description>gigerenzer goldstein</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-29T23:28:42Z</dc:date>
+<dc:subject>business design development heuristics howto html imported learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/heuristics" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-29T23:23:55Z</dc:date>
+<dc:subject>bash commands linux reference shell tips tools ubuntu unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://research.chicagogsb.edu/marketing/databases/dominicks/index.aspx">
+<title>Research Activities - Dominick's Finer Food Database - Kilts Center for Marketing</title>
+<link>http://research.chicagogsb.edu/marketing/databases/dominicks/index.aspx</link>
+<description>dominick's database market share brands grocery recognition</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-28T23:43:36Z</dc:date>
+<dc:subject>database marketing recognition research statistics stats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/recognition" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/stats" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.santafe.edu/~aaronc/powerlaws/">
+<title>Power-law Distributions</title>
+<link>http://www.santafe.edu/~aaronc/powerlaws/</link>
+<description>newman generate power law  statistics matlab powerlaw R research power_law code # Generate 10000 powerlaw numbers ... very easy!!
+x=(1-runif(10000))^(-1/(alpha-1))
+#Check their powerLawness
+sort_x = sort(x)
+y=length(sort_x):1
+plot(sort_x,y)
+#should</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-27T19:49:10Z</dc:date>
+<dc:subject>free math programming research science statistics stats</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stats" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itouchmap.com/latlong.html">
+<title>Latitude and Longitude of a Point</title>
+<link>http://itouchmap.com/latlong.html</link>
+<description> maps googlemaps coordinates latitude longitude google mapping</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-25T22:33:30Z</dc:date>
+<dc:subject>Maps api database google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Maps" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seeing-stars.com/OC/index.shtml">
+<title>THE O.C. Filming Locations:</title>
+<link>http://www.seeing-stars.com/OC/index.shtml</link>
+<description>wikipedia model, group intelligence, collective, organizing without organizations  TheOC california tv oc location usa film</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-25T10:18:37Z</dc:date>
+<dc:subject>Travel online presentation socialnetworks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Travel" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maxmind.com/app/installation?city=1">
+<title>MaxMind - GeoIP Database Installation Instructions</title>
+<link>http://www.maxmind.com/app/installation?city=1</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-24T23:43:15Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.maxmind.com/app/geolitecity">
+<title>MaxMind - GeoLite City | Free IP Address to City Database</title>
+<link>http://www.maxmind.com/app/geolitecity</link>
+<description>geolocation</description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-24T23:40:32Z</dc:date>
+<dc:subject>DB Maps Utilities advertising api business database development free imported java javascript marketing mysql php programming reference software sql stats sysadmin web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/DB" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/Maps" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/stats" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/Utilities" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/24/spotjots/">
+<title>SpotJots Combines Microblogging with Geolocation</title>
+<link>http://mashable.com/2008/06/24/spotjots/</link>
+<description></description>
+<dc:creator>dggoldst</dc:creator>
+<dc:date>2008-06-24T22:31:51Z</dc:date>
+<dc:subject>mobile presentation web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

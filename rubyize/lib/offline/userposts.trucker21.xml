@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/trucker21">
+<title>del.icio.us/trucker21</title>
+<link>http://del.icio.us/trucker21</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.ted.com/index.php/talks/yochai_benkler_on_the_new_open_source_economics.html" />
+  <rdf:li rdf:resource="http://venturehacks.com/articles/laserlike" />
+  <rdf:li rdf:resource="http://film.guardian.co.uk/news/story/0,,2288127,00.html" />
+  <rdf:li rdf:resource="http://www.salon.com/mwt/feature/2008/07/05/white_people/print.html" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/local/la-me-philosophy5-2008jul05,0,7136636.story?track=rss" />
+  <rdf:li rdf:resource="http://www.alternet.org/healthwellness/90411/?ses=9684d329d98aa3d34b30e96d11b174ff" />
+  <rdf:li rdf:resource="http://www.economist.com/specialreports/displayStory.cfm?STORY_ID=10950394" />
+  <rdf:li rdf:resource="http://blogs.psychologytoday.com/blog/the-playing-field/200807/the-disastrous-differences-between-boys-and-girls" />
+  <rdf:li rdf:resource="http://ben.casnocha.com/2007/11/its-la-you-dont.html" />
+  <rdf:li rdf:resource="http://www.inc.com/magazine/20080701/the-get-ahead-guide-erin-mckenna-makes-the-best-cupcakes.html" />
+  <rdf:li rdf:resource="http://www.washingtonpost.com/wp-dyn/content/article/2008/05/31/AR2008053100290.html" />
+  <rdf:li rdf:resource="http://www.salon.com/ent/movies/btm/feature/2008/07/02/japan_cuts/index.html" />
+  <rdf:li rdf:resource="http://blog.inc.com/archives/2008/07/01/apture_a_tech_company_banking_on_journalistic_cred.html?partner=rss" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/communication/get-out-more-6-ways-to-be-more-social.html" />
+  <rdf:li rdf:resource="http://www.entrepreneurslife.com/thoughts/entry/what-i-hate-about-the-4-hour-work-week" />
+  <rdf:li rdf:resource="http://scobleizer.com/2008/06/30/is-getting-more-traffic-your-real-goal/" />
+  <rdf:li rdf:resource="http://www.usatoday.com/news/nation/2008-06-30-infidelity-main_N.htm?csp=34" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/articles/2008/06/29/attention_class/?page=full" />
+  <rdf:li rdf:resource="http://freakonomics.blogs.nytimes.com/2008/06/30/goldin-and-katz-on-education-technology-and-growth/" />
+  <rdf:li rdf:resource="http://www.usatoday.com/tech/products/services/2008-06-22-google-search-engine-optimization_N.htm" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/startups_social_science.php" />
+  <rdf:li rdf:resource="http://www.edutopia.org/ikid-digital-learner-technology-2008" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/nyregion/nyregionspecial2/29writerli.html?_r=1&#x26;ref=nyregionspecial2&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://en.allexperts.com/q/Writing-Plays-Screenwriting-677/2008/6/screenplays-sold.htm" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/08/so_what_do_i_kn.html" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/08/ten_okay_13_que.html" />
+  <rdf:li rdf:resource="http://blog.guykawasaki.com/2006/08/dear_libby.html" />
+  <rdf:li rdf:resource="http://www.insidehighered.com/news/2008/06/26/gmu" />
+  <rdf:li rdf:resource="http://www.salon.com/ent/feature/2008/06/26/korean_hiphop/index.html" />
+  <rdf:li rdf:resource="http://www.usatoday.com/news/health/2008-06-25-make-believe_N.htm?csp=34" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-06T12:15:27Z</dc:date>
+<dc:subject>Advice blog blogging howto tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advice" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/index.php/talks/yochai_benkler_on_the_new_open_source_economics.html">
+<title>Yochai Benkler on the new open-source economics | Video on TED.com</title>
+<link>http://www.ted.com/index.php/talks/yochai_benkler_on_the_new_open_source_economics.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T14:51:27Z</dc:date>
+<dc:subject>Economics Internet opensource ted video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Economics" />
+    <rdf:li resource="http://del.icio.us/tag/Internet" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/ted" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://venturehacks.com/articles/laserlike">
+<title>Venture Hacks &#x2014; Free ideas. Just add execution.</title>
+<link>http://venturehacks.com/articles/laserlike</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T14:26:02Z</dc:date>
+<dc:subject>execution ideas inspiration startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/execution" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://film.guardian.co.uk/news/story/0,,2288127,00.html">
+<title>How to write a movie | News | guardian.co.uk Film</title>
+<link>http://film.guardian.co.uk/news/story/0,,2288127,00.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T14:24:21Z</dc:date>
+<dc:subject>film howto screenwriting tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/screenwriting" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salon.com/mwt/feature/2008/07/05/white_people/print.html">
+<title>Salon.com Life | The unbearable whiteness of being</title>
+<link>http://www.salon.com/mwt/feature/2008/07/05/white_people/print.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T14:22:09Z</dc:date>
+<dc:subject>stuff-white-people-like</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stuff-white-people-like" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/local/la-me-philosophy5-2008jul05,0,7136636.story?track=rss">
+<title>Yeah, these philosophy professors will give it some thought - Los Angeles Times</title>
+<link>http://www.latimes.com/news/local/la-me-philosophy5-2008jul05,0,7136636.story?track=rss</link>
+<description>Listeners everywhere can tune in online at www.philosophytalk.org.</description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T14:16:30Z</dc:date>
+<dc:subject>philosophy radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternet.org/healthwellness/90411/?ses=9684d329d98aa3d34b30e96d11b174ff">
+<title>The Science of Happiness: Is It All Bullshit? | Health and Wellness | AlterNet</title>
+<link>http://www.alternet.org/healthwellness/90411/?ses=9684d329d98aa3d34b30e96d11b174ff</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-05T01:54:01Z</dc:date>
+<dc:subject>positive-psych tal-ben-shahar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tal-ben-shahar" />
+    <rdf:li resource="http://del.icio.us/tag/positive-psych" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/specialreports/displayStory.cfm?STORY_ID=10950394">
+<title>Nomads at last | Economist.com</title>
+<link>http://www.economist.com/specialreports/displayStory.cfm?STORY_ID=10950394</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-04T12:54:25Z</dc:date>
+<dc:subject>Mobile culture economy innovation inspiration wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/economy" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/Mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.psychologytoday.com/blog/the-playing-field/200807/the-disastrous-differences-between-boys-and-girls">
+<title>The Disastrous Differences Between Boys and Girls | Psychology Today Blogs</title>
+<link>http://blogs.psychologytoday.com/blog/the-playing-field/200807/the-disastrous-differences-between-boys-and-girls</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-04T00:52:28Z</dc:date>
+<dc:subject>boys girls injuries sports</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/injuries" />
+    <rdf:li resource="http://del.icio.us/tag/boys" />
+    <rdf:li resource="http://del.icio.us/tag/girls" />
+    <rdf:li resource="http://del.icio.us/tag/sports" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ben.casnocha.com/2007/11/its-la-you-dont.html">
+<title>Ben Casnocha: The Blog: It's LA. You Don't Matter. You're Free.</title>
+<link>http://ben.casnocha.com/2007/11/its-la-you-dont.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-04T00:36:54Z</dc:date>
+<dc:subject>geography la</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/la" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inc.com/magazine/20080701/the-get-ahead-guide-erin-mckenna-makes-the-best-cupcakes.html">
+<title>The Get Ahead Guide: Erin McKenna Makes the Best Cupcakes in New York City - BabyCakes - Tom Colicchio</title>
+<link>http://www.inc.com/magazine/20080701/the-get-ahead-guide-erin-mckenna-makes-the-best-cupcakes.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-03T13:29:07Z</dc:date>
+<dc:subject>bakery vegan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vegan" />
+    <rdf:li resource="http://del.icio.us/tag/bakery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.washingtonpost.com/wp-dyn/content/article/2008/05/31/AR2008053100290.html">
+<title>Michelle Singletary - Unwelcome Change, Or a Chance - washingtonpost.com</title>
+<link>http://www.washingtonpost.com/wp-dyn/content/article/2008/05/31/AR2008053100290.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-03T12:56:51Z</dc:date>
+<dc:subject>alternative-career career entrepreneurship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/alternative-career" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salon.com/ent/movies/btm/feature/2008/07/02/japan_cuts/index.html">
+<title>Japanese film's not-so-new new wave - Beyond the Multiplex - Salon.com</title>
+<link>http://www.salon.com/ent/movies/btm/feature/2008/07/02/japan_cuts/index.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-02T22:31:17Z</dc:date>
+<dc:subject>film japan japanese</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/japanese" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.inc.com/archives/2008/07/01/apture_a_tech_company_banking_on_journalistic_cred.html?partner=rss">
+<title>Fresh Inc.</title>
+<link>http://blog.inc.com/archives/2008/07/01/apture_a_tech_company_banking_on_journalistic_cred.html?partner=rss</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-02T19:15:14Z</dc:date>
+<dc:subject>apture technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apture" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/communication/get-out-more-6-ways-to-be-more-social.html">
+<title>Get Out More: 6 Ways to Be More Social - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/communication/get-out-more-6-ways-to-be-more-social.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-02T18:53:29Z</dc:date>
+<dc:subject>communication networking social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.entrepreneurslife.com/thoughts/entry/what-i-hate-about-the-4-hour-work-week">
+<title>What I hate about the 4-hour work week &#x2026; in Aggressive Small Business Marketing &#x26; Advertising</title>
+<link>http://www.entrepreneurslife.com/thoughts/entry/what-i-hate-about-the-4-hour-work-week</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-02T01:50:29Z</dc:date>
+<dc:subject>4-hour-work-week blog entrepreneur entrepreneurship</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/4-hour-work-week" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scobleizer.com/2008/06/30/is-getting-more-traffic-your-real-goal/">
+<title>Scobleizer &#x2014; Tech geek blogger &#xBB; Blog Archive Is getting &#x201C;more traffic&#x201D; your real goal? &#xAB;</title>
+<link>http://scobleizer.com/2008/06/30/is-getting-more-traffic-your-real-goal/</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-01T20:42:36Z</dc:date>
+<dc:subject>socialmedia traffic</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/traffic" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usatoday.com/news/nation/2008-06-30-infidelity-main_N.htm?csp=34">
+<title>The rules of infidelity today are blurry - USATODAY.com</title>
+<link>http://www.usatoday.com/news/nation/2008-06-30-infidelity-main_N.htm?csp=34</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-07-01T10:40:22Z</dc:date>
+<dc:subject>infidelity marriage relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/infidelity" />
+    <rdf:li resource="http://del.icio.us/tag/marriage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/articles/2008/06/29/attention_class/?page=full">
+<title>Attention class - The Boston Globe</title>
+<link>http://www.boston.com/bostonglobe/ideas/articles/2008/06/29/attention_class/?page=full</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-30T23:40:45Z</dc:date>
+<dc:subject>ADHD children meditation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ADHD" />
+    <rdf:li resource="http://del.icio.us/tag/meditation" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freakonomics.blogs.nytimes.com/2008/06/30/goldin-and-katz-on-education-technology-and-growth/">
+<title>Goldin and Katz on Education, Technology, and Growth - Freakonomics - Opinion - New York Times Blog</title>
+<link>http://freakonomics.blogs.nytimes.com/2008/06/30/goldin-and-katz-on-education-technology-and-growth/</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-30T23:27:00Z</dc:date>
+<dc:subject>Economics education technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/Economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usatoday.com/tech/products/services/2008-06-22-google-search-engine-optimization_N.htm">
+<title>Google's Cutts: Good directions drive traffic to your website - USATODAY.com</title>
+<link>http://www.usatoday.com/tech/products/services/2008-06-22-google-search-engine-optimization_N.htm</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-30T15:01:33Z</dc:date>
+<dc:subject>google howto marketing searchengine seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/startups_social_science.php">
+<title>Web 2.0 Start-Ups = Social Science Experiments - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/startups_social_science.php</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-30T13:49:27Z</dc:date>
+<dc:subject>business science social software startup web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.edutopia.org/ikid-digital-learner-technology-2008">
+<title>Young Minds, Fast Times: The Twenty-First-Century Digital Learner | Edutopia</title>
+<link>http://www.edutopia.org/ikid-digital-learner-technology-2008</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-28T13:12:41Z</dc:date>
+<dc:subject>career children curriculum digitaldivide digitalnatives education edutopia technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/curriculum" />
+    <rdf:li resource="http://del.icio.us/tag/digitaldivide" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/digitalnatives" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/edutopia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/nyregion/nyregionspecial2/29writerli.html?_r=1&#x26;ref=nyregionspecial2&#x26;oref=slogin">
+<title>Entertainment - A Hewlett Guy Living His Dream Writing - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/nyregion/nyregionspecial2/29writerli.html?_r=1&#x26;ref=nyregionspecial2&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-28T12:31:04Z</dc:date>
+<dc:subject>lawyer writer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lawyer" />
+    <rdf:li resource="http://del.icio.us/tag/writer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.allexperts.com/q/Writing-Plays-Screenwriting-677/2008/6/screenplays-sold.htm">
+<title>Writing Plays/Screenwriting: How are screenplays sold?, finished screenplay, gain representation</title>
+<link>http://en.allexperts.com/q/Writing-Plays-Screenwriting-677/2008/6/screenplays-sold.htm</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-27T22:59:42Z</dc:date>
+<dc:subject>marketing screenwriting selling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screenwriting" />
+    <rdf:li resource="http://del.icio.us/tag/selling" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/08/so_what_do_i_kn.html">
+<title>How to Change the World: So What Do I Know?</title>
+<link>http://blog.guykawasaki.com/2006/08/so_what_do_i_kn.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T16:54:43Z</dc:date>
+<dc:subject>Advice business career resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advice" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/08/ten_okay_13_que.html">
+<title>How to Change the World: Ten (Okay, 13) Questions with Libby Sartain, Chief People Yahoo!</title>
+<link>http://blog.guykawasaki.com/2006/08/ten_okay_13_que.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T16:47:27Z</dc:date>
+<dc:subject>Advice career interview jobs resume tips yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advice" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.guykawasaki.com/2006/08/dear_libby.html">
+<title>How to Change the World: Dear Libby</title>
+<link>http://blog.guykawasaki.com/2006/08/dear_libby.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T16:44:49Z</dc:date>
+<dc:subject>Advice career coverletter howto resume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/resume" />
+    <rdf:li resource="http://del.icio.us/tag/coverletter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.insidehighered.com/news/2008/06/26/gmu">
+<title>Diversity Meets Data at George Mason Law :: Inside Higher Ed :: Higher Education's Source for News, Views and Jobs</title>
+<link>http://www.insidehighered.com/news/2008/06/26/gmu</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T15:58:24Z</dc:date>
+<dc:subject>aba affirmative-action diversity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aba" />
+    <rdf:li resource="http://del.icio.us/tag/diversity" />
+    <rdf:li resource="http://del.icio.us/tag/affirmative-action" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salon.com/ent/feature/2008/06/26/korean_hiphop/index.html">
+<title>Hip-hop, South Korea | Salon Arts &#x26; Entertainment</title>
+<link>http://www.salon.com/ent/feature/2008/06/26/korean_hiphop/index.html</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T02:41:19Z</dc:date>
+<dc:subject>dance hip-hop south-korea</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/south-korea" />
+    <rdf:li resource="http://del.icio.us/tag/hip-hop" />
+    <rdf:li resource="http://del.icio.us/tag/dance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usatoday.com/news/health/2008-06-25-make-believe_N.htm?csp=34">
+<title>Is make-believe vital to kids? You better believe it - USATODAY.com</title>
+<link>http://www.usatoday.com/news/health/2008-06-25-make-believe_N.htm?csp=34</link>
+<description></description>
+<dc:creator>trucker21</dc:creator>
+<dc:date>2008-06-26T02:37:45Z</dc:date>
+<dc:subject>creativity education learning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

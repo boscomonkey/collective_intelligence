@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/koskim23">
+<title>del.icio.us/koskim23</title>
+<link>http://del.icio.us/koskim23</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=OUG4JXE6K4A" />
+  <rdf:li rdf:resource="http://cleveland.about.com/od/clevelandattractions/tp/freethings.htm" />
+  <rdf:li rdf:resource="http://blogs.bnet.com/pr/?p=153" />
+  <rdf:li rdf:resource="http://www.hospitalbuyer.com/medical-devices-products/monitoring/dps-system-for-breathing-support-approved-by-feds-2540/?camp=rssfeed&#x26;src=hb&#x26;type=textlink" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/23/business/media/23link.html?_r=4&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/23/mashable-delicious-50-most-popular-stories/" />
+  <rdf:li rdf:resource="http://blog.cleveland.com/medical/2008/06/device_that_helps_parlyzed_peo.html" />
+  <rdf:li rdf:resource="http://www.usnews.com/articles/health/healthday/2008/06/18/device-helps-spinal-patients-breathe-without.html" />
+  <rdf:li rdf:resource="http://ap.google.com/article/ALeqM5jZEHej6qSZA28mzRTCVjPPHEyp4wD91CNNL00" />
+  <rdf:li rdf:resource="http://timestranscript.canadaeast.com/lifetimes/article/333885" />
+  <rdf:li rdf:resource="http://www.wcpn.org/index.php/WCPN/news/12375/" />
+  <rdf:li rdf:resource="http://www.cleveland.com/medical/index.ssf/2008/06/device_that_helps_parlyzed_peo.html" />
+  <rdf:li rdf:resource="http://www.businessweek.com/ap//D91CJH480.htm" />
+  <rdf:li rdf:resource="http://mashable.com/2007/09/08/5000-resources-to-do-just-about-anything-online/" />
+  <rdf:li rdf:resource="http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software" />
+  <rdf:li rdf:resource="http://www.jonbishop.org/2008/04/twitter-101/" />
+  <rdf:li rdf:resource="http://www.horsepigcow.com/2008/04/21/tweeting-for-companies-101/" />
+  <rdf:li rdf:resource="http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm" />
+  <rdf:li rdf:resource="http://cincinnati.craigslist.org/ret/699733747.html" />
+  <rdf:li rdf:resource="http://franchise.business-opportunities.biz/2008/06/04/bp-will-roll-out-ampm-franchise-opportunities-for-greater-cincinnati-area-during-%E2%80%9Cdiscovery-day%E2%80%9D/" />
+  <rdf:li rdf:resource="http://thefranchiseking.typepad.com/cincinatti_franchise_oppo/cincinnati-franchise-news.html" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/05/social-media-strategy/" />
+  <rdf:li rdf:resource="http://www.asaecenter.org/PublicationsResources/ANowDetail.cfm?ItemNumber=29013" />
+  <rdf:li rdf:resource="http://www.stonyfield.com/weblog/" />
+  <rdf:li rdf:resource="http://www.businessweek.com/magazine/content/05_18/b3931001_mz001.htm" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/03/03/business/03walmart.html?_r=1&#x26;scp=1&#x26;sq=wal+mart&#x26;st=nyt&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://del.icio.us/edwardhoward" />
+  <rdf:li rdf:resource="http://www.p2w2.com/blog/index.php/index.php/how-twitter-can-help-your-small-business/" />
+  <rdf:li rdf:resource="http://matureprstudent.wordpress.com/2008/05/26/can-social-media-be-measured/" />
+  <rdf:li rdf:resource="http://www.mguerilla.com/media_guerrilla/2007/12/the-three-os-of.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description>Here are some ideas on how to build and maintain a steady blogging rhythm, be it for your personal blog or your business blog. We&#x2019;ll cover goals, tasks, tools, and some bonus secrets.</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-07-06T13:02:18Z</dc:date>
+<dc:subject>blogging chris-brogan clientapplications resources tips web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/chris-brogan" />
+    <rdf:li resource="http://del.icio.us/tag/clientapplications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=OUG4JXE6K4A">
+<title>YouTube - Ray Anderson - Interface Carpets</title>
+<link>http://www.youtube.com/watch?v=OUG4JXE6K4A</link>
+<description>to show clients how to use YouTube</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-07-06T01:05:51Z</dc:date>
+<dc:subject>Clientrelated Interface YouTube environment socialmedia web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Interface" />
+    <rdf:li resource="http://del.icio.us/tag/Clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/YouTube" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cleveland.about.com/od/clevelandattractions/tp/freethings.htm">
+<title>FREE things to do in Cleveland</title>
+<link>http://cleveland.about.com/od/clevelandattractions/tp/freethings.htm</link>
+<description>Enjoying Cleveland doesn't have to be expensive. The city has beautiful parks, fascinating shops, and free days at museums. Learn more about free things to do on the North Coast.</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-07-06T01:04:48Z</dc:date>
+<dc:subject>cleveland free ohio things-to-do</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cleveland" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/ohio" />
+    <rdf:li resource="http://del.icio.us/tag/things-to-do" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.bnet.com/pr/?p=153">
+<title>Using Facebook to Do PR | Catching Flack | BNET</title>
+<link>http://blogs.bnet.com/pr/?p=153</link>
+<description>I&#x2019;m spending more and more time on Facebook. It&#x2019;s an amazing social media phenomenon. First and foremost is the fact that everyone (or virtually everyone) is on Facebook under their real identity. So you have some idea of who you are dealing with. Sec</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-27T14:41:36Z</dc:date>
+<dc:subject>clientapplications facebook pr publicrelations socialmedia web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/clientapplications" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/pr" />
+    <rdf:li resource="http://del.icio.us/tag/publicrelations" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hospitalbuyer.com/medical-devices-products/monitoring/dps-system-for-breathing-support-approved-by-feds-2540/?camp=rssfeed&#x26;src=hb&#x26;type=textlink">
+<title>DPS System for Breathing Support Approved by Feds - HospitalBuyer</title>
+<link>http://www.hospitalbuyer.com/medical-devices-products/monitoring/dps-system-for-breathing-support-approved-by-feds-2540/?camp=rssfeed&#x26;src=hb&#x26;type=textlink</link>
+<description>The NeuRx Diaphragm Pacing System (DPS) supports breathing for patients who are ventilator-dependent and is manufactured by Synapse Biomedical, Incorporated. The system recently received marketing clearance (pdf) from the Food and Drug Administration, as</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-24T17:34:45Z</dc:date>
+<dc:subject>Christopher-Reeve FDA NeuRx clientrelated synapse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/NeuRx" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/23/business/media/23link.html?_r=4&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin">
+<title>Link by Link - Delaying News in the Era of the Internet - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/23/business/media/23link.html?_r=4&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin&#x26;oref=slogin</link>
+<description>WHEN the NBC News host Tim Russert died on June 13, NBC tried to hold back the news from going public for more than an hour to notify his family vacationing in Italy and presumably to prepare for what became six hours of coverage on its cable news outlet,</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T19:37:39Z</dc:date>
+<dc:subject>NYTimes blogging socialmedia twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/NYTimes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/23/mashable-delicious-50-most-popular-stories/">
+<title>http://mashable.com/2008/06/23/mashable-delicious-50-most-popular-stories/</title>
+<link>http://mashable.com/2008/06/23/mashable-delicious-50-most-popular-stories/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T19:36:00Z</dc:date>
+<dc:subject>blog delicious mashable socialmedia tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/mashable" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cleveland.com/medical/2008/06/device_that_helps_parlyzed_peo.html">
+<title>Device that helps paralyzed people to breathe gets FDA clearance</title>
+<link>http://blog.cleveland.com/medical/2008/06/device_that_helps_parlyzed_peo.html</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T14:26:09Z</dc:date>
+<dc:subject>ALS Christopher-Reeve FDA Lou-Gehrig's-Disease NeuRx clientrelated spinal-cord-injury synapse ventillator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+    <rdf:li resource="http://del.icio.us/tag/spinal-cord-injury" />
+    <rdf:li resource="http://del.icio.us/tag/ventillator" />
+    <rdf:li resource="http://del.icio.us/tag/ALS" />
+    <rdf:li resource="http://del.icio.us/tag/Lou-Gehrig%27s-Disease" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/NeuRx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usnews.com/articles/health/healthday/2008/06/18/device-helps-spinal-patients-breathe-without.html">
+<title>Device Helps Spinal Patients Breathe Without Ventilator - Health  - usnews.com</title>
+<link>http://www.usnews.com/articles/health/healthday/2008/06/18/device-helps-spinal-patients-breathe-without.html</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T14:16:08Z</dc:date>
+<dc:subject>ALS Christopher-Reeve Lou-Gehrig's-Disease clientrelated spinal-cord-injury synapse ventillator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/spinal-cord-injury" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/ALS" />
+    <rdf:li resource="http://del.icio.us/tag/Lou-Gehrig%27s-Disease" />
+    <rdf:li resource="http://del.icio.us/tag/ventillator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ap.google.com/article/ALeqM5jZEHej6qSZA28mzRTCVjPPHEyp4wD91CNNL00">
+<title>The Associated Press: FDA OKs breathing device used by Christopher Reeve</title>
+<link>http://ap.google.com/article/ALeqM5jZEHej6qSZA28mzRTCVjPPHEyp4wD91CNNL00</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T14:15:07Z</dc:date>
+<dc:subject>ALS Christopher-Reeve Cleveland FDA Lou-Gehrig's-Disease clientrelated spinal-cord-injury synapse ventillator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+    <rdf:li resource="http://del.icio.us/tag/Cleveland" />
+    <rdf:li resource="http://del.icio.us/tag/spinal-cord-injury" />
+    <rdf:li resource="http://del.icio.us/tag/ALS" />
+    <rdf:li resource="http://del.icio.us/tag/Lou-Gehrig%27s-Disease" />
+    <rdf:li resource="http://del.icio.us/tag/ventillator" />
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://timestranscript.canadaeast.com/lifetimes/article/333885">
+<title>FDA OKs breathing device tested on Christopher Reeve</title>
+<link>http://timestranscript.canadaeast.com/lifetimes/article/333885</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-23T14:07:09Z</dc:date>
+<dc:subject>Christopher-Reeve FDA NeuRx clientrelated spinal-cord-injury synapse ventillator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+    <rdf:li resource="http://del.icio.us/tag/NeuRx" />
+    <rdf:li resource="http://del.icio.us/tag/spinal-cord-injury" />
+    <rdf:li resource="http://del.icio.us/tag/ventillator" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wcpn.org/index.php/WCPN/news/12375/">
+<title>FDA Grants Approval for Alternative to Ventilators: Implantable Device That Stimulates Breathing</title>
+<link>http://www.wcpn.org/index.php/WCPN/news/12375/</link>
+<description>90.3 WCPN - Local News for Friday, June 20, 2008.</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-20T17:39:35Z</dc:date>
+<dc:subject>Christopher-Reeve FDA Synapse clientrelated spinal-cord-injury</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Synapse" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/spinal-cord-injury" />
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+    <rdf:li resource="http://del.icio.us/tag/Christopher-Reeve" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cleveland.com/medical/index.ssf/2008/06/device_that_helps_parlyzed_peo.html">
+<title>Device that helps parlyzed people to breathe gets FDA clearance</title>
+<link>http://www.cleveland.com/medical/index.ssf/2008/06/device_that_helps_parlyzed_peo.html</link>
+<description>announcement of FDA approval as copied in PD</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-18T23:10:04Z</dc:date>
+<dc:subject>Cleveland FDA NeuRx Plain-Dealer clientrelated synapse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/FDA" />
+    <rdf:li resource="http://del.icio.us/tag/Cleveland" />
+    <rdf:li resource="http://del.icio.us/tag/Plain-Dealer" />
+    <rdf:li resource="http://del.icio.us/tag/NeuRx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/ap//D91CJH480.htm">
+<title>FDA OKs breathing device tested on Christopher Reeve</title>
+<link>http://www.businessweek.com/ap//D91CJH480.htm</link>
+<description>The Food and Drug Administration on Wednesday approved a medical device tested about five years ago on actor Christopher Reeve to help him breathe without a ventilator.</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-18T18:07:11Z</dc:date>
+<dc:subject>clientrelated medical neurxdps reeve synapse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/synapse" />
+    <rdf:li resource="http://del.icio.us/tag/medical" />
+    <rdf:li resource="http://del.icio.us/tag/neurxdps" />
+    <rdf:li resource="http://del.icio.us/tag/reeve" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2007/09/08/5000-resources-to-do-just-about-anything-online/">
+<title>5000 Resources to Do Anything</title>
+<link>http://mashable.com/2007/09/08/5000-resources-to-do-just-about-anything-online/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-17T00:31:34Z</dc:date>
+<dc:subject>blog blogging business marketing resources socialmedia tips tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software">
+<title>find your deleted files</title>
+<link>http://lifehacker.com/393084/how-to-recover-deleted-files-with-free-software</link>
+<description>how to save files when I delete them!</description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-14T13:53:46Z</dc:date>
+<dc:subject>deleted files lifehacker recovery software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/deleted" />
+    <rdf:li resource="http://del.icio.us/tag/files" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jonbishop.org/2008/04/twitter-101/">
+<title>Twitter 101 | Blog by Jon Bishop</title>
+<link>http://www.jonbishop.org/2008/04/twitter-101/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-13T17:09:02Z</dc:date>
+<dc:subject>microblogging socialmedia twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.horsepigcow.com/2008/04/21/tweeting-for-companies-101/">
+<title>Tweeting for Companies 101</title>
+<link>http://www.horsepigcow.com/2008/04/21/tweeting-for-companies-101/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-09T20:38:10Z</dc:date>
+<dc:subject>business clientapplications marketing microblogging socialmedia twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/clientapplications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm">
+<title>Why Twitter Matters</title>
+<link>http://www.businessweek.com/technology/content/may2008/tc20080514_269697.htm</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T20:53:03Z</dc:date>
+<dc:subject>Business businessweek culture microblogging socialmedia twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/Business" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/businessweek" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cincinnati.craigslist.org/ret/699733747.html">
+<title>BP ampm Franchise Opportunities Available in Cincinnati</title>
+<link>http://cincinnati.craigslist.org/ret/699733747.html</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T19:16:28Z</dc:date>
+<dc:subject>ampm bp business clientrelated franchise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bp" />
+    <rdf:li resource="http://del.icio.us/tag/ampm" />
+    <rdf:li resource="http://del.icio.us/tag/franchise" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://franchise.business-opportunities.biz/2008/06/04/bp-will-roll-out-ampm-franchise-opportunities-for-greater-cincinnati-area-during-%E2%80%9Cdiscovery-day%E2%80%9D/">
+<title>Franchise Business Opportunities | BP Will Roll Out ampm Franchise Opportunities For Greater Cincinnati Area During &#x201C;Discovery Day&#x201D;</title>
+<link>http://franchise.business-opportunities.biz/2008/06/04/bp-will-roll-out-ampm-franchise-opportunities-for-greater-cincinnati-area-during-%E2%80%9Cdiscovery-day%E2%80%9D/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T19:12:43Z</dc:date>
+<dc:subject>ampm blog bp clientrelated franchise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/bp" />
+    <rdf:li resource="http://del.icio.us/tag/ampm" />
+    <rdf:li resource="http://del.icio.us/tag/franchise" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thefranchiseking.typepad.com/cincinatti_franchise_oppo/cincinnati-franchise-news.html">
+<title>Cincinnati Franchise Opportunities : Cincinnati Franchise News!</title>
+<link>http://thefranchiseking.typepad.com/cincinatti_franchise_oppo/cincinnati-franchise-news.html</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T19:10:49Z</dc:date>
+<dc:subject>blog bp cincinnati clientrelated franchise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/clientrelated" />
+    <rdf:li resource="http://del.icio.us/tag/bp" />
+    <rdf:li resource="http://del.icio.us/tag/cincinnati" />
+    <rdf:li resource="http://del.icio.us/tag/franchise" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/05/social-media-strategy/">
+<title>Is a Facebook Page a Complete Social Media Strategy?</title>
+<link>http://mashable.com/2008/06/05/social-media-strategy/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T19:10:10Z</dc:date>
+<dc:subject>business facebook media social socialmedia verizon web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/verizon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.asaecenter.org/PublicationsResources/ANowDetail.cfm?ItemNumber=29013">
+<title>How do you measure a conversation? Web 2.0 raises this thorny question, and no one has a definitive solution yet. But once you decide what&#x2019;s important for your association, there are ways you can answer it for yourself.</title>
+<link>http://www.asaecenter.org/PublicationsResources/ANowDetail.cfm?ItemNumber=29013</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-05T00:58:52Z</dc:date>
+<dc:subject>analytics measurement media social socialmedia we web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/we" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stonyfield.com/weblog/">
+<title>Stonyfield Farm Blog</title>
+<link>http://www.stonyfield.com/weblog/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-04T20:07:09Z</dc:date>
+<dc:subject>blog blogging business corporate stonyfield</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/corporate" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/stonyfield" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/magazine/content/05_18/b3931001_mz001.htm">
+<title>Blogs Will Change Your Business</title>
+<link>http://www.businessweek.com/magazine/content/05_18/b3931001_mz001.htm</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-04T19:48:42Z</dc:date>
+<dc:subject>blogging business businessweek corporate media social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/corporate" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/businessweek" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/03/03/business/03walmart.html?_r=1&#x26;scp=1&#x26;sq=wal+mart&#x26;st=nyt&#x26;oref=slogin">
+<title>Wal-Mart Tastemakers Write Unfiltered Blog - New York Times</title>
+<link>http://www.nytimes.com/2008/03/03/business/03walmart.html?_r=1&#x26;scp=1&#x26;sq=wal+mart&#x26;st=nyt&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-04T19:43:21Z</dc:date>
+<dc:subject>NYTimes Wal-Mart blogging bus corporate web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/corporate" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/Wal-Mart" />
+    <rdf:li resource="http://del.icio.us/tag/NYTimes" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/bus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/edwardhoward">
+<title>edwardhoward's bookmarks on del.icio.us</title>
+<link>http://del.icio.us/edwardhoward</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-04T19:39:14Z</dc:date>
+<dc:subject>bookmark delicious edwardhoward</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+    <rdf:li resource="http://del.icio.us/tag/bookmark" />
+    <rdf:li resource="http://del.icio.us/tag/edwardhoward" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.p2w2.com/blog/index.php/index.php/how-twitter-can-help-your-small-business/">
+<title>How twitter can help your small business | p2w2 blog</title>
+<link>http://www.p2w2.com/blog/index.php/index.php/how-twitter-can-help-your-small-business/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-04T16:04:08Z</dc:date>
+<dc:subject>business media small social twitter web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/small" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matureprstudent.wordpress.com/2008/05/26/can-social-media-be-measured/">
+<title>Can social media be measured? &#xAB; Bons mots</title>
+<link>http://matureprstudent.wordpress.com/2008/05/26/can-social-media-be-measured/</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-03T19:05:01Z</dc:date>
+<dc:subject>KDPaine measurement media social web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+    <rdf:li resource="http://del.icio.us/tag/KDPaine" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mguerilla.com/media_guerrilla/2007/12/the-three-os-of.html">
+<title>The Three O'sof Social Media Measurement</title>
+<link>http://www.mguerilla.com/media_guerrilla/2007/12/the-three-os-of.html</link>
+<description></description>
+<dc:creator>koskim23</dc:creator>
+<dc:date>2008-06-03T19:04:12Z</dc:date>
+<dc:subject>analytics marketing measurement media metrics social socialmedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/measurement" />
+    <rdf:li resource="http://del.icio.us/tag/metrics" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ryanthirtyman">
+<title>del.icio.us/ryanthirtyman</title>
+<link>http://del.icio.us/ryanthirtyman</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_14201&#x26;sliceId=2" />
+  <rdf:li rdf:resource="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_15523&#x26;sliceId=2" />
+  <rdf:li rdf:resource="http://attuworld.com/food/mcdonalds-in-japan.html" />
+  <rdf:li rdf:resource="http://www.plurk.com/" />
+  <rdf:li rdf:resource="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_16243" />
+  <rdf:li rdf:resource="http://www.adobe.com/devnet/flash/apps/flv_bitrate_calculator/index.html" />
+  <rdf:li rdf:resource="http://www.mikechambers.com/blog/2002/09/27/dynamically-encoding-video-into-flv/" />
+  <rdf:li rdf:resource="http://components.earthscienceagency.com/components/flvplayer/" />
+  <rdf:li rdf:resource="http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/" />
+  <rdf:li rdf:resource="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/06/30/once-nearly-invisible-to-search-engines-flash-files-can-now-be-found-and-indexed/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/galleries/artistic-websites-two/" />
+  <rdf:li rdf:resource="http://googlewebmastercentral.blogspot.com/2008/06/improved-flash-indexing.html" />
+  <rdf:li rdf:resource="http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/" />
+  <rdf:li rdf:resource="http://www.chawt.com/" />
+  <rdf:li rdf:resource="http://www.flashscript.biz/MX2004/OOP_tutorial/lesson3.html" />
+  <rdf:li rdf:resource="http://www.actionscript.org/forums/showthread.php3?t=160496" />
+  <rdf:li rdf:resource="http://clipmarks.com/clipmark/9EC405E9-7857-45E1-A89A-77040D0BF751/" />
+  <rdf:li rdf:resource="http://saumyaray.wordpress.com/category/flash/page/2/" />
+  <rdf:li rdf:resource="http://regulargeek.com/2008/06/24/required-reading-in-social-media/" />
+  <rdf:li rdf:resource="http://www.stridegum.com/index.php?src=dom_rram_0608#/home/" />
+  <rdf:li rdf:resource="http://blog.pixelfumes.com/" />
+  <rdf:li rdf:resource="http://pixelfumes.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.reynaldocolumna.com/blog/archives/problem-accessing-buttons-with-overlapping-movieeclips-in-as3" />
+  <rdf:li rdf:resource="http://brightkite.com/help/sms_guide" />
+  <rdf:li rdf:resource="http://www.stripegenerator.com/#Zm9yZT0wMDAwMDA7aD0zMDt3PTE7cD00O2JhY2sxPWZmZmZmZjtiYWNrMj0wMDAwMDA7Z3Q9MDtkPTA7c2hhZG93PTE7" />
+  <rdf:li rdf:resource="http://deeplinking.net/paper-web/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-06T12:47:53Z</dc:date>
+<dc:subject>blog process</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/process" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-06T01:54:42Z</dc:date>
+<dc:subject>design paper textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_14201&#x26;sliceId=2">
+<title>How to make a Flash movie with a transparent background</title>
+<link>http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_14201&#x26;sliceId=2</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-05T13:29:05Z</dc:date>
+<dc:subject>flash transparent wmode z-index</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/z-index" />
+    <rdf:li resource="http://del.icio.us/tag/wmode" />
+    <rdf:li resource="http://del.icio.us/tag/transparent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_15523&#x26;sliceId=2">
+<title>Flash content displays on top of all DHTML layers</title>
+<link>http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_15523&#x26;sliceId=2</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-05T13:28:54Z</dc:date>
+<dc:subject>flash wmode z-index</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/z-index" />
+    <rdf:li resource="http://del.icio.us/tag/wmode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://attuworld.com/food/mcdonalds-in-japan.html">
+<title>McDonald&#x2019;s in Japan? | Attuworld.com</title>
+<link>http://attuworld.com/food/mcdonalds-in-japan.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-05T12:58:58Z</dc:date>
+<dc:subject>japan mcdonalds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mcdonalds" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.plurk.com/">
+<title>Your life, on the line - Plurk.com</title>
+<link>http://www.plurk.com/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-05T12:43:35Z</dc:date>
+<dc:subject>microblogging plurk twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/plurk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_16243">
+<title>An example of communication between SWF files using LocalConnection</title>
+<link>http://kb.adobe.com/selfservice/viewContent.do?externalId=tn_16243</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-03T19:10:00Z</dc:date>
+<dc:subject>connection flash local swf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/swf" />
+    <rdf:li resource="http://del.icio.us/tag/local" />
+    <rdf:li resource="http://del.icio.us/tag/connection" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adobe.com/devnet/flash/apps/flv_bitrate_calculator/index.html">
+<title>Adobe - Flash application: Flash video (FLV) bitrate calculator</title>
+<link>http://www.adobe.com/devnet/flash/apps/flv_bitrate_calculator/index.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-02T14:09:03Z</dc:date>
+<dc:subject>bitrate calculator flash flv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/calculator" />
+    <rdf:li resource="http://del.icio.us/tag/bitrate" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mikechambers.com/blog/2002/09/27/dynamically-encoding-video-into-flv/">
+<title>Mike Chambers &#xBB; Blog Archive &#xBB; Dynamically encoding video into FLV</title>
+<link>http://www.mikechambers.com/blog/2002/09/27/dynamically-encoding-video-into-flv/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-02T14:05:48Z</dc:date>
+<dc:subject>encode flv server video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/encode" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://components.earthscienceagency.com/components/flvplayer/">
+<title>ESA Flash Components - HD Video Player 6.0</title>
+<link>http://components.earthscienceagency.com/components/flvplayer/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-02T14:00:48Z</dc:date>
+<dc:subject>flash flv hd player video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+    <rdf:li resource="http://del.icio.us/tag/hd" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/">
+<title>10 Open Souce or Free Flash or Flex Code Libraries You Need To Check Out. | Visualrinse | Design and Development by Chad Udell</title>
+<link>http://visualrinse.com/2008/07/01/10-open-souce-or-free-flash-or-flex-code-libraries-you-need-to-check-out/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-02T13:58:29Z</dc:date>
+<dc:subject>actionscript flash free libraries library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/libraries" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/design/character-illustrations-in-modern-web-design.html">
+<title>30+ Outstanding Character Illustrations in Modern Web Design</title>
+<link>http://www.noupe.com/design/character-illustrations-in-modern-web-design.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:20:24Z</dc:date>
+<dc:subject>illustration inspiration webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:19:47Z</dc:date>
+<dc:subject>backgrounds design generator webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html">
+<title>Official Google Blog: Google learns to crawl Flash</title>
+<link>http://googleblog.blogspot.com/2008/06/google-learns-to-crawl-flash.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:18:52Z</dc:date>
+<dc:subject>flash google seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/06/30/once-nearly-invisible-to-search-engines-flash-files-can-now-be-found-and-indexed/">
+<title>Once Nearly Invisible To Search Engines, Flash Files Can Now Be Found And Indexed</title>
+<link>http://www.techcrunch.com/2008/06/30/once-nearly-invisible-to-search-engines-flash-files-can-now-be-found-and-indexed/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:18:16Z</dc:date>
+<dc:subject>flash google seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/galleries/artistic-websites-two/">
+<title>25 Incredibly Artistic Websites - Part II | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/galleries/artistic-websites-two/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:18:10Z</dc:date>
+<dc:subject>inspiration webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlewebmastercentral.blogspot.com/2008/06/improved-flash-indexing.html">
+<title>Official Google Webmaster Central Blog: Improved Flash indexing</title>
+<link>http://googlewebmastercentral.blogspot.com/2008/06/improved-flash-indexing.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T12:18:03Z</dc:date>
+<dc:subject>flash google seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/">
+<title>99 Free Canvas, Paper, Paint, and Metal Textures | Tutorial9 - Tutorial Bliss.</title>
+<link>http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-07-01T01:29:41Z</dc:date>
+<dc:subject>free photoshop textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chawt.com/">
+<title>Breathe Mobile Free WebSMS</title>
+<link>http://www.chawt.com/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T13:58:33Z</dc:date>
+<dc:subject>free mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flashscript.biz/MX2004/OOP_tutorial/lesson3.html">
+<title>FLASH AS2 OOP TUTORIAL: LESSON 3</title>
+<link>http://www.flashscript.biz/MX2004/OOP_tutorial/lesson3.html</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T13:08:49Z</dc:date>
+<dc:subject>class extend flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extend" />
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.actionscript.org/forums/showthread.php3?t=160496">
+<title>How to extend movieclip class ? - ActionScript.org Forums</title>
+<link>http://www.actionscript.org/forums/showthread.php3?t=160496</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T13:08:42Z</dc:date>
+<dc:subject>class extend flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/extend" />
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clipmarks.com/clipmark/9EC405E9-7857-45E1-A89A-77040D0BF751/">
+<title>Bad Blog Titles | Clipmarks</title>
+<link>http://clipmarks.com/clipmark/9EC405E9-7857-45E1-A89A-77040D0BF751/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T12:44:51Z</dc:date>
+<dc:subject>blog titles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/titles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://saumyaray.wordpress.com/category/flash/page/2/">
+<title>Flash &#xAB; saumya</title>
+<link>http://saumyaray.wordpress.com/category/flash/page/2/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T00:38:05Z</dc:date>
+<dc:subject>as3 flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://regulargeek.com/2008/06/24/required-reading-in-social-media/">
+<title>Required Reading in Social Media - Regular Geek</title>
+<link>http://regulargeek.com/2008/06/24/required-reading-in-social-media/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-29T00:17:57Z</dc:date>
+<dc:subject>social socialmedia web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stridegum.com/index.php?src=dom_rram_0608#/home/">
+<title>Stride&#xAE; - The Ridiculously Long Lasting Gum&#xAE;</title>
+<link>http://www.stridegum.com/index.php?src=dom_rram_0608#/home/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-28T17:04:06Z</dc:date>
+<dc:subject>add banner site</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/add" />
+    <rdf:li resource="http://del.icio.us/tag/banner" />
+    <rdf:li resource="http://del.icio.us/tag/site" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.pixelfumes.com/">
+<title>Pixelfumes Blog</title>
+<link>http://blog.pixelfumes.com/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-28T14:45:01Z</dc:date>
+<dc:subject>actionscript blog flash tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixelfumes.blogspot.com/">
+<title>Pixelfumes Flash Blog</title>
+<link>http://pixelfumes.blogspot.com/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-28T14:42:49Z</dc:date>
+<dc:subject>as3 blog flash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reynaldocolumna.com/blog/archives/problem-accessing-buttons-with-overlapping-movieeclips-in-as3">
+<title>Reyco1&#x2019;s Flash Blog &#xBB; Blog Archive &#xBB; Problem accessing buttons with overlapping MovieClips in AS3</title>
+<link>http://www.reynaldocolumna.com/blog/archives/problem-accessing-buttons-with-overlapping-movieeclips-in-as3</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-28T14:42:35Z</dc:date>
+<dc:subject>as3 flash mouseChildren mouseEnabled</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as3" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/mouseChildren" />
+    <rdf:li resource="http://del.icio.us/tag/mouseEnabled" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://brightkite.com/help/sms_guide">
+<title>SMS Starter Guide - brightkite.com</title>
+<link>http://brightkite.com/help/sms_guide</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-26T21:08:19Z</dc:date>
+<dc:subject>brightkite sms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brightkite" />
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stripegenerator.com/#Zm9yZT0wMDAwMDA7aD0zMDt3PTE7cD00O2JhY2sxPWZmZmZmZjtiYWNrMj0wMDAwMDA7Z3Q9MDtkPTA7c2hhZG93PTE7">
+<title>Stripe Generator - ajax diagonal stripes background designer</title>
+<link>http://www.stripegenerator.com/#Zm9yZT0wMDAwMDA7aD0zMDt3PTE7cD00O2JhY2sxPWZmZmZmZjtiYWNrMj0wMDAwMDA7Z3Q9MDtkPTA7c2hhZG93PTE7</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-26T20:20:24Z</dc:date>
+<dc:subject>ajax background generator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/background" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://deeplinking.net/paper-web/">
+<title>The Paper Version of the Web at Deeplinking</title>
+<link>http://deeplinking.net/paper-web/</link>
+<description></description>
+<dc:creator>ryanthirtyman</dc:creator>
+<dc:date>2008-06-26T12:21:39Z</dc:date>
+<dc:subject>design sketching usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/sketching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

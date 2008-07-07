@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/georgesb">
+<title>del.icio.us/georgesb</title>
+<link>http://del.icio.us/georgesb</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/nogoodman" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=jmR0V6s3NKk" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/" />
+  <rdf:li rdf:resource="http://www.solucija.com/home/css-templates/" />
+  <rdf:li rdf:resource="http://guitar-music-theory.com/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=DwNLya-zCfY" />
+  <rdf:li rdf:resource="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=4AB5GkbIpW0&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=-YUtW1G8Hks&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=qWSrNRTS_lg&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=3xbws7mjM8o&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=_DQZJoaNSIc&#x26;feature=related" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/05/pastel-color-menu-with-dynamic-submenu.html" />
+  <rdf:li rdf:resource="http://socialcmsbuzz.com/" />
+  <rdf:li rdf:resource="http://www.i-marco.nl/weblog/archive/2008/05/08/simple_jquery_accordion_menu__?utm_campaign=searchlanding" />
+  <rdf:li rdf:resource="http://www.i-marco.nl/weblog/jquery-accordion-menu-redux2/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=MF7GowyPYOY&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=yMOK7h9OhcI" />
+  <rdf:li rdf:resource="http://music.guardian.co.uk/pop/story/0,,2288298,00.html" />
+  <rdf:li rdf:resource="http://www.michaelminella.com/javascript/unobtrusive-event-handling-with-prototype.html" />
+  <rdf:li rdf:resource="http://www.dotes.com.br/mootools/" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/7474139.stm" />
+  <rdf:li rdf:resource="http://webdeveloper.econsultant.com/css-menus-navigation-tabs/" />
+  <rdf:li rdf:resource="http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery" />
+  <rdf:li rdf:resource="http://www.exploding-boy.com/2005/12/15/free-css-navigation-designs/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://www.ifcfilms.com/viewFilm.htm?filmId=616" />
+  <rdf:li rdf:resource="http://www.webmastersbydesign.com/2008/06/26/the-best-web-20-tutorials-for-photoshop/" />
+  <rdf:li rdf:resource="http://www.dave-woods.co.uk/?p=104" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks">
+<title>Basics to advanced: CSS Tips and Tricks | Code It Red</title>
+<link>http://www.codeitred.com/2008/06/15/basics-advanced-css-tips-tricks</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-06T10:53:56Z</dc:date>
+<dc:subject>css webunit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webunit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-06T10:36:33Z</dc:date>
+<dc:subject>ap books free java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ap" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/nogoodman">
+<title>YouTube - nogoodman's Channel</title>
+<link>http://www.youtube.com/user/nogoodman</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-05T07:09:44Z</dc:date>
+<dc:subject>guitar youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=jmR0V6s3NKk">
+<title>YouTube - I Met The Walrus</title>
+<link>http://www.youtube.com/watch?v=jmR0V6s3NKk</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-05T07:07:45Z</dc:date>
+<dc:subject>beatles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beatles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/">
+<title>50 Must-Read Up and Coming Blogs by Teachers | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-05T05:35:20Z</dc:date>
+<dc:subject>blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solucija.com/home/css-templates/">
+<title>Free Templates - Solucija</title>
+<link>http://www.solucija.com/home/css-templates/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-04T16:40:21Z</dc:date>
+<dc:subject>css templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://guitar-music-theory.com/">
+<title>Learn guitar theory on the fretboard. How to properly apply music theory to the guitar. Scales, chords, progressions, modes and more.</title>
+<link>http://guitar-music-theory.com/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-04T06:47:48Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=DwNLya-zCfY">
+<title>YouTube - Hey Joe Guitar Theory Minor Pentatonic Scale Solo Lesson Tab</title>
+<link>http://www.youtube.com/watch?v=DwNLya-zCfY</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-04T06:38:39Z</dc:date>
+<dc:subject>guitar jimi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jimi" />
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/">
+<title>What Happens To Your Body If You Drink A Coke Right Now?</title>
+<link>http://www.healthbolt.net/2006/12/08/what-happens-to-your-body-if-you-drink-a-coke-right-now/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-04T00:38:00Z</dc:date>
+<dc:subject>food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=4AB5GkbIpW0&#x26;feature=related">
+<title>YouTube - Paul McCartney Is An Obsession</title>
+<link>http://www.youtube.com/watch?v=4AB5GkbIpW0&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T16:55:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=-YUtW1G8Hks&#x26;feature=related">
+<title>YouTube - The Beatles Drive Me Crazy</title>
+<link>http://www.youtube.com/watch?v=-YUtW1G8Hks&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T16:55:04Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=qWSrNRTS_lg&#x26;feature=related">
+<title>YouTube - The Beatles - The Way You Look Tonight</title>
+<link>http://www.youtube.com/watch?v=qWSrNRTS_lg&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T16:49:43Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=3xbws7mjM8o&#x26;feature=related">
+<title>YouTube - David Gilmour Guitar Solo Style</title>
+<link>http://www.youtube.com/watch?v=3xbws7mjM8o&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T07:16:15Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=_DQZJoaNSIc&#x26;feature=related">
+<title>YouTube - Comfortably Numb solo</title>
+<link>http://www.youtube.com/watch?v=_DQZJoaNSIc&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T07:10:54Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/05/pastel-color-menu-with-dynamic-submenu.html">
+<title>woork: Pastel color menu with dynamic submenu using CSS</title>
+<link>http://woork.blogspot.com/2008/05/pastel-color-menu-with-dynamic-submenu.html</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T03:23:48Z</dc:date>
+<dc:subject>css menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://socialcmsbuzz.com/">
+<title>Social CMS Buzz - Pligg, Drigg, News, Modules, Templates and Hacks</title>
+<link>http://socialcmsbuzz.com/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-03T03:20:13Z</dc:date>
+<dc:subject>blogs css web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.i-marco.nl/weblog/archive/2008/05/08/simple_jquery_accordion_menu__?utm_campaign=searchlanding">
+<title>Simple JQuery Accordion menu - Redux - The Net is Dead</title>
+<link>http://www.i-marco.nl/weblog/archive/2008/05/08/simple_jquery_accordion_menu__?utm_campaign=searchlanding</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-02T06:59:40Z</dc:date>
+<dc:subject>accordion jquery menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accordion" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.i-marco.nl/weblog/jquery-accordion-menu-redux2/">
+<title>Simple JQuery Accordion menu - Redux</title>
+<link>http://www.i-marco.nl/weblog/jquery-accordion-menu-redux2/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-02T06:58:12Z</dc:date>
+<dc:subject>accordion ajax jquery menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/accordion" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=MF7GowyPYOY&#x26;feature=related">
+<title>YouTube - Fender Custom Shop VS Eric Johnson Signature SRV Intro</title>
+<link>http://www.youtube.com/watch?v=MF7GowyPYOY&#x26;feature=related</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T22:23:01Z</dc:date>
+<dc:subject>guitar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=yMOK7h9OhcI">
+<title>YouTube - Blues in Bm with  Stratocaster 50th</title>
+<link>http://www.youtube.com/watch?v=yMOK7h9OhcI</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T18:09:30Z</dc:date>
+<dc:subject>guitar stratocaster</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guitar" />
+    <rdf:li resource="http://del.icio.us/tag/stratocaster" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://music.guardian.co.uk/pop/story/0,,2288298,00.html">
+<title>They went out with a bang |  Pop | guardian.co.uk Music</title>
+<link>http://music.guardian.co.uk/pop/story/0,,2288298,00.html</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T17:29:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.michaelminella.com/javascript/unobtrusive-event-handling-with-prototype.html">
+<title>Unobtrusive Event Handling with Prototype&#xA0;-&#xA0;Michael Minella</title>
+<link>http://www.michaelminella.com/javascript/unobtrusive-event-handling-with-prototype.html</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T17:07:26Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dotes.com.br/mootools/">
+<title>Mootools Link List - beta version ;)</title>
+<link>http://www.dotes.com.br/mootools/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T08:13:43Z</dc:date>
+<dc:subject>ajax mootools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/7474139.stm">
+<title>BBC NEWS | UK | England | Cornwall | Unseen Beatles footage found</title>
+<link>http://news.bbc.co.uk/2/hi/uk_news/england/cornwall/7474139.stm</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T07:36:03Z</dc:date>
+<dc:subject>beatles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beatles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webdeveloper.econsultant.com/css-menus-navigation-tabs/">
+<title>Top 71 CSS Menus Navigation Tabs : Web Developer Lists : eConsultant</title>
+<link>http://webdeveloper.econsultant.com/css-menus-navigation-tabs/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T05:50:54Z</dc:date>
+<dc:subject>css menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery">
+<title>Create a multilevel Dropdown menu with CSS and improve it via jQuery | Kriesi.at - new media design</title>
+<link>http://www.kriesi.at/archives/create-a-multilevel-dropdown-menu-with-css-and-improve-it-via-jquery</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T05:44:59Z</dc:date>
+<dc:subject>css jquery menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.exploding-boy.com/2005/12/15/free-css-navigation-designs/">
+<title>Free CSS Navigation Menu Designs   at  ExplodingBoy</title>
+<link>http://www.exploding-boy.com/2005/12/15/free-css-navigation-designs/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-07-01T05:41:15Z</dc:date>
+<dc:subject>css menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-06-30T22:20:04Z</dc:date>
+<dc:subject>css layout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ifcfilms.com/viewFilm.htm?filmId=616">
+<title>IFC Entertainment - Film Detail &#x3E; The Last Mistress</title>
+<link>http://www.ifcfilms.com/viewFilm.htm?filmId=616</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-06-28T20:30:01Z</dc:date>
+<dc:subject>movies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmastersbydesign.com/2008/06/26/the-best-web-20-tutorials-for-photoshop/">
+<title>The Best Web 2.0 Tutorials For Photoshop | Webmasters by Design</title>
+<link>http://www.webmastersbydesign.com/2008/06/26/the-best-web-20-tutorials-for-photoshop/</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-06-28T14:37:16Z</dc:date>
+<dc:subject>photoshop tutorials web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dave-woods.co.uk/?p=104">
+<title>Dave Woods - HTML, CSS, Web Design &#xBB; CSS Tabs Menu with Dropdowns</title>
+<link>http://www.dave-woods.co.uk/?p=104</link>
+<description></description>
+<dc:creator>georgesb</dc:creator>
+<dc:date>2008-06-28T07:02:33Z</dc:date>
+<dc:subject>css menus</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/menus" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

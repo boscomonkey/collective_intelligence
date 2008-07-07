@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dr.th">
+<title>del.icio.us/dr.th</title>
+<link>http://del.icio.us/dr.th</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.tz-online.de/de/aktuelles/muenchen/artikel_42140.html" />
+  <rdf:li rdf:resource="http://www.kino-mond-sterne.de/index.php" />
+  <rdf:li rdf:resource="http://www.kinoampool.de/" />
+  <rdf:li rdf:resource="http://oaei.ontologymatching.org/" />
+  <rdf:li rdf:resource="http://islab.dico.unimi.it/hmatch/news.php" />
+  <rdf:li rdf:resource="https://www.realestate.siemens.com/restaurant-services/speiseplaene/speiseplaene_muenchen_perlach.html" />
+  <rdf:li rdf:resource="http://www.hotspot-locations.de/" />
+  <rdf:li rdf:resource="http://www.jiwire.com/hotspot-hot-spot-directory-browse-by-country.htm" />
+  <rdf:li rdf:resource="http://hotspots.spotigo.net/" />
+  <rdf:li rdf:resource="http://earth.google.de/" />
+  <rdf:li rdf:resource="http://worldwidetelescope.org/" />
+  <rdf:li rdf:resource="http://www.yamelo.com/" />
+  <rdf:li rdf:resource="http://de.youtube.com/view_play_list?p=6EE0CD02910E57B8" />
+  <rdf:li rdf:resource="http://www.googlewatchblog.de/2008/06/18/firefox-3-mailto-links-mit-gmail-nutzen/" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/kultur/artikel/815/182250/" />
+  <rdf:li rdf:resource="http://oscarhome.soc-sci.arizona.edu/ftp/OSCAR-web-page/oscar.html" />
+  <rdf:li rdf:resource="http://www.myliveshopping.de/" />
+  <rdf:li rdf:resource="http://machine-learning.blogspot.com/2007/03/machine-learning-online-lectures.html" />
+  <rdf:li rdf:resource="http://www.datawrangling.com/hidden-video-courses-in-math-science-and-engineering.html" />
+  <rdf:li rdf:resource="http://cgkt.wordpress.com/2007/12/18/video-lectures-on-probabilistic-graphical-models/" />
+  <rdf:li rdf:resource="http://ocw.mit.edu/OcwWeb/web/courses/av/" />
+  <rdf:li rdf:resource="http://webcast.berkeley.edu/courses.php" />
+  <rdf:li rdf:resource="http://freescienceonline.blogspot.com/2007/07/machine-learning-and-artificial.html" />
+  <rdf:li rdf:resource="http://videolectures.net/" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/muenchen/artikel/440/179888/" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/finanzen/artikel/577/180025/" />
+  <rdf:li rdf:resource="http://www.snapmania.com/" />
+  <rdf:li rdf:resource="http://handbuch.malteser.de/" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/kultur/artikel/309/178764/" />
+  <rdf:li rdf:resource="http://www.google.com/ig/directory?synd=open&#x26;num=24&#x26;url=http://www.google.com/ig/modules/calendar-for-your-site.xml" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.tz-online.de/de/aktuelles/muenchen/artikel_42140.html">
+<title>Wo isst man gut und g&#xFC;nstig? - M&#xFC;nchen - Aktuelles - tz online</title>
+<link>http://www.tz-online.de/de/aktuelles/muenchen/artikel_42140.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-03T13:24:17Z</dc:date>
+<dc:subject>food</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kino-mond-sterne.de/index.php">
+<title>Kino, Mond &#x26; Sterne</title>
+<link>http://www.kino-mond-sterne.de/index.php</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-03T10:41:01Z</dc:date>
+<dc:subject>movie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kinoampool.de/">
+<title>Kino&#xA0;am&#xA0;Pool ~ Open-Air-Kino in M&#xFC;nchen</title>
+<link>http://www.kinoampool.de/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-03T10:40:52Z</dc:date>
+<dc:subject>movie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oaei.ontologymatching.org/">
+<title>Ontology Alignment Evaluation Initiative</title>
+<link>http://oaei.ontologymatching.org/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T14:48:20Z</dc:date>
+<dc:subject>ontology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ontology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://islab.dico.unimi.it/hmatch/news.php">
+<title>The HMatch Web Site</title>
+<link>http://islab.dico.unimi.it/hmatch/news.php</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T13:40:23Z</dc:date>
+<dc:subject>ontology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ontology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.realestate.siemens.com/restaurant-services/speiseplaene/speiseplaene_muenchen_perlach.html">
+<title>Restaurant &#x26; Services - Speiseplan M&#xFC;nchen, Perlach</title>
+<link>https://www.realestate.siemens.com/restaurant-services/speiseplaene/speiseplaene_muenchen_perlach.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T10:28:42Z</dc:date>
+<dc:subject>food siemens</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/siemens" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hotspot-locations.de/">
+<title>Wi-Fi Hotspot Directory | WLAN Hotspots - WiFi Hot Spots - Free Locations - Public Wireless Lan Internet Access</title>
+<link>http://www.hotspot-locations.de/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:44:01Z</dc:date>
+<dc:subject>wlan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wlan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jiwire.com/hotspot-hot-spot-directory-browse-by-country.htm">
+<title>JiWire Wi-Fi Advertising Network, Wi-Fi Finder and Hotspot Directory</title>
+<link>http://www.jiwire.com/hotspot-hot-spot-directory-browse-by-country.htm</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:43:52Z</dc:date>
+<dc:subject>wlan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wlan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hotspots.spotigo.net/">
+<title>Spotigo: Free Wifi Software Downloads, Wifi Manager, Search Hotspots, Wireless Internet Access</title>
+<link>http://hotspots.spotigo.net/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:43:44Z</dc:date>
+<dc:subject>wlan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wlan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://earth.google.de/">
+<title>Google Earth</title>
+<link>http://earth.google.de/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:42:39Z</dc:date>
+<dc:subject>maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://worldwidetelescope.org/">
+<title>WorldWide Telescope</title>
+<link>http://worldwidetelescope.org/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:42:29Z</dc:date>
+<dc:subject>maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yamelo.com/">
+<title>Yamelo music videos</title>
+<link>http://www.yamelo.com/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-07-01T09:39:29Z</dc:date>
+<dc:subject>movie music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://de.youtube.com/view_play_list?p=6EE0CD02910E57B8">
+<title>YouTube - Broadcast Yourself.</title>
+<link>http://de.youtube.com/view_play_list?p=6EE0CD02910E57B8</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-30T08:53:59Z</dc:date>
+<dc:subject>ai</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.googlewatchblog.de/2008/06/18/firefox-3-mailto-links-mit-gmail-nutzen/">
+<title>GoogleWatchBlog - Firefox 3: mailto Links mit Gmail nutzen</title>
+<link>http://www.googlewatchblog.de/2008/06/18/firefox-3-mailto-links-mit-gmail-nutzen/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-27T12:54:35Z</dc:date>
+<dc:subject>mail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/kultur/artikel/815/182250/">
+<title>Das Rote Kreuz und das NS-Regime - Die willigen Helfer - Kultur - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/kultur/artikel/815/182250/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-24T20:16:43Z</dc:date>
+<dc:subject>malteser</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/malteser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oscarhome.soc-sci.arizona.edu/ftp/OSCAR-web-page/oscar.html">
+<title>OSCAR</title>
+<link>http://oscarhome.soc-sci.arizona.edu/ftp/OSCAR-web-page/oscar.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-23T15:14:48Z</dc:date>
+<dc:subject>ai</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myliveshopping.de/">
+<title>myliveshopping.de | Die Live Shopping &#xDC;bersicht | Alle One Day Deals</title>
+<link>http://www.myliveshopping.de/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-19T11:33:02Z</dc:date>
+<dc:subject>saving shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/saving" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://machine-learning.blogspot.com/2007/03/machine-learning-online-lectures.html">
+<title>Business Intelligence, Data Mining &#x26; Machine Learning: Machine Learning OnLine Lectures</title>
+<link>http://machine-learning.blogspot.com/2007/03/machine-learning-online-lectures.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:23:08Z</dc:date>
+<dc:subject>lecture ml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/ml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.datawrangling.com/hidden-video-courses-in-math-science-and-engineering.html">
+<title>Hidden Video Courses in Math, Science, and Engineering &#xBB; Data Wrangling Blog</title>
+<link>http://www.datawrangling.com/hidden-video-courses-in-math-science-and-engineering.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:23:00Z</dc:date>
+<dc:subject>lecture math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cgkt.wordpress.com/2007/12/18/video-lectures-on-probabilistic-graphical-models/">
+<title>Video Lectures on Probabilistic Graphical Models &#xAB; Cgkt&#x2019;s Weblog</title>
+<link>http://cgkt.wordpress.com/2007/12/18/video-lectures-on-probabilistic-graphical-models/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:22:52Z</dc:date>
+<dc:subject>lecture probability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/probability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ocw.mit.edu/OcwWeb/web/courses/av/">
+<title>Free Online MIT Course Materials | Audio/Video Courses | MIT OpenCourseWare</title>
+<link>http://ocw.mit.edu/OcwWeb/web/courses/av/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:22:39Z</dc:date>
+<dc:subject>lecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webcast.berkeley.edu/courses.php">
+<title>UC Berkeley Webcasts | Video and Podcasts: Spring 2008 Courses</title>
+<link>http://webcast.berkeley.edu/courses.php</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:22:32Z</dc:date>
+<dc:subject>lecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freescienceonline.blogspot.com/2007/07/machine-learning-and-artificial.html">
+<title>Free Science and Video Lectures Online!: Machine Learning and Artificial Intelligence Video Lectures</title>
+<link>http://freescienceonline.blogspot.com/2007/07/machine-learning-and-artificial.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:22:20Z</dc:date>
+<dc:subject>ai lecture ml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/ml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://videolectures.net/">
+<title>VideoLectures - exchange ideas &#x26; share knowledge</title>
+<link>http://videolectures.net/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T16:19:24Z</dc:date>
+<dc:subject>ai lecture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lecture" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-17T09:25:03Z</dc:date>
+<dc:subject>success</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/success" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/muenchen/artikel/440/179888/">
+<title>M&#xFC;nchens &#xC4;rzte - Ich lasse Sie nicht durch - ich bin Arzt! - M&#xFC;nchen - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/muenchen/artikel/440/179888/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-13T09:49:22Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/finanzen/artikel/577/180025/">
+<title>Produkttest - Immer zum heutigen Zins investieren - Finanzen - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/finanzen/artikel/577/180025/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-13T08:32:36Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.snapmania.com/">
+<title>snapmania.com - Online Fotoalben, Fotosharing und Fotoarchivierung</title>
+<link>http://www.snapmania.com/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-12T14:20:07Z</dc:date>
+<dc:subject>graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://handbuch.malteser.de/">
+<title>Malteser Handb&#xFC;cher</title>
+<link>http://handbuch.malteser.de/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-09T11:00:25Z</dc:date>
+<dc:subject>malteser</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/malteser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/kultur/artikel/309/178764/">
+<title>Wachtveitl &#xFC;ber Fu&#xDF;ball - ''NixdaEinwurf - Schei&#xDF;dreckEinwurf'' - Kultur - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/kultur/artikel/309/178764/</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-06T10:34:00Z</dc:date>
+<dc:subject>humour</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/ig/directory?synd=open&#x26;num=24&#x26;url=http://www.google.com/ig/modules/calendar-for-your-site.xml">
+<title>Google Gadgets For Your Webpage</title>
+<link>http://www.google.com/ig/directory?synd=open&#x26;num=24&#x26;url=http://www.google.com/ig/modules/calendar-for-your-site.xml</link>
+<description></description>
+<dc:creator>dr.th</dc:creator>
+<dc:date>2008-06-04T21:15:53Z</dc:date>
+<dc:subject>system tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/system" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

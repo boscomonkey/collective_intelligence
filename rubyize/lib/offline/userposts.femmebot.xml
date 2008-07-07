@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/femmebot">
+<title>del.icio.us/femmebot</title>
+<link>http://del.icio.us/femmebot</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.boingboing.net/2008/07/01/that-violet-blue-thi.html" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://downforeveryoneorjustme.com/" />
+  <rdf:li rdf:resource="http://mt-hacks.com/" />
+  <rdf:li rdf:resource="http://mt-hacks.com/20080626-import-friendfeed-comments.html" />
+  <rdf:li rdf:resource="http://www.cabel.name/2008/07/yay-fireworks.html" />
+  <rdf:li rdf:resource="http://gigaom.com/2008/07/01/modu/" />
+  <rdf:li rdf:resource="http://gigaom.com/2008/07/05/meebos-jen-how-to-find-hard-to-find-talent/" />
+  <rdf:li rdf:resource="http://www.newsweek.com/id/143866/output/print" />
+  <rdf:li rdf:resource="http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php" />
+  <rdf:li rdf:resource="http://www.tonywright.com/2008/pr-pitching-techcrunch-scoble-and-other-influentials/" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x" />
+  <rdf:li rdf:resource="http://www.gentlemanjoe.com/how-to-tie.php?id=1" />
+  <rdf:li rdf:resource="http://konigi.com/tools/graph-paper" />
+  <rdf:li rdf:resource="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&#x26;Sect2=HITOFF&#x26;d=PG01&#x26;p=1&#x26;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&#x26;r=1&#x26;f=G&#x26;l=50&#x26;s1=%2220080162260%22.PGNR.&#x26;OS=DN/20080162260&#x26;RS=DN/20080162260" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://flux.tastylime.net/server/" />
+  <rdf:li rdf:resource="http://diveintomark.org/archives/2008/07/04/adobe-9" />
+  <rdf:li rdf:resource="http://blog.micropledge.com/2008/07/adobe-reader-9/" />
+  <rdf:li rdf:resource="http://femmebot.swurl.com/timeline" />
+  <rdf:li rdf:resource="http://www.sitepoint.com/print/unix-style-operating-systems" />
+  <rdf:li rdf:resource="http://psacake.com/web/jl.asp" />
+  <rdf:li rdf:resource="http://audiotuts.com/" />
+  <rdf:li rdf:resource="http://flowingdata.com/2008/07/03/nathans-annual-hot-dog-eating-contest-kobayashi-vs-chestnut/hot-dogs/" />
+  <rdf:li rdf:resource="http://www.37signals.com/svn/posts/1118-features-are-a-one-way-street" />
+  <rdf:li rdf:resource="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed" />
+  <rdf:li rdf:resource="http://blog.asiahotels.com/20-chinese-signs-for-a-confused-traveler/" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/" />
+  <rdf:li rdf:resource="http://radar.oreilly.com/archives/2008/07/seesmic-starts-adding-features.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.boingboing.net/2008/07/01/that-violet-blue-thi.html">
+<title>That Violet Blue thing - Boing Boing</title>
+<link>http://www.boingboing.net/2008/07/01/that-violet-blue-thi.html</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-06T07:12:01Z</dc:date>
+<dc:subject>blogging boingboing editorial ethics etiquette</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boingboing" />
+    <rdf:li resource="http://del.icio.us/tag/editorial" />
+    <rdf:li resource="http://del.icio.us/tag/ethics" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/etiquette" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-06T06:49:54Z</dc:date>
+<dc:subject>beginner ebook(s) free intro java oop programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/beginner" />
+    <rdf:li resource="http://del.icio.us/tag/ebook(s)" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/intro" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://downforeveryoneorjustme.com/">
+<title>Down for everyone or just me?</title>
+<link>http://downforeveryoneorjustme.com/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-06T04:31:36Z</dc:date>
+<dc:subject>geek internet site tool(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/tool(s)" />
+    <rdf:li resource="http://del.icio.us/tag/site" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mt-hacks.com/">
+<title>Movable Type Hacks - MT Hacks</title>
+<link>http://mt-hacks.com/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T22:31:13Z</dc:date>
+<dc:subject>movabletype mt plugin(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movabletype" />
+    <rdf:li resource="http://del.icio.us/tag/mt" />
+    <rdf:li resource="http://del.icio.us/tag/plugin(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mt-hacks.com/20080626-import-friendfeed-comments.html">
+<title>Import FriendFeed Comments (MT Hacks)</title>
+<link>http://mt-hacks.com/20080626-import-friendfeed-comments.html</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T22:21:48Z</dc:date>
+<dc:subject>comment(s) friendfeed movabletype mt plugin(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movabletype" />
+    <rdf:li resource="http://del.icio.us/tag/mt" />
+    <rdf:li resource="http://del.icio.us/tag/friendfeed" />
+    <rdf:li resource="http://del.icio.us/tag/comment(s)" />
+    <rdf:li resource="http://del.icio.us/tag/plugin(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cabel.name/2008/07/yay-fireworks.html">
+<title>cabel.name: Yay! Fireworks!</title>
+<link>http://www.cabel.name/2008/07/yay-fireworks.html</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T22:02:29Z</dc:date>
+<dc:subject>america china culture fireworks funny language packaging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fireworks" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/packaging" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/america" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gigaom.com/2008/07/01/modu/">
+<title>Will They Really Modu? - GigaOM</title>
+<link>http://gigaom.com/2008/07/01/modu/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T18:26:03Z</dc:date>
+<dc:subject>3g innovation(s) israel mobile modu startup(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/modu" />
+    <rdf:li resource="http://del.icio.us/tag/israel" />
+    <rdf:li resource="http://del.icio.us/tag/innovation(s)" />
+    <rdf:li resource="http://del.icio.us/tag/startup(s)" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/3g" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gigaom.com/2008/07/05/meebos-jen-how-to-find-hard-to-find-talent/">
+<title>Meebo&#x2019;s Jen: How to Find Hard-to-Find Talent - GigaOM</title>
+<link>http://gigaom.com/2008/07/05/meebos-jen-how-to-find-hard-to-find-talent/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T17:35:58Z</dc:date>
+<dc:subject>culture meebo staffing startup(s) talent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/meebo" />
+    <rdf:li resource="http://del.icio.us/tag/staffing" />
+    <rdf:li resource="http://del.icio.us/tag/talent" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/startup(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newsweek.com/id/143866/output/print">
+<title>The Stories We Tell Ourselves | Print Article | Newsweek.com</title>
+<link>http://www.newsweek.com/id/143866/output/print</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T07:48:34Z</dc:date>
+<dc:subject>US history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/US" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php">
+<title>Brand New: Less Hyphen, More Burst for Walmart</title>
+<link>http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T07:21:08Z</dc:date>
+<dc:subject>branding design logo(s) redesign walmart</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/walmart" />
+    <rdf:li resource="http://del.icio.us/tag/logo(s)" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/branding" />
+    <rdf:li resource="http://del.icio.us/tag/redesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tonywright.com/2008/pr-pitching-techcrunch-scoble-and-other-influentials/">
+<title>PR: Pitching TechCrunch, Scoble, and other Influentials - Tony Wright dot com</title>
+<link>http://www.tonywright.com/2008/pr-pitching-techcrunch-scoble-and-other-influentials/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T06:46:50Z</dc:date>
+<dc:subject>advice business pitch pointer(s) pr storytelling tip(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/pr" />
+    <rdf:li resource="http://del.icio.us/tag/storytelling" />
+    <rdf:li resource="http://del.icio.us/tag/pitch" />
+    <rdf:li resource="http://del.icio.us/tag/tip(s)" />
+    <rdf:li resource="http://del.icio.us/tag/pointer(s)" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T06:43:23Z</dc:date>
+<dc:subject>advice career programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativebits.org/mac_os_x/screenshoot_blurry_os_x">
+<title>Screenshoot blurry in OS X? | creativebits</title>
+<link>http://creativebits.org/mac_os_x/screenshoot_blurry_os_x</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T06:28:00Z</dc:date>
+<dc:subject>howto mac osx screenshot terminal tip(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/screenshot" />
+    <rdf:li resource="http://del.icio.us/tag/terminal" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tip(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gentlemanjoe.com/how-to-tie.php?id=1">
+<title>Gentleman Joe :: Fine Ties, Gifts and Accessories</title>
+<link>http://www.gentlemanjoe.com/how-to-tie.php?id=1</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T05:32:53Z</dc:date>
+<dc:subject>clothing fashion howto knot style tie(s) tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tie(s)" />
+    <rdf:li resource="http://del.icio.us/tag/clothing" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/knot" />
+    <rdf:li resource="http://del.icio.us/tag/fashion" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://konigi.com/tools/graph-paper">
+<title>Graph Paper | Konigi</title>
+<link>http://konigi.com/tools/graph-paper</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T05:04:38Z</dc:date>
+<dc:subject>diy graphpaper grid(s) paper pdf print storyboard(s) wireframe(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grid(s)" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/graphpaper" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/wireframe(s)" />
+    <rdf:li resource="http://del.icio.us/tag/storyboard(s)" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&#x26;Sect2=HITOFF&#x26;d=PG01&#x26;p=1&#x26;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&#x26;r=1&#x26;f=G&#x26;l=50&#x26;s1=%2220080162260%22.PGNR.&#x26;OS=DN/20080162260&#x26;RS=DN/20080162260">
+<title>United States Patent Application: 0080162260</title>
+<link>http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&#x26;Sect2=HITOFF&#x26;d=PG01&#x26;p=1&#x26;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&#x26;r=1&#x26;f=G&#x26;l=50&#x26;s1=%2220080162260%22.PGNR.&#x26;OS=DN/20080162260&#x26;RS=DN/20080162260</link>
+<description>Friend Rank patent: A computer-implemented method for displaying advertisements to members of a network comprises identifying one or more communities of members, identifying one or more influencers in the one or more communities...</description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T02:56:19Z</dc:date>
+<dc:subject>google innovation(s) network(s) patent(s) socialgraph</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/patent(s)" />
+    <rdf:li resource="http://del.icio.us/tag/socialgraph" />
+    <rdf:li resource="http://del.icio.us/tag/network(s)" />
+    <rdf:li resource="http://del.icio.us/tag/innovation(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-05T02:53:33Z</dc:date>
+<dc:subject>comparison(s) form(s) pattern(s) trend(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/form(s)" />
+    <rdf:li resource="http://del.icio.us/tag/comparison(s)" />
+    <rdf:li resource="http://del.icio.us/tag/pattern(s)" />
+    <rdf:li resource="http://del.icio.us/tag/trend(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flux.tastylime.net/server/">
+<title>Daddy loves Mommy</title>
+<link>http://flux.tastylime.net/server/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T17:43:22Z</dc:date>
+<dc:subject>comic funny geek humor microsoft msft server windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/comic" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/msft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diveintomark.org/archives/2008/07/04/adobe-9">
+<title>Adobe 9 [dive into mark]</title>
+<link>http://diveintomark.org/archives/2008/07/04/adobe-9</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T17:41:55Z</dc:date>
+<dc:subject>acrobat adobe pdf rant sarcasm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/acrobat" />
+    <rdf:li resource="http://del.icio.us/tag/rant" />
+    <rdf:li resource="http://del.icio.us/tag/sarcasm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.micropledge.com/2008/07/adobe-reader-9/">
+<title>microBlog &#xBB; Thank you, Adobe Reader 9!</title>
+<link>http://blog.micropledge.com/2008/07/adobe-reader-9/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T17:41:33Z</dc:date>
+<dc:subject>acrobat adobe pdf rant reeader</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/acrobat" />
+    <rdf:li resource="http://del.icio.us/tag/reeader" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/rant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://femmebot.swurl.com/timeline">
+<title>femmebot's timeline on Swurl</title>
+<link>http://femmebot.swurl.com/timeline</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T17:36:30Z</dc:date>
+<dc:subject>aggregator(s) del.icio.us inspiration last.fm swurl timeline(s) tumblr twitter visualization(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/swurl" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator(s)" />
+    <rdf:li resource="http://del.icio.us/tag/timeline(s)" />
+    <rdf:li resource="http://del.icio.us/tag/visualization(s)" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/last.fm" />
+    <rdf:li resource="http://del.icio.us/tag/tumblr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sitepoint.com/print/unix-style-operating-systems">
+<title>Mastering the UNIX Command Line: A Beginner&#xE2;&#x20AC;&#x2122;s Guide</title>
+<link>http://www.sitepoint.com/print/unix-style-operating-systems</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T17:24:23Z</dc:date>
+<dc:subject>beginner commandline guide(s) unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/commandline" />
+    <rdf:li resource="http://del.icio.us/tag/beginner" />
+    <rdf:li resource="http://del.icio.us/tag/guide(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psacake.com/web/jl.asp">
+<title>Pure CSS Tooltips</title>
+<link>http://psacake.com/web/jl.asp</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T00:51:58Z</dc:date>
+<dc:subject>css tooltip(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tooltip(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://audiotuts.com/">
+<title>Music, Sound &#x26; Audio Tutorials - AUDIOTUTS</title>
+<link>http://audiotuts.com/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-04T00:20:39Z</dc:date>
+<dc:subject>audio howto music sound tutorial(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flowingdata.com/2008/07/03/nathans-annual-hot-dog-eating-contest-kobayashi-vs-chestnut/hot-dogs/">
+<title>Hot Dog Eating Winners | FlowingData</title>
+<link>http://flowingdata.com/2008/07/03/nathans-annual-hot-dog-eating-contest-kobayashi-vs-chestnut/hot-dogs/</link>
+<description>Winners from Nathan's Hot Dog Eating Contest</description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T23:47:20Z</dc:date>
+<dc:subject>food hotdog(s) nathan's visualization(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/visualization(s)" />
+    <rdf:li resource="http://del.icio.us/tag/hotdog(s)" />
+    <rdf:li resource="http://del.icio.us/tag/nathan%27s" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.37signals.com/svn/posts/1118-features-are-a-one-way-street">
+<title>Features are a one-way street - (37signals)</title>
+<link>http://www.37signals.com/svn/posts/1118-features-are-a-one-way-street</link>
+<description>If you can&#x2019;t destroy what you build, each addition holds the threat of clutter. Empty pixels and free space where a new feature could be added are the most valuable real estate on your app. Don&#x2019;t be quick to sell it, because you can never get it back.</description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T23:39:23Z</dc:date>
+<dc:subject>37signals design development feature(s) netflix simplicity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/37signals" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+    <rdf:li resource="http://del.icio.us/tag/simplicity" />
+    <rdf:li resource="http://del.icio.us/tag/feature(s)" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes">
+<title>SEO 2.0 | Top 10 Fatal URL Design Mistakes</title>
+<link>http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T23:19:41Z</dc:date>
+<dc:subject>advice bestpractice(s) findability search seo tip(s) url(s)</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/url(s)" />
+    <rdf:li resource="http://del.icio.us/tag/findability" />
+    <rdf:li resource="http://del.icio.us/tag/tip(s)" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/bestpractice(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed">
+<title>SEOmoz | Reddit, Stumbleupon, Del.icio.us and Hacker News Algorithms Exposed!</title>
+<link>http://www.seomoz.org/blog/reddit-stumbleupon-delicious-and-hacker-news-algorithms-exposed</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T23:16:11Z</dc:date>
+<dc:subject>algorithm(s) del.icio.us digg programming reddit stumbleupon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/stumbleupon" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm(s)" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/del.icio.us" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.asiahotels.com/20-chinese-signs-for-a-confused-traveler/">
+<title>20 Chinese Signs for a Confused Traveler | AsiaHotels Blog</title>
+<link>http://blog.asiahotels.com/20-chinese-signs-for-a-confused-traveler/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T23:01:58Z</dc:date>
+<dc:subject>china chinese funny language sign(s) signage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/sign(s)" />
+    <rdf:li resource="http://del.icio.us/tag/signage" />
+    <rdf:li resource="http://del.icio.us/tag/chinese" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/">
+<title>How To Build A Web App in Four Days For $10,000 (Say Hello To Matt)</title>
+<link>http://www.techcrunch.com/2008/07/03/how-to-build-a-web-app-in-four-days-for-10000-say-hello-to-matt/</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T22:56:53Z</dc:date>
+<dc:subject>advice carsonified development django entrepreneurship framework(s) howto rails rubyonrails startup(s) twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/framework(s)" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/startup(s)" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/carsonified" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://radar.oreilly.com/archives/2008/07/seesmic-starts-adding-features.html">
+<title>Seesmic Starts Adding Features - O'Reilly Radar</title>
+<link>http://radar.oreilly.com/archives/2008/07/seesmic-starts-adding-features.html</link>
+<description></description>
+<dc:creator>femmebot</dc:creator>
+<dc:date>2008-07-03T22:39:10Z</dc:date>
+<dc:subject>oreilly seesmic startup(s) video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seesmic" />
+    <rdf:li resource="http://del.icio.us/tag/oreilly" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/startup(s)" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

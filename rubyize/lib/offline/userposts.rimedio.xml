@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rimedio">
+<title>del.icio.us/rimedio</title>
+<link>http://del.icio.us/rimedio</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.youconvertit.com/convertfiles.aspx" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/" />
+  <rdf:li rdf:resource="http://www.solucija.com/home/css-templates/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/inspiration_series_posters/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/" />
+  <rdf:li rdf:resource="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://www.hiddenpixels.com/designer-and-developer-resources/jquery-examples/" />
+  <rdf:li rdf:resource="http://www.jeroenwijering.com/?page=wizard" />
+  <rdf:li rdf:resource="http://www.airtightinteractive.com/news/" />
+  <rdf:li rdf:resource="http://www.zennaware.com/cornerstone/" />
+  <rdf:li rdf:resource="http://emehmedovic.com/xmca/toobplayer/#/download/" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites/" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://www.ics.uci.edu/~eppstein/PADS/" />
+  <rdf:li rdf:resource="http://www.comp.nus.edu.sg/~damithch/guide/" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup" />
+  <rdf:li rdf:resource="http://pdf-search-engine.com/index.php" />
+  <rdf:li rdf:resource="http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app" />
+  <rdf:li rdf:resource="http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html" />
+  <rdf:li rdf:resource="http://www.neave.com/television/" />
+  <rdf:li rdf:resource="http://www.positivespaceblog.com/archives/pdf-documents-designer/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-06T12:11:14Z</dc:date>
+<dc:subject>2008 crack hack hacking howto it list network os password passwords router security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/crack" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/passwords" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-06T10:37:46Z</dc:date>
+<dc:subject>2008 book books ebook ebooks education free java oop programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/ebooks" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/oop" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-06T04:58:31Z</dc:date>
+<dc:subject>2008 applications audio best conversion convert converter converters cool freeware media software tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/converters" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youconvertit.com/convertfiles.aspx">
+<title>Free online media file conversion (Document, Images, Audio, Video &#x26; Archives)</title>
+<link>http://www.youconvertit.com/convertfiles.aspx</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-05T11:39:57Z</dc:date>
+<dc:subject>apps audio computer conversion convert converter documents education file free online tools video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/documents" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-05T11:14:38Z</dc:date>
+<dc:subject>article articles career code coding cs dev development fun funny lifehacks programming rant</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/rant" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/">
+<title>Table Drag and Drop JQuery plugin | Isocra</title>
+<link>http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-04T17:35:46Z</dc:date>
+<dc:subject>2008 ajax and apps code drag dragdrop english examples javascript jquery plugin plugins table tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/dragdrop" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/drag" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solucija.com/home/css-templates/">
+<title>Free Templates - Solucija</title>
+<link>http://www.solucija.com/home/css-templates/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-04T16:20:17Z</dc:date>
+<dc:subject>blogging business cms code computer cool css design free layout template templates web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/">
+<title>Siafoo</title>
+<link>http://www.siafoo.net/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-04T12:39:36Z</dc:date>
+<dc:subject>articles code community computer programming python resources snippets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/snippets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/inspiration_series_posters/">
+<title>Inspiration series: Posters | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/inspiration_series_posters/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-04T11:19:49Z</dc:date>
+<dc:subject>advertising art beautiful blog colors creative design designer examples gallery graphics inspiration poster posters print</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/beautiful" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/colors" />
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/designer" />
+    <rdf:li resource="http://del.icio.us/tag/examples" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-03T15:33:31Z</dc:date>
+<dc:subject>api article articles classes dev development docs documentation hacks method programming python reference special tips underscore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/classes" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/docs" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/special" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+    <rdf:li resource="http://del.icio.us/tag/underscore" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-03T06:25:14Z</dc:date>
+<dc:subject>2008 amazing audio awesome flash free fun funny generator music noise sleep sound tools whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/noise" />
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/">
+<title>Pathfinder Development &#xBB; Pretty blocks in Rails views</title>
+<link>http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-02T16:38:20Z</dc:date>
+<dc:subject>blocks code design development guide helper howto merb mvc print rails ruby rubyonrails views</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/merb" />
+    <rdf:li resource="http://del.icio.us/tag/mvc" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+    <rdf:li resource="http://del.icio.us/tag/helper" />
+    <rdf:li resource="http://del.icio.us/tag/views" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/blocks" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html">
+<title>Websites you shouldn&#x2019;t have missed in JUNE 2008</title>
+<link>http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-02T12:23:32Z</dc:date>
+<dc:subject>2008 ajax bestof blog coding css design gallery inspiration list photoshop resources tutorials webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/bestof" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-02T08:31:58Z</dc:date>
+<dc:subject>anti-patterns antipatterns architecture article blog code computer designpatterns dev http patterns programming rest webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/antipatterns" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/designpatterns" />
+    <rdf:li resource="http://del.icio.us/tag/dev" />
+    <rdf:li resource="http://del.icio.us/tag/anti-patterns" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hiddenpixels.com/designer-and-developer-resources/jquery-examples/">
+<title>http://www.hiddenpixels.com/designer-and-developer-resources/jquery-examples/</title>
+<link>http://www.hiddenpixels.com/designer-and-developer-resources/jquery-examples/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T16:41:00Z</dc:date>
+<dc:subject>demo development example form howto javascript jquery lists plugin plugins programming tutorial web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/demo" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/example" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jeroenwijering.com/?page=wizard">
+<title>Setup Wizard</title>
+<link>http://www.jeroenwijering.com/?page=wizard</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T13:08:39Z</dc:date>
+<dc:subject>actionscript analytics audio best cms code developer development embed flash flv free image player rotator slideshow video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+    <rdf:li resource="http://del.icio.us/tag/analytics" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/developer" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/embed" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/rotator" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.airtightinteractive.com/news/">
+<title>Airtight News</title>
+<link>http://www.airtightinteractive.com/news/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T12:08:45Z</dc:date>
+<dc:subject>3d actionscript adobe agency animation application applications apps blog design flash photo photography software webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/actionscript" />
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+    <rdf:li resource="http://del.icio.us/tag/agency" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zennaware.com/cornerstone/">
+<title>Zennaware &#xBB; Cornerstone</title>
+<link>http://www.zennaware.com/cornerstone/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T09:29:54Z</dc:date>
+<dc:subject>application applications apps client cocoa code collaboration design development mac macosx osx software subversion svn versioncontrol</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/client" />
+    <rdf:li resource="http://del.icio.us/tag/cocoa" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/macosx" />
+    <rdf:li resource="http://del.icio.us/tag/versioncontrol" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emehmedovic.com/xmca/toobplayer/#/download/">
+<title>ToobPlayer 1.0.0 - Download</title>
+<link>http://emehmedovic.com/xmca/toobplayer/#/download/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T09:22:21Z</dc:date>
+<dc:subject>as2 code extension extensions flash flv free javascript movie player programming video youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/as2" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/flv" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; ContextFree.js &#x26; Algorithm Ink: Making Art with Javascript</title>
+<link>http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T09:04:25Z</dc:date>
+<dc:subject>ajax algorithm art background browser canvas code cool firefox graphics javascript library programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/background" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/canvas" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T08:56:21Z</dc:date>
+<dc:subject>article articles best cheatsheet code coding css design float layout reference tips webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/float" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites/">
+<title>10 Essential Sites for Tips and How-To&#x2019;s</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-07-01T08:55:41Z</dc:date>
+<dc:subject>2008 aggregator and cool database e-learning education guide howto lifehacks reference sites tips tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/sites" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-28T10:33:12Z</dc:date>
+<dc:subject>apps capture cms documentation e-learning guide howto learning mac osx screencapture software tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ics.uci.edu/~eppstein/PADS/">
+<title>Index of /~eppstein/PADS</title>
+<link>http://www.ics.uci.edu/~eppstein/PADS/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-28T10:14:25Z</dc:date>
+<dc:subject>ai algorithm algorithms api archive code coding computation graph graphs library programming python software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/computation" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+    <rdf:li resource="http://del.icio.us/tag/graphs" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.nus.edu.sg/~damithch/guide/">
+<title>A Student's Guide to Software Engineering Projects - Free online guide for Students</title>
+<link>http://www.comp.nus.edu.sg/~damithch/guide/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-27T16:23:40Z</dc:date>
+<dc:subject>ebook engineering free software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup">
+<title>Ornate, Floral, Swirly and Curly Vector Roundup | Blog.SpoonGraphics</title>
+<link>http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-27T16:21:53Z</dc:date>
+<dc:subject>backgrounds brushes design download free graphic graphics illustrator photoshop resources vector webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pdf-search-engine.com/index.php">
+<title>Ebook Search - Pdf Search Engine</title>
+<link>http://pdf-search-engine.com/index.php</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-27T16:03:58Z</dc:date>
+<dc:subject>books download ebook engine libros online pdf reference search searchengine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/engine" />
+    <rdf:li resource="http://del.icio.us/tag/libros" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app">
+<title>Make your own IM bot in Ruby, and interface it with your Rails app</title>
+<link>http://rubypond.com/articles/2008/06/26/make-your-own-im-bot-in-ruby-and-interface-it-with-your-rails-app</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-26T13:43:27Z</dc:date>
+<dc:subject>bot chat code howto im instant_messaging interface jabber message programming rails ruby rubyonrails xmpp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/message" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/xmpp" />
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+    <rdf:li resource="http://del.icio.us/tag/instant_messaging" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/jabber" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html">
+<title>23+ Impressive Tools for Faster Javascript/Ajax Development</title>
+<link>http://www.noupe.com/javascript/23-impressive-tools-for-faster-javascriptajax-development.html</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-26T09:41:40Z</dc:date>
+<dc:subject>2008 ajax api article articles beautifier best code design javascript list programming tools webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/beautifier" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neave.com/television/">
+<title>Neave Television ...telly without context</title>
+<link>http://www.neave.com/television/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-24T14:47:15Z</dc:date>
+<dc:subject>art awesome best bizarre browser cool creativity entertainment flash fun humor television tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/bizarre" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.positivespaceblog.com/archives/pdf-documents-designer/">
+<title>&#xBB; 30 Essential PDF Documents Every Designer Should&#xA0;Download :: Positive Space :: The Graphic Design Blog</title>
+<link>http://www.positivespaceblog.com/archives/pdf-documents-designer/</link>
+<description></description>
+<dc:creator>rimedio</dc:creator>
+<dc:date>2008-06-24T14:34:31Z</dc:date>
+<dc:subject>accessibility art blog blogs books business cheatsheet creative css design development pdf reference resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

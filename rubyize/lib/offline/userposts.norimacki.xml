@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/norimacki">
+<title>del.icio.us/norimacki</title>
+<link>http://del.icio.us/norimacki</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/gamella/20080705/1215185010" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www.shibukei.com/headline/5386/" />
+  <rdf:li rdf:resource="http://opentechpress.jp/opensource/article.pl?sid=08/07/04/0111228" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20080625/309414/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html" />
+  <rdf:li rdf:resource="http://www.ujasiri.com/prglib/vc/excel/vc_excel.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1" />
+  <rdf:li rdf:resource="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml" />
+  <rdf:li rdf:resource="http://www.codereading.com/article/why_python.html" />
+  <rdf:li rdf:resource="http://www.prefield.com/misc/softwares/index.html" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/" />
+  <rdf:li rdf:resource="http://www.bdti.com/" />
+  <rdf:li rdf:resource="http://subtech.g.hatena.ne.jp/y_yanbe/20080621/1214076113" />
+  <rdf:li rdf:resource="http://www.soi.wide.ad.jp/class/20020036/slides/18/index_1.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/yasuho/20080612/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/kazuhooku/20080616/1213605846" />
+  <rdf:li rdf:resource="http://fkmn.exblog.jp/7205922/" />
+  <rdf:li rdf:resource="http://japan.cnet.com/special/story/0,2000056049,20375191,00.htm" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/news/200806/11/googledeve.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/ZIGOROu/20080606/1212743014" />
+  <rdf:li rdf:resource="http://labaq.com/archives/51032297.html" />
+  <rdf:li rdf:resource="http://bundoki.com/?pid=8175635" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/wadap/20080602/1212419216" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/enterprise/articles/0805/28/news006.html" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/enterprise/articles/0806/02/news010.html" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/news/200806/02/google.html" />
+  <rdf:li rdf:resource="http://www.ietf.org/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/himazublog/20070408/1175994799" />
+  <rdf:li rdf:resource="http://emacs-users.jp/" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/05/rietveld/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://d.hatena.ne.jp/gamella/20080705/1215185010">
+<title>&#x30C9;&#x30E9;&#x30C3;&#x30AB;&#x30FC;&#x3068;&#x4EFB;&#x5929;&#x5802; &#x5CA9;&#x7530;&#x793E;&#x9577;&#x304B;&#x3089;&#x307F;&#x308B;&#x4EBA;&#x4E8B;&#x306E;&#x672C;&#x8CEA; - Future Insight</title>
+<link>http://d.hatena.ne.jp/gamella/20080705/1215185010</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-06T14:23:43Z</dc:date>
+<dc:subject>book management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-06T01:19:38Z</dc:date>
+<dc:subject>accounting wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shibukei.com/headline/5386/">
+<title>&#x624B;&#x306E;&#x3072;&#x3089;&#x3067;DJ&#x64CD;&#x4F5C;&#x2212;&#x30DD;&#x30B1;&#x30C3;&#x30C8;DJ&#x30B7;&#x30B9;&#x30C6;&#x30E0;&#x300C;&#x30DA;&#x30FC;&#x30B9;&#x30E1;&#x30FC;&#x30AB;&#x30FC;&#x300D;&#x4E0A;&#x9678;&#x3078; - &#x30B7;&#x30D6;&#x30E4;&#x7D4C;&#x6E08;&#x65B0;&#x805E;</title>
+<link>http://www.shibukei.com/headline/5386/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-06T01:03:56Z</dc:date>
+<dc:subject>dj music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dj" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://opentechpress.jp/opensource/article.pl?sid=08/07/04/0111228">
+<title>Open Tech Press | Linux&#x30C7;&#x30B9;&#x30AF;&#x30C8;&#x30C3;&#x30D7;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30C6;&#x30AD;&#x30B9;&#x30C8;&#x30FB;&#x30A8;&#x30C7;&#x30A3;&#x30BF;&#x30FC;</title>
+<link>http://opentechpress.jp/opensource/article.pl?sid=08/07/04/0111228</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-05T02:39:26Z</dc:date>
+<dc:subject>editor linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20080625/309414/">
+<title>&#x5E83;&#x5E2F;&#x57DF;&#x306B;&#x9069;&#x3057;&#x305F;&#x6280;&#x8853;&#x3067;4G&#x3092;&#x5148;&#x53D6;&#x308A;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20080625/309414/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-03T14:24:31Z</dc:date>
+<dc:subject>lte</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lte" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html">
+<title>&#x6D17;&#x7DF4;&#x3055;&#x308C;&#x305F;Perl: Perl&#x306B;&#x3088;&#x308B;Excel&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x306E;&#x8AAD;&#x307F;&#x53D6;&#x308A;&#xFF0F;&#x66F8;&#x304D;&#x8FBC;&#x307F;</title>
+<link>http://www.ibm.com/developerworks/jp/linux/library/l-pexcel/index.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-03T13:48:27Z</dc:date>
+<dc:subject>excel perl programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ujasiri.com/prglib/vc/excel/vc_excel.html">
+<title>Visual C++ Excel&#x64CD;&#x4F5C;&#x7DE8;</title>
+<link>http://www.ujasiri.com/prglib/vc/excel/vc_excel.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-07-03T13:47:35Z</dc:date>
+<dc:subject>excel programming vc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vc" />
+    <rdf:li resource="http://del.icio.us/tag/excel" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1">
+<title>&#x7761;&#x7720;&#x306E;&#x8CEA;&#x3092;&#x6700;&#x9AD8;&#x306B;&#x3059;&#x308B;&#x3001;&#x3061;&#x3087;&#x3063;&#x3068;&#x5909;&#x308F;&#x3063;&#x305F;&#x5915;&#x98DF;&#x306E;&#x3068;&#x308A;&#x65B9; - &#x5206;&#x88C2;&#x52D8;&#x9055;&#x3044;&#x541B;&#x5287;&#x5834;</title>
+<link>http://d.hatena.ne.jp/fromdusktildawn/20080629/p1</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-30T13:39:11Z</dc:date>
+<dc:subject>food health lifehacks sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml">
+<title>C++ Style Guide</title>
+<link>http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-29T16:53:27Z</dc:date>
+<dc:subject>c++ programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codereading.com/article/why_python.html">
+<title>&#x306A;&#x305C; Python &#x306A;&#x306E;? : &#x30BD;&#x30FC;&#x30B9;&#x30B3;&#x30FC;&#x30C9;&#x63A2;&#x967A;&#x968A;</title>
+<link>http://www.codereading.com/article/why_python.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-26T16:23:38Z</dc:date>
+<dc:subject>programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prefield.com/misc/softwares/index.html">
+<title>Spaghetti Source - &#x3088;&#x304F;&#x4F7F;&#x3046;&#x30BD;&#x30D5;&#x30C8;&#x30A6;&#x30A7;&#x30A2;</title>
+<link>http://www.prefield.com/misc/softwares/index.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-26T16:07:02Z</dc:date>
+<dc:subject>software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/">
+<title>Part5&#x3000;Mac OS X&#x306E;UNIX&#x306A;&#x4F7F;&#x3044;&#x65B9;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-26T15:41:48Z</dc:date>
+<dc:subject>mac unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bdti.com/">
+<title>BDTI &#x2014; Insight, Analysis, and Advice</title>
+<link>http://www.bdti.com/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-25T07:09:27Z</dc:date>
+<dc:subject>benchmark dsp research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dsp" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/benchmark" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://subtech.g.hatena.ne.jp/y_yanbe/20080621/1214076113">
+<title>iPhone/iPod touch&#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x958B;&#x767A;&#x8005;&#x306B;&#x306A;&#x308B;&#x305F;&#x3081;&#x306E;&#x9AD8;&#x901F;&#x9053;&#x8DEF; &#x5EFA;&#x8A2D;&#x4E88;&#x5B9A;&#x5730; - yanbe.diff - subtech</title>
+<link>http://subtech.g.hatena.ne.jp/y_yanbe/20080621/1214076113</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-22T14:38:29Z</dc:date>
+<dc:subject>apple iphone ipod objective-c programming touch</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/objective-c" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/touch" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.soi.wide.ad.jp/class/20020036/slides/18/index_1.html">
+<title>&#x30E6;&#x30FC;&#x30D3;&#x30AD;&#x30BF;&#x30B9;&#x30CD;&#x30C3;&#x30C8;&#x30EF;&#x30FC;&#x30AD;&#x30F3;&#x30B0;&#x6642;&#x4EE3;&#x306E;&#x2298;&#x30E2;&#x30D0;&#x30A4;&#x30EB;&#x30A4;&#x30F3;&#x30BF;&#x30FC;&#x30CD;&#x30C3;&#x30C8;&#x6280;&#x8853;&#x6700;&#x65B0;&#x52D5;&#x5411;</title>
+<link>http://www.soi.wide.ad.jp/class/20020036/slides/18/index_1.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-18T00:52:56Z</dc:date>
+<dc:subject>mobile protocol rohc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/protocol" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/rohc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/yasuho/20080612/p1">
+<title>&#x81EA;&#x5206;&#x3092;&#x9AD8;&#x3081;&#x308B;&#x305F;&#x3081;&#x306B;&#x306F;&#x3001;&#x305F;&#x3081;&#x3089;&#x3046;&#x3079;&#x304D;&#x3058;&#x3083;&#x306A;&#x3044; - yasuho&#x306E;&#x96A0;&#x308C;&#x5BB6;</title>
+<link>http://d.hatena.ne.jp/yasuho/20080612/p1</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-18T00:51:49Z</dc:date>
+<dc:subject>work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/kazuhooku/20080616/1213605846">
+<title>memcpy &#x6700;&#x9069;&#x5316; - id:kazuhooku&#x306E;&#x30E1;&#x30E2;&#x7F6E;&#x304D;&#x5834;</title>
+<link>http://d.hatena.ne.jp/kazuhooku/20080616/1213605846</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-16T13:58:54Z</dc:date>
+<dc:subject>C gcc memcpy programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/C" />
+    <rdf:li resource="http://del.icio.us/tag/gcc" />
+    <rdf:li resource="http://del.icio.us/tag/memcpy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fkmn.exblog.jp/7205922/">
+<title>&#x30D5;&#x30C3;&#x541B;&#x306E;&#x65E5;&#x5E38; : Emacs &#x3067; C &#x3068;&#x304B; Perl &#x3068;&#x304B; Ruby &#x306E;&#x30C7;&#x30D0;&#x30C3;&#x30B0;&#x3092;&#x3059;&#x308B;&#x3068;&#x6C17;&#x6301;&#x3061;&#x3044;&#x3044;</title>
+<link>http://fkmn.exblog.jp/7205922/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-13T04:20:08Z</dc:date>
+<dc:subject>debug emacs perl programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://japan.cnet.com/special/story/0,2000056049,20375191,00.htm">
+<title>&#x300C;&#x512A;&#x79C0;&#x3067;&#x3001;&#x3044;&#x3044;&#x5974;&#x304C;&#x591A;&#x3044;&#x300D;--Google&#x30AB;&#x30EB;&#x30C1;&#x30E3;&#x30FC;&#x3068;&#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x306E;&#x65E5;&#x5E38;:&#x30B9;&#x30DA;&#x30B7;&#x30E3;&#x30EB;&#x30EC;&#x30DD;&#x30FC;&#x30C8; - CNET Japan</title>
+<link>http://japan.cnet.com/special/story/0,2000056049,20375191,00.htm</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-13T04:16:24Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/news/200806/11/googledeve.html">
+<title>&#x30B0;&#x30FC;&#x30B0;&#x30EB; &#x30A8;&#x30F3;&#x30B8;&#x30CB;&#x30A2;&#x306E;&#x307E;&#x3058;&#x3081;&#x306A;&#x65E5;&#x5E38; &#xFF0D; &#xFF20;IT</title>
+<link>http://www.atmarkit.co.jp/news/200806/11/googledeve.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-12T04:04:33Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/ZIGOROu/20080606/1212743014">
+<title>Windows&#x74B0;&#x5883;&#x3067;Cygwin&#x3092;&#x4F7F;&#x3063;&#x3066;Perl&#x5B9F;&#x884C;&#x74B0;&#x5883;&#x3092;&#x6574;&#x3048;&#x308B; - Yet Another Hackadelic</title>
+<link>http://d.hatena.ne.jp/ZIGOROu/20080606/1212743014</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-06T16:01:40Z</dc:date>
+<dc:subject>cygwin perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cygwin" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labaq.com/archives/51032297.html">
+<title>&#x3089;&#x3070;Q:&#x30D3;&#x30EB;&#x30FB;&#x30B2;&#x30A4;&#x30C4;&#x306E;&#x30B9;&#x30D4;&#x30FC;&#x30C1;&#x300C;&#x5B66;&#x6821;&#x3067;&#x306F;&#x6559;&#x3048;&#x3066;&#x304F;&#x308C;&#x306A;&#x3044;&#x4EBA;&#x751F;&#x306B;&#x5F79;&#x7ACB;&#x3064;11&#x306E;&#x30EB;&#x30FC;&#x30EB;&#x300D;</title>
+<link>http://labaq.com/archives/51032297.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-06T15:29:22Z</dc:date>
+<dc:subject>life microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bundoki.com/?pid=8175635">
+<title>&#x3010;LAMY/&#x30E9;&#x30DF;&#x30FC;&#x3011;noto/&#x30CE;&#x30C8;  &#x6DF1;&#x6FA4;&#x76F4;&#x4EBA;&#x30B5;&#x30A4;&#x30F3;&#x5165;&#x308A;&#x30E2;&#x30C7;&#x30EB;&#x3010;&#x9650;&#x5B9A;&#x7248;&#x3011; - &#x6587;&#x623F;&#x5177;&#x901A;&#x8CA9;|&#x8F38;&#x5165;&#x6587;&#x623F;&#x5177;&#x8CA9;&#x58F2;|&#x5206;&#x5EA6;&#x5668;&#x30C9;&#x30C3;&#x30C8;&#x30B3;&#x30E0;</title>
+<link>http://bundoki.com/?pid=8175635</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-03T14:34:12Z</dc:date>
+<dc:subject>stationery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stationery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/wadap/20080602/1212419216">
+<title>&#x3082;&#x3063;&#x3068;&#x7C21;&#x5358;&#x306B;coLinux&#x3092;&#x3002;andLinux&#x306E;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;&#x624B;&#x9806; - Unix&#x7684;&#x306A;&#x30A2;&#x30EC;</title>
+<link>http://d.hatena.ne.jp/wadap/20080602/1212419216</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-03T14:20:25Z</dc:date>
+<dc:subject>andlinux colinux linux tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/andlinux" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/colinux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/enterprise/articles/0805/28/news006.html">
+<title>&#x307E;&#x3064;&#x3082;&#x3068;&#x3086;&#x304D;&#x3072;&#x308D;&#x306E;&#x30CF;&#x30C3;&#x30AB;&#x30FC;&#x30BA;&#x30E9;&#x30A4;&#x30D5;&#xFF1A;&#x7B2C;15&#x56DE;&#x3000;&#x5F8C;&#x8F29;&#x304B;&#x3089;&#x306E;&#x624B;&#x7D19; (1/2) - ITmedia &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA;</title>
+<link>http://www.itmedia.co.jp/enterprise/articles/0805/28/news006.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-03T05:19:06Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/enterprise/articles/0806/02/news010.html">
+<title>&#x201C;&#x60F3;&#x50CF;&#x529B;&#x306F;&#x7B4B;&#x8089;&#x201D;&#xFF1A;Google&#x526F;&#x793E;&#x9577;&#x304C;&#x6388;&#x3051;&#x308B;&#x958B;&#x767A;&#x8005;&#x306E;&#x5FC3;&#x5F97;&#x3068;&#x306F;&#xFF1F; - ITmedia &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA;</title>
+<link>http://www.itmedia.co.jp/enterprise/articles/0806/02/news010.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-03T04:15:07Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/news/200806/02/google.html">
+<title>&#x30B0;&#x30FC;&#x30B0;&#x30EB;&#x526F;&#x793E;&#x9577;&#x304C;&#x300C;&#x60F3;&#x50CF;&#x529B;&#x3068;&#x306F;&#x7B4B;&#x8089;&#x3060;&#x300D; &#xFF0D; &#xFF20;IT</title>
+<link>http://www.atmarkit.co.jp/news/200806/02/google.html</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-03T04:14:46Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ietf.org/">
+<title>IETF Home Page</title>
+<link>http://www.ietf.org/</link>
+<description>RFC</description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-06-02T07:24:14Z</dc:date>
+<dc:subject>network rfc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/rfc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/himazublog/20070408/1175994799">
+<title>1&#x9031;&#x9593;&#x306B;4&#x6642;&#x9593;&#x3057;&#x304B;&#x50CD;&#x304B;&#x306A;&#x3044;&#x4EBA;&#x306E;&#x4ED5;&#x4E8B;&#x8853; - himazu blog</title>
+<link>http://d.hatena.ne.jp/himazublog/20070408/1175994799</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-05-30T08:54:41Z</dc:date>
+<dc:subject>business management work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emacs-users.jp/">
+<title>emacs-users.jp - &#x65E5;&#x672C;&#x306E; Emacs &#x30E6;&#x30FC;&#x30B6;&#x306E;&#x305F;&#x3081;&#x306E;&#x30CF;&#x30D6;&#x30B5;&#x30A4;&#x30C8;</title>
+<link>http://emacs-users.jp/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-05-25T06:03:20Z</dc:date>
+<dc:subject>emacs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/05/rietveld/">
+<title>MOONGIFT: &#xBB; Google&#x306E;&#x30BD;&#x30FC;&#x30B9;&#x30EC;&#x30D3;&#x30E5;&#x30FC;&#x30B7;&#x30B9;&#x30C6;&#x30E0;Mondrian&#x306E;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x7248;&#x300C;Rietveld&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/05/rietveld/</link>
+<description></description>
+<dc:creator>norimacki</dc:creator>
+<dc:date>2008-05-24T05:30:30Z</dc:date>
+<dc:subject>code google programming python review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

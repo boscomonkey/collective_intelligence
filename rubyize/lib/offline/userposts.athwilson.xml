@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/athwilson">
+<title>del.icio.us/athwilson</title>
+<link>http://del.icio.us/athwilson</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.aldi.co.uk/index.htm" />
+  <rdf:li rdf:resource="http://www.sumopaint.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>router password info</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>athwilson</dc:creator>
+<dc:date>2008-07-06T12:46:56Z</dc:date>
+<dc:subject>pc1staid</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pc1staid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aldi.co.uk/index.htm">
+<title>ALDI - Home page</title>
+<link>http://www.aldi.co.uk/index.htm</link>
+<description></description>
+<dc:creator>athwilson</dc:creator>
+<dc:date>2008-07-06T12:29:24Z</dc:date>
+<dc:subject>entertainment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sumopaint.com/">
+<title>Sumopaint.com beta - Image Editing in the Browser</title>
+<link>http://www.sumopaint.com/</link>
+<description>for the kids imprssive, a wee little photopshop
+</description>
+<dc:creator>athwilson</dc:creator>
+<dc:date>2008-06-29T13:58:40Z</dc:date>
+<dc:subject>art</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

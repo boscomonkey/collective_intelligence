@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rivengodwind">
+<title>del.icio.us/rivengodwind</title>
+<link>http://del.icio.us/rivengodwind</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.wegame.com/game/misc/" />
+  <rdf:li rdf:resource="http://koderko.dk/J2METutorial/" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.vconversion.com/" />
+  <rdf:li rdf:resource="http://www.binaryzoo.com/games/index.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.wegame.com/game/misc/">
+<title>Best Gaming Videos</title>
+<link>http://www.wegame.com/game/misc/</link>
+<description>Watch, upload, and record Misc Gaming videos.</description>
+<dc:creator>rivengodwind</dc:creator>
+<dc:date>2008-07-06T11:38:56Z</dc:date>
+<dc:subject>game video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koderko.dk/J2METutorial/">
+<title>Game Programming Crash Course (for J2ME): Welcome</title>
+<link>http://koderko.dk/J2METutorial/</link>
+<description></description>
+<dc:creator>rivengodwind</dc:creator>
+<dc:date>2008-07-06T11:23:22Z</dc:date>
+<dc:subject>game programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>rivengodwind</dc:creator>
+<dc:date>2008-07-06T11:14:40Z</dc:date>
+<dc:subject>graduate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graduate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vconversion.com/">
+<title>YouTube Converter</title>
+<link>http://www.vconversion.com/</link>
+<description>This service allows you convert an Online YouTube Video to more popular formats like mpg, wmv, mov, mp4, mp3, 3gp, dvd...etc.vconversion.com converts FLV video to the selected format faster and less lossy than a typical transcoder.</description>
+<dc:creator>rivengodwind</dc:creator>
+<dc:date>2008-07-06T08:40:05Z</dc:date>
+<dc:subject>video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.binaryzoo.com/games/index.htm">
+<title>[ b i n a r y z o o . c o m ]</title>
+<link>http://www.binaryzoo.com/games/index.htm</link>
+<description>Free game downloads specialising in original shoot-em-ups</description>
+<dc:creator>rivengodwind</dc:creator>
+<dc:date>2008-07-06T05:44:00Z</dc:date>
+<dc:subject>freegames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freegames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

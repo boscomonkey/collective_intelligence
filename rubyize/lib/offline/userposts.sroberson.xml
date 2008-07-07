@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sroberson">
+<title>del.icio.us/sroberson</title>
+<link>http://del.icio.us/sroberson</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml" />
+  <rdf:li rdf:resource="http://www.surlybikes.com/bigdummy.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://blog.betzwhite.com/2008/06/super-foam-erator.html" />
+  <rdf:li rdf:resource="http://old.faluninfo.net/focus/flushing/" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-3-column.htm" />
+  <rdf:li rdf:resource="http://devzone.zend.com/article/3336-Reading-and-Writing-Spreadsheets-with-PHP" />
+  <rdf:li rdf:resource="http://www.greenemotor.com/htm/home.php" />
+  <rdf:li rdf:resource="http://www.bernsonev.com/-c-23.html" />
+  <rdf:li rdf:resource="http://www.rmartinbikes.com/index.html" />
+  <rdf:li rdf:resource="http://www.happyscooters.com/Moped-Scooters-p-1-c-31.html" />
+  <rdf:li rdf:resource="http://visforvoltage.org/forum/3254-don039t-convert-it-electrify-it" />
+  <rdf:li rdf:resource="http://www.optimalride.com/2008/06/02/2008-review-of-electric-scooters/" />
+  <rdf:li rdf:resource="http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200325603_200325603" />
+  <rdf:li rdf:resource="http://earthscooters.com/mopeds.html" />
+  <rdf:li rdf:resource="http://forums.maxima.org/showthread.php?p=6428713" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/" />
+  <rdf:li rdf:resource="http://www.nitobibug.com/" />
+  <rdf:li rdf:resource="http://www.treehugger.com/files/2008/05/ezee-electric-bikes.php" />
+  <rdf:li rdf:resource="http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html" />
+  <rdf:li rdf:resource="http://www.cyclone-usa.com/index.php" />
+  <rdf:li rdf:resource="http://www.electric-bikes.org/panasonic-electric-bikes.html" />
+  <rdf:li rdf:resource="http://www.omegastores.com/ebikes.htm" />
+  <rdf:li rdf:resource="http://www.bikeforums.net/archive/index.php/t-283709.html" />
+  <rdf:li rdf:resource="http://www.guerrillamail.com/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=oFaILpwtw4g" />
+  <rdf:li rdf:resource="http://newhaven.craigslist.org/bik/649948354.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/fct/bab/658452174.html" />
+  <rdf:li rdf:resource="http://www.saksfifthavenue.com/main/ProductArray.jsp?FOLDER%3C%3Efolder_id=2534374306429001&#x26;ASSORTMENT%3C%3East_id=1408474399545537&#x26;bmUID=1208947980590&#x26;SECSLOT=BR-Simple&#x26;siteID=Ld24lBPp7Kw-TJ94jKOTICIzd17UpYzp2w" />
+  <rdf:li rdf:resource="http://json%20feeds%20from%20del.icio.us%20lists/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-07-06T12:51:44Z</dc:date>
+<dc:subject>freeware howto software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml">
+<title>Optimize Ubuntu 8.04 for Speed - Speed up Hardy Heron! - Softpedia</title>
+<link>http://news.softpedia.com/news/Optimize-Ubuntu-8-04-for-Speed-86405.shtml</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-07-05T13:02:37Z</dc:date>
+<dc:subject>howto linux tips ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.surlybikes.com/bigdummy.html">
+<title>SURLYVILLE</title>
+<link>http://www.surlybikes.com/bigdummy.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-07-02T03:44:07Z</dc:date>
+<dc:subject>bicycle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-07-01T23:27:53Z</dc:date>
+<dc:subject>howto opensource video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.betzwhite.com/2008/06/super-foam-erator.html">
+<title>betz white: Super Foam-erator</title>
+<link>http://blog.betzwhite.com/2008/06/super-foam-erator.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-07-01T19:39:41Z</dc:date>
+<dc:subject>diy fun kids</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://old.faluninfo.net/focus/flushing/">
+<title>CCP Flushing Incident</title>
+<link>http://old.faluninfo.net/focus/flushing/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-23T18:47:31Z</dc:date>
+<dc:subject>falun+gong</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/falun%2Bgong" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-3-column.htm">
+<title>The Perfect 3 Column Liquid Layout: No CSS hacks. SEO friendly. iPhone compatible.</title>
+<link>http://matthewjamestaylor.com/blog/perfect-3-column.htm</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-19T04:29:48Z</dc:date>
+<dc:subject>webdev work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devzone.zend.com/article/3336-Reading-and-Writing-Spreadsheets-with-PHP">
+<title>Reading and Writing Spreadsheets with PHP</title>
+<link>http://devzone.zend.com/article/3336-Reading-and-Writing-Spreadsheets-with-PHP</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-19T02:01:39Z</dc:date>
+<dc:subject>howto webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greenemotor.com/htm/home.php">
+<title>greenemotor.com - Offical Website - 100% street legal, DOT approved electric scooters</title>
+<link>http://www.greenemotor.com/htm/home.php</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-13T04:49:21Z</dc:date>
+<dc:subject>ev scooters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/scooters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bernsonev.com/-c-23.html">
+<title>Wilderness Conversion Kits : BernsonEV</title>
+<link>http://www.bernsonev.com/-c-23.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-13T04:24:36Z</dc:date>
+<dc:subject>bicycle ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rmartinbikes.com/index.html">
+<title>R Martin | electric bikes | electric bicycle | Austin, TX</title>
+<link>http://www.rmartinbikes.com/index.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-11T17:44:44Z</dc:date>
+<dc:subject>bicycle eco ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.happyscooters.com/Moped-Scooters-p-1-c-31.html">
+<title>Moped Scooters - Wholesale|Retail|Distributor|Importer|Trader</title>
+<link>http://www.happyscooters.com/Moped-Scooters-p-1-c-31.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-11T13:42:04Z</dc:date>
+<dc:subject>scooters</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scooters" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://visforvoltage.org/forum/3254-don039t-convert-it-electrify-it">
+<title>Don't Convert It. Electrify It! | V is for Voltage Community</title>
+<link>http://visforvoltage.org/forum/3254-don039t-convert-it-electrify-it</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-11T04:50:28Z</dc:date>
+<dc:subject>ev ev+battery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev%2Bbattery" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.optimalride.com/2008/06/02/2008-review-of-electric-scooters/">
+<title>Electric Scooter Reviews | Optimal Ride</title>
+<link>http://www.optimalride.com/2008/06/02/2008-review-of-electric-scooters/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-11T04:24:32Z</dc:date>
+<dc:subject>bicycle ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200325603_200325603">
+<title>Q Electric Electric Scooter with Pedals &#x2014; Model# Expresso Red | Electric Scooters | Northern Tool + Equipment</title>
+<link>http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200325603_200325603</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-10T15:32:46Z</dc:date>
+<dc:subject>bicycle ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://earthscooters.com/mopeds.html">
+<title>Electric Moped's are all the Rage and Environmentally Friendly!</title>
+<link>http://earthscooters.com/mopeds.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-10T15:29:59Z</dc:date>
+<dc:subject>bicycle ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.maxima.org/showthread.php?p=6428713">
+<title>So i got a 1984 Yamahopper - Maxima Forums</title>
+<link>http://forums.maxima.org/showthread.php?p=6428713</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-09T15:39:10Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/">
+<title>50 Cool Things You Can Do with Google Charts API | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/05/50-cool-things-you-can-do-with-google-charts-api/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-06T16:11:13Z</dc:date>
+<dc:subject>howto programming web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nitobibug.com/">
+<title>NitobiBug - Browser based debugger</title>
+<link>http://www.nitobibug.com/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-06T15:52:11Z</dc:date>
+<dc:subject>debug development tools web webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.treehugger.com/files/2008/05/ezee-electric-bikes.php">
+<title>eZee Electric Commuter Bikes : TreeHugger</title>
+<link>http://www.treehugger.com/files/2008/05/ezee-electric-bikes.php</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-06T15:03:33Z</dc:date>
+<dc:subject>bicycle eco ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html">
+<title>I, Cringely . The Pulpit . Antisocial | PBS</title>
+<link>http://www.pbs.org/cringely/pulpit/2008/pulpit_20080307_004467.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-03T03:54:48Z</dc:date>
+<dc:subject>networking software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cyclone-usa.com/index.php">
+<title>Electric Bicycle Motor Kits from Cyclone-USA</title>
+<link>http://www.cyclone-usa.com/index.php</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-02T18:48:47Z</dc:date>
+<dc:subject>bicycle eco ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electric-bikes.org/panasonic-electric-bikes.html">
+<title>Panasonic Electric Bikes</title>
+<link>http://www.electric-bikes.org/panasonic-electric-bikes.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-02T15:35:27Z</dc:date>
+<dc:subject>bicycle eco ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.omegastores.com/ebikes.htm">
+<title>Electric bicycle, electricbike</title>
+<link>http://www.omegastores.com/ebikes.htm</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-02T15:31:53Z</dc:date>
+<dc:subject>bicycle eco ev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+    <rdf:li resource="http://del.icio.us/tag/ev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bikeforums.net/archive/index.php/t-283709.html">
+<title>Bad experience with Electric Cyclery/ Good experience with www.cyclone-usa.com</title>
+<link>http://www.bikeforums.net/archive/index.php/t-283709.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-06-02T15:12:37Z</dc:date>
+<dc:subject>bicycle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guerrillamail.com/">
+<title>GuerrillaMail.com &#xBB; Disposable Temporary E-Mail Address</title>
+<link>http://www.guerrillamail.com/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-05-12T12:19:59Z</dc:date>
+<dc:subject>tools utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=oFaILpwtw4g">
+<title>YouTube - The Persecution of Falun Gong</title>
+<link>http://www.youtube.com/watch?v=oFaILpwtw4g</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-05-04T01:29:46Z</dc:date>
+<dc:subject>falun+gong</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/falun%2Bgong" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newhaven.craigslist.org/bik/649948354.html">
+<title>Reese outfitter bicycle carrier</title>
+<link>http://newhaven.craigslist.org/bik/649948354.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-04-29T21:32:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://newyork.craigslist.org/fct/bab/658452174.html">
+<title>Bike Trailer / Jogging Stroller - Chariot Cougar 2 - $180</title>
+<link>http://newyork.craigslist.org/fct/bab/658452174.html</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-04-27T21:29:26Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.saksfifthavenue.com/main/ProductArray.jsp?FOLDER%3C%3Efolder_id=2534374306429001&#x26;ASSORTMENT%3C%3East_id=1408474399545537&#x26;bmUID=1208947980590&#x26;SECSLOT=BR-Simple&#x26;siteID=Ld24lBPp7Kw-TJ94jKOTICIzd17UpYzp2w">
+<title>Simple - The Men's Store - Saks.com</title>
+<link>http://www.saksfifthavenue.com/main/ProductArray.jsp?FOLDER%3C%3Efolder_id=2534374306429001&#x26;ASSORTMENT%3C%3East_id=1408474399545537&#x26;bmUID=1208947980590&#x26;SECSLOT=BR-Simple&#x26;siteID=Ld24lBPp7Kw-TJ94jKOTICIzd17UpYzp2w</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-04-23T20:38:53Z</dc:date>
+<dc:subject>eco</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eco" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://json%20feeds%20from%20del.icio.us%20lists/">
+<title>del.icio.us/help/json</title>
+<link>http://json%20feeds%20from%20del.icio.us%20lists/</link>
+<description></description>
+<dc:creator>sroberson</dc:creator>
+<dc:date>2008-04-18T18:02:04Z</dc:date>
+<dc:subject>howto programming software tools webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

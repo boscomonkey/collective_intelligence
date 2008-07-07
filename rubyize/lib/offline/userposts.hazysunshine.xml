@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hazysunshine">
+<title>del.icio.us/hazysunshine</title>
+<link>http://del.icio.us/hazysunshine</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://wsgfl.westsussex.gov.uk/ccm/navigation/curriculum/modern-foreign-languages/" />
+  <rdf:li rdf:resource="http://www.educationtechnologies.com/" />
+  <rdf:li rdf:resource="http://www.palabea.net/" />
+  <rdf:li rdf:resource="http://www.language-investigator.co.uk/index.htm" />
+  <rdf:li rdf:resource="http://www.befunky.com/" />
+  <rdf:li rdf:resource="http://oye.languageskills.co.uk/beginner/year7.html" />
+  <rdf:li rdf:resource="http://www.technolote.com/?page_id=66" />
+  <rdf:li rdf:resource="http://www.ngfl-cymru.org.uk/vtc/ngfl/spanish/primary_spanish/online_resource.html" />
+  <rdf:li rdf:resource="http://www.mystudiyo.com/" />
+  <rdf:li rdf:resource="http://www.ictgames.com/calmCounter.html" />
+  <rdf:li rdf:resource="http://schools-wikipedia.org/wp/index/subject.htm" />
+  <rdf:li rdf:resource="http://www.hitchams.suffolk.sch.uk/beacon/index.htm" />
+  <rdf:li rdf:resource="http://foundation.e2bn.org/" />
+  <rdf:li rdf:resource="http://lingro.com/" />
+  <rdf:li rdf:resource="http://krazydad.com/colrpickr/index.php?group=colorfields" />
+  <rdf:li rdf:resource="http://www.eriding.net/media/site_contents.shtml" />
+  <rdf:li rdf:resource="http://www.freeict.com/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.kids-space.org/HPT/1/11.html" />
+  <rdf:li rdf:resource="http://www.snapfiles.com/get/stickfigure.html" />
+  <rdf:li rdf:resource="http://creative.bfi.org.uk/titles/" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/learningzone/clips/" />
+  <rdf:li rdf:resource="http://www.huntington.cheshire.sch.uk/ict/escape/escapehome.html" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/schools/" />
+  <rdf:li rdf:resource="http://www.mathszone.co.uk/" />
+  <rdf:li rdf:resource="http://www.coxhoe.durham.sch.uk/Curriculum/Curriculum.htm" />
+  <rdf:li rdf:resource="http://gallery.e2bn.org/gallery-swgfl.html" />
+  <rdf:li rdf:resource="http://www.guitarsounds.co.uk/EF/KS2/ChoiceLiteracy.htm" />
+  <rdf:li rdf:resource="http://www.elite.net/~runner/jennifers/" />
+  <rdf:li rdf:resource="http://www.webcamplaza.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/">
+<title>http://educationalsoftware.wikispaces.com/</title>
+<link>http://educationalsoftware.wikispaces.com/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-07-06T10:49:13Z</dc:date>
+<dc:subject>education web2.0 wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>http://educationalsoftware.wikispaces.com/Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-07-06T10:46:47Z</dc:date>
+<dc:subject>ICT flickr images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wsgfl.westsussex.gov.uk/ccm/navigation/curriculum/modern-foreign-languages/">
+<title>West Sussex Grid for Learning: Modern Foreign Languages</title>
+<link>http://wsgfl.westsussex.gov.uk/ccm/navigation/curriculum/modern-foreign-languages/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-29T22:11:24Z</dc:date>
+<dc:subject>mfl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mfl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.educationtechnologies.com/">
+<title>Education Technologies: www.educationtechnologies.com</title>
+<link>http://www.educationtechnologies.com/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-27T19:18:12Z</dc:date>
+<dc:subject>ict tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.palabea.net/">
+<title>palabea.net :: learn languages ::</title>
+<link>http://www.palabea.net/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-27T18:08:50Z</dc:date>
+<dc:subject>e-learning languages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.language-investigator.co.uk/index.htm">
+<title>The Language Investigator</title>
+<link>http://www.language-investigator.co.uk/index.htm</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-26T21:09:56Z</dc:date>
+<dc:subject>languages primary</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/primary" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.befunky.com/">
+<title>Funky Ways to Express Yourself - BeFunky</title>
+<link>http://www.befunky.com/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-26T10:53:04Z</dc:date>
+<dc:subject>avatar fun interactive kids</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/avatar" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oye.languageskills.co.uk/beginner/year7.html">
+<title>Year 7 - Oye! - Language Skills</title>
+<link>http://oye.languageskills.co.uk/beginner/year7.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-25T20:24:49Z</dc:date>
+<dc:subject>Spanish games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spanish" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.technolote.com/?page_id=66">
+<title>technoLOTE &#xBB; LOTE Games</title>
+<link>http://www.technolote.com/?page_id=66</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-25T17:23:32Z</dc:date>
+<dc:subject>games mfl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/mfl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ngfl-cymru.org.uk/vtc/ngfl/spanish/primary_spanish/online_resource.html">
+<title>Primary Spanish</title>
+<link>http://www.ngfl-cymru.org.uk/vtc/ngfl/spanish/primary_spanish/online_resource.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-25T17:18:44Z</dc:date>
+<dc:subject>Spanish games</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Spanish" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mystudiyo.com/">
+<title>Create Great-Looking Interactive Quizzes (in minutes) - embed in any website / blog!</title>
+<link>http://www.mystudiyo.com/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-25T09:42:12Z</dc:date>
+<dc:subject>quiz tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/quiz" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ictgames.com/calmCounter.html">
+<title>calmCounter</title>
+<link>http://www.ictgames.com/calmCounter.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-25T09:40:20Z</dc:date>
+<dc:subject>ICT interactive tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://schools-wikipedia.org/wp/index/subject.htm">
+<title>2007 Schools Wikipedia Selection : Subject Index :</title>
+<link>http://schools-wikipedia.org/wp/index/subject.htm</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T21:29:01Z</dc:date>
+<dc:subject>encyclopedia kids</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/encyclopedia" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hitchams.suffolk.sch.uk/beacon/index.htm">
+<title>ICT</title>
+<link>http://www.hitchams.suffolk.sch.uk/beacon/index.htm</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:36:25Z</dc:date>
+<dc:subject>ICT art creativity resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://foundation.e2bn.org/">
+<title>ICT in the Early Years Foundation Stage (EYFS) - Home</title>
+<link>http://foundation.e2bn.org/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:34:16Z</dc:date>
+<dc:subject>EarlyYears ICT resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/EarlyYears" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lingro.com/">
+<title>lingro: The coolest dictionary known to hombre!</title>
+<link>http://lingro.com/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:26:34Z</dc:date>
+<dc:subject>dictionary e-learning free languages resources translation web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+    <rdf:li resource="http://del.icio.us/tag/translation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://krazydad.com/colrpickr/index.php?group=colorfields">
+<title>Color&#xA0;Fields Colr Pickr</title>
+<link>http://krazydad.com/colrpickr/index.php?group=colorfields</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:25:00Z</dc:date>
+<dc:subject>art design flickr graphics images interactive photos search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eriding.net/media/site_contents.shtml">
+<title>eRiding - Media Library - Site Contents</title>
+<link>http://www.eriding.net/media/site_contents.shtml</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:24:11Z</dc:date>
+<dc:subject>ICT images media photos resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeict.com/index.php/Main_Page">
+<title>Main Page - FreeICT</title>
+<link>http://www.freeict.com/index.php/Main_Page</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:22:04Z</dc:date>
+<dc:subject>ICT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kids-space.org/HPT/1/11.html">
+<title>Hoppy Hill: Dancing Notes</title>
+<link>http://www.kids-space.org/HPT/1/11.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:18:15Z</dc:date>
+<dc:subject>Games IWB Music primary</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/primary" />
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/IWB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.snapfiles.com/get/stickfigure.html">
+<title>Pivot Stickfigure Animator download and review - create animated cartoons from SnapFiles</title>
+<link>http://www.snapfiles.com/get/stickfigure.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:16:27Z</dc:date>
+<dc:subject>ICT animation download free freeware fun software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creative.bfi.org.uk/titles/">
+<title>BFI | Creative Archive Licence Group | All Titles</title>
+<link>http://creative.bfi.org.uk/titles/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:10:17Z</dc:date>
+<dc:subject>Film archive bfi download media resources video visual-literacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/Film" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/archive" />
+    <rdf:li resource="http://del.icio.us/tag/bfi" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/visual-literacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/learningzone/clips/">
+<title>BBC - Learning Zone Clips Library</title>
+<link>http://www.bbc.co.uk/learningzone/clips/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:09:25Z</dc:date>
+<dc:subject>BBC film images primary resources video visual-literacy whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/BBC" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+    <rdf:li resource="http://del.icio.us/tag/visual-literacy" />
+    <rdf:li resource="http://del.icio.us/tag/primary" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.huntington.cheshire.sch.uk/ict/escape/escapehome.html">
+<title>escape from Delta</title>
+<link>http://www.huntington.cheshire.sch.uk/ict/escape/escapehome.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:08:16Z</dc:date>
+<dc:subject>ICT games literacy non-linear texts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/texts" />
+    <rdf:li resource="http://del.icio.us/tag/non-linear" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/schools/">
+<title>BBC - Schools - Homepage</title>
+<link>http://www.bbc.co.uk/schools/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:06:18Z</dc:date>
+<dc:subject>Activities BBC Curriculum Online e-learning fun games interactive resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Activities" />
+    <rdf:li resource="http://del.icio.us/tag/e-learning" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/Curriculum" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/BBC" />
+    <rdf:li resource="http://del.icio.us/tag/Online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathszone.co.uk/">
+<title>http://www.mathszone.co.uk/</title>
+<link>http://www.mathszone.co.uk/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T11:00:30Z</dc:date>
+<dc:subject>Activities Interactive free games maths numeracy planning resources teaching whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+    <rdf:li resource="http://del.icio.us/tag/numeracy" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/Interactive" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+    <rdf:li resource="http://del.icio.us/tag/planning" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/Activities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coxhoe.durham.sch.uk/Curriculum/Curriculum.htm">
+<title>Curriculum</title>
+<link>http://www.coxhoe.durham.sch.uk/Curriculum/Curriculum.htm</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T10:59:20Z</dc:date>
+<dc:subject>Activities IWB Resources Teaching curriculum links</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Activities" />
+    <rdf:li resource="http://del.icio.us/tag/curriculum" />
+    <rdf:li resource="http://del.icio.us/tag/Resources" />
+    <rdf:li resource="http://del.icio.us/tag/IWB" />
+    <rdf:li resource="http://del.icio.us/tag/Teaching" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gallery.e2bn.org/gallery-swgfl.html">
+<title>South West Grid for Learning Trust - : Home</title>
+<link>http://gallery.e2bn.org/gallery-swgfl.html</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T10:58:24Z</dc:date>
+<dc:subject>ClipArt Teaching graphics ict images media</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ClipArt" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/ict" />
+    <rdf:li resource="http://del.icio.us/tag/Teaching" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.guitarsounds.co.uk/EF/KS2/ChoiceLiteracy.htm">
+<title>Educated Fish</title>
+<link>http://www.guitarsounds.co.uk/EF/KS2/ChoiceLiteracy.htm</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T10:57:00Z</dc:date>
+<dc:subject>Maths Teaching curriculum games links literacy resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+    <rdf:li resource="http://del.icio.us/tag/Maths" />
+    <rdf:li resource="http://del.icio.us/tag/literacy" />
+    <rdf:li resource="http://del.icio.us/tag/Teaching" />
+    <rdf:li resource="http://del.icio.us/tag/curriculum" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.elite.net/~runner/jennifers/">
+<title>Jennifer's language page</title>
+<link>http://www.elite.net/~runner/jennifers/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T10:46:18Z</dc:date>
+<dc:subject>languages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webcamplaza.net/">
+<title>Webcamplaza.net: The Live Streaming Webcam Portal</title>
+<link>http://www.webcamplaza.net/</link>
+<description></description>
+<dc:creator>hazysunshine</dc:creator>
+<dc:date>2008-06-24T10:38:26Z</dc:date>
+<dc:subject>directory geography live streaming webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+    <rdf:li resource="http://del.icio.us/tag/streaming" />
+    <rdf:li resource="http://del.icio.us/tag/geography" />
+    <rdf:li resource="http://del.icio.us/tag/live" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

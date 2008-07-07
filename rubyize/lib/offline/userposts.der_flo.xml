@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/der_flo">
+<title>del.icio.us/der_flo</title>
+<link>http://del.icio.us/der_flo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://overstimulate.com/articles/taboo-extend-firefox-3" />
+  <rdf:li rdf:resource="http://weblog.rubyonrails.com/2008/7/6/living-on-the-edge-3" />
+  <rdf:li rdf:resource="http://szeryf.wordpress.com/2007/07/30/way-beyond-cool-autotest-growl-doomguy/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/000240.html" />
+  <rdf:li rdf:resource="http://www.simpsonsmovie.com/main.html" />
+  <rdf:li rdf:resource="http://technicalpickles.com/posts/refactoring-a-activerecord-callback" />
+  <rdf:li rdf:resource="http://nullstyle.com/2007/06/19/link_to-as-a-block-helper/" />
+  <rdf:li rdf:resource="http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/" />
+  <rdf:li rdf:resource="http://slideshow.rubyforge.org/" />
+  <rdf:li rdf:resource="http://milabor.informatik.hs-fulda.de/videos/incoming/ElearningSymposium/deicke.html" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/" />
+  <rdf:li rdf:resource="http://ryandaigle.com/articles/2007/12/19/what-s-new-in-edge-rails-pluggable-controller-caching" />
+  <rdf:li rdf:resource="http://ryandaigle.com/articles/2008/1/25/what-s-new-in-edge-rails-easier-timezones" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://www.railslodge.com/plugins/1090-google-ajax-libraries-api" />
+  <rdf:li rdf:resource="http://blog.macromates.com/2008/working-with-history-in-bash/" />
+  <rdf:li rdf:resource="http://rufus.rubyforge.org/rufus-scheduler/files/README_txt.html" />
+  <rdf:li rdf:resource="http://warpspire.com/tipsresources/programming/long-running-tasks-in-rails-backgroundrb/" />
+  <rdf:li rdf:resource="http://support.tigertech.net/freeze-rails" />
+  <rdf:li rdf:resource="http://www.akitaonrails.com/2008/5/26/rolling-with-rails-2-1-the-first-full-tutorial-part-2" />
+  <rdf:li rdf:resource="http://www.rubyinside.com/rails-inside-announcement-935.html" />
+  <rdf:li rdf:resource="http://terrbear.org/?p=30" />
+  <rdf:li rdf:resource="http://www.webdrivenblog.com/2008/6/16/installing-the-theme-support-plugin-with-rails-2-1" />
+  <rdf:li rdf:resource="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1" />
+  <rdf:li rdf:resource="http://blog.barfoo.org/2008/06/29/subversion-on-webdav-with-actice-directory-authorization-on-suse-linux-enterprise" />
+  <rdf:li rdf:resource="http://www.pro-linux.de/berichte/synchronisation-mit-linux.html" />
+  <rdf:li rdf:resource="http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/" />
+  <rdf:li rdf:resource="http://www.fngtps.com/2008/06/putting-the-pane-back-into-deployment" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-06T11:41:59Z</dc:date>
+<dc:subject>todo!</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo!" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://overstimulate.com/articles/taboo-extend-firefox-3">
+<title>Taboo Extend Firefox 3 Entry  | overstimulate</title>
+<link>http://overstimulate.com/articles/taboo-extend-firefox-3</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-06T11:41:46Z</dc:date>
+<dc:subject>todo_firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.rubyonrails.com/2008/7/6/living-on-the-edge-3">
+<title>Riding Rails: Living on the Edge (or what's new in Edge Rails) #3</title>
+<link>http://weblog.rubyonrails.com/2008/7/6/living-on-the-edge-3</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-06T11:41:28Z</dc:date>
+<dc:subject>todo!</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo!" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://szeryf.wordpress.com/2007/07/30/way-beyond-cool-autotest-growl-doomguy/">
+<title>Way beyond cool: autotest   growl   Doomguy &#xAB; require &#x2018;brain&#x2019;</title>
+<link>http://szeryf.wordpress.com/2007/07/30/way-beyond-cool-autotest-growl-doomguy/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-06T11:41:06Z</dc:date>
+<dc:subject>todo!</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo!" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/000240.html">
+<title>Coding Horror: A Developer's Second Most Important Asset</title>
+<link>http://www.codinghorror.com/blog/archives/000240.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-06T11:35:05Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simpsonsmovie.com/main.html">
+<title>Simpsons Movie</title>
+<link>http://www.simpsonsmovie.com/main.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-05T12:00:41Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://technicalpickles.com/posts/refactoring-a-activerecord-callback">
+<title>Refactoring an ActiveRecord callback @ Technical Pickles</title>
+<link>http://technicalpickles.com/posts/refactoring-a-activerecord-callback</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-04T11:28:50Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nullstyle.com/2007/06/19/link_to-as-a-block-helper/">
+<title>link_to as a block helper | Educate. Liberate.</title>
+<link>http://nullstyle.com/2007/06/19/link_to-as-a-block-helper/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-04T10:52:38Z</dc:date>
+<dc:subject>block link rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/block" />
+    <rdf:li resource="http://del.icio.us/tag/link" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/">
+<title>posting to wordpress via ruby and atompub &#xAB; processi</title>
+<link>http://jmettraux.wordpress.com/2007/11/05/posting-to-wordpress-via-ruby-and-atompub/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-03T17:25:56Z</dc:date>
+<dc:subject>atom ruby wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slideshow.rubyforge.org/">
+<title>Slide Show (S9) - A Free Web Alternative to PowerPoint and KeyNote in Ruby</title>
+<link>http://slideshow.rubyforge.org/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-03T07:42:32Z</dc:date>
+<dc:subject>gem presentation ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/gem" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://milabor.informatik.hs-fulda.de/videos/incoming/ElearningSymposium/deicke.html">
+<title>http://milabor.informatik.hs-fulda.de/videos/incoming/ElearningSymposium/deicke.html</title>
+<link>http://milabor.informatik.hs-fulda.de/videos/incoming/ElearningSymposium/deicke.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-02T16:05:28Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/">
+<title>Pathfinder Development &#xBB; Pretty blocks in Rails views</title>
+<link>http://www.pathf.com/blogs/2008/07/pretty-blocks-in-rails-views/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-02T15:23:56Z</dc:date>
+<dc:subject>blocks rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/blocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryandaigle.com/articles/2007/12/19/what-s-new-in-edge-rails-pluggable-controller-caching">
+<title>Ryan's Scraps: What's New in Edge Rails: Pluggable Controller Caching</title>
+<link>http://ryandaigle.com/articles/2007/12/19/what-s-new-in-edge-rails-pluggable-controller-caching</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-02T09:00:28Z</dc:date>
+<dc:subject>todo_nww todo_rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_rails" />
+    <rdf:li resource="http://del.icio.us/tag/todo_nww" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ryandaigle.com/articles/2008/1/25/what-s-new-in-edge-rails-easier-timezones">
+<title>Ryan's Scraps: What's New in Edge Rails: Easier Timezones</title>
+<link>http://ryandaigle.com/articles/2008/1/25/what-s-new-in-edge-rails-easier-timezones</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-02T08:59:08Z</dc:date>
+<dc:subject>rails timezones</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/timezones" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-01T18:38:16Z</dc:date>
+<dc:subject>todo todo!</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo!" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railslodge.com/plugins/1090-google-ajax-libraries-api">
+<title>RailsLodge - Google Ajax Libraries API plugin</title>
+<link>http://www.railslodge.com/plugins/1090-google-ajax-libraries-api</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-01T14:16:46Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.macromates.com/2008/working-with-history-in-bash/">
+<title>TextMate Blog &#xBB; Working With History in Bash</title>
+<link>http://blog.macromates.com/2008/working-with-history-in-bash/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-07-01T08:06:19Z</dc:date>
+<dc:subject>todo_unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rufus.rubyforge.org/rufus-scheduler/files/README_txt.html">
+<title>rufus-scheduler rdoc - File: README.txt</title>
+<link>http://rufus.rubyforge.org/rufus-scheduler/files/README_txt.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T21:24:06Z</dc:date>
+<dc:subject>cron ruby scheduling todo_ndm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/scheduling" />
+    <rdf:li resource="http://del.icio.us/tag/cron" />
+    <rdf:li resource="http://del.icio.us/tag/todo_ndm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://warpspire.com/tipsresources/programming/long-running-tasks-in-rails-backgroundrb/">
+<title>Long running tasks in Rails: Backgroundrb - Warpspire</title>
+<link>http://warpspire.com/tipsresources/programming/long-running-tasks-in-rails-backgroundrb/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T19:55:07Z</dc:date>
+<dc:subject>backgroundrb rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/backgroundrb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.tigertech.net/freeze-rails">
+<title>Tiger Technologies: Freezing Rails</title>
+<link>http://support.tigertech.net/freeze-rails</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T14:33:48Z</dc:date>
+<dc:subject>freeze gem rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/freeze" />
+    <rdf:li resource="http://del.icio.us/tag/gem" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.akitaonrails.com/2008/5/26/rolling-with-rails-2-1-the-first-full-tutorial-part-2">
+<title>%w(Akita On Rails) * 2.0 / Rolling with Rails 2.1 - The First Full Tutorial - Part 2</title>
+<link>http://www.akitaonrails.com/2008/5/26/rolling-with-rails-2-1-the-first-full-tutorial-part-2</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T12:44:27Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rubyinside.com/rails-inside-announcement-935.html">
+<title>Rails Inside: The Rails-Only Alternative to Ruby Inside</title>
+<link>http://www.rubyinside.com/rails-inside-announcement-935.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T09:09:04Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://terrbear.org/?p=30">
+<title>terrbear.org &#xBB; Rails 2.1 + Theme Plugin</title>
+<link>http://terrbear.org/?p=30</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T08:52:46Z</dc:date>
+<dc:subject>rails theme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/theme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdrivenblog.com/2008/6/16/installing-the-theme-support-plugin-with-rails-2-1">
+<title>Installing the Theme support plugin with Rails 2.1 - Web Driven</title>
+<link>http://www.webdrivenblog.com/2008/6/16/installing-the-theme-support-plugin-with-rails-2-1</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T08:52:40Z</dc:date>
+<dc:subject>rails theme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/theme" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1">
+<title>%w(Akita On Rails) * 2.0 / Rolling with Rails 2.1 - The First Full Tutorial - Part 1</title>
+<link>http://www.akitaonrails.com/2008/5/25/rolling-with-rails-2-1-the-first-full-tutorial-part-1</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T08:32:17Z</dc:date>
+<dc:subject>dependency freeze gem rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/freeze" />
+    <rdf:li resource="http://del.icio.us/tag/gem" />
+    <rdf:li resource="http://del.icio.us/tag/dependency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.barfoo.org/2008/06/29/subversion-on-webdav-with-actice-directory-authorization-on-suse-linux-enterprise">
+<title>Christian&#x2019;s blog &#xBB; subversion on WebDAV with Actice Directory authorization on SUSE Linux Enterprise</title>
+<link>http://blog.barfoo.org/2008/06/29/subversion-on-webdav-with-actice-directory-authorization-on-suse-linux-enterprise</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T07:44:00Z</dc:date>
+<dc:subject>apache svn webdav</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/webdav" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pro-linux.de/berichte/synchronisation-mit-linux.html">
+<title>Pro-Linux: Windows Mobile 5 Synchronisation mit Linux</title>
+<link>http://www.pro-linux.de/berichte/synchronisation-mit-linux.html</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-30T07:43:34Z</dc:date>
+<dc:subject>handy linux mobile sync windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/handy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/">
+<title>How to save money running a startup (17 really good tips)</title>
+<link>http://www.calacanis.com/2008/03/07/how-to-save-money-running-a-startup-17-really-good-tips/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-29T15:08:43Z</dc:date>
+<dc:subject>todo_nww</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_nww" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/">
+<title>Pathfinder Development &#xBB; More Named Scope Awesomeness</title>
+<link>http://www.pathf.com/blogs/2008/06/more-named-scope-awesomeness/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-28T14:58:31Z</dc:date>
+<dc:subject>todo_rails!</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_rails!" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fngtps.com/2008/06/putting-the-pane-back-into-deployment">
+<title>Putting the pane back into deployment &#xB7; Fingertips</title>
+<link>http://www.fngtps.com/2008/06/putting-the-pane-back-into-deployment</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-28T14:56:48Z</dc:date>
+<dc:subject>todo_mac</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo_mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/">
+<title>Flexible Layouts: Challenge For The Future | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/</link>
+<description></description>
+<dc:creator>der_flo</dc:creator>
+<dc:date>2008-06-27T15:37:32Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

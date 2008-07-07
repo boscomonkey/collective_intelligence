@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/niksy">
+<title>del.icio.us/niksy</title>
+<link>http://del.icio.us/niksy</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://elitebydesign.com/getting-started-with-css-20-awesome-introductory-tuts/" />
+  <rdf:li rdf:resource="http://extplorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.search-this.com/2008/06/24/10-things-any-web-developer-worth-their-spit-should-know/" />
+  <rdf:li rdf:resource="http://www.positivespaceblog.com/archives/pdf-documents-designer/" />
+  <rdf:li rdf:resource="http://www.devlounge.net/code/getting-gravatars-on-your-single-posts-in-wordpress" />
+  <rdf:li rdf:resource="http://www.samsvojboss.com/2008/07/kako-povecati-broj-posjeta-na-sajtu.html" />
+  <rdf:li rdf:resource="http://www.webdevlounge.com/articles/tables-friend-or-foe/" />
+  <rdf:li rdf:resource="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/" />
+  <rdf:li rdf:resource="http://csscreme.com/freecsstemplate/electronix/" />
+  <rdf:li rdf:resource="http://www.deswign.com/2008/07/01/list-with-rounded-corners/" />
+  <rdf:li rdf:resource="http://www.dezinehq.com/2008/07/03/33-excellent-bicycle-designs/" />
+  <rdf:li rdf:resource="http://lifehacker.com/339834/the-20-best-iphone-and-ipod-touch-applications" />
+  <rdf:li rdf:resource="http://www.colourlovers.com/blog/2008/07/03/the-colors-of-corrosion-rusty-palettes/" />
+  <rdf:li rdf:resource="http://el50.com/2008/04/01/18-wallpapers-abstractos-segunda-parte/" />
+  <rdf:li rdf:resource="http://weeklystray.com/index.php.htm" />
+  <rdf:li rdf:resource="http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/" />
+  <rdf:li rdf:resource="http://www.logodesignlove.com/best-logo-design-resources" />
+  <rdf:li rdf:resource="http://www.javascriptkit.com/howto/htaccess.shtml" />
+  <rdf:li rdf:resource="http://vector4free.com/vectors/page/" />
+  <rdf:li rdf:resource="http://designerside.com/article/15-amazing-photoshop-text-effects" />
+  <rdf:li rdf:resource="http://www.gomediazine.com/tutorials/old-school-type-line-gradients/" />
+  <rdf:li rdf:resource="http://www.grungetextures.com/gallery/index.php?action=showgal&#x26;cat=17&#x26;ppage=1" />
+  <rdf:li rdf:resource="http://abduzeedo.com/great-wood-textures" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/learning-when-to-say-no/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/03/21/favicon-episode-6-black-abstract-and-hand-drawing/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/01/01/favicons-episode-5-the-delicate-beauties/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/09/11/creative-favicons-tiny-artwork/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/06/14/creative-favicons-when-small-is-beautiful/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/29/inspire-yourself-more-creative-favicons/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/31/inspire-yourself-50-remarkable-favicons/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://elitebydesign.com/getting-started-with-css-20-awesome-introductory-tuts/">
+<title>Getting Started With CSS: 20 Awesome Introductory Tuts</title>
+<link>http://elitebydesign.com/getting-started-with-css-20-awesome-introductory-tuts/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-06T12:25:26Z</dc:date>
+<dc:subject>css resources tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://extplorer.sourceforge.net/">
+<title>eXtplorer - A PHP- and JavaScript- based File Manager</title>
+<link>http://extplorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-06T12:12:52Z</dc:date>
+<dc:subject>ajax browser file ftp javascript manager php resources upload utilities</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/manager" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/ftp" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-06T12:11:35Z</dc:date>
+<dc:subject>business chair ergonomics furniture health home office work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+    <rdf:li resource="http://del.icio.us/tag/furniture" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.search-this.com/2008/06/24/10-things-any-web-developer-worth-their-spit-should-know/">
+<title>10 Things Any Web Developer Worth Their Spit Should Know</title>
+<link>http://www.search-this.com/2008/06/24/10-things-any-web-developer-worth-their-spit-should-know/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T15:33:50Z</dc:date>
+<dc:subject>design development tips web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.positivespaceblog.com/archives/pdf-documents-designer/">
+<title>&#xBB; 30 Essential PDF Documents Every Designer Should&#xA0;Download :: Positive Space :: The Graphic Design Blog</title>
+<link>http://www.positivespaceblog.com/archives/pdf-documents-designer/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T15:26:40Z</dc:date>
+<dc:subject>design pdf reference resources webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.devlounge.net/code/getting-gravatars-on-your-single-posts-in-wordpress">
+<title>Getting Gravatars on your Single Posts in WordPress | Devlounge</title>
+<link>http://www.devlounge.net/code/getting-gravatars-on-your-single-posts-in-wordpress</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T15:26:18Z</dc:date>
+<dc:subject>customization gravatar resources tips wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/gravatar" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.samsvojboss.com/2008/07/kako-povecati-broj-posjeta-na-sajtu.html">
+<title>33 savjeta za pove&#x107;anje broja posjeta na va&#x161;oj Web stranici - Kako zaraditi na Internetu</title>
+<link>http://www.samsvojboss.com/2008/07/kako-povecati-broj-posjeta-na-sajtu.html</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T12:14:39Z</dc:date>
+<dc:subject>articles marketing resources search seo tips traffic useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/traffic" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdevlounge.com/articles/tables-friend-or-foe/">
+<title>Tables - Friend or Foe?</title>
+<link>http://www.webdevlounge.com/articles/tables-friend-or-foe/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T09:25:46Z</dc:date>
+<dc:subject>articles semantic table tips web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/semantic" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/">
+<title>jQuery Table Drag and Drop</title>
+<link>http://www.isocra.com/2008/02/table-drag-and-drop-jquery-plugin/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T09:18:02Z</dc:date>
+<dc:subject>drag drop jquery resources table</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/drag" />
+    <rdf:li resource="http://del.icio.us/tag/drop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csscreme.com/freecsstemplate/electronix/">
+<title>E-Commerce Template</title>
+<link>http://csscreme.com/freecsstemplate/electronix/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-05T09:17:15Z</dc:date>
+<dc:subject>css ecommerce free resources template webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deswign.com/2008/07/01/list-with-rounded-corners/">
+<title>How to make a list with rounded corners, auto width and hover effect | Deswign</title>
+<link>http://www.deswign.com/2008/07/01/list-with-rounded-corners/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T16:56:01Z</dc:date>
+<dc:subject>corners css hover list resources rounded tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/corners" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/hover" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/rounded" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dezinehq.com/2008/07/03/33-excellent-bicycle-designs/">
+<title>33 Excellent Bicycle Designs | Dezine HQ</title>
+<link>http://www.dezinehq.com/2008/07/03/33-excellent-bicycle-designs/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T14:57:59Z</dc:date>
+<dc:subject>bicycle design inspiration showcase</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/339834/the-20-best-iphone-and-ipod-touch-applications">
+<title>Feature: The 20 Best iPhone and iPod touch Applications</title>
+<link>http://lifehacker.com/339834/the-20-best-iphone-and-ipod-touch-applications</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T14:52:18Z</dc:date>
+<dc:subject>applications iphone resources software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.colourlovers.com/blog/2008/07/03/the-colors-of-corrosion-rusty-palettes/">
+<title>Color + Design Blog / The Colors Of Corrosion: Rusty Palettes by COLOURlovers</title>
+<link>http://www.colourlovers.com/blog/2008/07/03/the-colors-of-corrosion-rusty-palettes/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T11:34:12Z</dc:date>
+<dc:subject>color corrosion metal palette resources rusty textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/palette" />
+    <rdf:li resource="http://del.icio.us/tag/metal" />
+    <rdf:li resource="http://del.icio.us/tag/rusty" />
+    <rdf:li resource="http://del.icio.us/tag/corrosion" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://el50.com/2008/04/01/18-wallpapers-abstractos-segunda-parte/">
+<title>18 wallpapers: luces abstractas &#xAB; el50</title>
+<link>http://el50.com/2008/04/01/18-wallpapers-abstractos-segunda-parte/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T11:24:00Z</dc:date>
+<dc:subject>desktop resources wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weeklystray.com/index.php.htm">
+<title>The most updated collection of Javascript, DHTML, Ajax Inspiration</title>
+<link>http://weeklystray.com/index.php.htm</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T11:23:42Z</dc:date>
+<dc:subject>javascript resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/">
+<title>49 Amazing Wallpapers at Paintbits - Life in Colors.</title>
+<link>http://www.paintbits.com/2008/05/26/49-amazing-wallpapers/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T11:23:25Z</dc:date>
+<dc:subject>desktop resources wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.logodesignlove.com/best-logo-design-resources">
+<title>77 of the best logo design resources | Logo Design Love</title>
+<link>http://www.logodesignlove.com/best-logo-design-resources</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T11:21:26Z</dc:date>
+<dc:subject>collection design inspiration logo resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/logo" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/collection" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javascriptkit.com/howto/htaccess.shtml">
+<title>Comprehensive guide to .htaccess- intro</title>
+<link>http://www.javascriptkit.com/howto/htaccess.shtml</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:44:40Z</dc:date>
+<dc:subject>.htaccess articles development guide howto reference useful webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.htaccess" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vector4free.com/vectors/page/">
+<title>Download Free Vectors - page 1</title>
+<link>http://vector4free.com/vectors/page/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:44:16Z</dc:date>
+<dc:subject>downloads free graphics resources stock vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designerside.com/article/15-amazing-photoshop-text-effects">
+<title>15 Amazing Photoshop Text Effects - Designerside</title>
+<link>http://designerside.com/article/15-amazing-photoshop-text-effects</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:43:13Z</dc:date>
+<dc:subject>effects photoshop resources text tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/effects" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gomediazine.com/tutorials/old-school-type-line-gradients/">
+<title>Old School Type - Line Gradients&#xA0;|&#xA0;GoMediaZine</title>
+<link>http://www.gomediazine.com/tutorials/old-school-type-line-gradients/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:42:57Z</dc:date>
+<dc:subject>effect howto photoshop retro tutorial typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/retro" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/effect" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.grungetextures.com/gallery/index.php?action=showgal&#x26;cat=17&#x26;ppage=1">
+<title>Grunge Textures</title>
+<link>http://www.grungetextures.com/gallery/index.php?action=showgal&#x26;cat=17&#x26;ppage=1</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:42:12Z</dc:date>
+<dc:subject>downloads free grunge patterns resources stock textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grunge" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/great-wood-textures">
+<title>Great Wood textures | Abduzeedo - graphic design | design inspiration | design tutorials</title>
+<link>http://abduzeedo.com/great-wood-textures</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-04T10:41:41Z</dc:date>
+<dc:subject>backgrounds downloads free patterns resources stock textures wood</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/wood" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/downloads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/learning-when-to-say-no/">
+<title>Learning When to Say No - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/learning-when-to-say-no/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:41:35Z</dc:date>
+<dc:subject>business career freelance tips work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/03/21/favicon-episode-6-black-abstract-and-hand-drawing/">
+<title>Favicon Episode 6: Black, Abstract and Hand-Drawing | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/03/21/favicon-episode-6-black-abstract-and-hand-drawing/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:36:31Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/01/01/favicons-episode-5-the-delicate-beauties/">
+<title>Favicons Episode 5: The Delicate Beauties | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/01/01/favicons-episode-5-the-delicate-beauties/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:34:43Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/09/11/creative-favicons-tiny-artwork/">
+<title>Creative Favicons: Tiny Artwork | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/09/11/creative-favicons-tiny-artwork/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:32:25Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/06/14/creative-favicons-when-small-is-beautiful/">
+<title>Creative Favicons: When Small Is Beautiful | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/06/14/creative-favicons-when-small-is-beautiful/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:29:47Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/29/inspire-yourself-more-creative-favicons/">
+<title>Inspire Yourself: More Creative Favicons | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/29/inspire-yourself-more-creative-favicons/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:27:31Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/31/inspire-yourself-50-remarkable-favicons/">
+<title>Inspire Yourself: 50 Remarkable Favicons | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/01/31/inspire-yourself-50-remarkable-favicons/</link>
+<description></description>
+<dc:creator>niksy</dc:creator>
+<dc:date>2008-07-03T22:24:59Z</dc:date>
+<dc:subject>favicon inspiration list showcase webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/favicon" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/showcase" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

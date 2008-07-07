@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dstraffin">
+<title>del.icio.us/dstraffin</title>
+<link>http://del.icio.us/dstraffin</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://www.topsecretrecipes.com/home.asp" />
+  <rdf:li rdf:resource="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html" />
+  <rdf:li rdf:resource="http://www.collthings.co.uk/2008/06/plans-for-first-rotating-skyscraper.html" />
+  <rdf:li rdf:resource="http://moodstream.gettyimages.com/" />
+  <rdf:li rdf:resource="http://www.humanclock.com/9pm____________________________________________________X______10pm" />
+  <rdf:li rdf:resource="http://www.humancalendar.com/" />
+  <rdf:li rdf:resource="http://www.comingthrough.se/main.php?lang=UK" />
+  <rdf:li rdf:resource="http://www.goldwingworld.com/pages/towtruck.htm" />
+  <rdf:li rdf:resource="http://www.exn.ca/video/?video=exn20040414-towbike.asx" />
+  <rdf:li rdf:resource="http://www.oldversion.com/" />
+  <rdf:li rdf:resource="http://www.surfthechannel.com/" />
+  <rdf:li rdf:resource="http://planetozh.com/projects/lightbox-clones/" />
+  <rdf:li rdf:resource="http://www.secretsite.com/secretsite.htm?source=top500im_b&#x26;gclid=CMmG8Ku19ZICFRFBFQodtkqUGw" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=mHXBL6bzAR4" />
+  <rdf:li rdf:resource="http://www.picamatic.com/" />
+  <rdf:li rdf:resource="http://www.airtightinteractive.com/projects/related_tag_browser/app/" />
+  <rdf:li rdf:resource="http://iraq.reuters.com/" />
+  <rdf:li rdf:resource="http://www.fixitclub.com/index.shtml" />
+  <rdf:li rdf:resource="http://www.piclens.com/site/ie/" />
+  <rdf:li rdf:resource="http://cit.ucsf.edu/embedmedia/step2.php?mediatype=Flash" />
+  <rdf:li rdf:resource="http://codefromthe70s.org/desktopearth_dl.asp" />
+  <rdf:li rdf:resource="http://www.orb.com/en" />
+  <rdf:li rdf:resource="http://mashable.com/2008/02/15/13-great-tools-for-organizing-the-web/" />
+  <rdf:li rdf:resource="http://www.windowsstartup.com/wso/browse.php" />
+  <rdf:li rdf:resource="http://www.cdkitchen.com/" />
+  <rdf:li rdf:resource="http://www.flickr.com/photos/library_of_congress/" />
+  <rdf:li rdf:resource="http://www.spike.com/video/2829215?cmpnid=785&#x26;pt=bk&#x26;refsite=7063" />
+  <rdf:li rdf:resource="http://www.pdfhammer.com/" />
+  <rdf:li rdf:resource="http://www.invisibleme.info/" />
+  <rdf:li rdf:resource="http://www.betterbaking.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-07-06T12:04:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.topsecretrecipes.com/home.asp">
+<title>Top Secret Recipes</title>
+<link>http://www.topsecretrecipes.com/home.asp</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-27T02:02:22Z</dc:date>
+<dc:subject>cooking recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html">
+<title>http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html</title>
+<link>http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-27T02:00:25Z</dc:date>
+<dc:subject>Cool photography photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cool" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collthings.co.uk/2008/06/plans-for-first-rotating-skyscraper.html">
+<title>http://www.collthings.co.uk/2008/06/plans-for-first-rotating-skyscraper.html</title>
+<link>http://www.collthings.co.uk/2008/06/plans-for-first-rotating-skyscraper.html</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-27T01:59:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://moodstream.gettyimages.com/">
+<title>Moodstream&#x2122; by Getty Images</title>
+<link>http://moodstream.gettyimages.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-14T04:07:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.humanclock.com/9pm____________________________________________________X______10pm">
+<title>humanclock.com - June 13, 2008 (Friday) / 9:53 pm</title>
+<link>http://www.humanclock.com/9pm____________________________________________________X______10pm</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-14T01:53:35Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.humancalendar.com/">
+<title>the human calendar&#xAE;</title>
+<link>http://www.humancalendar.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-06-14T01:48:53Z</dc:date>
+<dc:subject>Cool funny online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comingthrough.se/main.php?lang=UK">
+<title>Retriever fr&#xE5;n Coming Through</title>
+<link>http://www.comingthrough.se/main.php?lang=UK</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-05-31T02:03:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.goldwingworld.com/pages/towtruck.htm">
+<title>http://www.goldwingworld.com/pages/towtruck.htm</title>
+<link>http://www.goldwingworld.com/pages/towtruck.htm</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-05-31T02:02:05Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.exn.ca/video/?video=exn20040414-towbike.asx">
+<title>DiscoveryChannel.ca | Video</title>
+<link>http://www.exn.ca/video/?video=exn20040414-towbike.asx</link>
+<description>goldwing towtruck</description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-05-31T01:52:47Z</dc:date>
+<dc:subject>Cool video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cool" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oldversion.com/">
+<title>OldVersion.com</title>
+<link>http://www.oldversion.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-05-09T04:31:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.surfthechannel.com/">
+<title>SurfTheChannel - Home</title>
+<link>http://www.surfthechannel.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-05-02T03:42:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://planetozh.com/projects/lightbox-clones/">
+<title>The Lightbox Clones Matrix &#xAB; planetOzh</title>
+<link>http://planetozh.com/projects/lightbox-clones/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-04-30T02:58:54Z</dc:date>
+<dc:subject>design lightbox photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/lightbox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.secretsite.com/secretsite.htm?source=top500im_b&#x26;gclid=CMmG8Ku19ZICFRFBFQodtkqUGw">
+<title>SecretSite - A Romantic Community</title>
+<link>http://www.secretsite.com/secretsite.htm?source=top500im_b&#x26;gclid=CMmG8Ku19ZICFRFBFQodtkqUGw</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-04-25T04:53:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=mHXBL6bzAR4">
+<title>YouTube - An Engineer's Guide to Cats</title>
+<link>http://www.youtube.com/watch?v=mHXBL6bzAR4</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-04-13T19:07:59Z</dc:date>
+<dc:subject>funny video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picamatic.com/">
+<title>Picamatic - Upload images in one click!</title>
+<link>http://www.picamatic.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-28T16:02:41Z</dc:date>
+<dc:subject>online photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.airtightinteractive.com/projects/related_tag_browser/app/">
+<title>Flickr Related Tag Browser</title>
+<link>http://www.airtightinteractive.com/projects/related_tag_browser/app/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-23T13:30:21Z</dc:date>
+<dc:subject>Cool internet photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cool" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://iraq.reuters.com/">
+<title>Reuters : Bearing Witness</title>
+<link>http://iraq.reuters.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-23T13:25:41Z</dc:date>
+<dc:subject>documentary iraq photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+    <rdf:li resource="http://del.icio.us/tag/iraq" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fixitclub.com/index.shtml">
+<title>Fix It Club</title>
+<link>http://www.fixitclub.com/index.shtml</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-15T04:11:37Z</dc:date>
+<dc:subject>howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.piclens.com/site/ie/">
+<title>PicLens | Immersive Slideshows Across the Web</title>
+<link>http://www.piclens.com/site/ie/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-11T13:59:33Z</dc:date>
+<dc:subject>photography photos tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cit.ucsf.edu/embedmedia/step2.php?mediatype=Flash">
+<title>Embedded Media HTML Generator</title>
+<link>http://cit.ucsf.edu/embedmedia/step2.php?mediatype=Flash</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-11T13:15:38Z</dc:date>
+<dc:subject>Generator video web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/Generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codefromthe70s.org/desktopearth_dl.asp">
+<title>CodeFromThe70s.org</title>
+<link>http://codefromthe70s.org/desktopearth_dl.asp</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-11T13:04:19Z</dc:date>
+<dc:subject>Cool freeware internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cool" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.orb.com/en">
+<title>MyCast your digital media with Orb 2.0 remote pc access software</title>
+<link>http://www.orb.com/en</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-03-08T04:56:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://mashable.com/2008/02/15/13-great-tools-for-organizing-the-web/">
+<title>13 Great Tools For Organizing The Web</title>
+<link>http://mashable.com/2008/02/15/13-great-tools-for-organizing-the-web/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-02-16T02:17:49Z</dc:date>
+<dc:subject>computer internet tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.windowsstartup.com/wso/browse.php">
+<title>Browse Startup Application Knowledge Base</title>
+<link>http://www.windowsstartup.com/wso/browse.php</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-02-01T02:32:08Z</dc:date>
+<dc:subject>Virus computer reference security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/Virus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cdkitchen.com/">
+<title>Recipes and More @ CDKitchen - Recipes by and for home cooks like you - it's what's cooking online!</title>
+<link>http://www.cdkitchen.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-01-24T04:11:40Z</dc:date>
+<dc:subject>cooking food recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/photos/library_of_congress/">
+<title>Flickr: Photos from The Library of Congress</title>
+<link>http://www.flickr.com/photos/library_of_congress/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-01-22T00:32:08Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.spike.com/video/2829215?cmpnid=785&#x26;pt=bk&#x26;refsite=7063">
+<title>Nissan: Skateboard</title>
+<link>http://www.spike.com/video/2829215?cmpnid=785&#x26;pt=bk&#x26;refsite=7063</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-01-18T17:36:15Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.pdfhammer.com/">
+<title>PDF Hammer - Free Web Based PDF Editor</title>
+<link>http://www.pdfhammer.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2008-01-11T03:51:24Z</dc:date>
+<dc:subject>documents free generator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/documents" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.invisibleme.info/">
+<title>Invisible Me - Fast, Secure and Free Web Proxy</title>
+<link>http://www.invisibleme.info/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2007-12-30T21:08:07Z</dc:date>
+<dc:subject>free internet proxy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.betterbaking.com/">
+<title>BetterBaking.com - Cookie Dough&#x2026;</title>
+<link>http://www.betterbaking.com/</link>
+<description></description>
+<dc:creator>dstraffin</dc:creator>
+<dc:date>2007-12-28T04:31:30Z</dc:date>
+<dc:subject>baking cooking food magazine recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/baking" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

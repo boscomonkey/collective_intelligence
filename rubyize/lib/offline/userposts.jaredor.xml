@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/jaredor">
+<title>del.icio.us/jaredor</title>
+<link>http://del.icio.us/jaredor</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://atom.smasher.org/gas-station/" />
+  <rdf:li rdf:resource="http://mcsweeneys.net/2008/6/16joseph.html" />
+  <rdf:li rdf:resource="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/" />
+  <rdf:li rdf:resource="http://factor-language.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/" />
+  <rdf:li rdf:resource="http://linkmingle.com/user/video_lectures/computer_science_video_lectures" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://www.antlr.org/wiki/display/CS652/How+To+Read+C+Declarations" />
+  <rdf:li rdf:resource="http://www.cprogramming.com/tutorial.html#ctutorial" />
+  <rdf:li rdf:resource="http://www.learnmorsecode.com/" />
+  <rdf:li rdf:resource="http://blog.i-no.de/archives/2008/05/06/index.html" />
+  <rdf:li rdf:resource="http://www.economics.utoronto.ca/osborne/latex/PMAKEUP.HTM" />
+  <rdf:li rdf:resource="http://www.sfu.ca/~achanne/projects/bookbinding/" />
+  <rdf:li rdf:resource="http://www.acceleratingfuture.com/michael/blog/images/disagreement-hierarchy.jpg" />
+  <rdf:li rdf:resource="http://www.economicsnetwork.ac.uk/teaching/video.htm" />
+  <rdf:li rdf:resource="http://hotwire-shell.org/" />
+  <rdf:li rdf:resource="http://ipython.scipy.org/moin/" />
+  <rdf:li rdf:resource="http://showmedo.com/videos/video?name=1000010&#x26;fromSeriesID=100" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython/" />
+  <rdf:li rdf:resource="http://www.parsed.org/" />
+  <rdf:li rdf:resource="http://www.stripey.com/vim/keys.html" />
+  <rdf:li rdf:resource="http://greenokapi.net/talks/ReadablePerl.pdf" />
+  <rdf:li rdf:resource="http://graphsvsobjects.blogspot.com/" />
+  <rdf:li rdf:resource="http://protege.stanford.edu/" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/List-of-Free-Online-Ruby-Books-freebooksandarticles" />
+  <rdf:li rdf:resource="http://www.noiseforfree.com/bpython/" />
+  <rdf:li rdf:resource="http://controversy.wearscience.com/" />
+  <rdf:li rdf:resource="http://www.pixelbeat.org/programming/format_specs.html" />
+  <rdf:li rdf:resource="http://www.danbala.com/python/lpy/lpy.py.html" />
+  <rdf:li rdf:resource="http://erikdemaine.org/thok/umulius.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-07-06T06:26:58Z</dc:date>
+<dc:subject>ai career howto mit research science tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atom.smasher.org/gas-station/">
+<title>Atom Smasher's Gas Station Sign Generator</title>
+<link>http://atom.smasher.org/gas-station/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-07-06T05:55:13Z</dc:date>
+<dc:subject>generator graphics humor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mcsweeneys.net/2008/6/16joseph.html">
+<title>McSweeney's Internet Tendency: Lit 101 Class in Three Lines or Less.</title>
+<link>http://mcsweeneys.net/2008/6/16joseph.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-07-06T05:13:53Z</dc:date>
+<dc:subject>culture english humor literature</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/english" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/">
+<title>50 Must-Read Up and Coming Blogs by Teachers | Teaching Tips</title>
+<link>http://www.teachingtips.com/blog/2008/06/30/50-must-read-up-and-coming-blogs-by-teachers/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-07-06T05:11:33Z</dc:date>
+<dc:subject>blog education ideas learning teaching</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/teaching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://factor-language.blogspot.com/">
+<title>Factor: a practical stack language</title>
+<link>http://factor-language.blogspot.com/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-07-05T18:37:55Z</dc:date>
+<dc:subject>compiler computing factor programming science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/factor" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/">
+<title>Python Cookbook, 2nd Edition - Python Cookbook, 2nd Edition</title>
+<link>http://www.ubookcase.com/book/Oreilly/Python.Cookbook.2nd.edition/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-23T03:28:20Z</dc:date>
+<dc:subject>book programming python reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/user/video_lectures/computer_science_video_lectures">
+<title>LinkMingle.com &#xBB; video_lectures &#xBB; Computer Science Video Lectures</title>
+<link>http://linkmingle.com/user/video_lectures/computer_science_video_lectures</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-23T03:09:16Z</dc:date>
+<dc:subject>education learning lectures mit reference sicp video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/sicp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-23T01:40:38Z</dc:date>
+<dc:subject>computer programming reference software_development wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/software_development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.antlr.org/wiki/display/CS652/How+To+Read+C+Declarations">
+<title>How To Read C Declarations - USF Computer Science 652 - Programming Languages - ANTLR Project</title>
+<link>http://www.antlr.org/wiki/display/CS652/How+To+Read+C+Declarations</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-22T03:01:51Z</dc:date>
+<dc:subject>C c++ programming reference tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/C" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cprogramming.com/tutorial.html#ctutorial">
+<title>Cprogramming.com - Programming Tutorials: C++ Made Easy and C Made Easy</title>
+<link>http://www.cprogramming.com/tutorial.html#ctutorial</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-22T03:01:08Z</dc:date>
+<dc:subject>c c++ code programming tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learnmorsecode.com/">
+<title>learn morse code</title>
+<link>http://www.learnmorsecode.com/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-22T02:54:34Z</dc:date>
+<dc:subject>audio code communication cool electronics howto reference technology tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.i-no.de/archives/2008/05/06/index.html">
+<title>May 06, 2008 Archives | Blog of an Alpha animal</title>
+<link>http://blog.i-no.de/archives/2008/05/06/index.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-22T02:41:14Z</dc:date>
+<dc:subject>Linux ack grep tools unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ack" />
+    <rdf:li resource="http://del.icio.us/tag/grep" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economics.utoronto.ca/osborne/latex/PMAKEUP.HTM">
+<title>Notes on page makeup using TeX</title>
+<link>http://www.economics.utoronto.ca/osborne/latex/PMAKEUP.HTM</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-22T02:25:08Z</dc:date>
+<dc:subject>LaTeX TeX reference tips typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/LaTeX" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/TeX" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sfu.ca/~achanne/projects/bookbinding/">
+<title>Bookbinding: How to Make a Hardcover Book</title>
+<link>http://www.sfu.ca/~achanne/projects/bookbinding/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-21T18:51:06Z</dc:date>
+<dc:subject>DIY book books cool craft howto paper</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/craft" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.acceleratingfuture.com/michael/blog/images/disagreement-hierarchy.jpg">
+<title>disagreement-hierarchy.jpg (JPEG Image, 679x516 pixels)</title>
+<link>http://www.acceleratingfuture.com/michael/blog/images/disagreement-hierarchy.jpg</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-21T16:26:20Z</dc:date>
+<dc:subject>humor logic rhetoric</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/logic" />
+    <rdf:li resource="http://del.icio.us/tag/rhetoric" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economicsnetwork.ac.uk/teaching/video.htm">
+<title>Audio and Video Lectures (Economics Network)</title>
+<link>http://www.economicsnetwork.ac.uk/teaching/video.htm</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-21T16:25:19Z</dc:date>
+<dc:subject>economics finance lectures video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/lectures" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hotwire-shell.org/">
+<title>Hotwire - A free object-oriented hypershell</title>
+<link>http://hotwire-shell.org/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-20T22:17:30Z</dc:date>
+<dc:subject>linux opensource programming python shell sysadmin tool unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ipython.scipy.org/moin/">
+<title>FrontPage - IPython</title>
+<link>http://ipython.scipy.org/moin/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-20T22:17:02Z</dc:date>
+<dc:subject>development ipython programming python shell software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ipython" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://showmedo.com/videos/video?name=1000010&#x26;fromSeriesID=100">
+<title>The 'IPython' Interactive Shell - Part 1 tutorial video - A Demonstration of the 'IPython' Interactive Shell - Learn: ipython, python, programming_tools</title>
+<link>http://showmedo.com/videos/video?name=1000010&#x26;fromSeriesID=100</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-20T22:16:26Z</dc:date>
+<dc:subject>ipython programming python tools tutorial video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/ipython" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython/">
+<title>Using Net-SNMP and IPython</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-netsnmpnipython/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-20T22:15:48Z</dc:date>
+<dc:subject>ipython programming python scripting sysadmin tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ipython" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.parsed.org/">
+<title>Searchable, tagged computing tips - parsed.org</title>
+<link>http://www.parsed.org/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-18T22:04:05Z</dc:date>
+<dc:subject>coding computing editors howto linux programming software tips windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/computing" />
+    <rdf:li resource="http://del.icio.us/tag/editors" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stripey.com/vim/keys.html">
+<title>Vim: Key Mappings</title>
+<link>http://www.stripey.com/vim/keys.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-18T21:00:25Z</dc:date>
+<dc:subject>tips vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greenokapi.net/talks/ReadablePerl.pdf">
+<title>Readable Perl</title>
+<link>http://greenokapi.net/talks/ReadablePerl.pdf</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T21:07:21Z</dc:date>
+<dc:subject>coding_style perl programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/coding_style" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphsvsobjects.blogspot.com/">
+<title>Graphs Vs Objects</title>
+<link>http://graphsvsobjects.blogspot.com/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T18:11:38Z</dc:date>
+<dc:subject>ontology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ontology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://protege.stanford.edu/">
+<title>The Prot&#xE9;g&#xE9; Ontology Editor and Knowledge Acquisition System</title>
+<link>http://protege.stanford.edu/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T18:11:00Z</dc:date>
+<dc:subject>IDE editor ontology opensource software tools visualization xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ontology" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/IDE" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/List-of-Free-Online-Ruby-Books-freebooksandarticles">
+<title>LinkMingle.com &#xBB; List of Free Online Ruby Books</title>
+<link>http://linkmingle.com/list/List-of-Free-Online-Ruby-Books-freebooksandarticles</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T01:28:24Z</dc:date>
+<dc:subject>books programming resources ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noiseforfree.com/bpython/">
+<title>bpython - fancy curses interface to the Python interpreter</title>
+<link>http://www.noiseforfree.com/bpython/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T01:27:48Z</dc:date>
+<dc:subject>editor ide programming python shell tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ide" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://controversy.wearscience.com/">
+<title>Teach the Controversy - Intelligently designed t-shirts urging you to show both sides of every story</title>
+<link>http://controversy.wearscience.com/</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-17T01:24:50Z</dc:date>
+<dc:subject>geek humor science shopping t-shirts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/t-shirts" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixelbeat.org/programming/format_specs.html">
+<title>printf format specifications quick reference</title>
+<link>http://www.pixelbeat.org/programming/format_specs.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-16T22:53:25Z</dc:date>
+<dc:subject>bash cheatsheet ksh printf unix unix:scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/printf" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/unix:scripting" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/ksh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.danbala.com/python/lpy/lpy.py.html">
+<title>lpy.py</title>
+<link>http://www.danbala.com/python/lpy/lpy.py.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-15T20:02:32Z</dc:date>
+<dc:subject>literate_programming programming python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/literate_programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erikdemaine.org/thok/umulius.html">
+<title>MAGIC RINGS Alias UMULIUS RECTANGULUM</title>
+<link>http://erikdemaine.org/thok/umulius.html</link>
+<description></description>
+<dc:creator>jaredor</dc:creator>
+<dc:date>2008-06-15T19:48:43Z</dc:date>
+<dc:subject>illusion origami</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/origami" />
+    <rdf:li resource="http://del.icio.us/tag/illusion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

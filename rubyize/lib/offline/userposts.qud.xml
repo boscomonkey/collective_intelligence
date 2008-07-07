@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/qud">
+<title>del.icio.us/qud</title>
+<link>http://del.icio.us/qud</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/40-sites-you-might-actually-use/" />
+  <rdf:li rdf:resource="http://www.designvitality.com/blog/2008/02/40-excellent-web-based-tools-to-help-you-design-from-anywhere/" />
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://java-source.net/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=e3kyNGVK-hI" />
+  <rdf:li rdf:resource="http://www.text2mindmap.com/" />
+  <rdf:li rdf:resource="http://docs.google.com/View?docid=dfsr6r2x_71fqqm9sk8" />
+  <rdf:li rdf:resource="http://www.jamendo.com/en/" />
+  <rdf:li rdf:resource="http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=flow" />
+  <rdf:li rdf:resource="http://www.python.org/dev/peps/pep-0008/" />
+  <rdf:li rdf:resource="http://www.nowplayit.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://howtosplitanatom.com/news/40-sites-you-might-actually-use/">
+<title>40 Sites You Might Actually Use</title>
+<link>http://howtosplitanatom.com/news/40-sites-you-might-actually-use/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:56:37Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designvitality.com/blog/2008/02/40-excellent-web-based-tools-to-help-you-design-from-anywhere/">
+<title>40 Excellent Web Based Tools to Help You Design from Anywhere</title>
+<link>http://www.designvitality.com/blog/2008/02/40-excellent-web-based-tools-to-help-you-design-from-anywhere/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:49:10Z</dc:date>
+<dc:subject>web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com</title>
+<link>http://www.simplynoise.com/</link>
+<description>The best free white noise generator on the Internet.</description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:43:42Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:41:42Z</dc:date>
+<dc:subject>how-to</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/how-to" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-06T09:16:48Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html">
+<title>256 Terminal colors and thier 24bit equivalent</title>
+<link>http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-05T21:11:00Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-05T07:20:30Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java-source.net/">
+<title>Open Source Software in Java(tm)</title>
+<link>http://java-source.net/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-05T06:16:33Z</dc:date>
+<dc:subject>java software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=e3kyNGVK-hI">
+<title>Nathan &#x22;Flutebox&#x22; Lee and Beardyman @ Google, London</title>
+<link>http://www.youtube.com/watch?v=e3kyNGVK-hI</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-04T17:17:43Z</dc:date>
+<dc:subject>beatbox google video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/beatbox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.text2mindmap.com/">
+<title>Text 2 Mind Map</title>
+<link>http://www.text2mindmap.com/</link>
+<description>Text to Mind Map converter: Convert your text or list of keywords to a mind map instantly online! The text 2 mind map converter makes a mind map out of your bullet list. Also known as Text-2-mind-map converter or, shortly, Text2Mindmap.</description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-03T08:55:16Z</dc:date>
+<dc:subject>mindmap</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.google.com/View?docid=dfsr6r2x_71fqqm9sk8">
+<title>&#x41E;&#x447;&#x435;&#x43D;&#x44C; &#x43F;&#x43E;&#x43B;&#x435;&#x437;&#x43D;&#x44B;&#x435; &#x43A;&#x43E;&#x43C;&#x430;&#x43D;&#x434;&#x44B; Linux</title>
+<link>http://docs.google.com/View?docid=dfsr6r2x_71fqqm9sk8</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-03T07:58:42Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jamendo.com/en/">
+<title>Jamendo</title>
+<link>http://www.jamendo.com/en/</link>
+<description>Download and listen to albums, legally. Use BitTorrent or download directly to discover and share new artists. All content is Creative Commons or</description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-01T23:14:59Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=flow">
+<title>flow</title>
+<link>http://tug.ctan.org/cgi-bin/ctanPackageInformation.py?id=flow</link>
+<description>small program that parses a flowchart description and produces LaTeX picture environment code.</description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-01T22:18:32Z</dc:date>
+<dc:subject>tex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.python.org/dev/peps/pep-0008/">
+<title>PEP 8 -- Style Guide for Python Code</title>
+<link>http://www.python.org/dev/peps/pep-0008/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-07-01T08:26:35Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nowplayit.com/">
+<title>Now Play It</title>
+<link>http://www.nowplayit.com/</link>
+<description></description>
+<dc:creator>qud</dc:creator>
+<dc:date>2008-06-30T05:04:18Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

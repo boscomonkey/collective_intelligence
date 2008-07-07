@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/shazza">
+<title>del.icio.us/shazza</title>
+<link>http://del.icio.us/shazza</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.kowalczyk.info/software/sumatrapdf/" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://playground.everydayicons.jp/" />
+  <rdf:li rdf:resource="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/" />
+  <rdf:li rdf:resource="http://www.yosefk.com/blog/extreme-programming-explained.html" />
+  <rdf:li rdf:resource="http://abduzeedo.com/super-cool-frilly-bits-typography" />
+  <rdf:li rdf:resource="http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://www.pingable.org/20-of-the-best-free-magazine-wordpress-themes/" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.linuxhaxor.net/2008/06/26/10-irc-client-for-linux/" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts" />
+  <rdf:li rdf:resource="http://vectortuts.com/illustration/create-a-super-happy-octopus-character/" />
+  <rdf:li rdf:resource="http://www.zachgraeve.com/css-cheats/" />
+  <rdf:li rdf:resource="http://www.deke.com/content/101-photoshop-tips-5-minutes" />
+  <rdf:li rdf:resource="http://designreviver.com/tutorials/20-excellent-photoshop-tutorials-for-web-designers" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/simple_organic_shapes_the_illustrator_way/" />
+  <rdf:li rdf:resource="http://psdtuts.com/designing-tutorials/arrows-lines-and-improving-your-photoshop-workflow/" />
+  <rdf:li rdf:resource="http://www.fanphp.com/2008/06/20/mysql-database-optimization/" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/138511" />
+  <rdf:li rdf:resource="http://www.linuxhaxor.net/2008/05/20/5-ways-to-screencast-your-linux-desktop/" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial" />
+  <rdf:li rdf:resource="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/" />
+  <rdf:li rdf:resource="http://www.askthecssguy.com/2008/03/one_pixel_notched_corners_as_u.html" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/illustrator_live_trace/" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/swirly_curls_in_adobe_illustrator/" />
+  <rdf:li rdf:resource="http://abduzeedo.com/cross-processed-lomo-effect-photoshop-tutorial" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.kowalczyk.info/software/sumatrapdf/">
+<title>Sumatra PDF viewer by Krzysztof Kowalczyk</title>
+<link>http://blog.kowalczyk.info/software/sumatrapdf/</link>
+<description>What is Sumatra PDF? Sumatra PDF is a slim, free, open-source PDF viewer for Windows. Why another PDF reader? Sumatra has a minimalistic design. Simplicity has a higher priority than a lot of features. It's small and starts up very fast. It's designed for</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-06T12:57:03Z</dc:date>
+<dc:subject>pdf viewer windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/viewer" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description>FormatFactory is a multifunctional media converter. Provides functions below: All to MP4/3GP/MPG/AVI/WMV/FLV/SWF. All to MP3/OGG/WMA/M4A/WAV. All to JPG/BMP/PNG/TIF/ICO/.... Rip DVD to video file. MP4 files support iPod/iPhone/PSP format. Source files sup</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-06T12:53:39Z</dc:date>
+<dc:subject>audio convert images software video windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://playground.everydayicons.jp/">
+<title>everyday icons Playground</title>
+<link>http://playground.everydayicons.jp/</link>
+<description></description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-04T13:08:13Z</dc:date>
+<dc:subject>icons patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/">
+<title>How To Setup MySQL Replication in 10 minutes | Hackosis</title>
+<link>http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/</link>
+<description>MySQL is an excellent open source database system. Replication is a great way to keep data redundant in case of a server crash. However, replication should not take the place of backups in case of data corruption or mis-entered data - as this data will al</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-04T09:42:59Z</dc:date>
+<dc:subject>mysql replication tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yosefk.com/blog/extreme-programming-explained.html">
+<title>Extreme Programming Explained</title>
+<link>http://www.yosefk.com/blog/extreme-programming-explained.html</link>
+<description>But XP? A software development methodology? A programmer ordered a book on methodology? I have to find out who that was. Well, I found out and the shock became worse, because it was one of the cooler kids. Largely out of respect for that guy, I grabbed th</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-02T16:43:27Z</dc:date>
+<dc:subject>Development Programming xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/Development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/super-cool-frilly-bits-typography">
+<title>Super Cool Frilly Bits Typography | Abduzeedo - graphic design | design inspiration | design tutorials</title>
+<link>http://abduzeedo.com/super-cool-frilly-bits-typography</link>
+<description>Last week we published our 10th Wallpaper of the Week. It was an awesome typography/design from Ginger Monkey Design called Compassion. What I really liked about that design was how they mixed some &#x26;quot;frilly bits&#x26;quot; with the typeface to create an outstanding</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-02T16:11:51Z</dc:date>
+<dc:subject>Photoshop tutorial typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/">
+<title>Photoshop: Hand Drawn Design</title>
+<link>http://www.webdesignerwall.com/tutorials/photoshop-hand-drawn-design/</link>
+<description>In case you haven&#x2019;t noticed yet, the hand drawn style is one of the hottest design trends. There are several ways to create hand drawn images &#x2014; you can create it from scratch in Photoshop or you can scan an actual hand drawn sketch. Personally, I like</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-02T16:11:02Z</dc:date>
+<dc:subject>Photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-02T16:09:09Z</dc:date>
+<dc:subject>backgrounds generator patterns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pingable.org/20-of-the-best-free-magazine-wordpress-themes/">
+<title>20 Of The Best Free Magazine Wordpress Themes | Online Resource Blog :: Pingable</title>
+<link>http://www.pingable.org/20-of-the-best-free-magazine-wordpress-themes/</link>
+<description>I think there are some fantastic magazine type Wordpress themes available, here are the best of what I could find. Clicking on the preview image will load a demo of the theme for those themes where a demo was available.</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-01T22:30:45Z</dc:date>
+<dc:subject>magazine themes wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/themes" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description>Since the 70&#x2019;s, Vi is one of the programmer&#x2019;s best friend. Nevermind you&#x2019;re new to Vi or not, here&#x2019;s a big list of 100 useful commands, organized by topic, which will make your coder life better.</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-01T13:41:20Z</dc:date>
+<dc:subject>commands tips vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description>400+ Swirls, Curls, and Fleurons Ornamental web design is often comprised of swirling, curling, or flower shaped elements. This style is influenced from decorative art pieces and architectural accents from centuries ago. Using ornamental style is a great</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-07-01T08:39:28Z</dc:date>
+<dc:subject>Photoshop brushes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/">
+<title>99 Free Canvas, Paper, Paint, and Metal Textures | Tutorial9 - Tutorial Bliss.</title>
+<link>http://www.tutorial9.net/resources/99-free-canvas-paper-paint-and-metal-textures/</link>
+<description>As a designer, it&#x2019;s not always possible to take the time and generate your own textures for all of your graphics. Thankfully, there are tons of convenient stock textures that others have freely contributed to the design community! We&#x2019;ve gathered 99 of</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-30T22:42:50Z</dc:date>
+<dc:subject>free textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup">
+<title>Ornate, Floral, Swirly and Curly Vector Roundup | Blog.SpoonGraphics</title>
+<link>http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup</link>
+<description>The use of flourishes in design has been a popular trend for a while now, but is still going strong with intricate patterns and smooth flowing vines and leaves creeping into designs for both web and print. Here is a roundup of free ornamental, floral, swi</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-30T13:27:38Z</dc:date>
+<dc:subject>resources vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description>Want to Write a Compiler? Just Read These Two Papers. Imagine you don't know anything about programming, and you want learn how to do it. You take a look at Amazon.com, and there's a highly recommended set of books by Knute or something with a promising t</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-30T11:36:03Z</dc:date>
+<dc:subject>compiler programming tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxhaxor.net/2008/06/26/10-irc-client-for-linux/">
+<title>10 IRC client for Linux | LinuxHaxor.net</title>
+<link>http://www.linuxhaxor.net/2008/06/26/10-irc-client-for-linux/</link>
+<description>For many like me IRC is the main chat medium to share information about things we love. Be it linux, Ubuntu, games, whatever; there are always channels with many like minded people to talk to. There are a huge number of IRC clients out there, listing them</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-28T07:18:52Z</dc:date>
+<dc:subject>irc linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/irc" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts">
+<title>Perfect multi-column CSS liquid layouts - iPhone compatible</title>
+<link>http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts</link>
+<description>Perfect multi-column CSS liquid layouts - iPhone compatible The perfect three column liquid layout on my iPod Touch This series of website layouts use percentage widths and relative positioning, and they work with all the common web browsers including Saf</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-26T23:10:37Z</dc:date>
+<dc:subject>css iphone layout liquid templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/liquid" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vectortuts.com/illustration/create-a-super-happy-octopus-character/">
+<title>Create a Super Happy Octopus Character - VECTORTUTS</title>
+<link>http://vectortuts.com/illustration/create-a-super-happy-octopus-character/</link>
+<description>In Illustrator it's really easy to create fun characters with some simple shapes and the Pathfinder Panel. In the following tutorial I will explain how to create a Happy Octopus Character. You can use these techniques and elements to create whatever chara</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-26T23:10:05Z</dc:date>
+<dc:subject>character illustrator tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/character" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachgraeve.com/css-cheats/">
+<title>CSS Layout Cheats | EMBRACE YOUR VICE (TM) | DESIGN FOR LIFE</title>
+<link>http://www.zachgraeve.com/css-cheats/</link>
+<description>Based on my belief that information should be freely accessible by all people, permission is granted to copy, distribute and/or modify these CSS layouts. However, due to the time and effort spent in producing this demonstration I politely ask that you res</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-26T22:51:50Z</dc:date>
+<dc:subject>css layout templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.deke.com/content/101-photoshop-tips-5-minutes">
+<title>101 Photoshop Tips in 5 Minutes | dekeOnline</title>
+<link>http://www.deke.com/content/101-photoshop-tips-5-minutes</link>
+<description>If you've ever read a computer magazine, you know the idea behind &#x26;quot;101 Tips.&#x26;quot;; One gala issue, lots of first-rate contributors, lots of quality information. And lots and lots of pages. But when's the last time one lone guy tried to capture 101 tips in vid</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-26T12:11:21Z</dc:date>
+<dc:subject>Photoshop tips video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/tutorials/20-excellent-photoshop-tutorials-for-web-designers">
+<title>20 Excellent Photoshop Tutorials for Web Designers | Design Reviver</title>
+<link>http://designreviver.com/tutorials/20-excellent-photoshop-tutorials-for-web-designers</link>
+<description>As a Web Designer, it is very important for you to stay on top of your game from a visual standpoint. The more Photoshop tricks you have up your sleeve, the more versatile you can be with your designs. Here is list of tutorials that will help you do just</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-25T13:55:30Z</dc:date>
+<dc:subject>photoshop tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/simple_organic_shapes_the_illustrator_way/">
+<title>Simple organic shapes the Illustrator way | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/simple_organic_shapes_the_illustrator_way/</link>
+<description>In my post from a few weeks ago, I demonstrated how to create simple organic shapes in Photoshop. In the comments a reader asked me &#x201C;how to accomplish the transparency effect using Illustrator&#x201D;. I thought why not showing the same creation in Illustrat</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-25T13:54:51Z</dc:date>
+<dc:subject>illustrator transparency tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/transparency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psdtuts.com/designing-tutorials/arrows-lines-and-improving-your-photoshop-workflow/">
+<title>Arrows, Lines, and Improving Your Photoshop Workflow - PSDTUTS</title>
+<link>http://psdtuts.com/designing-tutorials/arrows-lines-and-improving-your-photoshop-workflow/</link>
+<description>The focus of this tutorial will be on adding efficiency and flexibility in your workflow. When working as a designer or artist in a commercial setting you not only have to be creative, but you have to be able to build files that allow you to go back and e</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-25T13:54:06Z</dc:date>
+<dc:subject>photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fanphp.com/2008/06/20/mysql-database-optimization/">
+<title>PHP programmer of bangladesh : MySQL Database Optimization</title>
+<link>http://www.fanphp.com/2008/06/20/mysql-database-optimization/</link>
+<description>MySQL database optimization is one of the major part of web development. Basically those developers who deals with heavy traffic based web development, will need such optimization. There are very few web tutorial regarding this. I was searching for such t</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-25T13:52:38Z</dc:date>
+<dc:subject>mysql optimization performance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/138511">
+<title>Linux.com :: How to scan and OCR like a pro with open source tools</title>
+<link>http://www.linux.com/feature/138511</link>
+<description>With optical character recognition (OCR), you can scan the contents of a document into a single file of editable text. This article, which focuses on scanning books, describes the steps you need to take to prepare pages for optimal OCR results, and compar</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-24T22:53:55Z</dc:date>
+<dc:subject>linux ocr scan</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ocr" />
+    <rdf:li resource="http://del.icio.us/tag/scan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxhaxor.net/2008/05/20/5-ways-to-screencast-your-linux-desktop/">
+<title>5 Ways to Screencast Your Linux Desktop | LinuxHaxor.net</title>
+<link>http://www.linuxhaxor.net/2008/05/20/5-ways-to-screencast-your-linux-desktop/</link>
+<description>Here are five popular ways to capture desktop screencast for Linux</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-23T13:12:02Z</dc:date>
+<dc:subject>linux screencast software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial">
+<title>Trendy Geometric Lines Design Tutorial | Blog.SpoonGraphics</title>
+<link>http://www.blog.spoongraphics.co.uk/tutorials/trendy-geometric-lines-design-tutorial</link>
+<description>Starting with the design application of Adobe Illustrator create a group of vector based geometric lines at dynamic 45 degree angles, then follow the walkthrough to rough them up with brush textures in Adobe Photoshop resulting in a cool and trendy design</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-23T13:11:07Z</dc:date>
+<dc:subject>illustrator tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/">
+<title>The Best Developer Cheat Sheets Around | Webmasters by Design</title>
+<link>http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/</link>
+<description>Who doesn&#x2019;t like a helpful cheat sheet to have around? They save so much time and really help you learn what you are working with in an easy to understand format. I have gathered a list of the cheat sheets I have found to be the most helpful. There are</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-20T10:20:07Z</dc:date>
+<dc:subject>cheatsheet css database programming xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.askthecssguy.com/2008/03/one_pixel_notched_corners_as_u.html">
+<title>One pixel notched corners as used by Google Analytics (Ask the CSS Guy)</title>
+<link>http://www.askthecssguy.com/2008/03/one_pixel_notched_corners_as_u.html</link>
+<description>I use Google Analytics, and I noticed that their left nav has an interesting characteristic: instead of each option being boxed in a clickable rectangle, there is a one pixel notch in each corner. It's not necessarily a curved corner, but it is a little s</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-18T15:36:12Z</dc:date>
+<dc:subject>css roundedcorners</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/roundedcorners" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/illustrator_live_trace/">
+<title>Illustrator Live Trace | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/illustrator_live_trace/</link>
+<description>A reader raised the question why I don&#x2019;t use the Live Trace instead of tracing the sketch with the Pen tool. It&#x2019;s simply because the lines of my sketch aren&#x2019;t &#x2018;clean&#x2019; enough to make it work with Live Trace. The outcome depends a lot on your orig</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-17T23:15:59Z</dc:date>
+<dc:subject>illustrator livetrace tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/livetrace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/swirly_curls_in_adobe_illustrator/">
+<title>Swirly curls in Adobe Illustrator | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/swirly_curls_in_adobe_illustrator/</link>
+<description>Step 1 - Draw a spiral Swirly curls in Adobe Illustrator - step 1 Go to the Toolbox and hold down the mouse on the Line Tool so the other tools are revealed. Select the Spiral Tool. Now click and drag a line from the center point outwards. Instead of clic</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-17T23:14:56Z</dc:date>
+<dc:subject>illustrator tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abduzeedo.com/cross-processed-lomo-effect-photoshop-tutorial">
+<title>Cross-Processed Lomo Effect - Photoshop Tutorial | Abduzeedo - graphic design | design inspiration | design tutorials</title>
+<link>http://abduzeedo.com/cross-processed-lomo-effect-photoshop-tutorial</link>
+<description>I've worked with photography manipulation for over one year, and during that time I've learned some cool techniques that I would like to share with you. Two of my favorite techniques are the Lomography effect and the Cross-Processing effect. Then, someday</description>
+<dc:creator>Shazza</dc:creator>
+<dc:date>2008-06-17T23:09:50Z</dc:date>
+<dc:subject>photo photoshop tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

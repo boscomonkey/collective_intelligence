@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ninadb">
+<title>del.icio.us/ninadb</title>
+<link>http://del.icio.us/ninadb</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.ted.com/index.php/talks/top10" />
+  <rdf:li rdf:resource="http://koderko.dk/J2METutorial/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.youtube.com/view_play_list?p=6EE0CD02910E57B8" />
+  <rdf:li rdf:resource="http://www.eternallyconfuzzled.com/jsw_home.aspx" />
+  <rdf:li rdf:resource="http://www.unixwiz.net/" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/" />
+  <rdf:li rdf:resource="http://www.subversity.net/reversing/hacking-minesweeper" />
+  <rdf:li rdf:resource="http://mashable.com/2008/06/30/top-10-how-to-sites/" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.inventio.co.uk/forthvsc.htm" />
+  <rdf:li rdf:resource="http://www.ai-blog.net/archives/000150.html" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://web.psung.name/emacstips/topten.html" />
+  <rdf:li rdf:resource="http://flickr.com/photos/digicana/2617994799/sizes/o/" />
+  <rdf:li rdf:resource="http://home.netcom.com/~tjensen/ptr/introx.htm" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/shmoocon-hacking-videos/" />
+  <rdf:li rdf:resource="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/kernel-boot-process" />
+  <rdf:li rdf:resource="http://www.nikon.com/about/feelnikon/universcale/index.htm" />
+  <rdf:li rdf:resource="http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563" />
+  <rdf:li rdf:resource="http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=EX_is9LzFSY" />
+  <rdf:li rdf:resource="http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/" />
+  <rdf:li rdf:resource="http://waxy.org/2008/06/interview_with_alan_taylor_creator_of_boston_globes_the_big_picture/" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T12:21:19Z</dc:date>
+<dc:subject>Blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T12:19:47Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T11:58:50Z</dc:date>
+<dc:subject>physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T11:58:42Z</dc:date>
+<dc:subject>physics space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-06T11:58:30Z</dc:date>
+<dc:subject>ai education research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ted.com/index.php/talks/top10">
+<title>Top ten TEDTalks</title>
+<link>http://www.ted.com/index.php/talks/top10</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-04T17:07:06Z</dc:date>
+<dc:subject>videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koderko.dk/J2METutorial/">
+<title>Game Programming Crash Course (for J2ME): Welcome</title>
+<link>http://koderko.dk/J2METutorial/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-04T17:06:17Z</dc:date>
+<dc:subject>games programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-04T17:06:03Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/view_play_list?p=6EE0CD02910E57B8">
+<title>YouTube - Broadcast Yourself.</title>
+<link>http://www.youtube.com/view_play_list?p=6EE0CD02910E57B8</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-02T12:45:26Z</dc:date>
+<dc:subject>ai videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eternallyconfuzzled.com/jsw_home.aspx">
+<title>Eternally Confuzzled - Home</title>
+<link>http://www.eternallyconfuzzled.com/jsw_home.aspx</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-02T09:41:39Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unixwiz.net/">
+<title>Steve Friedl's Home Page</title>
+<link>http://www.unixwiz.net/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-02T09:41:18Z</dc:date>
+<dc:subject>webpages</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webpages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; ContextFree.js &#x26; Algorithm Ink: Making Art with Javascript</title>
+<link>http://azarask.in/blog/post/contextfreejs-algorithm-ink-making-art-with-javascript/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-02T09:28:10Z</dc:date>
+<dc:subject>javascript programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subversity.net/reversing/hacking-minesweeper">
+<title>Minesweeper hacking - Viewing process memory in Windows | Subversity</title>
+<link>http://www.subversity.net/reversing/hacking-minesweeper</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-02T09:27:23Z</dc:date>
+<dc:subject>games hacking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/06/30/top-10-how-to-sites/">
+<title>10 Essential Sites for Tips and How-To&#x2019;s</title>
+<link>http://mashable.com/2008/06/30/top-10-how-to-sites/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-01T00:55:51Z</dc:date>
+<dc:subject>list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-07-01T00:46:56Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inventio.co.uk/forthvsc.htm">
+<title>Forth Versus C</title>
+<link>http://www.inventio.co.uk/forthvsc.htm</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-30T18:10:35Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ai-blog.net/archives/000150.html">
+<title>Game/AI: How to Become a Game AI Developer</title>
+<link>http://www.ai-blog.net/archives/000150.html</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-30T18:10:22Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-30T12:07:05Z</dc:date>
+<dc:subject>cs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.psung.name/emacstips/topten.html">
+<title>Top ten essential Emacs tips</title>
+<link>http://web.psung.name/emacstips/topten.html</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-29T05:30:50Z</dc:date>
+<dc:subject>emacs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flickr.com/photos/digicana/2617994799/sizes/o/">
+<title>Flickr Photo Download: New York City, 2008</title>
+<link>http://flickr.com/photos/digicana/2617994799/sizes/o/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-29T05:30:03Z</dc:date>
+<dc:subject>flickr newyork photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/newyork" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.netcom.com/~tjensen/ptr/introx.htm">
+<title>&#x22;Introduction&#x22;</title>
+<link>http://home.netcom.com/~tjensen/ptr/introx.htm</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-26T16:42:14Z</dc:date>
+<dc:subject>c</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/shmoocon-hacking-videos/">
+<title>Hacking Videos from Shmoocon - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/shmoocon-hacking-videos/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-24T16:49:50Z</dc:date>
+<dc:subject>hacking videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm">
+<title>Sin &#x26; Cos: The Programmer's Pals!</title>
+<link>http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-24T05:27:00Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/kernel-boot-process">
+<title>The Kernel Boot Process : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/kernel-boot-process</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-24T05:25:25Z</dc:date>
+<dc:subject>OS kernel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/OS" />
+    <rdf:li resource="http://del.icio.us/tag/kernel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nikon.com/about/feelnikon/universcale/index.htm">
+<title>Nikon | Feel Nikon | Universcale</title>
+<link>http://www.nikon.com/about/feelnikon/universcale/index.htm</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-23T07:09:55Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563">
+<title>Wow! 10 Awesome Interactive Websites</title>
+<link>http://www.webupon.com/Web-Talk/Wow-10-Awesome-Interactive-Websites.144563</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-23T06:53:27Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3">
+<title>Macworld | How to buy a camera lens</title>
+<link>http://www.macworld.com/article/133754/2008/06/buylens.html?lsrc=top_3</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-23T06:52:45Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=EX_is9LzFSY">
+<title>YouTube - Calculus in 20 Minutes Part 1</title>
+<link>http://www.youtube.com/watch?v=EX_is9LzFSY</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-23T06:48:56Z</dc:date>
+<dc:subject>maths</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maths" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/">
+<title>Svetlin Nakov - Blog &#xBB; Blog Archive &#xBB; Rejected a Program Manager Position at Microsoft Dublin - My Successful Interview at Microsoft</title>
+<link>http://www.nakov.com/blog/2008/03/15/rejected-a-program-manager-position-at-microsoft-dublin-my-successful-interview-at-microsoft/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-22T16:39:31Z</dc:date>
+<dc:subject>interviews</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/interviews" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://waxy.org/2008/06/interview_with_alan_taylor_creator_of_boston_globes_the_big_picture/">
+<title>Interview with Alan Taylor, Creator of Boston Globe's The Big Picture - Waxy.org</title>
+<link>http://waxy.org/2008/06/interview_with_alan_taylor_creator_of_boston_globes_the_big_picture/</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-22T09:26:01Z</dc:date>
+<dc:subject>articles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>ninadb</dc:creator>
+<dc:date>2008-06-22T09:22:27Z</dc:date>
+<dc:subject>cs programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

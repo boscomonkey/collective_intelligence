@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/sschraml">
+<title>del.icio.us/sschraml</title>
+<link>http://del.icio.us/sschraml</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.metafilter.com/63974/The-best-in-indy-gaming" />
+  <rdf:li rdf:resource="http://news.filefront.com/sins-of-a-solar-empire-sales-prove-%E2%80%9Cpiracy-is-not-the-primary-issue%E2%80%9D/" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_multiplayer_browser_games" />
+  <rdf:li rdf:resource="http://glyphpress.com/shock/" />
+  <rdf:li rdf:resource="http://spectrum.ieee.org/jul08/6383" />
+  <rdf:li rdf:resource="http://www.evilmadscientist.com/article.php/d12bag" />
+  <rdf:li rdf:resource="http://www.gamesetwatch.com/2008/07/interview_arg_designer_skarped.php" />
+  <rdf:li rdf:resource="http://lsvp.wordpress.com/2008/07/02/29-business-models-for-games/" />
+  <rdf:li rdf:resource="http://www.gamasutra.com/view/feature/3688/mmog_business_models_cancel_that_.php" />
+  <rdf:li rdf:resource="http://www.unippm.de/" />
+  <rdf:li rdf:resource="http://avantgame.blogspot.com/2008/06/this-was-never-game.html" />
+  <rdf:li rdf:resource="http://www.brown.edu/Research/dichtung-digital/2007/Ciccoricco/ciccoricco.htm" />
+  <rdf:li rdf:resource="http://ve3d.ign.com/articles/features/2190/Generation-XP-Top-20-Games-of-the-Last-Generation" />
+  <rdf:li rdf:resource="http://wiki.gamedev.net/index.php/Game_Content_Resources#Graphical_resources" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://www.square-enix.co.jp/ctds/" />
+  <rdf:li rdf:resource="http://www.igf.com/index.html" />
+  <rdf:li rdf:resource="http://fanaticus.org/DBA/guides/Painting/paintingstains.html" />
+  <rdf:li rdf:resource="http://www.gamepolitics.com/2007/05/02/school-board-ponders-students-counter-strike-of-map-of-his-school" />
+  <rdf:li rdf:resource="http://reviews.cnet.com/Make_your_own_Adobe_CS3_for_free/4660-10165_7-6728794.html" />
+  <rdf:li rdf:resource="http://websearch.about.com/od/bestwebsites/ig/Top-Ten-Time-Wasters/" />
+  <rdf:li rdf:resource="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/" />
+  <rdf:li rdf:resource="http://www.readwriteweb.com/archives/is_email_in_danger.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.metafilter.com/63974/The-best-in-indy-gaming">
+<title>The best in indy gaming | MetaFilter</title>
+<link>http://www.metafilter.com/63974/The-best-in-indy-gaming</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T12:13:43Z</dc:date>
+<dc:subject>games indie metafilter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/metafilter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.filefront.com/sins-of-a-solar-empire-sales-prove-%E2%80%9Cpiracy-is-not-the-primary-issue%E2%80%9D/">
+<title>Sins of a Solar Empire Sales Prove &#x201C;Piracy is Not the Primary Issue&#x201D;</title>
+<link>http://news.filefront.com/sins-of-a-solar-empire-sales-prove-%E2%80%9Cpiracy-is-not-the-primary-issue%E2%80%9D/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T12:08:54Z</dc:date>
+<dc:subject>business copyfight games piracy protection</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+    <rdf:li resource="http://del.icio.us/tag/copyfight" />
+    <rdf:li resource="http://del.icio.us/tag/protection" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T12:04:20Z</dc:date>
+<dc:subject>astronomy entropy multiverse physics science time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/entropy" />
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/multiverse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T11:58:20Z</dc:date>
+<dc:subject>ai mit phd research thesis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/thesis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T11:57:00Z</dc:date>
+<dc:subject>advice blog blogging howto productivity tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG-Grafik, 3000x2275 Pixel) - Skaliert (36%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T11:55:48Z</dc:date>
+<dc:subject>chart particle physics quantum reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-06T11:53:44Z</dc:date>
+<dc:subject>freeware install software tweaks windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_multiplayer_browser_games">
+<title>List of multiplayer browser games - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_multiplayer_browser_games</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:35:10Z</dc:date>
+<dc:subject>games list online wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glyphpress.com/shock/">
+<title>shock: social science fiction</title>
+<link>http://glyphpress.com/shock/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:35:04Z</dc:date>
+<dc:subject>games indie interactive sciencefiction</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/sciencefiction" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://spectrum.ieee.org/jul08/6383">
+<title>IEEE Spectrum: Machinima's Movie Moguls</title>
+<link>http://spectrum.ieee.org/jul08/6383</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:34:17Z</dc:date>
+<dc:subject>digital film gaming machinima</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/digital" />
+    <rdf:li resource="http://del.icio.us/tag/film" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/machinima" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evilmadscientist.com/article.php/d12bag">
+<title>Evil Mad Scientist Laboratories - DIY d12 Handbag (of Holding)</title>
+<link>http://www.evilmadscientist.com/article.php/d12bag</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:33:43Z</dc:date>
+<dc:subject>crafts dice diy geek sewing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sewing" />
+    <rdf:li resource="http://del.icio.us/tag/crafts" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/dice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamesetwatch.com/2008/07/interview_arg_designer_skarped.php">
+<title>GameSetWatch - Interview: ARG Designer Skarped On Games Learning From Theatre</title>
+<link>http://www.gamesetwatch.com/2008/07/interview_arg_designer_skarped.php</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:29:21Z</dc:date>
+<dc:subject>arg gamedesign games gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gamedesign" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/arg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lsvp.wordpress.com/2008/07/02/29-business-models-for-games/">
+<title>29 business models for games &#xAB; Lightspeed Venture Partners Blog</title>
+<link>http://lsvp.wordpress.com/2008/07/02/29-business-models-for-games/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-04T08:27:03Z</dc:date>
+<dc:subject>business businessmodel ecommerce games gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/businessmodel" />
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamasutra.com/view/feature/3688/mmog_business_models_cancel_that_.php">
+<title>Gamasutra - MMOG Business Models: Cancel That Subscription!</title>
+<link>http://www.gamasutra.com/view/feature/3688/mmog_business_models_cancel_that_.php</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T15:42:51Z</dc:date>
+<dc:subject>advertising businessmodel gamedev games mmo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/businessmodel" />
+    <rdf:li resource="http://del.icio.us/tag/gamedev" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/mmo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.unippm.de/">
+<title>Universal Publishing Production Music | Germany/Austria/Switzerland</title>
+<link>http://www.unippm.de/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T14:44:43Z</dc:date>
+<dc:subject>media musik sounds</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/musik" />
+    <rdf:li resource="http://del.icio.us/tag/sounds" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://avantgame.blogspot.com/2008/06/this-was-never-game.html">
+<title>Avant Game: This Was Never a Game</title>
+<link>http://avantgame.blogspot.com/2008/06/this-was-never-game.html</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T12:18:07Z</dc:date>
+<dc:subject>arg education games gaming storytelling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/arg" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/storytelling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brown.edu/Research/dichtung-digital/2007/Ciccoricco/ciccoricco.htm">
+<title>Ciccoricco: &#x22;Play, Memory&#x22;: Shadow of the Colossus and Cognitive Workouts</title>
+<link>http://www.brown.edu/Research/dichtung-digital/2007/Ciccoricco/ciccoricco.htm</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T12:14:10Z</dc:date>
+<dc:subject>essay games gaming theory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/essay" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ve3d.ign.com/articles/features/2190/Generation-XP-Top-20-Games-of-the-Last-Generation">
+<title>Generation XP: Top 20 Games of the Last Generation - Voodoo Extreme</title>
+<link>http://ve3d.ign.com/articles/features/2190/Generation-XP-Top-20-Games-of-the-Last-Generation</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T12:00:48Z</dc:date>
+<dc:subject>games gaming lists pc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/lists" />
+    <rdf:li resource="http://del.icio.us/tag/pc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.gamedev.net/index.php/Game_Content_Resources#Graphical_resources">
+<title>Game Content Resources - GDWiki</title>
+<link>http://wiki.gamedev.net/index.php/Game_Content_Resources#Graphical_resources</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T11:56:12Z</dc:date>
+<dc:subject>gamedev games gaming graphics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gamedev" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/">
+<title>Poking Holes In The Long Tail Theory</title>
+<link>http://www.techcrunch.com/2008/07/02/poking-holes-in-the-long-tail-theory/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T09:03:57Z</dc:date>
+<dc:subject>business economics longtail marketing web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/longtail" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T09:01:12Z</dc:date>
+<dc:subject>advertising analysis business clients competition consulting design freelance marketing sales work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/competition" />
+    <rdf:li resource="http://del.icio.us/tag/consulting" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T08:59:15Z</dc:date>
+<dc:subject>audio generator noise whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+    <rdf:li resource="http://del.icio.us/tag/noise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-03T08:57:11Z</dc:date>
+<dc:subject>method programming python reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.square-enix.co.jp/ctds/">
+<title>Countdown Site</title>
+<link>http://www.square-enix.co.jp/ctds/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:54:47Z</dc:date>
+<dc:subject>chronotrigger ds game</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/ds" />
+    <rdf:li resource="http://del.icio.us/tag/chronotrigger" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.igf.com/index.html">
+<title>The 10th Annual Independent Games Festival</title>
+<link>http://www.igf.com/index.html</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:53:15Z</dc:date>
+<dc:subject>design festival games independent indie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/festival" />
+    <rdf:li resource="http://del.icio.us/tag/indie" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/independent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fanaticus.org/DBA/guides/Painting/paintingstains.html">
+<title>Painting With Stains (Miracle Dip) - Fanaticus DBA Guide</title>
+<link>http://fanaticus.org/DBA/guides/Painting/paintingstains.html</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:53:01Z</dc:date>
+<dc:subject>gaming miniatures minis painting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/miniatures" />
+    <rdf:li resource="http://del.icio.us/tag/minis" />
+    <rdf:li resource="http://del.icio.us/tag/painting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamepolitics.com/2007/05/02/school-board-ponders-students-counter-strike-of-map-of-his-school">
+<title>School Board Ponders Student's Counter-strike Map of his School | GamePolitics</title>
+<link>http://www.gamepolitics.com/2007/05/02/school-board-ponders-students-counter-strike-of-map-of-his-school</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:52:35Z</dc:date>
+<dc:subject>counterstrike gaming politics shooter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/counterstrike" />
+    <rdf:li resource="http://del.icio.us/tag/shooter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reviews.cnet.com/Make_your_own_Adobe_CS3_for_free/4660-10165_7-6728794.html">
+<title>Video: Make your own Adobe CS3 for free - CNET Reviews</title>
+<link>http://reviews.cnet.com/Make_your_own_Adobe_CS3_for_free/4660-10165_7-6728794.html</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:51:53Z</dc:date>
+<dc:subject>adobe</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/adobe" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://websearch.about.com/od/bestwebsites/ig/Top-Ten-Time-Wasters/">
+<title>Top Ten Time Wasters on the Web</title>
+<link>http://websearch.about.com/od/bestwebsites/ig/Top-Ten-Time-Wasters/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:51:37Z</dc:date>
+<dc:subject>fun games web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/">
+<title>The Unsurpassable Productivity List: A Handy Guide to Getting Important Things Done | Zen Habits</title>
+<link>http://zenhabits.net/2008/07/the-unsurpassable-productivity-list-a-handy-guide-to-getting-important-things-done/</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:49:55Z</dc:date>
+<dc:subject>gtd lifehacks productivity resources self-improvement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/self-improvement" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.readwriteweb.com/archives/is_email_in_danger.php">
+<title>Is Email In Danger? - ReadWriteWeb</title>
+<link>http://www.readwriteweb.com/archives/is_email_in_danger.php</link>
+<description></description>
+<dc:creator>sschraml</dc:creator>
+<dc:date>2008-07-02T10:49:44Z</dc:date>
+<dc:subject>communication email enterprise2.0 twitter web web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/communication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

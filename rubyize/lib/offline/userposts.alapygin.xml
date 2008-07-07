@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/alapygin">
+<title>del.icio.us/alapygin</title>
+<link>http://del.icio.us/alapygin</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.infoq.com/articles/ddd-in-practice" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://mospat.ru/index.php?page=41628" />
+  <rdf:li rdf:resource="http://www.rusk.ru/newsdata.php?idar=727627" />
+  <rdf:li rdf:resource="http://radio.weblogs.com/0123729/2003/10/09.html" />
+  <rdf:li rdf:resource="http://www.maartenvolders.com/blog/2008/06/my-gwt-presentation-at-jazoon-08-zrich.html" />
+  <rdf:li rdf:resource="http://whydoeseverythingsuck.com/2008/06/killing-ontologiesowl-in-semantic-web.html" />
+  <rdf:li rdf:resource="http://www.pravoslavie.ru/put/080623104410" />
+  <rdf:li rdf:resource="http://otndnld.oracle.co.jp/document/products/as10g/101300/B25221_03/index.htm" />
+  <rdf:li rdf:resource="http://habrahabr.ru/blog/arbeit/44952.html" />
+  <rdf:li rdf:resource="http://citforum.univ.kiev.ua/internet/javascript/java_rbint.shtml" />
+  <rdf:li rdf:resource="http://eyegene.ophthy.med.umich.edu/unicode/" />
+  <rdf:li rdf:resource="http://www.rupy.ru/static/files/07/02/12/rupyru2007-yurevich-unicode-thesis.pdf" />
+  <rdf:li rdf:resource="http://www.rusk.ru/st.php?idar=9013" />
+  <rdf:li rdf:resource="http://www.javaportal.ru/java/tutorial/tutorialJDBC/" />
+  <rdf:li rdf:resource="http://www.infoq.com/interviews/johnson-spring-osgi-tomcat" />
+  <rdf:li rdf:resource="http://java.sun.com/javase/technologies/core/basic/intl/faq.jsp" />
+  <rdf:li rdf:resource="http://local.joelonsoftware.com/mediawiki/index.php/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9E%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE_%D0%94%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD_%D0%97%D0%BD%D0%B0%D1%82%D1%8C_%D0%BE_Unicode_%D0%B8_%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%85_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2" />
+  <rdf:li rdf:resource="http://www.iso.ru/journal/articles/44.html" />
+  <rdf:li rdf:resource="http://weblogs.mozillazine.org/roc/archives/2008/01/string_theory.html" />
+  <rdf:li rdf:resource="http://lib.juga.ru/article/articleview/83/1/27?PrintableVersion=enabled" />
+  <rdf:li rdf:resource="http://www.javaportal.ru/java/articles/javaandunicode.html" />
+  <rdf:li rdf:resource="http://www.silician.com/sketchbook/2008/06/01/yahoo-pipes-google-app-engine-and-unicode/" />
+  <rdf:li rdf:resource="http://fiksaj.ru/content/blogsection/24/224/" />
+  <rdf:li rdf:resource="http://www.babinets.com/photoshop.html" />
+  <rdf:li rdf:resource="http://www.w3schools.com/css/css_colornames.asp" />
+  <rdf:li rdf:resource="http://slovari.yandex.ru/?st_translate=1" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10" />
+  <rdf:li rdf:resource="http://www.javaportal.ru/java/articles/UnicodeJDK1_6.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/ddd-in-practice" />
+  <rdf:li rdf:resource="http://www.rusk.ru/newsdata.php?idar=727359" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.infoq.com/articles/ddd-in-practice">
+<title>InfoQ: Domain Driven Design and Development In Practice</title>
+<link>http://www.infoq.com/articles/ddd-in-practice</link>
+<description>Domain Driven Design (DDD) is about mapping business domain concepts into software artifacts. Most of the writings and articles on this topic have been based on Eric Evans' book &#x26;quot;Domain Driven Design&#x26;quot;, covering the domain modeling and design aspects mainl</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-07-06T13:59:00Z</dc:date>
+<dc:subject>2008 agile architecture article articles ddd design development domain domaindrivendesign java programming toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/ddd" />
+    <rdf:li resource="http://del.icio.us/tag/domaindrivendesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description>If an application is useful, then the network of users will grow crazily fast at some point. As more and more mission-critical applications are now running on Java EE, many Java developers are caring about scalability issues. However, most of popular Web</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-07-06T04:37:00Z</dc:date>
+<dc:subject>architecture article concurrency design development j2ee java performance scalability toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mospat.ru/index.php?page=41628">
+<title>&#x41E;&#x444;&#x438;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x441;&#x430;&#x439;&#x442; &#x420;&#x443;&#x441;&#x441;&#x43A;&#x43E;&#x439; &#x41F;&#x440;&#x430;&#x432;&#x43E;&#x441;&#x43B;&#x430;&#x432;&#x43D;&#x43E;&#x439; &#x426;&#x435;&#x440;&#x43A;&#x432;&#x438;</title>
+<link>http://mospat.ru/index.php?page=41628</link>
+<description>&#x41F;&#x43E;&#x434;&#x433;&#x43E;&#x442;&#x43E;&#x432;&#x43B;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x421;&#x438;&#x43D;&#x43E;&#x434;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x439; &#x411;&#x43E;&#x433;&#x43E;&#x441;&#x43B;&#x43E;&#x432;&#x441;&#x43A;&#x43E;&#x439; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x435;&#x439; &#x411;&#x43E;&#x433;&#x43E;&#x441;&#x43B;&#x43E;&#x432;&#x441;&#x43A;&#x43E;-&#x43A;&#x430;&#x43D;&#x43E;&#x43D;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x439; &#x430;&#x43D;&#x430;&#x43B;&#x438;&#x437; &#x43F;&#x438;&#x441;&#x435;&#x43C; &#x438; &#x43E;&#x431;&#x440;&#x430;&#x449;&#x435;&#x43D;&#x438;&#x439;, &#x43F;&#x43E;&#x434;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x43D;&#x44B;&#x445; &#x41F;&#x440;&#x435;&#x43E;&#x441;&#x432;&#x44F;&#x449;&#x435;&#x43D;&#x43D;&#x44B;&#x43C; &#x414;&#x438;&#x43E;&#x43C;&#x438;&#x434;&#x43E;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-07-05T06:03:45Z</dc:date>
+<dc:subject>&#x414;&#x438;&#x43E;&#x43C;&#x438;&#x434; &#x430;&#x43D;&#x430;&#x43B;&#x438;&#x437; &#x43A;&#x43E;&#x43C;&#x438;&#x441;&#x441;&#x438;&#x44F; &#x43F;&#x440;&#x430;&#x432;&#x43E;&#x441;&#x43B;&#x430;&#x432;&#x438;&#x435; &#x441;&#x438;&#x43D;&#x43E;&#x434; &#x446;&#x435;&#x440;&#x43A;&#x43E;&#x432;&#x44C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%D0%94%D0%B8%D0%BE%D0%BC%D0%B8%D0%B4" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B5" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%81%D0%B8%D0%BD%D0%BE%D0%B4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rusk.ru/newsdata.php?idar=727627">
+<title>&#x420;&#x443;&#x441;&#x441;&#x43A;&#x430;&#x44F; &#x43B;&#x438;&#x43D;&#x438;&#x44F; / &#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438; / &#x418;&#x441;&#x43F;&#x430;&#x43D;&#x441;&#x43A;&#x438;&#x435; &#x434;&#x435;&#x43F;&#x443;&#x442;&#x430;&#x442;&#x44B; &#x43D;&#x430;&#x43C;&#x435;&#x440;&#x435;&#x43D;&#x44B; &#x434;&#x430;&#x442;&#x44C; &#x43E;&#x431;&#x435;&#x437;&#x44C;&#x44F;&#x43D;&#x430;&#x43C; &#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x447;&#x435;&#x441;&#x43A;&#x438;&#x435; &#x43F;&#x440;&#x430;&#x432;&#x430;</title>
+<link>http://www.rusk.ru/newsdata.php?idar=727627</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-07-02T10:46:56Z</dc:date>
+<dc:subject>&#x438;&#x441;&#x43F;&#x430;&#x43D;&#x438;&#x44F; &#x43E;&#x431;&#x435;&#x437;&#x44C;&#x44F;&#x43D;&#x44B; &#x43F;&#x440;&#x430;&#x432;&#x430;_&#x447;&#x435;&#x43B;&#x43E;&#x432;&#x435;&#x43A;&#x430; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x430;&#x44F;_&#x43B;&#x438;&#x43D;&#x438;&#x44F;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%B0_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%B8%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://radio.weblogs.com/0123729/2003/10/09.html">
+<title>BC4J Helper by Sung Im</title>
+<link>http://radio.weblogs.com/0123729/2003/10/09.html</link>
+<description>Question
+
+I would like to sort rows of a ViewObject in memory and present it as another ViewObject.  Is there a way to do that?
+Answer
+
+Generate custom ViewObject class and edit it like the following:</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-30T12:36:36Z</dc:date>
+<dc:subject>bc4j customization oracle sorting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oracle" />
+    <rdf:li resource="http://del.icio.us/tag/bc4j" />
+    <rdf:li resource="http://del.icio.us/tag/sorting" />
+    <rdf:li resource="http://del.icio.us/tag/customization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.maartenvolders.com/blog/2008/06/my-gwt-presentation-at-jazoon-08-zrich.html">
+<title>Maarten Volders | Software Consultant &#xBB; Blog: Presenting at Jazoon '08 Zurich</title>
+<link>http://www.maartenvolders.com/blog/2008/06/my-gwt-presentation-at-jazoon-08-zrich.html</link>
+<description>Months of preparation for something that only takes 2 x 50 minutes. It sounds insane but people tend to forget how much work it is to even get one slide 'right', but there we had it my first GWT presentation at Jazoon '08 in Zurich -&#x26;gt; Designing for user e</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-29T16:06:42Z</dc:date>
+<dc:subject>GWT Gears Google toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/GWT" />
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/Gears" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whydoeseverythingsuck.com/2008/06/killing-ontologiesowl-in-semantic-web.html">
+<title>Why does everything suck?: Killing Ontologies/OWL In The Semantic Web?</title>
+<link>http://whydoeseverythingsuck.com/2008/06/killing-ontologiesowl-in-semantic-web.html</link>
+<description>Friday, I wrote a piece about my belief that we need to rename and reposition the Semantic Web as The Graph Web. My position is that the Semantic Web is hard to understand, and is poorly positioned in the minds of the public, and also that the package of</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-24T20:30:27Z</dc:date>
+<dc:subject>Graph Web ontology owl semanticweb toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/Graph" />
+    <rdf:li resource="http://del.icio.us/tag/Web" />
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+    <rdf:li resource="http://del.icio.us/tag/ontology" />
+    <rdf:li resource="http://del.icio.us/tag/owl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pravoslavie.ru/put/080623104410">
+<title>&#x418;&#x441;&#x442;&#x43E;&#x440;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x435; &#x43E;&#x43F;&#x440;&#x430;&#x432;&#x434;&#x430;&#x43D;&#x438;&#x435; &#x43F;&#x43E;&#x441;&#x442;&#x430;, &#x3C;BR&#x3E;&#x438;&#x43B;&#x438; &#x41F;&#x440;&#x435;&#x43E;&#x434;&#x43E;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x43F;&#x43E;&#x432;&#x441;&#x435;&#x43C;&#x435;&#x441;&#x442;&#x43D;&#x43E;&#x433;&#x43E; &#x437;&#x430;&#x431;&#x43B;&#x443;&#x436;&#x434;&#x435;&#x43D;&#x438;&#x44F; / &#x410;&#x43F;&#x43E;&#x43B;&#x43E;&#x433;&#x435;&#x442;&#x438;&#x43A;&#x430; / &#x41F;&#x440;&#x430;&#x432;&#x43E;&#x441;&#x43B;&#x430;&#x432;&#x438;&#x435;.Ru</title>
+<link>http://www.pravoslavie.ru/put/080623104410</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-23T09:23:49Z</dc:date>
+<dc:subject>&#x43F;&#x43E;&#x441;&#x442; &#x43F;&#x440;&#x430;&#x432;&#x43E;&#x441;&#x43B;&#x430;&#x432;&#x438;&#x435;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B5" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BF%D0%BE%D1%81%D1%82" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://otndnld.oracle.co.jp/document/products/as10g/101300/B25221_03/index.htm">
+<title>Oracle Application Server 10g Release 3 (10.1.3) Documentation Library</title>
+<link>http://otndnld.oracle.co.jp/document/products/as10g/101300/B25221_03/index.htm</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-23T08:12:38Z</dc:date>
+<dc:subject>10.1.3 as documentation online oracle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oracle" />
+    <rdf:li resource="http://del.icio.us/tag/as" />
+    <rdf:li resource="http://del.icio.us/tag/10.1.3" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://habrahabr.ru/blog/arbeit/44952.html">
+<title>&#x41E;&#x43F;&#x44B;&#x442; &#x441;&#x442;&#x430;&#x440;&#x442;&#x430;&#x43F;&#x435;&#x440;&#x430;-&#x43D;&#x435;&#x443;&#x434;&#x430;&#x447;&#x43D;&#x438;&#x43A;&#x430; / &#x443;&#x447;&#x438;&#x441;&#x44C; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x430;&#x442;&#x44C; / &#x411;&#x43B;&#x43E;&#x433;&#x438; / &#x425;&#x430;&#x431;&#x440;&#x430;&#x445;&#x430;&#x431;&#x440;</title>
+<link>http://habrahabr.ru/blog/arbeit/44952.html</link>
+<description>&#x412; &#x438;&#x44E;&#x43D;&#x435; 2007 &#x44F; &#x443;&#x432;&#x43E;&#x43B;&#x438;&#x43B;&#x441;&#x44F; &#x441; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x44B;, &#x447;&#x442;&#x43E;&#x431;&#x44B; &#x441;&#x434;&#x435;&#x43B;&#x430;&#x442;&#x44C; &#x441;&#x43E;&#x431;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x43E;&#x435;&#x43A;&#x442;. &#x41F;&#x440;&#x43E;&#x448;&#x435;&#x43B; &#x446;&#x435;&#x43B;&#x44B;&#x439; &#x433;&#x43E;&#x434;, &#x43D;&#x43E; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E; &#x441;&#x435;&#x439;&#x447;&#x430;&#x441; &#x43C;&#x43D;&#x435; &#x443;&#x434;&#x430;&#x43B;&#x43E;&#x441;&#x44C; &#x441;&#x434;&#x435;&#x43B;&#x430;&#x442;&#x44C; &#x447;&#x442;&#x43E;-&#x442;&#x43E; &#x441;&#x442;&#x43E;&#x44F;&#x449;&#x435;&#x435; - &#x43F;&#x440;&#x43E;&#x435;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-21T14:39:53Z</dc:date>
+<dc:subject>ru startups &#x43E;&#x43F;&#x44B;&#x442; &#x441;&#x442;&#x430;&#x440;&#x442;&#x430;&#x43F;&#x44B;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BE%D0%BF%D1%8B%D1%82" />
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://citforum.univ.kiev.ua/internet/javascript/java_rbint.shtml">
+<title>Java: &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x435; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x438; &#x43D;&#x435; &#x442;&#x43E;&#x43B;&#x44C;&#x43A;&#x43E;...</title>
+<link>http://citforum.univ.kiev.ua/internet/javascript/java_rbint.shtml</link>
+<description>&#x417;&#x434;&#x435;&#x441;&#x44C; &#x44F; &#x43F;&#x43E;&#x43F;&#x44B;&#x442;&#x430;&#x43B;&#x441;&#x44F; &#x441;&#x43E;&#x431;&#x440;&#x430;&#x442;&#x44C; &#x438;&#x43D;&#x444;&#x43E;&#x440;&#x43C;&#x430;&#x446;&#x438;&#x44E; &#x43F;&#x43E; &#x43F;&#x43E;&#x432;&#x43E;&#x434;&#x443; &#x43D;&#x430;&#x43F;&#x438;&#x441;&#x430;&#x43D;&#x438;&#x44F; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x43E;&#x44F;&#x437;&#x44B;&#x447;&#x43D;&#x44B;&#x445; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C; &#x43D;&#x430; &#x44F;&#x437;&#x44B;&#x43A;&#x435; Java. &#x415;&#x441;&#x43B;&#x438; &#x412;&#x430;&#x43C; &#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x43E; &#x447;&#x442;&#x43E;-&#x43B;&#x438;&#x431;&#x43E; &#x43F;&#x43E;&#x43C;&#x438;&#x43C;&#x43E; &#x442;&#x43E;&#x433;&#x43E;, &#x447;&#x442;&#x43E; &#x44F;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-21T10:48:51Z</dc:date>
+<dc:subject>Java ru russian toprint unicode &#x410;&#x441;&#x442;&#x430;&#x445;&#x43E;&#x432; &#x421;&#x435;&#x440;&#x433;&#x435;&#x439; &#x431;&#x443;&#x43A;&#x432;&#x44B; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x435; &#x441;&#x442;&#x430;&#x442;&#x44C;&#x438;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+    <rdf:li resource="http://del.icio.us/tag/russian" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%B1%D1%83%D0%BA%D0%B2%D1%8B" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%90%D1%81%D1%82%D0%B0%D1%85%D0%BE%D0%B2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eyegene.ophthy.med.umich.edu/unicode/">
+<title>A Quick Primer On Unicode and Software Internationalization Under Linux and UNIX</title>
+<link>http://eyegene.ophthy.med.umich.edu/unicode/</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-21T10:41:01Z</dc:date>
+<dc:subject>article articles desktop encoding guide howto i18n linux programming reference toprint unicode unix utf8</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/utf8" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/encoding" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rupy.ru/static/files/07/02/12/rupyru2007-yurevich-unicode-thesis.pdf">
+<title>rupyru2007-yurevich-unicode-thesis.pdf (&#x43E;&#x431;&#x44A;&#x435;&#x43A;&#x442; &#xAB;application/pdf&#xBB;)</title>
+<link>http://www.rupy.ru/static/files/07/02/12/rupyru2007-yurevich-unicode-thesis.pdf</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-21T07:30:23Z</dc:date>
+<dc:subject>pdf python ru russian unicode &#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+    <rdf:li resource="http://del.icio.us/tag/russian" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rusk.ru/st.php?idar=9013">
+<title>&#x420;&#x443;&#x441;&#x441;&#x43A;&#x430;&#x44F; &#x43B;&#x438;&#x43D;&#x438;&#x44F; / &#x411;&#x438;&#x431;&#x43B;&#x438;&#x43E;&#x442;&#x435;&#x43A;&#x430; &#x43F;&#x435;&#x440;&#x438;&#x43E;&#x434;&#x438;&#x447;&#x435;&#x441;&#x43A;&#x43E;&#x439; &#x43F;&#x435;&#x447;&#x430;&#x442;&#x438; / &#x41E; &#x43F;&#x438;&#x442;&#x435;&#x439;&#x43D;&#x43E;&#x439; &#x437;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x438;</title>
+<link>http://www.rusk.ru/st.php?idar=9013</link>
+<description>&#x427;&#x442;&#x43E; &#x43A;&#x430;&#x441;&#x430;&#x435;&#x442;&#x441;&#x44F; &#x43D;&#x430;&#x43F;&#x438;&#x442;&#x43A;&#x43E;&#x432;, &#x442;&#x43E; &#x43E;&#x43D;&#x438; &#x434;&#x435;&#x43B;&#x44F;&#x442;&#x441;&#x44F; &#x43D;&#x430; &#x430;&#x43B;&#x43A;&#x43E;&#x433;&#x43E;&#x43B;&#x44C;&#x43D;&#x44B;&#x435; &#x438; &#x431;&#x435;&#x437;&#x430;&#x43B;&#x43A;&#x43E;&#x433;&#x43E;&#x43B;&#x44C;&#x43D;&#x44B;&#x435;; &#x438; &#x43F;&#x440;&#x438;&#x43E;&#x431;&#x440;&#x435;&#x441;&#x442;&#x438; &#x437;&#x430;&#x432;&#x438;&#x441;&#x438;&#x43C;&#x43E;&#x441;&#x442;&#x44C; &#x43E;&#x442; &#x442;&#x435;&#x445; &#x438; &#x434;&#x440;&#x443;&#x433;&#x438;&#x445; &#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x43B;&#x435;&#x433;&#x43A;&#x43E;&#x2026;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-20T05:19:10Z</dc:date>
+<dc:subject>toprint &#x43A;&#x43E;&#x43A;&#x430;-&#x43A;&#x43E;&#x43B;&#x430; &#x43A;&#x43E;&#x444;&#x435; &#x43A;&#x43E;&#x444;&#x435;&#x438;&#x43D; &#x43D;&#x430;&#x43F;&#x438;&#x442;&#x43A;&#x438; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x430;&#x44F;_&#x43B;&#x438;&#x43D;&#x438;&#x44F; &#x442;&#x430;&#x443;&#x440;&#x438;&#x43D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BA%D0%BE%D1%84%D0%B5" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BA%D0%BE%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BB%D0%B0" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%BA%D0%BE%D1%84%D0%B5%D0%B8%D0%BD" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%82%D0%B0%D1%83%D1%80%D0%B8%D0%BD" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D0%BD%D0%B8%D1%8F" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaportal.ru/java/tutorial/tutorialJDBC/">
+<title>&#x420;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x43E; &#x43F;&#x43E; JDBC v.1</title>
+<link>http://www.javaportal.ru/java/tutorial/tutorialJDBC/</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-19T13:05:14Z</dc:date>
+<dc:subject>jdbc ru russian &#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jdbc" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+    <rdf:li resource="http://del.icio.us/tag/russian" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/interviews/johnson-spring-osgi-tomcat">
+<title>InfoQ: Rod Johnson Discusses Spring, OSGi, Tomcat and the Future of Enterprise Java</title>
+<link>http://www.infoq.com/interviews/johnson-spring-osgi-tomcat</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-19T05:57:10Z</dc:date>
+<dc:subject>infoq interview j2ee java jee osgi rod_johnson spring springframework tomcat tosee video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tosee" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/rod_johnson" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/jee" />
+    <rdf:li resource="http://del.icio.us/tag/osgi" />
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+    <rdf:li resource="http://del.icio.us/tag/springframework" />
+    <rdf:li resource="http://del.icio.us/tag/infoq" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/tomcat" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/javase/technologies/core/basic/intl/faq.jsp">
+<title>Java Internationalization FAQ</title>
+<link>http://java.sun.com/javase/technologies/core/basic/intl/faq.jsp</link>
+<description>This page answers frequently asked questions about internationalization in Java SE versions 6, 5.0, 1.4.2, and 1.3.1, as well as the J2EE web tier components. For questions that are not covered by this page or other product documentation, visit the Java I</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T18:08:11Z</dc:date>
+<dc:subject>encoding faq i18n internationalization java programming reference toprint unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+    <rdf:li resource="http://del.icio.us/tag/internationalization" />
+    <rdf:li resource="http://del.icio.us/tag/faq" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/encoding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://local.joelonsoftware.com/mediawiki/index.php/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9E%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE_%D0%94%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD_%D0%97%D0%BD%D0%B0%D1%82%D1%8C_%D0%BE_Unicode_%D0%B8_%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%85_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2">
+<title>&#x410;&#x431;&#x441;&#x43E;&#x43B;&#x44E;&#x442;&#x43D;&#x44B;&#x439; &#x41C;&#x438;&#x43D;&#x438;&#x43C;&#x443;&#x43C;, &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x439; &#x41A;&#x430;&#x436;&#x434;&#x44B;&#x439; &#x420;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x447;&#x438;&#x43A; &#x41F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x41E;&#x431;&#x435;&#x441;&#x43F;&#x435;&#x447;&#x435;&#x43D;&#x438;&#x44F; &#x41E;&#x431;&#x44F;&#x437;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E; &#x414;&#x43E;&#x43B;&#x436;&#x435;&#x43D; &#x417;&#x43D;&#x430;&#x442;&#x44C; &#x43E; Unicode &#x438; &#x41D;&#x430;&#x431;&#x43E;&#x440;&#x430;&#x445; &#x421;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x43E;&#x432; - The Joel on Software Tra</title>
+<link>http://local.joelonsoftware.com/mediawiki/index.php/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D1%8B%D0%B9_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%9A%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9E%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE_%D0%94%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD_%D0%97%D0%BD%D0%B0%D1%82%D1%8C_%D0%BE_Unicode_%D0%B8_%D0%9D%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%85_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2</link>
+<description>&#x412;&#x430;&#x441; &#x43A;&#x43E;&#x433;&#x434;&#x430;-&#x43D;&#x438;&#x431;&#x443;&#x434;&#x44C; &#x443;&#x434;&#x438;&#x432;&#x43B;&#x44F;&#x43B; &#x442;&#x430;&#x438;&#x43D;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x44B;&#x439; &#x43F;&#x440;&#x438;&#x437;&#x43D;&#x430;&#x43A; Content-Type &#x442;&#x435;&#x433;&#x430;? &#x412;&#x44B; &#x437;&#x43D;&#x430;&#x435;&#x442;&#x435;, &#x447;&#x442;&#x43E; &#x432;&#x430;&#x43C; &#x43D;&#x430;&#x434;&#x43E; &#x447;&#x442;&#x43E;-&#x442;&#x43E; &#x432;&#x441;&#x442;&#x430;&#x432;&#x438;&#x442;&#x44C; &#x432; HTML, &#x43D;&#x43E; &#x432;&#x44B; &#x43D;&#x438;&#x43A;&#x43E;&#x433;&#x434;&#x430; &#x442;&#x43E;&#x447;&#x43D;&#x43E; &#x43D;&#x435; &#x437;&#x43D;&#x430;&#x435;&#x442;&#x435;, &#x43A;&#x430;&#x43A; &#x44D;&#x442;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T17:56:08Z</dc:date>
+<dc:subject>programming unicode web work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iso.ru/journal/articles/44.html">
+<title>&#x411;&#x440;&#x43E;&#x441;&#x43E;&#x43A; &#x41F;&#x438;&#x442;&#x43E;&#x43D;&#x430; : &#x42F;&#x437;&#x44B;&#x43A; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x438;&#x440;&#x43E;&#x432;&#x430;&#x43D;&#x438;&#x44F; Python : &#x41A;&#x43B;&#x443;&#x431; &#x437;&#x43D;&#x430;&#x442;&#x43E;&#x43A;&#x43E;&#x432; DataWarehouse, OLAP, XML : Intersoft Lab</title>
+<link>http://www.iso.ru/journal/articles/44.html</link>
+<description>&#x412;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E;, &#x441;&#x430;&#x43C;&#x430;&#x44F; &#x441;&#x443;&#x449;&#x435;&#x441;&#x442;&#x432;&#x435;&#x43D;&#x43D;&#x430;&#x44F; &#x43D;&#x43E;&#x432;&#x430;&#x44F; &#x447;&#x430;&#x441;&#x442;&#x44C; &#x432; Python 2.0 - &#x43D;&#x43E;&#x432;&#x44B;&#x439; &#x444;&#x443;&#x43D;&#x434;&#x430;&#x43C;&#x435;&#x43D;&#x442;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x439; &#x442;&#x438;&#x43F; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;: &#x441;&#x442;&#x440;&#x43E;&#x43A;&#x430; Unicode. &#x412; &#x43A;&#x43E;&#x434;&#x438;&#x440;&#x43E;&#x432;&#x43A;&#x435; Unicode &#x441;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x44B; &#x43C;&#x43E;&#x433;&#x443;&#x442; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x44F;&#x442;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T17:55:31Z</dc:date>
+<dc:subject>UTF-16 encoding python toprint unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/encoding" />
+    <rdf:li resource="http://del.icio.us/tag/UTF-16" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.mozillazine.org/roc/archives/2008/01/string_theory.html">
+<title>Well, I'm Back: String Theory</title>
+<link>http://weblogs.mozillazine.org/roc/archives/2008/01/string_theory.html</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T14:34:42Z</dc:date>
+<dc:subject>encoding language parsing programming software string strings text theory unicode utf-8</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/utf-8" />
+    <rdf:li resource="http://del.icio.us/tag/string" />
+    <rdf:li resource="http://del.icio.us/tag/parsing" />
+    <rdf:li resource="http://del.icio.us/tag/strings" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/encoding" />
+    <rdf:li resource="http://del.icio.us/tag/text" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lib.juga.ru/article/articleview/83/1/27?PrintableVersion=enabled">
+<title>Java &#x431;&#x438;&#x431;&#x43B;&#x438;&#x43E;&#x442;&#x435;&#x43A;&#x430; - &#x424;&#x430;&#x439;&#x43B;&#x44B; &#x438; &#x43F;&#x43E;&#x442;&#x43E;&#x43A;&#x438; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;</title>
+<link>http://lib.juga.ru/article/articleview/83/1/27?PrintableVersion=enabled</link>
+<description>
+&#x422;&#x430;&#x43A; &#x436;&#x435; &#x43A;&#x430;&#x43A; &#x438; &#x431;&#x430;&#x439;&#x442;&#x44B; &#x43A;&#x43E;&#x43D;&#x446;&#x435;&#x43F;&#x442;&#x443;&#x430;&#x43B;&#x44C;&#x43D;&#x43E; &#x43E;&#x442;&#x434;&#x435;&#x43B;&#x435;&#x43D;&#x44B; &#x43E;&#x442; &#x441;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x43E;&#x432;, &#x432; Java &#x440;&#x430;&#x437;&#x43B;&#x438;&#x447;&#x430;&#x44E;&#x442;&#x441;&#x44F; &#x43F;&#x43E;&#x442;&#x43E;&#x43A;&#x438; &#x431;&#x430;&#x439;&#x442;&#x43E;&#x432; &#x438; &#x43F;&#x43E;&#x442;&#x43E;&#x43A;&#x438; &#x441;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x43E;&#x432;. &#x420;&#x430;&#x431;&#x43E;&#x442;&#x443; &#x441; &#x431;&#x430;&#x439;&#x442;&#x430;&#x43C;&#x438; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x44F;&#x44E;&#x442; &#x43A;&#x43B;&#x430;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T14:23:42Z</dc:date>
+<dc:subject>Java ru russian unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+    <rdf:li resource="http://del.icio.us/tag/russian" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaportal.ru/java/articles/javaandunicode.html">
+<title>Java &#x438; Unicode</title>
+<link>http://www.javaportal.ru/java/articles/javaandunicode.html</link>
+<description>&#x41A;&#x430;&#x43A; &#x438;&#x437;&#x432;&#x435;&#x441;&#x442;&#x43D;&#x43E;, Java &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x443;&#x435;&#x442; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x435; &#x441;&#x442;&#x440;&#x43E;&#x43A; &#x432; &#x444;&#x43E;&#x440;&#x43C;&#x430;&#x442;&#x435; Unicode. &#x412; &#x44D;&#x442;&#x43E;&#x439; &#x441;&#x442;&#x430;&#x442;&#x44C;&#x435; &#x440;&#x435;&#x447;&#x44C; &#x43F;&#x43E;&#x439;&#x434;&#x435;&#x442; &#x43E; &#x441;&#x43F;&#x43E;&#x441;&#x43E;&#x431;&#x430;&#x445; &#x445;&#x440;&#x430;&#x43D;&#x435;&#x43D;&#x438;&#x44F; &#x438; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x434;&#x430;&#x43D;&#x43D;&#x44B;&#x445;, &#x437;&#x430;&#x43F;&#x438;&#x441;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T14:04:07Z</dc:date>
+<dc:subject>Java unicode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.silician.com/sketchbook/2008/06/01/yahoo-pipes-google-app-engine-and-unicode/">
+<title>Silician Sketchbook &#xBB; Yahoo Pipes, Google App Engine, and Unicode</title>
+<link>http://www.silician.com/sketchbook/2008/06/01/yahoo-pipes-google-app-engine-and-unicode/</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T13:49:56Z</dc:date>
+<dc:subject>appengine gae pipes python unicode yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/appengine" />
+    <rdf:li resource="http://del.icio.us/tag/gae" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/unicode" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/pipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fiksaj.ru/content/blogsection/24/224/">
+<title>Photoshop &#x443;&#x440;&#x43E;&#x43A;&#x438; &#x43A;&#x443;&#x440;&#x441;&#x44B; &#x43F;&#x43E; &#x444;&#x43E;&#x442;&#x43E; &#x434;&#x435;&#x43B;&#x443; - &#x424;&#x43E;&#x442;&#x43E;&#x448;&#x43E;&#x43F; &#x440;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x43E;</title>
+<link>http://fiksaj.ru/content/blogsection/24/224/</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T12:07:00Z</dc:date>
+<dc:subject>photoshop &#x440;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x430;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.babinets.com/photoshop.html">
+<title>&#x421; &#x447;&#x435;&#x433;&#x43E; &#x43D;&#x430;&#x447;&#x430;&#x442;&#x44C; &#x440;&#x430;&#x431;&#x43E;&#x442;&#x443; &#x432; &#x424;&#x43E;&#x442;&#x43E;&#x448;&#x43E;&#x43F;&#x435; | &#x424;&#x43E;&#x442;&#x43E;&#x448;&#x43E;&#x43F; - &#x43A;&#x440;&#x430;&#x442;&#x43A;&#x43E;&#x435; &#x440;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x43E; | Photoshop tutorial |</title>
+<link>http://www.babinets.com/photoshop.html</link>
+<description>&#x42D;&#x442;&#x430; &#x43F;&#x430;&#x43C;&#x44F;&#x442;&#x43A;&#x430; &#x434;&#x43E;&#x43B;&#x436;&#x43D;&#x430; &#x43F;&#x43E;&#x43C;&#x43E;&#x447;&#x44C; &#x43D;&#x430;&#x447;&#x438;&#x43D;&#x430;&#x44E;&#x449;&#x435;&#x43C;&#x443; &#x438;&#x437;&#x443;&#x447;&#x430;&#x442;&#x44C; &#x424;&#x43E;&#x442;&#x43E;&#x448;&#x43E;&#x43F; (Photoshop)   &#x43F;&#x43E;&#x434;&#x433;&#x43E;&#x442;&#x43E;&#x432;&#x438;&#x442;&#x44C; &#x441;&#x43D;&#x438;&#x43C;&#x43E;&#x43A; &#x434;&#x43B;&#x44F; &#x43F;&#x443;&#x431;&#x43B;&#x438;&#x43A;&#x430;&#x446;&#x438;&#x438; &#x432; &#x418;&#x43D;&#x442;&#x435;&#x440;&#x43D;&#x435;&#x442;&#x435;, &#x430; &#x442;&#x430;&#x43A;&#x436;&#x435; &#x434;&#x43E;&#x432;&#x435;&#x441;&#x442;&#x438; &#x435;&#x433;&#x43E; &#x434;&#x43E; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x44F;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T12:06:11Z</dc:date>
+<dc:subject>Photoshop ru &#x440;&#x443;&#x43A;&#x43E;&#x432;&#x43E;&#x434;&#x441;&#x442;&#x432;&#x430; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3schools.com/css/css_colornames.asp">
+<title>CSS Color Names</title>
+<link>http://www.w3schools.com/css/css_colornames.asp</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T11:46:44Z</dc:date>
+<dc:subject>colors css design html web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/colors" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slovari.yandex.ru/?st_translate=1">
+<title>&#x42F;&#x43D;&#x434;&#x435;&#x43A;&#x441;.&#x421;&#x43B;&#x43E;&#x432;&#x430;&#x440;&#x438;</title>
+<link>http://slovari.yandex.ru/?st_translate=1</link>
+<description></description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-18T05:34:46Z</dc:date>
+<dc:subject>dictionary language learning lingvo online russian tools translation yandex &#x441;&#x43B;&#x43E;&#x432;&#x430;&#x440;&#x44C;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dictionary" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/translation" />
+    <rdf:li resource="http://del.icio.us/tag/russian" />
+    <rdf:li resource="http://del.icio.us/tag/lingvo" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/yandex" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10">
+<title>Python: 50 modules for all needs</title>
+<link>http://www.catswhocode.com/blog/featured/python-50-modules-for-all-needs-10</link>
+<description>One thing I really love with the Python programming language is its incredible extensibility. Here&#x2019;s a list of 50 awesome modules for Python, covering almost all needs: Databases, GUIs, Images, Sound, OS interaction, Web, and more.</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-17T05:07:33Z</dc:date>
+<dc:subject>Python best code coding database development extensions modules</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/best" />
+    <rdf:li resource="http://del.icio.us/tag/modules" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaportal.ru/java/articles/UnicodeJDK1_6.html">
+<title>&#x41A;&#x43E;&#x434;&#x43E;&#x432;&#x44B;&#x435; &#x442;&#x43E;&#x447;&#x43A;&#x438; Unicode &#x438; &#x440;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x435; &#x441;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x44B; &#x432; &#x438;&#x441;&#x445;&#x43E;&#x434;&#x43D;&#x44B;&#x445; &#x43A;&#x43E;&#x434;&#x430;&#x445; &#x438; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x430;&#x445; Java. JDK 1.6.</title>
+<link>http://www.javaportal.ru/java/articles/UnicodeJDK1_6.html</link>
+<description>&#x414;&#x43E;&#x441;&#x442;&#x430;&#x442;&#x43E;&#x447;&#x43D;&#x43E; &#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x440;&#x430;&#x437;&#x440;&#x430;&#x431;&#x43E;&#x442;&#x447;&#x438;&#x43A;&#x43E;&#x432; &#x43F;&#x440;&#x43E;&#x433;&#x440;&#x430;&#x43C;&#x43C;&#x43D;&#x43E;&#x433;&#x43E; &#x43E;&#x431;&#x435;&#x441;&#x43F;&#x435;&#x447;&#x435;&#x43D;&#x438;&#x44F; &#x432; &#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x441;&#x442;&#x438; &#x43D;&#x435; &#x438;&#x43C;&#x435;&#x44E;&#x442; &#x434;&#x43E; &#x43A;&#x43E;&#x43D;&#x446;&#x430; &#x447;&#x435;&#x442;&#x43A;&#x43E;&#x433;&#x43E; &#x43F;&#x440;&#x435;&#x434;&#x441;&#x442;&#x430;&#x432;&#x43B;&#x435;&#x43D;&#x438;&#x44F; &#x43E; &#x43D;&#x430;&#x431;&#x43E;&#x440;&#x430;&#x445; &#x441;&#x438;&#x43C;&#x432;&#x43E;&#x43B;&#x43E;&#x432;, &#x43A;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-17T03:38:34Z</dc:date>
+<dc:subject>Java Unicode article ru</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Unicode" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/ru" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/ddd-in-practice">
+<title>InfoQ: Article: Domain Driven Design and Development In Practice</title>
+<link>http://www.infoq.com/news/2008/06/ddd-in-practice</link>
+<description>Domain-Driven Design is a subject where there currently are very few examples of how to actually do it in practice. In this article, Srini Penchikala gives you guidelines, practices, frameworks and tools that technical leads and architects can use in the</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-17T03:21:58Z</dc:date>
+<dc:subject>ddd design domain driven toprint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toprint" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+    <rdf:li resource="http://del.icio.us/tag/driven" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/ddd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rusk.ru/newsdata.php?idar=727359">
+<title>&#x420;&#x443;&#x441;&#x441;&#x43A;&#x430;&#x44F; &#x43B;&#x438;&#x43D;&#x438;&#x44F; / &#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438; / &#x421;&#x428;&#x410; &#x441;&#x447;&#x438;&#x442;&#x430;&#x44E;&#x442; &#x440;&#x43E;&#x441;&#x441;&#x438;&#x439;&#x441;&#x43A;&#x438;&#x439; &#x441;&#x442;&#x430;&#x431;&#x444;&#x43E;&#x43D;&#x434; &#x443;&#x433;&#x440;&#x43E;&#x437;&#x43E;&#x439; &#x441;&#x432;&#x43E;&#x435;&#x439; &#x43D;&#x430;&#x446;&#x438;&#x43E;&#x43D;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x439; &#x431;&#x435;&#x437;&#x43E;&#x43F;&#x430;&#x441;&#x43D;&#x43E;&#x441;&#x442;&#x438;</title>
+<link>http://www.rusk.ru/newsdata.php?idar=727359</link>
+<description>&#x41F;&#x43E; &#x43C;&#x43D;&#x435;&#x43D;&#x438;&#x44E; &#x44D;&#x43A;&#x43E;&#x43D;&#x43E;&#x43C;&#x438;&#x441;&#x442;&#x430; &#x410;&#x43D;&#x434;&#x440;&#x435;&#x44F; &#x41A;&#x43E;&#x431;&#x44F;&#x43A;&#x43E;&#x432;&#x430;, &#x434;&#x43E;&#x43B;&#x43B;&#x430;&#x440;&#x43E;&#x432;&#x44B;&#x435; &#x437;&#x430;&#x43F;&#x430;&#x441;&#x44B; &#x432;&#x43E;&#x437;&#x43C;&#x43E;&#x436;&#x43D;&#x43E; &#x438;&#x441;&#x43F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x44C; &#x43A;&#x430;&#x43A; &#x26;quot;&#x43E;&#x440;&#x443;&#x436;&#x438;&#x435; &#x43F;&#x43E;&#x442;&#x435;&#x43D;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x43E;&#x433;&#x43E; &#x434;&#x435;&#x439;&#x441;&#x442;&#x432;&#x438;&#x44F;&#x26;quot;&#x2026;</description>
+<dc:creator>alapygin</dc:creator>
+<dc:date>2008-06-16T17:56:37Z</dc:date>
+<dc:subject>&#x41A;&#x438;&#x442;&#x430;&#x439; &#x41A;&#x43E;&#x431;&#x44F;&#x43A;&#x43E;&#x432; &#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F; &#x421;&#x428;&#x410; &#x441;&#x442;&#x430;&#x431;&#x444;&#x43E;&#x43D;&#x434; &#x444;&#x438;&#x43D;&#x430;&#x43D;&#x441;&#x44B; &#x444;&#x43E;&#x43D;&#x434;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%D1%81%D1%82%D0%B0%D0%B1%D1%84%D0%BE%D0%BD%D0%B4" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%84%D0%BE%D0%BD%D0%B4" />
+    <rdf:li resource="http://del.icio.us/tag/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%A1%D0%A8%D0%90" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" />
+    <rdf:li resource="http://del.icio.us/tag/%D0%9A%D0%BE%D0%B1%D1%8F%D0%BA%D0%BE%D0%B2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

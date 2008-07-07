@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/voxcell">
+<title>del.icio.us/voxcell</title>
+<link>http://del.icio.us/voxcell</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.angryziber.com/w/Home" />
+  <rdf:li rdf:resource="http://www.netstumbler.com/" />
+  <rdf:li rdf:resource="http://www.metageek.net/products/inssider" />
+  <rdf:li rdf:resource="http://www.liferay.com/web/guest/home" />
+  <rdf:li rdf:resource="http://ccollomb.free.fr/unlocker/" />
+  <rdf:li rdf:resource="http://www.sysresccd.org/Main_Page" />
+  <rdf:li rdf:resource="http://tortoisesvn.net/downloads" />
+  <rdf:li rdf:resource="http://www.heidi.ie/node/6" />
+  <rdf:li rdf:resource="http://www.theomegaorder.com/s.nl;jsessionid=0a01054f1f43191a6b7772bd4043977fb8c0d6ba8ca1.e3eTaxiNaN0Te34Pa38Ta38LbNv0?it=A&#x26;id=19343&#x26;sc=13&#x26;category=84516" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/313" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.davidmarkley.com/personality/personhome.htm" />
+  <rdf:li rdf:resource="http://www.theamericanscholar.org/su08/elite-deresiewicz.html" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.codekata.com/" />
+  <rdf:li rdf:resource="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia" />
+  <rdf:li rdf:resource="http://www.gamestop.com/Catalog/ProductDetails.aspx?sku=200493" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/egyokeo?ob=1" />
+  <rdf:li rdf:resource="http://www.chc-3.com/pub/beautifulsoftware.htm" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=i8z7NC5sgik&#x26;feature=related" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/PriestMLH" />
+  <rdf:li rdf:resource="http://typicalprogrammer.com/?p=23" />
+  <rdf:li rdf:resource="http://swiss.csail.mit.edu/classes/symbolic/spring08/" />
+  <rdf:li rdf:resource="http://www.quirksmode.org/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/tools/faster_web_page/" />
+  <rdf:li rdf:resource="http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/index.htm" />
+  <rdf:li rdf:resource="http://natishalom.typepad.com/nati_shaloms_blog/2008/06/economies-of-no.html" />
+  <rdf:li rdf:resource="http://www.glassdoor.com/index.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html">
+<title>The Early History of Smalltalk</title>
+<link>http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-06T08:14:25Z</dc:date>
+<dc:subject>book compsci ebook history programming smalltalk</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/smalltalk" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/compsci" />
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-06T08:02:14Z</dc:date>
+<dc:subject>advice ai guide mit phd research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/phd" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-06T00:36:32Z</dc:date>
+<dc:subject>article development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.angryziber.com/w/Home">
+<title>Angry IP Scanner - IP and Port Scanner Tool for Analyzing Networks</title>
+<link>http://www.angryziber.com/w/Home</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T15:20:55Z</dc:date>
+<dc:subject>freeware network opensource scanner security software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/scanner" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netstumbler.com/">
+<title>NetStumbler.com</title>
+<link>http://www.netstumbler.com/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T15:16:25Z</dc:date>
+<dc:subject>freeware scanner software tool wifi windows wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/scanner" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.metageek.net/products/inssider">
+<title>inSSIDer</title>
+<link>http://www.metageek.net/products/inssider</link>
+<description>InSSIDer is a Wi-Fi network scanner for Windows Vista and Windows XP.</description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T15:14:43Z</dc:date>
+<dc:subject>freeware networking opensource scanner software tool wifi windows wireless</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/wireless" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/scanner" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.liferay.com/web/guest/home">
+<title>Liferay - Enterprise Open Source Portal</title>
+<link>http://www.liferay.com/web/guest/home</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T15:07:22Z</dc:date>
+<dc:subject>cms freeware java opensource portal software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/portal" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ccollomb.free.fr/unlocker/">
+<title>UNLOCKER</title>
+<link>http://ccollomb.free.fr/unlocker/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T15:02:15Z</dc:date>
+<dc:subject>freeware security software utility windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/utility" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sysresccd.org/Main_Page">
+<title>SystemRescueCd</title>
+<link>http://www.sysresccd.org/Main_Page</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T04:57:12Z</dc:date>
+<dc:subject>backup freeware linux livecd opensource rescue software sysadmin tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/livecd" />
+    <rdf:li resource="http://del.icio.us/tag/rescue" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tortoisesvn.net/downloads">
+<title>TortoiseSVN</title>
+<link>http://tortoisesvn.net/downloads</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T04:55:13Z</dc:date>
+<dc:subject>freeware opensource software subversion svn windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.heidi.ie/node/6">
+<title>Eraser</title>
+<link>http://www.heidi.ie/node/6</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-03T01:28:21Z</dc:date>
+<dc:subject>freeware opensource privacy security software tool windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theomegaorder.com/s.nl;jsessionid=0a01054f1f43191a6b7772bd4043977fb8c0d6ba8ca1.e3eTaxiNaN0Te34Pa38Ta38LbNv0?it=A&#x26;id=19343&#x26;sc=13&#x26;category=84516">
+<title>MINDLESS SELF INDULGENCE - If (LTD Digi w/ Bonus DVD)</title>
+<link>http://www.theomegaorder.com/s.nl;jsessionid=0a01054f1f43191a6b7772bd4043977fb8c0d6ba8ca1.e3eTaxiNaN0Te34Pa38Ta38LbNv0?it=A&#x26;id=19343&#x26;sc=13&#x26;category=84516</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-02T15:40:26Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/313">
+<title>Stop-or-Reload Button :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/313</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-07-01T15:32:12Z</dc:date>
+<dc:subject>addon extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-30T23:04:35Z</dc:date>
+<dc:subject>competency compsci development matrix programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/competency" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/compsci" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.davidmarkley.com/personality/personhome.htm">
+<title>The Myers-Briggs Personality Types</title>
+<link>http://www.davidmarkley.com/personality/personhome.htm</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-27T21:45:12Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theamericanscholar.org/su08/elite-deresiewicz.html">
+<title>The American Scholar - The Disadvantages of an Elite Education - By William Deresiewicz</title>
+<link>http://www.theamericanscholar.org/su08/elite-deresiewicz.html</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-25T18:15:11Z</dc:date>
+<dc:subject>academia article culture education philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/academia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-23T22:39:33Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codekata.com/">
+<title>CodeKata</title>
+<link>http://www.codekata.com/</link>
+<description>How to Become a Better Developer</description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-23T18:28:35Z</dc:date>
+<dc:subject>articles code development learning philosophy practice programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/articles" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/practice" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia">
+<title>Geeknews &#xBB; Who Needs a Computer Science Degree When There&#x2019;s Wikipedia?</title>
+<link>http://www.geeknews.net/2008/06/21/who-needs-a-computer-science-degree-when-theres-wikipedia</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-22T17:21:07Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamestop.com/Catalog/ProductDetails.aspx?sku=200493">
+<title>Gamestop.com - Buy Fallout 3 Collectors Edition - Xbox 360</title>
+<link>http://www.gamestop.com/Catalog/ProductDetails.aspx?sku=200493</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-20T23:51:15Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/egyokeo?ob=1">
+<title>YouTube - egyokeo's Channel</title>
+<link>http://www.youtube.com/user/egyokeo?ob=1</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-20T03:58:16Z</dc:date>
+<dc:subject>gaming guitarhero rockband videos youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/guitarhero" />
+    <rdf:li resource="http://del.icio.us/tag/rockband" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chc-3.com/pub/beautifulsoftware.htm">
+<title>The Relationship Between Software Aesthetics and Quality</title>
+<link>http://www.chc-3.com/pub/beautifulsoftware.htm</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-17T21:51:45Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=i8z7NC5sgik&#x26;feature=related">
+<title>YouTube - Don't Talk to Cops, Part 1</title>
+<link>http://www.youtube.com/watch?v=i8z7NC5sgik&#x26;feature=related</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-17T20:38:51Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/PriestMLH">
+<title>YouTube - PriestMLH's Channel</title>
+<link>http://www.youtube.com/user/PriestMLH</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-16T14:31:58Z</dc:date>
+<dc:subject>gaming guitarhero videos youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/guitarhero" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://typicalprogrammer.com/?p=23">
+<title>Typical Programmer - Doing it wrong: getters and setters</title>
+<link>http://typicalprogrammer.com/?p=23</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-16T14:14:15Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swiss.csail.mit.edu/classes/symbolic/spring08/">
+<title>Adventures in Advanced Symbolic Programming</title>
+<link>http://swiss.csail.mit.edu/classes/symbolic/spring08/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-14T07:56:18Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.quirksmode.org/">
+<title>QuirksMode - for all your browser quirks</title>
+<link>http://www.quirksmode.org/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-13T14:36:22Z</dc:date>
+<dc:subject>css design development javascript reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/tools/faster_web_page/">
+<title>15 Tools to Help You Develop Faster Web Pages - Six Revisions</title>
+<link>http://sixrevisions.com/tools/faster_web_page/</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-12T18:54:57Z</dc:date>
+<dc:subject>article design development optimization performance testing tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/index.htm">
+<title>Introduction to Programming Languages</title>
+<link>http://burks.bton.ac.uk/burks/pcinfo/progdocs/plbook/index.htm</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-11T22:34:08Z</dc:date>
+<dc:subject>book compsci ebook free programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ebook" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/compsci" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natishalom.typepad.com/nati_shaloms_blog/2008/06/economies-of-no.html">
+<title>Nati Shalom's Blog: Economies of Non-Scale</title>
+<link>http://natishalom.typepad.com/nati_shaloms_blog/2008/06/economies-of-no.html</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-11T20:27:46Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.glassdoor.com/index.htm">
+<title>Glassdoor.com - Company Ratings, Reviews, and Salaries</title>
+<link>http://www.glassdoor.com/index.htm</link>
+<description></description>
+<dc:creator>voxcell</dc:creator>
+<dc:date>2008-06-11T15:44:23Z</dc:date>
+<dc:subject>tmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

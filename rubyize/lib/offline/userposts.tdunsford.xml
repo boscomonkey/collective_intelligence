@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/tdunsford">
+<title>del.icio.us/tdunsford</title>
+<link>http://del.icio.us/tdunsford</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mapki.com/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://konigi.com/tools/graph-paper" />
+  <rdf:li rdf:resource="http://idvux.spaces.live.com/blog/cns!2EB6AAF6C3AC1EBE!877.entry" />
+  <rdf:li rdf:resource="http://improbable.com/2007/12/18/the-magazine-is-now-online-for-free/" />
+  <rdf:li rdf:resource="http://regexpstudio.com/TRegExpr/TRegExpr.html" />
+  <rdf:li rdf:resource="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/" />
+  <rdf:li rdf:resource="http://hundredpushups.com/" />
+  <rdf:li rdf:resource="https://dev.joyent.com/projects/slingshot/wiki/BasicApp" />
+  <rdf:li rdf:resource="http://www.hackaday.com/2008/06/12/how-to-make-an-rgb-combination-door-lock-part-1/" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/intentional-software" />
+  <rdf:li rdf:resource="http://sixrevisions.com/resources/websites_for_web_development/" />
+  <rdf:li rdf:resource="http://lockdown.rubyforge.org/" />
+  <rdf:li rdf:resource="http://jimneath.org/2008/05/15/swfupload-paperclip-and-ruby-on-rails/" />
+  <rdf:li rdf:resource="http://railscasts.com/contest" />
+  <rdf:li rdf:resource="http://livepipe.net/projects/control_modal/#hoverbox_one_contents" />
+  <rdf:li rdf:resource="http://railspikes.com/2008/4/30/quick-links" />
+  <rdf:li rdf:resource="http://www.datejs.com/" />
+  <rdf:li rdf:resource="http://opensoul.org/2008/4/29/using-shared-indexes-with-acts_as_ferret" />
+  <rdf:li rdf:resource="http://dima-exe.ru/rails-on-emacs" />
+  <rdf:li rdf:resource="http://jimneath.org/2008/04/25/building-a-social-network-site-in-rails/" />
+  <rdf:li rdf:resource="http://forums.pragprog.com/forums/66/topics/380" />
+  <rdf:li rdf:resource="http://www.therailsway.com/2007/6/4/free-for-all-tab-helper" />
+  <rdf:li rdf:resource="http://developer.apple.com/tools/customizeonrailsleopard.html" />
+  <rdf:li rdf:resource="http://dev.mysql.com/doc/refman/5.0/en/server-parameters.html" />
+  <rdf:li rdf:resource="http://showmedo.com/videos/video?name=rubyGrosenbachDeprec&#x26;fromSeriesID=48" />
+  <rdf:li rdf:resource="http://dynamite.errfree.com/" />
+  <rdf:li rdf:resource="http://railscasts.com/" />
+  <rdf:li rdf:resource="http://www.alistapart.com/articles/takecontrolofyourmaps" />
+  <rdf:li rdf:resource="http://www.railsjedi.com/posts/27-Best-of-Railscasts" />
+  <rdf:li rdf:resource="http://www.usb-depot.com/usb/moscow.shtml#" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mapki.com/wiki/Main_Page">
+<title>Main Page - Google Mapki</title>
+<link>http://mapki.com/wiki/Main_Page</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-07-06T12:16:52Z</dc:date>
+<dc:subject>api google googlemaps maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-07-06T11:49:19Z</dc:date>
+<dc:subject>microsoft security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://konigi.com/tools/graph-paper">
+<title>Graph Paper | Konigi</title>
+<link>http://konigi.com/tools/graph-paper</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-07-04T23:15:19Z</dc:date>
+<dc:subject>design download graphics paper templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://idvux.spaces.live.com/blog/cns!2EB6AAF6C3AC1EBE!877.entry">
+<title>Designing Composite Applications: IDV Silverlight Demo II...Draw Tools!</title>
+<link>http://idvux.spaces.live.com/blog/cns!2EB6AAF6C3AC1EBE!877.entry</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-07-03T02:04:53Z</dc:date>
+<dc:subject>maps silverlight</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/silverlight" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://improbable.com/2007/12/18/the-magazine-is-now-online-for-free/">
+<title>Improbable Research &#xBB; Blog Archive &#xBB; Improbable Research is now open access!</title>
+<link>http://improbable.com/2007/12/18/the-magazine-is-now-online-for-free/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-30T16:58:07Z</dc:date>
+<dc:subject>improbable research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/improbable" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://regexpstudio.com/TRegExpr/TRegExpr.html">
+<title>TRegExpr library                                                                                                             Regular Expressions,perl,regexp,Delphi,Pascal,FreePascal,Kylix,Libraries,VCL,CLX,Tools,files utils</title>
+<link>http://regexpstudio.com/TRegExpr/TRegExpr.html</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-26T12:44:56Z</dc:date>
+<dc:subject>delphi programming regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/delphi" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/">
+<title>37 FREE Must-Have Fonts - FrancescoMugnai.com</title>
+<link>http://blogof.francescomugnai.com/2008/06/37-free-must-have-fonts/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-22T13:39:41Z</dc:date>
+<dc:subject>fonts free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hundredpushups.com/">
+<title>one hundred push ups</title>
+<link>http://hundredpushups.com/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-22T03:33:55Z</dc:date>
+<dc:subject>fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://dev.joyent.com/projects/slingshot/wiki/BasicApp">
+<title>wiki . retrospectiva</title>
+<link>https://dev.joyent.com/projects/slingshot/wiki/BasicApp</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-17T12:09:51Z</dc:date>
+<dc:subject>rails sync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackaday.com/2008/06/12/how-to-make-an-rgb-combination-door-lock-part-1/">
+<title>How-To: Make an RGB combination door lock (Part 1) - Hack a Day</title>
+<link>http://www.hackaday.com/2008/06/12/how-to-make-an-rgb-combination-door-lock-part-1/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-06-13T13:20:16Z</dc:date>
+<dc:subject>hacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/intentional-software">
+<title>InfoQ: Intentional Software - Democratizing Software Creation</title>
+<link>http://www.infoq.com/presentations/intentional-software</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-05-27T15:51:03Z</dc:date>
+<dc:subject>agile development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/resources/websites_for_web_development/">
+<title>30 Websites to follow if you&#x2019;re into Web Development | Six Revisions - Useful information for Web Developers and Designers</title>
+<link>http://sixrevisions.com/resources/websites_for_web_development/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-05-22T22:04:40Z</dc:date>
+<dc:subject>css design development webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lockdown.rubyforge.org/">
+<title>Lockdown</title>
+<link>http://lockdown.rubyforge.org/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-05-21T12:22:08Z</dc:date>
+<dc:subject>authentication rails ruby rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/authentication" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jimneath.org/2008/05/15/swfupload-paperclip-and-ruby-on-rails/">
+<title>SWFUpload, Paperclip and Ruby on Rails | Javascript</title>
+<link>http://jimneath.org/2008/05/15/swfupload-paperclip-and-ruby-on-rails/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-05-15T14:55:06Z</dc:date>
+<dc:subject>paperclip rails rubyonrails upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/paperclip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://railscasts.com/contest">
+<title>Railscasts - 100th Episode Contest</title>
+<link>http://railscasts.com/contest</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-05-12T12:44:01Z</dc:date>
+<dc:subject>rails tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://livepipe.net/projects/control_modal/#hoverbox_one_contents">
+<title>Control.Modal : Lightboxes, Modal Windows and Tooltips for Prototype</title>
+<link>http://livepipe.net/projects/control_modal/#hoverbox_one_contents</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-30T20:58:04Z</dc:date>
+<dc:subject>lightbox modal prototype rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/lightbox" />
+    <rdf:li resource="http://del.icio.us/tag/modal" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://railspikes.com/2008/4/30/quick-links">
+<title>Rail Spikes: Quick links</title>
+<link>http://railspikes.com/2008/4/30/quick-links</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-30T20:56:42Z</dc:date>
+<dc:subject>links rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.datejs.com/">
+<title>Datejs - A JavaScript Date Library &#xBB; About&#x2026;</title>
+<link>http://www.datejs.com/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-30T20:55:08Z</dc:date>
+<dc:subject>ajax date javascript rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/date" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://opensoul.org/2008/4/29/using-shared-indexes-with-acts_as_ferret">
+<title>Using shared indexes with acts_as_ferret | opensoul.org</title>
+<link>http://opensoul.org/2008/4/29/using-shared-indexes-with-acts_as_ferret</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-29T18:40:36Z</dc:date>
+<dc:subject>development rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dima-exe.ru/rails-on-emacs">
+<title>/home/dima :: Rails On Emacs (in english)</title>
+<link>http://dima-exe.ru/rails-on-emacs</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-28T14:14:20Z</dc:date>
+<dc:subject>RUBY emacs rails rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/RUBY" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jimneath.org/2008/04/25/building-a-social-network-site-in-rails/">
+<title>Building a Social Network Site in Rails | Jim Neath</title>
+<link>http://jimneath.org/2008/04/25/building-a-social-network-site-in-rails/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-27T01:49:52Z</dc:date>
+<dc:subject>plugins rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.pragprog.com/forums/66/topics/380">
+<title>Pragmatic Forums | upgrade price for 2nd Ed owners ?</title>
+<link>http://forums.pragprog.com/forums/66/topics/380</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-24T19:59:47Z</dc:date>
+<dc:subject>comment idea style</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comment" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.therailsway.com/2007/6/4/free-for-all-tab-helper">
+<title>The Rails Way: Free-for-all: Tab Helper</title>
+<link>http://www.therailsway.com/2007/6/4/free-for-all-tab-helper</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-24T12:23:23Z</dc:date>
+<dc:subject>helper rails tab tabs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/tabs" />
+    <rdf:li resource="http://del.icio.us/tag/helper" />
+    <rdf:li resource="http://del.icio.us/tag/tab" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.apple.com/tools/customizeonrailsleopard.html">
+<title>Ruby on Rail on Mac - good read</title>
+<link>http://developer.apple.com/tools/customizeonrailsleopard.html</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-20T13:11:17Z</dc:date>
+<dc:subject>osx rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.mysql.com/doc/refman/5.0/en/server-parameters.html">
+<title>MySQL :: MySQL 5.0 Reference Manual :: 7.5.2 Tuning Server Parameters</title>
+<link>http://dev.mysql.com/doc/refman/5.0/en/server-parameters.html</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-18T20:21:32Z</dc:date>
+<dc:subject>mysql performance tuning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://showmedo.com/videos/video?name=rubyGrosenbachDeprec&#x26;fromSeriesID=48">
+<title>Build a Full Rails Server on Ubuntu tutorial video - (none) - Learn: ruby, programming</title>
+<link>http://showmedo.com/videos/video?name=rubyGrosenbachDeprec&#x26;fromSeriesID=48</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-17T15:22:31Z</dc:date>
+<dc:subject>RubyOnRails install rails ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/RubyOnRails" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dynamite.errfree.com/">
+<title>Dynamite - The Err Free Weblog</title>
+<link>http://dynamite.errfree.com/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-16T19:30:29Z</dc:date>
+<dc:subject>blog programming rails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://railscasts.com/">
+<title>Railscasts - Free Ruby on Rails Screencasts</title>
+<link>http://railscasts.com/</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-14T12:37:51Z</dc:date>
+<dc:subject>rails ruby rubyonrails screencast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alistapart.com/articles/takecontrolofyourmaps">
+<title>A List Apart: Articles: Take Control of Your Maps</title>
+<link>http://www.alistapart.com/articles/takecontrolofyourmaps</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-08T19:47:01Z</dc:date>
+<dc:subject>mapping maps webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/mapping" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railsjedi.com/posts/27-Best-of-Railscasts">
+<title>Rails Jedi | Best of Railscasts</title>
+<link>http://www.railsjedi.com/posts/27-Best-of-Railscasts</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-08T12:48:47Z</dc:date>
+<dc:subject>Tutorial rails ruby screencast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/screencast" />
+    <rdf:li resource="http://del.icio.us/tag/Tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usb-depot.com/usb/moscow.shtml#">
+<title>USB-Depot.com</title>
+<link>http://www.usb-depot.com/usb/moscow.shtml#</link>
+<description></description>
+<dc:creator>tdunsford</dc:creator>
+<dc:date>2008-04-04T19:48:38Z</dc:date>
+<dc:subject>Key USB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/USB" />
+    <rdf:li resource="http://del.icio.us/tag/Key" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

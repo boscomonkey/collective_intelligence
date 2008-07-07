@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/stephenh">
+<title>del.icio.us/stephenh</title>
+<link>http://del.icio.us/stephenh</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://epistemologic.com/2008/07/02/you-dont-need-story-points-either/" />
+  <rdf:li rdf:resource="http://studios.thoughtworks.com/2008/6/24/metric-driven-management-versus-management-driven-metrics" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/03/arts/03camp.html" />
+  <rdf:li rdf:resource="http://www.yosefk.com/blog/extreme-programming-explained.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.stanford.edu/~johntayl/" />
+  <rdf:li rdf:resource="http://awesome.naquadah.org/" />
+  <rdf:li rdf:resource="http://www.cygwin.com/ml/cygwin/2001-06/msg00537.html" />
+  <rdf:li rdf:resource="http://wincent.com/a/about/wincent/weblog/archives/2007/07/git_hooks.php" />
+  <rdf:li rdf:resource="http://www.gnome.org/~newren/eg/" />
+  <rdf:li rdf:resource="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/" />
+  <rdf:li rdf:resource="http://www.hpl.hp.com/techreports/2007/HPL-2007-193.pdf" />
+  <rdf:li rdf:resource="https://37s.backpackit.com/pub/1465067" />
+  <rdf:li rdf:resource="http://www.newartisans.com/blog_files/git.from.bottom.up.php" />
+  <rdf:li rdf:resource="http://kitenet.net/~joey/code/etckeeper/" />
+  <rdf:li rdf:resource="http://www.kernel.org/pub/software/scm/git/docs/git-rerere.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2007/07/iteration_types" />
+  <rdf:li rdf:resource="http://damonpoole.blogspot.com/2008/05/agile-case-study-litle-co.html" />
+  <rdf:li rdf:resource="http://herdingcats.typepad.com/my_weblog/2008/06/doctor-doctor-it-hurts.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/TANSTAAFL" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/05/24/business/24nocera.html?ex=1369368000&#x26;en=92f02ff385ed7401&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink" />
+  <rdf:li rdf:resource="http://www.knesekguns.com/index.php" />
+  <rdf:li rdf:resource="http://www.gunsandammomag.com/tactical/armalitesass_071207/index.html" />
+  <rdf:li rdf:resource="http://www.robarguns.com/np3.htm" />
+  <rdf:li rdf:resource="http://www.businessweek.com/technology/content/jul2005/tc2005077_3265_tc024.htm" />
+  <rdf:li rdf:resource="http://www.trilead.com/Products/Trilead-SSH-2-Java/" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/life/dn14094-bacteria-make-major-evolutionary-shift-in-the-lab.html?feedId=online-news_rss20" />
+  <rdf:li rdf:resource="http://www.rpm.org/max-rpm/" />
+  <rdf:li rdf:resource="http://www.lazgosoftware.com/kse/index.html" />
+  <rdf:li rdf:resource="http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description>keep a notebook of ideas to later synthesize, have active questions you are answering about material you read</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-06T08:23:23Z</dc:date>
+<dc:subject>research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://epistemologic.com/2008/07/02/you-dont-need-story-points-either/">
+<title>You don&#x2019;t need story-points either &#xAB; epistemologic</title>
+<link>http://epistemologic.com/2008/07/02/you-dont-need-story-points-either/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-06T04:51:11Z</dc:date>
+<dc:subject>agile pm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/pm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://studios.thoughtworks.com/2008/6/24/metric-driven-management-versus-management-driven-metrics">
+<title>Metric-driven management versus management-driven metrics</title>
+<link>http://studios.thoughtworks.com/2008/6/24/metric-driven-management-versus-management-driven-metrics</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-06T04:51:02Z</dc:date>
+<dc:subject>agile pm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pm" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/03/arts/03camp.html">
+<title>On Campus, the &#x2019;60s Begin to Fade as Liberal Professors Retire - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/03/arts/03camp.html</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-05T21:28:51Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yosefk.com/blog/extreme-programming-explained.html">
+<title>Extreme Programming Explained</title>
+<link>http://www.yosefk.com/blog/extreme-programming-explained.html</link>
+<description>Some religions or sects are awful, to the point of human sacrifices. (CMM.)</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-01T04:25:37Z</dc:date>
+<dc:subject>methodology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/methodology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin">
+<title>No Babies? - Declining Population in Europe - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/29/magazine/29Birth-t.html?_r=1&#x26;partner=rssuserland&#x26;emc=rss&#x26;pagewanted=all&#x26;oref=slogin</link>
+<description>norway state supports two-income families, italy doesn't women has to stop working, in us women can reenter the workfoce</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-01T00:52:29Z</dc:date>
+<dc:subject>demographics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/demographics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stanford.edu/~johntayl/">
+<title>John Taylor's Personal Home Page</title>
+<link>http://www.stanford.edu/~johntayl/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-07-01T00:51:02Z</dc:date>
+<dc:subject>economics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://awesome.naquadah.org/">
+<title>about - awesome window manager</title>
+<link>http://awesome.naquadah.org/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-26T03:44:58Z</dc:date>
+<dc:subject>wmii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wmii" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cygwin.com/ml/cygwin/2001-06/msg00537.html">
+<title>Joseph M. Reagle Jr. - useful cygwin ssh-agent script</title>
+<link>http://www.cygwin.com/ml/cygwin/2001-06/msg00537.html</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-25T03:51:47Z</dc:date>
+<dc:subject>cygwin ssh</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cygwin" />
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wincent.com/a/about/wincent/weblog/archives/2007/07/git_hooks.php">
+<title>Wincent Colaiuta's weblog: Git hooks</title>
+<link>http://wincent.com/a/about/wincent/weblog/archives/2007/07/git_hooks.php</link>
+<description>succinct &#x26;quot;only new commits&#x26;quot; snippet</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-18T20:43:08Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gnome.org/~newren/eg/">
+<title>In short, Easy GIT is a wrapper for git, designed to make git easy to learn and use.</title>
+<link>http://www.gnome.org/~newren/eg/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-18T05:28:13Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/">
+<title>Cocoa for Windows + Flash Killer = SproutCore &#x2014; RoughlyDrafted Magazine</title>
+<link>http://www.roughlydrafted.com/2008/06/14/cocoa-for-windows-flash-killer-sproutcore/</link>
+<description>sproutcore is apple's api for doing SaaS and getting to the windows/linux market without flash, silverlight, or cocoa for windows</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-16T03:55:15Z</dc:date>
+<dc:subject>js</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/js" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hpl.hp.com/techreports/2007/HPL-2007-193.pdf">
+<title>distributed b trees</title>
+<link>http://www.hpl.hp.com/techreports/2007/HPL-2007-193.pdf</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-15T05:06:29Z</dc:date>
+<dc:subject>algorithms</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://37s.backpackit.com/pub/1465067">
+<title>Git Resources</title>
+<link>https://37s.backpackit.com/pub/1465067</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-15T04:59:33Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newartisans.com/blog_files/git.from.bottom.up.php">
+<title>Git from the bottom up | Git | New Artisans LLC</title>
+<link>http://www.newartisans.com/blog_files/git.from.bottom.up.php</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-15T04:59:22Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kitenet.net/~joey/code/etckeeper/">
+<title>etckeeper</title>
+<link>http://kitenet.net/~joey/code/etckeeper/</link>
+<description>etckeeper is a collection of tools to let /etc be stored in a git, mercurial, or bzr repository.</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-15T04:43:10Z</dc:date>
+<dc:subject>git tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kernel.org/pub/software/scm/git/docs/git-rerere.html">
+<title>git-rerere(1)</title>
+<link>http://www.kernel.org/pub/software/scm/git/docs/git-rerere.html</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-15T04:03:33Z</dc:date>
+<dc:subject>git</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2007/07/iteration_types">
+<title>InfoQ: Iteration Types</title>
+<link>http://www.infoq.com/news/2007/07/iteration_types</link>
+<description>a, b, and c</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T20:04:16Z</dc:date>
+<dc:subject>agile scrum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/scrum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://damonpoole.blogspot.com/2008/05/agile-case-study-litle-co.html">
+<title>Agile Development Thoughts: An Agile Case Study: Litle &#x26; Co.</title>
+<link>http://damonpoole.blogspot.com/2008/05/agile-case-study-litle-co.html</link>
+<description>7 week iterations, release monthly, overlapped</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T19:45:35Z</dc:date>
+<dc:subject>agile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://herdingcats.typepad.com/my_weblog/2008/06/doctor-doctor-it-hurts.html">
+<title>Herding Cats: Doctor, Doctor, it Hurts...</title>
+<link>http://herdingcats.typepad.com/my_weblog/2008/06/doctor-doctor-it-hurts.html</link>
+<description>If Project Controls mis-controls the project - by doing stupid things on purpose - then it's not project controls.</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T18:03:24Z</dc:date>
+<dc:subject>methodology pm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pm" />
+    <rdf:li resource="http://del.icio.us/tag/methodology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/TANSTAAFL">
+<title>TANSTAAFL - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/TANSTAAFL</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T18:02:21Z</dc:date>
+<dc:subject>economics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/05/24/business/24nocera.html?ex=1369368000&#x26;en=92f02ff385ed7401&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink">
+<title>Talking Business - The Sinatra of Southwest Feels the Love - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/05/24/business/24nocera.html?ex=1369368000&#x26;en=92f02ff385ed7401&#x26;ei=5124&#x26;partner=permalink&#x26;exprod=permalink</link>
+<description>There isn&#x2019;t any customer satisfaction without employee satisfaction.</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T17:54:54Z</dc:date>
+<dc:subject>business</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.knesekguns.com/index.php">
+<title>Knesek Guns, Inc.</title>
+<link>http://www.knesekguns.com/index.php</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T05:42:42Z</dc:date>
+<dc:subject>guns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gunsandammomag.com/tactical/armalitesass_071207/index.html">
+<title>ArmaLite Super SASS</title>
+<link>http://www.gunsandammomag.com/tactical/armalitesass_071207/index.html</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T05:38:50Z</dc:date>
+<dc:subject>guns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.robarguns.com/np3.htm">
+<title>Robar NP3 Firearms Finish</title>
+<link>http://www.robarguns.com/np3.htm</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-12T05:04:39Z</dc:date>
+<dc:subject>guns</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/guns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/technology/content/jul2005/tc2005077_3265_tc024.htm">
+<title>Is Heart Surgery Worth It?</title>
+<link>http://www.businessweek.com/technology/content/jul2005/tc2005077_3265_tc024.htm</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-11T17:24:25Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.trilead.com/Products/Trilead-SSH-2-Java/">
+<title>Trilead SSH for Java</title>
+<link>http://www.trilead.com/Products/Trilead-SSH-2-Java/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-10T19:53:28Z</dc:date>
+<dc:subject>java ssh</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/life/dn14094-bacteria-make-major-evolutionary-shift-in-the-lab.html?feedId=online-news_rss20">
+<title>Bacteria make major evolutionary shift in the lab - life - 09 June 2008 - New Scientist</title>
+<link>http://www.newscientist.com/channel/life/dn14094-bacteria-make-major-evolutionary-shift-in-the-lab.html?feedId=online-news_rss20</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-10T19:22:46Z</dc:date>
+<dc:subject>research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/research" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rpm.org/max-rpm/">
+<title>Maximum RPM</title>
+<link>http://www.rpm.org/max-rpm/</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-10T17:29:34Z</dc:date>
+<dc:subject>rpm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rpm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lazgosoftware.com/kse/index.html">
+<title>KeyStore Explorer Home</title>
+<link>http://www.lazgosoftware.com/kse/index.html</link>
+<description></description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-10T16:54:45Z</dc:date>
+<dc:subject>ssl tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ssl" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx">
+<title>Dare Obasanjo aka Carnage4Life - Two Cardinal Sins of REST API Design: Lessons you can Learn from the NewsGator REST API</title>
+<link>http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx</link>
+<description>don't do RPC type URIs (post into /object/methodName), be consistent</description>
+<dc:creator>stephenh</dc:creator>
+<dc:date>2008-06-10T15:53:31Z</dc:date>
+<dc:subject>rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

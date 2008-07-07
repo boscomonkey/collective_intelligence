@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mrique">
+<title>del.icio.us/mrique</title>
+<link>http://del.icio.us/mrique</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cardil.fr/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://www.shabdar.org/google-maps-user-control-for-ASP-Net-part1.html" />
+  <rdf:li rdf:resource="http://www.aspnettutorials.com/" />
+  <rdf:li rdf:resource="http://tahe.ftp-developpez.com/fichiers-archive/vbnet.pdf" />
+  <rdf:li rdf:resource="http://www.pise.info/vb-net/00.htm" />
+  <rdf:li rdf:resource="http://plasserre.developpez.com/vsommair.htm" />
+  <rdf:li rdf:resource="http://dotnet.developpez.com/cours/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.psoug.org/reference/builtin_functions.html" />
+  <rdf:li rdf:resource="http://www.cftc-67.com/newsjuri/uniteco.htm#3" />
+  <rdf:li rdf:resource="http://www.supercasino.fr/-lyon-route-de-genas-.html" />
+  <rdf:li rdf:resource="http://www.allo-nounous.com/parents_garde_reg.php" />
+  <rdf:li rdf:resource="http://www.bebe-nounou.com/parents/trouve_nounou_c1_19488066_cd06cc82_FR.htm" />
+  <rdf:li rdf:resource="http://www.prositting.com/mandataire/mandataire_garde_simple_2_enfants.htm#couts" />
+  <rdf:li rdf:resource="http://diveintogreasemonkey.org/patterns/index.html" />
+  <rdf:li rdf:resource="http://www.csharpfr.com/tutoriaux/REFLECTOR-DECOMPILATEUR-NET_678.aspx" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://www.segs.eu/accueil_FR.html" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.taxilyon.com/fr.html" />
+  <rdf:li rdf:resource="http://www.teceris.co.uk/" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/fr-fr/library/w0x726c2.aspx" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/fr-fr/library/ms256153.aspx" />
+  <rdf:li rdf:resource="http://msdn.microsoft.com/fr-fr/library/ms404278.aspx" />
+  <rdf:li rdf:resource="http://support.microsoft.com/kb/315828" />
+  <rdf:li rdf:resource="http://googlesystem.blogspot.com/2008/06/media-server-from-google.html" />
+  <rdf:li rdf:resource="http://www.holytaco.com/" />
+  <rdf:li rdf:resource="http://www.forum-auto.com/moto/section25/sujet245011.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cardil.fr/">
+<title>CarDeal</title>
+<link>http://www.cardil.fr/</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-06T06:23:12Z</dc:date>
+<dc:subject>mandataire voitures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voitures" />
+    <rdf:li resource="http://del.icio.us/tag/mandataire" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title> Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-06T05:41:58Z</dc:date>
+<dc:subject>security soft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/soft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project / realisation de prototypes d'interface</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description>en amont d un projet de dev, dessiner rapidement une interface</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-05T15:14:28Z</dc:date>
+<dc:subject>soft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shabdar.org/google-maps-user-control-for-ASP-Net-part1.html">
+<title>Google Maps Control for ASP.Net - Part 1</title>
+<link>http://www.shabdar.org/google-maps-user-control-for-ASP-Net-part1.html</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-05T14:33:13Z</dc:date>
+<dc:subject>.net googlemaps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aspnettutorials.com/">
+<title>ASP.NET Tutorials ASP.NET 2.0 Code Examples, Snippets and Tutorials</title>
+<link>http://www.aspnettutorials.com/</link>
+<description>tres bons snippets de base mail file database..</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-05T14:22:07Z</dc:date>
+<dc:subject>.net referencement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/referencement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tahe.ftp-developpez.com/fichiers-archive/vbnet.pdf">
+<title>PDF Cours Vb.Net</title>
+<link>http://tahe.ftp-developpez.com/fichiers-archive/vbnet.pdf</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-05T05:22:29Z</dc:date>
+<dc:subject>.net reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pise.info/vb-net/00.htm">
+<title>Cours VB.Net debutant</title>
+<link>http://www.pise.info/vb-net/00.htm</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-05T05:19:35Z</dc:date>
+<dc:subject>.net</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://plasserre.developpez.com/vsommair.htm">
+<title>Cours VB.Net +++ t bon</title>
+<link>http://plasserre.developpez.com/vsommair.htm</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-04T20:34:43Z</dc:date>
+<dc:subject>.net reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dotnet.developpez.com/cours/">
+<title>Les meilleurs cours et tutoriels de la rubrique DotNet - Club d'entraide des d&#xE9;veloppeurs francophones</title>
+<link>http://dotnet.developpez.com/cours/</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-04T19:54:39Z</dc:date>
+<dc:subject>.net</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-04T05:52:15Z</dc:date>
+<dc:subject>xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psoug.org/reference/builtin_functions.html">
+<title>Oracle Built-in Functions</title>
+<link>http://www.psoug.org/reference/builtin_functions.html</link>
+<description>	  	  	  	  	  	  	  	</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-03T05:44:56Z</dc:date>
+<dc:subject>oracle reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/oracle" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cftc-67.com/newsjuri/uniteco.htm#3">
+<title>CFTC du Bas Rhin / L'Unit&#xE9; Economique et Sociale</title>
+<link>http://www.cftc-67.com/newsjuri/uniteco.htm#3</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-03T05:08:48Z</dc:date>
+<dc:subject>ues</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ues" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.supercasino.fr/-lyon-route-de-genas-.html">
+<title>LYON ROUTE DE GENAS - Supercasino</title>
+<link>http://www.supercasino.fr/-lyon-route-de-genas-.html</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T15:21:29Z</dc:date>
+<dc:subject>casino courses lyon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lyon" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/casino" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allo-nounous.com/parents_garde_reg.php">
+<title>Allo nounous - Services de garde r&#xE9;guli&#xE8;re d'enfants sur Lyon</title>
+<link>http://www.allo-nounous.com/parents_garde_reg.php</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T14:24:19Z</dc:date>
+<dc:subject>bb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bebe-nounou.com/parents/trouve_nounou_c1_19488066_cd06cc82_FR.htm">
+<title>Annonces d'Assistantes Maternelles 69003  -bb nounou</title>
+<link>http://www.bebe-nounou.com/parents/trouve_nounou_c1_19488066_cd06cc82_FR.htm</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T14:13:32Z</dc:date>
+<dc:subject>bb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prositting.com/mandataire/mandataire_garde_simple_2_enfants.htm#couts">
+<title>PRO Sitting : la garde simple (temps plein) pour 2 enfants</title>
+<link>http://www.prositting.com/mandataire/mandataire_garde_simple_2_enfants.htm#couts</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T14:11:31Z</dc:date>
+<dc:subject>bb</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diveintogreasemonkey.org/patterns/index.html">
+<title>Chapter&#xA0;4.&#xA0;Common Patterns [Dive Into Greasemonkey]</title>
+<link>http://diveintogreasemonkey.org/patterns/index.html</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T10:46:23Z</dc:date>
+<dc:subject>greasemonkey</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/greasemonkey" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.csharpfr.com/tutoriaux/REFLECTOR-DECOMPILATEUR-NET_678.aspx">
+<title>REFLECTOR : UN D&#xC9;COMPILATEUR .NET, Tutorial N&#xB0;678,</title>
+<link>http://www.csharpfr.com/tutoriaux/REFLECTOR-DECOMPILATEUR-NET_678.aspx</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-02T10:37:57Z</dc:date>
+<dc:subject>.net decompilateur soft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/soft" />
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/decompilateur" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-01T20:40:48Z</dc:date>
+<dc:subject>vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.segs.eu/accueil_FR.html">
+<title>SEGS - Syndicat Europ&#xE9;en de Gestion des Sinistres</title>
+<link>http://www.segs.eu/accueil_FR.html</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-07-01T08:23:21Z</dc:date>
+<dc:subject>expertise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expertise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description>he float to start a new row.</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-30T19:50:31Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>Programmer Competency Matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-30T18:51:17Z</dc:date>
+<dc:subject>curiosites cv emploi programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/curiosites" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/cv" />
+    <rdf:li resource="http://del.icio.us/tag/emploi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.taxilyon.com/fr.html">
+<title>Taxi Radio Lyon,</title>
+<link>http://www.taxilyon.com/fr.html</link>
+<description>Nom d'utilisateur: 8686LACROIX1
+Mot de passe:  00gl54</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-30T17:10:03Z</dc:date>
+<dc:subject>lyon taxi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/taxi" />
+    <rdf:li resource="http://del.icio.us/tag/lyon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.teceris.co.uk/">
+<title>TECERIS</title>
+<link>http://www.teceris.co.uk/</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-30T15:09:47Z</dc:date>
+<dc:subject>expertise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/expertise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/fr-fr/library/w0x726c2.aspx">
+<title>.NET Framework @Miscrosoft france</title>
+<link>http://msdn.microsoft.com/fr-fr/library/w0x726c2.aspx</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-29T20:35:37Z</dc:date>
+<dc:subject>.net reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/fr-fr/library/ms256153.aspx">
+<title>le standard xml</title>
+<link>http://msdn.microsoft.com/fr-fr/library/ms256153.aspx</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-29T20:29:07Z</dc:date>
+<dc:subject>standard xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/standard" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://msdn.microsoft.com/fr-fr/library/ms404278.aspx">
+<title>T&#xE2;ches d'E/S courantes .net</title>
+<link>http://msdn.microsoft.com/fr-fr/library/ms404278.aspx</link>
+<description>
+	
+
+Path..::.GetFileName
+
+Modifier l'extension</description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-29T20:23:10Z</dc:date>
+<dc:subject>.net</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.microsoft.com/kb/315828">
+<title>How to read from and write to a text file by using Visual Basic 2005 or Visual Basic .NET</title>
+<link>http://support.microsoft.com/kb/315828</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-29T07:21:43Z</dc:date>
+<dc:subject>.net</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/.net" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlesystem.blogspot.com/2008/06/media-server-from-google.html">
+<title>A Media Server from Google</title>
+<link>http://googlesystem.blogspot.com/2008/06/media-server-from-google.html</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-28T09:02:47Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.holytaco.com/">
+<title>Holy Taco | Girls, Gossip, and Gear for Men</title>
+<link>http://www.holytaco.com/</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-28T06:37:56Z</dc:date>
+<dc:subject>curiosites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/curiosites" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.forum-auto.com/moto/section25/sujet245011.htm">
+<title>Batterie moto / chargeur voiture..</title>
+<link>http://www.forum-auto.com/moto/section25/sujet245011.htm</link>
+<description></description>
+<dc:creator>mrique</dc:creator>
+<dc:date>2008-06-28T05:59:04Z</dc:date>
+<dc:subject>moto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/moto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

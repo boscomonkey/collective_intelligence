@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/raff31">
+<title>del.icio.us/raff31</title>
+<link>http://del.icio.us/raff31</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://comiqs.com/" />
+  <rdf:li rdf:resource="http://www.imaginationcubed.com/" />
+  <rdf:li rdf:resource="http://educationalsoftware.wikispaces.com/Flickr" />
+  <rdf:li rdf:resource="http://uk.europe.creative.com/products/product.asp?category=830&#x26;subcategory=831&#x26;product=17761" />
+  <rdf:li rdf:resource="http://www.itpro.co.uk/603678/open-source-group-slams-education-body-becta" />
+  <rdf:li rdf:resource="http://blip.tv/" />
+  <rdf:li rdf:resource="http://theedublogger.edublogs.org/2008/02/24/adding-a-voki-speaking-avatar-to-your-blog-sidebar/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Portal:Free_software" />
+  <rdf:li rdf:resource="http://www.redhen.ie/smallworldplay.htm" />
+  <rdf:li rdf:resource="http://uk.youtube.com/watch?v=He5hM8vyeGo" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/493946/10-Free-Applications-for-your-Nokia-N95" />
+  <rdf:li rdf:resource="http://fieryideas.com/freebies.php" />
+  <rdf:li rdf:resource="http://www.housetohome.co.uk/galleries/hallway.html" />
+  <rdf:li rdf:resource="http://www.123certificates.com/makeit/gymnastics.php" />
+  <rdf:li rdf:resource="http://ictideas.pbwiki.com/" />
+  <rdf:li rdf:resource="http://avs4you.com/downloads.aspx?dl=no" />
+  <rdf:li rdf:resource="http://www.odetoaude.com/" />
+  <rdf:li rdf:resource="http://www.cheznous.co.uk/prop_details.asp?sku=10900" />
+  <rdf:li rdf:resource="http://www.cheznous.co.uk/prop_details.asp?sku=185748" />
+  <rdf:li rdf:resource="http://www.cheznous.co.uk/prop_details.asp?sku=4725" />
+  <rdf:li rdf:resource="http://del.icio.us/raff31" />
+  <rdf:li rdf:resource="http://www.anfield-online.co.uk/stats/2008/stats.html" />
+  <rdf:li rdf:resource="http://www.redandwhitekop.com/index.php" />
+  <rdf:li rdf:resource="http://www.fordlog.com/" />
+  <rdf:li rdf:resource="http://www.createascape.org.uk/home.html" />
+  <rdf:li rdf:resource="http://www.reclaimthekop.co.uk/cgi-bin/main.pl" />
+  <rdf:li rdf:resource="http://edu.blogs.com/edublogs/" />
+  <rdf:li rdf:resource="http://www.classtools.net/" />
+  <rdf:li rdf:resource="http://teachmeet.pbwiki.com/TeachMeet08_London" />
+  <rdf:li rdf:resource="http://room17sblog.blogspot.com/2007/08/room-17s-blogging-adventure.html" />
+  <rdf:li rdf:resource="http://asnailpace.com/blog/147/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://comiqs.com/">
+<title>Comiqs | Create &#x26; Share your Comic Stories</title>
+<link>http://comiqs.com/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-07-06T12:31:46Z</dc:date>
+<dc:subject>Comics Creative Writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Comics" />
+    <rdf:li resource="http://del.icio.us/tag/Writing" />
+    <rdf:li resource="http://del.icio.us/tag/Creative" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.imaginationcubed.com/">
+<title>Imagination Cubed</title>
+<link>http://www.imaginationcubed.com/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-07-06T12:30:18Z</dc:date>
+<dc:subject>Art Creative ICT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/Creative" />
+    <rdf:li resource="http://del.icio.us/tag/Art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://educationalsoftware.wikispaces.com/Flickr">
+<title>http://educationalsoftware.wikispaces.com/Flickr</title>
+<link>http://educationalsoftware.wikispaces.com/Flickr</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-07-06T12:29:32Z</dc:date>
+<dc:subject>Flickr ICT Photographs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/Flickr" />
+    <rdf:li resource="http://del.icio.us/tag/Photographs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uk.europe.creative.com/products/product.asp?category=830&#x26;subcategory=831&#x26;product=17761">
+<title>Creative Vado | Pocket Video Cam | See it, shoot it, share it!</title>
+<link>http://uk.europe.creative.com/products/product.asp?category=830&#x26;subcategory=831&#x26;product=17761</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-22T15:53:06Z</dc:date>
+<dc:subject>Creative cam hardware video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Creative" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/cam" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itpro.co.uk/603678/open-source-group-slams-education-body-becta">
+<title>Open source group slams education body Becta | IT PRO</title>
+<link>http://www.itpro.co.uk/603678/open-source-group-slams-education-body-becta</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-15T15:49:23Z</dc:date>
+<dc:subject>Opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blip.tv/">
+<title>blip.tv (beta)</title>
+<link>http://blip.tv/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-15T12:27:31Z</dc:date>
+<dc:subject>ICT Video blip hosting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blip" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://theedublogger.edublogs.org/2008/02/24/adding-a-voki-speaking-avatar-to-your-blog-sidebar/">
+<title>Adding A Voki Speaking Avatar To Your Blog Sidebar | The Edublogger</title>
+<link>http://theedublogger.edublogs.org/2008/02/24/adding-a-voki-speaking-avatar-to-your-blog-sidebar/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-08T19:27:59Z</dc:date>
+<dc:subject>Blog Education ICT Sound Voki wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Voki" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/Sound" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Portal:Free_software">
+<title>Portal:Free software - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Portal:Free_software</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-06T17:12:52Z</dc:date>
+<dc:subject>mp4 mpeg open source</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/open" />
+    <rdf:li resource="http://del.icio.us/tag/source" />
+    <rdf:li resource="http://del.icio.us/tag/mpeg" />
+    <rdf:li resource="http://del.icio.us/tag/mp4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.redhen.ie/smallworldplay.htm">
+<title>Little Red Hen</title>
+<link>http://www.redhen.ie/smallworldplay.htm</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-06-01T15:24:31Z</dc:date>
+<dc:subject>Small World</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Small" />
+    <rdf:li resource="http://del.icio.us/tag/World" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://uk.youtube.com/watch?v=He5hM8vyeGo">
+<title>YouTube - Bypass school filters</title>
+<link>http://uk.youtube.com/watch?v=He5hM8vyeGo</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-05-23T07:41:42Z</dc:date>
+<dc:subject>filter youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/filter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/493946/10-Free-Applications-for-your-Nokia-N95">
+<title>10 Free Applications for your Nokia N95</title>
+<link>http://www.scribd.com/doc/493946/10-Free-Applications-for-your-Nokia-N95</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-05-20T22:01:22Z</dc:date>
+<dc:subject>95 Nokia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Nokia" />
+    <rdf:li resource="http://del.icio.us/tag/95" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fieryideas.com/freebies.php">
+<title>Fiery Ideas :: Freebies</title>
+<link>http://fieryideas.com/freebies.php</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-04-20T17:02:29Z</dc:date>
+<dc:subject>Free ICT Software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.housetohome.co.uk/galleries/hallway.html">
+<title>Hallway,hallway ideas - housetohome.co.uk</title>
+<link>http://www.housetohome.co.uk/galleries/hallway.html</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-04-15T05:58:13Z</dc:date>
+<dc:subject>decorating</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/decorating" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.123certificates.com/makeit/gymnastics.php">
+<title>123Certificates.com!</title>
+<link>http://www.123certificates.com/makeit/gymnastics.php</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-04-05T16:33:51Z</dc:date>
+<dc:subject>certificates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/certificates" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ictideas.pbwiki.com/">
+<title>ictideas wiki</title>
+<link>http://ictideas.pbwiki.com/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-03-05T18:47:06Z</dc:date>
+<dc:subject>ICT ictideas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ICT" />
+    <rdf:li resource="http://del.icio.us/tag/ictideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://avs4you.com/downloads.aspx?dl=no">
+<title>AVS4YOU Best software for you on today's market. Download now for free!</title>
+<link>http://avs4you.com/downloads.aspx?dl=no</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-28T21:30:33Z</dc:date>
+<dc:subject>software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.odetoaude.com/">
+<title>The Aude, Languedoc Roussillon in the south of France</title>
+<link>http://www.odetoaude.com/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-23T11:09:56Z</dc:date>
+<dc:subject>Aude Holidays</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Aude" />
+    <rdf:li resource="http://del.icio.us/tag/Holidays" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cheznous.co.uk/prop_details.asp?sku=10900">
+<title>Holiday Property in Languedoc-Roussillon, H&#xE9;rault, France, 2 - LODEVE.</title>
+<link>http://www.cheznous.co.uk/prop_details.asp?sku=10900</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-18T22:17:51Z</dc:date>
+<dc:subject>France Holidays</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/France" />
+    <rdf:li resource="http://del.icio.us/tag/Holidays" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cheznous.co.uk/prop_details.asp?sku=185748">
+<title>Holiday Property in Languedoc-Roussillon, Pyr&#xE9;n&#xE9;es Orientales, France, 2 - ATTRACTIVE BEACH FRONT LOCATION.</title>
+<link>http://www.cheznous.co.uk/prop_details.asp?sku=185748</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-18T22:16:10Z</dc:date>
+<dc:subject>France Holidays</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/France" />
+    <rdf:li resource="http://del.icio.us/tag/Holidays" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cheznous.co.uk/prop_details.asp?sku=4725">
+<title>Holiday Property in Languedoc-Roussillon, Pyr&#xE9;n&#xE9;es Orientales, France, 4 - CANET PLAGE, &#x3C;BR&#x3E;Nr. Perpignan.</title>
+<link>http://www.cheznous.co.uk/prop_details.asp?sku=4725</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-18T22:14:58Z</dc:date>
+<dc:subject>France Holidays carnet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/carnet" />
+    <rdf:li resource="http://del.icio.us/tag/Holidays" />
+    <rdf:li resource="http://del.icio.us/tag/France" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://del.icio.us/raff31">
+<title>http://del.icio.us/raff31</title>
+<link>http://del.icio.us/raff31</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-02-12T21:39:54Z</dc:date>
+<dc:subject>greenpark ictideas school</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ictideas" />
+    <rdf:li resource="http://del.icio.us/tag/greenpark" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anfield-online.co.uk/stats/2008/stats.html">
+<title>Liverpool FC Data and Season Analysis 2007/08</title>
+<link>http://www.anfield-online.co.uk/stats/2008/stats.html</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-26T19:59:51Z</dc:date>
+<dc:subject>LFC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/LFC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.redandwhitekop.com/index.php">
+<title>The Independent Liverpool FC Website, Red and White Kop</title>
+<link>http://www.redandwhitekop.com/index.php</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-20T08:52:09Z</dc:date>
+<dc:subject>FC Football Liverpool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Liverpool" />
+    <rdf:li resource="http://del.icio.us/tag/FC" />
+    <rdf:li resource="http://del.icio.us/tag/Football" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fordlog.com/">
+<title>http://www.fordlog.com/</title>
+<link>http://www.fordlog.com/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-19T17:34:32Z</dc:date>
+<dc:subject>Blog Ford Peter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Peter" />
+    <rdf:li resource="http://del.icio.us/tag/Ford" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.createascape.org.uk/home.html">
+<title>Create-A-Scape - Home</title>
+<link>http://www.createascape.org.uk/home.html</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-19T16:36:04Z</dc:date>
+<dc:subject>Free IT createascape resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/createascape" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/Free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reclaimthekop.co.uk/cgi-bin/main.pl">
+<title>RTK - Reclaim The Kop</title>
+<link>http://www.reclaimthekop.co.uk/cgi-bin/main.pl</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-19T10:35:21Z</dc:date>
+<dc:subject>Football Kop LFC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Kop" />
+    <rdf:li resource="http://del.icio.us/tag/LFC" />
+    <rdf:li resource="http://del.icio.us/tag/Football" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://edu.blogs.com/edublogs/">
+<title>edublogs</title>
+<link>http://edu.blogs.com/edublogs/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-17T22:36:14Z</dc:date>
+<dc:subject>Blogs Euan Teachmeet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blogs" />
+    <rdf:li resource="http://del.icio.us/tag/Teachmeet" />
+    <rdf:li resource="http://del.icio.us/tag/Euan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.classtools.net/">
+<title>ClassTools.net: Flash Templates for Educators</title>
+<link>http://www.classtools.net/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-16T20:59:52Z</dc:date>
+<dc:subject>Classtools games resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Classtools" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://teachmeet.pbwiki.com/TeachMeet08_London">
+<title>teachmeet wiki / TeachMeet08_London</title>
+<link>http://teachmeet.pbwiki.com/TeachMeet08_London</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2008-01-05T08:47:17Z</dc:date>
+<dc:subject>2008 BETT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BETT" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://room17sblog.blogspot.com/2007/08/room-17s-blogging-adventure.html">
+<title>Room 17's Blog: Room 17's Blogging Adventure!</title>
+<link>http://room17sblog.blogspot.com/2007/08/room-17s-blogging-adventure.html</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2007-12-25T08:36:45Z</dc:date>
+<dc:subject>Blog Education Greenpark school</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Greenpark" />
+    <rdf:li resource="http://del.icio.us/tag/school" />
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://asnailpace.com/blog/147/">
+<title>http://asnailpace.com/blog/147/</title>
+<link>http://asnailpace.com/blog/147/</link>
+<description></description>
+<dc:creator>raff31</dc:creator>
+<dc:date>2007-12-10T19:36:53Z</dc:date>
+<dc:subject>calendar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

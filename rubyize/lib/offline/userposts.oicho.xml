@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/oicho">
+<title>del.icio.us/oicho</title>
+<link>http://del.icio.us/oicho</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/amachang/20080701/1214889774" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/06/linux.html" />
+  <rdf:li rdf:resource="http://www.boston.com/bigpicture/2008/06/martian_skies.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/06/javascriptdratable.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/kokutoto/20080525/p1" />
+  <rdf:li rdf:resource="http://www.submitarchive.com/upload/pictures_from_the_sky.php" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/02/beautiful-and-expressive-packaging-design/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/06/icon-design-tutorial-drawing-a-pencil-icon/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/11/space-wallpapers-and-nebula-wallpapers/" />
+  <rdf:li rdf:resource="http://ruri.crara.cc/archives/2230/" />
+  <rdf:li rdf:resource="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/articles/2008/06/25/flexigrid/index.html" />
+  <rdf:li rdf:resource="http://dogyear2nd.blog10.fc2.com/blog-entry-20.html" />
+  <rdf:li rdf:resource="http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP" />
+  <rdf:li rdf:resource="http://www11.atwiki.jp/24himastv/pages/19.html" />
+  <rdf:li rdf:resource="http://netafull.net/eat/026261.html" />
+  <rdf:li rdf:resource="http://netafull.net/eat/026264.html" />
+  <rdf:li rdf:resource="http://chiezou.jp/" />
+  <rdf:li rdf:resource="http://alfalfa.livedoor.biz/archives/51304169.html" />
+  <rdf:li rdf:resource="http://fkmn.exblog.jp/7205922/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/12/block-quotes-and-pull-quotes-examples-and-good-practices/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/boltman/20080612/1213232889" />
+  <rdf:li rdf:resource="http://labs.cybozu.co.jp/blog/kazuho/archives/2008/06/mysql_direct_access.php" />
+  <rdf:li rdf:resource="http://internet.watch.impress.co.jp/cda/event/2008/06/12/19909.html" />
+  <rdf:li rdf:resource="http://www.squirrelapp.com/" />
+  <rdf:li rdf:resource="http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP#" />
+  <rdf:li rdf:resource="http://webos-goodies.jp/archives/51344534.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-07-06T04:39:28Z</dc:date>
+<dc:subject>accounting business learning wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/amachang/20080701/1214889774">
+<title>Java &#x3067;&#x30E9;&#x30E0;&#x30C0; - IT&#x6226;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/amachang/20080701/1214889774</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-07-01T09:23:10Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/06/linux.html">
+<title>&#x3042;&#x306A;&#x305F;&#x304C;&#x77E5;&#x3089;&#x306A;&#x3044;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;Linux&#x306E;&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x3044;&#x308D;&#x3044;&#x308D; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/06/linux.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-30T14:46:19Z</dc:date>
+<dc:subject>command linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/command" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bigpicture/2008/06/martian_skies.html">
+<title>Martian Skies - The Big Picture - Boston.com</title>
+<link>http://www.boston.com/bigpicture/2008/06/martian_skies.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-30T06:54:06Z</dc:date>
+<dc:subject>Mars photos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Mars" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/06/javascriptdratable.html">
+<title>&#x30C6;&#x30FC;&#x30D6;&#x30EB;&#x306E;&#x5217;&#x3092;&#x30C9;&#x30E9;&#x30C3;&#x30B0;&#xFF06;&#x30C9;&#x30ED;&#x30C3;&#x30D7;&#x3067;&#x5165;&#x308C;&#x66FF;&#x3048;&#x53EF;&#x80FD;&#x306B;&#x3059;&#x308B;JavaScript&#x30E9;&#x30A4;&#x30D6;&#x30E9;&#x30EA;&#x300E;dragtable&#x300F; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/06/javascriptdratable.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-29T15:49:40Z</dc:date>
+<dc:subject>javascript library table</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/kokutoto/20080525/p1">
+<title>&#x58CA;&#x308C;&#x305F;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;&#x30CF;&#x30FC;&#x30C9;&#x30C7;&#x30A3;&#x30B9;&#x30AF;&#x304B;&#x3089;&#x306E;&#x30C7;&#x30FC;&#x30BF;&#x30B5;&#x30EB;&#x30D9;&#x30FC;&#x30B8; - &#x9ED2;&#x7CD6;&#x3005;&#x65E5;&#x8A18;/kokutoto diary</title>
+<link>http://d.hatena.ne.jp/kokutoto/20080525/p1</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-29T15:37:18Z</dc:date>
+<dc:subject>! backup linux trouble</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/trouble" />
+    <rdf:li resource="http://del.icio.us/tag/!" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.submitarchive.com/upload/pictures_from_the_sky.php">
+<title>Pictures From the Sky</title>
+<link>http://www.submitarchive.com/upload/pictures_from_the_sky.php</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-29T15:33:49Z</dc:date>
+<dc:subject>Photos inspiration sky</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Photos" />
+    <rdf:li resource="http://del.icio.us/tag/sky" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/">
+<title>CSS Editors Reviewed | Developer's Toolbox, CSS | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T16:05:37Z</dc:date>
+<dc:subject>css design editor software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/">
+<title>Applying Divine Proportion To Your Web Designs | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/05/29/applying-divine-proportion-to-web-design/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T16:05:09Z</dc:date>
+<dc:subject>css design inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/02/beautiful-and-expressive-packaging-design/">
+<title>Beautiful and Expressive Packaging Design | Monday Inspiration | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/02/beautiful-and-expressive-packaging-design/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T16:04:53Z</dc:date>
+<dc:subject>design inspiration</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/06/icon-design-tutorial-drawing-a-pencil-icon/">
+<title>Icon Design Tutorial: Drawing A Pencil Icon | Tutorials | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/06/icon-design-tutorial-drawing-a-pencil-icon/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T16:04:07Z</dc:date>
+<dc:subject>design icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/11/space-wallpapers-and-nebula-wallpapers/">
+<title>Space Wallpapers and Nebula Wallpapers | Graphics | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/11/space-wallpapers-and-nebula-wallpapers/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T16:03:32Z</dc:date>
+<dc:subject>design space wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ruri.crara.cc/archives/2230/">
+<title>&#x548C;&#x98A8;&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3067;&#x30AB;&#x30C3;&#x30B3;&#x3044;&#x3044;&#x30B5;&#x30A4;&#x30C8;&#x306E;&#x307E;&#x3068;&#x3081;&#xFF1A;&#x305D;&#x306E;&#xFF12; at &#x548C;&#x306E;&#x66AE;&#x3089;&#x3057;&#x3092;&#x697D;&#x3057;&#x3080;&#x30D6;&#x30ED;&#x30B0; -&#x7460;&#x7483;&#x8272;Tradition-</title>
+<link>http://ruri.crara.cc/archives/2230/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-27T05:18:56Z</dc:date>
+<dc:subject>design inspiration web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/">
+<title>Part5&#x3000;Mac OS X&#x306E;UNIX&#x306A;&#x4F7F;&#x3044;&#x65B9;&#xFF1A;ITpro</title>
+<link>http://itpro.nikkeibp.co.jp/article/COLUMN/20080616/308266/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-26T18:48:58Z</dc:date>
+<dc:subject>mac osx unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html">
+<title>Firefox 3&#x306E;&#x300C;&#x30B9;&#x30DE;&#x30FC;&#x30C8;&#x30D6;&#x30C3;&#x30AF;&#x30DE;&#x30FC;&#x30AF;&#x300D;&#x3092;&#x4F7F;&#x3044;&#x3053;&#x306A;&#x305D;&#x3046;&#xFF01; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/06/firefox_3_2.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-26T18:47:57Z</dc:date>
+<dc:subject>firefox tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/articles/2008/06/25/flexigrid/index.html">
+<title>&#x3010;&#x30CF;&#x30A6;&#x30C4;&#x30FC;&#x3011;&#x308F;&#x305A;&#x304B;&#x6570;&#x884C;&#x3067;&#x22;&#x3082;&#x306E;&#x3059;&#x3054;&#x3044;&#x30C6;&#x30FC;&#x30D6;&#x30EB;&#x22;&#x306B;! - jQuery&#x30D7;&#x30E9;&#x30B0;&#x30A4;&#x30F3;&#x300C;Flexigrid&#x300D; (1) &#x30C9;&#x30E9;&#x30C3;&#x30B0;&#x26;&#x30C9;&#x30ED;&#x30C3;&#x30D7;&#x3067;&#x30AB;&#x30E9;&#x30E0;&#x5E45;&#x3092;&#x5909;&#x66F4;&#x53EF;&#x80FD; | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/articles/2008/06/25/flexigrid/index.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-25T18:02:03Z</dc:date>
+<dc:subject>ajax javascript jquery library table</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jquery" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/table" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dogyear2nd.blog10.fc2.com/blog-entry-20.html">
+<title>Dog year 2nd  X02HT&#x3078;MMSLite 1.1.301&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;</title>
+<link>http://dogyear2nd.blog10.fc2.com/blog-entry-20.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-25T16:20:59Z</dc:date>
+<dc:subject>X02HT</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/X02HT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP">
+<title>Mac OS X &#x3067;&#x554F;&#x984C;&#x3092;&#x7279;&#x5B9A;&#x3059;&#x308B;&#x65B9;&#x6CD5;</title>
+<link>http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-22T16:51:36Z</dc:date>
+<dc:subject>apple osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www11.atwiki.jp/24himastv/pages/19.html">
+<title>&#xFF12;&#xFF14;&#x6642;&#x9593;&#x30A2;&#x30A4;&#x30DE;&#x30B9;TV&#xFF01;&#xFF5E;&#x307F;&#x3093;&#x306A;&#x307E;&#x3068;&#x3081;&#x3066;&#x30A2;&#x30A4;&#x30C9;&#x30EB;&#x30DE;&#x30B9;&#x30BF;&#x30FC;&#xFF5E; - &#x5F53;&#x65E5;&#x756A;&#x7D44;&#x8868;</title>
+<link>http://www11.atwiki.jp/24himastv/pages/19.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-16T22:18:29Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://netafull.net/eat/026261.html">
+<title>[N] &#x30E9;&#x30FC;&#x30E1;&#x30F3;&#x300C;&#x3069;&#x3046;&#x3068;&#x3093;&#x307C;&#x308A;&#x795E;&#x5EA7;&#xFF08;&#x304B;&#x3080;&#x304F;&#x3089;&#xFF09;&#x300D;&#xFF08;&#x65B0;&#x5BBF;&#xFF09;</title>
+<link>http://netafull.net/eat/026261.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-16T21:52:24Z</dc:date>
+<dc:subject>food gourmet life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/gourmet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://netafull.net/eat/026264.html">
+<title>[N] &#x300C;&#x718A;&#x6960;&#x5BB6;&#xFF08;&#x304F;&#x307E;&#x3050;&#x3059;&#x3084;&#xFF09;&#x300D;&#x306E;&#x201C;&#x535A;&#x591A;&#x306B;&#x3089;&#x305D;&#x3070;&#x201D;&#x3092;&#x98DF;&#x3079;&#x305F;&#x3044;&#xFF01;</title>
+<link>http://netafull.net/eat/026264.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-16T21:50:13Z</dc:date>
+<dc:subject>food gourmet life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/life" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/gourmet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chiezou.jp/">
+<title>&#x307F;&#x3093;&#x306A;&#x306E;&#x77E5;&#x6075;&#x8535; - &#x30CB;&#x30E5;&#x30FC;&#x30B9;&#x3001;&#x6642;&#x4E8B;&#x554F;&#x984C;&#x304C;&#x308F;&#x304B;&#x308B;&#x4E8B;&#x5178;&#x30B5;&#x30A4;&#x30C8;</title>
+<link>http://chiezou.jp/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-16T07:03:02Z</dc:date>
+<dc:subject>database webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alfalfa.livedoor.biz/archives/51304169.html">
+<title>&#x7C21;&#x5358;&#x3001;&#x51B7;&#x51CD;&#x3046;&#x3069;&#x3093;&#x306E;&#x304A;&#x3044;&#x3057;&#x3044;&#x98DF;&#x3079;&#x65B9;:&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30EB;&#x30D5;&#x30A1;&#x30E2;&#x30B6;&#x30A4;&#x30AF;</title>
+<link>http://alfalfa.livedoor.biz/archives/51304169.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-14T06:36:24Z</dc:date>
+<dc:subject>food life</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/life" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fkmn.exblog.jp/7205922/">
+<title>&#x30D5;&#x30C3;&#x541B;&#x306E;&#x65E5;&#x5E38; : Emacs &#x3067; C &#x3068;&#x304B; Perl &#x3068;&#x304B; Ruby &#x306E;&#x30C7;&#x30D0;&#x30C3;&#x30B0;&#x3092;&#x3059;&#x308B;&#x3068;&#x6C17;&#x6301;&#x3061;&#x3044;&#x3044;</title>
+<link>http://fkmn.exblog.jp/7205922/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-13T06:00:22Z</dc:date>
+<dc:subject>development emacs perl programming ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/12/block-quotes-and-pull-quotes-examples-and-good-practices/">
+<title>Block Quotes and Pull Quotes: Examples and Good Practices | Design Showcase | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/12/block-quotes-and-pull-quotes-examples-and-good-practices/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-12T15:32:33Z</dc:date>
+<dc:subject>blockquote css design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/blockquote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/boltman/20080612/1213232889">
+<title>google&#x793E;&#x54E1;&#x306B;&#x5B66;&#x3076;Thunderbird&#x30E1;&#x30FC;&#x30EB;&#x8853; - &#x5143;&#x30D5;&#x30A1;&#x30F3;&#x30C9;&#x30DE;&#x30CD;&#x30FC;&#x30B8;&#x30E3;&#x30FC;&#x306E;&#x30D0;&#x30A4;&#x30C8;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/boltman/20080612/1213232889</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-12T15:13:59Z</dc:date>
+<dc:subject>google mail technique thunderbird tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thunderbird" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.cybozu.co.jp/blog/kazuho/archives/2008/06/mysql_direct_access.php">
+<title>Kazuho@Cybozu Labs: MySQL (InnoDB) &#x306B;&#x76F4;&#x63A5;&#x30A2;&#x30AF;&#x30BB;&#x30B9;&#x3057;&#x3066;&#x30BF;&#x30A4;&#x30E0;&#x30E9;&#x30A4;&#x30F3;&#x51E6;&#x7406;&#x3092;&#x9AD8;&#x901F;&#x5316;&#x3059;&#x308B;&#x8A71;</title>
+<link>http://labs.cybozu.co.jp/blog/kazuho/archives/2008/06/mysql_direct_access.php</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-12T15:12:46Z</dc:date>
+<dc:subject>C++ database mysql programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/C%2B%2B" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://internet.watch.impress.co.jp/cda/event/2008/06/12/19909.html">
+<title>DNS&#x304C;&#x62B1;&#x3048;&#x308B;&#x30EA;&#x30B9;&#x30AF;&#x3068;&#x6700;&#x65B0;&#x5BFE;&#x5FDC;&#x7B56;&#xFF5E;DNS&#x306E;&#x5B89;&#x5B9A;&#x904B;&#x7528;&#x306B;&#x5411;&#x3051;&#x3066;</title>
+<link>http://internet.watch.impress.co.jp/cda/event/2008/06/12/19909.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-12T15:02:24Z</dc:date>
+<dc:subject>DNS internet security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/DNS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.squirrelapp.com/">
+<title>Squirrel - Simple finance management for Mac</title>
+<link>http://www.squirrelapp.com/</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-12T14:21:33Z</dc:date>
+<dc:subject>accounting mac osx software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP#">
+<title>Mac OS X &#x3067;&#x554F;&#x984C;&#x3092;&#x7279;&#x5B9A;&#x3059;&#x308B;&#x65B9;&#x6CD5;</title>
+<link>http://support.apple.com/kb/TS1388?viewlocale=ja_JP&#x26;locale=ja_JP#</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-11T12:58:11Z</dc:date>
+<dc:subject>apple</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webos-goodies.jp/archives/51344534.html">
+<title>Google APIs &#x307E;&#x3068;&#x3081; - WebOS Goodies</title>
+<link>http://webos-goodies.jp/archives/51344534.html</link>
+<description></description>
+<dc:creator>oicho</dc:creator>
+<dc:date>2008-06-09T04:11:32Z</dc:date>
+<dc:subject>api google webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

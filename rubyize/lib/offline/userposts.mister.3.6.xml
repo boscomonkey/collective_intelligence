@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mister.3.6">
+<title>del.icio.us/mister.3.6</title>
+<link>http://del.icio.us/mister.3.6</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.linkinn.com/_Beautiful_Air_Scenes_of_Africa_Michael_Poliza_s_photos_1" />
+  <rdf:li rdf:resource="http://software77.net/cgi-bin/ip-country/geo-ip.pl" />
+  <rdf:li rdf:resource="http://pierre.sudarovich.free.fr/index.php/2006/02/28/ajax-shoutbox/" />
+  <rdf:li rdf:resource="http://halbot.haluze.sk/" />
+  <rdf:li rdf:resource="http://blog.yieldbuild.com/2008/06/04/adsense-placement-tips-advice/" />
+  <rdf:li rdf:resource="http://code.google.com/apis/opensocial/articles/bestprac.html" />
+  <rdf:li rdf:resource="http://kuler.adobe.com/index.cfm" />
+  <rdf:li rdf:resource="http://www.binaryfortress.com/displayfusion/" />
+  <rdf:li rdf:resource="http://wordpress.org/extend/plugins/podpress/" />
+  <rdf:li rdf:resource="http://www.franzone.com/2007/08/03/would-you-like-to-post-to-wordpress-from-java/" />
+  <rdf:li rdf:resource="http://codex.wordpress.org/WPMU_List_All_Postings_Widget" />
+  <rdf:li rdf:resource="http://www.gelaskins.com/" />
+  <rdf:li rdf:resource="http://leblog.vendeesign.com/web20/10-services-web-pour-tester-laccessibilite-de-votre-site/" />
+  <rdf:li rdf:resource="http://www.dskmusic.com/blog/" />
+  <rdf:li rdf:resource="http://www.netsoc.tcd.ie/~mu/cgi-bin/shortpath.cgi?from=here&#x26;to=mars" />
+  <rdf:li rdf:resource="http://forum.frenchiphone.com/index.php/topic,11779.0.html" />
+  <rdf:li rdf:resource="http://wikiscanner.virgil.gr/" />
+  <rdf:li rdf:resource="http://www.voyagiste-visagiste.com/" />
+  <rdf:li rdf:resource="http://www.zionsoftware.com/support/jbuddy/sdk/" />
+  <rdf:li rdf:resource="http://www.photozone.de/Reviews/Pentax%20Lens%20Tests" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=BTHvs3V8DBA" />
+  <rdf:li rdf:resource="http://www.myfonts.com/WhatTheFont/" />
+  <rdf:li rdf:resource="http://www.freewaregenius.com/2007/10/29/reinstall-windows-and-outfit-your-system-with-all-freeware-programs/" />
+  <rdf:li rdf:resource="http://blogs.pathf.com/agileajax/2007/07/36-gwt-tutorial.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/rudolph-grails-intro;jsessionid=3928202A35303673AD7BF7BBF908B231" />
+  <rdf:li rdf:resource="http://www.litox.ru/index.php?name=News&#x26;file=article&#x26;sid=4937" />
+  <rdf:li rdf:resource="http://www.abrutishirt.com/mag/fr/product-340623.htm" />
+  <rdf:li rdf:resource="http://fr.techcrunch.com/2008/05/16/fr-nouveau-site-voyages-sncf-la-reponse-de-la-sncf-aux-lecteurs-de-techcrunch-france/" />
+  <rdf:li rdf:resource="http://www.getfirebug.com/" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yslow/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-07-06T08:42:41Z</dc:date>
+<dc:subject>architecture article j2ee java performance programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linkinn.com/_Beautiful_Air_Scenes_of_Africa_Michael_Poliza_s_photos_1">
+<title>Linkinn - Beautiful Air Scenes of Africa [Michael Poliza's photos]</title>
+<link>http://www.linkinn.com/_Beautiful_Air_Scenes_of_Africa_Michael_Poliza_s_photos_1</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-07-05T15:46:52Z</dc:date>
+<dc:subject>africa air scenes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/africa" />
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/scenes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://software77.net/cgi-bin/ip-country/geo-ip.pl">
+<title>FREE Updated IP to Country Database</title>
+<link>http://software77.net/cgi-bin/ip-country/geo-ip.pl</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-07-02T15:35:06Z</dc:date>
+<dc:subject>download free geo programming security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/download" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/geo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pierre.sudarovich.free.fr/index.php/2006/02/28/ajax-shoutbox/">
+<title>Le Blog de Pierre &#xBB; Archive du blog &#xBB; AJAX Shoutbox (avec alerte sonore, utilisateurs en ligne et sans spam)</title>
+<link>http://pierre.sudarovich.free.fr/index.php/2006/02/28/ajax-shoutbox/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-30T22:43:07Z</dc:date>
+<dc:subject>ajax plugin plugins shoutbox wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/shoutbox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://halbot.haluze.sk/">
+<title>Halbot mail</title>
+<link>http://halbot.haluze.sk/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-17T14:21:03Z</dc:date>
+<dc:subject>blog fun humour images photos videos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.yieldbuild.com/2008/06/04/adsense-placement-tips-advice/">
+<title>YieldBuild Blog &#xBB; Blog Archive &#xBB; AdSense Placement - Tips &#x26; Advice</title>
+<link>http://blog.yieldbuild.com/2008/06/04/adsense-placement-tips-advice/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-17T12:17:23Z</dc:date>
+<dc:subject>adsense business money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/adsense" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/apis/opensocial/articles/bestprac.html">
+<title>Social Design Best Practices - OpenSocial - Google Code</title>
+<link>http://code.google.com/apis/opensocial/articles/bestprac.html</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-13T08:21:28Z</dc:date>
+<dc:subject>applications business programming web2.0 webdesign webdev widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kuler.adobe.com/index.cfm">
+<title>kuler</title>
+<link>http://kuler.adobe.com/index.cfm</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-11T12:26:28Z</dc:date>
+<dc:subject>color colors design flash wallpaper webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/colors" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.binaryfortress.com/displayfusion/">
+<title>DisplayFusion : Binary Fortress Software</title>
+<link>http://www.binaryfortress.com/displayfusion/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-11T10:27:39Z</dc:date>
+<dc:subject>applications desktop free freeware photos tools wallpaper windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/wallpaper" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordpress.org/extend/plugins/podpress/">
+<title>WordPress &#x203A; podPress &#xAB; WordPress Plugins</title>
+<link>http://wordpress.org/extend/plugins/podpress/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-10T14:36:03Z</dc:date>
+<dc:subject>blog mp3 plugins podcasts wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/podcasts" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.franzone.com/2007/08/03/would-you-like-to-post-to-wordpress-from-java/">
+<title>Would You Like To Post To WordPress From Java? | franzone.com</title>
+<link>http://www.franzone.com/2007/08/03/would-you-like-to-post-to-wordpress-from-java/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-10T12:51:55Z</dc:date>
+<dc:subject>java wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codex.wordpress.org/WPMU_List_All_Postings_Widget">
+<title>WPMU List All Postings Widget &#xAB; WordPress Codex</title>
+<link>http://codex.wordpress.org/WPMU_List_All_Postings_Widget</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-10T12:06:00Z</dc:date>
+<dc:subject>plugins wordpress wpmu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/wpmu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gelaskins.com/">
+<title>GelaSkins | Artist-Designed Removable Skins for iPods, Laptops and Gaming devices</title>
+<link>http://www.gelaskins.com/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-08T21:00:35Z</dc:date>
+<dc:subject>art blog computer creative iphone ipod mobile music wallpapers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/creative" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/wallpapers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://leblog.vendeesign.com/web20/10-services-web-pour-tester-laccessibilite-de-votre-site/">
+<title>10 Services Web pour tester l&#x2019;accessibilit&#xE9; de votre site | Blog sur L'actualit&#xE9; Multim&#xE9;dia du Web2.0</title>
+<link>http://leblog.vendeesign.com/web20/10-services-web-pour-tester-laccessibilite-de-votre-site/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-07T08:30:44Z</dc:date>
+<dc:subject>design testing tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dskmusic.com/blog/">
+<title>DSK Music Blog &#xBB; Downloads</title>
+<link>http://www.dskmusic.com/blog/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-06T20:37:14Z</dc:date>
+<dc:subject>free freeware music plugins software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/plugins" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netsoc.tcd.ie/~mu/cgi-bin/shortpath.cgi?from=here&#x26;to=mars">
+<title>Shortest path from here to mars</title>
+<link>http://www.netsoc.tcd.ie/~mu/cgi-bin/shortpath.cgi?from=here&#x26;to=mars</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-04T12:46:43Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://forum.frenchiphone.com/index.php/topic,11779.0.html">
+<title>SIP Officiel chez Free</title>
+<link>http://forum.frenchiphone.com/index.php/topic,11779.0.html</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-06-01T20:25:06Z</dc:date>
+<dc:subject>free iphone sip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikiscanner.virgil.gr/">
+<title>WikiScanner: List anonymous wikipedia edits from interesting organizations</title>
+<link>http://wikiscanner.virgil.gr/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-27T14:18:30Z</dc:date>
+<dc:subject>anonymous applications computer editing geek privacy security software stats web2.0 wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anonymous" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/editing" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/stats" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.voyagiste-visagiste.com/">
+<title>Voyagiste Visagiste : le premier salon de coiffure de voyages-sncf.com</title>
+<link>http://www.voyagiste-visagiste.com/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-27T13:14:32Z</dc:date>
+<dc:subject>coiffure visagiste voyages-sncf.com voyagiste</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voyagiste" />
+    <rdf:li resource="http://del.icio.us/tag/visagiste" />
+    <rdf:li resource="http://del.icio.us/tag/coiffure" />
+    <rdf:li resource="http://del.icio.us/tag/voyages-sncf.com" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zionsoftware.com/support/jbuddy/sdk/">
+<title>Zion Software : JBuddy SDK Documentation</title>
+<link>http://www.zionsoftware.com/support/jbuddy/sdk/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-26T12:05:12Z</dc:date>
+<dc:subject>im java messaging programming webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/im" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/messaging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photozone.de/Reviews/Pentax%20Lens%20Tests">
+<title>Pentax Lens Tests</title>
+<link>http://www.photozone.de/Reviews/Pentax%20Lens%20Tests</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-26T08:25:11Z</dc:date>
+<dc:subject>lenses pentax photography review</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/pentax" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/lenses" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=BTHvs3V8DBA">
+<title>YouTube - High Performance Web Sites and YSlow</title>
+<link>http://www.youtube.com/watch?v=BTHvs3V8DBA</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-23T11:59:02Z</dc:date>
+<dc:subject>google internet performance webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myfonts.com/WhatTheFont/">
+<title>WhatTheFont : MyFonts</title>
+<link>http://www.myfonts.com/WhatTheFont/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-23T08:17:01Z</dc:date>
+<dc:subject>blog design fonts free freeware webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/fonts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freewaregenius.com/2007/10/29/reinstall-windows-and-outfit-your-system-with-all-freeware-programs/">
+<title>Review &#x26; Download Link | Reinstall Windows and outfit your system with all freeware programsfreewaregenius.com</title>
+<link>http://www.freewaregenius.com/2007/10/29/reinstall-windows-and-outfit-your-system-with-all-freeware-programs/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-22T05:43:22Z</dc:date>
+<dc:subject>applications article freeware opensource tutorial windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/article" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.pathf.com/agileajax/2007/07/36-gwt-tutorial.html">
+<title>Agile Ajax: 36 GWT Tutorials</title>
+<link>http://blogs.pathf.com/agileajax/2007/07/36-gwt-tutorial.html</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-21T15:59:20Z</dc:date>
+<dc:subject>ajax development gwt programming tutorial webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/rudolph-grails-intro;jsessionid=3928202A35303673AD7BF7BBF908B231">
+<title>InfoQ: Getting Started with Grails</title>
+<link>http://www.infoq.com/presentations/rudolph-grails-intro;jsessionid=3928202A35303673AD7BF7BBF908B231</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-20T06:10:19Z</dc:date>
+<dc:subject>grails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.litox.ru/index.php?name=News&#x26;file=article&#x26;sid=4937">
+<title>LitoX | &#x417;&#x432;&#x435;&#x437;&#x434;&#x44B; &#x431;&#x435;&#x437; &#x433;&#x440;&#x438;&#x43C;&#x430; (34 &#x444;&#x43E;&#x442;&#x43E;)</title>
+<link>http://www.litox.ru/index.php?name=News&#x26;file=article&#x26;sid=4937</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-19T21:36:41Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.abrutishirt.com/mag/fr/product-340623.htm">
+<title>SNCF : www.abrutishirt.com</title>
+<link>http://www.abrutishirt.com/mag/fr/product-340623.htm</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-19T21:13:33Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://fr.techcrunch.com/2008/05/16/fr-nouveau-site-voyages-sncf-la-reponse-de-la-sncf-aux-lecteurs-de-techcrunch-france/">
+<title>TechCrunch en fran&#xE7;ais &#xBB; [fr] Nouveau site Voyages-SNCF: la r&#xE9;ponse de la SNCF aux lecteurs de TechCrunch France</title>
+<link>http://fr.techcrunch.com/2008/05/16/fr-nouveau-site-voyages-sncf-la-reponse-de-la-sncf-aux-lecteurs-de-techcrunch-france/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-16T08:28:06Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.getfirebug.com/">
+<title>Firebug - Web Development Evolved</title>
+<link>http://www.getfirebug.com/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-15T08:22:10Z</dc:date>
+<dc:subject>applications development firefox internet javascript plugin programming webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/plugin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yslow/">
+<title>YSlow for Firebug</title>
+<link>http://developer.yahoo.com/yslow/</link>
+<description></description>
+<dc:creator>mister.3.6</dc:creator>
+<dc:date>2008-05-15T08:20:11Z</dc:date>
+<dc:subject>ajax applications css design development internet javascript opensource programming statistics web2.0 webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

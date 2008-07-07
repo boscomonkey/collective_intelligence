@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/vojko">
+<title>del.icio.us/vojko</title>
+<link>http://del.icio.us/vojko</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.brsilver.com/wordpress/2008/07/05/will-the-bpm-swiftboating-never-cease/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://safari.informit.com/9780470148310?tocview=true" />
+  <rdf:li rdf:resource="http://safari.informit.com/9780136085669?tocview=true" />
+  <rdf:li rdf:resource="http://safari.informit.com/9780136085881?tocview=true" />
+  <rdf:li rdf:resource="http://safari.informit.com/9780136085676?tocview=true" />
+  <rdf:li rdf:resource="http://newton.typepad.com/content/2008/07/how-web-20-will.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/07/Agile-Google-Jeff-Sutherland" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/07/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://www.websequencediagrams.com/" />
+  <rdf:li rdf:resource="http://www.freeiconsweb.com/" />
+  <rdf:li rdf:resource="http://www.metawidget.org/" />
+  <rdf:li rdf:resource="http://www.amazon.com/dp/1844805417?tag=thescrblo-20&#x26;camp=211493&#x26;creative=379981&#x26;linkCode=op1&#x26;creativeASIN=1844805417&#x26;adid=1HD49W3Y9ARMRHTWDRFC&#x26;" />
+  <rdf:li rdf:resource="http://code.google.com/appengine/articles/eclipse.html" />
+  <rdf:li rdf:resource="http://blogs.sun.com/suncom/entry/metadata_tagging_with_gwt" />
+  <rdf:li rdf:resource="http://www.thescreencast.com/2008/06/what-i-like-about-eclipse-34-jdt.html" />
+  <rdf:li rdf:resource="http://help.eclipse.org/stable/index.jsp?topic=/org.eclipse.jdt.doc.user/whatsNew/jdt_whatsnew.html" />
+  <rdf:li rdf:resource="http://www.pathf.com/blogs/2008/06/gwt-showcase-brms-for-jboss-rules/" />
+  <rdf:li rdf:resource="http://java.dzone.com/videos/jim-tyrrell-jboss-developer-st" />
+  <rdf:li rdf:resource="http://safari.informit.com/9781932394856?tocview=true" />
+  <rdf:li rdf:resource="http://www.themeswiki.org/Creating_Themes_for_BIRT" />
+  <rdf:li rdf:resource="http://bicycletutor.com/" />
+  <rdf:li rdf:resource="http://css.dzone.com/news/understanding-gwt-compiler" />
+  <rdf:li rdf:resource="http://code.google.com/p/derjanandhisblog/wiki/GWTGrailsTutorial" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=EX_is9LzFSY" />
+  <rdf:li rdf:resource="http://www.spreadfirefox.com/screencastcontest" />
+  <rdf:li rdf:resource="http://www.youtube.com/view_play_list?p=89854BC9F577BE78" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-06T10:00:49Z</dc:date>
+<dc:subject>windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-06T09:59:12Z</dc:date>
+<dc:subject>blogging</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels) - Scaled (41%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-06T09:57:58Z</dc:date>
+<dc:subject>physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brsilver.com/wordpress/2008/07/05/will-the-bpm-swiftboating-never-cease/">
+<title>Will the BPM SwiftBoating Never Cease? - BPMS Watch</title>
+<link>http://www.brsilver.com/wordpress/2008/07/05/will-the-bpm-swiftboating-never-cease/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T19:55:22Z</dc:date>
+<dc:subject>bpm bpmn</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bpm" />
+    <rdf:li resource="http://del.icio.us/tag/bpmn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T08:13:08Z</dc:date>
+<dc:subject>webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safari.informit.com/9780470148310?tocview=true">
+<title>InformIT: Safari Books Online - 9780470148310 - Virtualization For Dummies&#xAE;</title>
+<link>http://safari.informit.com/9780470148310?tocview=true</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T08:08:47Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safari.informit.com/9780136085669?tocview=true">
+<title>InformIT: Safari Books Online - 9780136085669 - C++ How to Program, Sixth Edition</title>
+<link>http://safari.informit.com/9780136085669?tocview=true</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T08:08:33Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safari.informit.com/9780136085881?tocview=true">
+<title>InformIT: Safari Books Online - 9780136085881 - C How to Program, Fifth Edition</title>
+<link>http://safari.informit.com/9780136085881?tocview=true</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T08:08:22Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safari.informit.com/9780136085676?tocview=true">
+<title>InformIT: Safari Books Online - 9780136085676 - Java&#x2122; How to Program, Seventh Edition</title>
+<link>http://safari.informit.com/9780136085676?tocview=true</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-05T08:08:08Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://newton.typepad.com/content/2008/07/how-web-20-will.html">
+<title>Content Log: How Web 2.0 will change the face of business</title>
+<link>http://newton.typepad.com/content/2008/07/how-web-20-will.html</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-04T06:42:36Z</dc:date>
+<dc:subject>enterprise2.0 web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/enterprise2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/07/Agile-Google-Jeff-Sutherland">
+<title>InfoQ: Presentation: Agile Project Management: Lessons Learned at Google</title>
+<link>http://www.infoq.com/news/2008/07/Agile-Google-Jeff-Sutherland</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-03T16:43:14Z</dc:date>
+<dc:subject>agile google scrum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scrum" />
+    <rdf:li resource="http://del.icio.us/tag/agile" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-03T16:35:33Z</dc:date>
+<dc:subject>schema xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/07/rest-anti-patterns">
+<title>InfoQ: Article: REST Anti-Patterns</title>
+<link>http://www.infoq.com/news/2008/07/rest-anti-patterns</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-07-02T16:16:44Z</dc:date>
+<dc:subject>REST</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/REST" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.websequencediagrams.com/">
+<title>Web-Based UML Sequence Diagram / MSC Generator</title>
+<link>http://www.websequencediagrams.com/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-27T18:56:38Z</dc:date>
+<dc:subject>sequence uml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/uml" />
+    <rdf:li resource="http://del.icio.us/tag/sequence" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freeiconsweb.com/">
+<title>Free Icons Web - Free Icons,Free Icons Download,Free Desktop Icons,Royalty Free icons</title>
+<link>http://www.freeiconsweb.com/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-27T18:51:30Z</dc:date>
+<dc:subject>icons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.metawidget.org/">
+<title>Metawidget</title>
+<link>http://www.metawidget.org/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-27T18:42:36Z</dc:date>
+<dc:subject>gwt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/dp/1844805417?tag=thescrblo-20&#x26;camp=211493&#x26;creative=379981&#x26;linkCode=op1&#x26;creativeASIN=1844805417&#x26;adid=1HD49W3Y9ARMRHTWDRFC&#x26;">
+<title>Amazon.com: Dynamic Web Application Development With Xml and Java: David Parsons: Books</title>
+<link>http://www.amazon.com/dp/1844805417?tag=thescrblo-20&#x26;camp=211493&#x26;creative=379981&#x26;linkCode=op1&#x26;creativeASIN=1844805417&#x26;adid=1HD49W3Y9ARMRHTWDRFC&#x26;</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-26T16:02:38Z</dc:date>
+<dc:subject>books</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/appengine/articles/eclipse.html">
+<title>Configuring Eclipse on Windows to Use With Google App Engine - Google App Engine - Google Code</title>
+<link>http://code.google.com/appengine/articles/eclipse.html</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-26T12:44:06Z</dc:date>
+<dc:subject>gae todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gae" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/suncom/entry/metadata_tagging_with_gwt">
+<title>Metadata Tagging with GWT : SunCom T&#x26;R Engineering Blog</title>
+<link>http://blogs.sun.com/suncom/entry/metadata_tagging_with_gwt</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-25T19:16:03Z</dc:date>
+<dc:subject>gwt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thescreencast.com/2008/06/what-i-like-about-eclipse-34-jdt.html">
+<title>What I like about Eclipse 3.4 JDT</title>
+<link>http://www.thescreencast.com/2008/06/what-i-like-about-eclipse-34-jdt.html</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-25T18:17:48Z</dc:date>
+<dc:subject>eclipse ganymede java programming refactoring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/refactoring" />
+    <rdf:li resource="http://del.icio.us/tag/ganymede" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://help.eclipse.org/stable/index.jsp?topic=/org.eclipse.jdt.doc.user/whatsNew/jdt_whatsnew.html">
+<title>Help - Eclipse SDK</title>
+<link>http://help.eclipse.org/stable/index.jsp?topic=/org.eclipse.jdt.doc.user/whatsNew/jdt_whatsnew.html</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-25T09:59:24Z</dc:date>
+<dc:subject>screencasting todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screencasting" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pathf.com/blogs/2008/06/gwt-showcase-brms-for-jboss-rules/">
+<title>Pathfinder Development &#xBB; GWT Showcase - BRMS for JBoss Rules</title>
+<link>http://www.pathf.com/blogs/2008/06/gwt-showcase-brms-for-jboss-rules/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-23T10:28:28Z</dc:date>
+<dc:subject>gwt jboss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.dzone.com/videos/jim-tyrrell-jboss-developer-st">
+<title>Seam and Hibernate Development with JBoss | Javalobby</title>
+<link>http://java.dzone.com/videos/jim-tyrrell-jboss-developer-st</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-20T16:54:14Z</dc:date>
+<dc:subject>jboss seam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seam" />
+    <rdf:li resource="http://del.icio.us/tag/jboss" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://safari.informit.com/9781932394856?tocview=true">
+<title>InformIT: Safari Books Online - 9781932394856 - Test Driven: Practical TDD and Acceptance TDD for Java Developers</title>
+<link>http://safari.informit.com/9781932394856?tocview=true</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-20T07:02:58Z</dc:date>
+<dc:subject>books tdd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/tdd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.themeswiki.org/Creating_Themes_for_BIRT">
+<title>Creating Themes for BIRT - ThemesWiki</title>
+<link>http://www.themeswiki.org/Creating_Themes_for_BIRT</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-19T08:16:09Z</dc:date>
+<dc:subject>birt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/birt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bicycletutor.com/">
+<title>The Bicycle Tutor - Bike Repair Video Tutorials</title>
+<link>http://bicycletutor.com/</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-19T06:53:31Z</dc:date>
+<dc:subject>bicycle fitness</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fitness" />
+    <rdf:li resource="http://del.icio.us/tag/bicycle" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.dzone.com/news/understanding-gwt-compiler">
+<title>Understanding the GWT compiler | Web Builder Zone</title>
+<link>http://css.dzone.com/news/understanding-gwt-compiler</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-18T07:07:19Z</dc:date>
+<dc:subject>gwt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/derjanandhisblog/wiki/GWTGrailsTutorial">
+<title>GWTGrailsTutorial - derjanandhisblog - Google Code</title>
+<link>http://code.google.com/p/derjanandhisblog/wiki/GWTGrailsTutorial</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-18T07:06:01Z</dc:date>
+<dc:subject>grails gwt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/grails" />
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=EX_is9LzFSY">
+<title>YouTube - Calculus in 20 Minutes Part 1</title>
+<link>http://www.youtube.com/watch?v=EX_is9LzFSY</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-14T08:55:03Z</dc:date>
+<dc:subject>calculus math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/calculus" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spreadfirefox.com/screencastcontest">
+<title>Firefox Screencast Contest | Spread Firefox</title>
+<link>http://www.spreadfirefox.com/screencastcontest</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-13T17:30:28Z</dc:date>
+<dc:subject>todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/view_play_list?p=89854BC9F577BE78">
+<title>YouTube - Broadcast Yourself.</title>
+<link>http://www.youtube.com/view_play_list?p=89854BC9F577BE78</link>
+<description></description>
+<dc:creator>vojko</dc:creator>
+<dc:date>2008-06-13T08:12:36Z</dc:date>
+<dc:subject>gwt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gwt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

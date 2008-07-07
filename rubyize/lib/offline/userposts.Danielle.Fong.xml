@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/danielle.fong">
+<title>del.icio.us/danielle.fong</title>
+<link>http://del.icio.us/danielle.fong</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.paulgraham.com/knuth.html" />
+  <rdf:li rdf:resource="http://en.design-noir.de/" />
+  <rdf:li rdf:resource="http://www.theoildrum.com/node/4238" />
+  <rdf:li rdf:resource="http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl" />
+  <rdf:li rdf:resource="http://nitpicker.pbwiki.com/The+Humane+Interface" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html" />
+  <rdf:li rdf:resource="http://cometdaily.com/2008/07/01/sockets-in-the-browser/" />
+  <rdf:li rdf:resource="http://rchi.raskincenter.org/index.php?title=ZUI_Specification" />
+  <rdf:li rdf:resource="http://azarask.in/blog/post/firefox-mobile-concept-video/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Archy" />
+  <rdf:li rdf:resource="http://www.businessweek.com/technology/content/mar2005/tc2005031_2111_tc120.htm" />
+  <rdf:li rdf:resource="http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html" />
+  <rdf:li rdf:resource="http://labs.mozilla.com/contests/extendfirefox3/developer.php" />
+  <rdf:li rdf:resource="http://wiki.mozilla.org/ExtendFirefox2" />
+  <rdf:li rdf:resource="http://developer.mozilla.org/en/docs/Firefox_3_for_developers" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/3919" />
+  <rdf:li rdf:resource="http://www.gdargaud.net/Humor/QuotesProgramming.html" />
+  <rdf:li rdf:resource="http://www.krsaborio.net/research/1980s/89/890423.htm" />
+  <rdf:li rdf:resource="http://humanized.com/weblog/2006/05/12/interface_math_1/" />
+  <rdf:li rdf:resource="http://jef.raskincenter.org/unpublished/book_reviews.html" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=-6856727143023456694" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=z6hoPw5hItY" />
+  <rdf:li rdf:resource="http://make3d.stanford.edu/" />
+  <rdf:li rdf:resource="http://mobile2.wsj.com/device/html_article.php?id=1&#x26;CALL_URL=http://online.wsj.com%2Farticle%2FSB121372804603481659.html" />
+  <rdf:li rdf:resource="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html" />
+  <rdf:li rdf:resource="http://slowmuse.wordpress.com/2008/06/08/cities-and-ambition-paul-graham/" />
+  <rdf:li rdf:resource="http://radar.oreilly.com/archives/2008/06/the-new-internet-traffic-spike.html" />
+  <rdf:li rdf:resource="http://andrewchen.typepad.com/andrew_chens_blog/2008/06/25-reasons-users-stop-using-your-product-an-analysis-of-customer-lifecycle.html" />
+  <rdf:li rdf:resource="http://www.playareacode.com/manifesto.html" />
+  <rdf:li rdf:resource="http://www.techcrunch.com/2007/12/05/buy-a-virtual-gift-and-fight-malaria/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-06T02:18:01Z</dc:date>
+<dc:subject>Learning MIT advice ai career howto research success tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+    <rdf:li resource="http://del.icio.us/tag/success" />
+    <rdf:li resource="http://del.icio.us/tag/MIT" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paulgraham.com/knuth.html">
+<title>Knuth: Computer Programming as an Art</title>
+<link>http://www.paulgraham.com/knuth.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-05T08:26:47Z</dc:date>
+<dc:subject>art computer hackers knuth languages of philosophy programming science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/knuth" />
+    <rdf:li resource="http://del.icio.us/tag/hackers" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/of" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.design-noir.de/">
+<title>design noir</title>
+<link>http://en.design-noir.de/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-04T20:24:09Z</dc:date>
+<dc:subject>design development extension firefox framework programming web web2.0 webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theoildrum.com/node/4238">
+<title>The Oil Drum | Energy Transitions Past and Future</title>
+<link>http://www.theoildrum.com/node/4238</link>
+<description>Really interesting wide view of the energy transition, picked up from the O'Reilly Radar.</description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-04T19:26:48Z</dc:date>
+<dc:subject>Education analysis energy environment green sustainability technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+    <rdf:li resource="http://del.icio.us/tag/energy" />
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/green" />
+    <rdf:li resource="http://del.icio.us/tag/sustainability" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl">
+<title>Face value | Virtual competition | Economist.com</title>
+<link>http://www.economist.com/research/articlesBySubject/displayStory.cfm?story_id=11662168&#x26;subjectID=348909&#x26;fsrc=nwl</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-04T19:00:11Z</dc:date>
+<dc:subject>Management business femhack feminism vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/femhack" />
+    <rdf:li resource="http://del.icio.us/tag/feminism" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+    <rdf:li resource="http://del.icio.us/tag/Management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nitpicker.pbwiki.com/The+Humane+Interface">
+<title>Nitpicker wiki / The Humane Interface</title>
+<link>http://nitpicker.pbwiki.com/The+Humane+Interface</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T21:42:07Z</dc:date>
+<dc:subject>UI Usability hci humane interface ux webdesign wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humane" />
+    <rdf:li resource="http://del.icio.us/tag/hci" />
+    <rdf:li resource="http://del.icio.us/tag/Usability" />
+    <rdf:li resource="http://del.icio.us/tag/UI" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html">
+<title>Stevey's Blog Rants: Good Agile, Bad Agile</title>
+<link>http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T21:06:46Z</dc:date>
+<dc:subject>Culture Management Organization architecture awesome business engineering entrepreneurship google hiring incentives innovation inspiration philosophy productivity programming softwareengineering startup yegge</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/softwareengineering" />
+    <rdf:li resource="http://del.icio.us/tag/Management" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/yegge" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/incentives" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/Organization" />
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/hiring" />
+    <rdf:li resource="http://del.icio.us/tag/Culture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cometdaily.com/2008/07/01/sockets-in-the-browser/">
+<title>Comet Daily &#xBB; Blog Archive &#xBB; Sockets in the Browser</title>
+<link>http://cometdaily.com/2008/07/01/sockets-in-the-browser/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T19:06:37Z</dc:date>
+<dc:subject>Comet browser javascript webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/Comet" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rchi.raskincenter.org/index.php?title=ZUI_Specification">
+<title>ZUI Specification - Raskin Center</title>
+<link>http://rchi.raskincenter.org/index.php?title=ZUI_Specification</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T09:51:48Z</dc:date>
+<dc:subject>humane</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/humane" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://azarask.in/blog/post/firefox-mobile-concept-video/">
+<title>Aza&#x2019;s Thoughts &#xBB; Blog Archive &#xBB; Firefox Mobile Concept Video</title>
+<link>http://azarask.in/blog/post/firefox-mobile-concept-video/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T08:58:08Z</dc:date>
+<dc:subject>AzaRaskin Video firefox humane innovation mozilla ui ux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mozilla" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/humane" />
+    <rdf:li resource="http://del.icio.us/tag/AzaRaskin" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Archy">
+<title>Archy - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Archy</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T08:50:43Z</dc:date>
+<dc:subject>Archy JefRaskin Usability computers design interface reference software ui ux wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JefRaskin" />
+    <rdf:li resource="http://del.icio.us/tag/Usability" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/Archy" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/technology/content/mar2005/tc2005031_2111_tc120.htm">
+<title>Jef Raskin: He Thought Different</title>
+<link>http://www.businessweek.com/technology/content/mar2005/tc2005031_2111_tc120.htm</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T08:41:03Z</dc:date>
+<dc:subject>Archy AzaRaskin JefRaskin Usability desktop eulogy history humane software ui ux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AzaRaskin" />
+    <rdf:li resource="http://del.icio.us/tag/JefRaskin" />
+    <rdf:li resource="http://del.icio.us/tag/Archy" />
+    <rdf:li resource="http://del.icio.us/tag/ui" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Usability" />
+    <rdf:li resource="http://del.icio.us/tag/humane" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/eulogy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html">
+<title>Computational Complexity: Kurt G&#xF6;del (1906-1978)</title>
+<link>http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T07:51:57Z</dc:date>
+<dc:subject>complexity computation computer computerscience godel science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computation" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/computerscience" />
+    <rdf:li resource="http://del.icio.us/tag/godel" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/complexity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.mozilla.com/contests/extendfirefox3/developer.php">
+<title>Developer Resources | Extend Firefox 3</title>
+<link>http://labs.mozilla.com/contests/extendfirefox3/developer.php</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T06:31:40Z</dc:date>
+<dc:subject>firefox foxglide mozilla programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/mozilla" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/foxglide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.mozilla.org/ExtendFirefox2">
+<title>ExtendFirefox2 - MozillaWiki</title>
+<link>http://wiki.mozilla.org/ExtendFirefox2</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T06:24:10Z</dc:date>
+<dc:subject>foxglide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/foxglide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.mozilla.org/en/docs/Firefox_3_for_developers">
+<title>Firefox 3 for developers - MDC</title>
+<link>http://developer.mozilla.org/en/docs/Firefox_3_for_developers</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T06:21:02Z</dc:date>
+<dc:subject>foxglide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/foxglide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/3919">
+<title>iswitchb-tabs :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/3919</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T06:20:00Z</dc:date>
+<dc:subject>foxglide</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/foxglide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gdargaud.net/Humor/QuotesProgramming.html">
+<title>Computer Programming Quotes</title>
+<link>http://www.gdargaud.net/Humor/QuotesProgramming.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T03:31:33Z</dc:date>
+<dc:subject>Quotes programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Quotes" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.krsaborio.net/research/1980s/89/890423.htm">
+<title>Inside Microsoft - A 'Velvet Sweatshop' or a High-Tech Heaven?</title>
+<link>http://www.krsaborio.net/research/1980s/89/890423.htm</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T03:24:38Z</dc:date>
+<dc:subject>billgates business culture entrepreneurship fascism history microsoft startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/billgates" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/culture" />
+    <rdf:li resource="http://del.icio.us/tag/fascism" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://humanized.com/weblog/2006/05/12/interface_math_1/">
+<title>Humanized &#x3E; Weblog: Interface Math</title>
+<link>http://humanized.com/weblog/2006/05/12/interface_math_1/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T02:15:34Z</dc:date>
+<dc:subject>AzaRaskin UI Usability googlemaps hci interface microsoft ux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googlemaps" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/Usability" />
+    <rdf:li resource="http://del.icio.us/tag/UI" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/hci" />
+    <rdf:li resource="http://del.icio.us/tag/AzaRaskin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jef.raskincenter.org/unpublished/book_reviews.html">
+<title>Jef Raskin - Math and Science Book Reviews</title>
+<link>http://jef.raskincenter.org/unpublished/book_reviews.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T01:22:00Z</dc:date>
+<dc:subject>books jefraskin toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/jefraskin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=-6856727143023456694">
+<title>Away with Applications: The Death of the Desktop</title>
+<link>http://video.google.com/videoplay?docid=-6856727143023456694</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T01:19:56Z</dc:date>
+<dc:subject>AzaRaskin Video computer creativity design userinterface ux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creativity" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/userinterface" />
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/AzaRaskin" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=z6hoPw5hItY">
+<title>YouTube - Authors@Google: Jessica Livingston</title>
+<link>http://www.youtube.com/watch?v=z6hoPw5hItY</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T00:45:00Z</dc:date>
+<dc:subject>Startups Video books business entrepreneurship fun jessicalivingston jl startup web2.0 ycombinator</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jl" />
+    <rdf:li resource="http://del.icio.us/tag/jessicalivingston" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/Startups" />
+    <rdf:li resource="http://del.icio.us/tag/Video" />
+    <rdf:li resource="http://del.icio.us/tag/ycombinator" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://make3d.stanford.edu/">
+<title>Make3D --- convert your image into 3d automatically</title>
+<link>http://make3d.stanford.edu/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-07-01T00:17:37Z</dc:date>
+<dc:subject>3d ai algorithm art computervision graphics photography technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/algorithm" />
+    <rdf:li resource="http://del.icio.us/tag/computervision" />
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mobile2.wsj.com/device/html_article.php?id=1&#x26;CALL_URL=http://online.wsj.com%2Farticle%2FSB121372804603481659.html">
+<title>Talking About Design - WSJ.com - bangandolufsen</title>
+<link>http://mobile2.wsj.com/device/html_article.php?id=1&#x26;CALL_URL=http://online.wsj.com%2Farticle%2FSB121372804603481659.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T23:42:33Z</dc:date>
+<dc:subject>art bangandolufsen beauty design designprocess entrepreneurship industrialdesign inspiration process sculpting startups</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/bangandolufsen" />
+    <rdf:li resource="http://del.icio.us/tag/process" />
+    <rdf:li resource="http://del.icio.us/tag/startups" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneurship" />
+    <rdf:li resource="http://del.icio.us/tag/designprocess" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/industrialdesign" />
+    <rdf:li resource="http://del.icio.us/tag/beauty" />
+    <rdf:li resource="http://del.icio.us/tag/sculpting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html">
+<title>Twin Sunset: This Word, &#x22;Scaling&#x22;</title>
+<link>http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T23:22:06Z</dc:date>
+<dc:subject>concurrency distributed divmod googleappengine mantissa python scalability scaling twisted webapp webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/googleappengine" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/scaling" />
+    <rdf:li resource="http://del.icio.us/tag/webapp" />
+    <rdf:li resource="http://del.icio.us/tag/twisted" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/mantissa" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/divmod" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slowmuse.wordpress.com/2008/06/08/cities-and-ambition-paul-graham/">
+<title>Cities and Ambition: Paul Graham &#xAB; Slow Muse</title>
+<link>http://slowmuse.wordpress.com/2008/06/08/cities-and-ambition-paul-graham/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T15:51:52Z</dc:date>
+<dc:subject>pg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://radar.oreilly.com/archives/2008/06/the-new-internet-traffic-spike.html">
+<title>The new internet traffic spikes - O'Reilly Radar</title>
+<link>http://radar.oreilly.com/archives/2008/06/the-new-internet-traffic-spike.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T10:19:35Z</dc:date>
+<dc:subject>Blog Internet analysis architecture reference scalability traffic viral web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/traffic" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/Internet" />
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/analysis" />
+    <rdf:li resource="http://del.icio.us/tag/viral" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://andrewchen.typepad.com/andrew_chens_blog/2008/06/25-reasons-users-stop-using-your-product-an-analysis-of-customer-lifecycle.html">
+<title>Futuristic Play by Andrew Chen: 25 reasons users STOP using your product: An analysis of customer lifecycle</title>
+<link>http://andrewchen.typepad.com/andrew_chens_blog/2008/06/25-reasons-users-stop-using-your-product-an-analysis-of-customer-lifecycle.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T10:05:37Z</dc:date>
+<dc:subject>Media design reference social socialmetrics startup usability ux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ux" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/socialmetrics" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/Media" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.playareacode.com/manifesto.html">
+<title>area/code</title>
+<link>http://www.playareacode.com/manifesto.html</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T09:24:54Z</dc:date>
+<dc:subject>alternaterealitygames alternaterealitygaming biggames gaming hopolis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/biggames" />
+    <rdf:li resource="http://del.icio.us/tag/alternaterealitygames" />
+    <rdf:li resource="http://del.icio.us/tag/alternaterealitygaming" />
+    <rdf:li resource="http://del.icio.us/tag/hopolis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcrunch.com/2007/12/05/buy-a-virtual-gift-and-fight-malaria/">
+<title>Buy A Virtual Gift And Fight Malaria</title>
+<link>http://www.techcrunch.com/2007/12/05/buy-a-virtual-gift-and-fight-malaria/</link>
+<description></description>
+<dc:creator>Danielle.Fong</dc:creator>
+<dc:date>2008-06-30T09:17:19Z</dc:date>
+<dc:subject>activism advocacy causes facebook hopolis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/advocacy" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+    <rdf:li resource="http://del.icio.us/tag/causes" />
+    <rdf:li resource="http://del.icio.us/tag/hopolis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

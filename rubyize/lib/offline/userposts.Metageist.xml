@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/metageist">
+<title>del.icio.us/metageist</title>
+<link>http://del.icio.us/metageist</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://www.paulspoerry.com/2008/03/30/be-your-own-it-free-computer-repair-tools/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://www.iwebtool.com/" />
+  <rdf:li rdf:resource="http://www.irintech.com/x1/blogarchive.php?id=3415" />
+  <rdf:li rdf:resource="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/" />
+  <rdf:li rdf:resource="http://www.dgp.toronto.edu/~mjmcguff/learn/java/05-keyboardInput/" />
+  <rdf:li rdf:resource="http://www.mysql.com/products/connector/j/" />
+  <rdf:li rdf:resource="http://javaboutique.internet.com/tutorials/Java_Game_Programming/SoundinAppletsEng.html" />
+  <rdf:li rdf:resource="http://orbited.org/blog/2008/07/shapes-on-a-plane/" />
+  <rdf:li rdf:resource="http://flashfabrica.com/f_learning/brain/brain.html" />
+  <rdf:li rdf:resource="http://werkzeug.pocoo.org/documentation/wsgihowto" />
+  <rdf:li rdf:resource="http://learn-networking.com/tcp-ip/an-introduction-to-tcpip" />
+  <rdf:li rdf:resource="http://www.singinst.org/media/interviews/peternorvig" />
+  <rdf:li rdf:resource="https://blueprints.dev.java.net/ajax-faq.html" />
+  <rdf:li rdf:resource="http://nodstrum.com/2007/02/27/ajaxcontentload/" />
+  <rdf:li rdf:resource="http://www.eblong.com/zarf/glk/glkote.html" />
+  <rdf:li rdf:resource="http://freeajaxscript.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.dailygalaxy.com/my_weblog/2008/06/researchers-dev.html" />
+  <rdf:li rdf:resource="http://www.garshol.priv.no/blog/165.html" />
+  <rdf:li rdf:resource="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm" />
+  <rdf:li rdf:resource="http://www.learnmorsecode.com/" />
+  <rdf:li rdf:resource="http://www.vimeo.com/843168" />
+  <rdf:li rdf:resource="http://twitterapps.co.uk/" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts" />
+  <rdf:li rdf:resource="http://wiki.mozilla.org/Releases/Firefox_3.0" />
+  <rdf:li rdf:resource="http://www.webware.com/8300-1_109-2.html" />
+  <rdf:li rdf:resource="http://www-128.ibm.com/developerworks/java/library/j-ajax2/" />
+  <rdf:li rdf:resource="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/" />
+  <rdf:li rdf:resource="http://www.ustream.tv/search/all/iphone%20alley" />
+  <rdf:li rdf:resource="http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-06T09:22:29Z</dc:date>
+<dc:subject>architecture concurrency design j2ee java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/j2ee" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/concurrency" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.paulspoerry.com/2008/03/30/be-your-own-it-free-computer-repair-tools/">
+<title>Be your own IT - Free Computer Repair Tools | PaulSpoerry.com</title>
+<link>http://www.paulspoerry.com/2008/03/30/be-your-own-it-free-computer-repair-tools/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-04T16:13:34Z</dc:date>
+<dc:subject>computer free it security tech tools utilities windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-03T13:01:07Z</dc:date>
+<dc:subject>advertising business clients design freelance marketing sales work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iwebtool.com/">
+<title>Webmaster Tools &#x26; SEO Tools</title>
+<link>http://www.iwebtool.com/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-03T11:16:40Z</dc:date>
+<dc:subject>google internet pagerank search seo tools web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/pagerank" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.irintech.com/x1/blogarchive.php?id=3415">
+<title>Online Spaces to Store All Your Data - Jean's Blog</title>
+<link>http://www.irintech.com/x1/blogarchive.php?id=3415</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-03T10:05:39Z</dc:date>
+<dc:subject>data online storage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/">
+<title>32 Sci-Fi Novels You Should Read | How To Split An Atom</title>
+<link>http://howtosplitanatom.com/news/32-sci-fi-novels-you-should-read/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-03T00:11:45Z</dc:date>
+<dc:subject>books list literature reading scifi toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/scifi" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/reading" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/literature" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dgp.toronto.edu/~mjmcguff/learn/java/05-keyboardInput/">
+<title>Applet Tutorial: Keyboard Input</title>
+<link>http://www.dgp.toronto.edu/~mjmcguff/learn/java/05-keyboardInput/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-02T00:28:36Z</dc:date>
+<dc:subject>applet keyboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/applet" />
+    <rdf:li resource="http://del.icio.us/tag/keyboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mysql.com/products/connector/j/">
+<title>MySQL :: MySQL&#xAE; Connector/J</title>
+<link>http://www.mysql.com/products/connector/j/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-02T00:28:21Z</dc:date>
+<dc:subject>java jdbc mysql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/jdbc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://javaboutique.internet.com/tutorials/Java_Game_Programming/SoundinAppletsEng.html">
+<title>Java(TM) Boutique - The Java Game Development Tutorial - Page 6</title>
+<link>http://javaboutique.internet.com/tutorials/Java_Game_Programming/SoundinAppletsEng.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-02T00:28:05Z</dc:date>
+<dc:subject>GAMES JAVA</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/JAVA" />
+    <rdf:li resource="http://del.icio.us/tag/GAMES" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://orbited.org/blog/2008/07/shapes-on-a-plane/">
+<title>Orbited Blog &#xBB; Blog Archive &#xBB; Shapes on a Plane</title>
+<link>http://orbited.org/blog/2008/07/shapes-on-a-plane/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-01T11:54:56Z</dc:date>
+<dc:subject>graphics javascript shapes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/shapes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flashfabrica.com/f_learning/brain/brain.html">
+<title>&#x8133;&#x5E74;&#x9F62;&#x30C6;&#x30B9;&#x30C8;01 &#x8133;&#x30C8;&#x30EC;&#x77AC;&#x9593;&#x8A18;&#x61B6;</title>
+<link>http://flashfabrica.com/f_learning/brain/brain.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-07-01T09:51:28Z</dc:date>
+<dc:subject>brain flash game games test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://werkzeug.pocoo.org/documentation/wsgihowto">
+<title>How WSGI Works // Werkzeug</title>
+<link>http://werkzeug.pocoo.org/documentation/wsgihowto</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-30T19:44:36Z</dc:date>
+<dc:subject>wsgi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wsgi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://learn-networking.com/tcp-ip/an-introduction-to-tcpip">
+<title>An Introduction To Tcp/Ip : Learn-Networking.com</title>
+<link>http://learn-networking.com/tcp-ip/an-introduction-to-tcpip</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-30T19:42:28Z</dc:date>
+<dc:subject>computer network networking tcpip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/tcpip" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.singinst.org/media/interviews/peternorvig">
+<title>Dr. Peter Norvig | The Singularity Institute for Artificial Intelligence</title>
+<link>http://www.singinst.org/media/interviews/peternorvig</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-27T20:04:25Z</dc:date>
+<dc:subject>ai google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://blueprints.dev.java.net/ajax-faq.html">
+<title>blueprints: AJAX FAQ for the Java Developer</title>
+<link>https://blueprints.dev.java.net/ajax-faq.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-27T14:12:33Z</dc:date>
+<dc:subject>ajax development faq java javascript programming reference web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/faq" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nodstrum.com/2007/02/27/ajaxcontentload/">
+<title>AJAX/PHP - the beginners guide to loading external content - Nodstrum</title>
+<link>http://nodstrum.com/2007/02/27/ajaxcontentload/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-27T11:30:45Z</dc:date>
+<dc:subject>ajax code php prototype tutorials web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eblong.com/zarf/glk/glkote.html">
+<title>GlkOte: a Javascript library for IF interfaces</title>
+<link>http://www.eblong.com/zarf/glk/glkote.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-27T07:28:02Z</dc:date>
+<dc:subject>Javascript commandprompt fiction interactive</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/interactive" />
+    <rdf:li resource="http://del.icio.us/tag/fiction" />
+    <rdf:li resource="http://del.icio.us/tag/commandprompt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freeajaxscript.blogspot.com/">
+<title>Ajax Script Free web Develop</title>
+<link>http://freeajaxscript.blogspot.com/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-26T14:09:35Z</dc:date>
+<dc:subject>ajax development free tools web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailygalaxy.com/my_weblog/2008/06/researchers-dev.html">
+<title>Will a Computer &#x201C;Symbiote&#x201D; be Implanted in Future Human Brains?</title>
+<link>http://www.dailygalaxy.com/my_weblog/2008/06/researchers-dev.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-26T09:23:24Z</dc:date>
+<dc:subject>brain ideas science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.garshol.priv.no/blog/165.html">
+<title>On robots, URL design, and bad optimization | Larsblog</title>
+<link>http://www.garshol.priv.no/blog/165.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-25T19:56:20Z</dc:date>
+<dc:subject>optimization programming url web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm">
+<title>Sin &#x26; Cos: The Programmer's Pals!</title>
+<link>http://pixwiki.bafsoft.com/mags/5/articles/circle/sincos.htm</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-23T09:53:46Z</dc:date>
+<dc:subject>algorithms cos games graphics math programming sin trigonometry</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/games" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/trigonometry" />
+    <rdf:li resource="http://del.icio.us/tag/sin" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/cos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learnmorsecode.com/">
+<title>learn morse code</title>
+<link>http://www.learnmorsecode.com/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-21T23:59:48Z</dc:date>
+<dc:subject>howto language morse morsecode reference tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/morsecode" />
+    <rdf:li resource="http://del.icio.us/tag/morse" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/language" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vimeo.com/843168">
+<title>Enkin on Vimeo</title>
+<link>http://www.vimeo.com/843168</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-20T11:13:49Z</dc:date>
+<dc:subject>google map mapping maps video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/mapping" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitterapps.co.uk/">
+<title>Twitter Apps</title>
+<link>http://twitterapps.co.uk/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-20T09:14:12Z</dc:date>
+<dc:subject>applications apps list tools twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/applications" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts">
+<title>Perfect multi-column CSS liquid layouts - iPhone compatible</title>
+<link>http://matthewjamestaylor.com/blog/perfect-multi-column-liquid-layouts</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-18T14:57:43Z</dc:date>
+<dc:subject>awesome blog css design layout liquid templates webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/liquid" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.mozilla.org/Releases/Firefox_3.0">
+<title>Releases/Firefox 3.0 - MozillaWiki</title>
+<link>http://wiki.mozilla.org/Releases/Firefox_3.0</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-17T14:14:48Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webware.com/8300-1_109-2.html">
+<title>Webware : Cool Web apps for everyone - CNET</title>
+<link>http://www.webware.com/8300-1_109-2.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-12T15:39:29Z</dc:date>
+<dc:subject>apps blog computer software technology tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/apps" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-128.ibm.com/developerworks/java/library/j-ajax2/">
+<title>Ajax for Java developers: Java object serialization for Ajax</title>
+<link>http://www-128.ibm.com/developerworks/java/library/j-ajax2/</link>
+<description>JSONObject json = new JSONObject();</description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-11T14:44:15Z</dc:date>
+<dc:subject>ajax java javascript json programming tutorial xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/json" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/">
+<title>Readers&#x2019; Pick: 16 Sites for Web Design Inspiration - Six Revisions</title>
+<link>http://sixrevisions.com/web_design/16_sites_web_design_inspiratio/</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-10T08:20:29Z</dc:date>
+<dc:subject>css design ideas inspiration web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ideas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ustream.tv/search/all/iphone%20alley">
+<title>Ustream.TV search: iphone alley - Shows, People, Videos. Live and recorded video clips, chat rooms, photos, .TV channels, events, news.</title>
+<link>http://www.ustream.tv/search/all/iphone%20alley</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-09T15:33:00Z</dc:date>
+<dc:subject>alley iphone stream</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stream" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/alley" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html">
+<title>Pictures From the Sky</title>
+<link>http://files.kavefish.com/pictures/collections/pictures_from_the_sky/_index-list.html</link>
+<description></description>
+<dc:creator>Metageist</dc:creator>
+<dc:date>2008-06-09T08:53:09Z</dc:date>
+<dc:subject>aerial amazing awesome cool images photography photos pictures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/aerial" />
+    <rdf:li resource="http://del.icio.us/tag/pictures" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

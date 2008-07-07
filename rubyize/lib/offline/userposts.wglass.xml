@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/wglass">
+<title>del.icio.us/wglass</title>
+<link>http://del.icio.us/wglass</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications" />
+  <rdf:li rdf:resource="http://forums.digium.com/viewtopic.php?t=21667&#x26;highlight=dial+macro" />
+  <rdf:li rdf:resource="http://forums.digium.com/viewtopic.php?t=22820&#x26;highlight=dial+macro" />
+  <rdf:li rdf:resource="http://www.wired.com/gadgets/mac/commentary/cultofmac/2002/08/54370" />
+  <rdf:li rdf:resource="http://natishalom.typepad.com/nati_shaloms_blog/2008/05/twitter-as-an-e.html" />
+  <rdf:li rdf:resource="http://www.boxesandarrows.com/view/implementing_a_pattern_library_in_the_real_world_a_yahoo_case_study" />
+  <rdf:li rdf:resource="http://livedocs.adobe.com/flex/2/langref/flash/display/Loader.html" />
+  <rdf:li rdf:resource="http://www.rockonflash.com/blog/?p=12" />
+  <rdf:li rdf:resource="http://blog.flexcommunity.net/?p=35" />
+  <rdf:li rdf:resource="http://flexcubed.com/component_details.php?id=f612357745eea909b1141313093bd374" />
+  <rdf:li rdf:resource="http://initapp.com/2008/03/13/how-to-get-safari-technical-books-online-for-free-more/" />
+  <rdf:li rdf:resource="http://www.ilikespam.com/blog/monitoring-the-jvm-with-snmp" />
+  <rdf:li rdf:resource="http://www.jroller.com/maximdim/entry/monitoring_jvm_with_mrtg_part" />
+  <rdf:li rdf:resource="http://www.saas.nsw.edu.au/solutions/dns.html" />
+  <rdf:li rdf:resource="http://agiletesting.blogspot.com/2005/04/more-on-performance-vs-load-testing.html" />
+  <rdf:li rdf:resource="http://jha.rajeev.googlepages.com/web2push" />
+  <rdf:li rdf:resource="http://www.nabble.com/Effect-of-MaxThreads-td14796536.html" />
+  <rdf:li rdf:resource="http://www.mail-archive.com/users@tomcat.apache.org/msg35194.html" />
+  <rdf:li rdf:resource="http://www.allthingsdistributed.com/2008/03/on_the_road_to_highly_availabl.html" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-03-2008/jw-03-asynchhttp.html?page=6" />
+  <rdf:li rdf:resource="http://www.artima.com/forums/flat.jsp?forum=276&#x26;thread=226902" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/" />
+  <rdf:li rdf:resource="http://www.joelhainley.com/index.php/2008/02/20/setting-up-googles-reflexutil-for-debugging-flex-applications/" />
+  <rdf:li rdf:resource="http://www.webhostingtalk.com/archive/index.php/t-634438.html" />
+  <rdf:li rdf:resource="http://probrewer.com/news/news-002043.php" />
+  <rdf:li rdf:resource="http://www.bevnetwork.com/monthly_issue_article.asp?ID=41" />
+  <rdf:li rdf:resource="https://portal.vitelity.net/main/signup/signup.php" />
+  <rdf:li rdf:resource="http://exgn.net/" />
+  <rdf:li rdf:resource="http://www.zingotel.com/online/en/" />
+  <rdf:li rdf:resource="http://www.nikotel.com/home.html" />
+  <rdf:li rdf:resource="http://www.nufone.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications">
+<title>Enterprise Java Community: Scaling Your Java EE Applications</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=ScalingYourJavaEEApplications</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-07-06T03:44:05Z</dc:date>
+<dc:subject>architecture java performance scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.digium.com/viewtopic.php?t=21667&#x26;highlight=dial+macro">
+<title>Asterisk Forums :: View topic - music on hold after dial macro call</title>
+<link>http://forums.digium.com/viewtopic.php?t=21667&#x26;highlight=dial+macro</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-06-21T17:19:42Z</dc:date>
+<dc:subject>asterisk support</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.digium.com/viewtopic.php?t=22820&#x26;highlight=dial+macro">
+<title>Asterisk Forums :: View topic - Music On Hold</title>
+<link>http://forums.digium.com/viewtopic.php?t=22820&#x26;highlight=dial+macro</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-06-21T17:18:41Z</dc:date>
+<dc:subject>asterisk support</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/gadgets/mac/commentary/cultofmac/2002/08/54370">
+<title>HyperCard: What Could Have Been</title>
+<link>http://www.wired.com/gadgets/mac/commentary/cultofmac/2002/08/54370</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-05-26T02:01:13Z</dc:date>
+<dc:subject>computer history software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://natishalom.typepad.com/nati_shaloms_blog/2008/05/twitter-as-an-e.html">
+<title>Nati Shalom's Blog: Twitter as a scalability case study</title>
+<link>http://natishalom.typepad.com/nati_shaloms_blog/2008/05/twitter-as-an-e.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-05-20T15:46:56Z</dc:date>
+<dc:subject>architecture scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boxesandarrows.com/view/implementing_a_pattern_library_in_the_real_world_a_yahoo_case_study">
+<title>Implementing a Pattern Library in the Real World: A Yahoo! Case Study - Boxes and Arrows: The design behind the design</title>
+<link>http://www.boxesandarrows.com/view/implementing_a_pattern_library_in_the_real_world_a_yahoo_case_study</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-05-16T17:58:50Z</dc:date>
+<dc:subject>ajax api design patterns usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://livedocs.adobe.com/flex/2/langref/flash/display/Loader.html">
+<title>Loader - Adobe&#xAE; Flex&#x2122; 2 Language Reference</title>
+<link>http://livedocs.adobe.com/flex/2/langref/flash/display/Loader.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-24T17:35:50Z</dc:date>
+<dc:subject>embedding flash flex howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/embedding" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rockonflash.com/blog/?p=12">
+<title>RockOnFlash \m/ :: John Grden &#xBB; Red5 Flex2/AS3 Demo :: FLV Stream Player</title>
+<link>http://www.rockonflash.com/blog/?p=12</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-24T17:17:40Z</dc:date>
+<dc:subject>component flex video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/component" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.flexcommunity.net/?p=35">
+<title>Flex Community Blog &#xBB; Blog Archive &#xBB; Improved Flex Flv Player with XML playlist</title>
+<link>http://blog.flexcommunity.net/?p=35</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-24T17:14:20Z</dc:date>
+<dc:subject>component flex player video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/component" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/player" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flexcubed.com/component_details.php?id=f612357745eea909b1141313093bd374">
+<title>Flexcubed V.4 - Components Gallery...</title>
+<link>http://flexcubed.com/component_details.php?id=f612357745eea909b1141313093bd374</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-24T17:08:53Z</dc:date>
+<dc:subject>component flash flex video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/component" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://initapp.com/2008/03/13/how-to-get-safari-technical-books-online-for-free-more/">
+<title>How to get Safari Technical Books Online for free +more at initApp</title>
+<link>http://initapp.com/2008/03/13/how-to-get-safari-technical-books-online-for-free-more/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-13T07:24:47Z</dc:date>
+<dc:subject>book library safari sanfrancisco</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/safari" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/sanfrancisco" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ilikespam.com/blog/monitoring-the-jvm-with-snmp">
+<title>I Like Spam :: Monitoring the JVM with SNMP</title>
+<link>http://www.ilikespam.com/blog/monitoring-the-jvm-with-snmp</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-03T00:01:32Z</dc:date>
+<dc:subject>java jvm monitoring snmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/snmp" />
+    <rdf:li resource="http://del.icio.us/tag/jvm" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/maximdim/entry/monitoring_jvm_with_mrtg_part">
+<title>MaximDim : Dmitri Maximovich's notebook</title>
+<link>http://www.jroller.com/maximdim/entry/monitoring_jvm_with_mrtg_part</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-04-02T23:42:12Z</dc:date>
+<dc:subject>java jvm monitoring snmp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+    <rdf:li resource="http://del.icio.us/tag/jvm" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/snmp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.saas.nsw.edu.au/solutions/dns.html">
+<title>SAAS - How To Solve DNS and EMail Validation Problems</title>
+<link>http://www.saas.nsw.edu.au/solutions/dns.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-31T23:36:40Z</dc:date>
+<dc:subject>dns email hosting spam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/spam" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://agiletesting.blogspot.com/2005/04/more-on-performance-vs-load-testing.html">
+<title>Agile Testing: More on performance vs. load testing</title>
+<link>http://agiletesting.blogspot.com/2005/04/more-on-performance-vs-load-testing.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-31T21:01:59Z</dc:date>
+<dc:subject>loadtesting scalability testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/loadtesting" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jha.rajeev.googlepages.com/web2push">
+<title>jha.rajeev - Tuning apache and tomcat for web 2.0 comet applications</title>
+<link>http://jha.rajeev.googlepages.com/web2push</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-31T03:21:06Z</dc:date>
+<dc:subject>maxthreads scalability tomcat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tomcat" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/maxthreads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nabble.com/Effect-of-MaxThreads-td14796536.html">
+<title>Nabble - Tomcat - User - Effect of MaxThreads</title>
+<link>http://www.nabble.com/Effect-of-MaxThreads-td14796536.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-31T03:15:51Z</dc:date>
+<dc:subject>maxthreads scalability tomcat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maxthreads" />
+    <rdf:li resource="http://del.icio.us/tag/tomcat" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mail-archive.com/users@tomcat.apache.org/msg35194.html">
+<title>Re: Tomcat maxThreads</title>
+<link>http://www.mail-archive.com/users@tomcat.apache.org/msg35194.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-31T03:09:53Z</dc:date>
+<dc:subject>maxthreads scalability tomcat</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tomcat" />
+    <rdf:li resource="http://del.icio.us/tag/maxthreads" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.allthingsdistributed.com/2008/03/on_the_road_to_highly_availabl.html">
+<title>On the Road to Highly Available EC2 Applications - All Things Distributed</title>
+<link>http://www.allthingsdistributed.com/2008/03/on_the_road_to_highly_availabl.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-29T17:39:42Z</dc:date>
+<dc:subject>amazon ec2 scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-03-2008/jw-03-asynchhttp.html?page=6">
+<title>Asynchronous HTTP and Comet architectures - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-03-2008/jw-03-asynchhttp.html?page=6</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-24T14:36:49Z</dc:date>
+<dc:subject>ajax comet java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comet" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/forums/flat.jsp?forum=276&#x26;thread=226902">
+<title>Java Community News - Nine Rich Text Editors Reviewed</title>
+<link>http://www.artima.com/forums/flat.jsp?forum=276&#x26;thread=226902</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-16T03:53:04Z</dc:date>
+<dc:subject>ajax broadcast web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/broadcast" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/">
+<title>Coding Horror: What's Wrong with Turkey</title>
+<link>http://www.codinghorror.com/blog/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-16T03:37:13Z</dc:date>
+<dc:subject>i18n software testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/i18n" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.joelhainley.com/index.php/2008/02/20/setting-up-googles-reflexutil-for-debugging-flex-applications/">
+<title>Setting up Google&#x2019;s ReflexUtil for debugging flex applications | Joel Hainley : San Francisco Bay Area Software Consultant</title>
+<link>http://www.joelhainley.com/index.php/2008/02/20/setting-up-googles-reflexutil-for-debugging-flex-applications/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-11T15:21:09Z</dc:date>
+<dc:subject>flex library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webhostingtalk.com/archive/index.php/t-634438.html">
+<title>VOIP Providers Review (LES, Vitelity &#x26; VoipJet) [Archive] - Web Hosting Talk</title>
+<link>http://www.webhostingtalk.com/archive/index.php/t-634438.html</link>
+<description>Commpartners</description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-10T22:00:26Z</dc:date>
+<dc:subject>reviews voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/reviews" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://probrewer.com/news/news-002043.php">
+<title>ProBrewer: A Resource Site For The Beer Industry</title>
+<link>http://probrewer.com/news/news-002043.php</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-04T21:53:50Z</dc:date>
+<dc:subject>beer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bevnetwork.com/monthly_issue_article.asp?ID=41">
+<title>BevNetwork, The Beverage Network - liquor wholesale, wine store, wholesale wine, wine merchant, wine retail, beverage industry, Beverage Media Group</title>
+<link>http://www.bevnetwork.com/monthly_issue_article.asp?ID=41</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-04T21:41:23Z</dc:date>
+<dc:subject>beer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/beer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://portal.vitelity.net/main/signup/signup.php">
+<title>Vitelity Communications, Inc.</title>
+<link>https://portal.vitelity.net/main/signup/signup.php</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-04T06:35:48Z</dc:date>
+<dc:subject>asterisk provider sip voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+    <rdf:li resource="http://del.icio.us/tag/provider" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://exgn.net/">
+<title>Exgn Link! - Asterisk / IAX &#x26; SIP Termination Services</title>
+<link>http://exgn.net/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-04T06:31:06Z</dc:date>
+<dc:subject>asterisk provider sip voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+    <rdf:li resource="http://del.icio.us/tag/provider" />
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zingotel.com/online/en/">
+<title>ZingoTel</title>
+<link>http://www.zingotel.com/online/en/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-03-03T20:20:13Z</dc:date>
+<dc:subject>provider sip voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+    <rdf:li resource="http://del.icio.us/tag/provider" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nikotel.com/home.html">
+<title>nikotel VoIP Network - excellent Voice and IP Communication Service for business and consumer</title>
+<link>http://www.nikotel.com/home.html</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-02-29T18:15:25Z</dc:date>
+<dc:subject>asterisk provider sip voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/provider" />
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nufone.net/">
+<title>Nufone SIP and IAX VoIP Services</title>
+<link>http://www.nufone.net/</link>
+<description></description>
+<dc:creator>wglass</dc:creator>
+<dc:date>2008-02-29T18:10:03Z</dc:date>
+<dc:subject>asterisk provider service sip voip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sip" />
+    <rdf:li resource="http://del.icio.us/tag/voip" />
+    <rdf:li resource="http://del.icio.us/tag/provider" />
+    <rdf:li resource="http://del.icio.us/tag/service" />
+    <rdf:li resource="http://del.icio.us/tag/asterisk" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

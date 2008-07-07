@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/snearch">
+<title>del.icio.us/snearch</title>
+<link>http://del.icio.us/snearch</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.copyblogger.com/freelance-articles/" />
+  <rdf:li rdf:resource="http://www.tummy.com/journals/entries/jafo_20080705_130814" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/,tt7m1/reise/artikel/817/184242/" />
+  <rdf:li rdf:resource="http://www.spiegel.de/politik/deutschland/0,1518,564086,00.html" />
+  <rdf:li rdf:resource="http://www.alcatel-lucent.com/wps/portal/NewsReleases/DetailLucent?LMSG_CABINET=Docs_and_Resource_Ctr&#x26;LMSG_CONTENT_FILE=News_Releases_LU_2000/LU_News_Article_003861.xml" />
+  <rdf:li rdf:resource="http://swtch.com/9vx/" />
+  <rdf:li rdf:resource="http://www.reddit.com/r/programming/info/6qblh/comments/" />
+  <rdf:li rdf:resource="http://www.spiegel.de/wissenschaft/mensch/0,1518,564089,00.html" />
+  <rdf:li rdf:resource="http://www.beckingham.net/task.html" />
+  <rdf:li rdf:resource="http://blamcast.net/articles/orphaned-works-open-source-copyright" />
+  <rdf:li rdf:resource="http://www.spiegel.de/sport/sonst/0,1518,564084,00.html" />
+  <rdf:li rdf:resource="http://www.spiegel.de/politik/deutschland/0,1518,564054,00.html" />
+  <rdf:li rdf:resource="http://www.reddit.com/info/6qc9s/comments/" />
+  <rdf:li rdf:resource="http://www.alternate.de/html/product/Grafikkarten_NVIDIA_PCIe/Asus/EN7300GT_Silent-HTD-256M/156023/?articleId=156023&#x26;tn=HARDWARE&#x26;l1=Grafik&#x26;l2=Karten+PCIe&#x26;l3=NVIDIA" />
+  <rdf:li rdf:resource="http://www.alternate.de/html/product/Mainboards_Sockel_775/GigaByte/GA-EP35-DS3/242771/?articleId=242771" />
+  <rdf:li rdf:resource="http://www.alternate.de/html/product/Arbeitsspeicher_DDR2-800/MDT/DIMM_2_GB_DDR2-800_Kit/148719/?articleId=148719" />
+  <rdf:li rdf:resource="http://www.alternate.de/html/product/CPU_Sockel_775_Pentium/Intel(R)/Pentium_Dual-Core_E2140/210625/?articleId=210625" />
+  <rdf:li rdf:resource="http://www.heise.de/ct/08/15/092/" />
+  <rdf:li rdf:resource="http://www.spiegel.de/politik/deutschland/0,1518,564024,00.html" />
+  <rdf:li rdf:resource="http://www.spiegel.de/politik/deutschland/0,1518,564029,00.html" />
+  <rdf:li rdf:resource="http://www.spiegel.de/politik/deutschland/0,1518,563955,00.html" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/,ra9m1/finanzen/artikel/827/184252/" />
+  <rdf:li rdf:resource="http://www.sueddeutsche.de/,tt4m1/ausland/artikel/850/184275/" />
+  <rdf:li rdf:resource="http://today.java.net/pub/a/today/2008/07/03/jsr-203-new-file-apis.html" />
+  <rdf:li rdf:resource="http://cometdaily.com/2008/07/04/html5-websocket/" />
+  <rdf:li rdf:resource="http://www.heise.de/newsticker/foren/S-Meine-persoenliche-MacBook-Air-Erfahrung/forum-140105/msg-15168402/read/" />
+  <rdf:li rdf:resource="http://www.spiegel.de/netzwelt/web/0,1518,563821,00.html" />
+  <rdf:li rdf:resource="http://www.zeit.de/online/2008/28/ploetzlicher-kindstod" />
+  <rdf:li rdf:resource="http://www.zeit.de/2008/28/OdE-Recht-Interview?wt_mc=dwdw" />
+  <rdf:li rdf:resource="http://www.heise.de/newsticker/Bericht-Nokia-zahlt-Millionen-an-Bochum--/meldung/110363" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-06T13:00:23Z</dc:date>
+<dc:subject>Arbeitsger&#xE4;te B&#xFC;ro_einrichten Ergonomie::St&#xFC;hle</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ergonomie::St%C3%BChle" />
+    <rdf:li resource="http://del.icio.us/tag/Arbeitsger%C3%A4te" />
+    <rdf:li resource="http://del.icio.us/tag/B%C3%BCro_einrichten" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.copyblogger.com/freelance-articles/">
+<title>Seven Must-Read Articles for Freelancers | Copyblogger</title>
+<link>http://www.copyblogger.com/freelance-articles/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-06T12:58:39Z</dc:date>
+<dc:subject>Freelancing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Freelancing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tummy.com/journals/entries/jafo_20080705_130814">
+<title>ZFS Under Linux: A User Report (tummy.com, ltd. Journal Entry)</title>
+<link>http://www.tummy.com/journals/entries/jafo_20080705_130814</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-06T12:53:31Z</dc:date>
+<dc:subject>Linux ZFS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ZFS" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/,tt7m1/reise/artikel/817/184242/">
+<title>Baden in Berlin - Paradiese und H&#xF6;llenhunde - Reise - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/,tt7m1/reise/artikel/817/184242/</link>
+<description>In Berlin findet jeder Badende sein Gl&#xFC;ck: Eine Wasserreise von Babelsberg im Westen bis in die Stadtmitte.</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T20:18:34Z</dc:date>
+<dc:subject>Badeseen Berlin reisen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reisen" />
+    <rdf:li resource="http://del.icio.us/tag/Berlin" />
+    <rdf:li resource="http://del.icio.us/tag/Badeseen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/politik/deutschland/0,1518,564086,00.html">
+<title>Finanzkrach: Beckstein bezweifelt Sparwillen der Bundesregierung - Politik - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/politik/deutschland/0,1518,564086,00.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T17:35:57Z</dc:date>
+<dc:subject>CDU CSU Haushalt_Bund Haushalt_Bund::Geldverschwendung Kanzlerschaft_Merkel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Haushalt_Bund" />
+    <rdf:li resource="http://del.icio.us/tag/Haushalt_Bund::Geldverschwendung" />
+    <rdf:li resource="http://del.icio.us/tag/Kanzlerschaft_Merkel" />
+    <rdf:li resource="http://del.icio.us/tag/CSU" />
+    <rdf:li resource="http://del.icio.us/tag/CDU" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alcatel-lucent.com/wps/portal/NewsReleases/DetailLucent?LMSG_CABINET=Docs_and_Resource_Ctr&#x26;LMSG_CONTENT_FILE=News_Releases_LU_2000/LU_News_Article_003861.xml">
+<title>Bell Labs announces open-source release of Plan 9 operating system</title>
+<link>http://www.alcatel-lucent.com/wps/portal/NewsReleases/DetailLucent?LMSG_CABINET=Docs_and_Resource_Ctr&#x26;LMSG_CONTENT_FILE=News_Releases_LU_2000/LU_News_Article_003861.xml</link>
+<description>Anyone interested in using Plan 9 may download the system, including source code and documentation, from external linkhttp://plan9.bell-labs.com/plan9dist/.</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T17:15:06Z</dc:date>
+<dc:subject>Linux::Plan9</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux::Plan9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swtch.com/9vx/">
+<title>9vx</title>
+<link>http://swtch.com/9vx/</link>
+<description>9vx is a port of the plan 9 operating system to 
+freebsd, linux, and os x, using the vx32 sandboxing
+library to run &#x26;quot;user&#x26;quot; programs.  9vx runs as an
+ordinary user program, but behaves like a separate
+vm running plan 9.  it makes host resources like 
+</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T17:13:19Z</dc:date>
+<dc:subject>Linux::Plan9</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux::Plan9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/r/programming/info/6qblh/comments/">
+<title>programming: Spread FreeBSD - raise FreeBSD awareness and get paid for it.</title>
+<link>http://www.reddit.com/r/programming/info/6qblh/comments/</link>
+<description>Enough that a few people still use it as their primary system, of course it is a system clearly oriented towards software development, not designed for point-and-click 'desktop-loving' people with nothing to do but fiddle around with window manager themes</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T17:12:01Z</dc:date>
+<dc:subject>Linux::Plan9</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Linux::Plan9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/wissenschaft/mensch/0,1518,564089,00.html">
+<title>Phantasie und Realit&#xE4;t: Einbildung beeinflusst das Sehen - Wissenschaft - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/wissenschaft/mensch/0,1518,564089,00.html</link>
+<description>Bilder vor dem geistigen Auge beschr&#xE4;nken sich nicht nur auf die Phantasie - sie k&#xF6;nnen auch ganz real ver&#xE4;ndern, was man sieht. Forscher haben nach eigenen Angaben erstmals experimentell bewiesen, dass die Vorstellung das Sehen direkt beeinflusst.</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T17:00:38Z</dc:date>
+<dc:subject>Gehirn Psychologie</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Psychologie" />
+    <rdf:li resource="http://del.icio.us/tag/Gehirn" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.beckingham.net/task.html">
+<title>Task 1.3.1</title>
+<link>http://www.beckingham.net/task.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T15:44:44Z</dc:date>
+<dc:subject>Tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blamcast.net/articles/orphaned-works-open-source-copyright">
+<title>New &#x22;Orphaned Works&#x22; Copyright Bill Threatens Open Source, GPL</title>
+<link>http://blamcast.net/articles/orphaned-works-open-source-copyright</link>
+<description>A new bill, The Orphan Works Act of 2008, is currently making its way through congress, and it threatens to take away copyright protection from unregistered works. This includes virtually all open source software.
+
+Essentially, the bill (as I understand</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T15:42:10Z</dc:date>
+<dc:subject>Open_Source Patentwesen USA</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Patentwesen" />
+    <rdf:li resource="http://del.icio.us/tag/USA" />
+    <rdf:li resource="http://del.icio.us/tag/Open_Source" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/sport/sonst/0,1518,564084,00.html">
+<title>US-Schwimmerin: 41-j&#xE4;hrige Torres qualifiziert sich f&#xFC;r Olympia - Sport - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/sport/sonst/0,1518,564084,00.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T15:40:51Z</dc:date>
+<dc:subject>alte_Saecke</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/alte_Saecke" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/politik/deutschland/0,1518,564054,00.html">
+<title>Energiekonsens: Eppler schl&#xE4;gt Atom-Kompromiss vor - Politik - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/politik/deutschland/0,1518,564054,00.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T14:10:29Z</dc:date>
+<dc:subject>CDU Energiepolitik Eppler_Erhard SPD</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Energiepolitik" />
+    <rdf:li resource="http://del.icio.us/tag/SPD" />
+    <rdf:li resource="http://del.icio.us/tag/CDU" />
+    <rdf:li resource="http://del.icio.us/tag/Eppler_Erhard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/info/6qc9s/comments/">
+<title>reddit.com: Ask Reddit: What steps did you take to get to the programming proficiency level you're at now?</title>
+<link>http://www.reddit.com/info/6qc9s/comments/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:19:38Z</dc:date>
+<dc:subject>Professional_Software_Development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Professional_Software_Development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternate.de/html/product/Grafikkarten_NVIDIA_PCIe/Asus/EN7300GT_Silent-HTD-256M/156023/?articleId=156023&#x26;tn=HARDWARE&#x26;l1=Grafik&#x26;l2=Karten+PCIe&#x26;l3=NVIDIA">
+<title>ALTERNATE - HARDWARE - Grafik - Karten PCIe - NVIDIA - Asus EN7300GT Silent/HTD/256M</title>
+<link>http://www.alternate.de/html/product/Grafikkarten_NVIDIA_PCIe/Asus/EN7300GT_Silent-HTD-256M/156023/?articleId=156023&#x26;tn=HARDWARE&#x26;l1=Grafik&#x26;l2=Karten+PCIe&#x26;l3=NVIDIA</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:17:33Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternate.de/html/product/Mainboards_Sockel_775/GigaByte/GA-EP35-DS3/242771/?articleId=242771">
+<title>ALTERNATE - HARDWARE - Mainboards - Intel - Sockel 775 - GigaByte GA-EP35-DS3</title>
+<link>http://www.alternate.de/html/product/Mainboards_Sockel_775/GigaByte/GA-EP35-DS3/242771/?articleId=242771</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:13:29Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternate.de/html/product/Arbeitsspeicher_DDR2-800/MDT/DIMM_2_GB_DDR2-800_Kit/148719/?articleId=148719">
+<title>ALTERNATE - HARDWARE - Arbeitsspeicher - DDR2 - DDR2-800 - MDT DIMM 2 GB DDR2-800 Kit</title>
+<link>http://www.alternate.de/html/product/Arbeitsspeicher_DDR2-800/MDT/DIMM_2_GB_DDR2-800_Kit/148719/?articleId=148719</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:12:44Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alternate.de/html/product/CPU_Sockel_775_Pentium/Intel(R)/Pentium_Dual-Core_E2140/210625/?articleId=210625">
+<title>ALTERNATE - HARDWARE - CPU - Desktop - Sockel 775 - Intel&#xAE; Pentium Dual-Core E2140</title>
+<link>http://www.alternate.de/html/product/CPU_Sockel_775_Pentium/Intel(R)/Pentium_Dual-Core_E2140/210625/?articleId=210625</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:12:18Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.heise.de/ct/08/15/092/">
+<title>c't 15/2008, S. 92: Billig-PCs</title>
+<link>http://www.heise.de/ct/08/15/092/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T12:10:26Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/politik/deutschland/0,1518,564024,00.html">
+<title>&#xD6;ffentliche Haushalte: H&#xF6;chster Richter fordert Schuldenverbot - Politik - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/politik/deutschland/0,1518,564024,00.html</link>
+<description>Hans-J&#xFC;rgen Papier, Pr&#xE4;sident des Bundesverfassungsgerichts, sieht wegen der riesigen Staatsverschuldung die Leistungsf&#xE4;higkeit des Rechts- und Sozialstaats in Gefahr. Er h&#xE4;lt striktere Vorschriften und eine umfassende &#xDC;bertragung von Staatsaufgaben</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T10:24:31Z</dc:date>
+<dc:subject>Haushalt_Bund Haushalt_Bund::Geldverschwendung Missst&#xE4;nde::Staatsverschuldung</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Haushalt_Bund" />
+    <rdf:li resource="http://del.icio.us/tag/Haushalt_Bund::Geldverschwendung" />
+    <rdf:li resource="http://del.icio.us/tag/Missst%C3%A4nde::Staatsverschuldung" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/politik/deutschland/0,1518,564029,00.html">
+<title>Lebensmittelkrise: Merkel warnt G-8-Chefs vor Staaten-Kollaps - Politik - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/politik/deutschland/0,1518,564029,00.html</link>
+<description>Dramatischer Appell von Angela Merkel an die Regierungschefs der G-8-Staaten: Die Nahrungsmittelkrise in Teilen der Welt k&#xF6;nne Staaten destabilisieren und zu einem internationalen Sicherheitsproblem werden, schrieb die Kanzlerin ihren Kollegen. Sie k&#xFC;nd</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-05T09:22:30Z</dc:date>
+<dc:subject>Kanzlerschaft_Merkel Krisen::Lebensmittelkrise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Krisen::Lebensmittelkrise" />
+    <rdf:li resource="http://del.icio.us/tag/Kanzlerschaft_Merkel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/politik/deutschland/0,1518,563955,00.html">
+<title>Reformdebatte: Merkel schw&#xF6;rt Deutschland auf h&#xE4;rteren Kampf gegen Arbeitslosigkeit ein - Politik - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/politik/deutschland/0,1518,563955,00.html</link>
+<description>Angela Merkel geht in die Offensive. Die Kanzlerin, oft als reformm&#xFC;de kritisiert, fordert &#xC4;nderungen in der Jobpolitik, k&#xFC;ndigt eine Fortsetzung der Agenda 2010 an - und warnt, der weitere Abbau der Arbeitslosigkeit werde schwieriger: &#x26;quot;Die Bretter, di</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T18:25:41Z</dc:date>
+<dc:subject>Arbeitsmarkt Kanzlerschaft_Merkel Politik::Arbeitsmarkt Soziales</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Kanzlerschaft_Merkel" />
+    <rdf:li resource="http://del.icio.us/tag/Soziales" />
+    <rdf:li resource="http://del.icio.us/tag/Arbeitsmarkt" />
+    <rdf:li resource="http://del.icio.us/tag/Politik::Arbeitsmarkt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/,ra9m1/finanzen/artikel/827/184252/">
+<title>Gerichtsurteil - Bank muss bei Online-Betrug haften - Finanzen - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/,ra9m1/finanzen/artikel/827/184252/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T17:16:04Z</dc:date>
+<dc:subject>Recht::online</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Recht::online" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sueddeutsche.de/,tt4m1/ausland/artikel/850/184275/">
+<title>US-Wahlkampf - Obama verfeinert seine Strategie - Ausland - sueddeutsche.de</title>
+<link>http://www.sueddeutsche.de/,tt4m1/ausland/artikel/850/184275/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T17:14:57Z</dc:date>
+<dc:subject>USA::Wahlkampf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/USA::Wahlkampf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://today.java.net/pub/a/today/2008/07/03/jsr-203-new-file-apis.html">
+<title>java.net: The Open Road: java.nio.file</title>
+<link>http://today.java.net/pub/a/today/2008/07/03/jsr-203-new-file-apis.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T14:11:54Z</dc:date>
+<dc:subject>Java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cometdaily.com/2008/07/04/html5-websocket/">
+<title>Comet Daily &#xBB; Blog Archive &#xBB; Independence Day: HTML5 WebSocket Liberates Comet From Hacks</title>
+<link>http://cometdaily.com/2008/07/04/html5-websocket/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T14:07:12Z</dc:date>
+<dc:subject>HTML Sockets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HTML" />
+    <rdf:li resource="http://del.icio.us/tag/Sockets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.heise.de/newsticker/foren/S-Meine-persoenliche-MacBook-Air-Erfahrung/forum-140105/msg-15168402/read/">
+<title>Meine&#xA0;pers&#xF6;nliche&#xA0;MacBook&#xA0;Air&#xA0;Erfahrung | Apple&#xA0;senkt&#xA0;den&#xA0;Preis&#xA0;f&#xFC;r&#xA0;das&#xA0;MacBook&#xA0;Ai... | News-Foren</title>
+<link>http://www.heise.de/newsticker/foren/S-Meine-persoenliche-MacBook-Air-Erfahrung/forum-140105/msg-15168402/read/</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T13:32:34Z</dc:date>
+<dc:subject>W&#xFC;nsche</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/W%C3%BCnsche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spiegel.de/netzwelt/web/0,1518,563821,00.html">
+<title>Viacom gegen YouTube: Urteil outet YouTube als Datenkrake - Netzwelt - SPIEGEL ONLINE - Nachrichten</title>
+<link>http://www.spiegel.de/netzwelt/web/0,1518,563821,00.html</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T11:58:43Z</dc:date>
+<dc:subject>Datenschutz Google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/Datenschutz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zeit.de/online/2008/28/ploetzlicher-kindstod">
+<title>Pl&#xF6;tzlicher Kindstod: Falsche Signale im Babyhirn | Nachrichten auf ZEIT online</title>
+<link>http://www.zeit.de/online/2008/28/ploetzlicher-kindstod</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T11:42:49Z</dc:date>
+<dc:subject>Hilfe_gegen_Depressionen pl&#xF6;tzlicher_Kindstod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hilfe_gegen_Depressionen" />
+    <rdf:li resource="http://del.icio.us/tag/pl%C3%B6tzlicher_Kindstod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zeit.de/2008/28/OdE-Recht-Interview?wt_mc=dwdw">
+<title>Recht: &#xBB;Zu viele Deals&#xAB;. Ein Interview | Nachrichten auf ZEIT online</title>
+<link>http://www.zeit.de/2008/28/OdE-Recht-Interview?wt_mc=dwdw</link>
+<description></description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-04T08:32:59Z</dc:date>
+<dc:subject>Justiz Missst&#xE4;nde::Justizirrtum Standort_Deutschland gesellschaftlicher_Konsens</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Missst%C3%A4nde::Justizirrtum" />
+    <rdf:li resource="http://del.icio.us/tag/Justiz" />
+    <rdf:li resource="http://del.icio.us/tag/gesellschaftlicher_Konsens" />
+    <rdf:li resource="http://del.icio.us/tag/Standort_Deutschland" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.heise.de/newsticker/Bericht-Nokia-zahlt-Millionen-an-Bochum--/meldung/110363">
+<title>Bericht: Nokia zahlt Millionen an Bochum - heise online</title>
+<link>http://www.heise.de/newsticker/Bericht-Nokia-zahlt-Millionen-an-Bochum--/meldung/110363</link>
+<description>Die nordrhein-westf&#xE4;lische Landesregierung und der Nokia-Konzern haben sich laut einem Zeitungsbericht im Streit um Subventionsr&#xFC;ckzahlungen f&#xFC;r das geschlossene Bochumer Handy-Werk geeinigt. Wie die in Dortmund erscheinende Westf&#xE4;lische Rundschau in</description>
+<dc:creator>snearch</dc:creator>
+<dc:date>2008-07-02T18:44:58Z</dc:date>
+<dc:subject>Diskussionen::Nokia_Bochum</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Diskussionen::Nokia_Bochum" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

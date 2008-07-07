@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/snahor">
+<title>del.icio.us/snahor</title>
+<link>http://del.icio.us/snahor</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://waxy.org/2008/04/exclusive_google_app_engine_ported_to_amazons_ec2/" />
+  <rdf:li rdf:resource="http://www.spreadfreebsd.org/" />
+  <rdf:li rdf:resource="http://appengineguy.com/2008/06/how-to-full-text-search-in-google-app.html" />
+  <rdf:li rdf:resource="http://www.whoishostingthis.com/" />
+  <rdf:li rdf:resource="http://monolinea.com/" />
+  <rdf:li rdf:resource="http://www.fornewbie.com/php/convert_html_table_spreadsheet_file.html" />
+  <rdf:li rdf:resource="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/" />
+  <rdf:li rdf:resource="http://www.grooveshark.com/" />
+  <rdf:li rdf:resource="http://www.redchilli.com/" />
+  <rdf:li rdf:resource="http://www.pizza-venetia.ro/" />
+  <rdf:li rdf:resource="http://eucalyptus.cs.ucsb.edu/" />
+  <rdf:li rdf:resource="http://v3.planningwiz.com/" />
+  <rdf:li rdf:resource="http://www.amazon.com/Effective-Java-Programming-Language-Guide/dp/0201310058" />
+  <rdf:li rdf:resource="http://www.uninformed.org/?v=1&#x26;amp;a=7" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.docstoc.com/docs/288518/Quality-Assurance-Plan-Template" />
+  <rdf:li rdf:resource="http://www.comp.nus.edu.sg/~damithch/guide/" />
+  <rdf:li rdf:resource="http://ruadult.com/" />
+  <rdf:li rdf:resource="http://peachyforum.com/forums/t/132916.aspx?PageIndex=2" />
+  <rdf:li rdf:resource="http://whenisgood.net/" />
+  <rdf:li rdf:resource="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/" />
+  <rdf:li rdf:resource="http://clc-wiki.net/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://erlyweb.org/" />
+  <rdf:li rdf:resource="http://okmij.org/ftp/" />
+  <rdf:li rdf:resource="http://www.reddit.com/info/6ownr/comments/" />
+  <rdf:li rdf:resource="http://www.kirps.com/web/main/_blog/all/mit-releases-the-sources-of-multics-the-father-of-unix.shtml" />
+  <rdf:li rdf:resource="http://www.idsia.ch/~andrea/simtools.html" />
+  <rdf:li rdf:resource="http://web.missouri.edu/jonassend/courses/mindtool/SystemsExamples.html" />
+  <rdf:li rdf:resource="http://www.bpa.gov/Corporate/KR/ed/step/fishing_game/fishing.shtml" />
+  <rdf:li rdf:resource="http://bitnami.org/stack/djangostack" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-06T13:01:13Z</dc:date>
+<dc:subject>books java reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://waxy.org/2008/04/exclusive_google_app_engine_ported_to_amazons_ec2/">
+<title>Exclusive: Google App Engine ported to Amazon's EC2 - Waxy.org</title>
+<link>http://waxy.org/2008/04/exclusive_google_app_engine_ported_to_amazons_ec2/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-06T10:03:20Z</dc:date>
+<dc:subject>amazon appdrop appengine ec2 google opensource python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/appengine" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/appdrop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spreadfreebsd.org/">
+<title>Spread FreeBSD</title>
+<link>http://www.spreadfreebsd.org/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-06T08:42:32Z</dc:date>
+<dc:subject>freebsd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freebsd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://appengineguy.com/2008/06/how-to-full-text-search-in-google-app.html">
+<title>App Engine Guy: How-to: Full-text search in Google App Engine</title>
+<link>http://appengineguy.com/2008/06/how-to-full-text-search-in-google-app.html</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T19:06:50Z</dc:date>
+<dc:subject>appengine coding fulltext google howto programming python search</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/appengine" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/fulltext" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whoishostingthis.com/">
+<title>Who is Hosting This?</title>
+<link>http://www.whoishostingthis.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T18:34:20Z</dc:date>
+<dc:subject>application domain hosting search whoishostingthis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/whoishostingthis" />
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://monolinea.com/">
+<title>Monolinea Design : Communicate.Create.Code</title>
+<link>http://monolinea.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T18:24:25Z</dc:date>
+<dc:subject>inspiration web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fornewbie.com/php/convert_html_table_spreadsheet_file.html">
+<title>Convert HTML Table into Spreadsheet File | fornewbie.com</title>
+<link>http://www.fornewbie.com/php/convert_html_table_spreadsheet_file.html</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T10:55:24Z</dc:date>
+<dc:subject>php spreadsheet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/spreadsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/">
+<title>How To Setup MySQL Replication in 10 minutes | Hackosis</title>
+<link>http://www.hackosis.com/index.php/2008/06/09/how-to-setup-mysql-replication-in-10-minutes/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T09:50:15Z</dc:date>
+<dc:subject>database howto mysql replication</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/replication" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.grooveshark.com/">
+<title>Grooveshark -- Listen to Music for Free Online; Download Music and Earn Free Songs for Sharing</title>
+<link>http://www.grooveshark.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T08:00:50Z</dc:date>
+<dc:subject>application community flex inspiration mp3 music web2.0 webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/flex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.redchilli.com/">
+<title>Providing commercial property finance for development or investment property</title>
+<link>http://www.redchilli.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T07:14:28Z</dc:date>
+<dc:subject>inspiration slideshow webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pizza-venetia.ro/">
+<title>Pizza Venetia - Restaurant cu livrare in Bucuresti</title>
+<link>http://www.pizza-venetia.ro/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-05T07:13:02Z</dc:date>
+<dc:subject>css food inspiration restaurant webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/restaurant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eucalyptus.cs.ucsb.edu/">
+<title>Eucalyptus</title>
+<link>http://eucalyptus.cs.ucsb.edu/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-04T08:57:42Z</dc:date>
+<dc:subject>amazon cloud cluster distributed ec2 grid linux opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cloud" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/cluster" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://v3.planningwiz.com/">
+<title>PlanningWiz Online Room Planner Software for Furniture Retailers and Manufacturers, Building Contractors, Realtors and more</title>
+<link>http://v3.planningwiz.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-03T07:13:27Z</dc:date>
+<dc:subject>application architecture design house planning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/planning" />
+    <rdf:li resource="http://del.icio.us/tag/house" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/Effective-Java-Programming-Language-Guide/dp/0201310058">
+<title>Amazon.com: Effective Java(TM) Programming Language Guide (The Java Series): Joshua Bloch: Books</title>
+<link>http://www.amazon.com/Effective-Java-Programming-Language-Guide/dp/0201310058</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-02T09:31:23Z</dc:date>
+<dc:subject>amazon books java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uninformed.org/?v=1&#x26;amp;a=7">
+<title>Uninformed - vol 1 article 7</title>
+<link>http://www.uninformed.org/?v=1&#x26;amp;a=7</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-02T02:31:16Z</dc:date>
+<dc:subject>debugging engineering hacking reverse win32</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/win32" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/reverse" />
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-07-01T19:17:30Z</dc:date>
+<dc:subject>commands guide reference vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.docstoc.com/docs/288518/Quality-Assurance-Plan-Template">
+<title>Quality Assurance Plan Template</title>
+<link>http://www.docstoc.com/docs/288518/Quality-Assurance-Plan-Template</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-30T03:30:46Z</dc:date>
+<dc:subject>management project qa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/qa" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.nus.edu.sg/~damithch/guide/">
+<title>A Student's Guide to Software Engineering Projects - Free online guide for Students</title>
+<link>http://www.comp.nus.edu.sg/~damithch/guide/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-29T10:36:07Z</dc:date>
+<dc:subject>books engineering guide howto software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ruadult.com/">
+<title>Free porn blog. Free porn dvd.</title>
+<link>http://ruadult.com/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-29T10:30:19Z</dc:date>
+<dc:subject>blogs porn rapidshare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rapidshare" />
+    <rdf:li resource="http://del.icio.us/tag/porn" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://peachyforum.com/forums/t/132916.aspx?PageIndex=2">
+<title>CZECH MODELS - PeachyForum</title>
+<link>http://peachyforum.com/forums/t/132916.aspx?PageIndex=2</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-29T03:02:12Z</dc:date>
+<dc:subject>babes czech models</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/babes" />
+    <rdf:li resource="http://del.icio.us/tag/czech" />
+    <rdf:li resource="http://del.icio.us/tag/models" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://whenisgood.net/">
+<title>When is Good</title>
+<link>http://whenisgood.net/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-28T19:46:50Z</dc:date>
+<dc:subject>application calendar collaboration schedule scheduling tools web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/scheduling" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/schedule" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/">
+<title>PIBlog &#xBB; Blog Archive &#xBB; Building a Python Web Application, Part 1</title>
+<link>http://blog.paulbonser.com/2008/06/26/building-a-python-web-application-part-1/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T09:19:56Z</dc:date>
+<dc:subject>python webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clc-wiki.net/wiki/Main_Page">
+<title>Main Page - clc-wiki</title>
+<link>http://clc-wiki.net/wiki/Main_Page</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T07:44:42Z</dc:date>
+<dc:subject>c documentation programming reference wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erlyweb.org/">
+<title>ErlyWeb: The Erlang Twist on Web Frameworks</title>
+<link>http://erlyweb.org/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T07:39:05Z</dc:date>
+<dc:subject>erlang erlyweb framework web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/erlyweb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://okmij.org/ftp/">
+<title>This FTP site</title>
+<link>http://okmij.org/ftp/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T07:32:14Z</dc:date>
+<dc:subject>algorithms coding programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reddit.com/info/6ownr/comments/">
+<title>reddit.com: Thinking of freelancing my web/app development skills -- pointers for a newbie?</title>
+<link>http://www.reddit.com/info/6ownr/comments/</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T07:29:45Z</dc:date>
+<dc:subject>discussion freelance reddit</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reddit" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/discussion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kirps.com/web/main/_blog/all/mit-releases-the-sources-of-multics-the-father-of-unix.shtml">
+<title>MIT releases the sources of MULTICS, the father of UNIX! - Popular Science and Technology Blog by Jos Kirps</title>
+<link>http://www.kirps.com/web/main/_blog/all/mit-releases-the-sources-of-multics-the-father-of-unix.shtml</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T06:03:58Z</dc:date>
+<dc:subject>mit multics opensource software unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/multics" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.idsia.ch/~andrea/simtools.html">
+<title>Simulation Tools</title>
+<link>http://www.idsia.ch/~andrea/simtools.html</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T05:46:39Z</dc:date>
+<dc:subject>modeling resources simulation software tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/modeling" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.missouri.edu/jonassend/courses/mindtool/SystemsExamples.html">
+<title>Actual examples of systems modeling</title>
+<link>http://web.missouri.edu/jonassend/courses/mindtool/SystemsExamples.html</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T05:34:15Z</dc:date>
+<dc:subject>powersim simulation stella</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/stella" />
+    <rdf:li resource="http://del.icio.us/tag/powersim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bpa.gov/Corporate/KR/ed/step/fishing_game/fishing.shtml">
+<title>Fishbanks Simulation Model</title>
+<link>http://www.bpa.gov/Corporate/KR/ed/step/fishing_game/fishing.shtml</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-27T05:12:09Z</dc:date>
+<dc:subject>simulation stella</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/simulation" />
+    <rdf:li resource="http://del.icio.us/tag/stella" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bitnami.org/stack/djangostack">
+<title>BitNami :: DjangoStack</title>
+<link>http://bitnami.org/stack/djangostack</link>
+<description></description>
+<dc:creator>Snahor</dc:creator>
+<dc:date>2008-06-26T22:17:30Z</dc:date>
+<dc:subject>deployment django installer python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/deployment" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/installer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

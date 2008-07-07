@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/rayhart">
+<title>del.icio.us/rayhart</title>
+<link>http://del.icio.us/rayhart</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://www.roskilde-festival.dk/2008/frontpage/" />
+  <rdf:li rdf:resource="http://www.yawcam.com/screenshots.php#settings" />
+  <rdf:li rdf:resource="http://www.supervisioncam.com/" />
+  <rdf:li rdf:resource="http://www.nchsoftware.com/surveillance/index.html" />
+  <rdf:li rdf:resource="http://www.mailchimp.com/index.phtml" />
+  <rdf:li rdf:resource="http://www.vfdaily.com/culture/2008/blogopticon/index.html" />
+  <rdf:li rdf:resource="http://www.wherethemoneygoes.com/" />
+  <rdf:li rdf:resource="http://www.hospitalvictims.org/" />
+  <rdf:li rdf:resource="http://www.fairnessfoundation.org/" />
+  <rdf:li rdf:resource="http://www.healthcaresoundoff.com/index.aspx?u=steve" />
+  <rdf:li rdf:resource="http://www.hi.is/~antoni/volumetouch/" />
+  <rdf:li rdf:resource="http://forum.notebookreview.com/showthread.php?t=252879" />
+  <rdf:li rdf:resource="http://dealscctv.lorextechnology.com/product.aspx?id=1497" />
+  <rdf:li rdf:resource="http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200353323_200353323" />
+  <rdf:li rdf:resource="http://www.niteguard.com/" />
+  <rdf:li rdf:resource="http://blogs.wsj.com/health/2008/05/27/coming-soon-shareholder-votes-on-universal-health/" />
+  <rdf:li rdf:resource="http://www.hp2133guide.com/mini-note-vista-optimization-guide/" />
+  <rdf:li rdf:resource="http://h20000.www2.hp.com/bizsupport/TechSupport/DriverDownload.jsp?lang=en&#x26;cc=us&#x26;prodNameId=3687085&#x26;prodSeriesId=3687084&#x26;prodTypeId=321957&#x26;taskId=135&#x26;swLang=8" />
+  <rdf:li rdf:resource="http://www.hp2133guide.com/" />
+  <rdf:li rdf:resource="http://www.bookofjoe.com/2008/05/01/index.html" />
+  <rdf:li rdf:resource="http://www.pcigateway.com/emerchantdiscount/productinformation.html" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/security/cybercrime/showArticle.jhtml?articleID=205900444&#x26;pgno=2&#x26;queryText=&#x26;isPrev=" />
+  <rdf:li rdf:resource="http://www.xssed.com/news/67/Hacker_Safe_or_not_Read_on_watch_the_video_and_vote_now/" />
+  <rdf:li rdf:resource="http://www.scanalert.com/content/affiliate/pitch.jsp?a=63&#x26;c=55&#x26;k=VrFppjPpQN" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2008/04/29/mcafee_hacker_safe_sites_vulnerable/" />
+  <rdf:li rdf:resource="http://www.websafeshield.com/seals.html" />
+  <rdf:li rdf:resource="http://www.hp2133guide.com/new-mini-note-models-coming-on-money-and-thursday/" />
+  <rdf:li rdf:resource="http://www.manycam.com/" />
+  <rdf:li rdf:resource="http://www.ovguide.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-07-06T11:32:07Z</dc:date>
+<dc:subject>converter freeware media software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-07-01T19:52:55Z</dc:date>
+<dc:subject>conversion dvd howto lifehacker video vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roskilde-festival.dk/2008/frontpage/">
+<title>Roskilde Festival English 2008: Frontpage</title>
+<link>http://www.roskilde-festival.dk/2008/frontpage/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-30T12:31:54Z</dc:date>
+<dc:subject>denmark music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/denmark" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yawcam.com/screenshots.php#settings">
+<title>Yawcam - Screenshots</title>
+<link>http://www.yawcam.com/screenshots.php#settings</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-28T21:14:35Z</dc:date>
+<dc:subject>software surveillance webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+    <rdf:li resource="http://del.icio.us/tag/surveillance" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.supervisioncam.com/">
+<title>SupervisionCam Homepage English</title>
+<link>http://www.supervisioncam.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-28T17:17:11Z</dc:date>
+<dc:subject>freeware monitoring software webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/monitoring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nchsoftware.com/surveillance/index.html">
+<title>Professional Video Surveillance Software for Windows</title>
+<link>http://www.nchsoftware.com/surveillance/index.html</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-28T17:08:34Z</dc:date>
+<dc:subject>free software surveillance video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/surveillance" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailchimp.com/index.phtml">
+<title>HTML Email Marketing from MailChimp</title>
+<link>http://www.mailchimp.com/index.phtml</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-26T11:50:47Z</dc:date>
+<dc:subject>advertising email newsletter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/advertising" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/newsletter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vfdaily.com/culture/2008/blogopticon/index.html">
+<title>VANITY FAIR Blogopticon | vanityfair.com</title>
+<link>http://www.vfdaily.com/culture/2008/blogopticon/index.html</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-16T12:45:58Z</dc:date>
+<dc:subject>blog graphics grid reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wherethemoneygoes.com/">
+<title>WhereTheMoneyGoes.com: Shining The Light On Abuses By Not-For-Profit Hospitals (Home Page)</title>
+<link>http://www.wherethemoneygoes.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-08T01:03:06Z</dc:date>
+<dc:subject>blog healthcare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hospitalvictims.org/">
+<title>HospitalVictims.org - Helping you fight for reasonable hospital prices and health care costs!</title>
+<link>http://www.hospitalvictims.org/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-08T00:57:15Z</dc:date>
+<dc:subject>health hospital</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/hospital" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fairnessfoundation.org/">
+<title>Fairness Foundation - Home</title>
+<link>http://www.fairnessfoundation.org/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-08T00:55:04Z</dc:date>
+<dc:subject>healthcare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.healthcaresoundoff.com/index.aspx?u=steve">
+<title>HealthCareSoundOff.com</title>
+<link>http://www.healthcaresoundoff.com/index.aspx?u=steve</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-08T00:54:04Z</dc:date>
+<dc:subject>healthcare</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hi.is/~antoni/volumetouch/">
+<title>VolumeTouch 1.1 - Freeware Replacement for the Windows Speaker Icon</title>
+<link>http://www.hi.is/~antoni/volumetouch/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-07T11:49:56Z</dc:date>
+<dc:subject>audio control freeware volume</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/control" />
+    <rdf:li resource="http://del.icio.us/tag/volume" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.notebookreview.com/showthread.php?t=252879">
+<title>HP2133 Mini-note XP Pro Downgrade - Notebook Forums and Laptop Discussion</title>
+<link>http://forum.notebookreview.com/showthread.php?t=252879</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-05T01:46:31Z</dc:date>
+<dc:subject>23133 xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/23133" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dealscctv.lorextechnology.com/product.aspx?id=1497">
+<title>DealsCCTV - CCTV Security Observation Systems</title>
+<link>http://dealscctv.lorextechnology.com/product.aspx?id=1497</link>
+<description>L21Q784</description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-06-01T14:43:54Z</dc:date>
+<dc:subject>cam security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/cam" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200353323_200353323">
+<title>Nite Guard Solar-Powered Night Predator Light, Model# NG-001 | Animal Control | Northern Tool + Equipment</title>
+<link>http://www.northerntool.com/webapp/wcs/stores/servlet/product_6970_200353323_200353323</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-29T19:24:00Z</dc:date>
+<dc:subject>deer gurli</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gurli" />
+    <rdf:li resource="http://del.icio.us/tag/deer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.niteguard.com/">
+<title>Nite Guard: Solar Powered, Night Predator Control Light</title>
+<link>http://www.niteguard.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-29T19:23:13Z</dc:date>
+<dc:subject>deer gurli</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gurli" />
+    <rdf:li resource="http://del.icio.us/tag/deer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.wsj.com/health/2008/05/27/coming-soon-shareholder-votes-on-universal-health/">
+<title>Health Blog : Coming Soon: Shareholder Votes on Universal Health</title>
+<link>http://blogs.wsj.com/health/2008/05/27/coming-soon-shareholder-votes-on-universal-health/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-28T01:54:27Z</dc:date>
+<dc:subject>heath, one payer system,</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/heath%2C" />
+    <rdf:li resource="http://del.icio.us/tag/one" />
+    <rdf:li resource="http://del.icio.us/tag/payer" />
+    <rdf:li resource="http://del.icio.us/tag/system%2C" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hp2133guide.com/mini-note-vista-optimization-guide/">
+<title>Mini-Note Vista Optimization Guide - HP 2133 Guide</title>
+<link>http://www.hp2133guide.com/mini-note-vista-optimization-guide/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-17T01:34:20Z</dc:date>
+<dc:subject>2133 boot hp time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/2133" />
+    <rdf:li resource="http://del.icio.us/tag/hp" />
+    <rdf:li resource="http://del.icio.us/tag/boot" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://h20000.www2.hp.com/bizsupport/TechSupport/DriverDownload.jsp?lang=en&#x26;cc=us&#x26;prodNameId=3687085&#x26;prodSeriesId=3687084&#x26;prodTypeId=321957&#x26;taskId=135&#x26;swLang=8">
+<title>HP 2133 Mini-Note PC -  Download drivers and software - HP Business Support Center</title>
+<link>http://h20000.www2.hp.com/bizsupport/TechSupport/DriverDownload.jsp?lang=en&#x26;cc=us&#x26;prodNameId=3687085&#x26;prodSeriesId=3687084&#x26;prodTypeId=321957&#x26;taskId=135&#x26;swLang=8</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-16T23:50:52Z</dc:date>
+<dc:subject>hp mininote</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hp" />
+    <rdf:li resource="http://del.icio.us/tag/mininote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hp2133guide.com/">
+<title>HP 2133 Guide</title>
+<link>http://www.hp2133guide.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-16T23:49:05Z</dc:date>
+<dc:subject>2133 hp mininote notebook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mininote" />
+    <rdf:li resource="http://del.icio.us/tag/2133" />
+    <rdf:li resource="http://del.icio.us/tag/hp" />
+    <rdf:li resource="http://del.icio.us/tag/notebook" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bookofjoe.com/2008/05/01/index.html">
+<title>bookofjoe: May 1, 2008</title>
+<link>http://www.bookofjoe.com/2008/05/01/index.html</link>
+<description>post.</description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-15T18:10:06Z</dc:date>
+<dc:subject>800 denmark forwarding free toll</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/toll" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/forwarding" />
+    <rdf:li resource="http://del.icio.us/tag/denmark" />
+    <rdf:li resource="http://del.icio.us/tag/800" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcigateway.com/emerchantdiscount/productinformation.html">
+<title>ControlScan</title>
+<link>http://www.pcigateway.com/emerchantdiscount/productinformation.html</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:33:13Z</dc:date>
+<dc:subject>emerchant pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+    <rdf:li resource="http://del.icio.us/tag/emerchant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/security/cybercrime/showArticle.jhtml?articleID=205900444&#x26;pgno=2&#x26;queryText=&#x26;isPrev=">
+<title>Many 'Hacker Safe' Web Sites Found Vulnerable -- Security -- InformationWeek</title>
+<link>http://www.informationweek.com/news/security/cybercrime/showArticle.jhtml?articleID=205900444&#x26;pgno=2&#x26;queryText=&#x26;isPrev=</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:27:11Z</dc:date>
+<dc:subject>pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xssed.com/news/67/Hacker_Safe_or_not_Read_on_watch_the_video_and_vote_now/">
+<title>Hacker Safe or not? Read on, watch the video and vote now! | News | XSSed.com</title>
+<link>http://www.xssed.com/news/67/Hacker_Safe_or_not_Read_on_watch_the_video_and_vote_now/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:23:35Z</dc:date>
+<dc:subject>pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scanalert.com/content/affiliate/pitch.jsp?a=63&#x26;c=55&#x26;k=VrFppjPpQN">
+<title>Secret Weapon - HACKER SAFE</title>
+<link>http://www.scanalert.com/content/affiliate/pitch.jsp?a=63&#x26;c=55&#x26;k=VrFppjPpQN</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:23:22Z</dc:date>
+<dc:subject>pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2008/04/29/mcafee_hacker_safe_sites_vulnerable/">
+<title>McAfee 'Hacker Safe' cert sheds more cred | The Register</title>
+<link>http://www.theregister.co.uk/2008/04/29/mcafee_hacker_safe_sites_vulnerable/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:18:40Z</dc:date>
+<dc:subject>pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.websafeshield.com/seals.html">
+<title>WebSafe Shield - S e c u r i n g T r u s t - Increase Trust and Convert More Customers</title>
+<link>http://www.websafeshield.com/seals.html</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-13T12:18:29Z</dc:date>
+<dc:subject>pci</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pci" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hp2133guide.com/new-mini-note-models-coming-on-money-and-thursday/">
+<title>New Mini-Note Models coming on Monday and Thursday? - HP 2133 Guide</title>
+<link>http://www.hp2133guide.com/new-mini-note-models-coming-on-money-and-thursday/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-05-10T12:46:05Z</dc:date>
+<dc:subject>MiniNote</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/MiniNote" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.manycam.com/">
+<title>ManyCam - Home - webcam graphics plus use your webcam with multiple programs simultaneously!</title>
+<link>http://www.manycam.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-04-28T00:19:56Z</dc:date>
+<dc:subject>chat flash software webcam</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chat" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/webcam" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ovguide.com/">
+<title>OVGuide Online Video Guide: Free Movies, Videos, TV Shows, Video Games - It's what's ON the Web</title>
+<link>http://www.ovguide.com/</link>
+<description></description>
+<dc:creator>rayhart</dc:creator>
+<dc:date>2008-04-22T00:08:23Z</dc:date>
+<dc:subject>aggregator free movies tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/aggregator" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

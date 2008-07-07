@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/mjmuk">
+<title>del.icio.us/mjmuk</title>
+<link>http://del.icio.us/mjmuk</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.simplynoise.com/" />
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://formatoz.com/" />
+  <rdf:li rdf:resource="http://www.rustemsoft.com/XMLConverter.asp" />
+  <rdf:li rdf:resource="http://www.liquid-technologies.com/Product_XmlStudio.aspx" />
+  <rdf:li rdf:resource="http://www.subbrit.org.uk/" />
+  <rdf:li rdf:resource="http://www.subbrit.org.uk/sb-sites/stations/sites.shtml" />
+  <rdf:li rdf:resource="http://www.urlpass.com/" />
+  <rdf:li rdf:resource="http://konigi.com/tools/graph-paper" />
+  <rdf:li rdf:resource="http://dita-ot.sourceforge.net/doc/ot-userguide13/xhtml/samples/samples.html" />
+  <rdf:li rdf:resource="http://www-128.ibm.com/developerworks/xml/library/x-dita7/" />
+  <rdf:li rdf:resource="http://dita2indesign.sourceforge.net/dita_gutenberg_samples.html" />
+  <rdf:li rdf:resource="http://dita2indesign.svn.sourceforge.net/viewvc/dita2indesign/trunk/dita_gutenberg_samples/dita_src/eb_vol_04_part_03_of_04/entries/entry-d1e1030.xml?view=log" />
+  <rdf:li rdf:resource="http://www.generatedata.com/#generator" />
+  <rdf:li rdf:resource="http://www.travelpublishing.co.uk/HiddenPlacesDerbyshire/Derbyshire/DER34421.htm" />
+  <rdf:li rdf:resource="http://www.folens.ie/catalog/index.php?level=1" />
+  <rdf:li rdf:resource="http://www.soundtalking.co.uk/" />
+  <rdf:li rdf:resource="http://www.granada-learning.com/about/companies.asp" />
+  <rdf:li rdf:resource="http://www.showusabetterway.co.uk/call/" />
+  <rdf:li rdf:resource="http://www.marklogic.com/news-and-events/press-releases/mark-logic-and-empolis-sign-oem-agreement.html" />
+  <rdf:li rdf:resource="http://www.siberlogic.com/pressreleases/2008-01-09/default.asp" />
+  <rdf:li rdf:resource="http://www.cmswatch.com/Social/Vendors/" />
+  <rdf:li rdf:resource="http://www.anywheremap.com/approach-plates.aspx" />
+  <rdf:li rdf:resource="http://www.flightprep.com/rootpage.php?page=efb_faqs" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Electronic_flight_bag" />
+  <rdf:li rdf:resource="http://dspace.dial.pipex.com/town/square/ac940/weblibs.html" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/dna/memoryshare/ArticleSearch?contenttype=-1&#x26;phrase=_memory&#x26;show=10&#x26;datesearchtype=1&#x26;startday=1&#x26;startmonth=1&#x26;startyear=1960&#x26;endday=31&#x26;endmonth=12&#x26;endyear=1969&#x26;s_dateview=decade&#x26;s_decade=1960&#x26;phrase=_memory&#x26;s_phrase=_memory&#x26;s_from=drill_down" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/dna/mb6music" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/dna/mbpointsofview" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/dna/mbhistory" />
+  <rdf:li rdf:resource="http://www.bbc.co.uk/memoryshare/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://www.simplynoise.com/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T11:46:46Z</dc:date>
+<dc:subject>Computers Music Online Software Sounds Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Computers" />
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Online" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Sounds" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T11:45:03Z</dc:date>
+<dc:subject>Computers Software Tools Utilities Vista XP</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Computers" />
+    <rdf:li resource="http://del.icio.us/tag/XP" />
+    <rdf:li resource="http://del.icio.us/tag/Vista" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://formatoz.com/">
+<title>FormatFactory - File format convert tools (http://www.formatoz.com)</title>
+<link>http://formatoz.com/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T11:42:44Z</dc:date>
+<dc:subject>Conversion HTML Software Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Conversion" />
+    <rdf:li resource="http://del.icio.us/tag/HTML" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rustemsoft.com/XMLConverter.asp">
+<title>convert excel xml xls xml csv XML Converter - ODBC to XML, Oracle to XML, Excel to XML, Access to XML, Word to XML, txt to XML (convert transform export XML data), xls, xsl, xsd</title>
+<link>http://www.rustemsoft.com/XMLConverter.asp</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T09:49:24Z</dc:date>
+<dc:subject>DTD XMLEditors</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/XMLEditors" />
+    <rdf:li resource="http://del.icio.us/tag/DTD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.liquid-technologies.com/Product_XmlStudio.aspx">
+<title>FREE XML Schema Editor - Graphical XML and XSD Editor, with Validator</title>
+<link>http://www.liquid-technologies.com/Product_XmlStudio.aspx</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T09:45:12Z</dc:date>
+<dc:subject>DTD Software Tools XML XSLT xsd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DTD" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+    <rdf:li resource="http://del.icio.us/tag/xsd" />
+    <rdf:li resource="http://del.icio.us/tag/XSLT" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subbrit.org.uk/">
+<title>Subterranea Britannica: Home Page</title>
+<link>http://www.subbrit.org.uk/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T09:06:20Z</dc:date>
+<dc:subject>History Photography Places Travel Travel-Places</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/History" />
+    <rdf:li resource="http://del.icio.us/tag/Travel-Places" />
+    <rdf:li resource="http://del.icio.us/tag/Travel" />
+    <rdf:li resource="http://del.icio.us/tag/Places" />
+    <rdf:li resource="http://del.icio.us/tag/Photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.subbrit.org.uk/sb-sites/stations/sites.shtml">
+<title>Subterranea Britannica: SB-Sites: Sites List!</title>
+<link>http://www.subbrit.org.uk/sb-sites/stations/sites.shtml</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T09:05:20Z</dc:date>
+<dc:subject>History Railways Travel-Places</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/History" />
+    <rdf:li resource="http://del.icio.us/tag/Travel-Places" />
+    <rdf:li resource="http://del.icio.us/tag/Railways" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.urlpass.com/">
+<title>Shorten web addresses and pass them on</title>
+<link>http://www.urlpass.com/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-06T07:46:05Z</dc:date>
+<dc:subject>Tools Utilities Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/Utilities" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://konigi.com/tools/graph-paper">
+<title>Graph Paper | Konigi</title>
+<link>http://konigi.com/tools/graph-paper</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-05T21:53:13Z</dc:date>
+<dc:subject>CSS DIY Downloads Graphics PDF Tools Webdesign design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/DIY" />
+    <rdf:li resource="http://del.icio.us/tag/Downloads" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/PDF" />
+    <rdf:li resource="http://del.icio.us/tag/Webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dita-ot.sourceforge.net/doc/ot-userguide13/xhtml/samples/samples.html">
+<title>Sample files</title>
+<link>http://dita-ot.sourceforge.net/doc/ot-userguide13/xhtml/samples/samples.html</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T20:21:54Z</dc:date>
+<dc:subject>DITA XML</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+    <rdf:li resource="http://del.icio.us/tag/DITA" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-128.ibm.com/developerworks/xml/library/x-dita7/">
+<title>Design patterns for information architecture with DITA map domains</title>
+<link>http://www-128.ibm.com/developerworks/xml/library/x-dita7/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T20:21:11Z</dc:date>
+<dc:subject>DITA XML design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DITA" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dita2indesign.sourceforge.net/dita_gutenberg_samples.html">
+<title>DITA Project Gutenberg Samples</title>
+<link>http://dita2indesign.sourceforge.net/dita_gutenberg_samples.html</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T17:11:23Z</dc:date>
+<dc:subject>DITA XML XMLSourceFiles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DITA" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+    <rdf:li resource="http://del.icio.us/tag/XMLSourceFiles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dita2indesign.svn.sourceforge.net/viewvc/dita2indesign/trunk/dita_gutenberg_samples/dita_src/eb_vol_04_part_03_of_04/entries/entry-d1e1030.xml?view=log">
+<title>SourceForge.net Repository - [dita2indesign] Log of /trunk/dita_gutenberg_samples/dita_src/eb_vol_04_part_03_of_04/entries/entry-d1e1030.xml</title>
+<link>http://dita2indesign.svn.sourceforge.net/viewvc/dita2indesign/trunk/dita_gutenberg_samples/dita_src/eb_vol_04_part_03_of_04/entries/entry-d1e1030.xml?view=log</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T17:10:37Z</dc:date>
+<dc:subject>XMLSourceFiles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/XMLSourceFiles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.generatedata.com/#generator">
+<title>generatedata.com</title>
+<link>http://www.generatedata.com/#generator</link>
+<description>Araman</description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T16:27:10Z</dc:date>
+<dc:subject>CSS Database English XML</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/English" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.travelpublishing.co.uk/HiddenPlacesDerbyshire/Derbyshire/DER34421.htm">
+<title>Main Sail Restaurant</title>
+<link>http://www.travelpublishing.co.uk/HiddenPlacesDerbyshire/Derbyshire/DER34421.htm</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T14:14:45Z</dc:date>
+<dc:subject>Travel-Places</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Travel-Places" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.folens.ie/catalog/index.php?level=1">
+<title>Folens Publishers - Primary</title>
+<link>http://www.folens.ie/catalog/index.php?level=1</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T11:44:32Z</dc:date>
+<dc:subject>Education Publishers elearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/Education" />
+    <rdf:li resource="http://del.icio.us/tag/Publishers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.soundtalking.co.uk/">
+<title>Homepage - SoundTalking</title>
+<link>http://www.soundtalking.co.uk/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T11:43:56Z</dc:date>
+<dc:subject>Accessibility</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Accessibility" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.granada-learning.com/about/companies.asp">
+<title>Granada Learning:About Granada Learning: Companies</title>
+<link>http://www.granada-learning.com/about/companies.asp</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T07:22:47Z</dc:date>
+<dc:subject>XML eLearning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eLearning" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.showusabetterway.co.uk/call/">
+<title>Show Us a Better Way</title>
+<link>http://www.showusabetterway.co.uk/call/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-03T07:01:32Z</dc:date>
+<dc:subject>API GPS Government Mapping Maps Mashups Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/API" />
+    <rdf:li resource="http://del.icio.us/tag/Government" />
+    <rdf:li resource="http://del.icio.us/tag/GPS" />
+    <rdf:li resource="http://del.icio.us/tag/Mapping" />
+    <rdf:li resource="http://del.icio.us/tag/Maps" />
+    <rdf:li resource="http://del.icio.us/tag/Mashups" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marklogic.com/news-and-events/press-releases/mark-logic-and-empolis-sign-oem-agreement.html">
+<title>Mark Logic - News and Events</title>
+<link>http://www.marklogic.com/news-and-events/press-releases/mark-logic-and-empolis-sign-oem-agreement.html</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T16:39:03Z</dc:date>
+<dc:subject>CCMS Metadata SearchEngines XML</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CCMS" />
+    <rdf:li resource="http://del.icio.us/tag/SearchEngines" />
+    <rdf:li resource="http://del.icio.us/tag/XML" />
+    <rdf:li resource="http://del.icio.us/tag/Metadata" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siberlogic.com/pressreleases/2008-01-09/default.asp">
+<title>SiberLogic introduces SiberSafe Value Bundle</title>
+<link>http://www.siberlogic.com/pressreleases/2008-01-09/default.asp</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T15:21:57Z</dc:date>
+<dc:subject>CCMS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CCMS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cmswatch.com/Social/Vendors/">
+<title>Enterprise Social Software Channel on CMS Watch</title>
+<link>http://www.cmswatch.com/Social/Vendors/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T15:15:50Z</dc:date>
+<dc:subject>CMS UGC</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/CMS" />
+    <rdf:li resource="http://del.icio.us/tag/UGC" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.anywheremap.com/approach-plates.aspx">
+<title>Pocket Plates - FAA Approach Plates</title>
+<link>http://www.anywheremap.com/approach-plates.aspx</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T11:26:41Z</dc:date>
+<dc:subject>EFB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/EFB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flightprep.com/rootpage.php?page=efb_faqs">
+<title>EFB FAQs</title>
+<link>http://www.flightprep.com/rootpage.php?page=efb_faqs</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T10:49:04Z</dc:date>
+<dc:subject>EFB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/EFB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Electronic_flight_bag">
+<title>Electronic flight bag - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Electronic_flight_bag</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-07-01T10:42:29Z</dc:date>
+<dc:subject>EFB</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/EFB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dspace.dial.pipex.com/town/square/ac940/weblibs.html">
+<title>UK Public Libraries</title>
+<link>http://dspace.dial.pipex.com/town/square/ac940/weblibs.html</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T20:52:08Z</dc:date>
+<dc:subject>Catalogues Database PublicLibraries Webdesign Websites</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Catalogues" />
+    <rdf:li resource="http://del.icio.us/tag/Webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/Database" />
+    <rdf:li resource="http://del.icio.us/tag/Websites" />
+    <rdf:li resource="http://del.icio.us/tag/PublicLibraries" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/dna/memoryshare/ArticleSearch?contenttype=-1&#x26;phrase=_memory&#x26;show=10&#x26;datesearchtype=1&#x26;startday=1&#x26;startmonth=1&#x26;startyear=1960&#x26;endday=31&#x26;endmonth=12&#x26;endyear=1969&#x26;s_dateview=decade&#x26;s_decade=1960&#x26;phrase=_memory&#x26;s_phrase=_memory&#x26;s_from=drill_down">
+<title>BBC Memoryshare - View memories</title>
+<link>http://www.bbc.co.uk/dna/memoryshare/ArticleSearch?contenttype=-1&#x26;phrase=_memory&#x26;show=10&#x26;datesearchtype=1&#x26;startday=1&#x26;startmonth=1&#x26;startyear=1960&#x26;endday=31&#x26;endmonth=12&#x26;endyear=1969&#x26;s_dateview=decade&#x26;s_decade=1960&#x26;phrase=_memory&#x26;s_phrase=_memory&#x26;s_from=drill_down</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T20:03:13Z</dc:date>
+<dc:subject>BBCLinks History Memory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BBCLinks" />
+    <rdf:li resource="http://del.icio.us/tag/Memory" />
+    <rdf:li resource="http://del.icio.us/tag/History" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/dna/mb6music">
+<title>BBC - MESSAGE BOARDS - 6 Music - Homepage</title>
+<link>http://www.bbc.co.uk/dna/mb6music</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T19:34:04Z</dc:date>
+<dc:subject>BBCLinks Music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Music" />
+    <rdf:li resource="http://del.icio.us/tag/BBCLinks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/dna/mbpointsofview">
+<title>BBC - MESSAGE BOARDS - Points Of View - Homepage</title>
+<link>http://www.bbc.co.uk/dna/mbpointsofview</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T19:33:38Z</dc:date>
+<dc:subject>BBCLinks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BBCLinks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/dna/mbhistory">
+<title>BBC - MESSAGE BOARDS - History - Homepage</title>
+<link>http://www.bbc.co.uk/dna/mbhistory</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T19:33:15Z</dc:date>
+<dc:subject>BBCLinks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/BBCLinks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bbc.co.uk/memoryshare/">
+<title>BBC - Memoryshare</title>
+<link>http://www.bbc.co.uk/memoryshare/</link>
+<description></description>
+<dc:creator>mjmuk</dc:creator>
+<dc:date>2008-06-29T19:31:14Z</dc:date>
+<dc:subject>BBCLinks Community History Web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Community" />
+    <rdf:li resource="http://del.icio.us/tag/History" />
+    <rdf:li resource="http://del.icio.us/tag/Web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/BBCLinks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

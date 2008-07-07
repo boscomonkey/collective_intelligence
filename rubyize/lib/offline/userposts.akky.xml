@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/akky">
+<title>del.icio.us/akky</title>
+<link>http://del.icio.us/akky</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://codebasehq.com/" />
+  <rdf:li rdf:resource="http://gifmake.com/" />
+  <rdf:li rdf:resource="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://mashable.com/2008/07/03/celebrity-bloggers/" />
+  <rdf:li rdf:resource="http://www.bluehatseo.com/user-contributed-captcha-breaking-w-phpbb2-example/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://www.blogcatalog.com/" />
+  <rdf:li rdf:resource="http://www.netzgesta.de/shiftzoom/" />
+  <rdf:li rdf:resource="http://www.chungeez.com/phodyssey/" />
+  <rdf:li rdf:resource="http://code.google.com/p/quipt/" />
+  <rdf:li rdf:resource="http://www.mapstraction.com/" />
+  <rdf:li rdf:resource="http://www.skelliewag.org/how-to-play-the-odds-game-and-win-with-digg-284.htm" />
+  <rdf:li rdf:resource="http://www.steercms-project.org/" />
+  <rdf:li rdf:resource="http://code.google.com/p/apimo/" />
+  <rdf:li rdf:resource="http://www.apimo.com/" />
+  <rdf:li rdf:resource="http://www.netvalley.com/top100mag.html" />
+  <rdf:li rdf:resource="http://www.defuddle.com/" />
+  <rdf:li rdf:resource="http://www.tickerhound.com/" />
+  <rdf:li rdf:resource="http://posterous.com/" />
+  <rdf:li rdf:resource="http://www.ip-j.net/" />
+  <rdf:li rdf:resource="http://ewerl.com/" />
+  <rdf:li rdf:resource="http://www.kryogenix.org/code/browser/sorttable/" />
+  <rdf:li rdf:resource="http://pchart.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.effectgenerator.com/" />
+  <rdf:li rdf:resource="http://beta.globme.com/" />
+  <rdf:li rdf:resource="http://www.introin.com/" />
+  <rdf:li rdf:resource="http://www.clickpass.com/" />
+  <rdf:li rdf:resource="http://webinsight.cs.washington.edu/projects/webanywhere/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/yui-autogrid-correctly-resize-the-grids" />
+  <rdf:li rdf:resource="http://www.mathgladiator.com/projects/kira/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://codebasehq.com/">
+<title>Codebase - Git repository hosting with source browser, changesets, ticketing &#x26; deployment tracking</title>
+<link>http://codebasehq.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T12:39:17Z</dc:date>
+<dc:subject>BTS NetService git tracking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/tracking" />
+    <rdf:li resource="http://del.icio.us/tag/BTS" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gifmake.com/">
+<title>GIFMAKE - generator of gif pictures</title>
+<link>http://gifmake.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T12:38:16Z</dc:date>
+<dc:subject>NetService animation animationGif generator gif image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/animationGif" />
+    <rdf:li resource="http://del.icio.us/tag/gif" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes">
+<title>SEO 2.0 | Top 10 Fatal URL Design Mistakes</title>
+<link>http://seo2.0.onreact.com/top-10-fatal-url-design-mistakes</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T12:32:38Z</dc:date>
+<dc:subject>SEO URL antiPattern design howTo tips toWrite</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SEO" />
+    <rdf:li resource="http://del.icio.us/tag/URL" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/howTo" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/antiPattern" />
+    <rdf:li resource="http://del.icio.us/tag/toWrite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T12:25:42Z</dc:date>
+<dc:subject>blog hack howTo password passwordRecovery tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/passwordRecovery" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/howTo" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mashable.com/2008/07/03/celebrity-bloggers/">
+<title>Hollywood Gossip Straight from the Source: 50+ Celebrity Bloggers</title>
+<link>http://mashable.com/2008/07/03/celebrity-bloggers/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T11:34:40Z</dc:date>
+<dc:subject>English blog celebrity links list</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/English" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/celebrity" />
+    <rdf:li resource="http://del.icio.us/tag/links" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bluehatseo.com/user-contributed-captcha-breaking-w-phpbb2-example/">
+<title>Blue Hat SEO-Advanced SEO Tactics &#xBB; User Contributed - Captcha Breaking W/ PHPBB2 Example</title>
+<link>http://www.bluehatseo.com/user-contributed-captcha-breaking-w-phpbb2-example/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T06:46:19Z</dc:date>
+<dc:subject>C++ GOCR OpenSource antiCaptcha captcha howTo spammer toWrite</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/captcha" />
+    <rdf:li resource="http://del.icio.us/tag/GOCR" />
+    <rdf:li resource="http://del.icio.us/tag/antiCaptcha" />
+    <rdf:li resource="http://del.icio.us/tag/spammer" />
+    <rdf:li resource="http://del.icio.us/tag/C%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/howTo" />
+    <rdf:li resource="http://del.icio.us/tag/toWrite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T03:15:41Z</dc:date>
+<dc:subject>Google OpenSource proxy security test tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/Google" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blogcatalog.com/">
+<title>Social Blogger Community &#x26; Blog Directory // BlogCatalog</title>
+<link>http://www.blogcatalog.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-06T00:51:22Z</dc:date>
+<dc:subject>NetService blog community directory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/directory" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netzgesta.de/shiftzoom/">
+<title>shiftzoom.js (zoom and pan functionality)</title>
+<link>http://www.netzgesta.de/shiftzoom/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-05T15:59:26Z</dc:date>
+<dc:subject>Javascript gallery image library zoom</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/zoom" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chungeez.com/phodyssey/">
+<title>asad sheth's picasa gdata api prototype.js photo starfield simulation gallery</title>
+<link>http://www.chungeez.com/phodyssey/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-05T15:53:36Z</dc:date>
+<dc:subject>Javascript Prototype.Js VisualEffect gallery library photo picassa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/picassa" />
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/VisualEffect" />
+    <rdf:li resource="http://del.icio.us/tag/Prototype.Js" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/quipt/">
+<title>quipt - Google Code</title>
+<link>http://code.google.com/p/quipt/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-05T15:51:32Z</dc:date>
+<dc:subject>Javascript cache hack library windows.name</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/cache" />
+    <rdf:li resource="http://del.icio.us/tag/windows.name" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mapstraction.com/">
+<title>Mapstraction - a javascript library to hide differences between mapping APIs.</title>
+<link>http://www.mapstraction.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-05T07:13:30Z</dc:date>
+<dc:subject>Javascript abstraction api googleMaps library map yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/googleMaps" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/abstraction" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skelliewag.org/how-to-play-the-odds-game-and-win-with-digg-284.htm">
+<title>How to Play the Odds Game and Win With Digg</title>
+<link>http://www.skelliewag.org/how-to-play-the-odds-game-and-win-with-digg-284.htm</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-05T01:41:38Z</dc:date>
+<dc:subject>ViralMarketing digg howto promotion toRead</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ViralMarketing" />
+    <rdf:li resource="http://del.icio.us/tag/promotion" />
+    <rdf:li resource="http://del.icio.us/tag/toRead" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.steercms-project.org/">
+<title>http://www.steercms-project.org/</title>
+<link>http://www.steercms-project.org/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-04T17:14:43Z</dc:date>
+<dc:subject>CMS OpenSource PHP symfony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/symfony" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/CMS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/apimo/">
+<title>apimo - Google Code</title>
+<link>http://code.google.com/p/apimo/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-04T17:12:40Z</dc:date>
+<dc:subject>OpenSource PHP Symfony WebApplication realestate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/Symfony" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/realestate" />
+    <rdf:li resource="http://del.icio.us/tag/WebApplication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.apimo.com/">
+<title>Apimo.com le portail immobilier maison appartement et villa</title>
+<link>http://www.apimo.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-07-01T00:22:00Z</dc:date>
+<dc:subject>OpenSource PHP realestate symfony</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/symfony" />
+    <rdf:li resource="http://del.icio.us/tag/realestate" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netvalley.com/top100mag.html">
+<title>Computer Magazines: Top 100 Computer &#x26; Software Magazines</title>
+<link>http://www.netvalley.com/top100mag.html</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-30T06:34:53Z</dc:date>
+<dc:subject>computer list magazine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/magazine" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.defuddle.com/">
+<title>Defuddle - Answer stuff</title>
+<link>http://www.defuddle.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-30T01:58:42Z</dc:date>
+<dc:subject>Australia QandA netService</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/QandA" />
+    <rdf:li resource="http://del.icio.us/tag/netService" />
+    <rdf:li resource="http://del.icio.us/tag/Australia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tickerhound.com/">
+<title>Home - TickerHound: Investors Helping Investors</title>
+<link>http://www.tickerhound.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-30T01:56:44Z</dc:date>
+<dc:subject>NetService QandA finance investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/QandA" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://posterous.com/">
+<title>posterous - The place to post everything. Just email us.</title>
+<link>http://posterous.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-29T11:56:08Z</dc:date>
+<dc:subject>NetService fileShare mail uploader</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/uploader" />
+    <rdf:li resource="http://del.icio.us/tag/mail" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+    <rdf:li resource="http://del.icio.us/tag/fileShare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ip-j.net/">
+<title>IPJ iPhone / iPodTouch Jockey &#x22;RAIJIN / FUJIN&#x22;</title>
+<link>http://www.ip-j.net/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-29T05:41:00Z</dc:date>
+<dc:subject>DJ iPhone music software touchScreen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/DJ" />
+    <rdf:li resource="http://del.icio.us/tag/iPhone" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/touchScreen" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ewerl.com/">
+<title>Ewerl.com - URL shortener and redirect service with unique usage tracking via web and RSS</title>
+<link>http://ewerl.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-29T02:54:09Z</dc:date>
+<dc:subject>PHP clone tinyurl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tinyurl" />
+    <rdf:li resource="http://del.icio.us/tag/clone" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kryogenix.org/code/browser/sorttable/">
+<title>sorttable: Make all your tables sortable</title>
+<link>http://www.kryogenix.org/code/browser/sorttable/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-28T02:50:04Z</dc:date>
+<dc:subject>DHTML HTML HTMLTable javascript sort usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HTML" />
+    <rdf:li resource="http://del.icio.us/tag/HTMLTable" />
+    <rdf:li resource="http://del.icio.us/tag/sort" />
+    <rdf:li resource="http://del.icio.us/tag/DHTML" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pchart.sourceforge.net/">
+<title>pChart | a PHP Charting library</title>
+<link>http://pchart.sourceforge.net/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-27T08:59:22Z</dc:date>
+<dc:subject>GD OpenSource PHP chart graph library</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+    <rdf:li resource="http://del.icio.us/tag/GD" />
+    <rdf:li resource="http://del.icio.us/tag/OpenSource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.effectgenerator.com/">
+<title>The Effect Generator</title>
+<link>http://www.effectgenerator.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-27T08:57:40Z</dc:date>
+<dc:subject>Flash WebDesign animation generator visualEffect</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Flash" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/visualEffect" />
+    <rdf:li resource="http://del.icio.us/tag/WebDesign" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://beta.globme.com/">
+<title>Globme: Complete your life with friends</title>
+<link>http://beta.globme.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-27T01:50:41Z</dc:date>
+<dc:subject>map microblogging timeline</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microblogging" />
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.introin.com/">
+<title>Welcome to IntroIn</title>
+<link>http://www.introin.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-27T01:47:07Z</dc:date>
+<dc:subject>NetService community housing landlord realEstate rent review socialsoftware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rent" />
+    <rdf:li resource="http://del.icio.us/tag/housing" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/review" />
+    <rdf:li resource="http://del.icio.us/tag/realEstate" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+    <rdf:li resource="http://del.icio.us/tag/socialsoftware" />
+    <rdf:li resource="http://del.icio.us/tag/landlord" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clickpass.com/">
+<title>Clickpass</title>
+<link>http://www.clickpass.com/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-27T01:45:04Z</dc:date>
+<dc:subject>NetService OpenID usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/OpenID" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/NetService" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webinsight.cs.washington.edu/projects/webanywhere/">
+<title>WebAnywhere - A screen reader on the go</title>
+<link>http://webinsight.cs.washington.edu/projects/webanywhere/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-26T16:01:50Z</dc:date>
+<dc:subject>accessibility audio browser clientApplication scrennreader software textToSpeech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/textToSpeech" />
+    <rdf:li resource="http://del.icio.us/tag/scrennreader" />
+    <rdf:li resource="http://del.icio.us/tag/accessibility" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/clientApplication" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/yui-autogrid-correctly-resize-the-grids">
+<title>Ajaxian &#xBB; YUI Autogrid: Correctly resize the grids</title>
+<link>http://ajaxian.com/archives/yui-autogrid-correctly-resize-the-grids</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-26T13:50:31Z</dc:date>
+<dc:subject>CSS Javascript YUI grid howTo layout</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/YUI" />
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/howTo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathgladiator.com/projects/kira/">
+<title>Kira</title>
+<link>http://www.mathgladiator.com/projects/kira/</link>
+<description></description>
+<dc:creator>akky</dc:creator>
+<dc:date>2008-06-26T04:21:45Z</dc:date>
+<dc:subject>Kira PHP compiler programmingLanguage</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/programmingLanguage" />
+    <rdf:li resource="http://del.icio.us/tag/Kira" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

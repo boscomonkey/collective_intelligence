@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/philo07">
+<title>del.icio.us/philo07</title>
+<link>http://del.icio.us/philo07</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://www.fool.com/investing/mutual-funds/2008/07/02/what-to-do-with-5000.aspx" />
+  <rdf:li rdf:resource="http://chosenmen.com/" />
+  <rdf:li rdf:resource="http://alwaysgayalways.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.livingfuel.com/" />
+  <rdf:li rdf:resource="http://www.thesword.com/2008/06/san-francisco-new-york-pride-hangover-edition.html" />
+  <rdf:li rdf:resource="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/29/TRP21172CI.DTL" />
+  <rdf:li rdf:resource="http://www.naturalnews.com/023507.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/080617-hereditary-homosexuality.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/080624-bad-flip-flops.html" />
+  <rdf:li rdf:resource="http://www.salon.com/" />
+  <rdf:li rdf:resource="http://www.nccnhr.org/" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://drop.io/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/22/technology/22novel.html?th&#x26;emc=th" />
+  <rdf:li rdf:resource="http://www.hijackthis.de/" />
+  <rdf:li rdf:resource="http://bigsticks.thumblogger.com/" />
+  <rdf:li rdf:resource="http://dreamyboys.blogspot.com/" />
+  <rdf:li rdf:resource="http://gaytrend.blogspot.com/" />
+  <rdf:li rdf:resource="http://xxxgaymovies.blogspot.com/" />
+  <rdf:li rdf:resource="http://twinktown.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.premiumboyblog.blogspot.com/" />
+  <rdf:li rdf:resource="http://neededrelief3.blogspot.com/" />
+  <rdf:li rdf:resource="http://nethackz.com/15-browser-add-ons-you-cant-afford-to-miss/" />
+  <rdf:li rdf:resource="http://wikisky.org/" />
+  <rdf:li rdf:resource="http://mobaganda.com/" />
+  <rdf:li rdf:resource="http://www.picnik.com/" />
+  <rdf:li rdf:resource="http://www.mapjack.com/" />
+  <rdf:li rdf:resource="http://www.zeer.com/" />
+  <rdf:li rdf:resource="http://wikitravel.org/en/Main_Page" />
+  <rdf:li rdf:resource="http://www.tripkick.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-06T11:47:27Z</dc:date>
+<dc:subject>chair</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fool.com/investing/mutual-funds/2008/07/02/what-to-do-with-5000.aspx">
+<title>What to Do With $5,000</title>
+<link>http://www.fool.com/investing/mutual-funds/2008/07/02/what-to-do-with-5000.aspx</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-05T07:33:41Z</dc:date>
+<dc:subject>investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chosenmen.com/">
+<title>Chosen Men: A Gay Sex Blog and More</title>
+<link>http://chosenmen.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-05T05:55:02Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alwaysgayalways.blogspot.com/">
+<title>Always Gay. Always.</title>
+<link>http://alwaysgayalways.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-05T05:18:02Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livingfuel.com/">
+<title>Welcome to the Official Site of Living Fuel</title>
+<link>http://www.livingfuel.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-03T21:39:25Z</dc:date>
+<dc:subject>nutrition supplements</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nutrition" />
+    <rdf:li resource="http://del.icio.us/tag/supplements" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesword.com/2008/06/san-francisco-new-york-pride-hangover-edition.html">
+<title>The Sword :: San Francisco &#x26; New York Pride: Hangover Edition</title>
+<link>http://www.thesword.com/2008/06/san-francisco-new-york-pride-hangover-edition.html</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-07-01T20:16:42Z</dc:date>
+<dc:subject>goodblogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/29/TRP21172CI.DTL">
+<title>Mulege: In search of a palapa paradise</title>
+<link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/06/29/TRP21172CI.DTL</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-29T14:43:10Z</dc:date>
+<dc:subject>travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.naturalnews.com/023507.html">
+<title>Natural Remedies for Poison Ivy and Poison Oak</title>
+<link>http://www.naturalnews.com/023507.html</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-27T06:05:08Z</dc:date>
+<dc:subject>ivy oak poison remedies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poison" />
+    <rdf:li resource="http://del.icio.us/tag/ivy" />
+    <rdf:li resource="http://del.icio.us/tag/oak" />
+    <rdf:li resource="http://del.icio.us/tag/remedies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/080617-hereditary-homosexuality.html">
+<title>Why Gays Don't Go Extinct | LiveScience</title>
+<link>http://www.livescience.com/health/080617-hereditary-homosexuality.html</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-25T08:02:08Z</dc:date>
+<dc:subject>homosexuality</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/homosexuality" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/080624-bad-flip-flops.html">
+<title>Flip-Flops Bad For Feet | LiveScience</title>
+<link>http://www.livescience.com/health/080624-bad-flip-flops.html</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-25T07:56:00Z</dc:date>
+<dc:subject>and eugenio for mary shoes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/for" />
+    <rdf:li resource="http://del.icio.us/tag/mary" />
+    <rdf:li resource="http://del.icio.us/tag/and" />
+    <rdf:li resource="http://del.icio.us/tag/eugenio" />
+    <rdf:li resource="http://del.icio.us/tag/shoes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.salon.com/">
+<title>Salon.com - Breaking news, opinion, politics, entertainment, sports and culture.</title>
+<link>http://www.salon.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-24T19:36:25Z</dc:date>
+<dc:subject>goodblogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nccnhr.org/">
+<title>National Citizen's Coalition for Nursing Home Reform</title>
+<link>http://www.nccnhr.org/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-24T18:05:06Z</dc:date>
+<dc:subject>home nursing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nursing" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-23T19:36:40Z</dc:date>
+<dc:subject>college computer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/college" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://drop.io/">
+<title>Drop.io: Simple Private Sharing</title>
+<link>http://drop.io/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-23T00:08:06Z</dc:date>
+<dc:subject>faxing free</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/faxing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/22/technology/22novel.html?th&#x26;emc=th">
+<title>Novelties - In Search of Perfect Harmony, Through Software - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/22/technology/22novel.html?th&#x26;emc=th</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-22T18:36:00Z</dc:date>
+<dc:subject>musicrecording</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/musicrecording" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hijackthis.de/">
+<title>HijackThis Logfileauswertung</title>
+<link>http://www.hijackthis.de/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-22T03:35:44Z</dc:date>
+<dc:subject>hijackthis</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hijackthis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bigsticks.thumblogger.com/">
+<title>Big Sticks</title>
+<link>http://bigsticks.thumblogger.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-22T01:48:04Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dreamyboys.blogspot.com/">
+<title>&#xA4; Dreamy Boys &#xA4;</title>
+<link>http://dreamyboys.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-22T00:31:32Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gaytrend.blogspot.com/">
+<title>gay TREND</title>
+<link>http://gaytrend.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-22T00:24:03Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xxxgaymovies.blogspot.com/">
+<title>Gay XXX Movies</title>
+<link>http://xxxgaymovies.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-21T22:58:02Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twinktown.blogspot.com/">
+<title>Twink Town</title>
+<link>http://twinktown.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-21T07:36:38Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.premiumboyblog.blogspot.com/">
+<title>Warning!!!</title>
+<link>http://www.premiumboyblog.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-21T07:08:39Z</dc:date>
+<dc:subject>blogs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://neededrelief3.blogspot.com/">
+<title>Needed Relief 3</title>
+<link>http://neededrelief3.blogspot.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-21T06:53:25Z</dc:date>
+<dc:subject>goodblogay</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/goodblogay" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nethackz.com/15-browser-add-ons-you-cant-afford-to-miss/">
+<title>15 Browser Add Ons You Can&#x2019;t Afford to Miss | Nethackz.com</title>
+<link>http://nethackz.com/15-browser-add-ons-you-cant-afford-to-miss/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-17T02:38:26Z</dc:date>
+<dc:subject>firefox software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikisky.org/">
+<title>WIKISKY.ORG</title>
+<link>http://wikisky.org/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-17T00:11:21Z</dc:date>
+<dc:subject>astronomy atlas</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/astronomy" />
+    <rdf:li resource="http://del.icio.us/tag/atlas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mobaganda.com/">
+<title>mobaganda*</title>
+<link>http://mobaganda.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-17T00:02:30Z</dc:date>
+<dc:subject>calendar events</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/events" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.picnik.com/">
+<title>Picnik - edit photos the easy way, online in your browser</title>
+<link>http://www.picnik.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-17T00:01:02Z</dc:date>
+<dc:subject>editor photo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mapjack.com/">
+<title>MapJack - Your City Online</title>
+<link>http://www.mapjack.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-16T23:57:47Z</dc:date>
+<dc:subject>maps</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zeer.com/">
+<title>Zeer | Consumer reviews for healthy eating, organic food and green products.</title>
+<link>http://www.zeer.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-16T23:52:04Z</dc:date>
+<dc:subject>nutrition</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nutrition" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wikitravel.org/en/Main_Page">
+<title>Free Worldwide Travel Guides - Wikitravel</title>
+<link>http://wikitravel.org/en/Main_Page</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-16T23:38:40Z</dc:date>
+<dc:subject>travel wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tripkick.com/">
+<title>Hotel Room Reviews - Find the Best Hotel Room on TripKick.com</title>
+<link>http://www.tripkick.com/</link>
+<description></description>
+<dc:creator>philo07</dc:creator>
+<dc:date>2008-06-16T23:38:10Z</dc:date>
+<dc:subject>hotels</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hotels" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

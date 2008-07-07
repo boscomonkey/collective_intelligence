@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/vmcodes">
+<title>del.icio.us/vmcodes</title>
+<link>http://del.icio.us/vmcodes</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://aaroncox.net/tutorials/arcade/" />
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html" />
+  <rdf:li rdf:resource="http://www.sdltutorials.com/" />
+  <rdf:li rdf:resource="http://rifers.org/wiki/display/RIFE/Web+continuations" />
+  <rdf:li rdf:resource="http://www.hos.com/" />
+  <rdf:li rdf:resource="http://en.scientificcommons.org/477615" />
+  <rdf:li rdf:resource="http://www.ieee.org/portal/site/iportals" />
+  <rdf:li rdf:resource="http://ttcplinux.sourceforge.net/documents/one/tcpstate/tcpstate.html" />
+  <rdf:li rdf:resource="http://home.iae.nl/users/mhx/crenshaw/tiny.html" />
+  <rdf:li rdf:resource="http://compilers.iecc.com/crenshaw/" />
+  <rdf:li rdf:resource="http://www.cliki.net/GCL%20ANSI%20Test%20Suite" />
+  <rdf:li rdf:resource="http://www.erlangtech.com/" />
+  <rdf:li rdf:resource="http://jerith.za.net/writings/erlangsockettut.html" />
+  <rdf:li rdf:resource="http://erlide.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.zachbaker.com/" />
+  <rdf:li rdf:resource="http://www.cs.indiana.edu/~aghuloum/" />
+  <rdf:li rdf:resource="http://psg.com/~dlamkins/" />
+  <rdf:li rdf:resource="http://dept-info.labri.fr/~strandh/index.en.html" />
+  <rdf:li rdf:resource="http://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html" />
+  <rdf:li rdf:resource="http://trac.clozure.com/openmcl" />
+  <rdf:li rdf:resource="http://sb-studio.net/index.html" />
+  <rdf:li rdf:resource="http://cleverdevil.org/computing/24/python-fastcgi-wsgi-and-lighttpd" />
+  <rdf:li rdf:resource="http://tiswww.case.edu/php/chet/" />
+  <rdf:li rdf:resource="http://www.accesscom.com/~darius/" />
+  <rdf:li rdf:resource="http://fare.livejournal.com/" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.magic-software.com/" />
+  <rdf:li rdf:resource="http://www.jroller.com/languages/entry/python_writing_a_compiler_and" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/business/7464074.stm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://aaroncox.net/tutorials/arcade/">
+<title>Aaron's Game Programming Tutorials</title>
+<link>http://aaroncox.net/tutorials/arcade/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-07-06T07:10:16Z</dc:date>
+<dc:subject>Games programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-07-06T04:52:45Z</dc:date>
+<dc:subject>AI Articles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+    <rdf:li resource="http://del.icio.us/tag/Articles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html">
+<title>The Early History of Smalltalk</title>
+<link>http://gagne.homedns.org/~tgagne/contrib/EarlyHistoryST.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-07-06T04:51:32Z</dc:date>
+<dc:subject>Articles Languages papers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Articles" />
+    <rdf:li resource="http://del.icio.us/tag/papers" />
+    <rdf:li resource="http://del.icio.us/tag/Languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sdltutorials.com/">
+<title>SDL Tutorials - Game Tutorials - Programming Tutorials</title>
+<link>http://www.sdltutorials.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-07-04T00:23:47Z</dc:date>
+<dc:subject>Games programming tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rifers.org/wiki/display/RIFE/Web+continuations">
+<title>Web continuations - RIFE - Confluence</title>
+<link>http://rifers.org/wiki/display/RIFE/Web+continuations</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-07-02T06:55:12Z</dc:date>
+<dc:subject>Java Lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Java" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hos.com/">
+<title>Hearts of Space</title>
+<link>http://www.hos.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T23:18:41Z</dc:date>
+<dc:subject>music radio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.scientificcommons.org/477615">
+<title>Scientific Commons: Universal Domains For Sequential Computation (2001), 2001-08-28 [Matthias Felleisen, John C. Polking, Ramarao Kanneganti]</title>
+<link>http://en.scientificcommons.org/477615</link>
+<description>Rama's Thesis.</description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T22:40:32Z</dc:date>
+<dc:subject>papers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/papers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ieee.org/portal/site/iportals">
+<title>IEEE - the world's leading professional association for the advancement of technology</title>
+<link>http://www.ieee.org/portal/site/iportals</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T19:38:54Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ttcplinux.sourceforge.net/documents/one/tcpstate/tcpstate.html">
+<title>TCP State Transitions</title>
+<link>http://ttcplinux.sourceforge.net/documents/one/tcpstate/tcpstate.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T19:32:03Z</dc:date>
+<dc:subject>networking papers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/papers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://home.iae.nl/users/mhx/crenshaw/tiny.html">
+<title>Let's Build a Compiler: Tiny Kiss in iForth</title>
+<link>http://home.iae.nl/users/mhx/crenshaw/tiny.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T08:01:02Z</dc:date>
+<dc:subject>Compiler Interpreter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Compiler" />
+    <rdf:li resource="http://del.icio.us/tag/Interpreter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://compilers.iecc.com/crenshaw/">
+<title>Let's Build a Compiler</title>
+<link>http://compilers.iecc.com/crenshaw/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T07:59:50Z</dc:date>
+<dc:subject>Compiler Interpreter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Interpreter" />
+    <rdf:li resource="http://del.icio.us/tag/Compiler" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cliki.net/GCL%20ANSI%20Test%20Suite">
+<title>CLiki : GCL ANSI Test Suite</title>
+<link>http://www.cliki.net/GCL%20ANSI%20Test%20Suite</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-30T02:22:20Z</dc:date>
+<dc:subject>Lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.erlangtech.com/">
+<title>erlangtech :: home :</title>
+<link>http://www.erlangtech.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T23:16:42Z</dc:date>
+<dc:subject>Companies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Companies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jerith.za.net/writings/erlangsockettut.html">
+<title>jerith.za.net: Socket programming in Erlang</title>
+<link>http://jerith.za.net/writings/erlangsockettut.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T23:15:49Z</dc:date>
+<dc:subject>erlang programming tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erlide.sourceforge.net/">
+<title>Erlide - the Erlang IDE. Powered by Eclipse.</title>
+<link>http://erlide.sourceforge.net/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T22:38:19Z</dc:date>
+<dc:subject>Software erlang</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachbaker.com/">
+<title>: Zach Baker: Story-Driven</title>
+<link>http://www.zachbaker.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T08:17:58Z</dc:date>
+<dc:subject>AI Games Graphics People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/People" />
+    <rdf:li resource="http://del.icio.us/tag/AI" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.indiana.edu/~aghuloum/">
+<title>Abdulaziz Ghuloum</title>
+<link>http://www.cs.indiana.edu/~aghuloum/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T07:10:54Z</dc:date>
+<dc:subject>Compiler Lisp People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Compiler" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/People" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psg.com/~dlamkins/">
+<title>David B. Lamkins' Web Site</title>
+<link>http://psg.com/~dlamkins/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-29T06:35:54Z</dc:date>
+<dc:subject>Lisp People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/People" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dept-info.labri.fr/~strandh/index.en.html">
+<title>Robert Strandh</title>
+<link>http://dept-info.labri.fr/~strandh/index.en.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-28T08:20:08Z</dc:date>
+<dc:subject>Lisp People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/People" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html">
+<title>Successful Lisp - Cover</title>
+<link>http://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-28T08:18:05Z</dc:date>
+<dc:subject>Books Lisp programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Books" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://trac.clozure.com/openmcl">
+<title>Clozure CL Bug Tracking - Trac</title>
+<link>http://trac.clozure.com/openmcl</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-28T08:14:19Z</dc:date>
+<dc:subject>Lisp Software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/Software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sb-studio.net/index.html">
+<title>Steel Bank Studio</title>
+<link>http://sb-studio.net/index.html</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-27T20:30:02Z</dc:date>
+<dc:subject>Lisp programming sbcl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/sbcl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cleverdevil.org/computing/24/python-fastcgi-wsgi-and-lighttpd">
+<title>:: cleverdevil ::: Python, FastCGI, WSGI, and lighttpd</title>
+<link>http://cleverdevil.org/computing/24/python-fastcgi-wsgi-and-lighttpd</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-27T17:14:41Z</dc:date>
+<dc:subject>fastcgi lighttpd python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/fastcgi" />
+    <rdf:li resource="http://del.icio.us/tag/lighttpd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tiswww.case.edu/php/chet/">
+<title>Chet Ramey's Home Page</title>
+<link>http://tiswww.case.edu/php/chet/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-25T18:26:51Z</dc:date>
+<dc:subject>People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/People" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.accesscom.com/~darius/">
+<title>Darius Bacon</title>
+<link>http://www.accesscom.com/~darius/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-24T19:13:55Z</dc:date>
+<dc:subject>Compiler Interpreter Lisp People Scheme</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/People" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+    <rdf:li resource="http://del.icio.us/tag/Scheme" />
+    <rdf:li resource="http://del.icio.us/tag/Compiler" />
+    <rdf:li resource="http://del.icio.us/tag/Interpreter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fare.livejournal.com/">
+<title>Cybernethics / Cybern&#xE9;thique</title>
+<link>http://fare.livejournal.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-24T04:08:31Z</dc:date>
+<dc:subject>Blog Lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Blog" />
+    <rdf:li resource="http://del.icio.us/tag/Lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/">
+<title>Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-23T17:30:12Z</dc:date>
+<dc:subject>People</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/People" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-23T16:14:34Z</dc:date>
+<dc:subject>Lectures video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Lectures" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magic-software.com/">
+<title>Resilient RNG generation for high volume Gaming Severs</title>
+<link>http://www.magic-software.com/</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-20T19:52:47Z</dc:date>
+<dc:subject>Games Graphics Math algorithms programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Games" />
+    <rdf:li resource="http://del.icio.us/tag/Graphics" />
+    <rdf:li resource="http://del.icio.us/tag/Math" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/languages/entry/python_writing_a_compiler_and">
+<title>Fun with Languages : Weblog</title>
+<link>http://www.jroller.com/languages/entry/python_writing_a_compiler_and</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-20T17:11:48Z</dc:date>
+<dc:subject>Interpreter Python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Python" />
+    <rdf:li resource="http://del.icio.us/tag/Interpreter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/business/7464074.stm">
+<title>BBC NEWS | Business | The secret of Bill Gates' success</title>
+<link>http://news.bbc.co.uk/2/hi/business/7464074.stm</link>
+<description></description>
+<dc:creator>vmcodes</dc:creator>
+<dc:date>2008-06-20T16:06:42Z</dc:date>
+<dc:subject>business video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

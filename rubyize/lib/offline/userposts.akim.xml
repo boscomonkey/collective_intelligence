@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/akim">
+<title>del.icio.us/akim</title>
+<link>http://del.icio.us/akim</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://www.siafoo.net/article/57" />
+  <rdf:li rdf:resource="http://www.songtrellis.com/" />
+  <rdf:li rdf:resource="http://forum.videohelp.com/topic352374.html" />
+  <rdf:li rdf:resource="http://www.videohelp.com/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://regulargeek.com/2008/06/24/required-reading-in-social-media/" />
+  <rdf:li rdf:resource="http://yuiblog.com/blog/2008/06/27/fiddler/" />
+  <rdf:li rdf:resource="http://www.usenetwatch.com/" />
+  <rdf:li rdf:resource="http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/" />
+  <rdf:li rdf:resource="http://lifehacker.com/396534/freeware-pdf-unlocker-enables-copypaste-functions-without-passwords" />
+  <rdf:li rdf:resource="http://www.kk.org/cooltools/archives/000182.php" />
+  <rdf:li rdf:resource="http://www.dailywritingtips.com/writing-software/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/galleries/dark-websites-designs/" />
+  <rdf:li rdf:resource="http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx" />
+  <rdf:li rdf:resource="http://blog.awarelabs.com/?p=62" />
+  <rdf:li rdf:resource="http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html" />
+  <rdf:li rdf:resource="http://cryptome.org/" />
+  <rdf:li rdf:resource="http://www.search-this.com/2008/05/15/easy-vertical-centering-with-css/" />
+  <rdf:li rdf:resource="http://www.leigeber.com/2008/06/javascript-tooltip/" />
+  <rdf:li rdf:resource="http://www.ubuntu-unleashed.com/2008/06/top-security-tools-in-ubuntu.html" />
+  <rdf:li rdf:resource="http://money.cnn.com/magazines/fsb/howwegotstarted/2007/index.html" />
+  <rdf:li rdf:resource="http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/boto/wiki/RunningFromSubversion" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/korbyp/archive/2004/04/02/106590.aspx" />
+  <rdf:li rdf:resource="http://finance.yahoo.com/retirement/article/105043/The-Only-7-Investments-You-Need" />
+  <rdf:li rdf:resource="http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-07-06T04:34:41Z</dc:date>
+<dc:subject>atom chart particle physics quantum reference science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-07-06T04:29:53Z</dc:date>
+<dc:subject>Tools children computer howto kids lifehacker microsoft security software tutorial windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/children" />
+    <rdf:li resource="http://del.icio.us/tag/kids" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/Tools" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-07-05T18:47:00Z</dc:date>
+<dc:subject>Design Useful business clients freelance marketing sales toread work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/Useful" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.siafoo.net/article/57">
+<title>Python __Underscore__ Methods - Siafoo</title>
+<link>http://www.siafoo.net/article/57</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-07-03T06:13:51Z</dc:date>
+<dc:subject>Programming api method python reference special toread underscore</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/Programming" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/method" />
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/underscore" />
+    <rdf:li resource="http://del.icio.us/tag/special" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.songtrellis.com/">
+<title>SongTrellis - Music and Musical Know-How For You</title>
+<link>http://www.songtrellis.com/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-07-02T15:54:15Z</dc:date>
+<dc:subject>Learning chords jazz midi music reference sound tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/chords" />
+    <rdf:li resource="http://del.icio.us/tag/jazz" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/midi" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/Learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.videohelp.com/topic352374.html">
+<title>How to convert any video to MP4 iPod, iPhone, PS3, XboX360 using free tools - VideoHelp.com</title>
+<link>http://forum.videohelp.com/topic352374.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-30T21:03:47Z</dc:date>
+<dc:subject>conversion ipod video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.videohelp.com/">
+<title>VideoHelp.com - Forum, Guides, Tools and hardware lists</title>
+<link>http://www.videohelp.com/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-30T21:03:27Z</dc:date>
+<dc:subject>dvd howto ipod media reference software tools tutorial video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-30T18:11:31Z</dc:date>
+<dc:subject>css design float reference webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/float" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>prog21: Want to Write a Compiler? Just Read These Two Papers.</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-30T18:09:43Z</dc:date>
+<dc:subject>ToDo compiler compilers development inspiration papers programming reference software toread tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/compiler" />
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+    <rdf:li resource="http://del.icio.us/tag/papers" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/ToDo" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>programming matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-30T17:12:59Z</dc:date>
+<dc:subject>career comparison competency development interview learning management matrix programming software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/competency" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://regulargeek.com/2008/06/24/required-reading-in-social-media/">
+<title>Required Reading in Social Media - Regular Geek</title>
+<link>http://regulargeek.com/2008/06/24/required-reading-in-social-media/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-28T19:14:12Z</dc:date>
+<dc:subject>Social list networking socialmedia socialnetworking technology toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/socialmedia" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworking" />
+    <rdf:li resource="http://del.icio.us/tag/Social" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/list" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yuiblog.com/blog/2008/06/27/fiddler/">
+<title>Production JavaScript Debugging &#xBB; Yahoo! User Interface Blog</title>
+<link>http://yuiblog.com/blog/2008/06/27/fiddler/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-28T18:09:19Z</dc:date>
+<dc:subject>cadd debugging development fiddler http javascript programming tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/debugging" />
+    <rdf:li resource="http://del.icio.us/tag/fiddler" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+    <rdf:li resource="http://del.icio.us/tag/cadd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usenetwatch.com/">
+<title>Usenetwatch</title>
+<link>http://www.usenetwatch.com/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-25T18:26:17Z</dc:date>
+<dc:subject>blog nzb usenet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usenet" />
+    <rdf:li resource="http://del.icio.us/tag/nzb" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/">
+<title>8 Free Online Resources For Learning A New Language</title>
+<link>http://www.bravenewtraveler.com/2008/02/04/8-free-online-resources-for-learning-a-new-language/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-25T17:53:16Z</dc:date>
+<dc:subject>education free language languages learning reference tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396534/freeware-pdf-unlocker-enables-copypaste-functions-without-passwords">
+<title>Password Recovery: Freeware PDF Unlocker Enables Copy/Paste Functions Without Passwords</title>
+<link>http://lifehacker.com/396534/freeware-pdf-unlocker-enables-copypaste-functions-without-passwords</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-21T02:48:15Z</dc:date>
+<dc:subject>CADD free freeware pdf security software unlock windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pdf" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/unlock" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/CADD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/cooltools/archives/000182.php">
+<title>Cool Tool: Fetal Doppler</title>
+<link>http://www.kk.org/cooltools/archives/000182.php</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-13T02:39:41Z</dc:date>
+<dc:subject>baby health infant pregnancy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/pregnancy" />
+    <rdf:li resource="http://del.icio.us/tag/baby" />
+    <rdf:li resource="http://del.icio.us/tag/infant" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailywritingtips.com/writing-software/">
+<title>25 Pieces of Writing Software You Should Know About</title>
+<link>http://www.dailywritingtips.com/writing-software/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-12T02:36:37Z</dc:date>
+<dc:subject>copywriting howto resources software tools writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/copywriting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/galleries/dark-websites-designs/">
+<title>25 Beautifully Dark Websites - Part II | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/galleries/dark-websites-designs/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-11T01:49:07Z</dc:date>
+<dc:subject>Websites art beauty blogs color colors css dark design development gallery inspiration layout webdesign webdev website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/dark" />
+    <rdf:li resource="http://del.icio.us/tag/colors" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/Websites" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/blogs" />
+    <rdf:li resource="http://del.icio.us/tag/beauty" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx">
+<title>Dare Obasanjo aka Carnage4Life - Two Cardinal Sins of REST API Design: Lessons you can Learn from the NewsGator REST API</title>
+<link>http://www.25hoursaday.com/weblog/2008/06/10/TwoCardinalSinsOfRESTAPIDesignLessonsYouCanLearnFromTheNewsGatorRESTAPI.aspx</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-11T01:19:49Z</dc:date>
+<dc:subject>Architecture Web api development programming rest webservices</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/api" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/Web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/Architecture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.awarelabs.com/?p=62">
+<title>Amazon EC2 Basics For The Curious &#xBB; Django Aware</title>
+<link>http://blog.awarelabs.com/?p=62</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-09T05:39:43Z</dc:date>
+<dc:subject>amazon aws django ec2 hosting python tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ec2" />
+    <rdf:li resource="http://del.icio.us/tag/django" />
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+    <rdf:li resource="http://del.icio.us/tag/aws" />
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html">
+<title>woork: Clean and pure CSS FORM design</title>
+<link>http://woork.blogspot.com/2008/06/clean-and-pure-css-form-design.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-09T05:30:49Z</dc:date>
+<dc:subject>cadd css design form forms html web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/cadd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cryptome.org/">
+<title>Cryptome</title>
+<link>http://cryptome.org/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-06T23:00:36Z</dc:date>
+<dc:subject>crypto government intelligence news politics privacy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/intelligence" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/crypto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.search-this.com/2008/05/15/easy-vertical-centering-with-css/">
+<title>Easy Vertical Centering with CSS</title>
+<link>http://www.search-this.com/2008/05/15/easy-vertical-centering-with-css/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-06T13:52:16Z</dc:date>
+<dc:subject>CADD DESIGN centering css howto layout vertical webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/centering" />
+    <rdf:li resource="http://del.icio.us/tag/vertical" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/DESIGN" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/CADD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.leigeber.com/2008/06/javascript-tooltip/">
+<title>Fading JavaScript Tooltips 2kb - Web Development Blog</title>
+<link>http://www.leigeber.com/2008/06/javascript-tooltip/</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-06T13:52:00Z</dc:date>
+<dc:subject>CADD ajax fading javascript library tooltip tooltips tutorial webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tooltip" />
+    <rdf:li resource="http://del.icio.us/tag/tooltips" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/fading" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/CADD" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubuntu-unleashed.com/2008/06/top-security-tools-in-ubuntu.html">
+<title>The Top Security Tools in the Ubuntu Repositories you may not know about with 1 click Installation!</title>
+<link>http://www.ubuntu-unleashed.com/2008/06/top-security-tools-in-ubuntu.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-05T02:33:55Z</dc:date>
+<dc:subject>hacking hacks linux mustinstall security sysadmin tools ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/mustinstall" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/magazines/fsb/howwegotstarted/2007/index.html">
+<title>How We Got Started: Entrepreneurial Heroes - Fortune Small Business Magazine</title>
+<link>http://money.cnn.com/magazines/fsb/howwegotstarted/2007/index.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-06-02T02:03:47Z</dc:date>
+<dc:subject>business innovation startup toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html">
+<title> Built-in Windows commands to determine if a system has been hacked</title>
+<link>http://searchsecurity.techtarget.com/tip/0,289483,sid14_gci1303709,00.html</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-05-28T22:44:49Z</dc:date>
+<dc:subject>TOREAD Useful commands hacking hacks security sysadmin tools utilities windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/Useful" />
+    <rdf:li resource="http://del.icio.us/tag/hacking" />
+    <rdf:li resource="http://del.icio.us/tag/TOREAD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/boto/wiki/RunningFromSubversion">
+<title>RunningFromSubversion - boto - Google Code</title>
+<link>http://code.google.com/p/boto/wiki/RunningFromSubversion</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-05-28T17:13:57Z</dc:date>
+<dc:subject>boto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/boto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/korbyp/archive/2004/04/02/106590.aspx">
+<title>Korby Parnell's Social Software Wunderkammer : How To: Easily Add Folders to VSS Recursively</title>
+<link>http://blogs.msdn.com/korbyp/archive/2004/04/02/106590.aspx</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-05-28T14:16:58Z</dc:date>
+<dc:subject>VSS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/VSS" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://finance.yahoo.com/retirement/article/105043/The-Only-7-Investments-You-Need">
+<title>The-Only-7-Investments-You-Need: Personal Finance News from Yahoo! Finance</title>
+<link>http://finance.yahoo.com/retirement/article/105043/The-Only-7-Investments-You-Need</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-05-19T05:16:59Z</dc:date>
+<dc:subject>advice finance investing investment money todo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investment" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/finance" />
+    <rdf:li resource="http://del.icio.us/tag/advice" />
+    <rdf:li resource="http://del.icio.us/tag/todo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx">
+<title>Scott Hanselman's Computer Zen - 11 Top Tips for a Successful Technical Presentation</title>
+<link>http://www.hanselman.com/blog/11TopTipsForASuccessfulTechnicalPresentation.aspx</link>
+<description></description>
+<dc:creator>akim</dc:creator>
+<dc:date>2008-05-17T17:14:27Z</dc:date>
+<dc:subject>office powerpoint presentation presentations speaking technical tips toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentations" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/speaking" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/technical" />
+    <rdf:li resource="http://del.icio.us/tag/office" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

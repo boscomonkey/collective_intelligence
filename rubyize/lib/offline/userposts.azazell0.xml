@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/azazell0">
+<title>del.icio.us/azazell0</title>
+<link>http://del.icio.us/azazell0</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/The_Tipping_Point" />
+  <rdf:li rdf:resource="http://research.microsoft.com/~antr/SCRIBE/default.htm" />
+  <rdf:li rdf:resource="http://www.chrisbrogan.com/a-sample-blogging-workflow/" />
+  <rdf:li rdf:resource="http://koderko.dk/J2METutorial/" />
+  <rdf:li rdf:resource="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://veerle.duoh.com/blog/comments/inspiration_series_posters/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://www.break.com/index/it-guy-vs-dumb-employees.html" />
+  <rdf:li rdf:resource="http://forum.stylegala.com/viewtopic.php?t=3964" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://sonjayatandon.com/05-2006/how-to-configure-eclipse-for-ruby-on-rails/" />
+  <rdf:li rdf:resource="http://css-tricks.com/all-about-floats/" />
+  <rdf:li rdf:resource="http://vandelaydesign.com/blog/galleries/artistic-websites-two/" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/10-plus-Collection-of-Ruby-Quick-Reference-Sheets-and-Cheat-Sheets-freebooksandarticles" />
+  <rdf:li rdf:resource="http://www.makelinux.net/kernel_map" />
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/slow-sync-flash/" />
+  <rdf:li rdf:resource="http://www.dnforum.com/f34/how-do-paypal-mass-pay-payments-avoid-fees-read-learn-thread-266771.html" />
+  <rdf:li rdf:resource="http://www.associate-o-matic.com/pricing.html" />
+  <rdf:li rdf:resource="http://www.dnforum.com/" />
+  <rdf:li rdf:resource="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup" />
+  <rdf:li rdf:resource="http://www.comp.nus.edu.sg/~damithch/guide/" />
+  <rdf:li rdf:resource="http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/" />
+  <rdf:li rdf:resource="http://www.zachgraeve.com/css-cheats/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://en.wikipedia.org/wiki/The_Tipping_Point">
+<title>The Tipping Point - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/The_Tipping_Point</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-06T12:44:53Z</dc:date>
+<dc:subject>Design maven patterns principles socialnetworks sociology theory viral</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/principles" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/sociology" />
+    <rdf:li resource="http://del.icio.us/tag/theory" />
+    <rdf:li resource="http://del.icio.us/tag/viral" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://research.microsoft.com/~antr/SCRIBE/default.htm">
+<title>Scribe</title>
+<link>http://research.microsoft.com/~antr/SCRIBE/default.htm</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-06T12:34:31Z</dc:date>
+<dc:subject>academic distributed framework revisit scalability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/distributed" />
+    <rdf:li resource="http://del.icio.us/tag/academic" />
+    <rdf:li resource="http://del.icio.us/tag/revisit" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chrisbrogan.com/a-sample-blogging-workflow/">
+<title>A Sample Blogging Workflow | chrisbrogan.com</title>
+<link>http://www.chrisbrogan.com/a-sample-blogging-workflow/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-06T12:20:53Z</dc:date>
+<dc:subject>Advice blog blogging productivity tips writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/Advice" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koderko.dk/J2METutorial/">
+<title>Game Programming Crash Course (for J2ME): Welcome</title>
+<link>http://koderko.dk/J2METutorial/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-05T11:31:43Z</dc:date>
+<dc:subject>game howto java mobile programming revisit tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/game" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/revisit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures">
+<title>30 Great Free Paper Backgrounds and Textures</title>
+<link>http://www.creativecloseup.com/30-great-free-paper-backgrounds-and-textures</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-05T11:31:10Z</dc:date>
+<dc:subject>design free graphics paper photoshop resources textures</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/paper" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-05T09:53:52Z</dc:date>
+<dc:subject>design form forms patterns usability web webdesign webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://veerle.duoh.com/blog/comments/inspiration_series_posters/">
+<title>Inspiration series: Posters | Veerle's blog</title>
+<link>http://veerle.duoh.com/blog/comments/inspiration_series_posters/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-04T10:23:25Z</dc:date>
+<dc:subject>design gallery graphics inspiration poster posters print</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/posters" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/poster" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-04T10:15:35Z</dc:date>
+<dc:subject>ibm programming reference schema tutorial tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/schema" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html">
+<title>80 How-To Sites Worth Bookmarking - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/featured/80-how-to-sites-worth-bookmarking.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-04T10:13:18Z</dc:date>
+<dc:subject>diy hacks howto lifehack lifehacks productivity resources</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/lifehack" />
+    <rdf:li resource="http://del.icio.us/tag/hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/">
+<title>The Secret to Landing Clients Nearly 100% of the Time - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/finding/the-secret-to-landing-clients-nearly-100-of-the-time/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-03T16:11:11Z</dc:date>
+<dc:subject>business clients design freelance freelancing marketing sales strategy work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/sales" />
+    <rdf:li resource="http://del.icio.us/tag/clients" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/freelancing" />
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-03T10:43:24Z</dc:date>
+<dc:subject>conversion dvd howto lifehacker media video vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.break.com/index/it-guy-vs-dumb-employees.html">
+<title>IT Guy Vs Dumb Employees&#xA0;Video</title>
+<link>http://www.break.com/index/it-guy-vs-dumb-employees.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-02T08:56:22Z</dc:date>
+<dc:subject>funny humor it support video videos work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.stylegala.com/viewtopic.php?t=3964">
+<title>View topic - WAMP + RoR instructions</title>
+<link>http://forum.stylegala.com/viewtopic.php?t=3964</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-01T21:30:56Z</dc:date>
+<dc:subject>RoR apache howto rails ruby rubyonrails wamp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wamp" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/RoR" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-01T20:32:45Z</dc:date>
+<dc:subject>art brushes design photoshop resources swirls vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/swirls" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sonjayatandon.com/05-2006/how-to-configure-eclipse-for-ruby-on-rails/">
+<title>Sonjaya Tandon &#xBB; HOW-TO: Configure eclipse for Ruby on Rails</title>
+<link>http://sonjayatandon.com/05-2006/how-to-configure-eclipse-for-ruby-on-rails/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-01T20:04:37Z</dc:date>
+<dc:subject>development eclipse howto programming rails ruby rubyonrails tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css-tricks.com/all-about-floats/">
+<title>All About Floats - CSS-Tricks</title>
+<link>http://css-tricks.com/all-about-floats/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-01T09:33:28Z</dc:date>
+<dc:subject>css design float layout reference tips webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/float" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vandelaydesign.com/blog/galleries/artistic-websites-two/">
+<title>25 Incredibly Artistic Websites - Part II | Vandelay Website Design</title>
+<link>http://vandelaydesign.com/blog/galleries/artistic-websites-two/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-07-01T09:26:23Z</dc:date>
+<dc:subject>art design illustration inspiration layout web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-30T19:53:16Z</dc:date>
+<dc:subject>career competency development interview learning matrix programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/competency" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/10-plus-Collection-of-Ruby-Quick-Reference-Sheets-and-Cheat-Sheets-freebooksandarticles">
+<title>LinkMingle.com &#xBB; 10+ Collection of Ruby Quick Reference Sheets and Cheat Sheets</title>
+<link>http://linkmingle.com/list/10-plus-Collection-of-Ruby-Quick-Reference-Sheets-and-Cheat-Sheets-freebooksandarticles</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-30T10:08:15Z</dc:date>
+<dc:subject>ROR cheatsheet guide rails ruby rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/ROR" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makelinux.net/kernel_map">
+<title>Interactive Linux kernel map</title>
+<link>http://www.makelinux.net/kernel_map</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-30T09:39:26Z</dc:date>
+<dc:subject>development documentation kernel linux map programming visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/kernel" />
+    <rdf:li resource="http://del.icio.us/tag/map" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-29T17:54:06Z</dc:date>
+<dc:subject>bash commands linux reference shell tips unix</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/commands" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/unix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html">
+<title>Building a Software Company: How to sell your software for $20,000</title>
+<link>http://nukemanbill.blogspot.com/2008/06/how-to-sell-your-software-for-20000.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-29T16:56:31Z</dc:date>
+<dc:subject>Inspiration business development entrepreneur marketing programming software startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/entrepreneur" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/Inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/slow-sync-flash/">
+<title>Slow Sync Flash</title>
+<link>http://digital-photography-school.com/blog/slow-sync-flash/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T18:26:51Z</dc:date>
+<dc:subject>flash howto lighting photo photography revisit tips tutorial</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/lighting" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/revisit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dnforum.com/f34/how-do-paypal-mass-pay-payments-avoid-fees-read-learn-thread-266771.html">
+<title>How to do PayPal &#x22;Mass Pay&#x22; payments and avoid fees. Read and learn! - DNForum - Domain Sales, Domain Forum, Domain Appraisals, Domain Registrars</title>
+<link>http://www.dnforum.com/f34/how-do-paypal-mass-pay-payments-avoid-fees-read-learn-thread-266771.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T15:25:00Z</dc:date>
+<dc:subject>hack masspay paypal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/paypal" />
+    <rdf:li resource="http://del.icio.us/tag/masspay" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.associate-o-matic.com/pricing.html">
+<title>Associate-O-Matic :: Pricing</title>
+<link>http://www.associate-o-matic.com/pricing.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T14:55:47Z</dc:date>
+<dc:subject>affiliate amazon ecommerce programming seo shopping web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazon" />
+    <rdf:li resource="http://del.icio.us/tag/affiliate" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dnforum.com/">
+<title>DNForum - Domain Sales, Domain Forum, Domain Appraisals, Domain Registrars</title>
+<link>http://www.dnforum.com/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T14:49:44Z</dc:date>
+<dc:subject>business domain domaining domains forum forums seo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/domains" />
+    <rdf:li resource="http://del.icio.us/tag/domain" />
+    <rdf:li resource="http://del.icio.us/tag/forum" />
+    <rdf:li resource="http://del.icio.us/tag/forums" />
+    <rdf:li resource="http://del.icio.us/tag/seo" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/domaining" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup">
+<title>Ornate, Floral, Swirly and Curly Vector Roundup | Blog.SpoonGraphics</title>
+<link>http://www.blog.spoongraphics.co.uk/freebies/ornate-floral-swirly-and-curly-vector-roundup</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T12:46:58Z</dc:date>
+<dc:subject>Inspiration design free illustrator photoshop resources vector webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/Inspiration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.comp.nus.edu.sg/~damithch/guide/">
+<title>A Student's Guide to Software Engineering Projects - Free eBook for Students</title>
+<link>http://www.comp.nus.edu.sg/~damithch/guide/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T12:39:24Z</dc:date>
+<dc:subject>books development engineering guide programming project revisit software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/guide" />
+    <rdf:li resource="http://del.icio.us/tag/engineering" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/revisit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html">
+<title>Windows Explorer Folder View settings - Vista Forums</title>
+<link>http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-27T12:30:23Z</dc:date>
+<dc:subject>explorer fix folder howto tweaks vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/fix" />
+    <rdf:li resource="http://del.icio.us/tag/explorer" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/folder" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/">
+<title>Flexible Layouts: Challenge For The Future | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/26/flexible-layouts-challenge-for-the-future/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-26T17:34:45Z</dc:date>
+<dc:subject>css design flexible layout liquid template webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/flexible" />
+    <rdf:li resource="http://del.icio.us/tag/liquid" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zachgraeve.com/css-cheats/">
+<title>CSS Layout Cheats | EMBRACE YOUR VICE (TM) | DESIGN FOR LIFE</title>
+<link>http://www.zachgraeve.com/css-cheats/</link>
+<description></description>
+<dc:creator>azazell0</dc:creator>
+<dc:date>2008-06-26T17:33:38Z</dc:date>
+<dc:subject>Design css free layout templates web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/Design" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

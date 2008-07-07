@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/darinelc">
+<title>del.icio.us/darinelc</title>
+<link>http://del.icio.us/darinelc</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://slice.seriouseats.com/jvpizza/" />
+  <rdf:li rdf:resource="http://orlando.jobnewsusa.com/" />
+  <rdf:li rdf:resource="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/CISSP" />
+  <rdf:li rdf:resource="http://www.isaca.org/Template.cfm?Section=CISM_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4528" />
+  <rdf:li rdf:resource="http://www.isaca.org/Template.cfm?Section=CISA_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4526" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver" />
+  <rdf:li rdf:resource="http://www.electricprism.com/aeron/slideshow/" />
+  <rdf:li rdf:resource="http://www.spartanstaffing.com/" />
+  <rdf:li rdf:resource="http://www.clp.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Enterprise_resource_planning" />
+  <rdf:li rdf:resource="http://www.copperproject.com/" />
+  <rdf:li rdf:resource="http://www.kryogenix.org/code/browser/sorttable/" />
+  <rdf:li rdf:resource="http://www.uefa.com/" />
+  <rdf:li rdf:resource="http://www.effectgenerator.com/" />
+  <rdf:li rdf:resource="http://www.gencor.com/" />
+  <rdf:li rdf:resource="http://www.komodomedia.com/" />
+  <rdf:li rdf:resource="http://www.medai.com/index.html" />
+  <rdf:li rdf:resource="http://www.cartype.com/" />
+  <rdf:li rdf:resource="http://www.bittbox.com/illustrator/illustrator-how-to-make-custom-swooshes-swirls-and-curls/" />
+  <rdf:li rdf:resource="http://searchwebservices.techtarget.com/searchWebServices/downloads/what_is_soap.swf" />
+  <rdf:li rdf:resource="http://www.erikagreco.com/blog/" />
+  <rdf:li rdf:resource="http://moodle.org/" />
+  <rdf:li rdf:resource="http://www.pikeo.com/" />
+  <rdf:li rdf:resource="http://www.schiphol.nl/" />
+  <rdf:li rdf:resource="http://www.ezyield.com/" />
+  <rdf:li rdf:resource="http://plazes.com/" />
+  <rdf:li rdf:resource="http://www.adafruit.com/" />
+  <rdf:li rdf:resource="http://www.lysergid.com/" />
+  <rdf:li rdf:resource="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-06T12:03:32Z</dc:date>
+<dc:subject>freeware install opensource software tweaks windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/install" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slice.seriouseats.com/jvpizza/">
+<title>Jeff Varasano's NY Pizza Recipe</title>
+<link>http://slice.seriouseats.com/jvpizza/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-03T01:56:10Z</dc:date>
+<dc:subject>baking cooking food nyc pizza recipe recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pizza" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/recipe" />
+    <rdf:li resource="http://del.icio.us/tag/baking" />
+    <rdf:li resource="http://del.icio.us/tag/nyc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://orlando.jobnewsusa.com/">
+<title>Orlando Jobs - Search Hundreds of local jobs in Orlando, Florida</title>
+<link>http://orlando.jobnewsusa.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T18:47:29Z</dc:date>
+<dc:subject>jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html">
+<title>Websites you shouldn&#x2019;t have missed in JUNE 2008</title>
+<link>http://www.noupe.com/best-of/websites-you-shouldnt-have-missed-in-june-2008.html</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T18:00:49Z</dc:date>
+<dc:subject>Photoshop css design inspiration resources tutorials webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/Photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/CISSP">
+<title>Certified Information Systems Security Professional - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/CISSP</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T12:06:19Z</dc:date>
+<dc:subject>career cert certification certifications cissp it security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/cissp" />
+    <rdf:li resource="http://del.icio.us/tag/certification" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/certifications" />
+    <rdf:li resource="http://del.icio.us/tag/cert" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isaca.org/Template.cfm?Section=CISM_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4528">
+<title>CISM Certification</title>
+<link>http://www.isaca.org/Template.cfm?Section=CISM_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4528</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T12:03:59Z</dc:date>
+<dc:subject>CISM certification certifications security training</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/certification" />
+    <rdf:li resource="http://del.icio.us/tag/CISM" />
+    <rdf:li resource="http://del.icio.us/tag/certifications" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.isaca.org/Template.cfm?Section=CISA_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4526">
+<title>CISA Certification</title>
+<link>http://www.isaca.org/Template.cfm?Section=CISA_Certification&#x26;Template=/TaggedPage/TaggedPageDisplay.cfm&#x26;TPLID=16&#x26;ContentID=4526</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T12:03:31Z</dc:date>
+<dc:subject>CISA Certifications IT auditing career certification security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/certification" />
+    <rdf:li resource="http://del.icio.us/tag/CISA" />
+    <rdf:li resource="http://del.icio.us/tag/Certifications" />
+    <rdf:li resource="http://del.icio.us/tag/auditing" />
+    <rdf:li resource="http://del.icio.us/tag/IT" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver">
+<title>List of problems solved by MacGyver - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_problems_solved_by_MacGyver</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T10:49:46Z</dc:date>
+<dc:subject>humor macgyver reference science television tv wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/macgyver" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/television" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.electricprism.com/aeron/slideshow/">
+<title>Slideshow 2! A javascript class for Mootools 1.2 to stream and animate the presentation of images on your website</title>
+<link>http://www.electricprism.com/aeron/slideshow/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-07-02T10:46:47Z</dc:date>
+<dc:subject>Ajax gallery javascript library mootools slideshow tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/slideshow" />
+    <rdf:li resource="http://del.icio.us/tag/mootools" />
+    <rdf:li resource="http://del.icio.us/tag/gallery" />
+    <rdf:li resource="http://del.icio.us/tag/Ajax" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/library" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spartanstaffing.com/">
+<title>Welcome to Spartan Staffing</title>
+<link>http://www.spartanstaffing.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-30T21:01:45Z</dc:date>
+<dc:subject>Job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.clp.com/">
+<title>Construction Jobs Nationwide | Construction Staffing | Construction Workers | Skilled Trades for Contractors</title>
+<link>http://www.clp.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-30T20:43:33Z</dc:date>
+<dc:subject>jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Enterprise_resource_planning">
+<title>Enterprise resource planning - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Enterprise_resource_planning</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-30T20:30:26Z</dc:date>
+<dc:subject>ERP Enterprise business it management software wikipedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ERP" />
+    <rdf:li resource="http://del.icio.us/tag/Enterprise" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/wikipedia" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.copperproject.com/">
+<title>Project Management Software - Copper Project</title>
+<link>http://www.copperproject.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-30T17:18:30Z</dc:date>
+<dc:subject>Management collaboration groupware project projectmanagement software web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/Management" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+    <rdf:li resource="http://del.icio.us/tag/project" />
+    <rdf:li resource="http://del.icio.us/tag/groupware" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kryogenix.org/code/browser/sorttable/">
+<title>sorttable: Make all your tables sortable</title>
+<link>http://www.kryogenix.org/code/browser/sorttable/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-27T20:37:21Z</dc:date>
+<dc:subject>CSS Javascript ajax dhtml programming sort tables</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Javascript" />
+    <rdf:li resource="http://del.icio.us/tag/tables" />
+    <rdf:li resource="http://del.icio.us/tag/sort" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/dhtml" />
+    <rdf:li resource="http://del.icio.us/tag/CSS" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uefa.com/">
+<title>uefa.com</title>
+<link>http://www.uefa.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-27T12:58:38Z</dc:date>
+<dc:subject>european football news soccer sport sports uefa</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/football" />
+    <rdf:li resource="http://del.icio.us/tag/soccer" />
+    <rdf:li resource="http://del.icio.us/tag/sports" />
+    <rdf:li resource="http://del.icio.us/tag/uefa" />
+    <rdf:li resource="http://del.icio.us/tag/sport" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/european" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.effectgenerator.com/">
+<title>The Effect Generator</title>
+<link>http://www.effectgenerator.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-27T12:42:21Z</dc:date>
+<dc:subject>animation flash generator mydc online tools webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gencor.com/">
+<title>Gencor Industries, Inc.</title>
+<link>http://www.gencor.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-26T13:54:10Z</dc:date>
+<dc:subject>gencor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gencor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.komodomedia.com/">
+<title>Komodomedia &#xBB; Welcome to the Jungle</title>
+<link>http://www.komodomedia.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-26T13:53:14Z</dc:date>
+<dc:subject>blog css design inspiration portfolio web webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.medai.com/index.html">
+<title>MEDai - Medical Artificial Intelligence</title>
+<link>http://www.medai.com/index.html</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-26T13:51:23Z</dc:date>
+<dc:subject>career company half robert</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/company" />
+    <rdf:li resource="http://del.icio.us/tag/robert" />
+    <rdf:li resource="http://del.icio.us/tag/half" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cartype.com/">
+<title>Cartype : A museum of automobile typography</title>
+<link>http://www.cartype.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-24T17:07:27Z</dc:date>
+<dc:subject>Cars auto car design logo logos typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/Cars" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/logos" />
+    <rdf:li resource="http://del.icio.us/tag/car" />
+    <rdf:li resource="http://del.icio.us/tag/auto" />
+    <rdf:li resource="http://del.icio.us/tag/logo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bittbox.com/illustrator/illustrator-how-to-make-custom-swooshes-swirls-and-curls/">
+<title>Illustrator: How to Make Custom Swooshes, Swirls, and Curls | BittBox</title>
+<link>http://www.bittbox.com/illustrator/illustrator-how-to-make-custom-swooshes-swirls-and-curls/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-24T17:07:01Z</dc:date>
+<dc:subject>design illustration illustrator tips tutorial tutorials vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://searchwebservices.techtarget.com/searchWebServices/downloads/what_is_soap.swf">
+<title>what_is_soap.swf (application/x-shockwave-flash Object)</title>
+<link>http://searchwebservices.techtarget.com/searchWebServices/downloads/what_is_soap.swf</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-24T12:38:24Z</dc:date>
+<dc:subject>SOAP flash mydc tutorial web webservice webservices xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SOAP" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/webservices" />
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.erikagreco.com/blog/">
+<title>Erika Greco - Blog</title>
+<link>http://www.erikagreco.com/blog/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-24T11:08:23Z</dc:date>
+<dc:subject>blog css design designers inspiration layouts mydc orlando webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/blog" />
+    <rdf:li resource="http://del.icio.us/tag/layouts" />
+    <rdf:li resource="http://del.icio.us/tag/designers" />
+    <rdf:li resource="http://del.icio.us/tag/orlando" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://moodle.org/">
+<title>Moodle - A Free, Open Source Course Management System for Online Learning</title>
+<link>http://moodle.org/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-23T18:01:13Z</dc:date>
+<dc:subject>cms education elearning learning moodle mydc opensource software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/moodle" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/elearning" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pikeo.com/">
+<title>Pikeo - homepage</title>
+<link>http://www.pikeo.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-23T15:58:06Z</dc:date>
+<dc:subject>photo photography photos photosharing sharing storage web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/photosharing" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/storage" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.schiphol.nl/">
+<title>Home - Schiphol</title>
+<link>http://www.schiphol.nl/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-23T15:57:50Z</dc:date>
+<dc:subject>airport airports amsterdam netherlands reizen schiphol travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/amsterdam" />
+    <rdf:li resource="http://del.icio.us/tag/airport" />
+    <rdf:li resource="http://del.icio.us/tag/reizen" />
+    <rdf:li resource="http://del.icio.us/tag/netherlands" />
+    <rdf:li resource="http://del.icio.us/tag/schiphol" />
+    <rdf:li resource="http://del.icio.us/tag/airports" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ezyield.com/">
+<title>Welcome to EZ Yield.com The Global leader in Online Channel Management!</title>
+<link>http://www.ezyield.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-23T15:56:59Z</dc:date>
+<dc:subject>php travel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/travel" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://plazes.com/">
+<title>Plazes - Right Plaze, Right People, Right Time</title>
+<link>http://plazes.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-23T15:14:37Z</dc:date>
+<dc:subject>community geotagging location maps social socialnetworks web2.0</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web2.0" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/community" />
+    <rdf:li resource="http://del.icio.us/tag/geotagging" />
+    <rdf:li resource="http://del.icio.us/tag/location" />
+    <rdf:li resource="http://del.icio.us/tag/socialnetworks" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adafruit.com/">
+<title>Adafruit Industries, Unique &#x26; fun DIY electronics and kits</title>
+<link>http://www.adafruit.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-20T17:59:13Z</dc:date>
+<dc:subject>diy electronics gadgets hardware kits led mydc shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/kits" />
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/led" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lysergid.com/">
+<title>Loic SATTLER - [LSD]Lysergid</title>
+<link>http://www.lysergid.com/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-20T17:32:03Z</dc:date>
+<dc:subject>art design graphic graphics illustration inspiration portfolio</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/portfolio" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/graphic" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/">
+<title>The Best Developer Cheat Sheets Around | Webmasters by Design</title>
+<link>http://www.webmastersbydesign.com/2008/06/19/the-best-developer-cheat-sheets-around/</link>
+<description></description>
+<dc:creator>darinelc</dc:creator>
+<dc:date>2008-06-20T13:04:02Z</dc:date>
+<dc:subject>cheatsheet cheatsheets css design development good mydc programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cheatsheet" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/cheatsheets" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/mydc" />
+    <rdf:li resource="http://del.icio.us/tag/good" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

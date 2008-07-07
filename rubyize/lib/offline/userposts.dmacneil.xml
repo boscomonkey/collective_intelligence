@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/dmacneil">
+<title>del.icio.us/dmacneil</title>
+<link>http://del.icio.us/dmacneil</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/" />
+  <rdf:li rdf:resource="http://www.whatsmypass.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Commodore_pet" />
+  <rdf:li rdf:resource="http://www.slideshare.net/" />
+  <rdf:li rdf:resource="http://www.oculture.com/2007/07/freeonlinecourses.html" />
+  <rdf:li rdf:resource="http://www.businessweek.com/smallbiz/content/jan2008/sb20080125_269732.htm" />
+  <rdf:li rdf:resource="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore" />
+  <rdf:li rdf:resource="http://www.boston.com/bigpicture/2008/06/martian_skies.html" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/19/100-useful-niche-search-engines-youve-never-heard-of/" />
+  <rdf:li rdf:resource="http://www.alexshalman.com/blog/2008/03/09/55-monumental-ways-to-enjoy-lifes-greatest-pleasures/" />
+  <rdf:li rdf:resource="http://www.alexshalman.com/blog/2007/03/21/seven-questions-that-will-change-your-life/" />
+  <rdf:li rdf:resource="http://www.alexshalman.com/blog/2008/01/28/the-worlds-12-simplest-steps-to-get-things-done/" />
+  <rdf:li rdf:resource="http://www.stevepavlina.com/blog/2007/05/33-rules-to-boost-your-productivity/" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/motivate-yourself-without-hard-deadlines/" />
+  <rdf:li rdf:resource="http://www.alexshalman.com/blog/2008/03/25/10-global-time-management-pitfalls-and-their-cure/" />
+  <rdf:li rdf:resource="http://www.studymatrixart.com/blog/smx-spotlight/keys-to-time-management" />
+  <rdf:li rdf:resource="http://www.openstreetmap.org/" />
+  <rdf:li rdf:resource="http://www.gpsvisualizer.com/" />
+  <rdf:li rdf:resource="http://www.customreceipt.com/index.php" />
+  <rdf:li rdf:resource="http://www.techcult.com/high-tech-pranks/" />
+  <rdf:li rdf:resource="http://gristmill.grist.org/skeptics" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/clarity/how-to-cure-packrat-itis/" />
+  <rdf:li rdf:resource="http://www.boston.com/bostonglobe/ideas/naps/" />
+  <rdf:li rdf:resource="http://www.videojug.com/film/how-to-make-an-invisible-mask" />
+  <rdf:li rdf:resource="http://www.avwrites.com/downloads.html#Fun" />
+  <rdf:li rdf:resource="http://www8.garmin.com/macosx/" />
+  <rdf:li rdf:resource="http://technet.microsoft.com/en-us/library/bb124462(EXCHG.65).aspx" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/06/14/technology/14email.html?_r=1&#x26;oref=slogin&#x26;pagewanted=all" />
+  <rdf:li rdf:resource="http://www.amazon.com/gp/product/B000UFT8DA/ref=nosim/gizmodo-20" />
+  <rdf:li rdf:resource="http://www.labnol.org/internet/office/use-google-docs-spreadsheet-as-rss-reader-feed-aggregator/3527/" />
+  <rdf:li rdf:resource="http://www.arubamaps.info/Icons/arles_gallery/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/">
+<title>The Simple Dollar &#xBB; How To Write an Effective Thank You Note for Any Occasion</title>
+<link>http://www.thesimpledollar.com/2008/06/16/how-to-write-an-effective-thank-you-note-for-any-occasion/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-07-06T12:41:15Z</dc:date>
+<dc:subject>note thankyou writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thankyou" />
+    <rdf:li resource="http://del.icio.us/tag/note" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whatsmypass.com/">
+<title>What&#x2019;s My Pass</title>
+<link>http://www.whatsmypass.com/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-07-06T12:02:12Z</dc:date>
+<dc:subject>Hacking howto password recovery</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Hacking" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/password" />
+    <rdf:li resource="http://del.icio.us/tag/recovery" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Commodore_pet">
+<title>Commodore PET - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Commodore_pet</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-07-01T13:03:37Z</dc:date>
+<dc:subject>computer history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slideshare.net/">
+<title>SlideShare is the best place to share powerpoint presentations</title>
+<link>http://www.slideshare.net/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:30:49Z</dc:date>
+<dc:subject>collaboration powerpoint presentation sharing slides tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/slides" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/sharing" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/collaboration" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oculture.com/2007/07/freeonlinecourses.html">
+<title>Free Online Courses from Great Universities | Open Culture</title>
+<link>http://www.oculture.com/2007/07/freeonlinecourses.html</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:27:50Z</dc:date>
+<dc:subject>audio courses education free learning mp3 online podcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.businessweek.com/smallbiz/content/jan2008/sb20080125_269732.htm">
+<title>Deliver a Presentation like Steve Jobs</title>
+<link>http://www.businessweek.com/smallbiz/content/jan2008/sb20080125_269732.htm</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:26:44Z</dc:date>
+<dc:subject>apple howto powerpoint presentation tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore">
+<title>Make a Presentation Like Al Gore - Wired How-To Wiki</title>
+<link>http://howto.wired.com/wiki/Make_a_Presentation_Like_Al_Gore</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:25:38Z</dc:date>
+<dc:subject>design howto powerpoint presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bigpicture/2008/06/martian_skies.html">
+<title>Martian Skies - The Big Picture - Boston.com</title>
+<link>http://www.boston.com/bigpicture/2008/06/martian_skies.html</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:24:02Z</dc:date>
+<dc:subject>mars nasa photography space</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mars" />
+    <rdf:li resource="http://del.icio.us/tag/space" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/nasa" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/19/100-useful-niche-search-engines-youve-never-heard-of/">
+<title>100 Useful Niche Search Engines You&#x2019;ve Never Heard Of | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/19/100-useful-niche-search-engines-youve-never-heard-of/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:19:06Z</dc:date>
+<dc:subject>internet niche reference search searchengine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/searchengine" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/niche" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alexshalman.com/blog/2008/03/09/55-monumental-ways-to-enjoy-lifes-greatest-pleasures/">
+<title>55 Monumental Ways To Enjoy Life&#x2019;s Greatest Pleasures | Alex Shalman . com</title>
+<link>http://www.alexshalman.com/blog/2008/03/09/55-monumental-ways-to-enjoy-lifes-greatest-pleasures/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:14:41Z</dc:date>
+<dc:subject>happiness improvement inspiration lifehacks self</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/happiness" />
+    <rdf:li resource="http://del.icio.us/tag/inspiration" />
+    <rdf:li resource="http://del.icio.us/tag/self" />
+    <rdf:li resource="http://del.icio.us/tag/improvement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alexshalman.com/blog/2007/03/21/seven-questions-that-will-change-your-life/">
+<title>Seven Questions That Will Change Your Life | Alex Shalman . com</title>
+<link>http://www.alexshalman.com/blog/2007/03/21/seven-questions-that-will-change-your-life/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:14:10Z</dc:date>
+<dc:subject>goals gtd lifehacks productivity success</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/goals" />
+    <rdf:li resource="http://del.icio.us/tag/success" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alexshalman.com/blog/2008/01/28/the-worlds-12-simplest-steps-to-get-things-done/">
+<title>The World&#x2019;s 12 Simplest Steps To Get Things Done | Alex Shalman . com</title>
+<link>http://www.alexshalman.com/blog/2008/01/28/the-worlds-12-simplest-steps-to-get-things-done/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:13:20Z</dc:date>
+<dc:subject>gtd organization productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stevepavlina.com/blog/2007/05/33-rules-to-boost-your-productivity/">
+<title>33 Rules to Boost Your Productivity</title>
+<link>http://www.stevepavlina.com/blog/2007/05/33-rules-to-boost-your-productivity/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:12:44Z</dc:date>
+<dc:subject>gtd lifehacks management productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/motivate-yourself-without-hard-deadlines/">
+<title>How to Motivate Yourself Without Hard Deadlines | PickTheBrain | Motivation and Self Improvement</title>
+<link>http://www.pickthebrain.com/blog/motivate-yourself-without-hard-deadlines/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:09:57Z</dc:date>
+<dc:subject>howto lifehacks motivation productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/motivation" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alexshalman.com/blog/2008/03/25/10-global-time-management-pitfalls-and-their-cure/">
+<title>10 Global Time Management Pitfalls and Their Cure | Alex Shalman . com</title>
+<link>http://www.alexshalman.com/blog/2008/03/25/10-global-time-management-pitfalls-and-their-cure/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:07:46Z</dc:date>
+<dc:subject>productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.studymatrixart.com/blog/smx-spotlight/keys-to-time-management">
+<title>Study Matrix Blog - 5 Keys to Time Management | Mind Map</title>
+<link>http://www.studymatrixart.com/blog/smx-spotlight/keys-to-time-management</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-21T10:03:08Z</dc:date>
+<dc:subject>gtd mindmap productivity time</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+    <rdf:li resource="http://del.icio.us/tag/time" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.openstreetmap.org/">
+<title>OpenStreetMap</title>
+<link>http://www.openstreetmap.org/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T02:16:08Z</dc:date>
+<dc:subject>free gps maps opensource wiki</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+    <rdf:li resource="http://del.icio.us/tag/wiki" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gpsvisualizer.com/">
+<title>GPS Visualizer</title>
+<link>http://www.gpsvisualizer.com/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T02:07:26Z</dc:date>
+<dc:subject>gps maps visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+    <rdf:li resource="http://del.icio.us/tag/maps" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.customreceipt.com/index.php">
+<title>Custom Receipt Maker</title>
+<link>http://www.customreceipt.com/index.php</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T01:52:31Z</dc:date>
+<dc:subject>fun generator humor receipt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/receipt" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techcult.com/high-tech-pranks/">
+<title>The 25 Best High-Tech Pranks</title>
+<link>http://www.techcult.com/high-tech-pranks/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T01:45:46Z</dc:date>
+<dc:subject>computers humor pranks tech</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/pranks" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/computers" />
+    <rdf:li resource="http://del.icio.us/tag/tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gristmill.grist.org/skeptics">
+<title>Gristmill: The environmental news blog | Grist</title>
+<link>http://gristmill.grist.org/skeptics</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T01:29:13Z</dc:date>
+<dc:subject>activism climate environment globalwarming reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/globalwarming" />
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/activism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/clarity/how-to-cure-packrat-itis/">
+<title>How to Cure PackRat-itis | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/clarity/how-to-cure-packrat-itis/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T00:12:54Z</dc:date>
+<dc:subject>clutter home lifehacks organization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/clutter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.boston.com/bostonglobe/ideas/naps/">
+<title>How to nap - Boston.com</title>
+<link>http://www.boston.com/bostonglobe/ideas/naps/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-19T00:11:43Z</dc:date>
+<dc:subject>health lifehacks nap sleep</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sleep" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/nap" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.videojug.com/film/how-to-make-an-invisible-mask">
+<title>How To Make An Invisible Mask (Safety &#x26; Survival: Urban Survival)</title>
+<link>http://www.videojug.com/film/how-to-make-an-invisible-mask</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-18T10:08:28Z</dc:date>
+<dc:subject>camera hat invisible led</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/invisible" />
+    <rdf:li resource="http://del.icio.us/tag/hat" />
+    <rdf:li resource="http://del.icio.us/tag/led" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.avwrites.com/downloads.html#Fun">
+<title>Active Voice Writing &#x26; Editorial Services in Baltimore -- Downloads</title>
+<link>http://www.avwrites.com/downloads.html#Fun</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-18T01:00:06Z</dc:date>
+<dc:subject>gtd hpda iphone lifehacks templates</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hpda" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+    <rdf:li resource="http://del.icio.us/tag/templates" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www8.garmin.com/macosx/">
+<title>Garmin | Mac OS X - Current Software, news and more</title>
+<link>http://www8.garmin.com/macosx/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-16T01:02:56Z</dc:date>
+<dc:subject>garmin gps mac osx software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gps" />
+    <rdf:li resource="http://del.icio.us/tag/garmin" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://technet.microsoft.com/en-us/library/bb124462(EXCHG.65).aspx">
+<title>How to Verify That RPC Proxy Server Has Basic Authentication Configured</title>
+<link>http://technet.microsoft.com/en-us/library/bb124462(EXCHG.65).aspx</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-16T00:49:40Z</dc:date>
+<dc:subject>authenication exchange rpc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/exchange" />
+    <rdf:li resource="http://del.icio.us/tag/authenication" />
+    <rdf:li resource="http://del.icio.us/tag/rpc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/06/14/technology/14email.html?_r=1&#x26;oref=slogin&#x26;pagewanted=all">
+<title>Lost in E-Mail, Tech Firms Face Self-Made Beast - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/06/14/technology/14email.html?_r=1&#x26;oref=slogin&#x26;pagewanted=all</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-15T11:38:22Z</dc:date>
+<dc:subject>information overload productivity</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/overload" />
+    <rdf:li resource="http://del.icio.us/tag/productivity" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.amazon.com/gp/product/B000UFT8DA/ref=nosim/gizmodo-20">
+<title>Amazon.com: S-Biner, Size 2, Black: Sports &#x26; Outdoors</title>
+<link>http://www.amazon.com/gp/product/B000UFT8DA/ref=nosim/gizmodo-20</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-14T22:09:21Z</dc:date>
+<dc:subject>biner clip</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biner" />
+    <rdf:li resource="http://del.icio.us/tag/clip" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.labnol.org/internet/office/use-google-docs-spreadsheet-as-rss-reader-feed-aggregator/3527/">
+<title>Turn Google Docs Into an RSS Reader and Feed Aggregator</title>
+<link>http://www.labnol.org/internet/office/use-google-docs-spreadsheet-as-rss-reader-feed-aggregator/3527/</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-12T16:06:07Z</dc:date>
+<dc:subject>google googledocs howto rss spreadsheet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/googledocs" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/spreadsheet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arubamaps.info/Icons/arles_gallery/index.html">
+<title>PNG Icons</title>
+<link>http://www.arubamaps.info/Icons/arles_gallery/index.html</link>
+<description></description>
+<dc:creator>dmacneil</dc:creator>
+<dc:date>2008-06-11T22:44:09Z</dc:date>
+<dc:subject>free icons images</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icons" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

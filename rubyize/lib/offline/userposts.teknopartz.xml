@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/teknopartz">
+<title>del.icio.us/teknopartz</title>
+<link>http://del.icio.us/teknopartz</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://news.ycombinator.com/item?id=237378" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001146.html" />
+  <rdf:li rdf:resource="http://mrtwig.net/" />
+  <rdf:li rdf:resource="http://blog.insoshi.com/2008/07/03/a-rails-21-case-study-upgrading-the-insoshi-social-networking-platform/" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html" />
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.milkandcookies.com/link/113455/detail/" />
+  <rdf:li rdf:resource="http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html" />
+  <rdf:li rdf:resource="http://www.damnsmalllinux.org/income-guide/" />
+  <rdf:li rdf:resource="http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/" />
+  <rdf:li rdf:resource="http://www.makingitclear.com/newsletters/newsletter62.html#article" />
+  <rdf:li rdf:resource="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html" />
+  <rdf:li rdf:resource="http://appdb.winehq.org/objectManager.php?sClass=version&#x26;iId=6842" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx" />
+  <rdf:li rdf:resource="http://news.ycombinator.com/item?id=227879" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/middle_east/7472722.stm" />
+  <rdf:li rdf:resource="http://okmij.org/ftp/" />
+  <rdf:li rdf:resource="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory" />
+  <rdf:li rdf:resource="http://www.prototypejs.org/" />
+  <rdf:li rdf:resource="http://www.infoq.com/news/2008/06/unobtrusive" />
+  <rdf:li rdf:resource="http://diffle-history.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.carsonified.com/web-apps/why-objective-j-cappuccino-and-sproutcore-are-completely-changing-the-web-app-industry" />
+  <rdf:li rdf:resource="http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2008/06/23/finding-sql-injection-with-scrawlr.aspx" />
+  <rdf:li rdf:resource="http://bomomo.com/" />
+  <rdf:li rdf:resource="http://www.ndesign-studio.com/blog/mac/css-dock-menu" />
+  <rdf:li rdf:resource="http://www.techmeme.com/" />
+  <rdf:li rdf:resource="http://www.dailytech.com/MIT+Students+Develop+Revolutionary+Solar+Dish+That+is+Hot+Enough+to+Melt+Steel/article12153.htm" />
+  <rdf:li rdf:resource="http://codegolf.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-06T09:39:21Z</dc:date>
+<dc:subject>code coding development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.ycombinator.com/item?id=237378">
+<title>Hacker News | Ask HN: Adding SMS Integration to Web App</title>
+<link>http://news.ycombinator.com/item?id=237378</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-06T09:36:49Z</dc:date>
+<dc:subject>rails sms web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sms" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001146.html">
+<title>Coding Horror: Investing in a Quality Programming Chair</title>
+<link>http://www.codinghorror.com/blog/archives/001146.html</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-06T09:20:22Z</dc:date>
+<dc:subject>ergonomics hardware health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ergonomics" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mrtwig.net/">
+<title>MrTwig's net The place to go for South Park episodes.</title>
+<link>http://mrtwig.net/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-06T06:57:21Z</dc:date>
+<dc:subject>comedy southpark</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comedy" />
+    <rdf:li resource="http://del.icio.us/tag/southpark" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.insoshi.com/2008/07/03/a-rails-21-case-study-upgrading-the-insoshi-social-networking-platform/">
+<title>A Rails 2.1 case study: upgrading the Insoshi social networking platform &#xAB; Insoshi Ruby on Rails blog</title>
+<link>http://blog.insoshi.com/2008/07/03/a-rails-21-case-study-upgrading-the-insoshi-social-networking-platform/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-04T03:19:26Z</dc:date>
+<dc:subject>programming rails rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html">
+<title>The unary ampersand in Ruby</title>
+<link>http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-01T07:00:42Z</dc:date>
+<dc:subject>programming ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-01T06:50:08Z</dc:date>
+<dc:subject>coding programming reference vi vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/vi" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.milkandcookies.com/link/113455/detail/">
+<title>MilkandCookies - Uncounted: New Math of American Elections</title>
+<link>http://www.milkandcookies.com/link/113455/detail/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-01T06:31:05Z</dc:date>
+<dc:subject>documentary politics video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/documentary" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html">
+<title>7 People From Around the World With Real Mutant Superpowers | Cracked.com</title>
+<link>http://www.cracked.com/article_16449_7-people-from-around-world-with-real-mutant-superpowers.html</link>
+<description>the nurses noticed that the baby's muscles were tw</description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-07-01T05:58:47Z</dc:date>
+<dc:subject>amazing biology genetics interesting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/genetics" />
+    <rdf:li resource="http://del.icio.us/tag/interesting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damnsmalllinux.org/income-guide/">
+<title>A Guide to earning an income from a Free and Open Source project</title>
+<link>http://www.damnsmalllinux.org/income-guide/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-30T06:42:31Z</dc:date>
+<dc:subject>business development opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755">
+<title>How to Get Into Any Club video and other Tricks videos at 5min</title>
+<link>http://www.5min.com/Video/How-to-Get-Into-Any-Club-14234755</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-28T18:06:08Z</dc:date>
+<dc:subject>funny society</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/society" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/">
+<title>The absolute bare minimum every programmer should know about regular expressions - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/04/06/the-absolute-bare-minimum-every-programmer-should-know-about-regular-expressions/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-28T02:40:28Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/">
+<title>Extreme regex foo: what you need to know to become a regular expression pro - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-28T02:40:18Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makingitclear.com/newsletters/newsletter62.html#article">
+<title>The MakingITclear&#xAE; Newsletter - 15 Career Mistakes</title>
+<link>http://www.makingitclear.com/newsletters/newsletter62.html#article</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-28T02:12:17Z</dc:date>
+<dc:subject>business career employment jobs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html">
+<title>Cool Stuff | Cool Pictures | Cool Things: 10 Very Rare Clouds</title>
+<link>http://www.collthings.co.uk/2008/06/10-very-rare-clouds.html</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-28T00:19:06Z</dc:date>
+<dc:subject>art clouds environment photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/clouds" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://appdb.winehq.org/objectManager.php?sClass=version&#x26;iId=6842">
+<title>Wine AppDB - Google SketchUp 6.x</title>
+<link>http://appdb.winehq.org/objectManager.php?sClass=version&#x26;iId=6842</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-27T09:25:22Z</dc:date>
+<dc:subject>linux sketchup wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sketchup" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx">
+<title>IEBlog : Compatibility and IE8</title>
+<link>http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx</link>
+<description>elopment was really &#x201C;write to the standard, then test</description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-26T17:34:41Z</dc:date>
+<dc:subject>web-development webstandards</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webstandards" />
+    <rdf:li resource="http://del.icio.us/tag/web-development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.ycombinator.com/item?id=227879">
+<title>Hacker News | How do you prepare to launch your app?</title>
+<link>http://news.ycombinator.com/item?id=227879</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-26T06:18:53Z</dc:date>
+<dc:subject>business strategy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/strategy" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/middle_east/7472722.stm">
+<title>BBC NEWS | Middle East | Dubai plans 'moving' skyscraper</title>
+<link>http://news.bbc.co.uk/2/hi/middle_east/7472722.stm</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-26T06:01:08Z</dc:date>
+<dc:subject>architecture design green</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/green" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://okmij.org/ftp/">
+<title>This FTP site</title>
+<link>http://okmij.org/ftp/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-26T05:54:45Z</dc:date>
+<dc:subject>programming reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/science/discoveries/magazine/16-07/pb_theory">
+<title>The End of Theory: The Data Deluge Makes the Scientific Method Obsolete</title>
+<link>http://www.wired.com/science/discoveries/magazine/16-07/pb_theory</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-26T05:33:03Z</dc:date>
+<dc:subject>datamining</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/datamining" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prototypejs.org/">
+<title>Prototype JavaScript framework: Easy Ajax and DOM manipulation for dynamic web applications</title>
+<link>http://www.prototypejs.org/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-25T12:06:22Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/news/2008/06/unobtrusive">
+<title>InfoQ: AJAX developers continue migrating to unobtrusive JavaScript</title>
+<link>http://www.infoq.com/news/2008/06/unobtrusive</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-25T11:57:24Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diffle-history.blogspot.com/">
+<title>Diary of a Failed Startup</title>
+<link>http://diffle-history.blogspot.com/</link>
+<description>cided there would be no code in GameClay. Everything would be don</description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-25T11:55:23Z</dc:date>
+<dc:subject>business coding development webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.carsonified.com/web-apps/why-objective-j-cappuccino-and-sproutcore-are-completely-changing-the-web-app-industry">
+<title>Carsonified &#xBB; Blog Archive &#xBB; Why Objective-J, Cappuccino and SproutCore are completely changing the web app industry</title>
+<link>http://www.carsonified.com/web-apps/why-objective-j-cappuccino-and-sproutcore-are-completely-changing-the-web-app-industry</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-25T11:47:05Z</dc:date>
+<dc:subject>apple javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2008/06/23/finding-sql-injection-with-scrawlr.aspx">
+<title>Finding SQL Injection with Scrawlr - The HP Security Laboratory</title>
+<link>http://www.communities.hp.com/securitysoftware/blogs/spilabs/archive/2008/06/23/finding-sql-injection-with-scrawlr.aspx</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-25T11:33:28Z</dc:date>
+<dc:subject>injection security web-development webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/injection" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/web-development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bomomo.com/">
+<title>bomomo</title>
+<link>http://bomomo.com/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-24T09:36:28Z</dc:date>
+<dc:subject>amazing art design drawing fun paint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/paint" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ndesign-studio.com/blog/mac/css-dock-menu">
+<title>CSS Dock Menu</title>
+<link>http://www.ndesign-studio.com/blog/mac/css-dock-menu</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-23T13:16:59Z</dc:date>
+<dc:subject>css webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techmeme.com/">
+<title>Techmeme</title>
+<link>http://www.techmeme.com/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-23T08:01:48Z</dc:date>
+<dc:subject>news technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailytech.com/MIT+Students+Develop+Revolutionary+Solar+Dish+That+is+Hot+Enough+to+Melt+Steel/article12153.htm">
+<title>DailyTech - MIT Students Develop Revolutionary Solar Dish That is Hot Enough to Melt Steel</title>
+<link>http://www.dailytech.com/MIT+Students+Develop+Revolutionary+Solar+Dish+That+is+Hot+Enough+to+Melt+Steel/article12153.htm</link>
+<description>ed and patented by inventor Doug Wood.  He was so pleased with the team's work that he signed</description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-23T07:13:01Z</dc:date>
+<dc:subject>environment hardware solar</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/environment" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://codegolf.com/">
+<title>Code Golf | Home</title>
+<link>http://codegolf.com/</link>
+<description></description>
+<dc:creator>teknopartz</dc:creator>
+<dc:date>2008-06-19T08:08:13Z</dc:date>
+<dc:subject>development programming ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

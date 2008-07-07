@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:cc="http://web.resource.org/cc/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/poptones">
+<title>del.icio.us/poptones</title>
+<link>http://del.icio.us/poptones</link>
+<description></description>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/wiki/RatproxyDoc" />
+  <rdf:li rdf:resource="http://www.masayashi.com/2008/01/20/556" />
+  <rdf:li rdf:resource="http://community.livejournal.com/icon_tutorial/4994818.html" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/" />
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/edvakf/20080704/1215141091" />
+  <rdf:li rdf:resource="http://chalow.net/2008-07-04-3.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/jp/java/library/j-scala05298.html" />
+  <rdf:li rdf:resource="http://www.infoq.com/articles/rest-anti-patterns" />
+  <rdf:li rdf:resource="http://dann.g.hatena.ne.jp/dann/20080703/p2" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07" />
+  <rdf:li rdf:resource="http://labs.unoh.net/2008/07/emacstips_1.html" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/fjava/javatips/067jspservlet030.html" />
+  <rdf:li rdf:resource="http://japan.cnet.com/marketing/netyear/story/0,3800087429,20375850,00.htm" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operations/style-guide/1257.html" />
+  <rdf:li rdf:resource="http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html" />
+  <rdf:li rdf:resource="http://www.mdn.co.jp/content/view/6275/" />
+  <rdf:li rdf:resource="http://labs.unoh.net/2008/07/ext_jsui.html" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/design/1252.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-496.html" />
+  <rdf:li rdf:resource="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/antipop/20080701/1214838633" />
+  <rdf:li rdf:resource="http://www.atmarkit.co.jp/fwcr/rensai/ajaxwatch24/ajaxwatch24_2.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/ispring_free/" />
+  <rdf:li rdf:resource="http://ceo.sourcelab.jp/archives/97" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/">
+<title>120+ Free Ajax Activity Indicator Gif Icons | badeziner</title>
+<link>http://www.badeziner.com/2008/05/04/120-free-ajax-activity-indicator-gif-icons/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-06T08:57:02Z</dc:date>
+<dc:subject>icon</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/icon" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/wiki/RatproxyDoc">
+<title>RatproxyDoc - ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/wiki/RatproxyDoc</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-06T06:00:15Z</dc:date>
+<dc:subject>debug google security test</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/debug" />
+    <rdf:li resource="http://del.icio.us/tag/test" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.masayashi.com/2008/01/20/556">
+<title>&#x300E;&#x653B;&#x6BBB;&#x6A5F;&#x52D5;&#x968A;&#x300F;&#x300E;&#x96FB;&#x8133;&#x30E1;&#x30AC;&#x30CD;&#x300F;&#x3069;&#x3053;&#x308D;&#x3067;&#x306F;&#x306A;&#x3044;&#x62E1;&#x5F35;&#x73FE;&#x5B9F;&#x611F;&#x6280;&#x8853;&#x306E;&#x73FE;&#x5728; | &#x738B;&#x69D8;&#x306E;&#x7BB1;&#x5EAD;</title>
+<link>http://www.masayashi.com/2008/01/20/556</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-06T01:03:15Z</dc:date>
+<dc:subject>3d</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/3d" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://community.livejournal.com/icon_tutorial/4994818.html">
+<title>icon_tutorial: Pattern/silhouette tutorial using a layer mask</title>
+<link>http://community.livejournal.com/icon_tutorial/4994818.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-06T00:54:05Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-06T00:13:05Z</dc:date>
+<dc:subject>wikimedia</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wikimedia" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/">
+<title>Web Form Design Patterns: Sign-Up Forms | How-To | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T13:21:33Z</dc:date>
+<dc:subject>form patterns usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/form" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283">
+<title>&#x4F01;&#x696D;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;CMS&#x4E00;&#x6319;12&#x7A2E;&#x985E;&#x89E3;&#x8AAC;&#xFF08;&#x6A5F;&#x80FD;&#x3084;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;/&#x7BA1;&#x7406;&#x306E;&#x96E3;&#x6613;&#x5EA6;&#x8A55;&#x4FA1;&#x4ED8;&#x304D;&#xFF09; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/07/04/3283</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T13:08:10Z</dc:date>
+<dc:subject>cms opensource</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/edvakf/20080704/1215141091">
+<title>Opera&#x3092;&#x3055;&#x3089;&#x306B;&#x9AD8;&#x901F;&#x306B;&#x3059;&#x308B;&#x3001;&#x3042;&#x307E;&#x308A;&#x77E5;&#x3089;&#x308C;&#x3066;&#x306A;&#x3044;10&#x306E;&#x65B9;&#x6CD5;+&#x3B1; - by edvakf in hatena</title>
+<link>http://d.hatena.ne.jp/edvakf/20080704/1215141091</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T13:05:34Z</dc:date>
+<dc:subject>opera tuning</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/opera" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chalow.net/2008-07-04-3.html">
+<title>[&#x3092;] Google Chart API &#x3067; QR&#x30B3;&#x30FC;&#x30C9;&#x3082;&#x751F;&#x6210;&#x3057;&#x3066;&#x304F;&#x308C;&#x308B;&#x3088;&#x3046;&#x306B;&#x306A;&#x3063;&#x305F;</title>
+<link>http://chalow.net/2008-07-04-3.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T12:50:40Z</dc:date>
+<dc:subject>graph qrcode</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/qrcode" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/">
+<title>Ruby on Rails &#x3068; Eclipse &#x306B;&#x3088;&#x308B; iPhone &#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x958B;&#x767A;: &#x7B2C; 1 &#x56DE; iPhone &#x5411;&#x3051;&#x30B3;&#x30F3;&#x30C6;&#x30F3;&#x30C4;&#x3092;&#x63D0;&#x4F9B;&#x3059;&#x308B;</title>
+<link>http://www.ibm.com/developerworks/jp/opensource/library/os-eclipse-iphoneruby1/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T12:44:09Z</dc:date>
+<dc:subject>eclipse iphone rubyonrails</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/rubyonrails" />
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/jp/java/library/j-scala05298.html">
+<title>&#x591A;&#x5FD9;&#x306A; Java &#x958B;&#x767A;&#x8005;&#x306E;&#x305F;&#x3081;&#x306E; Scala &#x30AC;&#x30A4;&#x30C9;: &#x5B9F;&#x88C5;&#x7D99;&#x627F;</title>
+<link>http://www.ibm.com/developerworks/jp/java/library/j-scala05298.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-05T12:43:04Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/articles/rest-anti-patterns">
+<title>InfoQ: REST Anti-Patterns</title>
+<link>http://www.infoq.com/articles/rest-anti-patterns</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-04T12:02:49Z</dc:date>
+<dc:subject>patterns rest</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rest" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dann.g.hatena.ne.jp/dann/20080703/p2">
+<title>Perl&#x300C;&#x8A00;&#x8A9E;&#x300D;&#x521D;&#x5FC3;&#x8005;&#x304C;&#x30E2;&#x30C0;&#x30F3;&#x306A;Perl&#x3092;&#x9AD8;&#x901F;&#x306B;&#x5B66;&#x3076;&#x65B9;&#x6CD5; - dann@webdev - dann&#x30B0;&#x30EB;&#x30FC;&#x30D7;</title>
+<link>http://dann.g.hatena.ne.jp/dann/20080703/p2</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-04T03:53:41Z</dc:date>
+<dc:subject>cpan perl plagger</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+    <rdf:li resource="http://del.icio.us/tag/plagger" />
+    <rdf:li resource="http://del.icio.us/tag/cpan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07">
+<title>Ten XML Schemas you should know</title>
+<link>http://www.ibm.com/developerworks/library/x-schematips/?ca=dgr-lnxw07x-schematips&#x26;S_TACT=105AGX59&#x26;S_CMP=GRsitelnxw07</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-04T03:49:35Z</dc:date>
+<dc:subject>soap svg xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/soap" />
+    <rdf:li resource="http://del.icio.us/tag/svg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.unoh.net/2008/07/emacstips_1.html">
+<title>&#x30A6;&#x30CE;&#x30A6;&#x30E9;&#x30DC; Unoh Labs: &#x7D9A;&#x30FB;Emacs&#x3092;&#x81EA;&#x5206;&#x3067;&#x62E1;&#x5F35;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;Tips</title>
+<link>http://labs.unoh.net/2008/07/emacstips_1.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-04T03:32:11Z</dc:date>
+<dc:subject>emacs lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/fjava/javatips/067jspservlet030.html">
+<title>&#xFF20;IT&#xFF1A;Java TIPS -- &#x30B5;&#x30FC;&#x30D6;&#x30EC;&#x30C3;&#x30C8;&#x30D1;&#x30B9;&#x306E;&#x69CB;&#x6210;&#x8981;&#x7D20;&#x3092;&#x53D6;&#x5F97;&#x3059;&#x308B;</title>
+<link>http://www.atmarkit.co.jp/fjava/javatips/067jspservlet030.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-04T00:04:21Z</dc:date>
+<dc:subject>java servlet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/servlet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://japan.cnet.com/marketing/netyear/story/0,3800087429,20375850,00.htm">
+<title>&#x691C;&#x7D22;&#x30D1;&#x30BF;&#x30FC;&#x30F3;&#x304B;&#x3089;&#x898B;&#x308B;&#x30E6;&#x30FC;&#x30B6;&#x30FC;&#x884C;&#x52D5;&#x300C;Search Patterns&#x300D;:&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0; - CNET Japan</title>
+<link>http://japan.cnet.com/marketing/netyear/story/0,3800087429,20375850,00.htm</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T13:38:13Z</dc:date>
+<dc:subject>patterns search usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/search" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operations/style-guide/1257.html">
+<title>&#x30C0;&#x30A6;&#x30F3;&#x30ED;&#x30FC;&#x30C9;&#x3082;&#x3067;&#x304D;&#x308B;&#x3001;&#x5927;&#x624B;&#x30A6;&#x30A7;&#x30D6;&#x30B5;&#x30A4;&#x30C8;&#x306E;&#x30AC;&#x30A4;&#x30C9;&#x30E9;&#x30A4;&#x30F3; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operations/style-guide/1257.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T13:35:41Z</dc:date>
+<dc:subject>color cookie css flash html semanticweb url usability xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/color" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/cookie" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/semanticweb" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html">
+<title>JavaScript&#x3067;HTML&#x3092;&#x30C0;&#x30A4;&#x30CA;&#x30DF;&#x30C3;&#x30AF;&#x306B;&#x66F8;&#x304D;&#x63DB;&#x3048;&#x308B;&#x3000;&#x524D;&#x7DE8; &#xFF0D; &#xFF20;IT&#x81EA;&#x5206;&#x6226;&#x7565;&#x7814;&#x7A76;&#x6240;</title>
+<link>http://jibun.atmarkit.co.jp/lskill01/rensai/dom06/dom01.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T13:28:57Z</dc:date>
+<dc:subject>dom javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/dom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mdn.co.jp/content/view/6275/">
+<title>Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3068;&#x30B0;&#x30E9;&#x30D5;&#x30A3;&#x30C3;&#x30AF;&#x306E;&#x7DCF;&#x5408;&#x60C5;&#x5831;&#x30B5;&#x30A4;&#x30C8; - MdN Interactive - WEB&#x306E;&#x5B8C;&#x6210;&#x5EA6;&#x3092;&#x9AD8;&#x3081;&#x308B;76&#x306E;&#x6B63;&#x653B;&#x6CD5;</title>
+<link>http://www.mdn.co.jp/content/view/6275/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T13:11:17Z</dc:date>
+<dc:subject>design grid usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/grid" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.unoh.net/2008/07/ext_jsui.html">
+<title>&#x30A6;&#x30CE;&#x30A6;&#x30E9;&#x30DC; Unoh Labs: Ext JS&#x3092;UI&#x306B;&#x4F7F;&#x3063;&#x3066;&#x643A;&#x5E2F;&#x30B5;&#x30A4;&#x30C8;&#x306E;&#x30B7;&#x30DF;&#x30E5;&#x30EC;&#x30FC;&#x30BF;&#x3092;&#x4F5C;&#x3063;&#x3066;&#x307F;&#x305F;</title>
+<link>http://labs.unoh.net/2008/07/ext_jsui.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T13:01:27Z</dc:date>
+<dc:subject>mobile</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mobile" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/design/1252.html">
+<title>&#x5199;&#x771F;&#x753B;&#x50CF;&#x3092;&#x898B;&#x6804;&#x3048;&#x3088;&#x304F;&#x3059;&#x308B;Photoshop&#x306E;&#x30C1;&#x30E5;&#x30FC;&#x30C8;&#x30EA;&#x30A2;&#x30EB;&#x96C6;: Part 3 | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/design/1252.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T12:59:19Z</dc:date>
+<dc:subject>photoshop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html">
+<title>&#x624B;&#x66F8;&#x304D;&#x98A8;&#x306E;&#x30E2;&#x30C3;&#x30AF;&#x30A2;&#x30C3;&#x30D7;&#x753B;&#x9762;&#x304C;&#x3055;&#x304F;&#x3055;&#x304F;&#x4F5C;&#x308C;&#x308B;&#x300E;Balsamiq Mockups&#x300F; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T00:08:01Z</dc:date>
+<dc:subject>air design</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/air" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html">
+<title>3&#x5206;LifeHacking&#xFF1A;&#x305F;&#x3060;&#x306E;SD&#x30AB;&#x30FC;&#x30C9;&#x30B9;&#x30ED;&#x30C3;&#x30C8;&#x3067;SDHC&#x30AB;&#x30FC;&#x30C9;&#x3092;&#x4F7F;&#x3048;&#x308B;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;&#x65B9;&#x6CD5; - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0807/02/news091.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-03T00:04:48Z</dc:date>
+<dc:subject>hardware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-496.html">
+<title>web&#x30B5;&#x30A4;&#x30C8;&#x3092;&#x4F5C;&#x308B;&#x6642;&#x306B;&#x9867;&#x5BA2;&#x3068;&#x3042;&#x3089;&#x304B;&#x3058;&#x3081;&#x30B7;&#x30F3;&#x30AF;&#x30ED;&#x3057;&#x3066;&#x304A;&#x304F;&#x3068;&#x826F;&#x3044;7&#x3064;&#x306E;&#x57FA;&#x790E;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-496.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-02T13:28:52Z</dc:date>
+<dc:subject>marketing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide">
+<title>&#x5909;&#x96FB;&#x5DE5; - Google C++&#x30B9;&#x30BF;&#x30A4;&#x30EB;&#x30AC;&#x30A4;&#x30C9;&#x65E5;&#x672C;&#x8A9E;&#x8A33;</title>
+<link>http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-02T13:21:44Z</dc:date>
+<dc:subject>c++ coding</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c%2B%2B" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/">
+<title>The Secret to Ultra-Sharp Photos</title>
+<link>http://digital-photography-school.com/blog/the-secret-to-ultra-sharp-photos/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-01T23:43:35Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/antipop/20080701/1214838633">
+<title>Emacs&#x3067;Perl&#x958B;&#x767A;&#x3059;&#x308B;&#x4E0A;&#x3067;&#x5FC5;&#x9808;&#x306A;&#x8A2D;&#x5B9A; #2 - flymake - antipop</title>
+<link>http://d.hatena.ne.jp/antipop/20080701/1214838633</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-01T23:42:15Z</dc:date>
+<dc:subject>emacs perl</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/emacs" />
+    <rdf:li resource="http://del.icio.us/tag/perl" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atmarkit.co.jp/fwcr/rensai/ajaxwatch24/ajaxwatch24_2.html">
+<title>&#x643A;&#x5E2F;&#x96FB;&#x8A71;&#x3078;&#x306E;&#x62E1;&#x5F35;&#x3092;&#x9032;&#x3081;&#x308B;Google&#x3068;Web&#x96A0;&#x3057;&#x30B3;&#x30DE;&#x30F3;&#x30C9; (2/2) - &#xFF20;IT</title>
+<link>http://www.atmarkit.co.jp/fwcr/rensai/ajaxwatch24/ajaxwatch24_2.html</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-01T14:44:03Z</dc:date>
+<dc:subject>extension firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/ispring_free/">
+<title>MOONGIFT: &#xBB; &#x3042;&#x306A;&#x305F;&#x306E;&#x30D1;&#x30EF;&#x30FC;&#x30DD;&#x30A4;&#x30F3;&#x30C8;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x7D20;&#x6575;&#x306A;Flash&#x306B;&#x300C;iSpring Free&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/ispring_free/</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-01T12:00:28Z</dc:date>
+<dc:subject>flash powerpoint</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/powerpoint" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ceo.sourcelab.jp/archives/97">
+<title>&#x30D5;&#x30A9;&#x30FC;&#x30E0;&#x306E;&#x30D5;&#x30EA;&#x30AC;&#x30CA;&#x3092;&#x81EA;&#x52D5;&#x5165;&#x529B;&#x3055;&#x305B;&#x308B;AutoRuby.js | &#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x5236;&#x4F5C;&#x30FB;&#x904B;&#x55B6;&#x306E;&#x30D2;&#x30F3;&#x30C8;</title>
+<link>http://ceo.sourcelab.jp/archives/97</link>
+<description></description>
+<dc:creator>poptones</dc:creator>
+<dc:date>2008-07-01T11:58:20Z</dc:date>
+<dc:subject>javascript usability</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

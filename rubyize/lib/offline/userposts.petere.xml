@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/petere">
+<title>del.icio.us/petere</title>
+<link>http://del.icio.us/petere</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://yudkowsky.net/bayes/bayes.html" />
+  <rdf:li rdf:resource="http://swtch.com/9vx/" />
+  <rdf:li rdf:resource="http://wiki.personaltelco.net/PortalSoftware" />
+  <rdf:li rdf:resource="http://www.usatoday.com/life/2006-10-04-third-space_x.htm" />
+  <rdf:li rdf:resource="http://www.economist.com/specialreports/displaystory.cfm?story_id=10950463" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/" />
+  <rdf:li rdf:resource="http://www.oculture.com/2007/07/freeonlinecourses.html" />
+  <rdf:li rdf:resource="http://www.cilk.com/multicore-blog/bid/5365/What-the-is-Parallelism-Anyhow" />
+  <rdf:li rdf:resource="http://www.kagi.com/index.php" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/demos/" />
+  <rdf:li rdf:resource="http://ajaxian.com/archives/72photos-protoscripty-photo-sharing-site" />
+  <rdf:li rdf:resource="http://www.sproutcore.com/static/photos/" />
+  <rdf:li rdf:resource="http://www.supermemo.com/english/smintro.htm" />
+  <rdf:li rdf:resource="http://www.cs.trinity.edu/About/The_Courses/cs301/math-for-the-layman/" />
+  <rdf:li rdf:resource="http://www.db2express.com/" />
+  <rdf:li rdf:resource="http://www.prairienet.org/~dsb/bipri.htm" />
+  <rdf:li rdf:resource="http://glossary.computing.society.informs.org/" />
+  <rdf:li rdf:resource="http://useless-factor.blogspot.com/2008/05/parsing-with-regular-expressions-and.html" />
+  <rdf:li rdf:resource="http://books.google.com/books?hl=en&#x26;id=6wF4SklxcnkC&#x26;dq=%22Warwick+Sawyer%22&#x26;printsec=frontcover&#x26;source=web&#x26;ots=16pLjGDMZS&#x26;sig=H3jjwtJ8KO8h6T2G64D2RjEzrB4#PPA13,M1" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html?showComment=1210600080000#c4154142829624462932" />
+  <rdf:li rdf:resource="http://blogs.sun.com/jrose/entry/interface_injection_in_the_vm" />
+  <rdf:li rdf:resource="http://cognitivefun.net/test/4" />
+  <rdf:li rdf:resource="http://www.kegel.com/academy/getting-hired.html" />
+  <rdf:li rdf:resource="http://get.a.clue.de/ProgStone/index.html" />
+  <rdf:li rdf:resource="http://bayes.cs.ucla.edu/BOOK-99/book-toc.html" />
+  <rdf:li rdf:resource="http://www.adampetersen.se/articles/lispweb.htm" />
+  <rdf:li rdf:resource="http://simile.mit.edu/timeplot/" />
+  <rdf:li rdf:resource="http://planetozh.com/projects/lightbox-clones/" />
+  <rdf:li rdf:resource="http://www.bgoncalves.com/notes/2008/04/20/30-free-online-books/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-07-06T03:39:34Z</dc:date>
+<dc:subject>ai mit research</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/research" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yudkowsky.net/bayes/bayes.html">
+<title>An Intuitive Explanation of Bayesian Reasoning</title>
+<link>http://yudkowsky.net/bayes/bayes.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-07-06T01:04:25Z</dc:date>
+<dc:subject>bayes math statistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/statistics" />
+    <rdf:li resource="http://del.icio.us/tag/bayes" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swtch.com/9vx/">
+<title>9vx</title>
+<link>http://swtch.com/9vx/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-30T02:25:06Z</dc:date>
+<dc:subject>plan9</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/plan9" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.personaltelco.net/PortalSoftware">
+<title>PortalSoftware - Personal Telco Project</title>
+<link>http://wiki.personaltelco.net/PortalSoftware</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-26T02:19:19Z</dc:date>
+<dc:subject>thi wifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/thi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.usatoday.com/life/2006-10-04-third-space_x.htm">
+<title>Working out of a 'third place' - USATODAY.com</title>
+<link>http://www.usatoday.com/life/2006-10-04-third-space_x.htm</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-25T23:56:28Z</dc:date>
+<dc:subject>thirdplace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thirdplace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/specialreports/displaystory.cfm?story_id=10950463">
+<title>The new oases | Economist.com</title>
+<link>http://www.economist.com/specialreports/displaystory.cfm?story_id=10950463</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-25T23:54:12Z</dc:date>
+<dc:subject>thirdplace</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thirdplace" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/">
+<title>CSS Editors Reviewed | Developer's Toolbox, CSS | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/06/19/css-editors-reviewed/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-22T13:01:17Z</dc:date>
+<dc:subject>css editor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/editor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oculture.com/2007/07/freeonlinecourses.html">
+<title>Free Online Courses from Great Universities | Open Culture</title>
+<link>http://www.oculture.com/2007/07/freeonlinecourses.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-20T11:44:47Z</dc:date>
+<dc:subject>audio courses education podcast</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/audio" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/podcast" />
+    <rdf:li resource="http://del.icio.us/tag/courses" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cilk.com/multicore-blog/bid/5365/What-the-is-Parallelism-Anyhow">
+<title>What the $#@! is Parallelism, Anyhow?</title>
+<link>http://www.cilk.com/multicore-blog/bid/5365/What-the-is-Parallelism-Anyhow</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-20T00:20:48Z</dc:date>
+<dc:subject>parallelism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/parallelism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kagi.com/index.php">
+<title>Welcome to Kagi</title>
+<link>http://www.kagi.com/index.php</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-19T00:45:05Z</dc:date>
+<dc:subject>ecommerce selling startup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ecommerce" />
+    <rdf:li resource="http://del.icio.us/tag/selling" />
+    <rdf:li resource="http://del.icio.us/tag/startup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles">
+<title>LinkMingle.com &#xBB; List of Free Online Python Books</title>
+<link>http://linkmingle.com/list/List-of-Free-Online-Python-Books-freebooksandarticles</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-19T00:40:48Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/demos/">
+<title>SproutCore &#xBB; demos</title>
+<link>http://www.sproutcore.com/demos/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-19T00:39:24Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ajaxian.com/archives/72photos-protoscripty-photo-sharing-site">
+<title>Ajaxian &#xBB; 72photos: Proto/Scripty Photo Sharing Site</title>
+<link>http://ajaxian.com/archives/72photos-protoscripty-photo-sharing-site</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-19T00:05:39Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sproutcore.com/static/photos/">
+<title>http://www.sproutcore.com/static/photos/</title>
+<link>http://www.sproutcore.com/static/photos/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-19T00:05:19Z</dc:date>
+<dc:subject>javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.supermemo.com/english/smintro.htm">
+<title>Introduction to fast learning with SuperMemo</title>
+<link>http://www.supermemo.com/english/smintro.htm</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-06T12:14:04Z</dc:date>
+<dc:subject>learning memory supermemo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/memory" />
+    <rdf:li resource="http://del.icio.us/tag/learning" />
+    <rdf:li resource="http://del.icio.us/tag/supermemo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.trinity.edu/About/The_Courses/cs301/math-for-the-layman/">
+<title>Math for the Layman</title>
+<link>http://www.cs.trinity.edu/About/The_Courses/cs301/math-for-the-layman/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-06-03T02:01:00Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.db2express.com/">
+<title>DB2 Express-C: the best things in life are free!</title>
+<link>http://www.db2express.com/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-24T12:30:32Z</dc:date>
+<dc:subject>database db2 sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/db2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.prairienet.org/~dsb/bipri.htm">
+<title>Bi-Pri Queue - Dan Bensen</title>
+<link>http://www.prairienet.org/~dsb/bipri.htm</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-22T01:24:22Z</dc:date>
+<dc:subject>lisp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glossary.computing.society.informs.org/">
+<title>Mathematical Programming Glossary</title>
+<link>http://glossary.computing.society.informs.org/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-21T12:01:58Z</dc:date>
+<dc:subject>math mathematics programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://useless-factor.blogspot.com/2008/05/parsing-with-regular-expressions-and.html">
+<title>Useless Factor: Parsing with regular expressions and group capture</title>
+<link>http://useless-factor.blogspot.com/2008/05/parsing-with-regular-expressions-and.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-14T00:31:40Z</dc:date>
+<dc:subject>parsing regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+    <rdf:li resource="http://del.icio.us/tag/parsing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.google.com/books?hl=en&#x26;id=6wF4SklxcnkC&#x26;dq=%22Warwick+Sawyer%22&#x26;printsec=frontcover&#x26;source=web&#x26;ots=16pLjGDMZS&#x26;sig=H3jjwtJ8KO8h6T2G64D2RjEzrB4#PPA13,M1">
+<title>Prelude to Mathematics - Google Book Search</title>
+<link>http://books.google.com/books?hl=en&#x26;id=6wF4SklxcnkC&#x26;dq=%22Warwick+Sawyer%22&#x26;printsec=frontcover&#x26;source=web&#x26;ots=16pLjGDMZS&#x26;sig=H3jjwtJ8KO8h6T2G64D2RjEzrB4#PPA13,M1</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-14T00:28:28Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html?showComment=1210600080000#c4154142829624462932">
+<title>Stevey's Blog Rants: Dynamic Languages Strike Back</title>
+<link>http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html?showComment=1210600080000#c4154142829624462932</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-14T00:21:50Z</dc:date>
+<dc:subject>languages lisp programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/jrose/entry/interface_injection_in_the_vm">
+<title>interface injection in the VM : John Rose @ Sun</title>
+<link>http://blogs.sun.com/jrose/entry/interface_injection_in_the_vm</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-08T01:08:37Z</dc:date>
+<dc:subject>java jvm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/jvm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cognitivefun.net/test/4">
+<title>Cognitive exercises - n-Back Task</title>
+<link>http://cognitivefun.net/test/4</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-04T00:45:06Z</dc:date>
+<dc:subject>brain cognition lifehacks psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/cognition" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kegel.com/academy/getting-hired.html">
+<title>How To Get Hired -- What CS Students Need to Know</title>
+<link>http://www.kegel.com/academy/getting-hired.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-05-01T02:00:57Z</dc:date>
+<dc:subject>career interview jobs programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/interview" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://get.a.clue.de/ProgStone/index.html">
+<title>#UNIX - The Programmers' Stone</title>
+<link>http://get.a.clue.de/ProgStone/index.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-27T19:55:47Z</dc:date>
+<dc:subject>coding programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bayes.cs.ucla.edu/BOOK-99/book-toc.html">
+<title>CAUSALITY</title>
+<link>http://bayes.cs.ucla.edu/BOOK-99/book-toc.html</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-27T19:17:38Z</dc:date>
+<dc:subject>book logic mathematics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/logic" />
+    <rdf:li resource="http://del.icio.us/tag/book" />
+    <rdf:li resource="http://del.icio.us/tag/mathematics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.adampetersen.se/articles/lispweb.htm">
+<title>Adam Petersen - Software Development Pages</title>
+<link>http://www.adampetersen.se/articles/lispweb.htm</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-26T21:03:26Z</dc:date>
+<dc:subject>lisp web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simile.mit.edu/timeplot/">
+<title>SIMILE | Timeplot</title>
+<link>http://simile.mit.edu/timeplot/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-26T03:11:16Z</dc:date>
+<dc:subject>ajax chart graph javascript timeline</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/timeline" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://planetozh.com/projects/lightbox-clones/">
+<title>The Lightbox Clones Matrix &#xAB; planetOzh</title>
+<link>http://planetozh.com/projects/lightbox-clones/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-23T01:33:18Z</dc:date>
+<dc:subject>ajax css javascript lightbox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/lightbox" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bgoncalves.com/notes/2008/04/20/30-free-online-books/">
+<title>Bruno Goncalves - 30+ Free Online Books</title>
+<link>http://www.bgoncalves.com/notes/2008/04/20/30-free-online-books/</link>
+<description></description>
+<dc:creator>petere</dc:creator>
+<dc:date>2008-04-21T12:35:23Z</dc:date>
+<dc:subject>books programming toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/books" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

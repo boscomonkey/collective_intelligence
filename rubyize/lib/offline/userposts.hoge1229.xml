@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/hoge1229">
+<title>del.icio.us/hoge1229</title>
+<link>http://del.icio.us/hoge1229</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.xuldev.org/blog/?p=170" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/Waki/20080705/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/send/20080705/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/k2830122/20070823/p1" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/lynmock/20080705" />
+  <rdf:li rdf:resource="http://www.nirsoft.net/utils/socket_sniffer.html" />
+  <rdf:li rdf:resource="http://news23vip.blog109.fc2.com/blog-entry-1253.html" />
+  <rdf:li rdf:resource="http://journal.mycom.co.jp/news/2008/07/04/053/index.html" />
+  <rdf:li rdf:resource="http://www.milkstand.net/fsgarage/archives/001291.html" />
+  <rdf:li rdf:resource="http://www.moongift.jp/2008/07/ratproxy/" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://business.nikkeibp.co.jp/article/life/20080703/164410/" />
+  <rdf:li rdf:resource="http://alfalfa.livedoor.biz/archives/51303891.html" />
+  <rdf:li rdf:resource="http://www.thinkit.co.jp/article/97/1/" />
+  <rdf:li rdf:resource="http://www.javascriptmall.com/jsc/jsC4Udate.htm" />
+  <rdf:li rdf:resource="http://www.mdn.co.jp/content/view/6275/" />
+  <rdf:li rdf:resource="http://www.tedia.jp/" />
+  <rdf:li rdf:resource="http://ohnishi.livedoor.biz/archives/50572110.html" />
+  <rdf:li rdf:resource="http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html" />
+  <rdf:li rdf:resource="http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/" />
+  <rdf:li rdf:resource="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide" />
+  <rdf:li rdf:resource="http://chargma.spaces.live.com/blog/cns!2839DAA143E306A1!183.entry" />
+  <rdf:li rdf:resource="http://japan.cnet.com/special/story/0,2000056049,20376337,00.htm" />
+  <rdf:li rdf:resource="http://www.infoq.com/jp/news/2007/09/pushvspull" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/dayflower/20080701/1214898904" />
+  <rdf:li rdf:resource="http://son-son.sakura.ne.jp/programming/iphone/" />
+  <rdf:li rdf:resource="http://blog.gcd.org/archives/51205701.html" />
+  <rdf:li rdf:resource="http://blog.yappo.jp/yappo/archives/000594.html" />
+  <rdf:li rdf:resource="http://www.itmedia.co.jp/bizid/articles/0806/30/news045.html" />
+  <rdf:li rdf:resource="http://subtech.g.hatena.ne.jp/mayuki/20070408/1175994705" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.xuldev.org/blog/?p=170">
+<title>SCRAPBLOG : [Exception... &#x22;'Component is not available' when calling method: [nsIHandlerService::getTypeFromExtension]</title>
+<link>http://www.xuldev.org/blog/?p=170</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-06T11:38:32Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-06T03:15:52Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/Waki/20080705/p1">
+<title>&#x82F1;&#x8A9E;&#x3092;&#x52C9;&#x5F37;&#x3059;&#x308B;&#x65B9;&#x6CD5;2.0 - My Image Ltd. (From Toshizumi Waki To Everywhere)</title>
+<link>http://d.hatena.ne.jp/Waki/20080705/p1</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T23:22:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/send/20080705/p1">
+<title>Adium &#x306E;&#x8CA0;&#x8377;&#x72B6;&#x6CC1;&#x3092;&#x898B;&#x3066;&#x518D;&#x8D77;&#x52D5;&#x3059;&#x308B; Bash Script - nothing but trouble</title>
+<link>http://d.hatena.ne.jp/send/20080705/p1</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T23:16:09Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/k2830122/20070823/p1">
+<title>&#x753B;&#x50CF;&#x306E;&#x7E2E;&#x5C0F;&#x3068;&#x5408;&#x6210;&#x3068;&#x5909;&#x63DB; - WorkchairDetective</title>
+<link>http://d.hatena.ne.jp/k2830122/20070823/p1</link>
+<description>stamp = ImageIO.read(new File(&#x26;quot;C:\\sample.png&#x26;quot;));</description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T15:05:59Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/lynmock/20080705">
+<title>2008-07-05 - &#x3068;&#x304B;&#x3044;&#x308D;&#x3044;&#x308D;</title>
+<link>http://d.hatena.ne.jp/lynmock/20080705</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T07:10:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.nirsoft.net/utils/socket_sniffer.html">
+<title>SocketSniff - Windows Sockets (WinSock) Sniffer</title>
+<link>http://www.nirsoft.net/utils/socket_sniffer.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T06:23:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://news23vip.blog109.fc2.com/blog-entry-1253.html">
+<title>&#x304B;&#x308F;&#x3044;&#x3044;AV&#x5973;&#x512A;&#x3092;&#x6559;&#x3048;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;:VIPPER&#x306A;&#x4FFA;</title>
+<link>http://news23vip.blog109.fc2.com/blog-entry-1253.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T05:08:39Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://journal.mycom.co.jp/news/2008/07/04/053/index.html">
+<title>HTML&#x3092;&#x5C0F;&#x7DBA;&#x9E97;&#x306B;&#x3059;&#x308B;&#x305F;&#x3081;&#x306E;4&#x3064;&#x306E;&#x65B9;&#x6CD5; | &#x30A8;&#x30F3;&#x30BF;&#x30FC;&#x30D7;&#x30E9;&#x30A4;&#x30BA; | &#x30DE;&#x30A4;&#x30B3;&#x30DF;&#x30B8;&#x30E3;&#x30FC;&#x30CA;&#x30EB;</title>
+<link>http://journal.mycom.co.jp/news/2008/07/04/053/index.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T05:08:25Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.milkstand.net/fsgarage/archives/001291.html">
+<title>F's Garage&#xFF1A;&#x5168;&#x56FD;&#x898F;&#x6A21;&#x3067;&#x898B;&#x305F;&#x30B9;&#x30E2;&#x30FC;&#x30EB;&#x30D3;&#x30B8;&#x30CD;&#x30B9;&#x3068;&#x3057;&#x3066;&#x306E;Web&#x5C4B;&#x306E;&#x3042;&#x308A;&#x304B;&#x305F;</title>
+<link>http://www.milkstand.net/fsgarage/archives/001291.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-05T05:02:44Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.moongift.jp/2008/07/ratproxy/">
+<title>MOONGIFT: &#xBB; Web2.0&#x6642;&#x4EE3;&#x306E;&#x30BB;&#x30AD;&#x30E5;&#x30EA;&#x30C6;&#x30A3;&#x67FB;&#x5B9A;&#x30C4;&#x30FC;&#x30EB;&#x300C;Ratproxy&#x300D;:&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;&#x3092;&#x6BCE;&#x65E5;&#x7D39;&#x4ECB;</title>
+<link>http://www.moongift.jp/2008/07/ratproxy/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-04T16:26:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-04T16:24:34Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://business.nikkeibp.co.jp/article/life/20080703/164410/">
+<title>18&#xFF1A;&#x5B8C;&#x74A7;&#x306A;&#x5973;&#xFF08;&#x3072;&#x3068;&#xFF09;&#x3092;&#x6CE3;&#x304B;&#x305B;&#x308B;&#x65B9;&#x6CD5;&#xFF1A;NBonline(&#x65E5;&#x7D4C;&#x30D3;&#x30B8;&#x30CD;&#x30B9; &#x30AA;&#x30F3;&#x30E9;&#x30A4;&#x30F3;)</title>
+<link>http://business.nikkeibp.co.jp/article/life/20080703/164410/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-04T16:20:28Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://alfalfa.livedoor.biz/archives/51303891.html">
+<title>&#x9D8F;&#x80F8;&#x8089;&#x30FB;&#x9D8F;&#x3080;&#x306D;&#x8089;&#x30FB;&#x9D8F;&#x30E0;&#x30CD;&#x8089;&#x306E;&#x6599;&#x7406;:&#x30A2;&#x30EB;&#x30D5;&#x30A1;&#x30EB;&#x30D5;&#x30A1;&#x30E2;&#x30B6;&#x30A4;&#x30AF;</title>
+<link>http://alfalfa.livedoor.biz/archives/51303891.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T13:22:54Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.thinkit.co.jp/article/97/1/">
+<title>[Think IT] &#x7B2C;1&#x56DE;&#xFF1A;DB&#x306F;&#x7FD2;&#x3046;&#x3088;&#x308A;&#x6163;&#x308C;&#x3088;&#xFF01; (1/3)</title>
+<link>http://www.thinkit.co.jp/article/97/1/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T13:08:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.javascriptmall.com/jsc/jsC4Udate.htm">
+<title>JavaScript Code 4 U - Date &#x26; Time</title>
+<link>http://www.javascriptmall.com/jsc/jsC4Udate.htm</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T11:48:42Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.mdn.co.jp/content/view/6275/">
+<title>Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3068;&#x30B0;&#x30E9;&#x30D5;&#x30A3;&#x30C3;&#x30AF;&#x306E;&#x7DCF;&#x5408;&#x60C5;&#x5831;&#x30B5;&#x30A4;&#x30C8; - MdN Interactive - WEB&#x306E;&#x5B8C;&#x6210;&#x5EA6;&#x3092;&#x9AD8;&#x3081;&#x308B;76&#x306E;&#x6B63;&#x653B;&#x6CD5;</title>
+<link>http://www.mdn.co.jp/content/view/6275/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T11:30:27Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.tedia.jp/">
+<title>TEDIA -TEchnology meDIA -</title>
+<link>http://www.tedia.jp/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T05:39:44Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://ohnishi.livedoor.biz/archives/50572110.html">
+<title>&#x5927;&#x897F;&#x3000;&#x5B8F;&#x306E;&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0;&#x30FB;&#x30A8;&#x30C3;&#x30BB;&#x30F3;&#x30B9;:&#x3084;&#x306F;&#x308A;&#x3068;&#x3044;&#x3046;&#x304B;&#x3001;&#x30C9;&#x30B3;&#x30E2;&#x65B0;&#x30ED;&#x30B4;&#x30BF;&#x30A4;&#x30D7;&#x306E;&#x60E8;&#x3081;&#x306A;&#x8A55;&#x4FA1;&#x7D50;&#x679C; - livedoor Blog&#xFF08;&#x30D6;&#x30ED;&#x30B0;&#xFF09;</title>
+<link>http://ohnishi.livedoor.biz/archives/50572110.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-03T05:07:26Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html">
+<title>&#x624B;&#x66F8;&#x304D;&#x98A8;&#x306E;&#x30E2;&#x30C3;&#x30AF;&#x30A2;&#x30C3;&#x30D7;&#x753B;&#x9762;&#x304C;&#x3055;&#x304F;&#x3055;&#x304F;&#x4F5C;&#x308C;&#x308B;&#x300E;Balsamiq Mockups&#x300F; | IDEA*IDEA</title>
+<link>http://www.ideaxidea.com/archives/2008/07/balsamiq_mockups.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-02T16:35:45Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/">
+<title>iPhone&#x30A2;&#x30D7;&#x30EA;&#x30B1;&#x30FC;&#x30B7;&#x30E7;&#x30F3;&#x958B;&#x767A;&#x3068;&#x611F;&#x60F3; &#xAB; ku</title>
+<link>http://ido.nu/kuma/2008/07/02/iphone-application-development-and-my-impression/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-02T16:02:22Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide">
+<title>&#x5909;&#x96FB;&#x5DE5; - Google C++&#x30B9;&#x30BF;&#x30A4;&#x30EB;&#x30AC;&#x30A4;&#x30C9;&#x65E5;&#x672C;&#x8A9E;&#x8A33;</title>
+<link>http://www.henshi.net/k/hiki.cgi?GoogleCppStyleGuide</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-02T05:54:12Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://chargma.spaces.live.com/blog/cns!2839DAA143E306A1!183.entry">
+<title>&#x30AF;&#x30DE;&#x3055;&#x3093;&#x306E;&#x30C9;&#x30E9;&#x30C3;&#x30B0;&#x30C7;&#x30EA;&#x30D0;&#x30EA;: Enter&#x306B;&#x3088;&#x308B;&#x30D5;&#x30A9;&#x30FC;&#x30E0;&#x306E;&#x81EA;&#x52D5;&#x9001;&#x4FE1;&#x3092;&#x7981;&#x6B62;&#x3059;&#x308B;&#x30E1;&#x30E2;</title>
+<link>http://chargma.spaces.live.com/blog/cns!2839DAA143E306A1!183.entry</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-02T05:31:27Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://japan.cnet.com/special/story/0,2000056049,20376337,00.htm">
+<title>&#x300C;Twitter&#x300D;&#x306F;&#x751F;&#x304D;&#x6B8B;&#x308C;&#x308B;&#x304B;--&#x5EA6;&#x91CD;&#x306A;&#x308B;&#x30B5;&#x30FC;&#x30D3;&#x30B9;&#x969C;&#x5BB3;&#x3092;&#x3081;&#x3050;&#x308B;&#x7591;&#x554F;:&#x30B9;&#x30DA;&#x30B7;&#x30E3;&#x30EB;&#x30EC;&#x30DD;&#x30FC;&#x30C8; - CNET Japan</title>
+<link>http://japan.cnet.com/special/story/0,2000056049,20376337,00.htm</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-02T01:11:13Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.infoq.com/jp/news/2007/09/pushvspull">
+<title>InfoQ: Ajax&#xFF1A;&#x30D7;&#x30C3;&#x30B7;&#x30E5;&#x5BFE;&#x30D7;&#x30EB;&#x65B9;&#x5F0F;&#x306E;&#x6BD4;&#x8F03;</title>
+<link>http://www.infoq.com/jp/news/2007/09/pushvspull</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-01T15:57:00Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/dayflower/20080701/1214898904">
+<title>PL_check &#x3068;&#x30D1;&#x30C8;&#x30EA;&#x30AA;&#x30C3;&#x30C8;&#x30DF;&#x30B5;&#x30A4;&#x30EB;&#x306E;&#x3057;&#x304F;&#x307F; - daily dayflower</title>
+<link>http://d.hatena.ne.jp/dayflower/20080701/1214898904</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-07-01T08:56:02Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://son-son.sakura.ne.jp/programming/iphone/">
+<title>sonson@Picture&#x26;Software</title>
+<link>http://son-son.sakura.ne.jp/programming/iphone/</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-06-30T18:49:00Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.gcd.org/archives/51205701.html">
+<title>&#x4ED9;&#x77F3;&#x6D69;&#x660E;&#x306E;&#x65E5;&#x8A18;: &#x6545;&#x969C;&#x3057;&#x305F; HDD WD10EACS &#x3092; RMA (Return Merchandise Authorization, &#x8FD4;&#x5374;&#x627F;&#x8A8D;) &#x624B;&#x7D9A;&#x304D;&#x3067;&#x4EA4;&#x63DB;&#x3057;&#x3066;&#x307F;&#x305F;</title>
+<link>http://blog.gcd.org/archives/51205701.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-06-30T13:47:14Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://blog.yappo.jp/yappo/archives/000594.html">
+<title>YappoLogs: &#x4F1A;&#x793E;&#x3092;&#x8F9E;&#x3081;&#x305F;&#x3089;&#x65E9;&#x6025;&#x306B;&#x30CF;&#x30ED;&#x30FC;&#x30EF;&#x30FC;&#x30AF;&#x3078;&#x884C;&#x3063;&#x3066;&#x8CB0;&#x3048;&#x308B;&#x304A;&#x91D1;&#x3092;&#x6E1B;&#x3089;&#x3055;&#x306A;&#x3044;&#x30E9;&#x30A4;&#x30D5;&#x30CF;&#x30C3;&#x30AF;</title>
+<link>http://blog.yappo.jp/yappo/archives/000594.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-06-30T13:45:46Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.itmedia.co.jp/bizid/articles/0806/30/news045.html">
+<title>&#x30A2;&#x30A4;&#x30C7;&#x30A2;&#x5275;&#x767A;&#x306E;&#x7D20;&#x632F;&#x308A;&#xFF1A;&#x300C;&#x306F;&#x3066;&#x306A;&#x30BF;&#x30AF;&#x30B7;&#x30FC;&#x300D;&#x306B;&#x5B66;&#x3076;&#x2014;&#x2014;&#x65B0;&#x4E8B;&#x696D;&#x30A2;&#x30A4;&#x30C7;&#x30A2;&#x3092;&#x898B;&#x3064;&#x3051;&#x308B;&#x65B9;&#x6CD5; (1/2) - ITmedia Biz.ID</title>
+<link>http://www.itmedia.co.jp/bizid/articles/0806/30/news045.html</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-06-30T13:37:42Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://subtech.g.hatena.ne.jp/mayuki/20070408/1175994705">
+<title>TwitterIrcGateway - using Misuzilla.Subtech; - subtech</title>
+<link>http://subtech.g.hatena.ne.jp/mayuki/20070408/1175994705</link>
+<description></description>
+<dc:creator>hoge1229</dc:creator>
+<dc:date>2008-06-30T07:35:55Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+</rdf:RDF>

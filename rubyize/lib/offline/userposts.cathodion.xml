@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cathodion">
+<title>del.icio.us/cathodion</title>
+<link>http://del.icio.us/cathodion</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html" />
+  <rdf:li rdf:resource="http://www.simulation-argument.com/" />
+  <rdf:li rdf:resource="http://www.simulation-argument.com/simulation.html" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.physorg.com/news134058290.html" />
+  <rdf:li rdf:resource="http://mitchgolden.com/essays/psychotic/psychotic10.txt" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/article.pl?sid=08/07/03/1450253&#x26;from=rss" />
+  <rdf:li rdf:resource="http://www.thewebsiteisdown.com/" />
+  <rdf:li rdf:resource="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/" />
+  <rdf:li rdf:resource="http://youtube.com/watch?v=8mwKq7_JlS8" />
+  <rdf:li rdf:resource="http://cometdaily.com/2008/07/01/sockets-in-the-browser/" />
+  <rdf:li rdf:resource="http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html" />
+  <rdf:li rdf:resource="http://www.goertzel.org/benzine/WakingUpFromTheEconomyOfDreams.htm" />
+  <rdf:li rdf:resource="http://www.laputan.org/mud/mud.html" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2006/11/significance-of-meta-circular_22.html" />
+  <rdf:li rdf:resource="http://crap.fi/archive/6497.jpg" />
+  <rdf:li rdf:resource="http://twitter.com/chockenberry/statuses/847071144" />
+  <rdf:li rdf:resource="http://java.sun.com/j2se/1.5/pdf/generics-tutorial.pdf" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.scientificblogging.com/news_releases/cancer_cured_granulocytes_treatment_worked_100_percent_in_mice_work_but_will_it_work_in_humans" />
+  <rdf:li rdf:resource="http://www.livescience.com/history/080629-ap-aztec-whistle.html" />
+  <rdf:li rdf:resource="http://www.damnsmalllinux.org/income-guide/" />
+  <rdf:li rdf:resource="http://prog21.dadgum.com/30.html" />
+  <rdf:li rdf:resource="http://www.dailymail.co.uk/news/article-1030091/Revealed-50-years-The-secret-greatest-student-prank.html" />
+  <rdf:li rdf:resource="http://www.time.com/time/magazine/article/0,9171,1818183,00.html" />
+  <rdf:li rdf:resource="http://news.ycombinator.com/item?id=231308" />
+  <rdf:li rdf:resource="http://javac.info/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=TROhlThs9qY" />
+  <rdf:li rdf:resource="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/" />
+  <rdf:li rdf:resource="http://www.makingitclear.com/newsletters/newsletter62.html#article" />
+  <rdf:li rdf:resource="http://www.longtail.com/the_long_tail/2008/06/excellent-hbr-p.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cs.dal.ca/graduate/doc/MITAIResearch.html">
+<title>How to do research at the MIT AI Lab</title>
+<link>http://www.cs.dal.ca/graduate/doc/MITAIResearch.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-06T05:42:01Z</dc:date>
+<dc:subject>ai mit readlater science writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/ai" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/mit" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simulation-argument.com/">
+<title>Are You Living in a Computer Simulation?</title>
+<link>http://www.simulation-argument.com/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-06T03:33:46Z</dc:date>
+<dc:subject>matrix philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.simulation-argument.com/simulation.html">
+<title>Are You Living in a Computer Simulation?</title>
+<link>http://www.simulation-argument.com/simulation.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-05T20:09:39Z</dc:date>
+<dc:subject>matrix philosophy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/philosophy" />
+    <rdf:li resource="http://del.icio.us/tag/matrix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-05T17:31:04Z</dc:date>
+<dc:subject>programmers programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programmers" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.physorg.com/news134058290.html">
+<title>More Evidence for a Revolutionary Theory of Water</title>
+<link>http://www.physorg.com/news134058290.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-04T19:51:50Z</dc:date>
+<dc:subject>chemistry readlater science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitchgolden.com/essays/psychotic/psychotic10.txt">
+<title>http://mitchgolden.com/essays/psychotic/psychotic10.txt</title>
+<link>http://mitchgolden.com/essays/psychotic/psychotic10.txt</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-03T21:20:17Z</dc:date>
+<dc:subject>c programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/c" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.slashdot.org/article.pl?sid=08/07/03/1450253&#x26;from=rss">
+<title>Slashdot | Is Today's Web Still 'the Web'?</title>
+<link>http://tech.slashdot.org/article.pl?sid=08/07/03/1450253&#x26;from=rss</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-03T17:02:34Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsiteisdown.com/">
+<title>The Website Is Down (Hilarious 10 Minute Video)</title>
+<link>http://www.thewebsiteisdown.com/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-02T17:58:44Z</dc:date>
+<dc:subject>video watchlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/watchlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/">
+<title>20 Ways to Attack Shyness | ThinkSimpleNow.com</title>
+<link>http://thinksimplenow.com/happiness/20-ways-to-attack-shyness/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-02T17:57:07Z</dc:date>
+<dc:subject>psychology readlater shyness social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shyness" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://youtube.com/watch?v=8mwKq7_JlS8">
+<title>YouTube - jQuery</title>
+<link>http://youtube.com/watch?v=8mwKq7_JlS8</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T17:20:06Z</dc:date>
+<dc:subject>watchlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/watchlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cometdaily.com/2008/07/01/sockets-in-the-browser/">
+<title>Comet Daily &#xBB; Blog Archive &#xBB; Sockets in the Browser</title>
+<link>http://cometdaily.com/2008/07/01/sockets-in-the-browser/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T12:24:38Z</dc:date>
+<dc:subject>ajax comet javascript networking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/comet" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html">
+<title>Computational Complexity: Kurt G&#xF6;del (1906-1978)</title>
+<link>http://weblog.fortnow.com/2006/04/kurt-gdel-1906-1978.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T12:22:56Z</dc:date>
+<dc:subject>cs godel math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/godel" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.goertzel.org/benzine/WakingUpFromTheEconomyOfDreams.htm">
+<title>Waking Up from the Economy of Dreams</title>
+<link>http://www.goertzel.org/benzine/WakingUpFromTheEconomyOfDreams.htm</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T02:41:39Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.laputan.org/mud/mud.html">
+<title>Big Ball of Mud</title>
+<link>http://www.laputan.org/mud/mud.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T01:59:20Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2006/11/significance-of-meta-circular_22.html">
+<title>The significance of the meta-circular interpreter</title>
+<link>http://weblog.raganwald.com/2006/11/significance-of-meta-circular_22.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-07-01T00:18:33Z</dc:date>
+<dc:subject>lisp proglang programming ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lisp" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/proglang" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://crap.fi/archive/6497.jpg">
+<title>&#x22;Friends with Benefits&#x22; benefit summary prospectus</title>
+<link>http://crap.fi/archive/6497.jpg</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T23:02:11Z</dc:date>
+<dc:subject>humor image sex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sex" />
+    <rdf:li resource="http://del.icio.us/tag/humor" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://twitter.com/chockenberry/statuses/847071144">
+<title>about 5 hours ago</title>
+<link>http://twitter.com/chockenberry/statuses/847071144</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T22:41:49Z</dc:date>
+<dc:subject>quotes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/quotes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/j2se/1.5/pdf/generics-tutorial.pdf">
+<title>generics-tutorial.pdf (application/pdf Object)</title>
+<link>http://java.sun.com/j2se/1.5/pdf/generics-tutorial.pdf</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T21:53:19Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>Programmer Competency Matrix</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T19:48:13Z</dc:date>
+<dc:subject>chart programmers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/programmers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scientificblogging.com/news_releases/cancer_cured_granulocytes_treatment_worked_100_percent_in_mice_work_but_will_it_work_in_humans">
+<title>Cancer Cured? Granulocytes Treatment Worked 100 Percent In Mice Work But Will It Work In Humans? | Scientific Blogging</title>
+<link>http://www.scientificblogging.com/news_releases/cancer_cured_granulocytes_treatment_worked_100_percent_in_mice_work_but_will_it_work_in_humans</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T12:28:48Z</dc:date>
+<dc:subject>medicine science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/medicine" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/history/080629-ap-aztec-whistle.html">
+<title>Researchers Sound Aztec 'Whistle of Death' | LiveScience</title>
+<link>http://www.livescience.com/history/080629-ap-aztec-whistle.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T12:28:32Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damnsmalllinux.org/income-guide/">
+<title>A Guide to earning an income from a Free and Open Source project</title>
+<link>http://www.damnsmalllinux.org/income-guide/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T12:08:41Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://prog21.dadgum.com/30.html">
+<title>Want to Write a Compiler? You Can Read These Two Papers</title>
+<link>http://prog21.dadgum.com/30.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T12:01:23Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailymail.co.uk/news/article-1030091/Revealed-50-years-The-secret-greatest-student-prank.html">
+<title>Revealed after 50 years: The secret of the greatest-ever student prank | Mail Online</title>
+<link>http://www.dailymail.co.uk/news/article-1030091/Revealed-50-years-The-secret-greatest-student-prank.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T03:39:51Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.time.com/time/magazine/article/0,9171,1818183,00.html">
+<title>How to Succeed? Make Employees Happy</title>
+<link>http://www.time.com/time/magazine/article/0,9171,1818183,00.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T03:06:41Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.ycombinator.com/item?id=231308">
+<title>Hacker News | Atomkeep - your profile everywhere. (Please, review my startup!)</title>
+<link>http://news.ycombinator.com/item?id=231308</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T03:02:29Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://javac.info/">
+<title>Closures for the Java Programming Language</title>
+<link>http://javac.info/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-30T02:47:55Z</dc:date>
+<dc:subject>java readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=TROhlThs9qY">
+<title>YouTube - Glengarry Glen Ross speech</title>
+<link>http://www.youtube.com/watch?v=TROhlThs9qY</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-29T21:27:12Z</dc:date>
+<dc:subject>movie video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movie" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/">
+<title>Extreme regex foo: what you need to know to become a regular expression pro - I&#x2019;m Mike</title>
+<link>http://immike.net/blog/2007/06/21/extreme-regex-foo-what-you-need-to-know-to-become-a-regular-expression-pro/</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-27T22:02:44Z</dc:date>
+<dc:subject>regex</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/regex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makingitclear.com/newsletters/newsletter62.html#article">
+<title>The MakingITclear&#xAE; Newsletter - 15 Career Mistakes</title>
+<link>http://www.makingitclear.com/newsletters/newsletter62.html#article</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-27T21:57:00Z</dc:date>
+<dc:subject>career</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/career" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.longtail.com/the_long_tail/2008/06/excellent-hbr-p.html">
+<title>The Long Tail: Excellent HBR piece challenging the Long Tail</title>
+<link>http://www.longtail.com/the_long_tail/2008/06/excellent-hbr-p.html</link>
+<description></description>
+<dc:creator>cathodion</dc:creator>
+<dc:date>2008-06-27T19:09:31Z</dc:date>
+<dc:subject>readlater</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/readlater" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

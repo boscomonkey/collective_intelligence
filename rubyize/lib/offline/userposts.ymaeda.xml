@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/ymaeda">
+<title>del.icio.us/ymaeda</title>
+<link>http://del.icio.us/ymaeda</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283" />
+  <rdf:li rdf:resource="http://mojix.org/2008/07/04/accounting_study_on_wikipedia" />
+  <rdf:li rdf:resource="http://wintryblasts.com/techblog/?itemid=30" />
+  <rdf:li rdf:resource="http://www.mdn.co.jp/content/view/6275/" />
+  <rdf:li rdf:resource="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html" />
+  <rdf:li rdf:resource="http://mudainodqnment.blog35.fc2.com/blog-entry-476.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1" />
+  <rdf:li rdf:resource="http://koji.vox.com/library/post/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3.html?_c=feed-atom-full" />
+  <rdf:li rdf:resource="http://coliss.com/articles/build-websites/operation/work/1234.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/kokutoto/20080525/p1" />
+  <rdf:li rdf:resource="http://www.staana-studio.com/blog/?p=34" />
+  <rdf:li rdf:resource="http://www.oshiete-kun.net/archives/2008/04/handbrake.html" />
+  <rdf:li rdf:resource="http://daisukefurukawa.blog18.fc2.com/" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/ikomaru/20080627" />
+  <rdf:li rdf:resource="http://www.mof.go.jp/jouhou/soken/kenkyu/zk081/zk081_06.htm" />
+  <rdf:li rdf:resource="http://www007.upp.so-net.ne.jp/tikyuu/opinions/shiva.html" />
+  <rdf:li rdf:resource="http://www.yukawanet.com/sunday/2008/06/cd45_ipodiphone45.html" />
+  <rdf:li rdf:resource="http://gmail.1o4.jp/gtd.html" />
+  <rdf:li rdf:resource="http://wiredvision.jp/blog/compiler/200803/20080303163831.html" />
+  <rdf:li rdf:resource="http://d.hatena.ne.jp/TERRAZI/20080618/p2" />
+  <rdf:li rdf:resource="http://e0166.blog89.fc2.com/blog-entry-492.html" />
+  <rdf:li rdf:resource="http://web-tan.forum.impressrd.jp/e/2008/06/17/3132" />
+  <rdf:li rdf:resource="http://www.inakanet.jp/c-bizpt/" />
+  <rdf:li rdf:resource="http://blog.livedoor.jp/dankogai/archives/51047035.html" />
+  <rdf:li rdf:resource="http://www.yukawanet.com/sunday/2008/06/webajax.html" />
+  <rdf:li rdf:resource="http://blog.new-agriculture.net/blog/2008/05/000572.html" />
+  <rdf:li rdf:resource="http://kosstyle.blog16.fc2.com/blog-entry-729.html" />
+  <rdf:li rdf:resource="http://www.designwalker.com/2008/05/wireframe.html" />
+  <rdf:li rdf:resource="http://blog.canpan.info/waki/archive/125" />
+  <rdf:li rdf:resource="http://sky.geocities.yahoo.co.jp/gl/omis_shimane/view/20080502" />
+  <rdf:li rdf:resource="http://www.nhk.or.jp/kaisetsu-blog/400/8693.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/07/04/3283">
+<title>&#x4F01;&#x696D;&#x3067;&#x4F7F;&#x3048;&#x308B;&#x30AA;&#x30FC;&#x30D7;&#x30F3;&#x30BD;&#x30FC;&#x30B9;CMS&#x4E00;&#x6319;12&#x7A2E;&#x985E;&#x89E3;&#x8AAC;&#xFF08;&#x6A5F;&#x80FD;&#x3084;&#x30A4;&#x30F3;&#x30B9;&#x30C8;&#x30FC;&#x30EB;/&#x7BA1;&#x7406;&#x306E;&#x96E3;&#x6613;&#x5EA6;&#x8A55;&#x4FA1;&#x4ED8;&#x304D;&#xFF09; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/07/04/3283</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-07-06T11:44:23Z</dc:date>
+<dc:subject>cms tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mojix.org/2008/07/04/accounting_study_on_wikipedia">
+<title>&#x4F1A;&#x8A08;&#x3092;&#x5B66;&#x3076;&#x306A;&#x3089;&#x30A6;&#x30A3;&#x30AD;&#x30DA;&#x30C7;&#x30A3;&#x30A2;&#x304C;&#x30AA;&#x30B9;&#x30B9;&#x30E1; - Zope&#x30B8;&#x30E3;&#x30F3;&#x30AD;&#x30FC;&#x65E5;&#x8A18;</title>
+<link>http://mojix.org/2008/07/04/accounting_study_on_wikipedia</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-07-06T11:30:10Z</dc:date>
+<dc:subject>accounting business &#x4F1A;&#x8A08;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E4%BC%9A%E8%A8%88" />
+    <rdf:li resource="http://del.icio.us/tag/accounting" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wintryblasts.com/techblog/?itemid=30">
+<title>Wintryblasts Tech Blog &#xBB; &#x8907;&#x6570;&#x306E;RSS&#x3092;&#x8AAD;&#x307F;&#x8FBC;&#x307F;&#x3001;&#x30BD;&#x30FC;&#x30C8;&#x8868;&#x793A;&#x3059;&#x308B;RSS&#x30EA;&#x30FC;&#x30C0;&#x30FC; : PHP MagpieRSS&#x4F7F;&#x7528;</title>
+<link>http://wintryblasts.com/techblog/?itemid=30</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-07-06T03:47:27Z</dc:date>
+<dc:subject>PHP RSS</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/RSS" />
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mdn.co.jp/content/view/6275/">
+<title>Web&#x30C7;&#x30B6;&#x30A4;&#x30F3;&#x3068;&#x30B0;&#x30E9;&#x30D5;&#x30A3;&#x30C3;&#x30AF;&#x306E;&#x7DCF;&#x5408;&#x60C5;&#x5831;&#x30B5;&#x30A4;&#x30C8; - MdN Interactive - WEB&#x306E;&#x5B8C;&#x6210;&#x5EA6;&#x3092;&#x9AD8;&#x3081;&#x308B;76&#x306E;&#x6B63;&#x653B;&#x6CD5;</title>
+<link>http://www.mdn.co.jp/content/view/6275/</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-07-04T12:19:36Z</dc:date>
+<dc:subject>usability webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html">
+<title>XP SP3&#xFF06;nLite&#x306E;&#x30B3;&#x30F3;&#x30DC;&#x6280;&#x3067;XP&#x3092;&#x5E95;&#x306E;&#x5E95;&#x304B;&#x3089;&#x9AD8;&#x901F;&#x5316; :&#x6559;&#x3048;&#x3066;&#x541B;.net</title>
+<link>http://www.oshiete-kun.net/archives/2008/07/xp_sp3nlitexp.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-07-03T12:13:15Z</dc:date>
+<dc:subject>nlite tips windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/nlite" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mudainodqnment.blog35.fc2.com/blog-entry-476.html">
+<title>&#x7121;&#x984C;&#x306E;&#x30C9;&#x30AD;&#x30E5;&#x30E1;&#x30F3;&#x30C8; &#x3084;&#x308B;&#x592B;&#x3067;&#x5B66;&#x3076;&#x30DE;&#x30FC;&#x30B1;&#x30C6;&#x30A3;&#x30F3;&#x30B0;</title>
+<link>http://mudainodqnment.blog35.fc2.com/blog-entry-476.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-30T09:46:16Z</dc:date>
+<dc:subject>marketing &#x3084;&#x308B;&#x592B;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/%E3%82%84%E3%82%8B%E5%A4%AB" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/fromdusktildawn/20080629/p1">
+<title>&#x7761;&#x7720;&#x306E;&#x8CEA;&#x3092;&#x6700;&#x9AD8;&#x306B;&#x3059;&#x308B;&#x3001;&#x3061;&#x3087;&#x3063;&#x3068;&#x5909;&#x308F;&#x3063;&#x305F;&#x5915;&#x98DF;&#x306E;&#x3068;&#x308A;&#x65B9; - &#x5206;&#x88C2;&#x52D8;&#x9055;&#x3044;&#x541B;&#x5287;&#x5834;</title>
+<link>http://d.hatena.ne.jp/fromdusktildawn/20080629/p1</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-30T06:54:08Z</dc:date>
+<dc:subject>&#x7761;&#x7720;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E7%9D%A1%E7%9C%A0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://koji.vox.com/library/post/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3.html?_c=feed-atom-full">
+<title>&#xFF11;&#xFF11;&#xFF10;&#xFF10;&#x4EBA;&#x306E;&#x524D;&#x3067;&#x30D7;&#x30EC;&#x30BC;&#x30F3; - Vox</title>
+<link>http://koji.vox.com/library/post/%E3%83%97%E3%83%AC%E3%82%BC%E3%83%B3.html?_c=feed-atom-full</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-30T06:20:40Z</dc:date>
+<dc:subject>business presentation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/presentation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://coliss.com/articles/build-websites/operation/work/1234.html">
+<title>&#x30AF;&#x30ED;&#x30B9;&#x30D6;&#x30E9;&#x30A6;&#x30B6;&#x306E;&#x305F;&#x3081;&#x306E;HTML/CSS&#x306E;&#x30C6;&#x30AF;&#x30CB;&#x30C3;&#x30AF;&#x96C6; | &#x30B3;&#x30EA;&#x30B9;</title>
+<link>http://coliss.com/articles/build-websites/operation/work/1234.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-30T06:18:04Z</dc:date>
+<dc:subject>css webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/kokutoto/20080525/p1">
+<title>&#x58CA;&#x308C;&#x305F;&#x304B;&#x3082;&#x3057;&#x308C;&#x306A;&#x3044;&#x30CF;&#x30FC;&#x30C9;&#x30C7;&#x30A3;&#x30B9;&#x30AF;&#x304B;&#x3089;&#x306E;&#x30C7;&#x30FC;&#x30BF;&#x30B5;&#x30EB;&#x30D9;&#x30FC;&#x30B8; - &#x9ED2;&#x7CD6;&#x3005;&#x65E5;&#x8A18;/kokutoto diary</title>
+<link>http://d.hatena.ne.jp/kokutoto/20080525/p1</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-29T11:53:16Z</dc:date>
+<dc:subject>hdd tips trouble</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hdd" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/trouble" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.staana-studio.com/blog/?p=34">
+<title>staana-blog &#xBB; WP e-commerce&#x30AB;&#x30B9;&#x30BF;&#x30DE;&#x30A4;&#x30BA;&#x30E1;&#x30E2; -1&#xFF1A; &#x5E03;&#x30FB;&#x9769;&#x30FB;&#x7D19;&#x3092;&#x4F7F;&#x3063;&#x305F;RHODIA&#x30B1;&#x30FC;&#x30B9;&#x306A;&#x3069;&#x306E;&#x5C0F;&#x7269;&#x3068;&#x30D0;&#x30C3;&#x30B0;&#x306E;&#x5E97;staana-shop&#x904B;&#x55B6;&#x30D6;&#x30ED;&#x30B0;</title>
+<link>http://www.staana-studio.com/blog/?p=34</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-29T05:08:20Z</dc:date>
+<dc:subject>tips wordpress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wordpress" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oshiete-kun.net/archives/2008/04/handbrake.html">
+<title>&#x52D5;&#x753B;&#x3092;&#x300C;HandBrake&#x300D;&#x3067;&#x9AD8;&#x753B;&#x8CEA;&#x30FB;&#x4F4E;&#x5BB9;&#x91CF;&#x306A;&#x6620;&#x50CF;&#x306B;&#x3057;&#x3066;&#x4FDD;&#x5B58; :&#x6559;&#x3048;&#x3066;&#x541B;.net</title>
+<link>http://www.oshiete-kun.net/archives/2008/04/handbrake.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-27T23:21:38Z</dc:date>
+<dc:subject>DVD software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/DVD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://daisukefurukawa.blog18.fc2.com/">
+<title>&#x5730;&#x57DF;&#x518D;&#x751F;&#x30FB;&#x68EE;&#x6797;&#x518D;&#x751F;&#x30B3;&#x30F3;&#x30B5;&#x30EB;&#x30BF;&#x30F3;&#x30C8;&#x65E5;&#x8A18;</title>
+<link>http://daisukefurukawa.blog18.fc2.com/</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-27T21:24:37Z</dc:date>
+<dc:subject>&#x5730;&#x57DF;&#x3000;&#x68EE;&#x6797;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E5%9C%B0%E5%9F%9F%E3%80%80%E6%A3%AE%E6%9E%97" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/ikomaru/20080627">
+<title>&#x30C8;&#x30DB;&#x30DB;&#x306A;&#xFF11;&#xFF10;&#x306E;&#x4E8B;&#x696D;&#x6848; - ikomaru&#x306E;&#x65E5;&#x8A18;</title>
+<link>http://d.hatena.ne.jp/ikomaru/20080627</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-27T21:05:02Z</dc:date>
+<dc:subject>business venture &#x8D77;&#x696D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/venture" />
+    <rdf:li resource="http://del.icio.us/tag/%E8%B5%B7%E6%A5%AD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mof.go.jp/jouhou/soken/kenkyu/zk081/zk081_06.htm">
+<title>&#x300C;&#x4EBA;&#x53E3;&#x52D5;&#x614B;&#x306E;&#x5909;&#x5316;&#x3068;&#x8CA1;&#x653F;&#x30FB;&#x793E;&#x4F1A;&#x4FDD;&#x969C;&#x5236;&#x5EA6;&#x306E;&#x3042;&#x308A;&#x65B9;&#x306B;&#x95A2;&#x3059;&#x308B;&#x7814;&#x7A76;&#x4F1A;&#x300D;&#x5831;&#x544A;&#x66F8;&#xFF08;&#x6982;&#x8981;&#xFF09;</title>
+<link>http://www.mof.go.jp/jouhou/soken/kenkyu/zk081/zk081_06.htm</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-25T13:35:58Z</dc:date>
+<dc:subject>&#x4EBA;&#x53E3;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E4%BA%BA%E5%8F%A3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www007.upp.so-net.ne.jp/tikyuu/opinions/shiva.html">
+<title>Reith Shiva</title>
+<link>http://www007.upp.so-net.ne.jp/tikyuu/opinions/shiva.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-23T14:08:56Z</dc:date>
+<dc:subject>agriculture</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/agriculture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yukawanet.com/sunday/2008/06/cd45_ipodiphone45.html">
+<title>| &#xFF3E;&#xFF3E; |&#x79D2;&#x520A;SUNDAY | &#x3082;&#x3046;CD&#x8CB7;&#x308F;&#x306A;&#x304F;&#x3066;&#x3044;&#x3044;&#xFF01;&#x30D5;&#x30EA;&#x30FC;&#x306E;&#x97F3;&#x697D;&#x5171;&#x6709;&#x30B5;&#x30A4;&#x30C8;&#x96C6;45&#x500B;</title>
+<link>http://www.yukawanet.com/sunday/2008/06/cd45_ipodiphone45.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-20T12:25:31Z</dc:date>
+<dc:subject>mp3 music radio webservice</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mp3" />
+    <rdf:li resource="http://del.icio.us/tag/radio" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/webservice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gmail.1o4.jp/gtd.html">
+<title>Gmail&#x3067;GTD&#x3092;&#x5B9F;&#x8DF5;&#x3059;&#x308B;</title>
+<link>http://gmail.1o4.jp/gtd.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-19T14:32:01Z</dc:date>
+<dc:subject>gmail gtd</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/gtd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiredvision.jp/blog/compiler/200803/20080303163831.html">
+<title>&#x5B66;&#x7FD2;&#x306B;&#x304A;&#x3051;&#x308B;&#x30DE;&#x30EB;&#x30C1;&#x30E1;&#x30C7;&#x30A3;&#x30A2;&#x306E;&#x610F;&#x7FA9; | WIRED VISION</title>
+<link>http://wiredvision.jp/blog/compiler/200803/20080303163831.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-19T05:12:23Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://d.hatena.ne.jp/TERRAZI/20080618/p2">
+<title>&#x300C;&#x305D;&#x308C;&#x3001;Firefox3&#x3067;&#x3082;&#x51FA;&#x6765;&#x308B;&#x3088;&#xFF1F;&#x300D;&#x3068;Opera&#x4FE1;&#x8005;&#x306B;&#x8A00;&#x3044;&#x653E;&#x3064;&#x305F;&#x3081;&#x306E;&#x30A2;&#x30C9;&#x30AA;&#x30F3;26&#x500B; - TERRAZINE</title>
+<link>http://d.hatena.ne.jp/TERRAZI/20080618/p2</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-18T15:22:41Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://e0166.blog89.fc2.com/blog-entry-492.html">
+<title>CSS&#x30CF;&#x30C3;&#x30AF;&#x3057;&#x306A;&#x3044;&#x3001;JavaScript&#x4F7F;&#x308F;&#x306A;&#x3044;CSS&#x306E;&#x6559;&#x79D1;&#x66F8;&#x307F;&#x305F;&#x3044;&#x306A;&#x30C6;&#x30F3;&#x30D7;&#x30EC;*&#x30DB;&#x30FC;&#x30E0;&#x30DA;&#x30FC;&#x30B8;&#x3092;&#x4F5C;&#x308B;&#x4EBA;&#x306E;&#x30CD;&#x30BF;&#x5E33;</title>
+<link>http://e0166.blog89.fc2.com/blog-entry-492.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-17T21:45:59Z</dc:date>
+<dc:subject>css template webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/template" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web-tan.forum.impressrd.jp/e/2008/06/17/3132">
+<title>SEO&#x91CD;&#x8981;&#x8981;&#x56E0;&#x30E9;&#x30F3;&#x30AD;&#x30F3;&#x30B0;&#xFF08;Yahoo! JAPAN&#x7248;&#xFF09;&#x2015;&#x65E5;&#x7C73;SEO&#x30D7;&#x30ED;60&#x4EBA;&#x304C;&#x8A55;&#x4FA1;&#x3057;&#x305F;&#x91CD;&#x8981;&#x5EA6; | Web&#x62C5;&#x5F53;&#x8005;Forum</title>
+<link>http://web-tan.forum.impressrd.jp/e/2008/06/17/3132</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-17T13:28:50Z</dc:date>
+<dc:subject>SEO webdesign yahoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/SEO" />
+    <rdf:li resource="http://del.icio.us/tag/yahoo" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.inakanet.jp/c-bizpt/">
+<title>&#x7530;&#x820E;&#x66AE;&#x3089;&#x3057;&#x7269;&#x4EF6;&#x60C5;&#x5831; &#x300E;&#x7530;&#x820E;&#x306D;&#x3063;&#x3068;.&#x65E5;&#x672C;&#x300F;&#x3000;&#x4E0D;&#x52D5;&#x7523;&#x696D;&#x8005;&#x69D8;&#x52DF;&#x96C6;&#x306E;&#x3054;&#x6848;&#x5185;</title>
+<link>http://www.inakanet.jp/c-bizpt/</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-17T13:28:30Z</dc:date>
+<dc:subject>&#x4E0D;&#x52D5;&#x7523;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E4%B8%8D%E5%8B%95%E7%94%A3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.livedoor.jp/dankogai/archives/51047035.html">
+<title>404 Blog Not Found:&#x9045;&#x5EF6;&#x5B66;&#x7FD2;&#x6CD5;&#x306E;&#x9650;&#x754C;</title>
+<link>http://blog.livedoor.jp/dankogai/archives/51047035.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-15T03:54:23Z</dc:date>
+<dc:subject>lear</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lear" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yukawanet.com/sunday/2008/06/webajax.html">
+<title>| &#xFF3E;&#xFF3E; |&#x79D2;&#x520A;SUNDAY | &#x305A;&#x3070;&#x308A;&#xFF01;&#x30B3;&#x30EC;&#x3055;&#x3048;&#x3042;&#x308C;&#x3070;Web&#x30B7;&#x30B9;&#x30C6;&#x30E0;&#x306F;&#x5B8C;&#x74A7;&#x306A;Ajax&#x30B5;&#x30F3;&#x30D7;&#x30EB;&#x96C6;</title>
+<link>http://www.yukawanet.com/sunday/2008/06/webajax.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-05T12:36:01Z</dc:date>
+<dc:subject>Ajax WebDesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Ajax" />
+    <rdf:li resource="http://del.icio.us/tag/WebDesign" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.new-agriculture.net/blog/2008/05/000572.html">
+<title>&#x65B0;&#x3057;&#x3044;&#x300C;&#x8FB2;&#x300D;&#x306E;&#x304B;&#x305F;&#x3061; | &#x65E5;&#x672C;&#x306F;&#x8FB2;&#x696D;&#x5F93;&#x4E8B;&#x8005;&#x306E;&#x591A;&#x3059;&#x304E;&#x308B;&#x56FD;&#xFF1F;&#xFF01;</title>
+<link>http://blog.new-agriculture.net/blog/2008/05/000572.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-02T12:09:19Z</dc:date>
+<dc:subject>&#x8FB2;&#x696D;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E8%BE%B2%E6%A5%AD" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kosstyle.blog16.fc2.com/blog-entry-729.html">
+<title>&#x5199;&#x771F;&#x304C;&#x3046;&#x307E;&#x304F;&#x306A;&#x308B;&#xFF13;&#xFF16;&#x306E;&#x6CD5;&#x5247; - Ko's Style</title>
+<link>http://kosstyle.blog16.fc2.com/blog-entry-729.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-02T02:30:52Z</dc:date>
+<dc:subject>Tips camera photo &#x5199;&#x771F;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photo" />
+    <rdf:li resource="http://del.icio.us/tag/Tips" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/%E5%86%99%E7%9C%9F" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.designwalker.com/2008/05/wireframe.html">
+<title>&#x30A6;&#x30A7;&#x30D6;&#x306E;&#x753B;&#x9762;&#x8A2D;&#x8A08;&#x306B;&#x4F7F;&#x3048;&#x308B;&#x307E;&#x3068;&#x3081; - DesignWalker</title>
+<link>http://www.designwalker.com/2008/05/wireframe.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-06-02T01:22:16Z</dc:date>
+<dc:subject>layout webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.canpan.info/waki/archive/125">
+<title>&#x7C21;&#x6613;&#x8AB2;&#x7A0E;&#x5236;&#x5EA6;&#xFF08;&#x4E8B;&#x696D;&#x533A;&#x5206;&#xFF09;-NPO&#x4F1A;&#x8A08;&#x9053;</title>
+<link>http://blog.canpan.info/waki/archive/125</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-05-30T01:04:40Z</dc:date>
+<dc:subject>NPO</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/NPO" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sky.geocities.yahoo.co.jp/gl/omis_shimane/view/20080502">
+<title>&#x4E09;&#x5CF6;&#x304A;&#x3055;&#x3080;&#x306E;&#x770C;&#x653F;&#x3064;&#x3046;&#x3057;&#x3093;&#x30D6;&#x30ED;&#x30B0; - Yahoo!&#x30B8;&#x30AA;&#x30B7;&#x30C6;&#x30A3;&#x30FC;&#x30BA;</title>
+<link>http://sky.geocities.yahoo.co.jp/gl/omis_shimane/view/20080502</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-05-26T04:50:28Z</dc:date>
+<dc:subject>&#x91CC;&#x5C71;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E9%87%8C%E5%B1%B1" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nhk.or.jp/kaisetsu-blog/400/8693.html">
+<title>&#x89E3;&#x8AAC;&#x59D4;&#x54E1;&#x5BA4;&#x30D6;&#x30ED;&#x30B0;:NHK&#x30D6;&#x30ED;&#x30B0; | &#x8996;&#x70B9;&#x30FB;&#x8AD6;&#x70B9; | &#x8996;&#x70B9;&#x30FB;&#x8AD6;&#x70B9;&#x300C;&#x6BCD;&#x5B50;&#x5BB6;&#x5EAD;&#x306F;&#x4ECA;&#x300D;</title>
+<link>http://www.nhk.or.jp/kaisetsu-blog/400/8693.html</link>
+<description></description>
+<dc:creator>ymaeda</dc:creator>
+<dc:date>2008-05-10T02:47:05Z</dc:date>
+<dc:subject>&#x683C;&#x5DEE;&#x3000;&#x8CA7;&#x56F0;</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/%E6%A0%BC%E5%B7%AE%E3%80%80%E8%B2%A7%E5%9B%B0" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

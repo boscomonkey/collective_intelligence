@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/zpellman">
+<title>del.icio.us/zpellman</title>
+<link>http://del.icio.us/zpellman</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/02/dining/02mlis-001.html" />
+  <rdf:li rdf:resource="http://cybernetnews.com/cybersearch/" />
+  <rdf:li rdf:resource="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp" />
+  <rdf:li rdf:resource="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx" />
+  <rdf:li rdf:resource="http://lifehacker.com/397573/master-your-digital-media-with-vlc" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/robch/archive/2008/07/01/using-macros-of-the-day-a-step-by-step-guide.aspx" />
+  <rdf:li rdf:resource="http://lifehacker.com/397641/move-up-a-directory-in-vistas-explorer" />
+  <rdf:li rdf:resource="http://lifehacker.com/397293/how-to-use-smart-objects-in-photoshop" />
+  <rdf:li rdf:resource="http://lifehacker.com/396995/diy-magnetic-whiteboard-speech-bubble" />
+  <rdf:li rdf:resource="http://wirewize.com/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/clients/8-things-you-should-include-in-your-terms-of-service-agreement/" />
+  <rdf:li rdf:resource="http://freelanceswitch.com/clients/10-mistakes-that-will-cost-you-your-client-and-how-to-avoid-them/" />
+  <rdf:li rdf:resource="http://lifehacker.com/397024/get-101-photoshop-tips-in-five-minutes" />
+  <rdf:li rdf:resource="http://consumerist.com/tag/tsa-id-policy/?i=5018844&#x26;t=privacy-what-its-like-to-fly-with-no-id-under-the-tsas-new-regulations" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/001138.html" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/" />
+  <rdf:li rdf:resource="http://www.instructables.com/id/Homemade-Plastic/" />
+  <rdf:li rdf:resource="http://www.virtualnes.com/play/play.php?id=A513&#x26;s=1" />
+  <rdf:li rdf:resource="http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA" />
+  <rdf:li rdf:resource="http://lifehacker.com/396590/run-windows-apps-in-linux-with-wine-10" />
+  <rdf:li rdf:resource="http://www.ss64.com/nt/" />
+  <rdf:li rdf:resource="http://www.howtogeek.com/howto/windows-vista/disable-all-notification-balloons-in-windows-vista/" />
+  <rdf:li rdf:resource="http://repairpal.com/" />
+  <rdf:li rdf:resource="http://www.menshealth.com/eatthis/Best-Grocery-Foods/best_cereal.php" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=806699" />
+  <rdf:li rdf:resource="http://www.gaijin.at/dlwipedisk.php" />
+  <rdf:li rdf:resource="http://64.233.179.104/translate_c?hl=de&#x26;langpair=de%7Cen&#x26;u=http://www.gaijin.at/dlwipedisk.php" />
+  <rdf:li rdf:resource="http://consumerist.com/tag/complaint-letters/?i=5012725&#x26;t=professional-complaint-letter-writer-shares-his-secrets" />
+  <rdf:li rdf:resource="http://www.kk.org/cooltools/archives/002853.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/cord-management/cordless-workspace-redux-the-gina-edition-239904.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate">
+<title>Screenshot Tour: Kid-Proof Your PC with SteadyState</title>
+<link>http://lifehacker.com/397786/kid+proof-your-pc-with-steadystate</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-06T03:57:59Z</dc:date>
+<dc:subject>howto security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/02/dining/02mlis-001.html">
+<title>101 Fast Recipes for Inspired Picnics - List - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/02/dining/02mlis-001.html</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-03T14:49:22Z</dc:date>
+<dc:subject>food recipes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cybernetnews.com/cybersearch/">
+<title>CyberSearch Firefox Extension</title>
+<link>http://cybernetnews.com/cybersearch/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-03T00:22:16Z</dc:date>
+<dc:subject>firefox_addons</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox_addons" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp">
+<title>The 11 Best Foods You Arent Eating - Well - Tara Parker-Pope - Health - New York Times Blog</title>
+<link>http://well.blogs.nytimes.com/2008/06/30/the-11-best-foods-you-arent-eating/index.html?hp</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-02T20:21:54Z</dc:date>
+<dc:subject>cooking food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx">
+<title>Windows SteadyState</title>
+<link>http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-02T17:21:47Z</dc:date>
+<dc:subject>security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397573/master-your-digital-media-with-vlc">
+<title>Vlc: Master Your Digital Media with VLC</title>
+<link>http://lifehacker.com/397573/master-your-digital-media-with-vlc</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-02T15:41:53Z</dc:date>
+<dc:subject>howto media video vlc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/vlc" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/robch/archive/2008/07/01/using-macros-of-the-day-a-step-by-step-guide.aspx">
+<title>Rob's Rhapsody : Using Macros of the Day: A Step by Step Guide</title>
+<link>http://blogs.msdn.com/robch/archive/2008/07/01/using-macros-of-the-day-a-step-by-step-guide.aspx</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-02T14:25:40Z</dc:date>
+<dc:subject>howto speech_recog</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/speech_recog" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397641/move-up-a-directory-in-vistas-explorer">
+<title>How To: Move Up a Directory in Vista's Explorer</title>
+<link>http://lifehacker.com/397641/move-up-a-directory-in-vistas-explorer</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-07-02T14:25:20Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/397293/how-to-use-smart-objects-in-photoshop">
+<title>Screencasts: How to Use Smart Objects in Photoshop</title>
+<link>http://lifehacker.com/397293/how-to-use-smart-objects-in-photoshop</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-28T20:28:01Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/396995/diy-magnetic-whiteboard-speech-bubble">
+<title>Whiteboard: DIY Magnetic Whiteboard Speech Bubble</title>
+<link>http://lifehacker.com/396995/diy-magnetic-whiteboard-speech-bubble</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-27T15:42:44Z</dc:date>
+<dc:subject>diy whiteboard</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diy" />
+    <rdf:li resource="http://del.icio.us/tag/whiteboard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wirewize.com/">
+<title>Wirewize - Welcome!</title>
+<link>http://wirewize.com/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-27T15:40:27Z</dc:date>
+<dc:subject>electronics home howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/electronics" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/clients/8-things-you-should-include-in-your-terms-of-service-agreement/">
+<title>8 Things You Should Include In Your Terms of Service Agreement - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/clients/8-things-you-should-include-in-your-terms-of-service-agreement/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-25T17:17:31Z</dc:date>
+<dc:subject>business contract freelance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/contract" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freelanceswitch.com/clients/10-mistakes-that-will-cost-you-your-client-and-how-to-avoid-them/">
+<title>5 Mistakes That Will Cost You Your Client (and How to Avoid Them) - FreelanceSwitch - The Freelance Blog</title>
+<link>http://freelanceswitch.com/clients/10-mistakes-that-will-cost-you-your-client-and-how-to-avoid-them/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-25T17:15:52Z</dc:date>
+<dc:subject>business projectmanagement</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/projectmanagement" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397024/get-101-photoshop-tips-in-five-minutes">
+<title>Image Editing: Get 101 Photoshop Tips in Five Minutes</title>
+<link>http://lifehacker.com/397024/get-101-photoshop-tips-in-five-minutes</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-25T17:02:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://consumerist.com/tag/tsa-id-policy/?i=5018844&#x26;t=privacy-what-its-like-to-fly-with-no-id-under-the-tsas-new-regulations">
+<title>Privacy: What It's Like To Fly With No ID Under The TSA's New Regulations</title>
+<link>http://consumerist.com/tag/tsa-id-policy/?i=5018844&#x26;t=privacy-what-its-like-to-fly-with-no-id-under-the-tsas-new-regulations</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-24T12:50:04Z</dc:date>
+<dc:subject>for_brett_clark</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/for_brett_clark" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/001138.html">
+<title>Coding Horror: The Ultimate Code Kata</title>
+<link>http://www.codinghorror.com/blog/archives/001138.html</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-24T12:45:34Z</dc:date>
+<dc:subject>programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/">
+<title>The Simple Dollar &#xBB; Seven Ideas for Preparing Food at Home Cheaply with Minimal Space and Resources</title>
+<link>http://www.thesimpledollar.com/2008/06/19/seven-ideas-for-preparing-food-at-home-cheaply-with-minimal-space-and-resources/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-23T15:45:43Z</dc:date>
+<dc:subject>Recipes cooking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cooking" />
+    <rdf:li resource="http://del.icio.us/tag/Recipes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.instructables.com/id/Homemade-Plastic/">
+<title>Homemade Plastic - Instructables - DIY, How To, craft</title>
+<link>http://www.instructables.com/id/Homemade-Plastic/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-23T15:36:03Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.virtualnes.com/play/play.php?id=A513&#x26;s=1">
+<title>vNES</title>
+<link>http://www.virtualnes.com/play/play.php?id=A513&#x26;s=1</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-21T16:23:40Z</dc:date>
+<dc:subject>nintendo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nintendo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA">
+<title>PaycheckCity.com | Form W-4 Assistant</title>
+<link>http://paycheckcity.com/W4/w4instruction.asp?nextPage=PA</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-21T03:24:01Z</dc:date>
+<dc:subject>taxes tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/396590/run-windows-apps-in-linux-with-wine-10">
+<title>Wine: Run Windows Apps in Linux with Wine 1.0</title>
+<link>http://lifehacker.com/396590/run-windows-apps-in-linux-with-wine-10</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-21T03:22:12Z</dc:date>
+<dc:subject>linux windows wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ss64.com/nt/">
+<title>Windows XP Commands</title>
+<link>http://www.ss64.com/nt/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-21T02:36:50Z</dc:date>
+<dc:subject>cmd microsoft programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/cmd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtogeek.com/howto/windows-vista/disable-all-notification-balloons-in-windows-vista/">
+<title>Disable All Notification Balloons in Windows Vista :: the How-To Geek</title>
+<link>http://www.howtogeek.com/howto/windows-vista/disable-all-notification-balloons-in-windows-vista/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-17T00:43:28Z</dc:date>
+<dc:subject>Hacks Registry howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/Registry" />
+    <rdf:li resource="http://del.icio.us/tag/Hacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://repairpal.com/">
+<title>RepairPal</title>
+<link>http://repairpal.com/</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-13T15:18:14Z</dc:date>
+<dc:subject>auto repair</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/auto" />
+    <rdf:li resource="http://del.icio.us/tag/repair" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.menshealth.com/eatthis/Best-Grocery-Foods/best_cereal.php">
+<title>Men's Health - Eat This, Not That - The Healthiest Supermarket Foods in America</title>
+<link>http://www.menshealth.com/eatthis/Best-Grocery-Foods/best_cereal.php</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-13T15:09:38Z</dc:date>
+<dc:subject>food health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=806699">
+<title>HowTo: Easiest way to share files &#x26; printers with Windows - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=806699</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-13T15:00:37Z</dc:date>
+<dc:subject>Linux howto printer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/Linux" />
+    <rdf:li resource="http://del.icio.us/tag/printer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gaijin.at/dlwipedisk.php">
+<title>WipeDisk - Datentr&#xE4;ger schnell und sicher l&#xF6;schen</title>
+<link>http://www.gaijin.at/dlwipedisk.php</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-10T04:58:23Z</dc:date>
+<dc:subject>security tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://64.233.179.104/translate_c?hl=de&#x26;langpair=de%7Cen&#x26;u=http://www.gaijin.at/dlwipedisk.php">
+<title>Wipe Disk - disk quickly and safely delete</title>
+<link>http://64.233.179.104/translate_c?hl=de&#x26;langpair=de%7Cen&#x26;u=http://www.gaijin.at/dlwipedisk.php</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-05T02:57:37Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://consumerist.com/tag/complaint-letters/?i=5012725&#x26;t=professional-complaint-letter-writer-shares-his-secrets">
+<title>Complaint Letters: Professional Complaint Letter Writer Shares His Secrets</title>
+<link>http://consumerist.com/tag/complaint-letters/?i=5012725&#x26;t=professional-complaint-letter-writer-shares-his-secrets</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-04T04:47:56Z</dc:date>
+<dc:subject>howto lifehacks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kk.org/cooltools/archives/002853.php">
+<title>Cool Tool: Sticker Shield</title>
+<link>http://www.kk.org/cooltools/archives/002853.php</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-03T05:05:04Z</dc:date>
+<dc:subject>gadgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gadgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/cord-management/cordless-workspace-redux-the-gina-edition-239904.php">
+<title>Cord Management: Cordless workspace redux, the Gina edition</title>
+<link>http://lifehacker.com/software/cord-management/cordless-workspace-redux-the-gina-edition-239904.php</link>
+<description></description>
+<dc:creator>zpellman</dc:creator>
+<dc:date>2008-06-02T20:19:36Z</dc:date>
+<dc:subject>howto organization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/organization" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

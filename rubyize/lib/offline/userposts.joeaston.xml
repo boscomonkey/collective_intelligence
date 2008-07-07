@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/joeaston">
+<title>del.icio.us/joeaston</title>
+<link>http://del.icio.us/joeaston</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.showusabetterway.com/" />
+  <rdf:li rdf:resource="http://www.evolus.vn/Pencil/Home.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/ratproxy/" />
+  <rdf:li rdf:resource="http://labs.mozilla.com/projects/weave/" />
+  <rdf:li rdf:resource="http://designreviver.com/freebies/400-swirls-curls-and-fleurons" />
+  <rdf:li rdf:resource="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx" />
+  <rdf:li rdf:resource="http://aciddrop.com/php-speedy/" />
+  <rdf:li rdf:resource="http://bgpatterns.com/" />
+  <rdf:li rdf:resource="http://www.araxis.com/merge/index.html" />
+  <rdf:li rdf:resource="http://winmerge.org/" />
+  <rdf:li rdf:resource="http://code.google.com/p/hartija/" />
+  <rdf:li rdf:resource="http://code.google.com/p/formy-css-framework/" />
+  <rdf:li rdf:resource="http://screensteps.com/" />
+  <rdf:li rdf:resource="http://pchart.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html" />
+  <rdf:li rdf:resource="http://www.andyrutledge.com/the-employable-web-designer.php" />
+  <rdf:li rdf:resource="http://kevin.vanzonneveld.net/techblog/article/survive_heavy_traffic_with_your_webserver/" />
+  <rdf:li rdf:resource="http://dev.mysql.com/tech-resources/presentations/presentation-oscon2000-20000719/index.html" />
+  <rdf:li rdf:resource="http://www.thewebsiteisdown.com/salesguy.html" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/" />
+  <rdf:li rdf:resource="http://www.aventurehost.com/" />
+  <rdf:li rdf:resource="http://shiflett.org/blog/2006/mar/server-name-versus-http-host" />
+  <rdf:li rdf:resource="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/" />
+  <rdf:li rdf:resource="http://www.spamyourenemies.com/" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-3-column.htm" />
+  <rdf:li rdf:resource="http://www.effectmatrix.com/total-video-converter/" />
+  <rdf:li rdf:resource="http://www.universetoday.com/2008/06/12/where-are-the-sunspots-are-we-in-for-a-quiet-solar-cycle/" />
+  <rdf:li rdf:resource="http://www.viperchill.com/social-media-traffic/" />
+  <rdf:li rdf:resource="http://jontangerine.com/silo/typography/p/" />
+  <rdf:li rdf:resource="http://memritv.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000&#xD7;2275 pixels) - Scaled (44%)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-06T10:14:53Z</dc:date>
+<dc:subject>atom chart chemistry particle physics quantum reference science visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/particle" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/chemistry" />
+    <rdf:li resource="http://del.icio.us/tag/atom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.showusabetterway.com/">
+<title>Show Us a Better Way</title>
+<link>http://www.showusabetterway.com/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-04T12:45:18Z</dc:date>
+<dc:subject>2008 competition data development government information innovation local mashup uk visualization</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/government" />
+    <rdf:li resource="http://del.icio.us/tag/mashup" />
+    <rdf:li resource="http://del.icio.us/tag/competition" />
+    <rdf:li resource="http://del.icio.us/tag/uk" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/innovation" />
+    <rdf:li resource="http://del.icio.us/tag/data" />
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/2008" />
+    <rdf:li resource="http://del.icio.us/tag/local" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolus.vn/Pencil/Home.html">
+<title>Home - Pencil Project</title>
+<link>http://www.evolus.vn/Pencil/Home.html</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-03T13:14:39Z</dc:date>
+<dc:subject>addon design development drawing extension extensions firefox gui interface opensource prototype prototyping software usability webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/prototyping" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/gui" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/extensions" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/addon" />
+    <rdf:li resource="http://del.icio.us/tag/prototype" />
+    <rdf:li resource="http://del.icio.us/tag/interface" />
+    <rdf:li resource="http://del.icio.us/tag/drawing" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/ratproxy/">
+<title>ratproxy - Google Code</title>
+<link>http://code.google.com/p/ratproxy/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-03T10:49:32Z</dc:date>
+<dc:subject>http proxy security software testing tools web xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/http" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://labs.mozilla.com/projects/weave/">
+<title>Mozilla Labs &#xBB; Weave</title>
+<link>http://labs.mozilla.com/projects/weave/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-01T18:15:55Z</dc:date>
+<dc:subject>backup extension firefox information metadata mozilla online software sync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/extension" />
+    <rdf:li resource="http://del.icio.us/tag/mozilla" />
+    <rdf:li resource="http://del.icio.us/tag/information" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/online" />
+    <rdf:li resource="http://del.icio.us/tag/metadata" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://designreviver.com/freebies/400-swirls-curls-and-fleurons">
+<title>400+ Swirls, Curls, and Fleurons | Design Reviver</title>
+<link>http://designreviver.com/freebies/400-swirls-curls-and-fleurons</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-01T18:12:51Z</dc:date>
+<dc:subject>art brushes design elements graphics illustration illustrator ornaments photoshop resources stock swirls textures vector</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photoshop" />
+    <rdf:li resource="http://del.icio.us/tag/brushes" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/swirls" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/vector" />
+    <rdf:li resource="http://del.icio.us/tag/art" />
+    <rdf:li resource="http://del.icio.us/tag/ornaments" />
+    <rdf:li resource="http://del.icio.us/tag/elements" />
+    <rdf:li resource="http://del.icio.us/tag/illustrator" />
+    <rdf:li resource="http://del.icio.us/tag/stock" />
+    <rdf:li resource="http://del.icio.us/tag/illustration" />
+    <rdf:li resource="http://del.icio.us/tag/textures" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx">
+<title>Windows SteadyState</title>
+<link>http://www.microsoft.com/windows/products/winfamily/sharedaccess/default.mspx</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-01T18:11:59Z</dc:date>
+<dc:subject>backup computer desktop encryption hardening management microsoft network os security software steadystate virtualization windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/steadystate" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+    <rdf:li resource="http://del.icio.us/tag/hardening" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/virtualization" />
+    <rdf:li resource="http://del.icio.us/tag/os" />
+    <rdf:li resource="http://del.icio.us/tag/network" />
+    <rdf:li resource="http://del.icio.us/tag/encryption" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/desktop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aciddrop.com/php-speedy/">
+<title>PHP Speedy | Aciddrop.com</title>
+<link>http://aciddrop.com/php-speedy/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-01T13:16:53Z</dc:date>
+<dc:subject>compression optimization optimizer performance php speed tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/optimizer" />
+    <rdf:li resource="http://del.icio.us/tag/speed" />
+    <rdf:li resource="http://del.icio.us/tag/compression" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bgpatterns.com/">
+<title>Tiled backgrounds designer</title>
+<link>http://bgpatterns.com/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-07-01T10:32:30Z</dc:date>
+<dc:subject>background backgrounds canvas design generator graphics images ornaments patterns webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/generator" />
+    <rdf:li resource="http://del.icio.us/tag/backgrounds" />
+    <rdf:li resource="http://del.icio.us/tag/graphics" />
+    <rdf:li resource="http://del.icio.us/tag/images" />
+    <rdf:li resource="http://del.icio.us/tag/ornaments" />
+    <rdf:li resource="http://del.icio.us/tag/background" />
+    <rdf:li resource="http://del.icio.us/tag/canvas" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.araxis.com/merge/index.html">
+<title>Araxis Merge: Two and Three-Way File Comparison, Merging and Folder Synchronization Software</title>
+<link>http://www.araxis.com/merge/index.html</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-30T23:47:54Z</dc:date>
+<dc:subject>code compare comparison development diff merge software subversion svn tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/diff" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/compare" />
+    <rdf:li resource="http://del.icio.us/tag/merge" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://winmerge.org/">
+<title>WinMerge</title>
+<link>http://winmerge.org/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-30T23:46:02Z</dc:date>
+<dc:subject>application comparison control cvs development diff file filesystem folder freeware opensource programming software subversion svn sync tools utilities versioncontrol webdev windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/diff" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/opensource" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/application" />
+    <rdf:li resource="http://del.icio.us/tag/svn" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/sync" />
+    <rdf:li resource="http://del.icio.us/tag/versioncontrol" />
+    <rdf:li resource="http://del.icio.us/tag/utilities" />
+    <rdf:li resource="http://del.icio.us/tag/folder" />
+    <rdf:li resource="http://del.icio.us/tag/filesystem" />
+    <rdf:li resource="http://del.icio.us/tag/file" />
+    <rdf:li resource="http://del.icio.us/tag/control" />
+    <rdf:li resource="http://del.icio.us/tag/cvs" />
+    <rdf:li resource="http://del.icio.us/tag/comparison" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/hartija/">
+<title>hartija - Google Code</title>
+<link>http://code.google.com/p/hartija/</link>
+<description>Css Print Framework</description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-28T12:53:34Z</dc:date>
+<dc:subject>code css design framework frameworks print printing style stylesheets webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/print" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/printing" />
+    <rdf:li resource="http://del.icio.us/tag/frameworks" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+    <rdf:li resource="http://del.icio.us/tag/style" />
+    <rdf:li resource="http://del.icio.us/tag/stylesheets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/formy-css-framework/">
+<title>formy-css-framework - Google Code</title>
+<link>http://code.google.com/p/formy-css-framework/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-28T12:52:28Z</dc:date>
+<dc:subject>css forms framework frameworks layout usability web webdesign webdev xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/framework" />
+    <rdf:li resource="http://del.icio.us/tag/forms" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/usability" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/frameworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://screensteps.com/">
+<title>ScreenSteps: Rapid Documentation Tool</title>
+<link>http://screensteps.com/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-28T10:28:33Z</dc:date>
+<dc:subject>capture documentation guides mac screencapture screenshots software training tutorial windows writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screencapture" />
+    <rdf:li resource="http://del.icio.us/tag/documentation" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/capture" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+    <rdf:li resource="http://del.icio.us/tag/screenshots" />
+    <rdf:li resource="http://del.icio.us/tag/guides" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+    <rdf:li resource="http://del.icio.us/tag/training" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pchart.sourceforge.net/">
+<title>pChart | a PHP Charting library</title>
+<link>http://pchart.sourceforge.net/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-27T23:45:02Z</dc:date>
+<dc:subject>PHP chart charts class graph scripts webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/PHP" />
+    <rdf:li resource="http://del.icio.us/tag/charts" />
+    <rdf:li resource="http://del.icio.us/tag/graph" />
+    <rdf:li resource="http://del.icio.us/tag/chart" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/class" />
+    <rdf:li resource="http://del.icio.us/tag/scripts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html">
+<title>Windows Explorer Folder View settings - Vista Forums</title>
+<link>http://www.vistax64.com/tutorials/70819-windows-explorer-folder-view-settings.html</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-27T15:32:01Z</dc:date>
+<dc:subject>explorer fix folder howto tweaks vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+    <rdf:li resource="http://del.icio.us/tag/explorer" />
+    <rdf:li resource="http://del.icio.us/tag/fix" />
+    <rdf:li resource="http://del.icio.us/tag/tweaks" />
+    <rdf:li resource="http://del.icio.us/tag/folder" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.andyrutledge.com/the-employable-web-designer.php">
+<title>Design View / Andy Rutledge - The Employable Web Designer</title>
+<link>http://www.andyrutledge.com/the-employable-web-designer.php</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-26T15:50:21Z</dc:date>
+<dc:subject>business career design education employment freelance jobs skills webdesign work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/career" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/jobs" />
+    <rdf:li resource="http://del.icio.us/tag/skills" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+    <rdf:li resource="http://del.icio.us/tag/employment" />
+    <rdf:li resource="http://del.icio.us/tag/freelance" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kevin.vanzonneveld.net/techblog/article/survive_heavy_traffic_with_your_webserver/">
+<title>Survive heavy traffic with your webserver</title>
+<link>http://kevin.vanzonneveld.net/techblog/article/survive_heavy_traffic_with_your_webserver/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-25T10:20:51Z</dc:date>
+<dc:subject>apache architecture caching linux mysql optimization performance php server traffic tuning webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/traffic" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/architecture" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dev.mysql.com/tech-resources/presentations/presentation-oscon2000-20000719/index.html">
+<title>MySQL :: MySQL Presentations: Optimizing MySQL</title>
+<link>http://dev.mysql.com/tech-resources/presentations/presentation-oscon2000-20000719/index.html</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-25T10:15:46Z</dc:date>
+<dc:subject>database db howto mysql optimization optimize optimizing performance scalability servers tuning webdev</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+    <rdf:li resource="http://del.icio.us/tag/optimization" />
+    <rdf:li resource="http://del.icio.us/tag/performance" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/optimize" />
+    <rdf:li resource="http://del.icio.us/tag/optimizing" />
+    <rdf:li resource="http://del.icio.us/tag/scalability" />
+    <rdf:li resource="http://del.icio.us/tag/tuning" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/db" />
+    <rdf:li resource="http://del.icio.us/tag/servers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thewebsiteisdown.com/salesguy.html">
+<title>The Website Is Down</title>
+<link>http://www.thewebsiteisdown.com/salesguy.html</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-25T10:05:59Z</dc:date>
+<dc:subject>Humor fun funny geek humour it joke support sysadmin video videos website</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/geek" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/it" />
+    <rdf:li resource="http://del.icio.us/tag/support" />
+    <rdf:li resource="http://del.icio.us/tag/Humor" />
+    <rdf:li resource="http://del.icio.us/tag/sysadmin" />
+    <rdf:li resource="http://del.icio.us/tag/website" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/joke" />
+    <rdf:li resource="http://del.icio.us/tag/videos" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/how-to-avoid-camera-shake/">
+<title>How to Reduce Camera Shake - 6 Techniques</title>
+<link>http://digital-photography-school.com/blog/how-to-avoid-camera-shake/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-23T20:44:13Z</dc:date>
+<dc:subject>camera howto photography shake technique tips tutorials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/camera" />
+    <rdf:li resource="http://del.icio.us/tag/technique" />
+    <rdf:li resource="http://del.icio.us/tag/tutorials" />
+    <rdf:li resource="http://del.icio.us/tag/shake" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aventurehost.com/">
+<title>Aventure Host Home - Personal and Business Web Hosting Solutions (VPS, Dedicated, Resellers, CPanel/Web Host Manager)</title>
+<link>http://www.aventurehost.com/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-23T20:39:05Z</dc:date>
+<dc:subject>dedicated hosting server servers vps webhost</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hosting" />
+    <rdf:li resource="http://del.icio.us/tag/webhost" />
+    <rdf:li resource="http://del.icio.us/tag/vps" />
+    <rdf:li resource="http://del.icio.us/tag/server" />
+    <rdf:li resource="http://del.icio.us/tag/servers" />
+    <rdf:li resource="http://del.icio.us/tag/dedicated" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shiflett.org/blog/2006/mar/server-name-versus-http-host">
+<title>Chris Shiflett: SERVER_NAME Versus HTTP_HOST</title>
+<link>http://shiflett.org/blog/2006/mar/server-name-versus-http-host</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-20T21:07:44Z</dc:date>
+<dc:subject>coding development php reference security webdev webdevelopment xss</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/coding" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/xss" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/">
+<title>How to get Cross Browser Compatibility Every Time | Anthony Short | Web Design &#x26; Development</title>
+<link>http://anthonyshort.com.au/blog/comments/how-to-get-cross-browser-compatibility-everytime/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-19T19:46:23Z</dc:date>
+<dc:subject>browser compatibility css development stylesheets webdesign webdev xhtml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/browser" />
+    <rdf:li resource="http://del.icio.us/tag/compatibility" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/webdev" />
+    <rdf:li resource="http://del.icio.us/tag/stylesheets" />
+    <rdf:li resource="http://del.icio.us/tag/xhtml" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spamyourenemies.com/">
+<title>Spam Your Enemies... the fun way!</title>
+<link>http://www.spamyourenemies.com/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-17T14:49:32Z</dc:date>
+<dc:subject>bot email enemies fun funny humour spam tool tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/spam" />
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/enemies" />
+    <rdf:li resource="http://del.icio.us/tag/fun" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/humour" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/bot" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-3-column.htm">
+<title>The Perfect 3 Column Liquid Layout: No CSS hacks. SEO friendly. iPhone compatible.</title>
+<link>http://matthewjamestaylor.com/blog/perfect-3-column.htm</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-17T10:04:19Z</dc:date>
+<dc:subject>3column code css design layout layouts liquid tutorial webdesign</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/layout" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdesign" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/3column" />
+    <rdf:li resource="http://del.icio.us/tag/liquid" />
+    <rdf:li resource="http://del.icio.us/tag/layouts" />
+    <rdf:li resource="http://del.icio.us/tag/tutorial" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.effectmatrix.com/total-video-converter/">
+<title>Total Video Converter -- AVI to MPEG Converter, Convert Video Youtube FLV to MPEG Converter,AVI to DVD Converter,AVI to DivX Converter</title>
+<link>http://www.effectmatrix.com/total-video-converter/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-14T09:40:53Z</dc:date>
+<dc:subject>conversion convert converter divx flash free tools video vp6 windows xvid</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vp6" />
+    <rdf:li resource="http://del.icio.us/tag/xvid" />
+    <rdf:li resource="http://del.icio.us/tag/divx" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/free" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/flash" />
+    <rdf:li resource="http://del.icio.us/tag/conversion" />
+    <rdf:li resource="http://del.icio.us/tag/convert" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.universetoday.com/2008/06/12/where-are-the-sunspots-are-we-in-for-a-quiet-solar-cycle/">
+<title>Where are the Sunspots? Are we in for a Quiet Solar Cycle? | Universe Today</title>
+<link>http://www.universetoday.com/2008/06/12/where-are-the-sunspots-are-we-in-for-a-quiet-solar-cycle/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-13T23:23:21Z</dc:date>
+<dc:subject>climate climatechange earth science solar sun sunspots</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sun" />
+    <rdf:li resource="http://del.icio.us/tag/climate" />
+    <rdf:li resource="http://del.icio.us/tag/climatechange" />
+    <rdf:li resource="http://del.icio.us/tag/sunspots" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/solar" />
+    <rdf:li resource="http://del.icio.us/tag/earth" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.viperchill.com/social-media-traffic/">
+<title>How to Get Traffic from the top Social Media Sites</title>
+<link>http://www.viperchill.com/social-media-traffic/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-13T20:50:42Z</dc:date>
+<dc:subject>bloggers blogging delicious digg facebook marketing media social traffic twitter</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/facebook" />
+    <rdf:li resource="http://del.icio.us/tag/traffic" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/twitter" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/bloggers" />
+    <rdf:li resource="http://del.icio.us/tag/digg" />
+    <rdf:li resource="http://del.icio.us/tag/blogging" />
+    <rdf:li resource="http://del.icio.us/tag/delicious" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jontangerine.com/silo/typography/p/">
+<title>12 Examples of Paragraph Typography &#x2014; Jon Tan &#x9673;</title>
+<link>http://jontangerine.com/silo/typography/p/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-13T16:27:07Z</dc:date>
+<dc:subject>css design paragraph reference resources type typography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/resources" />
+    <rdf:li resource="http://del.icio.us/tag/paragraph" />
+    <rdf:li resource="http://del.icio.us/tag/type" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://memritv.org/">
+<title>MEMRI TV</title>
+<link>http://memritv.org/</link>
+<description></description>
+<dc:creator>joeaston</dc:creator>
+<dc:date>2008-06-12T17:32:59Z</dc:date>
+<dc:subject>arab hate islam media middleeast news politics religion tv video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/islam" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/media" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/middleeast" />
+    <rdf:li resource="http://del.icio.us/tag/arab" />
+    <rdf:li resource="http://del.icio.us/tag/hate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

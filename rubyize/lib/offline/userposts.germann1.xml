@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/germann1">
+<title>del.icio.us/germann1</title>
+<link>http://del.icio.us/germann1</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pinguy.infogami.com/blog/210ee" />
+  <rdf:li rdf:resource="http://us.mg1.mail.yahoo.com/dc/launch?.rand=20mbpfu0p7t0u" />
+  <rdf:li rdf:resource="http://lifehacker.com/396312/power-users-guide-to-firefox-3" />
+  <rdf:li rdf:resource="http://lifehacker.com/339474/top-10-obscure-google-search-tricks" />
+  <rdf:li rdf:resource="http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal" />
+  <rdf:li rdf:resource="http://lifehacker.com/397792/five-best-windows-maintenance-tools" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/" />
+  <rdf:li rdf:resource="http://www.savvydaddy.com/" />
+  <rdf:li rdf:resource="http://www.directindustry.com/" />
+  <rdf:li rdf:resource="http://wordle.net/gallery/wrdl/10287/Thermal_Recovery_Systems" />
+  <rdf:li rdf:resource="http://wordle.net/create" />
+  <rdf:li rdf:resource="http://www.mail2web.com/" />
+  <rdf:li rdf:resource="http://public.web.cern.ch/public/" />
+  <rdf:li rdf:resource="http://www.americancornhole.org/cornhole-rules-equipment.shtml" />
+  <rdf:li rdf:resource="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/" />
+  <rdf:li rdf:resource="http://www.thermalrecovery.com/" />
+  <rdf:li rdf:resource="http://www.shiptool.com/" />
+  <rdf:li rdf:resource="http://www.netvibes.com/#General" />
+  <rdf:li rdf:resource="http://www.hospitalinfection.org/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/outlook-tip/move-email-from-outlook-to-gmail-334158.php" />
+  <rdf:li rdf:resource="http://www.flickr.com/account" />
+  <rdf:li rdf:resource="http://en.wikibooks.org/wiki/How_to_use_a_Motorola_DVR/Programming_the_Remote#Add_30-Second_Skip" />
+  <rdf:li rdf:resource="http://www.racingradios.com/index.asp?PAGEACTION=CONTACTUS" />
+  <rdf:li rdf:resource="http://www.track-scan.com/rental.php" />
+  <rdf:li rdf:resource="http://www.xfiles.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/" />
+  <rdf:li rdf:resource="http://www.netvibes.com/#hvac" />
+  <rdf:li rdf:resource="http://www.text2mindmap.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pinguy.infogami.com/blog/210ee">
+<title>What to Install After a Fresh XP Install (PinGUY's Website)</title>
+<link>http://pinguy.infogami.com/blog/210ee</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-06T12:54:48Z</dc:date>
+<dc:subject>freeware windows xp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xp" />
+    <rdf:li resource="http://del.icio.us/tag/freeware" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://us.mg1.mail.yahoo.com/dc/launch?.rand=20mbpfu0p7t0u">
+<title>(0 unread) Yahoo! Mail, cdgermann</title>
+<link>http://us.mg1.mail.yahoo.com/dc/launch?.rand=20mbpfu0p7t0u</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-06T11:01:30Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://lifehacker.com/396312/power-users-guide-to-firefox-3">
+<title>Firefox 3: Power User's Guide to Firefox 3</title>
+<link>http://lifehacker.com/396312/power-users-guide-to-firefox-3</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-05T17:27:06Z</dc:date>
+<dc:subject>firefox lifehacker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/339474/top-10-obscure-google-search-tricks">
+<title>Lifehacker Top 10: Top 10 Obscure Google Search Tricks</title>
+<link>http://lifehacker.com/339474/top-10-obscure-google-search-tricks</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-05T17:25:48Z</dc:date>
+<dc:subject>gmail lifehacker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal">
+<title>Featured User Style: Google Calendar Redesigned Facelifts GCal</title>
+<link>http://lifehacker.com/397801/google-calendar-redesigned-facelifts-gcal</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-05T14:53:03Z</dc:date>
+<dc:subject>calendar firefox google lifehacker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/calendar" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/397792/five-best-windows-maintenance-tools">
+<title>Hive Five: Five Best Windows Maintenance Tools</title>
+<link>http://lifehacker.com/397792/five-best-windows-maintenance-tools</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-03T20:10:00Z</dc:date>
+<dc:subject>cleanup maintenance tools windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+    <rdf:li resource="http://del.icio.us/tag/maintenance" />
+    <rdf:li resource="http://del.icio.us/tag/cleanup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/">
+<title>The Simple Dollar &#xBB; A Clever Trick for Automatically Finding Deals You Want at Amazon</title>
+<link>http://www.thesimpledollar.com/2008/06/30/a-clever-trick-for-automatically-finding-deals-you-want-at-amazon/</link>
+<description>http://rssfeeds.s3.amazonaws.com/goldbox</description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-02T14:31:40Z</dc:date>
+<dc:subject>amazon.com bargains rss shopping</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shopping" />
+    <rdf:li resource="http://del.icio.us/tag/bargains" />
+    <rdf:li resource="http://del.icio.us/tag/rss" />
+    <rdf:li resource="http://del.icio.us/tag/amazon.com" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.savvydaddy.com/">
+<title>Savvy Daddy | Fueling your passion to be a great dad, father and parent</title>
+<link>http://www.savvydaddy.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-01T23:39:28Z</dc:date>
+<dc:subject>dad parenting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/parenting" />
+    <rdf:li resource="http://del.icio.us/tag/dad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.directindustry.com/">
+<title>DirectIndustry - The Virtual Industrial Exhibition</title>
+<link>http://www.directindustry.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-07-01T14:40:19Z</dc:date>
+<dc:subject>suppliers</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/suppliers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/gallery/wrdl/10287/Thermal_Recovery_Systems">
+<title>Wordle - Thermal Recovery Systems</title>
+<link>http://wordle.net/gallery/wrdl/10287/Thermal_Recovery_Systems</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-23T01:18:58Z</dc:date>
+<dc:subject>HVAC, Recovery Systems Thermal</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HVAC%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Thermal" />
+    <rdf:li resource="http://del.icio.us/tag/Recovery" />
+    <rdf:li resource="http://del.icio.us/tag/Systems" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wordle.net/create">
+<title>Wordle - Create</title>
+<link>http://wordle.net/create</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-23T01:02:29Z</dc:date>
+<dc:subject>design visualization words</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/visualization" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/words" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mail2web.com/">
+<title>mail2web.com - Pick Up Your Email</title>
+<link>http://www.mail2web.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-22T18:21:04Z</dc:date>
+<dc:subject>email tools webmail</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/email" />
+    <rdf:li resource="http://del.icio.us/tag/webmail" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://public.web.cern.ch/public/">
+<title>CERN - European Organization for Nuclear Research</title>
+<link>http://public.web.cern.ch/public/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-22T13:52:24Z</dc:date>
+<dc:subject>cern physics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/cern" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.americancornhole.org/cornhole-rules-equipment.shtml">
+<title>Official Cornhole Equipment Boards and Bags - Sport of Cornhole - ACO</title>
+<link>http://www.americancornhole.org/cornhole-rules-equipment.shtml</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-22T13:39:39Z</dc:date>
+<dc:subject>Cornhole</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Cornhole" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/">
+<title>57 Useful Google Tools You&#x2019;ve Never Heard Of | College@Home</title>
+<link>http://www.collegeathome.com/blog/2008/06/18/57-useful-google-tools-youve-never-heard-of/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-19T23:55:52Z</dc:date>
+<dc:subject>gmail google lifehacker tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gmail" />
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thermalrecovery.com/">
+<title>Thermal Recovery Systems [TRS]</title>
+<link>http://www.thermalrecovery.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-19T23:53:11Z</dc:date>
+<dc:subject>Air Containment Controls,Filtration, HVAC, Handling, Humidifiers, Laboratory</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/HVAC%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Humidifiers%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Air" />
+    <rdf:li resource="http://del.icio.us/tag/Handling%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Laboratory" />
+    <rdf:li resource="http://del.icio.us/tag/Controls%2CFiltration%2C" />
+    <rdf:li resource="http://del.icio.us/tag/Containment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shiptool.com/">
+<title>Shiptool, every carrier for every user</title>
+<link>http://www.shiptool.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-19T23:49:57Z</dc:date>
+<dc:subject>shipping tool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shipping" />
+    <rdf:li resource="http://del.icio.us/tag/tool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netvibes.com/#General">
+<title>Thermal Recovery Systems (177)</title>
+<link>http://www.netvibes.com/#General</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-19T17:25:37Z</dc:date>
+<dc:subject>firefox:toolbar netvibes social tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netvibes" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:toolbar" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hospitalinfection.org/">
+<title>Resources and information to reduce hospital infections</title>
+<link>http://www.hospitalinfection.org/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-19T13:17:06Z</dc:date>
+<dc:subject>health healthcare hospital infection</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/hospital" />
+    <rdf:li resource="http://del.icio.us/tag/infection" />
+    <rdf:li resource="http://del.icio.us/tag/healthcare" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/outlook-tip/move-email-from-outlook-to-gmail-334158.php">
+<title>Outlook Tip: Move Email from Outlook to Gmail</title>
+<link>http://lifehacker.com/software/outlook-tip/move-email-from-outlook-to-gmail-334158.php</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-13T12:36:34Z</dc:date>
+<dc:subject>Gmail howto imap outlook</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/Gmail" />
+    <rdf:li resource="http://del.icio.us/tag/outlook" />
+    <rdf:li resource="http://del.icio.us/tag/imap" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.flickr.com/account">
+<title>Flickr: Your Account</title>
+<link>http://www.flickr.com/account</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-11T12:26:16Z</dc:date>
+<dc:subject>Pictures flickr personal photos social</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/flickr" />
+    <rdf:li resource="http://del.icio.us/tag/photos" />
+    <rdf:li resource="http://del.icio.us/tag/Pictures" />
+    <rdf:li resource="http://del.icio.us/tag/personal" />
+    <rdf:li resource="http://del.icio.us/tag/social" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikibooks.org/wiki/How_to_use_a_Motorola_DVR/Programming_the_Remote#Add_30-Second_Skip">
+<title>How to use a Motorola DVR/Programming the Remote - Wikibooks, collection of open-content textbooks</title>
+<link>http://en.wikibooks.org/wiki/How_to_use_a_Motorola_DVR/Programming_the_Remote#Add_30-Second_Skip</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-05T01:24:28Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.racingradios.com/index.asp?PAGEACTION=CONTACTUS">
+<title>Racing Radios - The Leader in Racing Communications Worldwide -</title>
+<link>http://www.racingradios.com/index.asp?PAGEACTION=CONTACTUS</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-04T00:21:53Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.track-scan.com/rental.php">
+<title>Track Scan Racing Scanners</title>
+<link>http://www.track-scan.com/rental.php</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-04T00:15:51Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.xfiles.com/">
+<title>THE X-FILES: I WANT TO BELIEVE</title>
+<link>http://www.xfiles.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-03T01:17:43Z</dc:date>
+<dc:subject>movies</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/movies" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/">
+<title>Lifehacker, tips and downloads for getting things done</title>
+<link>http://lifehacker.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-06-03T00:56:29Z</dc:date>
+<dc:subject>Productivity Tech howto lifehacker technology tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lifehacker" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+    <rdf:li resource="http://del.icio.us/tag/Productivity" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/Tech" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netvibes.com/#hvac">
+<title>Net Vibes</title>
+<link>http://www.netvibes.com/#hvac</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-05-31T14:36:54Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.text2mindmap.com/">
+<title>Text 2 Mind Map</title>
+<link>http://www.text2mindmap.com/</link>
+<description></description>
+<dc:creator>germann1</dc:creator>
+<dc:date>2008-05-31T14:36:08Z</dc:date>
+<dc:subject>mindmap tools</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mindmap" />
+    <rdf:li resource="http://del.icio.us/tag/tools" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

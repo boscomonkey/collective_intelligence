@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/777php">
+<title>del.icio.us/777php</title>
+<link>http://del.icio.us/777php</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://computing.southern.edu/halterman/OOPJ/index.html" />
+  <rdf:li rdf:resource="http://fiveprime.org/flickr_hvmnd.cgi" />
+  <rdf:li rdf:resource="http://yuiblog.com/blog/2007/04/11/performance-research-part-4/" />
+  <rdf:li rdf:resource="http://www.xubor.com/" />
+  <rdf:li rdf:resource="http://www.brickgun.com/" />
+  <rdf:li rdf:resource="http://www.blurb.com/create/book/photobook" />
+  <rdf:li rdf:resource="http://sf.curbed.com/" />
+  <rdf:li rdf:resource="http://photography-on-the.net/forum/showthread.php?t=171657" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2008/03/10/35-fantastic-hdr-pictures/" />
+  <rdf:li rdf:resource="http://www.ppmag.com/web-exclusives/2007/12/what-is-a-histogram-and-how-do.html" />
+  <rdf:li rdf:resource="http://www.lightroomkillertips.com/" />
+  <rdf:li rdf:resource="http://tutorialblog.org/hdr-tutorials-roundup/" />
+  <rdf:li rdf:resource="http://digital-photography-school.com/blog/11-surefire-tips-for-improving-your-landscape-photography/" />
+  <rdf:li rdf:resource="http://blog.epicedits.com/2007/11/07/87-great-photography-blogs-and-feeds/" />
+  <rdf:li rdf:resource="http://the-digital-picture.com/" />
+  <rdf:li rdf:resource="http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/" />
+  <rdf:li rdf:resource="http://www.mapmyride.com/" />
+  <rdf:li rdf:resource="http://www.velonews.com/index.html" />
+  <rdf:li rdf:resource="http://matthewjamestaylor.com/blog/perfect-3-column.htm" />
+  <rdf:li rdf:resource="http://www.luminous-landscape.com/" />
+  <rdf:li rdf:resource="http://planetneil.com/tangents/flash-photography-techniques/" />
+  <rdf:li rdf:resource="http://www.strobist.blogspot.com/" />
+  <rdf:li rdf:resource="http://imagexworkshop.com/" />
+  <rdf:li rdf:resource="http://www.macspecialist.org/content/articles/essential_apps/" />
+  <rdf:li rdf:resource="http://nothickmanuals.info/doku.php?id=opensourcemac" />
+  <rdf:li rdf:resource="http://bestmacsoftware.org/" />
+  <rdf:li rdf:resource="http://cre.ations.net/blog/post/tether-your-iphone" />
+  <rdf:li rdf:resource="http://weightweenies.starbike.com/listings.php" />
+  <rdf:li rdf:resource="http://www.rickdenney.com/bokeh_test.htm" />
+  <rdf:li rdf:resource="http://www.luminous-landscape.com/essays/bokeh.shtml" />
+  <rdf:li rdf:resource="http://fluidapp.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://computing.southern.edu/halterman/OOPJ/index.html">
+<title>Object-oriented Programming in Java</title>
+<link>http://computing.southern.edu/halterman/OOPJ/index.html</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-07-06T11:07:02Z</dc:date>
+<dc:subject>java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fiveprime.org/flickr_hvmnd.cgi">
+<title>The World's Best Photos on 2008-07-02. Flickr Hive Mind</title>
+<link>http://fiveprime.org/flickr_hvmnd.cgi</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-07-04T06:51:12Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yuiblog.com/blog/2007/04/11/performance-research-part-4/">
+<title>Performance Research, Part 4: Maximizing Parallel Downloads in the Carpool Lane &#xBB; Yahoo! User Interface Blog</title>
+<link>http://yuiblog.com/blog/2007/04/11/performance-research-part-4/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-30T18:17:04Z</dc:date>
+<dc:subject>WebDevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/WebDevelopment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xubor.com/">
+<title>www.XUBOR.COM - Xubor's Thriller Automatic Instructions</title>
+<link>http://www.xubor.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-30T07:25:18Z</dc:date>
+<dc:subject>lego</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lego" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brickgun.com/">
+<title>BrickGun - The Coolest Lego Weapons in the World</title>
+<link>http://www.brickgun.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-30T07:24:58Z</dc:date>
+<dc:subject>lego</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lego" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blurb.com/create/book/photobook">
+<title>Photo Books | Blurb</title>
+<link>http://www.blurb.com/create/book/photobook</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-28T06:25:27Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sf.curbed.com/">
+<title>Curbed SF : The San Francisco Neighborhoods and Real Estate Blog</title>
+<link>http://sf.curbed.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-28T05:10:34Z</dc:date>
+<dc:subject>realestate</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/realestate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://photography-on-the.net/forum/showthread.php?t=171657">
+<title>FLASH PHOTOGRAPHY 101 &#x2013; A BEGINNER&#x2019;S GUIDE - Canon Digital Photography Forums</title>
+<link>http://photography-on-the.net/forum/showthread.php?t=171657</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-27T00:30:10Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2008/03/10/35-fantastic-hdr-pictures/">
+<title>35 Fantastic HDR Pictures | Monday Inspiration | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2008/03/10/35-fantastic-hdr-pictures/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T06:43:55Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ppmag.com/web-exclusives/2007/12/what-is-a-histogram-and-how-do.html">
+<title>How To Read and Understand a Histogram (Professional Photographer Magazine Web Exclusives)</title>
+<link>http://www.ppmag.com/web-exclusives/2007/12/what-is-a-histogram-and-how-do.html</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T06:39:59Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lightroomkillertips.com/">
+<title>Adobe Photoshop Lightroom Killer Tips</title>
+<link>http://www.lightroomkillertips.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T06:30:55Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutorialblog.org/hdr-tutorials-roundup/">
+<title>&#xBB; HDR Tutorials Roundup</title>
+<link>http://tutorialblog.org/hdr-tutorials-roundup/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T06:21:17Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://digital-photography-school.com/blog/11-surefire-tips-for-improving-your-landscape-photography/">
+<title>11 Surefire Tips for Improving Your Landscape Photography</title>
+<link>http://digital-photography-school.com/blog/11-surefire-tips-for-improving-your-landscape-photography/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T05:54:14Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.epicedits.com/2007/11/07/87-great-photography-blogs-and-feeds/">
+<title>87 Great Photography Blogs and Feeds</title>
+<link>http://blog.epicedits.com/2007/11/07/87-great-photography-blogs-and-feeds/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T05:52:15Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://the-digital-picture.com/">
+<title>Canon Digital SLR Camera and Lens Reviews at The-Digital-Picture.com</title>
+<link>http://the-digital-picture.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T05:41:12Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/">
+<title>60 Photography Links You Can&#x2019;t Live Without at CameraPorn</title>
+<link>http://www.cameraporn.net/2008/05/12/60-photography-links-you-cant-live-without/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-20T05:23:40Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mapmyride.com/">
+<title>MapMyRide.com - Map your Cycling and Mountain Biking Routes. Topo Maps, Elevation Profiles, GPS Support.</title>
+<link>http://www.mapmyride.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-18T17:43:35Z</dc:date>
+<dc:subject>cycling</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cycling" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.velonews.com/index.html">
+<title>VeloNews Interactive | The Journal of Competitive Cycling.</title>
+<link>http://www.velonews.com/index.html</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-18T17:01:40Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://matthewjamestaylor.com/blog/perfect-3-column.htm">
+<title>The Perfect 3 Column Liquid Layout: No CSS hacks. SEO friendly. iPhone compatible.</title>
+<link>http://matthewjamestaylor.com/blog/perfect-3-column.htm</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-18T16:48:17Z</dc:date>
+<dc:subject>css webdevelopment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/webdevelopment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.luminous-landscape.com/">
+<title>The Luminous Landscape</title>
+<link>http://www.luminous-landscape.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-17T08:03:44Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://planetneil.com/tangents/flash-photography-techniques/">
+<title>planet neil - tangents &#xBB; flash photography techniques</title>
+<link>http://planetneil.com/tangents/flash-photography-techniques/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-17T07:50:46Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.strobist.blogspot.com/">
+<title>Strobist</title>
+<link>http://www.strobist.blogspot.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-17T07:50:36Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://imagexworkshop.com/">
+<title>Image X 08</title>
+<link>http://imagexworkshop.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-17T06:51:46Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.macspecialist.org/content/articles/essential_apps/">
+<title>Essential Mac OS X applications</title>
+<link>http://www.macspecialist.org/content/articles/essential_apps/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-15T09:26:40Z</dc:date>
+<dc:subject>apple osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nothickmanuals.info/doku.php?id=opensourcemac">
+<title>opensourcemac [No Thick Manuals]</title>
+<link>http://nothickmanuals.info/doku.php?id=opensourcemac</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-15T09:25:41Z</dc:date>
+<dc:subject>apple osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bestmacsoftware.org/">
+<title>Best Mac Software.org - The Best Software for Mac OS X (OSX)</title>
+<link>http://bestmacsoftware.org/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-15T08:28:43Z</dc:date>
+<dc:subject>mac osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+    <rdf:li resource="http://del.icio.us/tag/mac" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cre.ations.net/blog/post/tether-your-iphone">
+<title>cre.ations.net - Blog entry: Tether your iPhone: EDGE internet on your laptop</title>
+<link>http://cre.ations.net/blog/post/tether-your-iphone</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-14T20:46:35Z</dc:date>
+<dc:subject>iPhone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iPhone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weightweenies.starbike.com/listings.php">
+<title>Weight Weenies - Listings Index</title>
+<link>http://weightweenies.starbike.com/listings.php</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-12T18:17:45Z</dc:date>
+<dc:subject></dc:subject>
+</item>
+
+<item rdf:about="http://www.rickdenney.com/bokeh_test.htm">
+<title>Bokeh Test</title>
+<link>http://www.rickdenney.com/bokeh_test.htm</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-12T08:48:58Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.luminous-landscape.com/essays/bokeh.shtml">
+<title>bokeh</title>
+<link>http://www.luminous-landscape.com/essays/bokeh.shtml</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-12T08:48:46Z</dc:date>
+<dc:subject>photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fluidapp.com/">
+<title>Fluid - Free Site Specific Browser for Mac OS X Leopard</title>
+<link>http://fluidapp.com/</link>
+<description></description>
+<dc:creator>777php</dc:creator>
+<dc:date>2008-06-12T05:03:36Z</dc:date>
+<dc:subject>development osx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/osx" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/lurcher10">
+<title>del.icio.us/lurcher10</title>
+<link>http://del.icio.us/lurcher10</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://richarddawkins.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description></description>
+<dc:creator>lurcher10</dc:creator>
+<dc:date>2008-07-06T11:37:20Z</dc:date>
+<dc:subject>whitenoise</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/whitenoise" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description></description>
+<dc:creator>lurcher10</dc:creator>
+<dc:date>2008-07-06T11:19:28Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://richarddawkins.net/">
+<title>RichardDawkins.net - The Official Richard Dawkins Website</title>
+<link>http://richarddawkins.net/</link>
+<description></description>
+<dc:creator>lurcher10</dc:creator>
+<dc:date>2007-09-05T10:26:23Z</dc:date>
+<dc:subject>atheism firefox:bookmarks imported</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/imported" />
+    <rdf:li resource="http://del.icio.us/tag/firefox:bookmarks" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

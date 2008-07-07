@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/cacophony">
+<title>del.icio.us/cacophony</title>
+<link>http://del.icio.us/cacophony</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sciencenews.org/view/generic/id/33747/title/Journey_to_the_center_of_the_brain" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story" />
+  <rdf:li rdf:resource="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg" />
+  <rdf:li rdf:resource="http://www.cabel.name/2008/02/fancyzoom-10.html" />
+  <rdf:li rdf:resource="http://www.cabel.name/2008/07/yay-fireworks.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2008/07/05/business/05nocera.html?_r=2&#x26;hp&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php" />
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.youtube.com/watch?v=RpP_BKPa5Oc" />
+  <rdf:li rdf:resource="http://blog.wired.com/cars/2008/07/laugh-at-high-g.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Mega_Man_9" />
+  <rdf:li rdf:resource="http://www.streetsblog.org/2008/02/06/new-york-can-do-better-than-the-new-fourth-avenue/" />
+  <rdf:li rdf:resource="http://thinkprogress.org/2008/07/02/bush-porn/" />
+  <rdf:li rdf:resource="http://www.brainmysteries.com/research/Team_finds_language_without_numbers.asp" />
+  <rdf:li rdf:resource="http://query.nytimes.com/gst/fullpage.html?res=9401E2DC123FF937A25753C1A9679C8B63" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/07/judge-orders-yo.html" />
+  <rdf:li rdf:resource="http://simplynoise.com/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_problems_solved_by_Macgyver" />
+  <rdf:li rdf:resource="http://laist.com/2008/07/02/sherman_oaks_restaurant_news_pizza.php#more" />
+  <rdf:li rdf:resource="http://gocitykids.parentsconnect.com/attraction/didio-s-italian-ice-1305-montana-avenue-santa-monica-ca-90403-us" />
+  <rdf:li rdf:resource="http://kotaku.com/5021416/square-enix-confirms-chrono-trigger-ds" />
+  <rdf:li rdf:resource="http://psilan.livejournal.com/53900.html#cutid1" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html" />
+  <rdf:li rdf:resource="http://www.dailymail.co.uk/news/article-1031062/Faceless-aliens-spotted-crowd-Wimbledon.html" />
+  <rdf:li rdf:resource="http://www.nerdcore.de/wp/2008/06/30/how-to-confuse-an-idiot/" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html" />
+  <rdf:li rdf:resource="http://forum.lolcode.com/viewtopic.php?id=51" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/health/mg19826624.200-is-fructose-fuelling-the-obesity-epidemic.html" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/local/la-me-fireball2-2008jul02,0,5341752.story?track=rss" />
+  <rdf:li rdf:resource="http://www.npr.org/templates/story/story.php?storyId=91943477&#x26;ft=1&#x26;f=100" />
+  <rdf:li rdf:resource="http://www.thinkvitamin.com/features/biz/working-with-web-developers-in-india-why-whom-and-how" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://sciencenews.org/view/generic/id/33747/title/Journey_to_the_center_of_the_brain">
+<title>Science News / Journey To The Center Of The Brain</title>
+<link>http://sciencenews.org/view/generic/id/33747/title/Journey_to_the_center_of_the_brain</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-06T06:39:44Z</dc:date>
+<dc:subject>brain toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story">
+<title>Mysteries of time, and the multiverse - Los Angeles Times</title>
+<link>http://www.latimes.com/news/education/la-sci-carroll28-2008jun28,0,6029497,full.story</link>
+<description>I just read the Scientific American article about ten minutes ago. So I'm bookmarking this for later.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-06T05:44:50Z</dc:date>
+<dc:subject>multiverse physics science toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/multiverse" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg">
+<title>Particle_chart.jpg (JPEG Image, 3000x2275 pixels)</title>
+<link>http://www.astro.wisc.edu/~heroux/images/Particle_chart.jpg</link>
+<description>Particle man, particle man. Particle man meets incomprehensible particle chart. They have a fight, particle wins, particle chart.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-06T05:43:47Z</dc:date>
+<dc:subject>diagram physics reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/diagram" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cabel.name/2008/02/fancyzoom-10.html">
+<title>cabel.name: FancyZoom 1.1</title>
+<link>http://www.cabel.name/2008/02/fancyzoom-10.html</link>
+<description>This is what I wanted...</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-05T19:24:25Z</dc:date>
+<dc:subject>ajax animation work</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/animation" />
+    <rdf:li resource="http://del.icio.us/tag/work" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cabel.name/2008/07/yay-fireworks.html">
+<title>cabel.name: Yay! Fireworks!</title>
+<link>http://www.cabel.name/2008/07/yay-fireworks.html</link>
+<description>Video at the end is awesome.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-05T16:34:18Z</dc:date>
+<dc:subject>america fireworks funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/america" />
+    <rdf:li resource="http://del.icio.us/tag/fireworks" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2008/07/05/business/05nocera.html?_r=2&#x26;hp&#x26;oref=slogin&#x26;oref=slogin">
+<title>Talking Business - On Day Care, Google Makes a Rare Fumble - NYTimes.com</title>
+<link>http://www.nytimes.com/2008/07/05/business/05nocera.html?_r=2&#x26;hp&#x26;oref=slogin&#x26;oref=slogin</link>
+<description>A view inside Google.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-05T16:08:58Z</dc:date>
+<dc:subject>google management</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/management" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php">
+<title>Brand New: Less Hyphen, More Burst for Walmart</title>
+<link>http://www.underconsideration.com/brandnew/archives/less_hyphen_more_burst_for_wal.php</link>
+<description>What, really?</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-05T16:01:55Z</dc:date>
+<dc:subject>business marketing typography walmart weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/walmart" />
+    <rdf:li resource="http://del.icio.us/tag/typography" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+    <rdf:li resource="http://del.icio.us/tag/marketing" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description>Print this</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-04T21:37:24Z</dc:date>
+<dc:subject>cs development reference toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/cs" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/watch?v=RpP_BKPa5Oc">
+<title>YouTube - The Last Days Of Dr. Wily - OLD RICH PEOPLE</title>
+<link>http://www.youtube.com/watch?v=RpP_BKPa5Oc</link>
+<description>OMG, hysterical.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-04T16:48:00Z</dc:date>
+<dc:subject>awesome megaman video videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/megaman" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/cars/2008/07/laugh-at-high-g.html">
+<title>Laugh at High Gas Prices With a 282-MPG VW | Autopia from Wired.com</title>
+<link>http://blog.wired.com/cars/2008/07/laugh-at-high-g.html</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T23:47:52Z</dc:date>
+<dc:subject>cars transportation</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cars" />
+    <rdf:li resource="http://del.icio.us/tag/transportation" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Mega_Man_9">
+<title>Mega Man 9 - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Mega_Man_9</link>
+<description>YEAH BABY 8 BIT REVIVAL. Now where's Super Mario Bros. 4???</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T22:44:57Z</dc:date>
+<dc:subject>awesome megaman videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/megaman" />
+    <rdf:li resource="http://del.icio.us/tag/awesome" />
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.streetsblog.org/2008/02/06/new-york-can-do-better-than-the-new-fourth-avenue/">
+<title>Streetsblog &#xBB; New York Can Do Better Than the &#x201C;New Fourth Avenue&#x201D;</title>
+<link>http://www.streetsblog.org/2008/02/06/new-york-can-do-better-than-the-new-fourth-avenue/</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T22:19:41Z</dc:date>
+<dc:subject>brooklyn park.slope toread</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/brooklyn" />
+    <rdf:li resource="http://del.icio.us/tag/park.slope" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkprogress.org/2008/07/02/bush-porn/">
+<title>Think Progress &#xBB; Bush Stimulates The Porn Industry With His Economic Package</title>
+<link>http://thinkprogress.org/2008/07/02/bush-porn/</link>
+<description>Great headline, so I bookmarked it. I might have done &#x26;quot;Bush and Package Stimulate Porn Industry&#x26;quot;, but that's just me.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T19:44:38Z</dc:date>
+<dc:subject>bush funny news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/bush" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.brainmysteries.com/research/Team_finds_language_without_numbers.asp">
+<title>Team finds language without numbers (7/3/2008)</title>
+<link>http://www.brainmysteries.com/research/Team_finds_language_without_numbers.asp</link>
+<description>However, the MIT team decided to add a new twist--they started with 10 objects and asked the tribe members to count down. In that experiment, the tribe members used the word previously thought to mean &#x26;quot;two&#x26;quot; when as many as five or six objects were present</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T18:41:05Z</dc:date>
+<dc:subject>brain language psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/language" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/brain" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://query.nytimes.com/gst/fullpage.html?res=9401E2DC123FF937A25753C1A9679C8B63">
+<title>Fears, Again, of Oil Supplies at Risk - New York Times</title>
+<link>http://query.nytimes.com/gst/fullpage.html?res=9401E2DC123FF937A25753C1A9679C8B63</link>
+<description>An article from October 14, 2001.  &#x26;quot;''[Bin Laden] said at one point that he wants oil to be $144 a barrel' -- about six times what it sells for now.&#x26;quot; It is over that now.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T16:58:10Z</dc:date>
+<dc:subject>economics news oil</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/economics" />
+    <rdf:li resource="http://del.icio.us/tag/oil" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/07/judge-orders-yo.html">
+<title>Judge Orders YouTube to Give All User Histories to Viacom | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/07/judge-orders-yo.html</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T16:55:52Z</dc:date>
+<dc:subject>google wtf youtube</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/youtube" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://simplynoise.com/">
+<title>SimplyNoise.com - The best free white noise generator on the Internet.</title>
+<link>http://simplynoise.com/</link>
+<description>AMAZING</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T03:51:32Z</dc:date>
+<dc:subject>amazing reference sound toread useful</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/amazing" />
+    <rdf:li resource="http://del.icio.us/tag/sound" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/toread" />
+    <rdf:li resource="http://del.icio.us/tag/useful" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_problems_solved_by_Macgyver">
+<title>List of problems solved by MacGyver - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_problems_solved_by_Macgyver</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T01:07:55Z</dc:date>
+<dc:subject>reference tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://laist.com/2008/07/02/sherman_oaks_restaurant_news_pizza.php#more">
+<title>LAist: Sherman Oaks Foodie News: Pizza, Poquito Mas &#x26; Whole Foods</title>
+<link>http://laist.com/2008/07/02/sherman_oaks_restaurant_news_pizza.php#more</link>
+<description>Vitello's Express</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-03T00:07:29Z</dc:date>
+<dc:subject>food la</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/la" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gocitykids.parentsconnect.com/attraction/didio-s-italian-ice-1305-montana-avenue-santa-monica-ca-90403-us">
+<title>DiDio's Italian Ice</title>
+<link>http://gocitykids.parentsconnect.com/attraction/didio-s-italian-ice-1305-montana-avenue-santa-monica-ca-90403-us</link>
+<description>Water Ice in Santa Monica! Chowhound buzz is that it beats Rita's. Take me there</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T20:20:29Z</dc:date>
+<dc:subject>food la</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/la" />
+    <rdf:li resource="http://del.icio.us/tag/food" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kotaku.com/5021416/square-enix-confirms-chrono-trigger-ds">
+<title>Chrono Trigger Ds: Square Enix Confirms Chrono Trigger DS</title>
+<link>http://kotaku.com/5021416/square-enix-confirms-chrono-trigger-ds</link>
+<description>WOO HOO WOO HOO!!!!!!!</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T19:52:12Z</dc:date>
+<dc:subject>videogames</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/videogames" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psilan.livejournal.com/53900.html#cutid1">
+<title>psilan: Some people juggle geese</title>
+<link>http://psilan.livejournal.com/53900.html#cutid1</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T19:26:19Z</dc:date>
+<dc:subject>lj story</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lj" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html">
+<title>How To Lose Belly Fat - Stepcase Lifehack</title>
+<link>http://www.lifehack.org/articles/lifestyle/how-to-lose-belly-fat.html</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T18:59:47Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailymail.co.uk/news/article-1031062/Faceless-aliens-spotted-crowd-Wimbledon.html">
+<title>Faceless 'aliens' spotted in crowd at Wimbledon | Mail Online</title>
+<link>http://www.dailymail.co.uk/news/article-1031062/Faceless-aliens-spotted-crowd-Wimbledon.html</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T18:51:44Z</dc:date>
+<dc:subject>picture weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/picture" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nerdcore.de/wp/2008/06/30/how-to-confuse-an-idiot/">
+<title>How to confuse an Idiot (Hello Reddit!) - Nerdcore</title>
+<link>http://www.nerdcore.de/wp/2008/06/30/how-to-confuse-an-idiot/</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T18:29:37Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html">
+<title>Intel: an expensive many-core future is ahead of us</title>
+<link>http://arstechnica.com/news.ars/post/20080702-intel-an-expensive-many-core-future-is-ahead-of-us.html</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T17:07:21Z</dc:date>
+<dc:subject>intel</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/intel" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.lolcode.com/viewtopic.php?id=51">
+<title>The LOLCODE forum / Proof that LOLCode is turing complete:BrainF*** interpreter in LOLCode</title>
+<link>http://forum.lolcode.com/viewtopic.php?id=51</link>
+<description>Beautiful.</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T17:05:49Z</dc:date>
+<dc:subject>code funny programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/code" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/health/mg19826624.200-is-fructose-fuelling-the-obesity-epidemic.html">
+<title>Is fructose fuelling the obesity epidemic? - health - 26 June 2008 - New Scientist</title>
+<link>http://www.newscientist.com/channel/health/mg19826624.200-is-fructose-fuelling-the-obesity-epidemic.html</link>
+<description>Gosh you THINK?????</description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T17:04:44Z</dc:date>
+<dc:subject>health science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/local/la-me-fireball2-2008jul02,0,5341752.story?track=rss">
+<title>Mystery fireball streaks across sky - Los Angeles Times</title>
+<link>http://www.latimes.com/news/local/la-me-fireball2-2008jul02,0,5341752.story?track=rss</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-02T00:11:25Z</dc:date>
+<dc:subject>la weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/la" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.npr.org/templates/story/story.php?storyId=91943477&#x26;ft=1&#x26;f=100">
+<title>A Bra's Tale: Detour On A Daughter's Trip Abroad : NPR</title>
+<link>http://www.npr.org/templates/story/story.php?storyId=91943477&#x26;ft=1&#x26;f=100</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-01T21:46:02Z</dc:date>
+<dc:subject>funny story</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/story" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkvitamin.com/features/biz/working-with-web-developers-in-india-why-whom-and-how">
+<title>Vitamin Features &#xBB; Working with web developers in India: why, whom, and how</title>
+<link>http://www.thinkvitamin.com/features/biz/working-with-web-developers-in-india-why-whom-and-how</link>
+<description></description>
+<dc:creator>cacophony</dc:creator>
+<dc:date>2008-07-01T21:40:17Z</dc:date>
+<dc:subject>business development outsourcing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/outsourcing" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/business" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>
